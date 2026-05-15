@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Default news image">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.52" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#082f49"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="72%" cy="25%" r="55%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#glow)"/>
+  <g fill="none" stroke="#38bdf8" stroke-opacity="0.28" stroke-width="2">
+    <path d="M110 510 C260 390 340 435 470 310 S760 180 1090 255"/>
+    <path d="M120 565 C290 455 420 500 560 375 S850 250 1090 315"/>
+  </g>
+  <g transform="translate(420 185)">
+    <rect x="0" y="0" width="360" height="240" rx="22" fill="#0b1220" stroke="#38bdf8" stroke-opacity="0.5" stroke-width="3"/>
+    <path d="M55 72h250M55 118h250M55 164h150" stroke="#e2e8f0" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="298" cy="172" r="30" fill="#38bdf8" fill-opacity="0.9"/>
+    <path d="M285 172h26M298 159v26" stroke="#020617" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="500" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="42" font-weight="700" text-anchor="middle">AI News</text>
+  <text x="600" y="548" fill="#93c5fd" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4" text-anchor="middle">GLOBAL SYNTHESIS</text>
+</svg>

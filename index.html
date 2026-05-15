@@ -1,0 +1,1573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News Hub | Smart Global Insights</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-base: #020617;
+            --bg-secondary: #0f172a;
+            --card-bg: rgba(15, 23, 42, 0.6);
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent-primary: #38bdf8;
+            --accent-secondary: #818cf8;
+            --accent-glow: rgba(56, 189, 248, 0.3);
+            --border-light: rgba(255, 255, 255, 0.08);
+            --border-hover: rgba(56, 189, 248, 0.4);
+            --glass-blur: blur(20px);
+            --transition: all 0.35s cubic-bezier(0.25, 1, 0.5, 1);
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-base);
+            color: var(--text-main);
+            min-height: 100vh;
+            background: 
+                radial-gradient(circle at 0% 0%, rgba(56, 189, 248, 0.08), transparent 40%),
+                radial-gradient(circle at 100% 100%, rgba(139, 92, 246, 0.08), transparent 40%),
+                radial-gradient(circle at 50% 50%, rgba(2, 6, 23, 0.9), var(--bg-base)),
+                var(--bg-base);
+            background-attachment: fixed;
+            overflow-x: hidden;
+        }
+
+        h1, h2, h3, h4 {
+            font-family: 'Outfit', sans-serif;
+            margin: 0;
+        }
+
+        /* --- NAVIGATION HEADER --- */
+        header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(2, 6, 23, 0.7);
+            backdrop-filter: var(--glass-blur);
+            -webkit-backdrop-filter: var(--glass-blur);
+            border-bottom: 1px solid var(--border-light);
+            padding: 1rem 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 2rem;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+        }
+
+        .brand-container {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .brand-logo {
+            width: 36px;
+            height: 36px;
+            background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 0 15px var(--accent-glow);
+        }
+
+        .brand-logo svg {
+            color: #fff;
+            width: 20px;
+            height: 20px;
+        }
+
+        .brand-text h1 {
+            font-size: 1.5rem;
+            font-weight: 800;
+            letter-spacing: -0.5px;
+            background: linear-gradient(135deg, #fff, #cbd5e1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            line-height: 1;
+        }
+        
+        .brand-text span {
+            font-size: 0.75rem;
+            color: var(--accent-primary);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* Category Nav */
+        .category-nav {
+            display: flex;
+            gap: 0.5rem;
+            overflow-x: auto;
+            scrollbar-width: none; /* Firefox */
+        }
+        
+        .category-nav::-webkit-scrollbar {
+            display: none; /* Chrome/Safari */
+        }
+
+        .cat-btn {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid transparent;
+            color: var(--text-muted);
+            padding: 0.5rem 1.2rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: var(--transition);
+            white-space: nowrap;
+        }
+
+        .cat-btn:hover {
+            background: rgba(255, 255, 255, 0.08);
+            color: #fff;
+        }
+
+        .cat-btn.active {
+            background: rgba(56, 189, 248, 0.1);
+            border-color: rgba(56, 189, 248, 0.3);
+            color: var(--accent-primary);
+            box-shadow: 0 0 10px rgba(56, 189, 248, 0.1);
+        }
+
+        /* Compact Search */
+        .search-container {
+            position: relative;
+            width: 280px;
+            transition: var(--transition);
+        }
+
+        .search-container:focus-within {
+            width: 350px;
+        }
+
+        .search-container input {
+            width: 100%;
+            padding: 0.8rem 1rem 0.8rem 2.5rem;
+            border-radius: 12px;
+            border: 1px solid var(--border-light);
+            background: rgba(15, 23, 42, 0.8);
+            color: white;
+            font-size: 0.95rem;
+            font-family: inherit;
+            transition: var(--transition);
+            box-sizing: border-box;
+        }
+
+        .search-container input:focus {
+            outline: none;
+            border-color: var(--accent-secondary);
+            background: rgba(15, 23, 42, 1);
+            box-shadow: 0 0 15px rgba(129, 140, 248, 0.2);
+        }
+
+        .search-container svg {
+            position: absolute;
+            left: 14px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            width: 16px;
+            height: 16px;
+            pointer-events: none;
+        }
+
+        .ops-panel {
+            margin-bottom: 1.5rem;
+        }
+
+        .control-surface {
+            background: rgba(15, 23, 42, 0.72);
+            border: 1px solid var(--border-light);
+            border-radius: 12px;
+            padding: 1rem;
+        }
+
+        .status-row, .filter-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            align-items: center;
+        }
+
+        .status-pill, .topic-chip {
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 999px;
+            padding: 0.45rem 0.75rem;
+            color: #cbd5e1;
+            font-size: 0.8rem;
+            background: rgba(255,255,255,0.04);
+        }
+
+        .action-btn, .select-control {
+            border: 1px solid var(--border-light);
+            background: rgba(2, 6, 23, 0.82);
+            color: var(--text-main);
+            border-radius: 8px;
+            padding: 0.65rem 0.8rem;
+            font-family: inherit;
+        }
+
+        .action-btn {
+            cursor: pointer;
+            transition: var(--transition);
+            font-weight: 600;
+        }
+
+        .action-btn:hover {
+            border-color: var(--accent-primary);
+            color: var(--accent-primary);
+        }
+
+        .analytics-panel {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .analytics-surface, .trending-surface {
+            background: rgba(15, 23, 42, 0.72);
+            border: 1px solid var(--border-light);
+            border-radius: 12px;
+            padding: 1rem;
+        }
+
+        .panel-title {
+            font-size: 1rem;
+            color: #e2e8f0;
+            margin-bottom: 0.9rem;
+        }
+
+        .chart-grid {
+            display: grid;
+            gap: 0.65rem;
+        }
+
+        .analytics-columns {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+        }
+
+        .chart-row {
+            display: grid;
+            grid-template-columns: 96px 1fr 36px;
+            gap: 0.65rem;
+            align-items: center;
+            color: #cbd5e1;
+            font-size: 0.8rem;
+        }
+
+        .chart-track {
+            height: 8px;
+            border-radius: 999px;
+            background: rgba(255,255,255,0.08);
+            overflow: hidden;
+        }
+
+        .chart-fill {
+            height: 100%;
+            border-radius: inherit;
+            background: linear-gradient(90deg, var(--accent-primary), #34d399);
+        }
+
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 0.65rem;
+            margin-top: 0.9rem;
+        }
+
+        .kpi-box {
+            background: rgba(2, 6, 23, 0.55);
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 8px;
+            padding: 0.7rem;
+        }
+
+        .kpi-label {
+            color: var(--text-muted);
+            font-size: 0.68rem;
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+
+        .kpi-value {
+            color: #f8fafc;
+            font-size: 1.25rem;
+            font-weight: 800;
+            margin-top: 0.2rem;
+        }
+
+        .trending-list {
+            display: grid;
+            gap: 0.65rem;
+        }
+
+        .trending-item {
+            display: grid;
+            grid-template-columns: auto 1fr auto;
+            gap: 0.7rem;
+            align-items: start;
+            width: 100%;
+            border: 0;
+            background: transparent;
+            text-align: left;
+            font-family: inherit;
+            cursor: pointer;
+            padding-bottom: 0.65rem;
+            border-bottom: 1px solid rgba(255,255,255,0.06);
+            color: #cbd5e1;
+        }
+
+        .trending-item:hover .trend-title {
+            color: var(--accent-primary);
+        }
+
+        .trend-rank {
+            width: 28px;
+            height: 28px;
+            border-radius: 8px;
+            display: grid;
+            place-items: center;
+            background: rgba(56, 189, 248, 0.14);
+            color: var(--accent-primary);
+            font-weight: 800;
+            font-size: 0.8rem;
+        }
+
+        .trend-title {
+            color: #f8fafc;
+            font-weight: 700;
+            font-size: 0.9rem;
+            line-height: 1.35;
+        }
+
+        .trend-meta {
+            color: var(--text-muted);
+            font-size: 0.75rem;
+            margin-top: 0.25rem;
+        }
+
+        .mini-chart-title {
+            color: var(--text-muted);
+            font-size: 0.72rem;
+            text-transform: uppercase;
+            font-weight: 800;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.55rem;
+        }
+
+        .topic-strip {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin: 0 0 1.5rem;
+        }
+
+        /* --- MAIN CONTENT GRID --- */
+        .main-wrapper {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 2.5rem 2rem;
+        }
+        
+        .section-title {
+            margin-bottom: 2rem;
+            font-size: 1.8rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .section-title::before {
+            content: '';
+            display: inline-block;
+            width: 8px;
+            height: 24px;
+            background: var(--accent-primary);
+            border-radius: 4px;
+            box-shadow: 0 0 10px var(--accent-glow);
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 2rem;
+            align-items: start;
+        }
+
+        /* --- PREMIUM CARD DESIGN --- */
+        .card {
+            background: linear-gradient(180deg, rgba(30, 41, 59, 0.7) 0%, rgba(15, 23, 42, 0.8) 100%);
+            border: 1px solid var(--border-light);
+            border-radius: 20px;
+            overflow: hidden;
+            transition: var(--transition);
+            display: flex;
+            flex-direction: column;
+            backdrop-filter: var(--glass-blur);
+            -webkit-backdrop-filter: var(--glass-blur);
+            box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+            animation: slideUp 0.6s ease-out backwards;
+            position: relative;
+        }
+
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(30px) scale(0.98); }
+            to { opacity: 1; transform: translateY(0) scale(1); }
+        }
+
+        .card:hover {
+            transform: translateY(-6px);
+            border-color: var(--border-hover);
+            box-shadow: 0 20px 40px -15px rgba(0,0,0,0.8), 0 0 20px -5px var(--accent-glow);
+        }
+
+        .card-header {
+            position: relative;
+            width: 100%;
+            height: 200px;
+            overflow: hidden;
+            background: var(--bg-secondary);
+        }
+
+        .card-header img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+        }
+
+        .card:hover .card-header img {
+            transform: scale(1.05);
+        }
+        
+        .card-header::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to top, rgba(2, 6, 23, 1) 0%, transparent 60%);
+        }
+
+        /* Top Actions overlay (Bookmark, Share) */
+        .card-top-actions {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            display: flex;
+            gap: 0.5rem;
+            z-index: 10;
+        }
+
+        .icon-btn {
+            background: rgba(0, 0, 0, 0.4);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #fff;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .icon-btn:hover {
+            background: var(--accent-primary);
+            color: #000;
+            border-color: var(--accent-primary);
+            transform: scale(1.1);
+        }
+        
+        .icon-btn.saved {
+            background: var(--accent-primary);
+            color: #000;
+            border-color: var(--accent-primary);
+        }
+
+        .domain-badge {
+            position: absolute;
+            top: 1rem;
+            left: 1rem;
+            background: rgba(15, 23, 42, 0.7);
+            backdrop-filter: blur(8px);
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: var(--text-main);
+            z-index: 10;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .domain-badge img {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            object-fit: contain;
+        }
+
+        .card-body {
+            padding: 0 1.5rem 1.5rem;
+            position: relative;
+            z-index: 2;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+            margin-top: -30px;
+        }
+
+        .read-time {
+            font-size: 0.75rem;
+            color: var(--accent-primary);
+            font-weight: 600;
+            margin-bottom: 0.8rem;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            line-height: 1.4;
+            color: #fff;
+            margin-bottom: 1.2rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.8);
+        }
+
+        /* Cleaned AI Summary Box */
+        .ai-summary {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 1.2rem;
+            margin-bottom: 1.5rem;
+            flex-grow: 1;
+            box-shadow: inset 0 2px 10px rgba(0,0,0,0.2);
+        }
+
+        .ai-summary-header {
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--accent-secondary);
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .ai-summary-header svg {
+            width: 16px;
+            height: 16px;
+        }
+
+        .ai-summary ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 0.8rem;
+        }
+
+        .ai-summary li {
+            font-size: 0.9rem;
+            color: #cbd5e1;
+            line-height: 1.5;
+            position: relative;
+            padding-left: 1.2rem;
+        }
+        
+        .ai-summary li::before {
+            content: '•';
+            position: absolute;
+            left: 0;
+            color: var(--accent-primary);
+            font-weight: bold;
+            font-size: 1.2rem;
+            line-height: 1;
+            top: 2px;
+        }
+
+        .intel-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 0.6rem;
+            margin-bottom: 1rem;
+        }
+
+        .intel-box {
+            background: rgba(2, 6, 23, 0.55);
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            border-radius: 8px;
+            padding: 0.7rem;
+            min-height: 56px;
+        }
+
+        .intel-label {
+            color: var(--text-muted);
+            font-size: 0.68rem;
+            text-transform: uppercase;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.25rem;
+        }
+
+        .intel-value {
+            color: #e2e8f0;
+            font-size: 0.86rem;
+            line-height: 1.35;
+        }
+
+        .sentiment-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            border-radius: 999px;
+            padding: 0.32rem 0.6rem;
+            font-size: 0.78rem;
+            font-weight: 700;
+            border: 1px solid rgba(255,255,255,0.08);
+        }
+
+        .sentiment-positive {
+            color: #34d399;
+            background: rgba(52, 211, 153, 0.12);
+            border-color: rgba(52, 211, 153, 0.28);
+        }
+
+        .sentiment-negative {
+            color: #fb7185;
+            background: rgba(251, 113, 133, 0.12);
+            border-color: rgba(251, 113, 133, 0.28);
+        }
+
+        .sentiment-neutral {
+            color: #cbd5e1;
+            background: rgba(148, 163, 184, 0.12);
+            border-color: rgba(148, 163, 184, 0.22);
+        }
+
+        .explain-list {
+            margin: 0.75rem 0 0;
+            padding-left: 1rem;
+            color: #cbd5e1;
+            font-size: 0.82rem;
+            line-height: 1.45;
+        }
+
+        /* Metrics (Trust & Bias) */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+            align-items: center;
+        }
+
+        .trust-badge {
+            padding: 0.5rem 0.8rem;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(30, 41, 59, 0.8);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .trust-high { color: #34d399; border-color: rgba(52, 211, 153, 0.3); background: rgba(52, 211, 153, 0.1); }
+        .trust-med { color: #fbbf24; border-color: rgba(251, 191, 36, 0.3); background: rgba(251, 191, 36, 0.1); }
+        .trust-low { color: #f87171; border-color: rgba(248, 113, 113, 0.3); background: rgba(248, 113, 113, 0.1); }
+
+        .bias-wrapper {
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            padding: 0.5rem 0.8rem;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .bias-header {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            margin-bottom: 4px;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+
+        .bias-bar {
+            height: 4px;
+            background: #1e293b;
+            border-radius: 2px;
+            position: relative;
+        }
+        
+        .bias-center {
+            position: absolute;
+            left: 50%;
+            top: -2px;
+            bottom: -2px;
+            width: 2px;
+            background: rgba(255, 255, 255, 0.3);
+            border-radius: 2px;
+        }
+
+        .bias-fill {
+            height: 100%;
+            position: absolute;
+            border-radius: 2px;
+        }
+
+        /* Card Footer */
+        .card-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 1.2rem;
+            border-top: 1px solid var(--border-light);
+            margin-top: auto;
+        }
+
+        .meta-group {
+            display: flex;
+            flex-direction: column;
+            gap: 3px;
+        }
+
+        .publish-date {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        .sources-count {
+            font-size: 0.75rem;
+            color: #a5b4fc;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .read-article-btn {
+            background: transparent;
+            color: #fff;
+            border: 1px solid var(--border-light);
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.85rem;
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .read-article-btn:hover {
+            background: var(--text-main);
+            color: var(--bg-base);
+            border-color: var(--text-main);
+        }
+
+        .read-article-btn svg {
+            transition: transform 0.3s;
+        }
+
+        .read-article-btn:hover svg {
+            transform: translateX(4px);
+        }
+
+        /* Utilities */
+        .loading, .no-results {
+            text-align: center;
+            padding: 5rem 2rem;
+            color: var(--text-muted);
+            font-size: 1.2rem;
+            grid-column: 1 / -1;
+        }
+
+        .pulse { animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .5; } }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            header {
+                flex-wrap: wrap;
+            }
+            .ops-panel {
+                grid-template-columns: 1fr;
+            }
+            .analytics-panel {
+                grid-template-columns: 1fr;
+            }
+            .analytics-columns {
+                grid-template-columns: 1fr;
+            }
+            .search-container {
+                width: 100%;
+                order: 3;
+            }
+            .search-container:focus-within {
+                width: 100%;
+            }
+            .category-nav {
+                order: 2;
+                width: 100%;
+                padding-bottom: 0.5rem;
+            }
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+            .intel-grid {
+                grid-template-columns: 1fr;
+            }
+            .kpi-grid {
+                grid-template-columns: 1fr;
+            }
+            .chart-row {
+                grid-template-columns: 80px 1fr 32px;
+            }
+            .main-wrapper {
+                padding: 1.5rem 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <a href="#" class="brand-container" onclick="filterCategory('All')">
+            <div class="brand-logo">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
+                </svg>
+            </div>
+            <div class="brand-text">
+                <h1>AI News</h1>
+                <span>Global Synthesis</span>
+            </div>
+        </a>
+        
+        <div class="category-nav" id="categoryNav">
+            <button class="cat-btn active" onclick="filterCategory('All', this)">All News</button>
+            <button class="cat-btn" onclick="filterCategory('Politics', this)">Politics</button>
+            <button class="cat-btn" onclick="filterCategory('Technology', this)">Technology</button>
+            <button class="cat-btn" onclick="filterCategory('Economy', this)">Economy</button>
+            <button class="cat-btn" onclick="filterCategory('Sports', this)">Sports</button>
+            <button class="cat-btn" onclick="filterCategory('Entertainment', this)">Entertainment</button>
+        </div>
+
+        <div class="search-container">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <input type="text" id="searchInput" placeholder="Search topics, keywords...">
+        </div>
+    </header>
+
+    <main class="main-wrapper">
+        <section class="ops-panel">
+            <div class="control-surface">
+                <div class="status-row">
+                    <span class="status-pill" id="refreshStatus">Refresh status: checking...</span>
+                    <span class="status-pill" id="sourceCount">Sources: 0</span>
+                    <span class="status-pill">Auto refresh: 10 min</span>
+                    <button class="action-btn" onclick="triggerRefresh()">Refresh Now</button>
+                </div>
+                <div class="filter-row" style="margin-top: 0.9rem;">
+                    <select class="select-control" id="credibilityFilter" onchange="applyFilters()">
+                        <option value="0">Any credibility</option>
+                        <option value="80">Credibility 80+</option>
+                        <option value="60">Credibility 60+</option>
+                    </select>
+                    <select class="select-control" id="riskFilter" onchange="applyFilters()">
+                        <option value="All">Any fake-news risk</option>
+                        <option value="Low risk">Low risk</option>
+                        <option value="Needs verification">Needs verification</option>
+                        <option value="High risk">High risk</option>
+                    </select>
+                    <select class="select-control" id="sentimentFilter" onchange="applyFilters()">
+                        <option value="All">Any sentiment</option>
+                        <option value="Positive">Positive news</option>
+                        <option value="Neutral">Neutral news</option>
+                        <option value="Negative">Negative news</option>
+                    </select>
+                    <select class="select-control" id="sortFilter" onchange="applyFilters()">
+                        <option value="latest">Latest first</option>
+                        <option value="credibility">Highest credibility</option>
+                        <option value="sentiment">Most positive</option>
+                        <option value="sources">Most sources</option>
+                    </select>
+                    <label class="status-pill"><input type="checkbox" id="bookmarksOnly" onchange="applyFilters()"> Bookmarks</label>
+                </div>
+            </div>
+        </section>
+        <section class="analytics-panel">
+            <div class="analytics-surface">
+                <h3 class="panel-title">Charts & Analytics</h3>
+                <div class="analytics-columns">
+                    <div>
+                        <div class="mini-chart-title">Categories</div>
+                        <div class="chart-grid" id="categoryChart"></div>
+                    </div>
+                    <div>
+                        <div class="mini-chart-title">Sentiment</div>
+                        <div class="chart-grid" id="sentimentChart"></div>
+                    </div>
+                </div>
+                <div class="kpi-grid">
+                    <div class="kpi-box">
+                        <div class="kpi-label">Stories</div>
+                        <div class="kpi-value" id="storyKpi">0</div>
+                    </div>
+                    <div class="kpi-box">
+                        <div class="kpi-label">Avg Credibility</div>
+                        <div class="kpi-value" id="credibilityKpi">0</div>
+                    </div>
+                    <div class="kpi-box">
+                        <div class="kpi-label">Positive</div>
+                        <div class="kpi-value" id="positiveKpi">0</div>
+                    </div>
+                </div>
+            </div>
+            <div class="trending-surface">
+                <h3 class="panel-title">Trending News</h3>
+                <div class="trending-list" id="trendingNewsList"></div>
+            </div>
+        </section>
+        <div class="mini-chart-title" style="margin-left: 5px;">Countries</div>
+        <div class="topic-strip" id="countryStrip"></div>
+        <div class="mini-chart-title" style="margin-left: 5px;">Trending Topics</div>
+        <div class="topic-strip" id="topicStrip"></div>
+        <h2 class="section-title" id="sectionTitle">Top Stories</h2>
+        <div class="container" id="news-container">
+            <div class="loading pulse">Synthesizing global intelligence...</div>
+        </div>
+    </main>
+
+    <script>
+        let allNewsData = [];
+        let currentCategory = 'All';
+        let activeTopic = '';
+        let activeCountry = '';
+        let activeDomain = '';
+        let lastDataUpdatedAt = '';
+        const API_BASE = window.location.protocol === 'file:' ? 'http://127.0.0.1:5000' : '';
+        const DEFAULT_NEWS_IMAGE = 'static/aisia-lab-default.jpg';
+        const BACKUP_NEWS_IMAGE = 'static/default-news.svg';
+
+        function apiFetch(path, options) {
+            return fetch(`${API_BASE}${path}`, options);
+        }
+        
+        // Category keywords mapping for naive filtering
+        const categoryMap = {
+            'Politics': ['election', 'minister', 'govt', 'government', 'trump', 'biden', 'modi', 'policy', 'congress', 'bjp', 'democrat', 'republican', 'war', 'israel', 'iran', 'russia', 'ukraine', 'vote', 'summit'],
+            'Technology': ['apple', 'google', 'microsoft', 'ai', 'tech', 'software', 'hardware', 'cyber', 'startup', 'app', 'update', 'android', 'ios'],
+            'Economy': ['market', 'stock', 'trade', 'tariff', 'bank', 'economy', 'finance', 'rupee', 'dollar', 'inflation', 'business', 'shares'],
+            'Sports': ['cricket', 'football', 'tennis', 'match', 'tournament', 'world cup', 'olympics', 'champion', 'league', 'ipl'],
+            'Entertainment': ['movie', 'film', 'actor', 'actress', 'hollywood', 'bollywood', 'box office', 'award', 'music', 'song', 'celebrity']
+        };
+
+        const savedBookmarks = JSON.parse(localStorage.getItem('aiNewsBookmarks') || '[]');
+
+        document.addEventListener("DOMContentLoaded", () => {
+            loadStatus();
+            fetchNews();
+            setInterval(loadStatus, 15000);
+
+            document.getElementById('searchInput').addEventListener('input', (e) => {
+                applyFilters();
+            });
+        });
+
+        function fetchNews() {
+            return apiFetch('/api/news')
+                .then(response => response.json())
+                .then(data => {
+                    const container = document.getElementById('news-container');
+                    if (data.error) {
+                        container.innerHTML = `<div class="loading">Error: ${data.error}</div>`;
+                        return;
+                    }
+                    if (data.length === 0) {
+                        container.innerHTML = `<div class="loading">No news found. Please run the backend pipeline.</div>`;
+                        return;
+                    }
+                    allNewsData = data;
+                    renderCountries(data);
+                    renderTopics(data);
+                    renderAnalytics(data);
+                    renderTrendingNews(data);
+                    applyFilters();
+                })
+                .catch(err => {
+                    document.getElementById('news-container').innerHTML = `<div class="loading">Failed to connect to backend interface.</div>`;
+                    console.error(err);
+                });
+        }
+
+        window.filterCategory = function(category, btnElement) {
+            currentCategory = category;
+            
+            if (category === 'All') {
+                activeCountry = '';
+                activeTopic = '';
+                activeDomain = '';
+                document.getElementById('searchInput').value = '';
+                // Optional: Force a re-render of country/topic strips to clear visual active states
+                renderCountries(allNewsData);
+                renderTopics(allNewsData);
+            }
+
+            // Update active state
+            if(btnElement) {
+                document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+                btnElement.classList.add('active');
+            } else {
+                document.querySelectorAll('.cat-btn').forEach(b => {
+                    b.classList.toggle('active', b.textContent.includes(category));
+                });
+            }
+            
+            document.getElementById('sectionTitle').innerText = category === 'All' ? 'Top Stories' : `${category} News`;
+            applyFilters();
+        };
+
+        function applyFilters() {
+            const term = document.getElementById('searchInput').value.toLowerCase();
+            const minCredibility = Number(document.getElementById('credibilityFilter').value || 0);
+            const risk = document.getElementById('riskFilter').value;
+            const sentimentChoice = document.getElementById('sentimentFilter').value;
+            const sortBy = document.getElementById('sortFilter').value;
+            const bookmarksOnly = document.getElementById('bookmarksOnly').checked;
+            
+            let filtered = [...allNewsData];
+            
+            // Apply category filter
+            if(currentCategory !== 'All') {
+                const keywords = categoryMap[currentCategory] || [];
+                filtered = filtered.filter(cluster => {
+                    const textToSearch = (cluster.main_article.title + " " + (cluster.ai_summary_bullets || []).join(" ")).toLowerCase();
+                    return cluster.category === currentCategory || keywords.some(kw => new RegExp('\\b' + kw.toLowerCase() + '\\b').test(textToSearch));
+                });
+            }
+
+            if (activeTopic) {
+                filtered = filtered.filter(cluster => (cluster.trending_topics || []).includes(activeTopic));
+            }
+            
+            if (activeDomain) {
+                const lowerDomain = activeDomain.toLowerCase();
+                filtered = filtered.filter(cluster => cluster.main_article.source_domain.toLowerCase().includes(lowerDomain));
+            }
+            
+            if (activeCountry) {
+                const lowerCountry = activeCountry.toLowerCase();
+                filtered = filtered.filter(cluster => {
+                    const text = (cluster.main_article.title + " " + (cluster.ai_summary_bullets || []).join(" ")).toLowerCase();
+                    return new RegExp('\\b' + lowerCountry + '\\b').test(text);
+                });
+            }
+            
+            // Apply search term filter
+            if(term) {
+                filtered = filtered.filter(cluster => {
+                    const titleMatch = cluster.main_article.title.toLowerCase().includes(term);
+                    const domainMatch = cluster.main_article.source_domain.toLowerCase().includes(term);
+                    const summaryMatch = cluster.ai_summary_bullets && cluster.ai_summary_bullets.join(' ').toLowerCase().includes(term);
+                    const topicMatch = (cluster.trending_topics || []).join(' ').toLowerCase().includes(term);
+                    return titleMatch || domainMatch || summaryMatch || topicMatch;
+                });
+            }
+
+            filtered = filtered.filter(cluster => (cluster.credibility_score || 0) >= minCredibility);
+            if (risk !== 'All') {
+                filtered = filtered.filter(cluster => (cluster.fake_news || {}).label === risk);
+            }
+            if (sentimentChoice !== 'All') {
+                filtered = filtered.filter(cluster => (cluster.sentiment || {}).label === sentimentChoice);
+            }
+            if (bookmarksOnly) {
+                filtered = filtered.filter(cluster => savedBookmarks.includes(cluster.cluster_id));
+            }
+
+            filtered.sort((a, b) => {
+                if (sortBy === 'credibility') return (b.credibility_score || 0) - (a.credibility_score || 0);
+                if (sortBy === 'sentiment') return ((b.sentiment || {}).score || 0) - ((a.sentiment || {}).score || 0);
+                if (sortBy === 'sources') return (b.sources || []).length - (a.sources || []).length;
+                return new Date(b.main_article.published || 0) - new Date(a.main_article.published || 0);
+            });
+            
+            if (filtered.length === 0 && term && !term.startsWith('domain:')) {
+                document.getElementById('news-container').innerHTML = `<div class="loading">
+                    <svg width="40" height="40" viewBox="0 0 50 50" class="spinner"><circle cx="25" cy="25" r="20" fill="none" stroke="var(--primary)" stroke-width="4" stroke-linecap="round" stroke-dasharray="80" stroke-dashoffset="0"><animateTransform attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="1s" repeatCount="indefinite"/></circle></svg>
+                    <br>Searching live web sources for "${escapeHTML(term)}"...
+                </div>`;
+                fetch(API_BASE + '/api/search?q=' + encodeURIComponent(term))
+                    .then(r => r.json())
+                    .then(searchData => {
+                        if (searchData && searchData.length > 0) {
+                            renderCards(searchData);
+                        } else {
+                            document.getElementById('news-container').innerHTML = `<div class="empty-state">No stories match your criteria or live search.</div>`;
+                        }
+                    })
+                    .catch(e => {
+                        console.error(e);
+                        document.getElementById('news-container').innerHTML = `<div class="empty-state">No stories match your criteria. Live search failed.</div>`;
+                    });
+            } else {
+                renderCards(filtered);
+            }
+        }
+
+        function escapeHTML(value) {
+            return String(value || '').replace(/[&<>"']/g, char => ({
+                '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+            }[char]));
+        }
+
+        function firstImageFromText(value) {
+            const match = String(value || '').match(/<img[^>]+src=["']([^"']+)["']/i);
+            return match ? match[1] : '';
+        }
+
+        function normalizeImageUrl(url, baseUrl) {
+            if (!url) return '';
+            try {
+                return new URL(url, baseUrl || window.location.href).href;
+            } catch {
+                return url;
+            }
+        }
+
+        function getClusterImage(cluster) {
+            const articles = [cluster.main_article, ...(cluster.articles || [])].filter(Boolean);
+            const candidates = [
+                cluster.media?.image,
+                cluster.image,
+                cluster.thumbnail,
+                cluster.urlToImage,
+                ...articles.flatMap(article => [
+                    article.media?.image,
+                    article.image,
+                    article.image_url,
+                    article.thumbnail,
+                    article.urlToImage,
+                    firstImageFromText(article.summary_html)
+                ])
+            ];
+            const image = candidates.find(candidate => typeof candidate === 'string' && candidate.trim());
+            return image ? normalizeImageUrl(image.trim(), cluster.main_article?.link) : DEFAULT_NEWS_IMAGE;
+        }
+
+        const topCountries = ['USA', 'UK', 'India', 'China', 'Russia', 'Israel', 'Ukraine', 'France', 'Germany', 'Japan', 'Canada', 'Australia', 'Iran', 'Pakistan', 'Palestine', 'Taiwan', 'South Korea'];
+        
+        function renderCountries(data) {
+            const counts = {};
+            data.forEach(cluster => {
+                const text = (cluster.main_article.title + " " + (cluster.ai_summary_bullets || []).join(" ")).toLowerCase();
+                topCountries.forEach(country => {
+                    // Match country name as a whole word
+                    if (new RegExp('\\b' + country.toLowerCase() + '\\b').test(text)) {
+                        counts[country] = (counts[country] || 0) + 1;
+                    }
+                });
+            });
+            const countries = Object.entries(counts).sort((a, b) => b[1] - a[1]).filter(c => c[1] > 0);
+            document.getElementById('countryStrip').innerHTML = countries.map(([country, count]) => `
+                <button class="topic-chip ${activeCountry === country ? 'active' : ''}" style="${activeCountry === country ? 'background: rgba(56, 189, 248, 0.1); border-color: rgba(56, 189, 248, 0.3); color: var(--accent-primary);' : ''}" onclick="setCountry('${escapeHTML(country)}')">${escapeHTML(country)} (${count})</button>
+            `).join('');
+        }
+
+        window.setDomain = function(domain) {
+            activeDomain = activeDomain === domain ? '' : domain;
+            if (activeDomain) {
+                document.getElementById('searchInput').value = 'domain:' + activeDomain;
+            } else if (document.getElementById('searchInput').value.startsWith('domain:')) {
+                document.getElementById('searchInput').value = '';
+            }
+            applyFilters();
+        }
+
+        window.setCountry = function(country) {
+            activeCountry = activeCountry === country ? '' : country;
+            // re-render to update active state
+            renderCountries(allNewsData);
+            applyFilters();
+        }
+
+        function renderTopics(data) {
+            const counts = {};
+            data.flatMap(cluster => cluster.trending_topics || []).forEach(topic => {
+                counts[topic] = (counts[topic] || 0) + 1;
+            });
+            const topics = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 10);
+            document.getElementById('topicStrip').innerHTML = topics.map(([topic, count]) => `
+                <button class="topic-chip ${activeTopic === topic ? 'active' : ''}" style="${activeTopic === topic ? 'background: rgba(56, 189, 248, 0.1); border-color: rgba(56, 189, 248, 0.3); color: var(--accent-primary);' : ''}" onclick="setTopic('${escapeHTML(topic)}')">${escapeHTML(topic)} (${count})</button>
+            `).join('');
+        }
+
+        function countBy(items, getter) {
+            return items.reduce((counts, item) => {
+                const key = getter(item) || 'General';
+                counts[key] = (counts[key] || 0) + 1;
+                return counts;
+            }, {});
+        }
+
+        function renderBarChart(elementId, counts) {
+            const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 6);
+            const max = Math.max(1, ...entries.map(([, value]) => value));
+            document.getElementById(elementId).innerHTML = entries.map(([label, value]) => `
+                <div class="chart-row">
+                    <span>${escapeHTML(label)}</span>
+                    <div class="chart-track"><div class="chart-fill" style="width: ${(value / max) * 100}%"></div></div>
+                    <strong>${value}</strong>
+                </div>
+            `).join('');
+        }
+
+        function renderAnalytics(data) {
+            renderBarChart('categoryChart', countBy(data, item => item.category));
+            renderBarChart('sentimentChart', countBy(data, item => (item.sentiment || {}).label || 'Neutral'));
+            const total = data.length;
+            const avgCredibility = total
+                ? Math.round(data.reduce((sum, item) => sum + (item.credibility_score || 0), 0) / total)
+                : 0;
+            const positiveCount = data.filter(item => (item.sentiment || {}).label === 'Positive').length;
+            document.getElementById('storyKpi').textContent = total;
+            document.getElementById('credibilityKpi').textContent = avgCredibility;
+            document.getElementById('positiveKpi').textContent = positiveCount;
+        }
+
+        function renderTrendingNews(data) {
+            const ranked = [...data]
+                .map(cluster => {
+                    const topicWeight = (cluster.trending_topics || []).length;
+                    const sourceWeight = (cluster.sources || []).length;
+                    const credibilityWeight = (cluster.credibility_score || 0) / 25;
+                    return { cluster, score: topicWeight * 2 + sourceWeight + credibilityWeight };
+                })
+                .sort((a, b) => b.score - a.score)
+                .slice(0, 5);
+
+            document.getElementById('trendingNewsList').innerHTML = ranked.map(({ cluster }, index) => {
+                const title = cluster.main_article?.title || 'Untitled story';
+                const sources = (cluster.sources || []).length;
+                const sentiment = (cluster.sentiment || {}).label || 'Neutral';
+                return `
+                    <button class="trending-item" onclick="focusStory('${encodeURIComponent(title)}')">
+                        <span class="trend-rank">${index + 1}</span>
+                        <span>
+                            <span class="trend-title">${escapeHTML(title)}</span>
+                            <span class="trend-meta">${sources} source${sources === 1 ? '' : 's'} | ${escapeHTML(sentiment)} | ${cluster.credibility_score || 0}/100</span>
+                        </span>
+                        <span class="topic-chip">${escapeHTML(cluster.category || 'General')}</span>
+                    </button>
+                `;
+            }).join('');
+        }
+
+        window.focusStory = function(encodedTitle) {
+            const title = decodeURIComponent(encodedTitle);
+            document.getElementById('searchInput').value = title.split(' ').slice(0, 5).join(' ');
+            applyFilters();
+            document.getElementById('sectionTitle').scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+
+        window.setTopic = function(topic) {
+            activeTopic = activeTopic === topic ? '' : topic;
+            renderTopics(allNewsData);
+            applyFilters();
+        }
+
+        window.triggerRefresh = function() {
+            document.getElementById('refreshStatus').textContent = 'Refresh status: starting...';
+            apiFetch('/api/refresh', { method: 'POST' })
+                .then(response => response.json())
+                .then(() => loadStatus())
+                .catch(() => document.getElementById('refreshStatus').textContent = 'Refresh status: unavailable');
+        }
+
+        function loadStatus() {
+            return apiFetch('/api/status')
+                .then(response => response.json())
+                .then(status => {
+                    const state = status.running ? status.phase : (status.last_error ? 'last run failed' : 'live');
+                    const next = status.next_refresh_at ? new Date(status.next_refresh_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : 'scheduled';
+                    const updated = status.data_updated_at ? new Date(status.data_updated_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : 'not yet';
+                    document.getElementById('refreshStatus').textContent = `Live fetch: ${state} | updated ${updated} | next ${next}`;
+                    document.getElementById('sourceCount').textContent = `Sources: ${status.sources_count}`;
+                    if (!status.running && status.data_updated_at && status.data_updated_at !== lastDataUpdatedAt) {
+                        lastDataUpdatedAt = status.data_updated_at;
+                        fetchNews();
+                    }
+                });
+        }
+
+        function saveUserEvent(eventType, payload) {
+            apiFetch('/api/user/events', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    user_id: 'anonymous',
+                    event_type: eventType,
+                    payload
+                })
+            }).catch(() => {});
+        }
+
+        window.toggleBookmark = function(event, clusterId) {
+            event.preventDefault();
+            const btn = event.currentTarget;
+            const index = savedBookmarks.indexOf(clusterId);
+            if (index > -1) {
+                savedBookmarks.splice(index, 1);
+                btn.classList.remove('saved');
+            } else {
+                savedBookmarks.push(clusterId);
+                btn.classList.add('saved');
+            }
+            localStorage.setItem('aiNewsBookmarks', JSON.stringify(savedBookmarks));
+            saveUserEvent('bookmark', { cluster_id: clusterId, saved: savedBookmarks.includes(clusterId) });
+        }
+
+        window.shareArticle = function(event, title, url) {
+            event.preventDefault();
+            saveUserEvent('share', { title, url });
+            if (navigator.share) {
+                navigator.share({
+                    title: title,
+                    text: 'Check out this summarized story from AI News Hub.',
+                    url: url
+                }).catch(err => console.log('Error sharing:', err));
+            } else {
+                // Fallback copying to clipboard
+                navigator.clipboard.writeText(url);
+                alert("Link copied to clipboard!");
+            }
+        }
+
+        function renderCards(data) {
+            const container = document.getElementById('news-container');
+            container.innerHTML = '';
+
+            if (data.length === 0) {
+                container.innerHTML = `
+                    <div class="no-results">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="width: 48px; height: 48px; margin-bottom: 1rem; opacity: 0.5;">
+                            <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                        </svg>
+                        <br>No stories match your criteria.
+                    </div>`;
+                return;
+            }
+
+            data.forEach((cluster, index) => {
+                const mainArticle = cluster.main_article;
+                let bullets = cluster.ai_summary_bullets || ["Analysis unavailable."];
+                const sourceCount = cluster.sources.length;
+                
+                // Clean and format domain
+                let domainName = mainArticle.source_domain.replace('www.', '');
+                const faviconUrl = `https://www.google.com/s2/favicons?domain=${domainName}&sz=32`;
+                
+                const imageUrl = getClusterImage(cluster);
+
+                // Date parsing
+                let dateStr = "Recent";
+                if(mainArticle.published) {
+                    try {
+                        const d = new Date(mainArticle.published);
+                        if (!isNaN(d.getTime())) {
+                            dateStr = d.toLocaleDateString(undefined, { month: 'short', day: 'numeric' }) + ' \u2022 ' + d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+                        }
+                    } catch(e) {}
+                }
+
+                // Estimated reading time based on bullet count (approx)
+                const wordCount = bullets.join(' ').split(' ').length;
+                const readMinutes = Math.max(1, Math.ceil(wordCount / 100)); // ~100 wpm reading summary
+                
+                let bulletsHtml = bullets.map(b => `<li>${escapeHTML(b)}</li>`).join('');
+
+                const delay = (index % 12) * 0.05;
+
+                // Trust and Bias
+                const bias = typeof cluster.bias_meter !== 'undefined' ? cluster.bias_meter : 0;
+                const trust = typeof cluster.trust_score !== 'undefined' ? cluster.trust_score : 5.0;
+                
+                let trustClass = "trust-med";
+                if(trust >= 7.5) trustClass = "trust-high";
+                else if(trust <= 4.5) trustClass = "trust-low";
+
+                let biasWidth = (Math.abs(bias) / 5) * 50;
+                let biasLeft = bias < 0 ? 50 - biasWidth : 50;
+                let biasColor = bias < -1 ? '#38bdf8' : (bias > 1 ? '#f87171' : '#a78bfa');
+                
+                let biasLabel = "Center";
+                if(bias <= -2.5) biasLabel = "Far Left";
+                else if(bias < -0.5) biasLabel = "Left";
+                else if(bias >= 2.5) biasLabel = "Far Right";
+                else if(bias > 0.5) biasLabel = "Right";
+
+                const isSaved = savedBookmarks.includes(cluster.cluster_id) ? 'saved' : '';
+                const credibility = cluster.credibility_score || Math.round(trust * 10);
+                const fakeNews = cluster.fake_news || { label: 'Needs verification', score: credibility, signals: ['No explainability signals available yet.'] };
+                const claim = cluster.claim_analysis || { label: 'Unknown', agreement_score: 0, contradictions: [] };
+                const sentiment = cluster.sentiment || { label: 'Neutral', score: 0 };
+                const sentimentClass = `sentiment-${String(sentiment.label || 'Neutral').toLowerCase()}`;
+                const biasIntensity = cluster.bias_intensity || { label: 'Low', score: 0 };
+                const reliability = (cluster.source_reliability_history || []).slice(0, 3).map(item => `${escapeHTML(item.domain)}: ${item.score}`).join('<br>') || 'No source history yet';
+                const topics = (cluster.trending_topics || []).map(topic => `<span class="topic-chip">${escapeHTML(topic)}</span>`).join(' ');
+                const explanation = (fakeNews.signals || []).map(signal => `<li>${escapeHTML(signal)}</li>`).join('');
+
+                const cardHTML = `
+                    <div class="card" style="animation-delay: ${delay}s">
+                        <div class="card-header">
+                            <div class="domain-badge" onclick="setDomain('${escapeHTML(domainName)}')" style="cursor: pointer;" title="Filter by this domain">
+                                <img src="${faviconUrl}" alt="" onerror="this.style.display='none'">
+                                ${escapeHTML(domainName)}
+                            </div>
+                            
+                            <div class="card-top-actions">
+                                <button class="icon-btn ${isSaved}" onclick="toggleBookmark(event, ${cluster.cluster_id})" title="Save for later">
+                                    <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+                                    </svg>
+                                </button>
+                                <button class="icon-btn" onclick="shareArticle(event, '${escapeHTML(mainArticle.title).replace(/'/g, "\\'")}', '${escapeHTML(mainArticle.link)}')" title="Share analysis">
+                                    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+                                    </svg>
+                                </button>
+                            </div>
+
+                            <img src="${escapeHTML(imageUrl)}" loading="lazy" alt="${escapeHTML(mainArticle.title)}" onerror="this.onerror=null; this.src=this.src.includes('${DEFAULT_NEWS_IMAGE}') ? '${BACKUP_NEWS_IMAGE}' : '${DEFAULT_NEWS_IMAGE}'">
+                        </div>
+
+                        <div class="card-body">
+                            <div class="read-time">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                                ${readMinutes} min synthesis
+                            </div>
+                            <h2 class="card-title">${escapeHTML(mainArticle.title)}</h2>
+                            
+                            <div class="metrics-grid">
+                                <div class="trust-badge ${trustClass}">
+                                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+                                    Credibility: ${credibility}/100
+                                </div>
+                                <div class="bias-wrapper">
+                                    <div class="bias-header">
+                                        <span>Bias</span>
+                                        <span style="color: ${biasColor}">${biasLabel}</span>
+                                    </div>
+                                    <div class="bias-bar">
+                                        <div class="bias-center"></div>
+                                        <div class="bias-fill" style="width: ${biasWidth}%; left: ${biasLeft}%; background-color: ${biasColor};"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="intel-grid">
+                                <div class="intel-box">
+                                    <div class="intel-label">Fake News Risk</div>
+                                    <div class="intel-value">${escapeHTML(fakeNews.label)} (${fakeNews.score}/100)</div>
+                                </div>
+                                <div class="intel-box">
+                                    <div class="intel-label">Claim Agreement</div>
+                                    <div class="intel-value">${escapeHTML(claim.label)} (${claim.agreement_score}%)</div>
+                                </div>
+                                <div class="intel-box">
+                                    <div class="intel-label">Sentiment</div>
+                                    <div class="intel-value">
+                                        <span class="sentiment-badge ${sentimentClass}">${escapeHTML(sentiment.label)} (${sentiment.score})</span>
+                                    </div>
+                                </div>
+                                <div class="intel-box">
+                                    <div class="intel-label">Bias Intensity</div>
+                                    <div class="intel-value">${escapeHTML(biasIntensity.label)} (${biasIntensity.score}/100)</div>
+                                </div>
+                            </div>
+
+                            <div class="ai-summary">
+                                <div class="ai-summary-header">
+                                    <svg viewBox="0 0 24 24" fill="currentColor">
+                                        <path d="M11.5 0L13.5 8.5L22 10.5L13.5 12.5L11.5 21L9.5 12.5L1 10.5L9.5 8.5L11.5 0Z" />
+                                    </svg>
+                                    Neutral Multi-Source Summary
+                                </div>
+                                <p class="intel-value">${escapeHTML(cluster.neutral_summary || 'Neutral summary unavailable.')}</p>
+                                <ul>${bulletsHtml}</ul>
+                                <ul class="explain-list">${explanation}</ul>
+                            </div>
+
+                            <div class="intel-box" style="margin-bottom: 1rem;">
+                                <div class="intel-label">Trending Topics</div>
+                                <div class="intel-value">${topics || 'No topics detected'}</div>
+                            </div>
+
+                            <div class="intel-box" style="margin-bottom: 1rem;">
+                                <div class="intel-label">Source Reliability History</div>
+                                <div class="intel-value">${reliability}</div>
+                            </div>
+
+                            <div class="card-footer">
+                                <div class="meta-group">
+                                    <span class="publish-date">${dateStr}</span>
+                                    <span class="sources-count">
+                                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                                        ${sourceCount} clustered source${sourceCount > 1 ? 's' : ''}
+                                    </span>
+                                </div>
+                                <a href="${escapeHTML(mainArticle.link)}" target="_blank" class="read-article-btn">
+                                    Full Source
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                
+                container.insertAdjacentHTML('beforeend', cardHTML);
+            });
+        }
+    </script>
+</body>
+</html>
