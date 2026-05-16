@@ -1422,8 +1422,9 @@
         const BACKUP_NEWS_IMAGE = 'static/default-news.svg';
 
         function apiFetch(path, options = {}) {
+            const normalizedPath = API_BASE ? path : path.replace(/^\/+/, '');
             const separator = path.includes('?') ? '&' : '?';
-            return fetch(`${API_BASE}${path}${separator}_v=${Date.now()}`, {
+            return fetch(`${API_BASE}${normalizedPath}${separator}_v=${Date.now()}`, {
                 cache: 'no-store',
                 ...options,
                 headers: {
@@ -1431,6 +1432,33 @@
                     ...(options.headers || {})
                 }
             });
+        }
+
+        function loadStaticNewsData(originalError) {
+            return apiFetch('/summarizedNews.json')
+                .then(resp => {
+                    if (!resp.ok) {
+                        throw originalError;
+                    }
+                    return resp.json();
+                })
+                .catch(() => new Promise((resolve, reject) => {
+                    if (Array.isArray(window.__NEWS_DATA__) && window.__NEWS_DATA__.length) {
+                        resolve(window.__NEWS_DATA__);
+                        return;
+                    }
+                    const script = document.createElement('script');
+                    script.src = `newsData.js?_v=${Date.now()}`;
+                    script.onload = () => {
+                        if (Array.isArray(window.__NEWS_DATA__) && window.__NEWS_DATA__.length) {
+                            resolve(window.__NEWS_DATA__);
+                        } else {
+                            reject(originalError);
+                        }
+                    };
+                    script.onerror = () => reject(originalError);
+                    document.head.appendChild(script);
+                }));
         }
 
         function formatDateTime(date) {
@@ -1660,14 +1688,10 @@
                     }
                 })
                 .catch(err => {
-                    // Backend unreachable — try a static fallback (`summarizedNews.json`) for static hosts (GitHub Pages)
-                    return apiFetch('/summarizedNews.json')
-                        .then(resp => {
-                            if (!resp.ok) throw err;
-                            contentMode = 'static';
-                            return resp.json();
-                        })
+                    // Backend unreachable - try static files for GitHub Pages/project-page hosting.
+                    return loadStaticNewsData(err)
                         .then(data => {
+                            contentMode = 'static';
                             const container = document.getElementById('news-container');
                             if (!data || (Array.isArray(data) && data.length === 0)) {
                                 container.innerHTML = `<div class="loading">No news found. Please run the backend pipeline.</div>`;
@@ -2135,6 +2159,12 @@
         }
 
         window.triggerRefresh = function(source = 'manual') {
+            if (contentMode === 'static' || !API_BASE && location.hostname.endsWith('github.io')) {
+                setLatestUpdate('Static GitHub Pages data');
+                setText('refreshStatusText', 'Static page loaded from the latest committed news data');
+                return fetchNews();
+            }
+
             if (refreshInProgress) {
                 setLatestUpdate(`Running since ${formatDateTime(lastRefreshAt)}`);
                 return Promise.resolve();
