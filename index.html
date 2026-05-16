@@ -1769,8 +1769,8 @@
                 setStoryCount(staticRefreshMetadata?.cluster_count || allNewsData.length);
                 setLatestUpdate(refreshedAt ? formatDateTime(refreshedAt) : label);
                 setSourceCount(sourceCount);
-                setRefreshUiState(false, 'GitHub Pages snapshot loaded from the latest committed news data');
-                setText('refreshButtonText', 'Reload Snapshot');
+                setRefreshUiState(false, 'Latest GitHub Pages news data loaded');
+                setText('refreshButtonText', 'Refresh Now');
                 updateAutoRefreshText();
             };
 
@@ -2192,8 +2192,8 @@
         window.triggerRefresh = function(source = 'manual') {
             if (contentMode === 'static' || !API_BASE && location.hostname.endsWith('github.io')) {
                 refreshInProgress = true;
-                setRefreshUiState(true, 'Reloading GitHub Pages snapshot...');
-                setLatestUpdate('Reloading snapshot...');
+                setRefreshUiState(true, 'Refreshing latest GitHub Pages news...');
+                setLatestUpdate('Refreshing news...');
                 return fetchNews()
                     .finally(() => {
                         setTimeout(() => {
