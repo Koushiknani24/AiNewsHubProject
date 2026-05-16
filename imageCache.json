@@ -2470,5 +2470,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/venezuelan-official-alex-saab-a-maduro-ally-deported-to-us": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/seth-rogen-ai-write-scripts-shouldnt-be-a-writer-1236597822/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-iran-stall-on-hormuz-reopening-as-oil-supplies-tighten": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/16/german-police-assault-protesters-at-nakba-anniversary-rally?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDh3ZVc3WXlfcUxKQTBUTDlZTUNIZkFQeC1oTnVmTmJPR0pjUi02S0EtWG8tblFmcWtnN3hGUzZCRm1lM3IyN3BaZVhjNWtWWG1CUU9lV2xhcjE5VjhtSGhtV2tUSFRkcWRqdmNBS3QyVnRDUGVJdndCS2ZkS1NmdlQzRVlPZkt2eHhqSGtIY3oxcHI0bEM2TkZ2NWxjTF9vWUJ3OWNUTThOQmJEalZRTUpIc0FLV2lmMDJGSVgzZWdsdV9XZGc0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIdXJSMEpsSW1OWEtQb3F1TEYyc2NPSk9mVkZaYm82eEI3dHhmT3JTTEVrRDNINXVySGVhaWNvNTB2bE5UZXhqZjRXTUNNaXpKMkZsUkhybXJ3Z21pMk1YWXVmMzNvTnVNbUlmMWpVWm0xN0s1Rk1B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
