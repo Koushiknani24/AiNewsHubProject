@@ -1335,7 +1335,7 @@
                     </div>
                     <div class="refresh-indicator is-idle" id="refreshStatusIndicator">
                         <span class="mini-spinner" aria-hidden="true"></span>
-                        <span id="refreshStatusText">GitHub Actions refreshes RSS data and redeploys this page</span>
+                        <span id="refreshStatusText">Auto RSS updates refresh this page periodically</span>
                     </div>
                 </div>
                 <div class="status-dashboard" aria-label="News refresh overview">
@@ -1352,11 +1352,11 @@
                         <strong class="status-value status-value-strong" id="sourceCount">0</strong>
                     </div>
                     <div class="status-chip status-chip-accent">
-                        <span class="status-label">GitHub Refresh</span>
+                        <span class="status-label">Auto Refresh</span>
                         <strong class="status-value" id="autoRefreshStatus">Every 10 min</strong>
                     </div>
                     <div class="status-chip">
-                        <span class="status-label">Next GitHub Run</span>
+                        <span class="status-label">Next Refresh</span>
                         <strong class="status-value" id="nextRefreshStatus">Scheduling...</strong>
                     </div>
                     <button class="action-btn refresh-action" id="refreshButton" onclick="triggerRefresh()" type="button">
@@ -1648,7 +1648,7 @@
             latestCard?.classList.toggle('is-refreshing', isBusy);
             indicator?.classList.toggle('is-idle', !isBusy);
             setRefreshButtonBusy(isBusy);
-            setText('refreshStatusText', message || 'GitHub Actions refreshes RSS data and redeploys this page');
+            setText('refreshStatusText', message || 'Auto RSS updates refresh this page');
         }
 
         function readBackendStatus() {
@@ -1818,7 +1818,7 @@
                 setLatestUpdate(refreshedAt ? formatDateTime(refreshedAt) : label);
                 setSourceCount(sourceCount);
                 nextAutoRefreshAt = nextScheduledRefreshFrom(metadataUpdatedAt || refreshedAt);
-                setRefreshUiState(false, 'RSS data refreshes through GitHub Actions and deploys to this page');
+                setRefreshUiState(false, 'RSS data auto-refreshes periodically and redeploys this page');
                 setText('refreshButtonText', 'Refresh Now');
                 updateAutoRefreshText();
             };
@@ -2241,7 +2241,7 @@
         window.triggerRefresh = function(source = 'manual') {
             if (contentMode === 'static' || !API_BASE && location.hostname.endsWith('github.io')) {
                 refreshInProgress = true;
-                setRefreshUiState(true, 'Refreshing latest GitHub Pages news...');
+                setRefreshUiState(true, 'Refreshing latest news...');
                 setLatestUpdate('Refreshing news...');
                 return fetchNews()
                     .finally(() => {
