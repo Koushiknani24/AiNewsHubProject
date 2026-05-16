@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: refresh-news-data
@@ -14,6 +16,9 @@ concurrency:
 
 jobs:
   refresh:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -53,3 +58,22 @@ jobs:
             git commit -m "chore: auto refresh news data"
             git push
           fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Prepare static site
+        run: |
+          rm -rf public
+          mkdir public
+          cp index.html summarizedNews.json clusteredNews.json newsData.js latestRefresh.json public/
+          cp -r static public/static
+
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy refreshed site
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1576,6 +1576,17 @@
             setText('nextRefreshStatus', nextText);
         }
 
+        function nextScheduledRefreshFrom(date) {
+            if (!date || Number.isNaN(date.getTime())) {
+                return new Date(Date.now() + AUTO_REFRESH_INTERVAL_MS);
+            }
+            const next = new Date(date.getTime() + AUTO_REFRESH_INTERVAL_MS);
+            while (next.getTime() <= Date.now()) {
+                next.setTime(next.getTime() + AUTO_REFRESH_INTERVAL_MS);
+            }
+            return next;
+        }
+
         function refreshLabel(source) {
             return source === 'auto' ? 'Auto refresh' : 'Manual refresh';
         }
@@ -1770,7 +1781,8 @@
                 setStoryCount(staticRefreshMetadata?.cluster_count || allNewsData.length);
                 setLatestUpdate(refreshedAt ? formatDateTime(refreshedAt) : label);
                 setSourceCount(sourceCount);
-                setRefreshUiState(false, 'Latest GitHub Pages news data loaded');
+                nextAutoRefreshAt = nextScheduledRefreshFrom(metadataUpdatedAt || refreshedAt);
+                setRefreshUiState(false, 'RSS data refreshes through GitHub Actions and deploys to this page');
                 setText('refreshButtonText', 'Refresh Now');
                 updateAutoRefreshText();
             };
