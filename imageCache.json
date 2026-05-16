@@ -1828,5 +1828,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-features/cannes-flashback-andy-garcia-brought-denver-1995-1236596920/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/cannes-entry-gentle-monster-tackles-taboo-with-no-easy-answer-says-director": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/panama-film-interview-cannes-2026-auteur-cinema-longing-1236577889/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd0M5NzlDbXVZQWRLLS1YWFJvS2dQa3Axb2IzWUVzQUhxdmk3ME5vY2thR296MUFrUnVlWGRqQUZ5Ym14dUpidUlvNFBkR1ZYY040ZlRoMmZNLTJ6eUZBLUZWOWFiMXlWcnNneXdFNjJ5TmVJRk92dDkxWmlYZnY5WTFFLXd3QW9oQjZKcG9WY3FJT3hkcFFmT3pjNUplY2FXcGJ1YmtaV0RCVzVEbGROS3IzcHVqRnV4a1BiOUpDbWFUaFVqaVhkZkV0Yw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/whale-that-was-rescued-after-stranded-in-germany-found-dead-in-denmark": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/mdma-racket-busted-eight-held-with-137-grams-of-contraband/article70987309.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/quizzes/the-mnd-news-quiz-of-the-week-may-16th/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/pakistani-minister-arrives-in-tehran-to-facilitate-us-iran-peace-talks-media": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFdONWNLY3pKWEVZclBhV3IxY013cWkxMTU2UXh1b2V4U09GdnhKNDZSNU0yZElLRTRBbmJaMFQ3MmQtY0l5N05iQXlvQlk4Y1dBSGxLNzhsQ19kWFhrSVhrSVk4U1F0ZThab1o1djJsS3NuY3ozblB6bThrdUJuU2szdUFFd21TR2w3TzB6TmtmdU1EdWllaW05UVcwQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KcDJNNTd2by1oNmJsUTJGa3hvR1VjNHRtZFZma1dvbXBEWFgxd3V2dGN4S3h1OEhCM3hudGxVY3pmeXJCYThsNW5NV1VKZlNWYWEzTDc2VHZOdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/mexicos-secret-japanese-inspired-boutique-hotel-tlaxcala/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
