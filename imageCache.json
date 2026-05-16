@@ -1522,5 +1522,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.arabnews.com/node/2643779/world": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.arabnews.com/node/2643780/middle-east": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.arabnews.com/node/2643778/middle-east": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/french-judge-opens-inquiry-into-khashoggi-killing": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-trust-americans-control/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/izz-al-din-al-haddad-hamas-commander-killed-gaza-hamas-israel/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWY1YUpiWEFDN01DYXNuY1pqS2Q0dnFaRzgtZ2hIT2xnZGlwNWNkbWtYU3MwdlRfakg3bGJ1dTltMDE0cjVOWW4weVRQZ1l4TXJBZ1Rsam1lTnVzeTlmMTVmaElFY1p1dS1kemNUNFpMSFdidzY4SGdYejFENHcyWUZwUTJacUZ4VTRNamRLTW1WdFc5Z2xXd19xOUM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/35-sekunden-im-oval-office-ein-gesprach-mit-john-bolton/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/trump-says-iran-war-is-worth-the-economic-pain-these-rural-voters-agree": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/marta-kos-kosovo-eu-candidate-status/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWtNQlpScjNITWcwOXp1T3VQMUxLaDRyM2hfWU9taWYwOEcySUhFcEpyLUFMdlRWX2xJNXpIXzl3b21la0dxR0NsZnBSUEJqOF84U2RpdVlWSThFTVVndFpvWXY5V0JkRVZoQjliTFB2Ml9wNTlNWmFiTjZ6QmJVMkVuM2VUcTRGbGUxMkpNWktHb1ZId1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3256083/at-least-8-dead-in-bangkok-bustrain-collision": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/16/putin-to-visit-china-days-after-trumps-beijing-trip-kremlin-says": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFFlcklCYWQwZUZGc2xjSF9QWjJvMU1PWFVtakpUVDljdTFCMzJqN2lULXMycUVxS2V2Q0I4X3h3ZndCczNqZ2JKTEFwdW1tTlBMMGlJRWRiT05jT3otM1BtT3F6YmxNQ1hEM1hjVnZPTEdXX1JlWk9lWWJLd3BvQlozTDFDQnQtbFU5ZUZzakE4Q0RPTHA5QWVmbXluVkFSRVQtZjlmdkRNUHVhR29v?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
