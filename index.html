@@ -364,7 +364,7 @@
 
         .status-dashboard {
             display: grid;
-            grid-template-columns: minmax(112px, 0.8fr) minmax(210px, 1.35fr) minmax(112px, 0.8fr) minmax(132px, 0.9fr) minmax(150px, 1fr);
+            grid-template-columns: minmax(112px, 0.8fr) minmax(210px, 1.35fr) minmax(112px, 0.8fr) minmax(132px, 0.9fr) minmax(150px, 1fr) minmax(150px, 0.95fr);
             gap: 0.75rem;
             align-items: stretch;
             position: relative;
@@ -1314,6 +1314,10 @@
                         <span class="status-label">Next GitHub Run</span>
                         <strong class="status-value" id="nextRefreshStatus">Scheduling...</strong>
                     </div>
+                    <button class="action-btn refresh-action" id="refreshButton" onclick="triggerRefresh()" type="button">
+                        <span class="button-spinner" aria-hidden="true"></span>
+                        <span id="refreshButtonText">Refresh Now</span>
+                    </button>
                 </div>
                 <div class="search-status" id="searchStatus" aria-live="polite"></div>
                 <div class="filter-row">
@@ -1584,6 +1588,7 @@
             if (!refreshBtn) return;
             refreshBtn.disabled = isBusy;
             refreshBtn.classList.toggle('is-loading', isBusy);
+            setText('refreshButtonText', isBusy ? 'Refreshing...' : 'Refresh Now');
         }
 
         function setRefreshUiState(isBusy, message = '') {
@@ -1765,6 +1770,7 @@
                 setSourceCount(sourceCount);
                 nextAutoRefreshAt = nextScheduledRefreshFrom(metadataUpdatedAt || refreshedAt);
                 setRefreshUiState(false, 'RSS data refreshes through GitHub Actions and deploys to this page');
+                setText('refreshButtonText', 'Refresh Now');
                 updateAutoRefreshText();
             };
 

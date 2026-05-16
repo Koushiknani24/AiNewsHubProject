@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: ai-news-hub
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --workers 1 --threads 4 --timeout 300 wsgi:app
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: MAX_ARTICLES_PER_REFRESH
+        value: "220"
+      - key: MAX_CLUSTERS_PER_REFRESH
+        value: "80"
+      - key: MAX_SOURCES_PER_REFRESH
+        value: "220"
+      - key: ARTICLES_PER_FEED
+        value: "3"
+      - key: FEED_FETCH_TIMEOUT
+        value: "2.5"
+      - key: GLOBAL_FETCH_TIMEOUT
+        value: "7.0"
+      - key: REFRESH_DEEP_MEDIA
+        value: "0"
+      - key: AUTO_REFRESH_ON_STARTUP
+        value: "1"

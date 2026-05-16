@@ -28,7 +28,7 @@ app = Flask(__name__, static_folder='static', template_folder='.')
 DATA_FILE = 'summarizedNews.json'
 NEWS_FEEDS_FILE = 'newsFeeds.json'
 REFRESH_INTERVAL_SECONDS = 600
-AUTO_REFRESH_ON_STARTUP = True
+AUTO_REFRESH_ON_STARTUP = os.getenv("AUTO_REFRESH_ON_STARTUP", "1") == "1"
 
 pipeline_lock = threading.Lock()
 pipeline_status = {
@@ -283,5 +283,6 @@ def manage_sources():
 
 if __name__ == '__main__':
     start_background_services()
-    print("Starting AI News Hub on http://localhost:5000")
-    app.run(debug=True, port=5000, use_reloader=False)
+    port = int(os.getenv("PORT", "5000"))
+    print(f"Starting AI News Hub on http://0.0.0.0:{port}")
+    app.run(debug=True, host="0.0.0.0", port=port, use_reloader=False)
