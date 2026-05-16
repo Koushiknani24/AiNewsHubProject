@@ -2428,5 +2428,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/lifestyle/shopping/hollywood-stylist-harry-lambert-ebay-ss26-watchlist-trends-1236596539/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CZ01FeFhfV1FrS0I3M01FX1VnMkpLVDlQbktjcEltRDV5cDdvZzVNVG9DSTFHUGRFcXA1cldWV1A0OVhEbXk0VmFnbmRxTUg1bzR0UGtn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekNlaGEtY3QzTWJJbDhHNjJ3TkhwdzBEM0RhOUVNd0QxVktWNWtjM3BrTmc1MGtPMEYzaWh5WmN0SnUxWTdZT3lrS2Y1UkRLZ1cxSFV6ZEgyV09hQzZIbEd3T1VNTGdrZFBIM1dmc3ExTmgxZHIzTmdtNGlDZTJXR3IxM2VxMzFUSW1NTXJiQWhTOTdNSFlEWGE1QXI4RnVBNHdXZWczQ0htRjB0SjZFNTlkdURJZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LWm5wR3pHb3lsc3l5aUo4SHFuQXpzRFJ4RDQzZ2FwWHNXUFJDZmhybGZfMUF2dnBWSzQ4RW5NTUV0eVJpVEZSNnFuTEFHUERuMlFYWS1DZ3FkQkhkNHdZQ21vTjd2TGt2RlRKUWhadFdUZXM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcEZxb01qSTJwOVFULTQ3SmxlNGtfTC1EX0NrOEVNTUlsU2dqVGpVbkNKNjhEdGtpc2xwakNuRk9hSTFud0NYZS1zajhpYzgzekZfa0hFT0ViOXlMeTJrNC1ZMTZiNUZUMGVzSVRlWTNCb1lTaUM4QmZZcE55R0NGRmU0eldiSFA0empNYm1CZ2hCT3l2REo2YkZ0dU0tUng1bnk3WkFub1pYZ9IBrwFBVV95cUxQTHYweWdjMzNBRmxndnVLLVUyMEYxdkhuOWVWS2ZOMC1CTmVVYTlSUmtVVl9HVU9uMmlpSFgyYldyNWRyY28tM1BSbW1oWDVNU1ZCSGh0ZkF2ZDNISTAxTXotUm9Fbkh6bnJSZER4UW1Nbks2VmFzUHZvYUs4bHlTeVZfV1FMLXpybzdaY0VjZDNpS2Z4U014dlhyTnJwbXZrYnNvc0YyZmJyNGFmNEt3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1waFpjYkpaRVBZUUN2b0E5dmJGMnRBQnlGaW0xeTJhTWNOd3hMeW5aYWZKTGRIcEs2d0h6b1RtTjQzcGh4UkRIaGxTOEdoS2g2WTFiZGxKa09KUXFELVBuZlZLVGNZaEJmeWZqeGMtNWlha3Z5X2kw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
