@@ -60,6 +60,13 @@ HEADERS = {
 }
 
 
+def safe_log(message):
+    try:
+        print(message)
+    except UnicodeEncodeError:
+        print(str(message).encode("ascii", errors="replace").decode("ascii"))
+
+
 def first_image_from_html(html):
     if not html:
         return None
@@ -335,7 +342,8 @@ def calculate_cluster_metrics(cluster_articles):
                 matched_rating = rating
                 break
                 
-        total_trust += matched_rating['trust']
+        source_reliability = a.get("source_reliability")
+        total_trust += (float(source_reliability) / 10.0) if source_reliability else matched_rating['trust']
         total_bias += matched_rating['bias']
         count += 1
         
@@ -437,7 +445,7 @@ def group_by_token_overlap(articles, texts):
     return clusters
 
 def enrich_cluster_with_media(cluster):
-    print(f"Enriching media for cluster: {cluster['main_article']['title'][:50]}...")
+    safe_log(f"Enriching media for cluster: {cluster['main_article']['title'][:50]}...")
     articles = [cluster.get("main_article"), *cluster.get("articles", [])]
     media = official_media_for_articles([article for article in articles if article])
     cluster['media'] = media

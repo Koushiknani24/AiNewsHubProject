@@ -2,8 +2,8 @@ import json
 import os
 from concurrent.futures import ThreadPoolExecutor
 
-from cluster import official_media_for_articles
-from database import save_clusters
+from database import replace_clusters
+from refresh_pipeline import resolve_cluster_media, save_image_cache, write_news_data_script
 
 DATA_FILES = ["clusteredNews.json", "summarizedNews.json"]
 
@@ -31,9 +31,7 @@ def enrich_cluster(cluster):
     if first_saved_image(cluster):
         return cluster
 
-    articles = [cluster.get("main_article"), *cluster.get("articles", [])]
-    media = official_media_for_articles([article for article in articles if article])
-    cluster["media"] = media
+    cluster["media"] = resolve_cluster_media(cluster, allow_network=True)
     return cluster
 
 
@@ -47,13 +45,15 @@ def enrich_file(path):
     before = sum(1 for cluster in clusters if first_saved_image(cluster))
     with ThreadPoolExecutor(max_workers=8) as executor:
         clusters = list(executor.map(enrich_cluster, clusters))
+    save_image_cache()
     after = sum(1 for cluster in clusters if first_saved_image(cluster))
 
     with open(path, "w", encoding="utf-8") as f:
         json.dump(clusters, f, indent=4)
 
     if path == "summarizedNews.json":
-        save_clusters(clusters)
+        replace_clusters(clusters)
+        write_news_data_script(clusters)
 
     return before, after
 

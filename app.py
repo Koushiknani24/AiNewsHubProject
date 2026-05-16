@@ -1,8 +1,6 @@
 from flask import Flask, jsonify, request, send_from_directory
 import json
 import os
-import subprocess
-import sys
 import threading
 import time
 from datetime import datetime, timedelta, timezone
@@ -14,9 +12,16 @@ from database import (
     load_clusters,
     load_latest_analytics,
     load_user_events,
-    save_clusters,
     save_user_event,
 )
+from refresh_pipeline import (
+    LATEST_REFRESH_FILE,
+    NEWS_DATA_SCRIPT_FILE,
+    load_live_sources,
+    run_full_refresh_pipeline,
+)
+from search_pipeline import run_hybrid_search
+from source_manager import source_count, source_metadata, source_stats
 
 app = Flask(__name__, static_folder='static', template_folder='.')
 
@@ -34,6 +39,9 @@ pipeline_status = {
     "last_success": None,
     "last_error": None,
     "last_output": None,
+    "latest_update": None,
+    "article_count": 0,
+    "cluster_count": 0,
     "next_refresh_at": None,
     "run_count": 0,
     "refresh_interval_seconds": REFRESH_INTERVAL_SECONDS,
@@ -45,6 +53,10 @@ def allow_local_file_frontend(response):
     response.headers["Access-Control-Allow-Origin"] = "*"
     response.headers["Access-Control-Allow-Headers"] = "Content-Type"
     response.headers["Access-Control-Allow-Methods"] = "GET, POST, DELETE, OPTIONS"
+    if request.path.startswith("/api/") or request.path in {"/summarizedNews.json", "/clusteredNews.json", "/newsData.js"}:
+        response.headers["Cache-Control"] = "no-store, no-cache, must-revalidate, max-age=0"
+        response.headers["Pragma"] = "no-cache"
+        response.headers["Expires"] = "0"
     return response
 
 
@@ -79,34 +91,33 @@ def run_refresh_pipeline():
     if not pipeline_lock.acquire(blocking=False):
         return False, "Refresh already running."
 
+    pipeline_status.update({
+        "running": True,
+        "phase": "starting refresh",
+        "last_started": utc_now(),
+        "last_finished": None,
+        "last_error": None,
+        "last_output": None,
+    })
+
     def worker():
-        pipeline_status.update({
-            "running": True,
-            "phase": "fetching and clustering",
-            "last_started": utc_now(),
-            "last_finished": None,
-            "last_error": None,
-            "last_output": None,
-        })
-        combined_output = []
+        def set_phase(phase):
+            pipeline_status["phase"] = phase
+
         try:
-            commands = [
-                ("fetching and clustering", [sys.executable, "cluster.py"]),
-                ("summarizing and scoring", [sys.executable, "summarize.py"]),
-            ]
-            for phase, command in commands:
-                pipeline_status["phase"] = phase
-                env = {**os.environ, "PYTHONIOENCODING": "utf-8"}
-                result = subprocess.run(command, cwd=os.getcwd(), env=env, check=True, capture_output=True, text=True, encoding="utf-8", timeout=540)
-                combined_output.append(result.stdout[-2000:])
-            pipeline_status["last_success"] = utc_now()
+            result = run_full_refresh_pipeline(status_callback=set_phase)
+            latest_update = result["metadata"]["latest_update"]
+            pipeline_status["last_success"] = latest_update
+            pipeline_status["latest_update"] = latest_update
+            pipeline_status["article_count"] = result["metadata"].get("article_count", 0)
+            pipeline_status["cluster_count"] = result["metadata"].get("cluster_count", 0)
             pipeline_status["run_count"] += 1
-            pipeline_status["last_output"] = "\n".join(combined_output)[-4000:]
+            pipeline_status["last_output"] = (
+                f"Regenerated {pipeline_status['cluster_count']} clusters "
+                f"from {pipeline_status['article_count']} live articles."
+            )
         except Exception as exc:
-            error = str(exc)
-            if isinstance(exc, subprocess.CalledProcessError):
-                error = (exc.stderr or exc.stdout or str(exc))[-4000:]
-            pipeline_status["last_error"] = error
+            pipeline_status["last_error"] = str(exc)[-4000:]
         finally:
             pipeline_status["running"] = False
             pipeline_status["phase"] = "idle"
@@ -140,6 +151,14 @@ def serve_index():
 def serve_static_news_data():
     return send_from_directory('.', DATA_FILE)
 
+@app.route('/clusteredNews.json')
+def serve_clustered_news_data():
+    return send_from_directory('.', 'clusteredNews.json')
+
+@app.route('/newsData.js')
+def serve_news_data_script():
+    return send_from_directory('.', NEWS_DATA_SCRIPT_FILE)
+
 @app.route('/api/news')
 def get_news():
     if not os.path.exists(DATA_FILE):
@@ -150,8 +169,6 @@ def get_news():
         
     with open(DATA_FILE, 'r', encoding='utf-8') as f:
         data = json.load(f)
-    if data:
-        save_clusters(data)
     return jsonify(data)
 
 
@@ -195,11 +212,25 @@ def user_events():
 @app.route('/api/status')
 def get_status():
     status = dict(pipeline_status)
-    status["sources_count"] = len(load_sources())
+    status["sources_count"] = source_count()
+    status["source_stats"] = source_stats()
     status["data_file_exists"] = os.path.exists(DATA_FILE)
     status["database"] = database_stats()
+    if os.path.exists(LATEST_REFRESH_FILE):
+        try:
+            with open(LATEST_REFRESH_FILE, "r", encoding="utf-8") as f:
+                metadata = json.load(f)
+            status["latest_update"] = metadata.get("latest_update")
+            status["article_count"] = metadata.get("article_count", status.get("article_count", 0))
+            status["cluster_count"] = metadata.get("cluster_count", status.get("cluster_count", 0))
+            status["configured_source_count"] = metadata.get("configured_source_count", source_count())
+            status["processed_source_count"] = metadata.get("processed_source_count")
+        except Exception:
+            pass
     if os.path.exists(DATA_FILE):
         status["data_updated_at"] = datetime.fromtimestamp(os.path.getmtime(DATA_FILE), timezone.utc).isoformat()
+    if os.path.exists(NEWS_DATA_SCRIPT_FILE):
+        status["news_data_script_updated_at"] = datetime.fromtimestamp(os.path.getmtime(NEWS_DATA_SCRIPT_FILE), timezone.utc).isoformat()
     return jsonify(status)
 
 
@@ -217,83 +248,7 @@ def refresh_news():
 @app.route('/api/search')
 def live_search():
     query = request.args.get("q", "")
-    if not query:
-        return jsonify([])
-    
-    import urllib.parse
-    import urllib.request
-    import xml.etree.ElementTree as ET
-    import ssl
-    import re
-    from news_ai import clean_html, classify_category, sentiment_analysis, bias_intensity, claim_agreement, fake_news_assessment, source_rating, trending_topics
-    
-    url = f"https://news.google.com/rss/search?q={urllib.parse.quote(query)}&hl=en-US&gl=US&ceid=US:en"
-    
-    try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        ctx = ssl.create_default_context()
-        ctx.check_hostname = False
-        ctx.verify_mode = ssl.CERT_NONE
-        with urllib.request.urlopen(req, context=ctx, timeout=12) as response:
-            xml_text = response.read()
-        root = ET.fromstring(xml_text)
-    except Exception as exc:
-        print(f"[-] Search feed parse failed: {exc}")
-        return jsonify([])
-
-    clusters = []
-    rss_items = root.findall(".//item")
-    for i, item in enumerate(rss_items[:15]):
-        link_node = item.find("link")
-        link = (link_node.text if link_node is not None else "").strip()
-        summary = (item.findtext("description") or "").strip()
-        title = (item.findtext("title") or "").strip()
-        published = (item.findtext("pubDate") or "").strip()
-        
-        domain = urllib.parse.urlparse(link).netloc.lower().replace("www.", "")
-        if "news.google.com" in domain:
-            source_name = title.split(" - ")[-1] if " - " in title else "Google News"
-        else:
-            source_name = domain
-
-        match = re.search(r"<img[^>]+src=[\"']([^\"']+)[\"']", summary, flags=re.IGNORECASE)
-        image_url = match.group(1) if match else None
-
-        article = {
-            "source_domain": source_name,
-            "title": title,
-            "link": link,
-            "summary_html": summary,
-            "published": published,
-            "image_url": image_url
-        }
-
-        # Real AI analysis for the live search result
-        clean_summary = clean_html(summary)
-        text = f"{title}. {clean_summary}"
-        rating = source_rating(source_name)["score"]
-        agreement = claim_agreement([article])
-        fake_news = fake_news_assessment([article], rating, agreement, text)
-
-        cluster = {
-            "cluster_id": f"search_{i}",
-            "main_article": article,
-            "articles": [article],
-            "sources": [{"domain": source_name, "link": link}],
-            "trust_score": rating / 10.0,
-            "bias_meter": 0,
-            "category": classify_category(text),
-            "ai_summary_bullets": [clean_summary[:300] + "..."],
-            "credibility_score": fake_news["score"],
-            "claim_analysis": agreement,
-            "fake_news": fake_news,
-            "sentiment": sentiment_analysis(text),
-            "bias_intensity": bias_intensity(0, text),
-            "trending_topics": trending_topics(text)
-        }
-        clusters.append(cluster)
-
-    return jsonify(clusters)
+    return jsonify(run_hybrid_search(query))
 
 
 @app.route('/api/sources', methods=['GET', 'POST', 'DELETE'])
@@ -301,7 +256,13 @@ def manage_sources():
     sources = load_sources()
 
     if request.method == 'GET':
-        return jsonify({"sources": sources, "count": len(sources)})
+        return jsonify({
+            "custom_sources": sources,
+            "custom_count": len(sources),
+            "sources": source_metadata(),
+            "count": source_count(),
+            "stats": source_stats(),
+        })
 
     if request.method == 'POST':
         body = request.get_json(silent=True) or {}

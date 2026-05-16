@@ -152,7 +152,7 @@
 
         .search-container input {
             width: 100%;
-            padding: 0.8rem 1rem 0.8rem 2.5rem;
+            padding: 0.8rem 3.25rem 0.8rem 2.5rem;
             border-radius: 12px;
             border: 1px solid var(--border-light);
             background: rgba(15, 23, 42, 0.8);
@@ -170,7 +170,7 @@
             box-shadow: 0 0 15px rgba(129, 140, 248, 0.2);
         }
 
-        .search-container svg {
+        .search-container > svg {
             position: absolute;
             left: 14px;
             top: 50%;
@@ -181,22 +181,320 @@
             pointer-events: none;
         }
 
+        .search-btn {
+            position: absolute;
+            right: 6px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 34px;
+            height: 34px;
+            border: 1px solid rgba(56, 189, 248, 0.28);
+            border-radius: 10px;
+            background: rgba(14, 165, 233, 0.14);
+            color: #7dd3fc;
+            cursor: pointer;
+            display: grid;
+            place-items: center;
+            transition: var(--transition);
+        }
+
+        .search-btn:hover {
+            background: rgba(14, 165, 233, 0.24);
+            border-color: rgba(125, 211, 252, 0.58);
+            color: #ffffff;
+        }
+
+        .search-btn:disabled {
+            cursor: wait;
+            opacity: 0.65;
+        }
+
+        .search-status {
+            display: none;
+            margin-top: 0.85rem;
+            border: 1px solid rgba(56, 189, 248, 0.18);
+            border-radius: 14px;
+            padding: 0.75rem 0.85rem;
+            background: rgba(2, 6, 23, 0.46);
+            color: #cbd5e1;
+            font-size: 0.82rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        .search-status.active {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.55rem;
+            align-items: center;
+        }
+
+        .search-stage {
+            border: 1px solid rgba(148, 163, 184, 0.14);
+            border-radius: 999px;
+            padding: 0.32rem 0.58rem;
+            background: rgba(15, 23, 42, 0.62);
+        }
+
+        .search-stage.live {
+            color: #7dd3fc;
+            border-color: rgba(56, 189, 248, 0.3);
+        }
+
+        .live-result-badge {
+            position: absolute;
+            bottom: 1rem;
+            left: 1rem;
+            z-index: 10;
+            border: 1px solid rgba(34, 211, 238, 0.4);
+            border-radius: 999px;
+            padding: 0.28rem 0.65rem;
+            background: rgba(8, 47, 73, 0.72);
+            color: #a5f3fc;
+            font-size: 0.7rem;
+            font-weight: 800;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            box-shadow: 0 0 18px rgba(34, 211, 238, 0.14);
+        }
+
         .ops-panel {
             margin-bottom: 1.5rem;
         }
 
         .control-surface {
-            background: rgba(15, 23, 42, 0.72);
-            border: 1px solid var(--border-light);
-            border-radius: 12px;
+            position: relative;
+            overflow: hidden;
+            background:
+                linear-gradient(135deg, rgba(15, 23, 42, 0.88), rgba(2, 6, 23, 0.78)),
+                radial-gradient(circle at 10% 0%, rgba(34, 211, 238, 0.12), transparent 34%),
+                radial-gradient(circle at 88% 18%, rgba(59, 130, 246, 0.12), transparent 38%);
+            border: 1px solid rgba(148, 163, 184, 0.18);
+            border-radius: 18px;
             padding: 1rem;
+            box-shadow: 0 18px 60px rgba(2, 6, 23, 0.34), inset 0 1px 0 rgba(255,255,255,0.04);
+            backdrop-filter: blur(16px);
         }
 
-        .status-row, .filter-row {
+        .control-surface::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            pointer-events: none;
+            background: linear-gradient(110deg, transparent 0%, rgba(125, 211, 252, 0.08) 42%, transparent 72%);
+            opacity: 0;
+            transform: translateX(-70%);
+        }
+
+        .control-surface.is-refreshing::before {
+            animation: refreshSweep 1.6s linear infinite;
+            opacity: 1;
+        }
+
+        @keyframes refreshSweep {
+            to { transform: translateX(70%); }
+        }
+
+        .system-state-row {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            gap: 0.8rem;
+            margin-bottom: 0.85rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        .live-indicator,
+        .refresh-indicator {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            min-height: 30px;
+            border: 1px solid rgba(148, 163, 184, 0.14);
+            border-radius: 999px;
+            padding: 0.38rem 0.7rem;
+            background: rgba(2, 6, 23, 0.48);
+            color: #cbd5e1;
+            font-size: 0.78rem;
+            font-weight: 700;
+        }
+
+        .live-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 999px;
+            background: #22c55e;
+            box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.48);
+            animation: livePulse 1.9s infinite;
+        }
+
+        @keyframes livePulse {
+            70% { box-shadow: 0 0 0 9px rgba(34, 197, 94, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(34, 197, 94, 0); }
+        }
+
+        .refresh-indicator {
+            color: #7dd3fc;
+            border-color: rgba(56, 189, 248, 0.22);
+        }
+
+        .refresh-indicator.is-idle {
+            color: #94a3b8;
+        }
+
+        .mini-spinner {
+            width: 13px;
+            height: 13px;
+            border-radius: 999px;
+            border: 2px solid rgba(125, 211, 252, 0.22);
+            border-top-color: #67e8f9;
+            animation: spin 0.8s linear infinite;
+        }
+
+        .refresh-indicator.is-idle .mini-spinner {
+            display: none;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .status-dashboard {
+            display: grid;
+            grid-template-columns: minmax(112px, 0.8fr) minmax(210px, 1.35fr) minmax(112px, 0.8fr) minmax(132px, 0.9fr) minmax(150px, 1fr) minmax(150px, 0.95fr);
+            gap: 0.75rem;
+            align-items: stretch;
+            position: relative;
+            z-index: 1;
+        }
+
+        .status-chip {
+            display: inline-flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 58px;
+            gap: 0.2rem;
+            border: 1px solid rgba(148, 163, 184, 0.16);
+            border-radius: 16px;
+            padding: 0.72rem 0.88rem;
+            color: var(--text-main);
+            background: rgba(15, 23, 42, 0.62);
+            box-shadow: inset 0 1px 0 rgba(255,255,255,0.04);
+            transition: var(--transition);
+            min-width: 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .status-chip:hover {
+            border-color: rgba(56, 189, 248, 0.35);
+            background: rgba(15, 23, 42, 0.78);
+            transform: translateY(-1px);
+        }
+
+        .status-chip-accent {
+            border-color: rgba(56, 189, 248, 0.32);
+            background: linear-gradient(135deg, rgba(14, 165, 233, 0.14), rgba(15, 23, 42, 0.7));
+        }
+
+        .latest-update-card {
+            border-color: rgba(56, 189, 248, 0.36);
+            background:
+                linear-gradient(135deg, rgba(14, 165, 233, 0.15), rgba(15, 23, 42, 0.72)),
+                radial-gradient(circle at top right, rgba(34, 211, 238, 0.16), transparent 52%);
+        }
+
+        .latest-update-card.is-refreshing::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(100deg, transparent 10%, rgba(255,255,255,0.09) 38%, transparent 64%);
+            animation: shimmer 1.2s linear infinite;
+        }
+
+        @keyframes shimmer {
+            from { transform: translateX(-100%); }
+            to { transform: translateX(100%); }
+        }
+
+        .latest-update-card.just-updated {
+            animation: updateGlow 1.4s ease;
+        }
+
+        @keyframes updateGlow {
+            0% { box-shadow: 0 0 0 rgba(56, 189, 248, 0), inset 0 1px 0 rgba(255,255,255,0.04); }
+            35% { box-shadow: 0 0 26px rgba(56, 189, 248, 0.38), inset 0 1px 0 rgba(255,255,255,0.08); }
+            100% { box-shadow: 0 0 0 rgba(56, 189, 248, 0), inset 0 1px 0 rgba(255,255,255,0.04); }
+        }
+
+        .status-label {
+            color: #93a4bd;
+            font-size: 0.68rem;
+            font-weight: 800;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+        }
+
+        .status-value {
+            color: #f8fafc;
+            font-size: 0.96rem;
+            font-weight: 750;
+            line-height: 1.2;
+            overflow-wrap: anywhere;
+        }
+
+        .status-value-strong {
+            color: var(--accent-primary);
+            font-size: 1.35rem;
+            letter-spacing: 0;
+        }
+
+        .pipeline-flow {
+            display: grid;
+            grid-template-columns: repeat(6, minmax(0, 1fr));
+            gap: 0.5rem;
+            margin-top: 0.85rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        .pipeline-step {
+            border: 1px solid rgba(148, 163, 184, 0.12);
+            border-radius: 12px;
+            padding: 0.55rem 0.62rem;
+            background: rgba(2, 6, 23, 0.42);
+            color: #93a4bd;
+            font-size: 0.72rem;
+            font-weight: 750;
+            text-align: center;
+            transition: var(--transition);
+        }
+
+        .control-surface.is-refreshing .pipeline-step {
+            color: #dff8ff;
+            border-color: rgba(56, 189, 248, 0.28);
+            background: rgba(14, 165, 233, 0.12);
+            animation: stepPulse 1.8s ease-in-out infinite;
+        }
+
+        .control-surface.is-refreshing .pipeline-step:nth-child(2) { animation-delay: 0.12s; }
+        .control-surface.is-refreshing .pipeline-step:nth-child(3) { animation-delay: 0.24s; }
+        .control-surface.is-refreshing .pipeline-step:nth-child(4) { animation-delay: 0.36s; }
+        .control-surface.is-refreshing .pipeline-step:nth-child(5) { animation-delay: 0.48s; }
+        .control-surface.is-refreshing .pipeline-step:nth-child(6) { animation-delay: 0.6s; }
+
+        @keyframes stepPulse {
+            50% { transform: translateY(-1px); box-shadow: 0 0 14px rgba(56, 189, 248, 0.16); }
+        }
+
+        .filter-row {
             display: flex;
             flex-wrap: wrap;
             gap: 0.75rem;
             align-items: center;
+            margin-top: 1rem;
         }
 
         .status-pill, .topic-chip {
@@ -226,6 +524,49 @@
         .action-btn:hover {
             border-color: var(--accent-primary);
             color: var(--accent-primary);
+        }
+
+        .refresh-action {
+            min-height: 58px;
+            border: 1px solid rgba(56, 189, 248, 0.45);
+            border-radius: 16px;
+            padding: 0.78rem 1.15rem;
+            color: #f8fafc;
+            background: linear-gradient(135deg, #0284c7, #22c55e);
+            box-shadow: 0 14px 32px rgba(14, 165, 233, 0.24);
+            white-space: nowrap;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.55rem;
+        }
+
+        .refresh-action:hover {
+            color: #ffffff;
+            border-color: rgba(125, 211, 252, 0.75);
+            box-shadow: 0 18px 42px rgba(34, 197, 94, 0.2);
+            transform: translateY(-1px);
+        }
+
+        .refresh-action:disabled {
+            cursor: not-allowed;
+            opacity: 0.68;
+            transform: none;
+            box-shadow: none;
+        }
+
+        .refresh-action .button-spinner {
+            display: none;
+            width: 15px;
+            height: 15px;
+            border-radius: 999px;
+            border: 2px solid rgba(255,255,255,0.32);
+            border-top-color: #ffffff;
+            animation: spin 0.75s linear infinite;
+        }
+
+        .refresh-action.is-loading .button-spinner {
+            display: inline-block;
         }
 
         .analytics-panel {
@@ -448,6 +789,15 @@
             height: 100%;
             object-fit: cover;
             transition: transform 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+        }
+
+        .card-header img.source-logo-image {
+            object-fit: contain;
+            padding: 3rem;
+            box-sizing: border-box;
+            background:
+                radial-gradient(circle at 50% 42%, rgba(56, 189, 248, 0.18), transparent 42%),
+                linear-gradient(135deg, rgba(15, 23, 42, 0.96), rgba(8, 47, 73, 0.9));
         }
 
         .card:hover .card-header img {
@@ -823,8 +1173,14 @@
             header {
                 flex-wrap: wrap;
             }
+            .status-dashboard {
+                grid-template-columns: repeat(3, minmax(0, 1fr));
+            }
             .ops-panel {
                 grid-template-columns: 1fr;
+            }
+            .pipeline-flow {
+                grid-template-columns: repeat(3, minmax(0, 1fr));
             }
             .analytics-panel {
                 grid-template-columns: 1fr;
@@ -847,6 +1203,25 @@
         }
         
         @media (max-width: 600px) {
+            .status-dashboard {
+                grid-template-columns: 1fr;
+            }
+            .system-state-row {
+                align-items: stretch;
+            }
+            .live-indicator,
+            .refresh-indicator {
+                width: 100%;
+                box-sizing: border-box;
+            }
+            .status-chip,
+            .refresh-action {
+                width: 100%;
+                min-width: 0;
+            }
+            .pipeline-flow {
+                grid-template-columns: 1fr 1fr;
+            }
             .container {
                 grid-template-columns: 1fr;
             }
@@ -895,19 +1270,64 @@
                 <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
             </svg>
             <input type="text" id="searchInput" placeholder="Search topics, keywords...">
+            <button class="search-btn" id="searchButton" type="button" onclick="performHybridSearch(true)" title="Run hybrid AI search">
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="5" y1="12" x2="19" y2="12"></line>
+                    <polyline points="12 5 19 12 12 19"></polyline>
+                </svg>
+            </button>
         </div>
     </header>
 
     <main class="main-wrapper">
         <section class="ops-panel">
-            <div class="control-surface">
-                <div class="status-row">
-                    <span class="status-pill" id="refreshStatus">Refresh status: checking...</span>
-                    <span class="status-pill" id="sourceCount">Sources: 0</span>
-                    <span class="status-pill">Auto refresh: 10 min</span>
-                    <button class="action-btn" onclick="triggerRefresh()">Refresh Now</button>
+            <div class="control-surface" id="controlSurface">
+                <div class="system-state-row" aria-label="Pipeline state">
+                    <div class="live-indicator">
+                        <span class="live-dot" aria-hidden="true"></span>
+                        <span>Live System Active</span>
+                    </div>
+                    <div class="refresh-indicator is-idle" id="refreshStatusIndicator">
+                        <span class="mini-spinner" aria-hidden="true"></span>
+                        <span id="refreshStatusText">One refresh cycle controls RSS, news, clusters, analysis, and UI</span>
+                    </div>
                 </div>
-                <div class="filter-row" style="margin-top: 0.9rem;">
+                <div class="status-dashboard" aria-label="News refresh overview">
+                    <div class="status-chip">
+                        <span class="status-label">Stories</span>
+                        <strong class="status-value status-value-strong" id="storyStatusCount">0</strong>
+                    </div>
+                    <div class="status-chip latest-update-card" id="latestUpdateCard">
+                        <span class="status-label">Latest Update</span>
+                        <strong class="status-value" id="latestUpdateStatus">Checking...</strong>
+                    </div>
+                    <div class="status-chip">
+                        <span class="status-label">Sources</span>
+                        <strong class="status-value status-value-strong" id="sourceCount">0</strong>
+                    </div>
+                    <div class="status-chip status-chip-accent">
+                        <span class="status-label">Auto Refresh</span>
+                        <strong class="status-value" id="autoRefreshStatus">Every 10 min</strong>
+                    </div>
+                    <div class="status-chip">
+                        <span class="status-label">Next Refresh</span>
+                        <strong class="status-value" id="nextRefreshStatus">Scheduling...</strong>
+                    </div>
+                    <button class="action-btn refresh-action" id="refreshButton" onclick="triggerRefresh()" type="button">
+                        <span class="button-spinner" aria-hidden="true"></span>
+                        <span id="refreshButtonText">Refresh Now</span>
+                    </button>
+                </div>
+                <div class="pipeline-flow" aria-label="Unified refresh pipeline">
+                    <div class="pipeline-step">Fetch RSS</div>
+                    <div class="pipeline-step">Retrieve News</div>
+                    <div class="pipeline-step">Run Clustering</div>
+                    <div class="pipeline-step">Regenerate Clusters</div>
+                    <div class="pipeline-step">Analyze News</div>
+                    <div class="pipeline-step">Refresh UI</div>
+                </div>
+                <div class="search-status" id="searchStatus" aria-live="polite"></div>
+                <div class="filter-row">
                     <select class="select-control" id="credibilityFilter" onchange="applyFilters()">
                         <option value="0">Any credibility</option>
                         <option value="80">Credibility 80+</option>
@@ -985,21 +1405,173 @@
         let activeCountry = '';
         let activeDomain = '';
         let lastDataUpdatedAt = '';
+        let contentMode = 'checking';
+        let lastRefreshAt = null;
+        let nextAutoRefreshAt = new Date(Date.now() + 600000);
+        let refreshInProgress = false;
+        let searchInProgress = false;
+        let searchDebounce = null;
+        let searchRequestId = 0;
+        let activeSearchQuery = '';
+        let activeSearchResults = null;
+        const AUTO_REFRESH_INTERVAL_MS = 10 * 60 * 1000;
+        const REFRESH_STATUS_POLL_MS = 3000;
+        const REFRESH_STATUS_TIMEOUT_MS = 20 * 60 * 1000;
         const API_BASE = window.location.protocol === 'file:' ? 'http://127.0.0.1:5000' : '';
         const DEFAULT_NEWS_IMAGE = 'static/aisia-lab-default.jpg';
         const BACKUP_NEWS_IMAGE = 'static/default-news.svg';
 
-        function apiFetch(path, options) {
-            return fetch(`${API_BASE}${path}`, options);
+        function apiFetch(path, options = {}) {
+            const separator = path.includes('?') ? '&' : '?';
+            return fetch(`${API_BASE}${path}${separator}_v=${Date.now()}`, {
+                cache: 'no-store',
+                ...options,
+                headers: {
+                    'Cache-Control': 'no-cache',
+                    ...(options.headers || {})
+                }
+            });
         }
 
-        function fetchJson(path) {
-            return fetch(path).then(response => {
+        function formatDateTime(date) {
+            if (!date || Number.isNaN(date.getTime())) {
+                return 'Not yet';
+            }
+            const day = date.toLocaleDateString([], {
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric'
+            });
+            const time = date.toLocaleTimeString([], {
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+            return `${day} \u2014 ${time}`;
+        }
+
+        function formatTime(date) {
+            if (!date || Number.isNaN(date.getTime())) {
+                return 'Not scheduled';
+            }
+            return date.toLocaleTimeString([], {
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        function setText(id, value) {
+            const element = document.getElementById(id);
+            if (element) {
+                element.textContent = value;
+            }
+        }
+
+        function animateNumber(id, value) {
+            const element = document.getElementById(id);
+            if (!element) return;
+            const nextValue = Number(value || 0);
+            const currentValue = Number(String(element.textContent || '0').replace(/,/g, '')) || 0;
+            if (currentValue === nextValue) {
+                element.textContent = nextValue.toLocaleString();
+                return;
+            }
+            const startedAt = performance.now();
+            const duration = 520;
+            function tick(now) {
+                const progress = Math.min((now - startedAt) / duration, 1);
+                const eased = 1 - Math.pow(1 - progress, 3);
+                const current = Math.round(currentValue + (nextValue - currentValue) * eased);
+                element.textContent = current.toLocaleString();
+                if (progress < 1) requestAnimationFrame(tick);
+            }
+            requestAnimationFrame(tick);
+        }
+
+        function pulseLatestUpdateCard() {
+            const card = document.getElementById('latestUpdateCard');
+            if (!card) return;
+            card.classList.remove('just-updated');
+            void card.offsetWidth;
+            card.classList.add('just-updated');
+            setTimeout(() => card.classList.remove('just-updated'), 1500);
+        }
+
+        function setLatestUpdate(value, shouldPulse = false) {
+            setText('latestUpdateStatus', value);
+            if (shouldPulse) {
+                pulseLatestUpdateCard();
+            }
+        }
+
+        function setStoryCount(count = allNewsData.length) {
+            animateNumber('storyStatusCount', count);
+        }
+
+        function setSourceCount(count) {
+            animateNumber('sourceCount', count);
+        }
+
+        function formatCountdown(date) {
+            if (!date || Number.isNaN(date.getTime())) {
+                return '';
+            }
+            const remaining = Math.max(0, date.getTime() - Date.now());
+            const minutes = Math.floor(remaining / 60000);
+            const seconds = Math.floor((remaining % 60000) / 1000);
+            return `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+        }
+
+        function updateAutoRefreshText() {
+            setText('autoRefreshStatus', 'Every 10 min');
+            const countdown = formatCountdown(nextAutoRefreshAt);
+            const nextText = countdown ? `${formatTime(nextAutoRefreshAt)} \u00b7 ${countdown}` : formatTime(nextAutoRefreshAt);
+            setText('nextRefreshStatus', nextText);
+        }
+
+        function refreshLabel(source) {
+            return source === 'auto' ? 'Auto refresh' : 'Manual refresh';
+        }
+
+        function setRefreshButtonBusy(isBusy) {
+            const refreshBtn = document.getElementById('refreshButton');
+            if (!refreshBtn) return;
+            refreshBtn.disabled = isBusy;
+            refreshBtn.classList.toggle('is-loading', isBusy);
+            setText('refreshButtonText', isBusy ? 'Refreshing...' : 'Refresh Now');
+        }
+
+        function setRefreshUiState(isBusy, message = '') {
+            const surface = document.getElementById('controlSurface');
+            const latestCard = document.getElementById('latestUpdateCard');
+            const indicator = document.getElementById('refreshStatusIndicator');
+            surface?.classList.toggle('is-refreshing', isBusy);
+            latestCard?.classList.toggle('is-refreshing', isBusy);
+            indicator?.classList.toggle('is-idle', !isBusy);
+            setRefreshButtonBusy(isBusy);
+            setText('refreshStatusText', message || 'One refresh cycle controls RSS, news, clusters, analysis, and UI');
+        }
+
+        function readBackendStatus() {
+            return apiFetch('/api/status').then(response => {
                 if (!response.ok) {
-                    throw new Error(`${path} returned ${response.status}`);
+                    throw new Error(`/api/status returned ${response.status}`);
                 }
+                contentMode = 'backend';
                 return response.json();
             });
+        }
+
+        function renderBackendStatus(status) {
+            const nextDate = status.next_refresh_at ? new Date(status.next_refresh_at) : nextAutoRefreshAt;
+            const lastRunDate = status.last_success
+                ? new Date(status.last_success)
+                : (status.latest_update ? new Date(status.latest_update) : (status.last_finished ? new Date(status.last_finished) : lastRefreshAt));
+            setStoryCount(allNewsData.length || status.database?.clusters || 0);
+            setLatestUpdate(status.running ? 'Updating latest news...' : formatDateTime(lastRunDate));
+            setSourceCount(status.sources_count);
+            nextAutoRefreshAt = nextDate;
+            updateAutoRefreshText();
+            setRefreshUiState(Boolean(status.running), status.running ? 'Updating latest news...' : '');
         }
         
         // Category keywords mapping for naive filtering
@@ -1014,12 +1586,44 @@
         const savedBookmarks = JSON.parse(localStorage.getItem('aiNewsBookmarks') || '[]');
 
         document.addEventListener("DOMContentLoaded", () => {
-            loadStatus();
-            fetchNews();
-            setInterval(loadStatus, 15000);
+            updateAutoRefreshText();
+            fetchNews().then(loadStatus);
+            setInterval(updateAutoRefreshText, 1000);
+            // Check status every 30 seconds
+            setInterval(() => {
+                if (!refreshInProgress) {
+                    loadStatus();
+                }
+                updateAutoRefreshText();
+            }, 30000);
+
+            // Automatic full refresh every 10 minutes
+            setInterval(() => {
+                triggerRefresh('auto');
+            }, AUTO_REFRESH_INTERVAL_MS);
 
             document.getElementById('searchInput').addEventListener('input', (e) => {
-                applyFilters();
+                const value = e.target.value.trim();
+                clearTimeout(searchDebounce);
+                if (!value) {
+                    clearHybridSearch();
+                    return;
+                }
+                if (value.length < 3 || value.startsWith('domain:')) {
+                    activeSearchResults = null;
+                    activeSearchQuery = '';
+                    applyFilters();
+                    return;
+                }
+                showSearchStatus(['Searching local intelligence memory...'], true);
+                searchDebounce = setTimeout(() => performHybridSearch(false), 550);
+            });
+
+            document.getElementById('searchInput').addEventListener('keydown', (event) => {
+                if (event.key === 'Enter') {
+                    event.preventDefault();
+                    performHybridSearch(true);
+                }
             });
         });
 
@@ -1029,10 +1633,9 @@
                     if (!response.ok) {
                         throw new Error(`/api/news returned ${response.status}`);
                     }
+                    contentMode = 'backend';
                     return response.json();
                 })
-                .catch(() => fetchJson('./summarizedNews.json'))
-                .catch(() => fetchJson('./clusteredNews.json'))
                 .then(data => {
                     const container = document.getElementById('news-container');
                     if (data.error) {
@@ -1048,11 +1651,152 @@
                     renderTopics(data);
                     renderAnalytics(data);
                     renderTrendingNews(data);
-                    applyFilters();
+                    updateStatusFromData(data);
+                    const currentSearch = document.getElementById('searchInput')?.value.trim();
+                    if (activeSearchQuery && currentSearch === activeSearchQuery && !searchInProgress) {
+                        performHybridSearch(false);
+                    } else {
+                        applyFilters();
+                    }
                 })
                 .catch(err => {
-                    document.getElementById('news-container').innerHTML = `<div class="loading">No news data found. Deploy summarizedNews.json or run the Flask backend.<br><small>${escapeHTML(err.message)}</small></div>`;
+                    contentMode = 'backend-unavailable';
+                    document.getElementById('news-container').innerHTML = `<div class="loading">Live backend unavailable. Start the Flask server to fetch real-time news.<br><small>${escapeHTML(err.message)}</small></div>`;
                     console.error(err);
+                    return false;
+                });
+        }
+
+        function uniqueSourceCount(data) {
+            const sources = new Set();
+            data.forEach(cluster => {
+                (cluster.sources || []).forEach(source => sources.add(String(source)));
+                (cluster.articles || []).forEach(article => {
+                    if (article.source_domain) sources.add(article.source_domain);
+                    if (article.feed_url) sources.add(article.feed_url);
+                });
+                if (cluster.main_article?.source_domain) sources.add(cluster.main_article.source_domain);
+            });
+            return sources.size;
+        }
+
+        function latestPublishedAt(data) {
+            const timestamps = data
+                .map(cluster => Date.parse(cluster.main_article?.published || ''))
+                .filter(time => Number.isFinite(time));
+            return timestamps.length ? new Date(Math.max(...timestamps)) : null;
+        }
+
+        function updateStatusFromData(data) {
+            setStoryCount(data.length);
+            if (contentMode === 'static') {
+                updateStaticStatus('Static data loaded');
+            }
+        }
+
+        function updateStaticStatus(label) {
+            const updatedAt = latestPublishedAt(allNewsData);
+            const refreshedAt = lastRefreshAt || updatedAt;
+            setStoryCount(allNewsData.length);
+            setLatestUpdate(refreshedAt ? formatDateTime(refreshedAt) : label);
+            setSourceCount(uniqueSourceCount(allNewsData));
+            updateAutoRefreshText();
+        }
+
+        function showSearchStatus(steps = [], isBusy = false, mode = '') {
+            const status = document.getElementById('searchStatus');
+            const button = document.getElementById('searchButton');
+            if (!status) return;
+            button.disabled = Boolean(isBusy);
+            if (!steps.length) {
+                status.classList.remove('active');
+                status.innerHTML = '';
+                return;
+            }
+            status.classList.add('active');
+            const modeText = mode ? `<span class="search-stage live">${escapeHTML(mode)}</span>` : '';
+            status.innerHTML = `${modeText}${steps.map(step => `<span class="search-stage">${escapeHTML(step)}</span>`).join('')}`;
+        }
+
+        function renderSearchSkeleton(query) {
+            document.getElementById('sectionTitle').innerText = `AI Search: ${query}`;
+            document.getElementById('news-container').innerHTML = Array.from({ length: 6 }).map(() => `
+                <div class="card" style="min-height: 360px;">
+                    <div class="card-header" style="height: 160px;">
+                        <div class="loading pulse" style="padding: 3rem 1rem;">Running AI news discovery...</div>
+                    </div>
+                    <div class="card-body" style="margin-top: 0;">
+                        <div class="loading pulse" style="padding: 1rem 0;">Fetching, clustering, and analyzing live intelligence...</div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function clearHybridSearch() {
+            clearTimeout(searchDebounce);
+            activeSearchQuery = '';
+            activeSearchResults = null;
+            showSearchStatus([]);
+            document.getElementById('sectionTitle').innerText = currentCategory === 'All' ? 'Top Stories' : `${currentCategory} News`;
+            renderAnalytics(allNewsData);
+            renderTrendingNews(allNewsData);
+            applyFilters();
+        }
+
+        window.performHybridSearch = function(force = false) {
+            const input = document.getElementById('searchInput');
+            const query = input.value.trim();
+            if (!query) {
+                clearHybridSearch();
+                return Promise.resolve();
+            }
+            if (query.startsWith('domain:')) {
+                applyFilters();
+                return Promise.resolve();
+            }
+            if (!force && query.length < 3) {
+                applyFilters();
+                return Promise.resolve();
+            }
+
+            const requestId = ++searchRequestId;
+            searchInProgress = true;
+            activeSearchQuery = query;
+            showSearchStatus(['Searching local intelligence memory...'], true, 'Hybrid AI Search');
+            renderSearchSkeleton(query);
+
+            return apiFetch('/api/search?q=' + encodeURIComponent(query))
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`/api/search returned ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(payload => {
+                    if (requestId !== searchRequestId) return;
+                    const clusters = Array.isArray(payload) ? payload : (payload.clusters || []);
+                    activeSearchResults = clusters;
+                    showSearchStatus(payload.steps || ['Clusters generated successfully.'], false, payload.mode === 'live' ? 'LIVE RESULTS' : 'LOCAL MEMORY');
+                    document.getElementById('sectionTitle').innerText = `${clusters.length} AI Search Result${clusters.length === 1 ? '' : 's'}: ${query}`;
+                    renderAnalytics(clusters);
+                    renderTrendingNews(clusters);
+                    renderCards(clusters);
+                    if (!clusters.length) {
+                        document.getElementById('news-container').innerHTML = `<div class="no-results">No intelligent search results found for "${escapeHTML(query)}".</div>`;
+                    }
+                })
+                .catch(error => {
+                    if (requestId !== searchRequestId) return;
+                    console.error(error);
+                    activeSearchResults = null;
+                    showSearchStatus(['Search failed before live intelligence could be loaded.'], false, 'Search Error');
+                    document.getElementById('news-container').innerHTML = `<div class="no-results">Hybrid search failed.<br><small>${escapeHTML(error.message)}</small></div>`;
+                })
+                .finally(() => {
+                    if (requestId === searchRequestId) {
+                        searchInProgress = false;
+                        document.getElementById('searchButton').disabled = false;
+                    }
                 });
         }
 
@@ -1091,7 +1835,8 @@
             const sortBy = document.getElementById('sortFilter').value;
             const bookmarksOnly = document.getElementById('bookmarksOnly').checked;
             
-            let filtered = [...allNewsData];
+            const usingSearchResults = activeSearchResults && activeSearchQuery && term.trim() === activeSearchQuery.toLowerCase();
+            let filtered = [...(usingSearchResults ? activeSearchResults : allNewsData)];
             
             // Apply category filter
             if(currentCategory !== 'All') {
@@ -1114,13 +1859,16 @@
             if (activeCountry) {
                 const lowerCountry = activeCountry.toLowerCase();
                 filtered = filtered.filter(cluster => {
+                    const main = cluster.main_article || {};
                     const text = (cluster.main_article.title + " " + (cluster.ai_summary_bullets || []).join(" ")).toLowerCase();
-                    return new RegExp('\\b' + lowerCountry + '\\b').test(text);
+                    const sourceCountry = String(main.source_country || '').toLowerCase();
+                    const sourceRegion = String(main.source_region || '').toLowerCase();
+                    return sourceCountry === lowerCountry || sourceRegion === lowerCountry || new RegExp('\\b' + lowerCountry + '\\b').test(text);
                 });
             }
             
-            // Apply search term filter
-            if(term) {
+            // Apply simple local text filter only when hybrid search is not controlling the result set.
+            if(term && !usingSearchResults) {
                 filtered = filtered.filter(cluster => {
                     const titleMatch = cluster.main_article.title.toLowerCase().includes(term);
                     const domainMatch = cluster.main_article.source_domain.toLowerCase().includes(term);
@@ -1147,28 +1895,10 @@
                 if (sortBy === 'sources') return (b.sources || []).length - (a.sources || []).length;
                 return new Date(b.main_article.published || 0) - new Date(a.main_article.published || 0);
             });
-            
-            if (filtered.length === 0 && term && !term.startsWith('domain:')) {
-                document.getElementById('news-container').innerHTML = `<div class="loading">
-                    <svg width="40" height="40" viewBox="0 0 50 50" class="spinner"><circle cx="25" cy="25" r="20" fill="none" stroke="var(--primary)" stroke-width="4" stroke-linecap="round" stroke-dasharray="80" stroke-dashoffset="0"><animateTransform attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="1s" repeatCount="indefinite"/></circle></svg>
-                    <br>Searching live web sources for "${escapeHTML(term)}"...
-                </div>`;
-                fetch(API_BASE + '/api/search?q=' + encodeURIComponent(term))
-                    .then(r => r.json())
-                    .then(searchData => {
-                        if (searchData && searchData.length > 0) {
-                            renderCards(searchData);
-                        } else {
-                            document.getElementById('news-container').innerHTML = `<div class="empty-state">No stories match your criteria or live search.</div>`;
-                        }
-                    })
-                    .catch(e => {
-                        console.error(e);
-                        document.getElementById('news-container').innerHTML = `<div class="empty-state">No stories match your criteria. Live search failed.</div>`;
-                    });
-            } else {
-                renderCards(filtered);
-            }
+
+            renderAnalytics(filtered);
+            renderTrendingNews(filtered);
+            renderCards(filtered);
         }
 
         function escapeHTML(value) {
@@ -1216,6 +1946,14 @@
         function renderCountries(data) {
             const counts = {};
             data.forEach(cluster => {
+                const main = cluster.main_article || {};
+                const sourceCountry = main.source_country || '';
+                const sourceRegion = main.source_region || '';
+                if (sourceCountry && sourceCountry !== 'Global') {
+                    counts[sourceCountry] = (counts[sourceCountry] || 0) + 1;
+                } else if (sourceRegion && sourceRegion !== 'Global') {
+                    counts[sourceRegion] = (counts[sourceRegion] || 0) + 1;
+                }
                 const text = (cluster.main_article.title + " " + (cluster.ai_summary_bullets || []).join(" ")).toLowerCase();
                 topCountries.forEach(country => {
                     // Match country name as a whole word
@@ -1332,26 +2070,102 @@
             applyFilters();
         }
 
-        window.triggerRefresh = function() {
-            document.getElementById('refreshStatus').textContent = 'Refresh status: starting...';
-            apiFetch('/api/refresh', { method: 'POST' })
-                .then(response => response.json())
-                .then(() => loadStatus())
-                .catch(() => document.getElementById('refreshStatus').textContent = 'Refresh status: unavailable');
+        function waitForRefreshCompletion(source, startedAt, deadline = Date.now() + REFRESH_STATUS_TIMEOUT_MS) {
+            const label = refreshLabel(source);
+            return readBackendStatus().then(status => {
+                if (status.running) {
+                    if (Date.now() > deadline) {
+                        throw new Error('Refresh timed out before the backend finished.');
+                    }
+                    const phase = status.phase || 'refreshing';
+                    setLatestUpdate('Updating latest news...');
+                    setRefreshUiState(true, `Updating latest news... ${phase}`);
+                    setSourceCount(status.sources_count);
+                    if (status.next_refresh_at) {
+                        nextAutoRefreshAt = new Date(status.next_refresh_at);
+                    }
+                    updateAutoRefreshText();
+                    return new Promise(resolve => setTimeout(resolve, REFRESH_STATUS_POLL_MS))
+                        .then(() => waitForRefreshCompletion(source, startedAt, deadline));
+                }
+
+                if (status.last_error) {
+                    throw new Error(status.last_error);
+                }
+
+                return fetchNews().then(ok => {
+                    if (ok === false) {
+                        throw new Error('Frontend could not load regenerated news data.');
+                    }
+                    const finishedAt = status.latest_update ? new Date(status.latest_update) : (status.last_finished ? new Date(status.last_finished) : new Date());
+                    lastRefreshAt = finishedAt;
+                    if (status.next_refresh_at) {
+                        nextAutoRefreshAt = new Date(status.next_refresh_at);
+                    }
+                    setStoryCount(allNewsData.length);
+                    setLatestUpdate(formatDateTime(finishedAt), true);
+                    setSourceCount(status.sources_count);
+                    updateAutoRefreshText();
+                    return status;
+                });
+            });
+        }
+
+        window.triggerRefresh = function(source = 'manual') {
+            if (refreshInProgress) {
+                setLatestUpdate(`Running since ${formatDateTime(lastRefreshAt)}`);
+                return Promise.resolve();
+            }
+
+            const startedAt = new Date();
+            lastRefreshAt = startedAt;
+            refreshInProgress = true;
+            setRefreshUiState(true, 'Fetching latest global news...');
+            setLatestUpdate('Updating latest news...');
+            if (source === 'auto') {
+                nextAutoRefreshAt = new Date(Date.now() + AUTO_REFRESH_INTERVAL_MS);
+                updateAutoRefreshText();
+            }
+
+            const label = refreshLabel(source);
+            const refreshWork = apiFetch('/api/refresh', { method: 'POST' })
+                    .then(response => {
+                        if (!response.ok && response.status !== 409) {
+                            throw new Error(`/api/refresh returned ${response.status}`);
+                        }
+                        return response.json();
+                    })
+                    .then(() => {
+                        setLatestUpdate('Updating latest news...');
+                        setRefreshUiState(true, 'Running AI analysis...');
+                        return waitForRefreshCompletion(source, startedAt);
+                    });
+
+            return refreshWork
+                .catch(error => {
+                    console.error(error);
+                    setLatestUpdate(`${label} failed at ${formatDateTime(new Date())}`);
+                    setText('refreshStatusText', 'Refresh failed before new live news reached the dashboard');
+                })
+                .finally(() => {
+                    refreshInProgress = false;
+                    setRefreshUiState(false);
+                });
         }
 
         function loadStatus() {
-            return apiFetch('/api/status')
-                .then(response => response.json())
+            return readBackendStatus()
                 .then(status => {
-                    const state = status.running ? status.phase : (status.last_error ? 'last run failed' : 'live');
-                    const next = status.next_refresh_at ? new Date(status.next_refresh_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : 'scheduled';
-                    const updated = status.data_updated_at ? new Date(status.data_updated_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : 'not yet';
-                    document.getElementById('refreshStatus').textContent = `Live fetch: ${state} | updated ${updated} | next ${next}`;
-                    document.getElementById('sourceCount').textContent = `Sources: ${status.sources_count}`;
+                    renderBackendStatus(status);
                     if (!status.running && status.data_updated_at && status.data_updated_at !== lastDataUpdatedAt) {
                         lastDataUpdatedAt = status.data_updated_at;
-                        fetchNews();
+                        return fetchNews();
+                    }
+                })
+                .catch(() => {
+                    contentMode = 'static';
+                    if (allNewsData.length) {
+                        updateStaticStatus('Static data ready');
                     }
                 });
         }
@@ -1417,13 +2231,14 @@
             data.forEach((cluster, index) => {
                 const mainArticle = cluster.main_article;
                 let bullets = cluster.ai_summary_bullets || ["Analysis unavailable."];
-                const sourceCount = cluster.sources.length;
+                const sourceCount = (cluster.sources || []).length;
                 
                 // Clean and format domain
                 let domainName = mainArticle.source_domain.replace('www.', '');
                 const faviconUrl = `https://www.google.com/s2/favicons?domain=${domainName}&sz=32`;
                 
                 const imageUrl = getClusterImage(cluster);
+                const imageClass = cluster.media?.is_logo_fallback ? 'source-logo-image' : '';
 
                 // Date parsing
                 let dateStr = "Recent";
@@ -1463,6 +2278,12 @@
                 else if(bias > 0.5) biasLabel = "Right";
 
                 const isSaved = savedBookmarks.includes(cluster.cluster_id) ? 'saved' : '';
+                const clusterIdArg = JSON.stringify(cluster.cluster_id);
+                const resultBadge = cluster.is_live_result || cluster.result_type === 'live'
+                    ? '<div class="live-result-badge">Live Result</div>'
+                    : cluster.result_type === 'local'
+                        ? '<div class="live-result-badge">AI Memory</div>'
+                        : '';
                 const credibility = cluster.credibility_score || Math.round(trust * 10);
                 const fakeNews = cluster.fake_news || { label: 'Needs verification', score: credibility, signals: ['No explainability signals available yet.'] };
                 const claim = cluster.claim_analysis || { label: 'Unknown', agreement_score: 0, contradictions: [] };
@@ -1480,9 +2301,10 @@
                                 <img src="${faviconUrl}" alt="" onerror="this.style.display='none'">
                                 ${escapeHTML(domainName)}
                             </div>
+                            ${resultBadge}
                             
                             <div class="card-top-actions">
-                                <button class="icon-btn ${isSaved}" onclick="toggleBookmark(event, ${cluster.cluster_id})" title="Save for later">
+                                <button class="icon-btn ${isSaved}" onclick='toggleBookmark(event, ${clusterIdArg})' title="Save for later">
                                     <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                         <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
                                     </svg>
@@ -1494,7 +2316,7 @@
                                 </button>
                             </div>
 
-                            <img src="${escapeHTML(imageUrl)}" loading="lazy" alt="${escapeHTML(mainArticle.title)}" onerror="this.onerror=null; this.src=this.src.includes('${DEFAULT_NEWS_IMAGE}') ? '${BACKUP_NEWS_IMAGE}' : '${DEFAULT_NEWS_IMAGE}'">
+                            <img class="${imageClass}" src="${escapeHTML(imageUrl)}" loading="lazy" alt="${escapeHTML(mainArticle.title)}" onerror="this.onerror=null; this.src=this.src.includes('${DEFAULT_NEWS_IMAGE}') ? '${BACKUP_NEWS_IMAGE}' : '${DEFAULT_NEWS_IMAGE}'">
                         </div>
 
                         <div class="card-body">

@@ -131,6 +131,14 @@ def save_clusters(clusters):
     sync_mongodb(clusters)
 
 
+def replace_clusters(clusters):
+    init_db()
+    with get_connection() as conn:
+        conn.execute("DELETE FROM articles")
+        conn.execute("DELETE FROM clusters")
+    save_clusters(clusters)
+
+
 def build_analytics(clusters):
     categories = Counter(cluster.get("category", "General") for cluster in clusters)
     sentiments = Counter((cluster.get("sentiment") or {}).get("label", "Neutral") for cluster in clusters)

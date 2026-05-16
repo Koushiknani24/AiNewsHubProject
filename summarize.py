@@ -55,6 +55,13 @@ else:
     summarizer = None
     print("Sumy not installed. Using lightweight sentence-rank fallback.")
 
+
+def safe_log(message):
+    try:
+        print(message)
+    except UnicodeEncodeError:
+        print(str(message).encode("ascii", errors="replace").decode("ascii"))
+
 def extract_full_text(url):
     """Attempt to extract the full text from the article URL for better summarization."""
     try:
@@ -119,7 +126,7 @@ def fallback_summary(text):
 
 def process_cluster(cluster):
     main_article = cluster['main_article']
-    print(f"Summarizing: {main_article['title']}")
+    safe_log(f"Summarizing: {main_article['title']}")
     
     # 1. First, try to get the full article text
     full_text = extract_full_text(main_article['link'])

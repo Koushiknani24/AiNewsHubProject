@@ -193,7 +193,10 @@ def analyze_cluster(cluster):
     if not text.strip() and cluster.get("main_article"):
         text = article_text(cluster["main_article"])
 
-    ratings = [source_rating(a.get("source_domain", ""))["score"] for a in articles] or [58]
+    ratings = [
+        a.get("source_reliability") or source_rating(a.get("source_domain", ""))["score"]
+        for a in articles
+    ] or [58]
     avg_reliability = sum(ratings) / len(ratings)
     agreement = claim_agreement(articles)
     source_bias = cluster.get("bias_meter", 0)
@@ -209,7 +212,15 @@ def analyze_cluster(cluster):
     cluster["source_reliability_history"] = [
         {
             "domain": a.get("source_domain", "unknown"),
-            **source_rating(a.get("source_domain", "")),
+            **(
+                {
+                    **source_rating(a.get("source_domain", "")),
+                    "score": a.get("source_reliability") or source_rating(a.get("source_domain", ""))["score"],
+                }
+            ),
+            "country": a.get("source_country", "Global"),
+            "region": a.get("source_region", "Global"),
+            "category": a.get("source_category", "General"),
         }
         for a in articles[:6]
     ]
