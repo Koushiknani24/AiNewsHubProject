@@ -136,6 +136,10 @@ def start_background_services():
 def serve_index():
     return send_from_directory('.', 'index.html')
 
+@app.route('/summarizedNews.json')
+def serve_static_news_data():
+    return send_from_directory('.', DATA_FILE)
+
 @app.route('/api/news')
 def get_news():
     if not os.path.exists(DATA_FILE):

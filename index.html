@@ -992,6 +992,15 @@
         function apiFetch(path, options) {
             return fetch(`${API_BASE}${path}`, options);
         }
+
+        function fetchJson(path) {
+            return fetch(path).then(response => {
+                if (!response.ok) {
+                    throw new Error(`${path} returned ${response.status}`);
+                }
+                return response.json();
+            });
+        }
         
         // Category keywords mapping for naive filtering
         const categoryMap = {
@@ -1016,7 +1025,14 @@
 
         function fetchNews() {
             return apiFetch('/api/news')
-                .then(response => response.json())
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`/api/news returned ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .catch(() => fetchJson('./summarizedNews.json'))
+                .catch(() => fetchJson('./clusteredNews.json'))
                 .then(data => {
                     const container = document.getElementById('news-container');
                     if (data.error) {
@@ -1035,7 +1051,7 @@
                     applyFilters();
                 })
                 .catch(err => {
-                    document.getElementById('news-container').innerHTML = `<div class="loading">Failed to connect to backend interface.</div>`;
+                    document.getElementById('news-container').innerHTML = `<div class="loading">No news data found. Deploy summarizedNews.json or run the Flask backend.<br><small>${escapeHTML(err.message)}</small></div>`;
                     console.error(err);
                 });
         }
