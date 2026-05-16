@@ -1,0 +1,55 @@
+name: Refresh News Data
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-news-data
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install refresh dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install beautifulsoup4 feedparser numpy scikit-learn
+
+      - name: Run news refresh pipeline
+        env:
+          MAX_ARTICLES_PER_REFRESH: "220"
+          MAX_CLUSTERS_PER_REFRESH: "80"
+          MAX_SOURCES_PER_REFRESH: "220"
+          ARTICLES_PER_FEED: "3"
+          FEED_FETCH_TIMEOUT: "2.5"
+          GLOBAL_FETCH_TIMEOUT: "7.0"
+          REFRESH_DEEP_MEDIA: "0"
+        run: |
+          python -c "from refresh_pipeline import run_full_refresh_pipeline; result = run_full_refresh_pipeline(); print(result['metadata'])"
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add clusteredNews.json summarizedNews.json newsData.js imageCache.json latestRefresh.json news_hub.db
+          if git diff --cached --quiet; then
+            echo "No refreshed data changes to commit."
+          else
+            git commit -m "chore: auto refresh news data"
+            git push
+          fi

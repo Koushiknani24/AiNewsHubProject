@@ -41,8 +41,6 @@ CORE_SOURCES = [
     FeedSource("Reuters World", "https://feeds.reuters.com/reuters/worldNews", "Global", "Global", "World", 94, "fast"),
     FeedSource("Reuters Business", "https://feeds.reuters.com/reuters/businessNews", "Global", "Global", "Business", 94, "fast"),
     FeedSource("Reuters Technology", "https://feeds.reuters.com/reuters/technologyNews", "Global", "Global", "Technology", 94, "fast"),
-    FeedSource("BBC India", "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml", "India", "Asia", "World", 86, "standard"),
-    FeedSource("The Hindu Technology", "https://www.thehindu.com/sci-tech/technology/feeder/default.rss", "India", "Asia", "Technology", 78, "standard"),
     FeedSource("AP Top News", "https://apnews.com/hub/ap-top-news?output=rss", "USA", "North America", "Breaking", 93, "fast"),
     FeedSource("AP World", "https://apnews.com/hub/world-news?output=rss", "Global", "Global", "World", 93, "fast"),
     FeedSource("BBC News", "https://feeds.bbci.co.uk/news/rss.xml", "UK", "Europe", "Breaking", 86, "fast"),
