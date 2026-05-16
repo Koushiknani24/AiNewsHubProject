@@ -750,6 +750,51 @@
             align-items: start;
         }
 
+        .pagination-bar {
+            display: none;
+            align-items: center;
+            justify-content: center;
+            gap: 0.6rem;
+            margin: 1.5rem 0 0;
+            flex-wrap: wrap;
+        }
+
+        .pagination-bar.active {
+            display: flex;
+        }
+
+        .page-btn {
+            min-width: 42px;
+            height: 38px;
+            border-radius: 10px;
+            border: 1px solid rgba(148, 163, 184, 0.18);
+            background: rgba(15, 23, 42, 0.72);
+            color: #dbeafe;
+            font-family: inherit;
+            font-weight: 750;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .page-btn:hover:not(:disabled),
+        .page-btn.active {
+            border-color: rgba(56, 189, 248, 0.48);
+            color: #ffffff;
+            background: rgba(14, 165, 233, 0.2);
+        }
+
+        .page-btn:disabled {
+            opacity: 0.42;
+            cursor: not-allowed;
+        }
+
+        .page-count {
+            color: #94a3b8;
+            font-size: 0.82rem;
+            font-weight: 700;
+            padding: 0 0.35rem;
+        }
+
         /* --- PREMIUM CARD DESIGN --- */
         .card {
             background: linear-gradient(180deg, rgba(30, 41, 59, 0.7) 0%, rgba(15, 23, 42, 0.8) 100%);
@@ -1389,6 +1434,7 @@
         <div class="container" id="news-container">
             <div class="loading pulse">Synthesizing global intelligence...</div>
         </div>
+        <div class="pagination-bar" id="paginationBar" aria-label="News pagination"></div>
     </main>
 
     <script>
@@ -1408,9 +1454,12 @@
         let activeSearchQuery = '';
         let activeSearchResults = null;
         let staticRefreshMetadata = null;
+        let currentPage = 1;
+        let currentPagedData = [];
         const AUTO_REFRESH_INTERVAL_MS = 10 * 60 * 1000;
         const REFRESH_STATUS_POLL_MS = 3000;
         const REFRESH_STATUS_TIMEOUT_MS = 20 * 60 * 1000;
+        const NEWS_PAGE_SIZE = 12;
         const API_BASE = window.location.protocol === 'file:' ? 'http://127.0.0.1:5000' : '';
         const DEFAULT_NEWS_IMAGE = 'static/aisia-lab-default.jpg';
         const BACKUP_NEWS_IMAGE = 'static/default-news.svg';
@@ -1976,7 +2025,7 @@
 
             renderAnalytics(filtered);
             renderTrendingNews(filtered);
-            renderCards(filtered);
+            renderCards(filtered, 1);
         }
 
         function escapeHTML(value) {
@@ -2304,11 +2353,44 @@
             }
         }
 
-        function renderCards(data) {
+        function renderPagination(totalItems, totalPages) {
+            const pagination = document.getElementById('paginationBar');
+            if (!pagination) return;
+            if (totalPages <= 1) {
+                pagination.classList.remove('active');
+                pagination.innerHTML = '';
+                return;
+            }
+
+            const startPage = Math.max(1, currentPage - 2);
+            const endPage = Math.min(totalPages, startPage + 4);
+            const pageButtons = [];
+            for (let page = startPage; page <= endPage; page += 1) {
+                pageButtons.push(`<button class="page-btn ${page === currentPage ? 'active' : ''}" onclick="changeNewsPage(${page})" type="button">${page}</button>`);
+            }
+
+            const startItem = (currentPage - 1) * NEWS_PAGE_SIZE + 1;
+            const endItem = Math.min(totalItems, currentPage * NEWS_PAGE_SIZE);
+            pagination.classList.add('active');
+            pagination.innerHTML = `
+                <button class="page-btn" onclick="changeNewsPage(${currentPage - 1})" type="button" ${currentPage <= 1 ? 'disabled' : ''}>Prev</button>
+                ${pageButtons.join('')}
+                <button class="page-btn" onclick="changeNewsPage(${currentPage + 1})" type="button" ${currentPage >= totalPages ? 'disabled' : ''}>Next</button>
+                <span class="page-count">${startItem}-${endItem} of ${totalItems}</span>
+            `;
+        }
+
+        window.changeNewsPage = function(page) {
+            renderCards(currentPagedData, page);
+            document.getElementById('sectionTitle').scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+
+        function renderCards(data, page = 1) {
             const container = document.getElementById('news-container');
             container.innerHTML = '';
-
+            
             if (data.length === 0) {
+                renderPagination(0, 0);
                 container.innerHTML = `
                     <div class="no-results">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="width: 48px; height: 48px; margin-bottom: 1rem; opacity: 0.5;">
@@ -2319,7 +2401,13 @@
                 return;
             }
 
-            data.forEach((cluster, index) => {
+            currentPagedData = data;
+            const totalPages = Math.max(1, Math.ceil(data.length / NEWS_PAGE_SIZE));
+            currentPage = Math.min(Math.max(Number(page) || 1, 1), totalPages);
+            const pageData = data.slice((currentPage - 1) * NEWS_PAGE_SIZE, currentPage * NEWS_PAGE_SIZE);
+            renderPagination(data.length, totalPages);
+
+            pageData.forEach((cluster, index) => {
                 const mainArticle = cluster.main_article;
                 let bullets = cluster.ai_summary_bullets || ["Analysis unavailable."];
                 const sourceCount = (cluster.sources || []).length;
