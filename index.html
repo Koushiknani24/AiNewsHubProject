@@ -1660,10 +1660,33 @@
                     }
                 })
                 .catch(err => {
-                    contentMode = 'backend-unavailable';
-                    document.getElementById('news-container').innerHTML = `<div class="loading">Live backend unavailable. Start the Flask server to fetch real-time news.<br><small>${escapeHTML(err.message)}</small></div>`;
-                    console.error(err);
-                    return false;
+                    // Backend unreachable — try a static fallback (`summarizedNews.json`) for static hosts (GitHub Pages)
+                    return apiFetch('/summarizedNews.json')
+                        .then(resp => {
+                            if (!resp.ok) throw err;
+                            contentMode = 'static';
+                            return resp.json();
+                        })
+                        .then(data => {
+                            const container = document.getElementById('news-container');
+                            if (!data || (Array.isArray(data) && data.length === 0)) {
+                                container.innerHTML = `<div class="loading">No news found. Please run the backend pipeline.</div>`;
+                                return;
+                            }
+                            allNewsData = data;
+                            renderCountries(data);
+                            renderTopics(data);
+                            renderAnalytics(data);
+                            renderTrendingNews(data);
+                            updateStatusFromData(data);
+                            applyFilters();
+                        })
+                        .catch(() => {
+                            contentMode = 'backend-unavailable';
+                            document.getElementById('news-container').innerHTML = `<div class="loading">Live backend unavailable. Start the Flask server to fetch real-time news.<br><small>${escapeHTML(err.message)}</small></div>`;
+                            console.error(err);
+                            return false;
+                        });
                 });
         }
 
