@@ -2302,5 +2302,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/former-mayor-shot-dead-in-central-colombia-during-election-campaign/article70988448.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/rajasthan/bni-meet-begins-in-jaipur-with-focus-on-long-term-growth-opportunities-for-startups/article70987577.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/05/16/eurovision-final-in-vienna-overshadowed-by-protests-over-israels-participation": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/us-treasury-allows-sanctions-waiver-on-russian-seaborne-oil-to-lapse": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVNyc01IOXAxTVkzT29RMUdsMF92dXFYaDNMX3RlYmduY094Y2JnUWM1LUU5M2FrbVVkSmFOUFN1azBubmtVV29WczNCSTZRbklVZzZSbVlBbnV6dG1pTkdQdHVxcUVvUTdmTkpMV3V4LXBTZkFSX0hRTEZJZXd0ZzYxbmJ0cUtJZXhJaEJuVmJuV0VoSlFTWjlWSXY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTEt4aVVqLUJsYWhYeGZYajMydm15R3g3NzR0Wld0V1FnMEphQ2Q2TVRRZ1puM2RtVGFIYTd3R2ZXcXFqdjg1SWRveFFPMDFCYjllU3NuOFY0aE9URkRzQXRSX09VX1NFM3p1OGpfQXR1Zmd3QThNUUlFVXZlaTVMNm9lWGRCVlNHVUhfMkVVZEJFNFctQXlMaVZMTFd2YUhEd0V2WEhpbno2SFhNMFlERUkxQWJwTGQ2ckw0WVZhWkIwUGc5UVJ6bjFCRnU1MkZub1VKNlNwMG9HNE9IcTcxWlc5Rk5FZ3ZJcHVTWGNQa05UMlBST2VlTWFlY2lRdk5NWTVRSmNjTjVObEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/16/in-response-to-trump-taiwan-says-it-is-sovereign-and-independent?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
