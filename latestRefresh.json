@@ -1,8 +1,8 @@
 {
-    "latest_update": "2026-05-16T07:34:15.863500+00:00",
+    "latest_update": "2026-05-16T07:53:15.841435+00:00",
     "article_count": 220,
     "cluster_count": 80,
-    "source_count": 166,
-    "configured_source_count": 166,
-    "processed_source_count": 166
+    "source_count": 168,
+    "configured_source_count": 168,
+    "processed_source_count": 168
 }

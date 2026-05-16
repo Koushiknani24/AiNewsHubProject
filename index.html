@@ -1414,6 +1414,7 @@
         let searchRequestId = 0;
         let activeSearchQuery = '';
         let activeSearchResults = null;
+        let staticRefreshMetadata = null;
         const AUTO_REFRESH_INTERVAL_MS = 10 * 60 * 1000;
         const REFRESH_STATUS_POLL_MS = 3000;
         const REFRESH_STATUS_TIMEOUT_MS = 20 * 60 * 1000;
@@ -1459,6 +1460,24 @@
                     script.onerror = () => reject(originalError);
                     document.head.appendChild(script);
                 }));
+        }
+
+        function loadStaticRefreshMetadata() {
+            if (staticRefreshMetadata) {
+                return Promise.resolve(staticRefreshMetadata);
+            }
+            return apiFetch('/latestRefresh.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`/latestRefresh.json returned ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(metadata => {
+                    staticRefreshMetadata = metadata;
+                    return metadata;
+                })
+                .catch(() => null);
         }
 
         function formatDateTime(date) {
@@ -1742,12 +1761,24 @@
         }
 
         function updateStaticStatus(label) {
-            const updatedAt = latestPublishedAt(allNewsData);
-            const refreshedAt = lastRefreshAt || updatedAt;
-            setStoryCount(allNewsData.length);
-            setLatestUpdate(refreshedAt ? formatDateTime(refreshedAt) : label);
-            setSourceCount(uniqueSourceCount(allNewsData));
-            updateAutoRefreshText();
+            const applyStaticStatus = () => {
+                const updatedAt = latestPublishedAt(allNewsData);
+                const metadataUpdatedAt = staticRefreshMetadata?.latest_update ? new Date(staticRefreshMetadata.latest_update) : null;
+                const refreshedAt = lastRefreshAt || metadataUpdatedAt || updatedAt;
+                const sourceCount = staticRefreshMetadata?.configured_source_count || staticRefreshMetadata?.source_count || uniqueSourceCount(allNewsData);
+                setStoryCount(staticRefreshMetadata?.cluster_count || allNewsData.length);
+                setLatestUpdate(refreshedAt ? formatDateTime(refreshedAt) : label);
+                setSourceCount(sourceCount);
+                setRefreshUiState(false, 'GitHub Pages snapshot loaded from the latest committed news data');
+                setText('refreshButtonText', 'Reload Snapshot');
+                updateAutoRefreshText();
+            };
+
+            if (contentMode === 'static' && !staticRefreshMetadata) {
+                loadStaticRefreshMetadata().then(applyStaticStatus);
+                return;
+            }
+            applyStaticStatus();
         }
 
         function showSearchStatus(steps = [], isBusy = false, mode = '') {
@@ -2160,9 +2191,16 @@
 
         window.triggerRefresh = function(source = 'manual') {
             if (contentMode === 'static' || !API_BASE && location.hostname.endsWith('github.io')) {
-                setLatestUpdate('Static GitHub Pages data');
-                setText('refreshStatusText', 'Static page loaded from the latest committed news data');
-                return fetchNews();
+                refreshInProgress = true;
+                setRefreshUiState(true, 'Reloading GitHub Pages snapshot...');
+                setLatestUpdate('Reloading snapshot...');
+                return fetchNews()
+                    .finally(() => {
+                        setTimeout(() => {
+                            refreshInProgress = false;
+                            updateStaticStatus('Static data ready');
+                        }, 650);
+                    });
             }
 
             if (refreshInProgress) {
