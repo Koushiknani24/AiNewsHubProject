@@ -364,7 +364,7 @@
 
         .status-dashboard {
             display: grid;
-            grid-template-columns: minmax(112px, 0.8fr) minmax(210px, 1.35fr) minmax(112px, 0.8fr) minmax(132px, 0.9fr) minmax(150px, 1fr) minmax(150px, 0.95fr);
+            grid-template-columns: minmax(112px, 0.8fr) minmax(210px, 1.35fr) minmax(112px, 0.8fr) minmax(132px, 0.9fr) minmax(150px, 1fr);
             gap: 0.75rem;
             align-items: stretch;
             position: relative;
@@ -1286,11 +1286,11 @@
                 <div class="system-state-row" aria-label="Pipeline state">
                     <div class="live-indicator">
                         <span class="live-dot" aria-hidden="true"></span>
-                        <span>Live System Active</span>
+                        <span>Auto RSS Updates Active</span>
                     </div>
                     <div class="refresh-indicator is-idle" id="refreshStatusIndicator">
                         <span class="mini-spinner" aria-hidden="true"></span>
-                        <span id="refreshStatusText">One refresh cycle controls RSS, news, clusters, analysis, and UI</span>
+                        <span id="refreshStatusText">GitHub Actions refreshes RSS data and redeploys this page</span>
                     </div>
                 </div>
                 <div class="status-dashboard" aria-label="News refresh overview">
@@ -1303,29 +1303,17 @@
                         <strong class="status-value" id="latestUpdateStatus">Checking...</strong>
                     </div>
                     <div class="status-chip">
-                        <span class="status-label">Sources</span>
+                        <span class="status-label">Active Sources</span>
                         <strong class="status-value status-value-strong" id="sourceCount">0</strong>
                     </div>
                     <div class="status-chip status-chip-accent">
-                        <span class="status-label">Auto Refresh</span>
+                        <span class="status-label">GitHub Refresh</span>
                         <strong class="status-value" id="autoRefreshStatus">Every 10 min</strong>
                     </div>
                     <div class="status-chip">
-                        <span class="status-label">Next Refresh</span>
+                        <span class="status-label">Next GitHub Run</span>
                         <strong class="status-value" id="nextRefreshStatus">Scheduling...</strong>
                     </div>
-                    <button class="action-btn refresh-action" id="refreshButton" onclick="triggerRefresh()" type="button">
-                        <span class="button-spinner" aria-hidden="true"></span>
-                        <span id="refreshButtonText">Refresh Now</span>
-                    </button>
-                </div>
-                <div class="pipeline-flow" aria-label="Unified refresh pipeline">
-                    <div class="pipeline-step">Fetch RSS</div>
-                    <div class="pipeline-step">Retrieve News</div>
-                    <div class="pipeline-step">Run Clustering</div>
-                    <div class="pipeline-step">Regenerate Clusters</div>
-                    <div class="pipeline-step">Analyze News</div>
-                    <div class="pipeline-step">Refresh UI</div>
                 </div>
                 <div class="search-status" id="searchStatus" aria-live="polite"></div>
                 <div class="filter-row">
@@ -1596,7 +1584,6 @@
             if (!refreshBtn) return;
             refreshBtn.disabled = isBusy;
             refreshBtn.classList.toggle('is-loading', isBusy);
-            setText('refreshButtonText', isBusy ? 'Refreshing...' : 'Refresh Now');
         }
 
         function setRefreshUiState(isBusy, message = '') {
@@ -1607,7 +1594,7 @@
             latestCard?.classList.toggle('is-refreshing', isBusy);
             indicator?.classList.toggle('is-idle', !isBusy);
             setRefreshButtonBusy(isBusy);
-            setText('refreshStatusText', message || 'One refresh cycle controls RSS, news, clusters, analysis, and UI');
+            setText('refreshStatusText', message || 'GitHub Actions refreshes RSS data and redeploys this page');
         }
 
         function readBackendStatus() {
@@ -1655,11 +1642,6 @@
                 }
                 updateAutoRefreshText();
             }, 30000);
-
-            // Automatic full refresh every 10 minutes
-            setInterval(() => {
-                triggerRefresh('auto');
-            }, AUTO_REFRESH_INTERVAL_MS);
 
             document.getElementById('searchInput').addEventListener('input', (e) => {
                 const value = e.target.value.trim();
@@ -1783,7 +1765,6 @@
                 setSourceCount(sourceCount);
                 nextAutoRefreshAt = nextScheduledRefreshFrom(metadataUpdatedAt || refreshedAt);
                 setRefreshUiState(false, 'RSS data refreshes through GitHub Actions and deploys to this page');
-                setText('refreshButtonText', 'Refresh Now');
                 updateAutoRefreshText();
             };
 
