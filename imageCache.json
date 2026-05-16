@@ -2362,5 +2362,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/iran-mens-soccer-team-heading-to-turkey-world-cup-preparations/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/05/16/nx-s1-5820984/iranian-man-barely-survives-bombing-but-wants-war-to-go-on": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/hearts-call-strong-action-after-shameful-scenes-celtic-6126101": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxORVJyX0gyMXE3ZlJIcm9KUmdhV3puOFJFSmlOSGM5VURIRi1MV1h3XzJrREczLXdDZWNJMmFfRS1YVnVaVDhyY3hBZWpiQ3pwVF92bGtRSVgwanplYzltUzJ3a3F0U1pUU2lvRlNWUXMxeXRQZmpzYmg2Z0dJaTJIdUJOMjA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/16/poll-shows-lula-and-bolsonaro-tied-before-brazils-presidential-election?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZW1TY29BWHo3c3BySm04V3lwT0pCSzZhUlRrbVhSeEVKSEZlTS1XVGR4ei1rVkJTUkJhUWlTdFhBcFg4VFpqbWVRMzFmRkFnczhabGQ3RmVnZ0ZXaDJiOFVhVmlVbGxHb3hlMGVudWpqTC1HVFdMVEV5R0w0UXEycUM2ZHFIRk55QWd0UzAyZ2EzNGw4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/05/16/nx-s1-5818295/life-on-the-edge-why-indonesians-living-near-volcanoes-wont-leave": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/16/taiwan-says-it-is-an-independent-nation-after-trump-arms-sale-remarks?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlF3X2FKdlpNM2U5QVZWemFPRE01ZEFDU09NeUtSMkxoSW12OFpyTXBWMndxZmVxN2V0X0RlRnpOeEFob1E5V2VsdmNLbGcyTDMyVU5TT0dPUF9lVFRSMDl1a3pPRHVtMVVpNVh2dFZDUnViOXdXSWFScW0ydXhqWV9JTzdvN1QwUTFxLV84SjhNUDJDbU1VU2s5MnA1MkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/education/centre-to-roll-out-pilot-programme-for-linking-out-of-school-adolescents-to-open-school/article70988101.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/eurovision-reaches-its-grand-final-in-vienna-clouded-by-politics-and-protests/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
