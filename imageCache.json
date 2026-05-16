@@ -1912,5 +1912,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/two-panchayat-officials-suspended-in-munnar-for-financial-malpractices/article70988039.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/05/16/latest-news-bulletin-may-16th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/the-white-lotus-perfect-hotel-cannes-france-season-4-1236596797/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/moldova-president-pushes-back-against-vladimir-putin-passports-transnistrians/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/narvaez-strikes-again-solo-victory-in-gruelling-giro-stage-eight-6125901": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGtRTTRCZ090eTljNUowbHpWSVB1NUV0S25VT1BEcUYwRVJCUGpxQmMyQlVJT2V4QVdOSHlNQnZsdlE4VEJ2cG9UYVJzNzdHQUI2eVRFbGFhMlZ5ZjMyTFp6ZVVoYnFVZXFJNnlQQ1JGMmtXckdSbWVfb3M2ZGxwTkQ1M0ZIbXNFNUVzN3dWaHp2dGxnNi1TZUdfbVY0VUZILVpuX0ZoTkhFa25NLUt0b211NklUOVpoRkJrYW5vd3hCeFU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGxqNkRhcHlXZGNldGpDR3FpaDdFTXV1ZHhFM3piN3V4QlBrcnJkZVlPT3FUelJnUzFibU1LRnhta3QzT0Z5enlESUhRVjFfdEJWWHJmMkNrZXBlWFEzN053Vm5GZ0tWODMteER5Y2gtOVlYZWlPSmVIV09EZFQtVmNaaDN0RjM0NENIZzhwdGFqU2loYnBRQUVnMkMwM1U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/videos/tv-news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQzVPb1hhYXBSVngyclVRcnpXbzhWanJIdmtXYkxXdkZ1VVJyYUkyLUN1Z2RsRFlvbkRuNnE1M2FQVU1vblB2Tks3ejBTZ3hPX1ZnbEk0bExsNzVhS1RCcGxNdlUxSlZpalhsVkdyWXl6UmRtcHRjb282NHhjMDhKWmVBUWxGWjUyT1VQbE9BS2NXR2ZzOFNmY3J2NU1JNWJTSjNtTVlwZmVrMVY3akdaSzBDa2NsQm14QkphVHlHUVNEUXBuX2haY3ZUV1BmN0RvTTJsWnRIMjlfcnlKZ2NWa2FUYnlPSXhT?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWEtcnR3cTlwOG9zcUFQVUJET3hoc1l5d2dzQWRyQXBmNTh5NTM0NlpDRE5yR0l3ejh1MFhSUDJRVjJWbXp6UldzZTNwOXdZSy1ySG9JclB0cy11bmFvT2o0OFpsRlB3WkI0YU9BQ2h4N3FONFVqbWVhejRMNVZTS0Q3dzB0RURCTDdnWVg4Zzg1bzRURU1jWEdfVjhVd2dFQlZidA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/triumph-and-tears-wsl-season-ends-fan-favourites-departing-6125891": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.arabnews.com/node/2635410/middle-east": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNNHE1VmdpbUUzeWhzdzhZX3NsY283NUJLc2QzU1o0TFF6eEVJOGZvdjhpalRyRmlON2p0ZjJpVzFNdzIwRGt6eC1NcHFIMkE0SVVLT3BHZzBBUEl6aVV6Vi1IWjItTHc2dmVCNTFGbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zdVJBRTdZRURibHEzTlJZN1ZFc2twUF85U0pBSEV5dkN3YWtfbGUwTmg2R0Jqek1MLTcyRGZMNjdNLUdWbFJIbHBnN1RtMGFLZFJlM2hiVVBIQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0taeG9XaFdzX2tmNVJTemxBcXdTdnVZWGdqWFBiNV9TWUJxRE9GbFA1UGduMGIzcS12OV9kUlJIUTlsc21OSE5WbGRiejU4emZ5LW5oYy1zMmJoeDlTaHpzeUVfdnlIWFJfMFNVSV9pQVNNdnBudE9HZk44YWZ4THVMQ2ppb09UakNBUzBBTlNTZE1TWjNnQUhHOTA0N1VSTnZzMHcycHBacnBLOTZ2dXU0cjRseWpGT21OWEdKUnA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnBQek9PUzRwMVNLSW1rLXppaWZnOHRpcjBrWDhpSlcxWnJZUEZXQ1VDSmdMVFBaTUtJajZVLUpnVmJzaWo1N1RMQmFVd1ZMZzBTTS05V3lPT0Jia0NvZVpnUllMUktDdjM0ZTVTVDIxQm5MTnJoRno1RkxRSHZxSWJFTHQxUkN2STNIcXkweU15NlJDOFh1bjJ6Z0dwTk9zTHg2cm1wdmdoSnc1N1BVQUhKQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.arabnews.com/node/2635409/middle-east": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/16/how-thomas-massie-came-to-represent-republican-dissent-in-age-of-trump?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
