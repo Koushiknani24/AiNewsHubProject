@@ -1618,5 +1618,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-features/andrey-zvyagintsev-cannes-return-minotaur-exclusive-1236596897/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/vladimir-putin-xi-jinping-visit-china-just-days-after-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/the-listening-post/2026/5/16/israels-image-crisis-becoming-too-big-to-spin?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605160048.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeW1kNFpxY0VKOFNObmlSd2JydFZzOUpvUEk2V1FhV1ktOE1rNi01dmRFT1RJc2t4dklsTGh3THNaTUhBbFRqc21aQnRNUjNpdnJPU1lBU215OTBrRWFCdUcyb2Z1b3F6N2NyNk5xaGdneE9PTzFXSHJaNWJjM19WTjNHMnQyc1MzNjh3cHI0Y3NoZFViazVSOG5HMjdSdHJrRGxLV0xKenVMR3FiQmY5Q1pDbnc4eDZt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXk3b3hyTHM5ejhtQk1uaEdSOU5nSFZrRnc0V29CcjhIcDV0WUNZMDZFOTQ4RThVSHV3eENwMlZBN01TT3N1UTJ2TWVEYWFvT3BaMDZkSmtCVC1tbWx6VFFmbWpOTmFYcllseE14X2JoalRicHhsemE2SnNUYTdyN250RkJqMU5Tb2FyUVM3YzZKUThjaFJYYVNKbmk1T3FKWF92c3I0TkxLcHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlBvVS1CSFpOWHFpd3NPbEROQlhLVDMxMm9PN1BBNjlzYVFPMnlFUW9na3JoMkxoQlo0bXQwcFVtZGY0VjNIcExteXNhNm8xSmJydkNHTDlWOFlZUjQybjJGWGx1Wks5MEJlREJYc2o2Yy1hbWpvY013Q2M3N3RfZmplMml3NFdvRmJYZjFkT1NOVWNlMjc5OWdHX3BGMmNETjk3bHFXTW9TTnFwRFZCTmdIbVFudWdzeFBDTDY3SXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS1ZjbjUwWGRmUWlZQnJXSDFabU9sR1lndk8wY01kRk43Ymd0amlFcHFwc1c3ZFdETzZNQlh3bTM1NjExNmpBOENJbjQ1azFydkdJVFZ5N3VlUGY3QUkyRHM5anphaE5XYklJOEktMkljekRubmZaQ2c3bTlkbzlQeHlxMUNNeElrZ29hR25HX1NwRDhLQWZWeDlGOVM2cGtSX0RyUFBzQ3lWLVdfdG5wa1RObDVlWUNRMW1j?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/05/16/nx-s1-5822468/the-war-in-ukraine-is-at-a-standstill-as-societal-fatigue-grows-in-russia": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnUtNkxKU2dCd1ZuYnB6MUR2c2x2VmhMSGhhanlTNUZBZEVCQ3lKX3JwcXJwUzh0RFBTMVZQTXp3bnB6Nmh3X0YzVXM0ZWtTVU0wSjhFVDVXdXhVS3BEenNQWHFneURkcjk1bjc4MHF1QTB3QmkydGJHRno5LTV4Zm0tYU9KSUlwekE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605160047.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3256095/thai-prisons-in-state-of-crisis": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/liveblog/2026/5/16/live-chelsea-vs-manchester-city-fa-cup-final?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
