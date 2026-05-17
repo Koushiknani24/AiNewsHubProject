@@ -2950,5 +2950,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/sasthra-vedhi-calls-for-green-election-norms-cites-puthuppally-model-as-blueprint-for-low-carbon-poll-campaigns/article70989932.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/05/17/nx-s1-5824521/executions-amnesty-international-report": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/us-china-and-russia-prefer-a-divided-europe-kallas-warns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israeli-strikes-kill-four-people-in-gaza-medics-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXNoX1JwaURUQjI3cnJsYjU4alp4cnN0Y1J3SVdlSDdycjNSOWVwQzdFUTdYb3JjRU9qclZPMndIdWl4RmM3VV82M2otaTlCVm9ZMWZ5WEwwajVKanFiYks4cUdiWXIwZlhMWU16X2s4YlZqam14VGFOZExheEpheTB0N3dVblNnYnY5eWNFMTZfcXRKRzhxN0lUamRkNTBIOEstTWZkUlB0Sk8tSGw3a2xZS09wQ1JlSTNYNTNmQlNkNnFxVzZrctIB3gFBVV95cUxNODlXVm5ESjhDRzdiV19ieWg2RVBQQzViNGZkazhoN1VSS2hDSDRsQVJHR1d3bXItRzZqRFRpQU9PSDkwZkJwQ05qSWQ2OUgxUjg5ZUlWQjgwa3pZNDd4aXpOb25wOXJPY1ZtYXVzcklTWTJKdlg4alY3d1FyM2NIcGt2dVM2Zl9IaTU0ZFFRLUhkM09yRVV6NlRKaGlTR2RjU1NIWlBTVnU2SVVjOE5IQ0F4X0QyZzRXdlFINjRuZTZtWjB3cjhhTERWRTc5UXRWelhqQkNYNEZVQjlFc3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LdXlPSDdLT3BxUVRYSUZDSmp6RzR6WTZBQXAxb0czeVhLVmh4dlVqbzFWUVJqUkFYT1RqcWVPTFI3TW1ubHhJZWdSNS1jOE5DaEFhVXoxbjJEaWNjbllHRXFrYURaNkVVNzFrX3ZaMEZGWG1PUHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-drc-uganda-a-global-emergency-what-to-know?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWHYzbWtlQTh5VHpGZkw4cDIxU1pzZVVSeFYwUThDTmp2VmV4UGpEWExYazBtaXF3VnVLUmNfcUxUUTRDYUlpa2E5MnB4V1Z1ZmU1NGpMNzVuaEY0TVplLXp6dlE0NnZKVUhSengxMXIyNHluM2xxdDltVDhMaEI5Q1ZESzVfRXQza1UwY1Mta0djVEVDT2R3SjcwbU56OVFwMVVxaG01QmxBS2tITXNfNmtVaXRYRjU0dmNGeldkV3JPSU5jeWRr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wa0xNRmktaXFRYlFvNmQ2RUJiczYxQlZzV0dpNENkNVh3QVQxYnJDa0dSY2lpVE13aEFva1pyejktbEJFRXl6ajgwd25ua21mOUZvbTR3cjJkVjhyY29MRnNkaEh6TDhyWnhOaDhMaG1DclNrVTFSVA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLXVOTzJZbE96Q2JEdk1neERoZTQ5alQyZ0JTcGpDbHBKemthbkdiWnRtRnE2TkppcWpDS2xmZ0hfRzRsRmFTdGNxQmhvVzBKVXdiWWJ0OF9WRUQ3a0FxaHIxeHpJXzctcmxMZi16ZGE1TDdRZ2o2V3pjZV9WYmhIejByaWt6cTg5LTZOUUJibXliWjBZR3RtQ1Z3YjNvYXc0MHEwQU13aFI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/05/17/world-cup-drones-00914360?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
