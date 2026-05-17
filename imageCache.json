@@ -3484,5 +3484,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/four-foreign-women-escape-from-frro-shelter/article70990544.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/neymar-loses-cool-over-botched-substitution-in-final-world-cup-audition-6127041": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/the-night-pans-labyrinth-changed-cannes-forever-1236597680/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3pWR0xHbWRHZXhaMDNIdkFMVWhWT1RYRmtDSlpYQWF6Z1lJcXBKUHdROTRPdXhCX2J0WmZ6QnJTNm1CX09NamQzdmxPREVTNkh6RVdQLWJKb2Z2U2c4T3hyZUZMSnU1ZVBJck1kZmU1YjQ4YkI2Rmd0N1J3VDA1MnBJWGhFUncyODF0TXpjVmNYOFZHNi15X2ZUTWVLdnZsa0kyYWY0OVJKNV9HdUdEMUtxYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgJBVV95cUxNdGZfRGtSbU5KYkRWWThGdmZwTG0zMk0tRDlubnRtSnJCUWhpTDJTTkJBb3VoMzQ0STVFVVZ2aVFJLVZWVEZHMm9mTzhTXzJtdExyNTVrYW9lWk9KcVpPNEtwSm93WF9CMm5qZ19jaXp1UDJaTU54Vk5uYWNuV21ldFpnOHZ1eVUwUVQwWmZ6ZEZlQjRYSk1kaGdkNVM3QlFZbk13bWhXTDljb2tFUDhodUtpYlJLSGxDX0oxYm0zNXJsVDR3eWxTU2xzMk9ubGxqTHJyQmFUTjB5REdjRlpoMFh1RkFIc0VPTlYyRk5SWDRDdlpHb205LUx0bDVSME9hZG9aUU4wb1FwSmJBSjZPZXU1ZDV5QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/17/france-listening-to-10-new-suspected-victims-of-epstein-prosecutor?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/sinner-wins-italian-open-complete-masters-collection-6127036": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/sports/mexico-and-the-world-cup-1966-breakout-that-wasnt/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/17/sudanese-army-advances-in-blue-nile-state-deepen-displacement-crisis?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnZCcWh0dHBKeDZVdU9ITU1OOS1Nc3pCQ3drSGVIajR1bC1ZRHU5Z2Y0Qk9lY0tEVXlFOGptRjdRVDZhWmRyZEd6OWlfUlZCSWFJeEdmRlVfeXhEd2l6a0hFdDNnVDQzT1NCM0xXRGJTcUJBY3RNcHBHYl9ncTIxOGRXaTRuN0RRUzE3dQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWU8zZjRLYmZFTjJYN1hRYy0wMDQ5bUNVU0lNY3FvTVRnMTFJMTBOLUI2aXZQdEdoenNHdDRUdWhTSVJQdDlROFdQNlpOMldlSkhQY2RpTE9sOU1fNUtPdWNhMkNJc0J1Q2NXVnpDZUt2dWRKeTdsRmJneGtJY0tTRXc0UHRMajhBbWNmdzc5SU81c003QTJDWmR3OULSAaIBQVVfeXFMTjItdDh1X2lIc3I4NTVLWDNPaVNxbnJ0SWthcGRCRzdORXRsYVpUOTFvVWFuSm94U2huRE45WV9sc1o1T0pIMUhsR1lHT1BBaXhCSXZfRkVEemk3VGxaNWNPcTMtYWU2c1ZkZGJqUmJESVdJTlcwMmYyOGlBVmQzZzFWb2FCdm1qV2lsRVZINklLcE9aeVppX2lxQXpDUEk3blRB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
