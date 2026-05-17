@@ -3148,5 +3148,149 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/atm-robbery-in-yellareddypet-remains-unresolved-after-36-days/article70990953.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSzdVSjFtMV95TkMxSUZIUHd0NENFNl9LS0twc2V0RzBremFFcG9SMUpOMWVaNlFxU2E5bHBmbUJzT3puTzd5Tm9wTEVJd2xSR29lMkRyVkQ3Wk82bjFTZlEtNDJVaFkzdTl2anNKOGNjeTNiT1dHdUY5NDJXZGJqQkI5cVd6MjFoa1JWYkZZcmJLNTA4eldoOTd0a1FBVHlaTVV1RDB4R2FzaVhyblpnZGx3clhkZHh6OG94WnlFby10dUJXalBwSG45d0E2Vno2R2J3aHJSdkw5UEZXMFA2bmhrOE5tczd2U1Nn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbTNteEZTRERWMmJfZHNVVVBzem51bVJxeDFtNTlTMWttS1ZCSUo0RUthTGRUazl2MWVOVXR5dHBhdllHQ3U2RU94OVlRSWpaWDAweHhkQlJoeXBCV3JCUFVXUEk5U05XWWpkdWNkUTd4cFJKYXltODlPcGwxa1FTLVBURm1vTHdnaWo0OS05dGJWc0JQWjdNLS1SbXBaWVRoSlA2a1hMblVmNkJxY1lzRkgwdG1zNVRXeEZPQmhNV19BZF9vRHZrNTc3cENCR0dsSDEwbFVxQzFnMTZsYXhMcTZJUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-features/boyd-holbrook-reed-van-dyk-atonement-cannes-1236597630/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/ron-howard-documentary-richard-avedon-interview-1236594752/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWV5VWQtZXlNYjdzSDlVakVtM2Y0a0FhZThkblBmWUVMSkQybldhT2hjSEwzYzVjZ0NkV0hPV3o3ZzJmc1U4VTUxNEVsUG92WW01cTRSUEVGUmdCRVkxS2hLeFdUbjdFeVBLNEg1Y2tKbkJDNVZ6WkpvR3dIXzFCRmZmUXd5MElPUmZQUE5fcU5HVkp5dDNfMExlUTBOdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/fire-in-third-unit-of-ytps-forces-it-out-of-service/article70990876.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/scottish-league-says-title-decider-did-not-end-early-after-pitch-invasion-6126836": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlhYRUFnOEZlTTlxVU1lazJMZ0o4R05QaWRLeWFxZGV4ak8zUVJ2QmVWNWRsd09TQm1zRmlJOU4telVfdWNHbklpckY3QmxRTEFqcEdKWkdvOG9TV3J1U0IyQXh1RVIwYWJ1NjQxNEpzUEVsV1FaZy1QelpKdXpfRjZDYW1waUN3c0JaVFZTRzVuc2szMGk2TEpVUGRKX2ZxdkYzNWdId19fTnBKS1lvcWYtUzVjX2JacVRGdtIBzwFBVV95cUxOUGxtdmxPMEMyR0hBeEVmRnA2U0VmM0RTdXI4SGF5M1lhdUtoazJIZXlJQnI0dncySElWQTdEZWRTRUdIeUVKVDNSbFZ3c1Y3N0pUcnpyeUJlUWdiNE9fR3hobm9nYjJ1dVJRamJOVUV4V3R3WjctcmNkdVZQZEcyOEZmdXhfWnJpeVM2U2lwVFNqd1E4U19Xa1p6Yk9ucElHUHp1YS01QnNrdUIwWlZPdzRHd0wzRDUwVEkxNi1tdGJRblJDWUpmVVNMb2x6dWs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbEgzOXY3RDJLSzFrdEcxOFo4LUMtc09PYVh2YTBLVzZKQ0dOR043bEdwd3lZZzI4MzJSQ0ZObENMV0I0N2p1QS0tWGhQbGFfNUNkZkFFQ3NOeXloblp4XzloaUIwb3UyOEFKMFM2MUpweTljb0RBTnh4X2tkQzhMc0hjd3ZnbHpHSi1VaUJDSTlkR21xbV9fSDZoclY4QVFXYUVyenNxRURiTVNURGZuTm5mUDdHU1Y4R2hsSmplQWlBYXB5cm9GNW12X2tBcjhkTVNYdEdkanlKRkxHbFZuamludVBvcWIyX1R4WGhMTWpLRl9SbWRBeGR6eVIyYzUwY3ZENG1VNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5dDhNc2t0YzFlQmpvY0twMzRMODhyY1lyWC10QXdwRG0wNGdja29IbHNESEFWQUU4M3FscUN5YUJEQmt0cUl5ejVVY3RyMkRzdFpnUF9yU3BPZ0Y0NmRhdjNYUmMxRGVyVHltaVY5Q05FaDJlYV9FVGtR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSW9TakRYT0tOd3F5N3dNcFV6Y1FleFR4dGhvaklvWHppSjR6Vzc0WS1EcmRGNFBMaTR5d0ZHMjhuRk5oaTZUazNDb0U4c3JYR3RnckVHNVhFY01SamFLbXFzZXV2enJrZVpuUGoxQlk0ZEZoQUllT0xTVnJSMW5VMnJsMkRlYldIU3BzcTlxb1psUEVnMFJ0a09tLXVHTnM2aXowNVpTTkt6ZzVIZDFacWJIaWNiNC1lcHFRckk5ZnhpTUJqTWFYakZzMlhhbk9kTE1TeFNWdFbSAd4BQVVfeXFMUEJ0MFh3RGM3bXFRLWtLUmw5bTJpWDJMb1NfVmdCZUhfc0lTYVVMZFlrVjlFSklkSkRkenNPOHphZWxWZHZtclUwc09taDFZQWt1Y0lKTl9TdUFqeGhYUjQ3TjAzMjZWbmxCMzd3ZFJTQmtUSFZ4TW50SFAwYThlT0E5Zms2aV9kN1NYVWdlS2pWeWpfamQ5Sl92VkIwQXZQNFA4ZkVYdHB0WU5wRng3YWxmRTZKMlBOTy1UOWNWdFNRWGJBS21GWWtDd1BFUnhBLW5jRlRVanJuTU9wcXB3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2lySnNNaWxWZlBOVENLUWJ6TDVaZWgweEVsdno3QURNd0tMNHJxemNUT2IwbUw4UC1xM3M0T2s1T1ZwY0tpaHZWOFZvcVBmMWEzaUUwSFhlajdFd1l0NjBOUi1JOFVoekZYWGxibHFiYTAySjZack94Y0RvZ1ZpcnloaloyajVWSjB4cl9MVVoxOEhKTXIyVUowY0NUUzV6ZUZLWHA5Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zU0REakFEdUN0TF9jTHFxWm85RjU1eHM4MUVUMlpBZ2hQa2RwMTBuaURGZmYyeFBMbkN3cHBoZkxxc0gyWmpqU2lzTGU2STc0ZThGSkFxTlJsOXNpLTFmbm1EVFh2NjJVa1hV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/jamieson-greer-us-trade-representative-face-the-nation-transcript-05-17-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/17/what-to-know-about-georgias-primary-as-republicans-set-sights-on-senate?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQkFsYmpvd1dMSFQ1aVpGbHNPd3c4SHp0R2JsNXd5N3dWOWVHS2Jfd3V0eng0UzVSTmVrVzZqUjczZkI5REg1a0tiemFwQndDTjV1WDRMaVlYZl9CakM2LXBpbjh2Nk0zdlR2LW5RV29PWlJPSlVmSkloUWNiWnd1UnUxcXJBUzRLUmpQaGxqd2FLTW51NFp3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1pfSGJOaE95cF8zZ0NQM1l2YzFYY3dMeXh1cC1HN2ZrQjdTYVNLQnB0b1E4dWJHMUFWLXZFTTJvV1pqXy1yR1NHY3dDODRDRlJCTGJOMGlDc2pLNEVZTjJGNUI0U0Q3MXkySDBDYU81SFZheWM2M2dzT3ZpUmFsc2txRGgtME1ZVTUzNmowVG1sd1NPTExWVg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/17/turkic-leaders-drive-their-alliance-towards-an-influential-geopolitical-power-centre": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3BmYld0UVBSMUllb0YtRktGTnFHNWpMMFFITjVkMTFOdnF1WVNFWEk4RnFaSFNrVFdueTBuOURrR2lKTFNheFVOSUxoWW1XcDdyaVE5QXkyWjhGOTBXb1BTYjNBVFNxTUpQQlp0NV9PeDlOLS1tdkU5ZldQMGRDSms5bGI4dFhnV2lUWE9IZ1N4MGxBNzNrQzJZWW5Ec3lN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1g3RVJJRHNRaENuV2dJMnhTRXNpUW9rTFV6Qmd2OWpnZVU1MjRMTFBMcWF3aW9RVWoyUTAtck9DZDRVNERzM2NmNy1Bc3ZYOTROMjlkTGdfTTk5X2xPX3lvSVQ3bC1fZ3VLR3N4ajI3VjNNOVJ2TXlGZGhoSmhFTkl5dk9qQXRHVDZFLTY5N0VWV1J3MV9OYVJhVDRUNHNleGNWYkNKUE1qZ9IBrwFBVV95cUxQb29SWjg5SE9DSWlQbGM3aUdvM0l4YmhtNVhrek9CQjN2VlZqdXlab1paV3JDYktzUnNBZlBSVlUtV194UTVjMXllZlBNYlVFVTloa1ByOHExN3pYYTVQUWtWbWlqc0ppaXZSUEt3dG1ZbUo5SmFSOGZtenpVZUlwRU5LSXg3N051bldEWGJicHFUaGNPNGdzbGJSUXUyTGdSZ0xkUWsxZGM3Nlg0cE44?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa28tT0ZnSnBQZjlodFVfRU1DRk9xdGVnVXJVWjNpOWo2SmZha3JnMUF3U1dWVVZ3alY5cTJoQjFsdU92RWgzcmV4U2d4R2hrdDhicTFIRDFfMi1fYmJHT09OclRFeTNPNWk5OFZGY3FMblRlTXVjN3NjcHllRU0wQjBhVVRrS1dYalItbF94Y0RldlI3UE5lbV9Mbkk1d2w1RkRQNmh1UGkzZ3J2VG1GbWtjRi03Uk9zTlhmQmdfd9IBxAFBVV95cUxQZTFTTUlWd2RyeUlzUzRvMWVzRFp1U19zZ19rM1prNXlrZkM0R0ItcVp2bkZ0elRvcnNsWnFUM3FSbFNvd3ZwaW1qUi1mTFFURDh0aHBoSmxnMlM3QmJseUpQdXVQLU9mcnJXUEd2Mlo1Zk5MVVdUMlZUNkhqRlpzeGwtY2U1RUN1czRVWE1LazlCUlRpU1pMLTFDSEFudUt5c0FKMDVCNU1iSzlMcXdBWHVRckY1SExmUDNVUWt4MlF4RXdH?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
