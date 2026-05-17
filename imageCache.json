@@ -3712,5 +3712,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-latin/who-is-chuyin-los-locos-nunca-mueren-interview-1235564215/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0Fya0JUVUxFYnlkY0ptcG9LWW5heWdqT0dCeDF1WGljQUZqVDZYVnhoQzd3Y2pDSU9UanIzOEgycVRyNEN5ekJSN0dKSHBWVWpXMUUzYm9oZ1JlUXdqZFdLbGVHRFNETzVMWFhyaTczOEhqU2ZJNWdtLW5EdXlmVHpTMU9aczNyNGFxd3dYdl93Ymd2VzBmcVB3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-cdc-to-escalate-ebola-response-after-who-declares-emergency": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/932215/microsoft-teams-together-mode": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWGJyam43RGE4QUpGRHRnWk1ISGVLazNCNnhsUUk5a0ZIQXVMOTNxWk9zWVFmUFhpdWFSczNsVWZHRnM0QXVrWXFuUkt5c3ZWS0FTU3NoWlJMV0xjcFpaM3UxdHAyY3h5cGxoY3pwV0E1U0pTZGRVX182UmNUTFNObVphdnlGZHRmU3F6QWJUcFVjM25lWjZXcGFGbm1YblpEQUxpUE83bFprQVlncTVn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/17/world-urban-forum-opens-in-baku-with-warning-on-global-housing-divide": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0VEUEtmeUUtSDZmZlgwd2t2Y3ZCdUxmNXFOMGFHV2IycDdHZzVEbVdJU3VNajBsNVFDYTR2RUtheUx0cHRnR0o5cHZWOWt4bzRqakd0UnJDc3lDcFJEV0t5YkZEbC1sdFBuU3NPdTdLRDVUdDUyQkdBWU45bjk1S1FXYTlUREw4YkhuOTIzaEs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/labours-starmer-revolt-revives-thorny-debate-over-britain-rejoining-eu": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTQkNZSzVKZHlDSkQzbGxubmxxTUcxZVozNVNqaGt2ZWhSRmpzaHgzVlVBUTJ2Q1c4Tmd0cjlrbTBnc2pscWx4dnJHLTR1b01LQlkwUWxiam00TDJ5VElzZE9GMGFSZGtGNGxRT2g0U01XZWZ5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
