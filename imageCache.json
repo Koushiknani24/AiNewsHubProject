@@ -3400,5 +3400,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/051726-sunday-morning/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-weighs-drone-threat-from-cuba-report-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/michael-returns-no-1-box-office-obsession-win-1236597618/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/security-forces-kill-five-terrorists-in-northwest-pakistan/article70991266.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/fire-drone-strike-united-arab-emirates-uae-barakah-nuclear-plant/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd0tvbDVnUjdMejBTcERldzlDRDFpMEJvTW1LWFVFZjJoNF8wV3RKS1YtcFVNMzZjd3BDbVhrcDVWdnV4Z25BSGFqZmVValZLbE03M3ZEOE5ES3pqRWVnNHV2QTc2V1RKTk9zaG11THZMQXVfLWhDemx6cVpSUm42MGo2S2VrTjN5dkRHWWo2X0k3QjJ2WTdfWDdKRERteWkwdWhDOVl1MW41TWpEc1dtRTRnS0hpR014emRJMjBDVmROc2xndDVXS2NhSHN5b29zU2lQb1pJYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcG9SRG9SLVUtWlAtcVV6bjZ3V2xDWlBoN0lFTU9KSU9SdjdtUXZYTzdzTE1oNno4WDdhaDdNTDhCSHVLNUtrbHZzYnlRV2RVQkNhVWF3VmNYdGtjZ21SY0RZV3NRM0Q4anJtSDZ0OHZMUkw1MW16eFlmS3ZScWRWTkhHR05lSHRvanpZU1NCbXI0N3duZlZXN0dGMHBSMWPSAaQBQVVfeXFMUGRoRkppU2tZdDRENldpNUhRanNVTlIxc214TTJqYWN5M2xTZ1NNc3hRR0tKWWFIY2lEMUtsczB2M0Y4RVdGcTB6SXlxOEJubXlJMi1hQ2JvOEtTX1NZRnptTFdLVWhqMExZMEstNXEybFZncjZobkFjY09WM3lWNlRUZWtNeTY4dG92Qi1wcWJCYVROUlpqSUtRRldMYWt3cUtza3M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY1FDT01MdDZPSGxuWkNwQXRfU0o4blNtNzZTUjQyakRCUjZNUmJ4VmFhUWlLY2VKX2tycnBsemFIYm8wSlFmNTRHbzdkX2RteGwwczFfeERobjhWc2lFNzNlMld2Z1ZZa0JYeWtYMTZHeW9GaERPT0ZBSU13aTVZLWFkWDJNQVVoSTJPM1Fn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAJBVV95cUxOR004c0ppQTR5NjRFeUxoRVJUbWxXUHhybGM2bmFUMFhMLVJPTkp5cy1lZkdOLU0teVZNN2Q1NFdPempySGlHUW9LeUl1ZG1HNGZrN2QzY2JFYU1SSDBoUk9BZzFJRGoxZmYxZFNxdHdYN3dUaXg3ck1OQWxJYWhGRWhYbnpCbHNKUnZyYWNuUUEtZ3AybVN5Q2NnOW9vbzJQQWxFaEd4NHRpQ0JXN0o2RjlIa3FPdnpVeHpSRF9xTFVsQXcybjdBTmFfbU5wTzV0dGdTek1jV3pjMFRCdG5YUGpNTWZrejRMRXFzak1XNVVqSXdWWGduRjEwbkVxRTNQMXpmeWZ5LXdhM0900gGSAkFVX3lxTE04c3lzOXRTRlo1QXdsYW11U1AxMFVoNG03bkdNNEdtSkpzU2VQTVlST0kwNXh4VmwwUVVOWS1IaHYtNHpCaXBDM0JRNDJZZV9XeEJuTjJjU0J0YXVuNWtsSVY0MnJvZDkzOGxldGZERjNQU204VVZiQzNSc0p2VVAwUWFUVnFSU1ZOUzk1Zy1Gd2ZTR1J0MTYyeXduQWtvdzZVZVRSZ0hyWkxzWUVYSlh4eEctTDBXSXZiVGpFQTdQQ3VKYVN0RW52TldnQ094VHo1ZDVNRkxoOWhVVDhiUC01QzVvSkpKZjJKeVRyeDBRRnBaaHF6NDZIM05kR1oxMGpxa2xxZTB3SUQ1aktzQUlySVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/mamelodi-sundowns-beat-royal-armed-forces-1-0-in-african-champions-league-final-first-leg-6126941": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcE01NkNPRFBINUFJUkZNaFRQc2dhNTNrdHplZUZhUWhrVHFWVW13djlXeHI1RzhXYlhrbjc2SXJ5NERjZ3FtOUhsTEZ2dHpkeVZXX3FRWEJkRWVuN05KQzlQanpLbG5Ec0hHYVkyYkp6d2xjbEpEYVhOZTdvcGN3bEE4dmNuNkhWWmd2cFdpenBqV1p0SmxaOWtVc1VCLXPSAaQBQVVfeXFMUEVxUVRJS282VXpTNk5iN1JfUERWQ2UwRGlCeXV4OWlHU2RCLVIyMG5mRGR3c0ZVTFhnRWE2YWZBMHpGcnJ5QUlRajFwRmN0Nk8xYnB4NlBMZlJlcjVsZEhyZmswTFJ6ZDE0STVFSlJDRm1yMXYxOXEtOU5vNGp5SmJBVGpnNXlBV2d2aFJ5M1dXM3p4Smd4LXN2T21zZjdTQ2Q3UlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1hQeW1YTFB6RDJfcG9FaDd3aUZTRzEtZXpHcU5hN2k0WlF1aGI2VFF2akdNdDJFSVlsd0JVNGgyWmZ2azNCTjR5WWlCYWxNUWtWeF9YWUMwRGdTQUZhZHk4bTJ0dW9qcmJ0Y3JOQ2kzN1BWYVVGWnNsTzBjMzJnYWZJWFZXQU5Cc0FFZjRjWmo4cEdiQzBPVGFuMURVYTc1ajFOUWJZcTRVcFpld0hfUjI2RnV5SEpxQWRfVXBtRFZKeGM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3pWR0xHbWRHZXhaMDNIdkFMVWhWT1RYRmtDSlpYQWF6Z1lJcXBKUHdROTRPdXhCX2J0WmZ6QnJTNm1CX09NamQzdmxPREVTNkh6RVdQLWJKb2Z2U2c4T3hyZUZMSnU1ZVBJck1kZmU1YjQ4YkI2Rmd0N1J3VDA1MnBJWGhFUncyODF0TXpjVmNYOFZHNi15X2ZUTWVLdnZsa0kyYWY0OVJKNV9HdUdEMUtxY9IByAFBVV95cUxOUm9nalA1OTRtSTVkeDRSLVRSVHBNYmwzX2ZqR2RXQmJyakdkX0lCekpZaXc5cmdReXhza3VidDdINWp1OFUyQ0p2UE5KbVF2SUo5Qk8wYl92Y1VIYWNWbkFySzdfTFZCWHJqR3lZcjA0YUFRVFhZdE5LUnZjOVFhaG9pSFNuYUE0R1hBV3UwbW1IbEctbDhkMloyUlZyUFJiMDVpN3JuNXdaS00wQzFyd1Y2b0RZMUtncURVYWRXUHE5LXN5RXRLYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
