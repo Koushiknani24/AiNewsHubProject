@@ -2776,5 +2776,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVENfVlB1cXFHNlE4YkJSSnR2aVhJeVgyazFydWxaTjJ2anhRSUhhMVI2N0VtNkNKdGNwY3VESzJCNGU3S1RTTWlOMFE5aERSUE5DbU9yRmRIbmhIZUxYX2c3RS00TjEyQVAxU2prOXN5VFJoWDlxRGN6V2lpTUdueG52b0xyYTI3MEY1a2lBWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/europe/20260517-ukraine-launches-more-than-500-drones-at-russia-in-deadly-overnight-attack-authorities-say": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/elections/kerala-assembly/kerala-swearing-in-ceremony-live-updates-udf-cm-vd-satheesan-cabinet-ministers-allocation-may-17-2026/article70989581.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/german-transport-minister-promotes-green-hydrogen-in-japan/a-77182456?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/italy-pm-meloni-heads-to-modena-after-car-ramming-cancels-cyprus-meeting": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3256429/dna-matching-needed-to-id-burnt-levelcrossing-crash-victims": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/north-korean-women-s-football-team-makes-rare-visit-to-south/a-77186062?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/spanish-pm-faces-fresh-blow-in-key-andalusia-vote": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Wc3FuY1hpOTNMN1FWMDh5S3VFYVhwRFVBUGxqRzlSWFV0dVAxUDFRZnl5ZmdrX0ZRa1Byc3VTWkNKSU15WkZqLXdn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/5/17/conor-mcgregor-to-fight-max-holloway-in-ufc-return-on-july-11?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/who-declares-global-health-emergency-over-ebola-outbreak/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzQ0cGQ1TEROei1SOTdibHpubDlSZm1oRTBkWGtlbXZDa3lCRkt4ZzgzSkFJTmRyalZ4Z0t0RDNyMktYTm44QnZxZDVLQzNYZFVOMnZZN3JmLS1qdFc2TFZMejNBS1QyeUhOMEhjVHlQaEM3RkhvYTBzUmFrVDhjWERHYktyMlh2XzlXODlGVGdPVFFsaWNITk5JVVM5Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
