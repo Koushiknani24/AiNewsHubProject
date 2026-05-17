@@ -2506,5 +2506,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONjBERERuSExqYWpCQXotcUU1U18ydVRONWlKbDRZSjNYZzJSOTFtUVZXMGlZUWtZd1ZaRlp4Z1FHSDYzMmMwOTQ3c2FCUndxQVFzWXZaZDNmZ3VrV0pPRGs1WXpkMzE1blVLejg0UUctUGtMOVd2enp3ZTZ4QldYNEk5NzJ6bUo5LW9MeThaWGpNUXpjWEtLZlBVdU5jcG5UZHcwSERKR0Z3NFhDb1B3M2Z3OWVOR1diWnU4ZlA5OGViS3lUV1lCdFVOdVBfVVlDWWhrQmMzQ2xjelFBSjdKMFVnUnZ0SzNfTnlxUDk2My0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/world-cup-prices-shock-fans-excited-but-too-expensive/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/thousands-of-fivethirtyeight-articles-seemingly-vanish-from-the-internet": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/05/17/watch-bulgaria-wins-eurovision-as-dara-celebrates-historic-victory": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVWRKN3ViWnhBa0pfbkVQb0o4ZHd0dVV2ZTIzX2RFNUNFM2NIRE9oVzVUSUowQXFyLTRiendTWWtRNzZydkZRakxrSU9Wandid2NIVHpVZDhtWXM4c1Zmd3lrU2JuNVlfSEdkNnZodW9selNVOVhMbnRZR2ZmTWFjYVc2eTRTekJNUkNJZS0tUjh1ekJabmxIZi1aXzdVX2VCcWlLV2liY0tDNktpWVZqUHFUdi0zWmZJSUo0NVl6bUY4U2tUSlNQUjVRaE02M0JDTUJTNWZvNkYxb1RyNWNmVVJkWHlNelI20gHuAUFVX3lxTFBiWno3RGVJQXYwVVRzTjlwVTYxWnVUQVRSNklPT21FU1NQQVdQNUJoSzlVcjBRcGU0UFl2NUlOdGM3V0NPRDBkbVBaX3B3ckt1VTdIY0trVUZFRnBQYjlTMVZQUDA3bEdLUEc5aHdPZ3EyTWE5d2kyMWZsYVlGNlZ5cTFjdjIxak52emYtTGJjMkNTeGpOVEdtcEc3VFpYOUp3bjdtdXhYVW1UTzVIRmZZZDN5VnNCVDlpNGZUSWxqUUxQcnlkN3RPT0IyWExWSklWTUtkTldPTHMzdHJ0QkItUXNtQVlNZGdPVTVLQXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/woman-gives-birth-to-a-bouncing-baby-boy-in-us-courtroom": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMnc0Y0c5RlNON2tEYlF1OEtNVVN2RUg2dTAtZU9aeU9BRWlvbGlVNTZkNzluZkFYLXV5YW9HUW93ZWxpdE9uaGxDSmJpUWFmc2lXMnUxT1Q4X3dUQ2FFbE53TVdVUVJqbEVtdFR5blloUXFmUzE3Zy00LTBtOG1CQUM2TE02U05OTDJkVC1CSTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/05/16/g-s1-122501/napoleon-solo-preakness-laurel-park": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-ssc-exam-cheating-racket-another-accused-arrested/article70989491.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/bulgaria-beats-israel-eurovision-song-contest-2026/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NOEdkWE5fUlhqcDl5M1dEdTI4QUZ0V2I0Qm1yTjhvZkpWdEpBZ2RjRnJMZmtFRUNWMHgxeDI3NElNbEhON0tHSmFQZ1ctNVhZX0Y5WkdITURReUpQQ3hFaElFWGJma1JTQVllR0NyRHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFdmhzNEc0SkhwUmhqYzRLV2w0NXpZelNsNEszeTVxRWNMZmpUb1ZrSWE4Sndxa2ljZHFPWTZfb1pqUjNxRHZ3Y1hQYm1yUEVTWmNhdU93WnAwZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3256370/highend-phuket-seaplane-service-to-connect-to-andaman-spots": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdHZsc3hCR09Ca3c3NjZHQlB1cVN1WEVWS1R2NndaaEVoaTN3RVB2VllzaFBMVDEyRkh2bUpnR1Y3RTUtWEVqZFV0VVZnT2RuZlRuSUVhb1BDQ2NQbkkzZWdrZDFadXRvRWFLWk1Sbk96Mk1sN19xWUVkMHk2ZEFKaGhtNm1CenZyMExMWWJ2V0I?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTjlCVlJabzI3SkU5TDloQlNhOWRxWFJwbGZhZDFORnNvZDdiTlBHdUhobkFWR3dUQkxyWWFBLTNBa3ZiRkJpSUVzdV9jdU1iZE9vODhaTVdaWUlKRGJ0MHNPekRiVVFBaVEySEZ6d2tQOVlKYTk5SGRRaVU1ZTRubzVBa9IBhgFBVV95cUxNTnlfckEwZlRPdEZ5d0xTNmliazdkU05SbVlwMkstSkFETVdqSnNDRF9BTXRteG9uRE91N0xSZjRZRFgzbVk4eTd5aE51SlFZSHVMVUpxb0RSNWxyMGxkUGdBaTkxRHhPNkVTMXlXREdLdmJiNmlkbGF4VnpjUU5VMW5mM1Nadw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
