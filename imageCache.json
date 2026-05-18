@@ -4366,5 +4366,203 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/tiger-queen-german-police-kill-escaped-attack-man/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAJBVV95cUxNa0JCT0lBaXRENmk4Z1BPSm4xQmNGUXNRdDhYT1NiQ1RSMnZQT0VCMXB1RWh0NE8zVlZLTFRvWDZyMkhGczhudkliX09NTDJSRkxLM1B0WTFfdlpvRmJOVnJyV2tuRDlCYkpYY2xZWTBicHU3bjhfVnp0UzNMR0xSTGc3UV9Way1pTGRtVTZEaVl4RnNOaHp0bHdlUXRWZ3VDQWJVdTE1TDhHU3NEU1dsVGs4MVo4RzZtYzlYQjI5c3lEOGdXZjRyNHhGeDZPVzFnNGVLSHgtQWdoc2xSU2g5RVZIbTZvMjlZVWtrWE5EZ0NlT2ViaWZEcENTSlpLOTlN0gGGAkFVX3lxTE9FT1diclhoeEp6d0VZUE5YQVViSEpUa001c3BmQ1Y5VVJKT3ZJS1lMTm5uR0RlWlBXMHNtZlpYMHBHaG9WWDJxZEl6dEVkNklBaDV1dVN0YXhzZWR4MXZmenVSMm5JcFNxSTQzOTNTYkVIVW1sWVA2aElybThvMFBaSkw3WWxjR3lod0NGeTRhNG9fTmtzSDd3ekNJanBjUmY2alZVWHIwWWVoRm8tMURVX1dOLWo2OHNZcEpBNU1FWHpaYTNCZFphTl93X2hvTUxwQ1JWRV9uU3hBcTBwZ2Y1ZUI0VUF4NGZ3LWU1WWpmOVI0Nk9zUWMzVTZabVlsenc2Q21Zemc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/three-districts-have-no-representation-in-new-cabinet-in-kerala/article70993823.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgJBVV95cUxNeWhVRHN5T3BTNFRmTHIxbkRYdW15bnVlRG82a1RFUHg0R0tPRkVOMlZyOXd3VTZnUzk3Y25RamlPYWYyalNSclRKSU5QYkdxUE8td2l4cjdIZ1h4NlNjbTdBM1RtNDJkc0NrWUVlWU5VMDZtN24tcVpQU3pkTE9XOW45ZHlEbHF3WkhhMzNDY2NrUF9HZTFhc0cxWjhKNVRiSVNqejhKdHJuNWRYNU5oc1Z4aUU4blVQQXN5UkdxOE96c3RRcXBSNlBTVkoxVmJ1ejJZSkpHWnk4WDhQd29LSzBkWm1xSTlmeGNGSWVTNjdIajZ1X1ZrMnJ0Z0p3WG95a0pUTi1iUXIzSmJhck9ZUkpB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EUG11NUpQcXJ3Y3R0enpLalFNam11RnBneE00VmhZTU1KS1ljV1ZwYVV5NjMwZFU1TGZ5YVU0eEZaOHA4UlVFRGhuUTdjZnU0TnVuTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/germany-angela-merkel-eu-russia-ukraine-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/britain-jails-driver-for-smuggling-cocaine-in-shipment-of-kim-kardashian-underwear": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYWlycjgwWHdzQ21iUjA3YU9OV24wTHdVbTEwOUhWek9Wb1dEcEo4MS1wcl96V0E2a2R4Y1FYQTN2cXctekd3XzFndGlSX2p5bE9TYmRXWGsxS1NLelM5ZU9fY25NU1ByNkotcFRvUmxlbFFYejhsUXRKWWxkTkI1LXlMRzN3cnBMdEQzMUlEOXk5MjdVYmFEajgyQXA2ckFmbjR3b0FIbjdTZDdpdnZaaWZPYVVuWUtVU0FkZHBzWnlZelFE0gHKAUFVX3lxTE93NGphRFZlZFMtUG9WYVU4SmVMM19YbC1UNk9ZdDBYY2Y2LURqbTNadTNwSjF6TXV5UlE3WEhBUnZudWFNeDBaLWlwRGluZU5KZU5TdVlZbnNuVzJCZU5BMWoxRHp0RDV1eEkxY0JTTE5SbndIbElFUW1zVzQxMHVmUDRHZ0hUa0U3SVpmX0c2eG14RHJ3d0dDM0lIR2VNdjBFWGNTWmFCVDdjTDR2TkFtWFNKRjcydG4ydmFEUl9kcmhwZEF3RlpkNXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/zambia-s-media-freedom-under-scrutiny-ahead-of-2026-elections/a-77195263?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PQlJZbUZYeFZHeGN5TnFjcHNOeVRva1l5X01Cb3ZMT3VneWQ3M2s4NGNMaFh6REFvV215NHpGallWMXZVNU44Mk14d1ZudVE0bzJuSDlBck9PMmxMZWVlMlBJMzBUbkY4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SOTl0ZnFxeXl0dWJSMjRaQUI5R1dtUXRoSjdWMmY0bTJLX0hxNFFFSHM3U1ByTjJYUENlV01BVXJOS1pWdHFBOTQ4TzBsWGVQa1BNMjQ4VEZNM1E1S25CVjBBVmlXYzM3LXJ3Y0ZxRlZBd3p2VVdBZkQxTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/narendra-modi-five-nation-tour-live-updates-norway-trade-investment-west-asia-crisis/article70992687.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTBLa3BiazE2eTZFMjNGN0k5Y0VMRlZOLWliRm5SYnJuUkdhU0RjWG9RQVlJTUVLazNEMHBNM0g0VmFRbEJRZEJ1R3JkeWZrT0FqYTFxN251NGdnaFk3ODV0NjJzUFZZS1gzR0hCLU41Mzl6Sy1YSjFSR2swcngyUWk1ZW95Ukk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0FrS1dTOHlRRVdWS1pKRHhLSnpHTXZqZ0FkRmxRVkl0eElEZXJSVklKTHhMZGJZWGttd2swLVhJd2J0TkdwU21telU3RVo5a3BEbTd2YnVNd2h5M2xYWUMtZWVOck5qRHZOREI4bFlrclhXeDhSZTI3Tk5aSjIyMExQeG02MlFfb3JnRmp1TzVaM1NsLUEwWGhEYTRlUEJ6WWN1Sg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRmpJcDhyOUo1LTJTZFhaZzhzd3E5bElpVnA4S2t1dzBNaGF1c21FV0NlMk40SGlFNVNDMEpiVzdpVnUxS2tRSEZRTmY3MmQ4blZiM0hZRVJwX3YtTk94c2NaRUM5WWVCQ2JGa0hBdEFoQnQxZk5fc01KS3BIR0dNSVB5MFFOXzM0UXJfV0l1YkVOOEs0ZGprVVc2TWxVclV3eFBLMUUxRFZVeWZEXzY4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/18/ebola-hantavirus-is-the-world-prepared-for-the-next-pandemic?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQW90eWFlTk5OaThhWmVEcWN5TVRPZU5wSlh5RUp2dGZEZmFCcDdsUG1fWTVucDdmb21BVnppU2hmRTRJTjhVcTZteG1oNmpxRm85a0J3SHYtT3J0em5ya0xUR0xfanl5dVhZUHppMm9qejJMRmtNaFJsUnFfSnJxUXUySV90NXFQNDgxN21hZ9IBlAFBVV95cUxNbVNlTmQtU2RUaTBlbUNXNWxQRVc5MUtaSGI2dmREWW1NUGIyLTF1cTBHc09QU0VuZXlXUU5sV1NYMklKX2FUMUR2OWtXRFJpSklmTzdwUUM5cHZxSHhHcDI3ajZrT09xRVM5ckkwcWdHd1VFTDk4eTk2bjhPcG1aS3lEZlRSMFhoR0hKM0VoV3hpWUlp?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeWFET2FPMEJUQlBXR1g2NjVzRTdXUExvcGIwNkFzX1NxVGRZanBIM1lydGExVWNLVFhoOVJVVmx3aUhINzVKVFFSQlNWNXp3ZGFJU3hSTEVxSEVGa21yeS1YMTcwUExNOVFhVlhRMFl0SXBJQmRldVFjR2tHWDJJaXpvdE41eFpmNkducG5ISkQ5UEF4WWpQb0Zn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFp1OUNyME9sX2wtTXJLcVQ2eENUNUZkVVZmbFpHQjh0cW5YbHhYU1FqYWotUGtDbnEwMVpUNndncEd1QVRTNDBmVXBLbDNPOWRfN0dXVFNCMnhIM1VNc0xMUDJNeTRBeWNGVFEzbzczd0h1dmRUOFFiZmxKX05TZnlJdjcyQmZPNVdWWi1wZEM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdXFxZnAzWGFtXy1hWGFQRFZScWVCTzBFT2ViWFhlVVp2cXVkSC1EM3FSM2RZaHRnSEY5Wkkwbjl1OE1Wb19kT1dsWkhGOGdRenFuaWZZTF9iZERYbmtxNmtJZGY1LXhHa3pvd1Z6Q2tYVVZIemxuOVpNWDFneHIzS21sX3NsbXlCWWQwMS1oQldDMlZ2VXY1cmhTcEpzSFRNZVRvcVBPTzNFQ29yamxjUFBZNXBCazNBcEtmZEM2d21GOTNmNnB4NjdHcnRiM1EyNVhqWDUzTFcwMGtnRmfSAd4BQVVfeXFMT3VxcWZwM1hhbV8tYVhhUERWUnFlQk8wRU9lYlhYZVVadnF1ZEgtRDNxUjNkWWh0Z0hGOVpJMG45dThNVm9fZE9XbFpIRjhnUXpxbmlmWUxfYmREWG5rcTZrSWRmNS14R2t6b3dWekNrWFVWSHpsbjlaTVgxZ3hyM0ttbF9zbG15QllkMDEtaEJXQzJWdlV2NXJoU3BKc0hUTWVUb3FQT08zRUNvcmpsY1BQWTVwQmszQXBLZmRDNndtRjkzZjZweDY3R3J0YjNRMjVYalg1M0xXMDBrZ0Zn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSHdXX1dtUENpalo0UklJSFloU3Y4eU8wbEJvdXo2NE5MOVRvVFJmbEhtdXFuMU40MzBmR1ZSVjVjQWdzX05RMUxobmY1NXNxSkNFcnJrcUttVmYyLWQxcW5scmRLOVBRQTAtWUtRcHk4SHozb0pPcEUtaEt3WUxsSFFIVk5sc01td1UzUURhVkhBSmhtYkQ1TDczdktXZW1VcTR5TGNSMklzVVV2ampNN0hxRWV4cjhzcVJRM3VxTDM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOS1hbDR4bkQtRWNwR0dWTGd0ZktlYXBabXQzRVh1RXhIR04xV0ZwT1VSZlpDd0VTOVRJS2ZFZTQwMWxwSWlYRkswTkR5eXFqQ3NnN2xlT01qNzNRQjVUcUh4QU1qaXBWaXB2MHRZVERVLU1mVmRQeUhQMm93WFA0anhiRlk0dl9NS3lybTJoRWtvZ2l6VEhhcGxudTY2MWhibW5PQ1NXWjk0eXZ3bEpRTnNxR1V6bFhHMUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1lRcmJNWlBDcFFrRXRMR2xSUVZpQkdZV1R3NURUb3lVdjlDM2ZYQ0hVSFJjemk0TE1wNVdJaUNLX3RkQ3ZTREIxTTY2c2I2b3NNSElKSnRRTzdVa2h5Q25tUVN2dXZUNFA1UFRGcF9MZ2VPOFdnRG1MTHJrZUo1QnB3R3F1VE5rcVBEZ1c4WldSVDNXYXlBMHVKeU96emk1LWpUeHNTRXLSAa4BQVVfeXFMTnZWSTFzUHdlRmo2T0xlQnJvT1V6SlRGQ1RmR1Z1S2VQNDVtOG44eGFta1FEUzg1czFfdE1kdW1aVFhuRmhGR0dhTVVmb3V1NUZTa0pqdmFZQnZfSmZ6bFdNbU9zRGdxU2VGOE1sdF9WSTF6QjlyQkpld1VQelgwejd2S1V0d1JVMVdiZ1MwYXVmLTdubi1od2pTVm1kbTlfOUF6RnNFTHh4c2ZkZk9R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/north-korea-s-new-constitution-deepens-split-with-seoul/a-77195733?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVWl3VWFUZEpYYndLSFZEX3IyNlhqSFNPTzBBb05DMWNhd0VrY05qQzhfV3VhYjJyVW82SzJiVFdZR1QxU0tubEI4Y3lPMTJTSEtSRFVORlNCTDhZOC1fX2xLby1QMURJNWI2eUlzSHJ2cUNmREx6Y2pVY0l6clBKT3dpczN4UmM4d2swZ3Z0aG9lRG9nVHRQT1RfZ2F3d2pTQW85ak9wT0NLcVg4Q1Rn0gG0AUFVX3lxTE9aeWFJQ1ZNVkZ3TWVFeURzOC1QTlRnSWVWX184UWxBX2RfRTE1WGhCRnZLV1VtZlN3NGprU2lDNU5QSmN2ZXlrTnMwdVY0Wjg4TWRfX3d6MkV4RzRpQll1bk03OTE5WHhPMFkwaGdUX01mRHllWFdXcE1Cb0hWY2ZOdTdEOE5fVm43M1JWRHA3RkdTdlAwRHQtVVhvWGNmMWNpcXc0Z29HdkpJWThMVFhoUjg5Qw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1c5Qk5GMjBHbUlqYXZNdDhQbXY3Z1FBWktZTjM5cEx1NjVEclREN0hGQ2dVOGJMZDNES0lnV2VpTF9CS2s4bXdlTVBVc1BvQ3kwdzNJeEpvNnRYV2xPMl9rY2JnVGxkTDR2QTZ6UUQtR1pWX3NHZFhKaEdMZS1sUVhkWWRJRHowSEFUMG5CeElrX1dDWkFyV3hvelgydEZBVXZNRTFWRE5BYnl5eHRJ0gG0AUFVX3lxTE5TS2IzaHN5eVVUazdQRzhFb2JsZGFpVVJ2ZXJhZTQyU2RlbkVLVTEzcmxsUlRUWFN6cFFtTDVqU2xHM0FzSGdCZ0xJeFYwWEsxZ0p1MENFbUJVWUI5SjhVWWEzZGhMUXdGYnkyZkQ3SVM3MnprRVhYQzVrTUJ4dDBLUFRkQkhzakpqOXdOSnVHc0I3Z1BhOW9xUlJKRF9pSF90TXJSbU81YVBWSEFwQkV2Z2k4Ng?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOakpsZkRTa3dDcTltOXJiUktHZEJsQTNYWlppMzl3Q3lzV01WN01FVC1xaEdfUVdndHV3UTgzc2JlSTQzUmFMR0ZPX2E5b1pRaEQ2Tk9PdEtFTmFCcWtJdTRZNUo2cFFkYWViOWppUGlreWF5SEpVUnFEbG1OMkdZdWZXVk54cTM1eUtVMnBjSFJuWjdlNXpvdDR1WG8zSERTZS14bXd2VWRGWmU4ZlJuTU5pRHo4QWE3WlNhS2pYVGxmdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/5/18/iran-eyes-challenging-stock-market-reopening-after-lengthy-war-closure?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTTZ1MkFoSlZMaVBJanpvYnRsM1d2RHRqQmRiRlJrSjlJc2UwM0hENmJ1ZEMyX25lYVBXZ0JyZHRJblF1OW5JTm53MHlhbC1nSDliQ28wVXYxQnpIZXNuS3FBQTlMc2NvVmpzWDRFaklHVE5OaGtIXzBjYkxBVWtZeDhVZ01WSzhOTGRQalhjeVk2WFVQbUd3YWM4OEk1cVBBNDJ1M0MySncxbExQRmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT29Mek5sVHJ3a2F3akFMQnNhQ2xzX0ZzaVZzQ1NfZ0gtN1J5a1RtRGFnRFpETkJrd0huTzg5clp6ZGFKLTFQS3c3WW05Zm5YbUVDLWhKYmM4UWlTdG8yYnY3aFI1ZlU1anRpSEp3dE9zc1RXS3RlZU9hUnFSWGRaUDRBTFkwYzA2X2xz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
