@@ -1684,7 +1684,7 @@
                     </div>
                     <div class="refresh-indicator is-idle" id="refreshStatusIndicator">
                         <span class="mini-spinner" aria-hidden="true"></span>
-                        <span id="refreshStatusText"></span>Actions refreshes</span>
+                        <span id="refreshStatusText">Ready for live refresh</span>
                     </div>
                 </div>
                 <div class="status-dashboard" aria-label="News refresh overview">
@@ -2286,7 +2286,7 @@
                 setLatestUpdate(refreshedAt ? formatDateTime(refreshedAt) : label);
                 setSourceCount(sourceCount);
                 nextAutoRefreshAt = nextScheduledRefreshFrom(metadataUpdatedAt || refreshedAt);
-                setRefreshUiState(false, 'RSS data refreshes through Actions and deploys to this page');
+                setRefreshUiState(false, 'Latest deployed news is ready');
                 setText('refreshButtonText', 'Refresh Now');
                 updateAutoRefreshText();
             };
