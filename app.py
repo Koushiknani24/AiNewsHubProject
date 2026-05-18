@@ -4,7 +4,6 @@ import os
 import threading
 import time
 from datetime import datetime, timedelta, timezone
-from ai_concepts import get_ai_concepts
 from database import (
     database_features,
     database_stats,
@@ -14,19 +13,14 @@ from database import (
     load_user_events,
     save_user_event,
 )
-from refresh_pipeline import (
-    LATEST_REFRESH_FILE,
-    NEWS_DATA_SCRIPT_FILE,
-    load_live_sources,
-    run_full_refresh_pipeline,
-)
-from search_pipeline import run_hybrid_search
 from source_manager import source_count, source_metadata, source_stats
 
 app = Flask(__name__, static_folder='static', template_folder='.')
 
 DATA_FILE = 'summarizedNews.json'
 NEWS_FEEDS_FILE = 'newsFeeds.json'
+LATEST_REFRESH_FILE = 'latestRefresh.json'
+NEWS_DATA_SCRIPT_FILE = 'newsData.js'
 REFRESH_INTERVAL_SECONDS = 600
 AUTO_REFRESH_ON_STARTUP = os.getenv("AUTO_REFRESH_ON_STARTUP", "1") == "1"
 
@@ -105,6 +99,8 @@ def run_refresh_pipeline():
             pipeline_status["phase"] = phase
 
         try:
+            from refresh_pipeline import run_full_refresh_pipeline
+
             result = run_full_refresh_pipeline(status_callback=set_phase)
             latest_update = result["metadata"]["latest_update"]
             pipeline_status["last_success"] = latest_update
@@ -236,6 +232,8 @@ def get_status():
 
 @app.route('/api/ai-concepts')
 def get_ai_stack():
+    from ai_concepts import get_ai_concepts
+
     return jsonify({"concepts": get_ai_concepts()})
 
 
@@ -247,6 +245,8 @@ def refresh_news():
 
 @app.route('/api/search')
 def live_search():
+    from search_pipeline import run_hybrid_search
+
     query = request.args.get("q", "")
     return jsonify(run_hybrid_search(query))
 

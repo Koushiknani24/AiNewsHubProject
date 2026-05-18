@@ -210,6 +210,36 @@
             opacity: 0.65;
         }
 
+        .about-project-btn {
+            border: 1px solid rgba(56, 189, 248, 0.22);
+            border-radius: 999px;
+            background: rgba(15, 23, 42, 0.68);
+            color: #dbeafe;
+            padding: 0.58rem 0.95rem;
+            font: 700 0.82rem 'Inter', sans-serif;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.45rem;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: var(--transition);
+            box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
+        }
+
+        .about-project-btn svg {
+            width: 16px;
+            height: 16px;
+            color: var(--accent-primary);
+        }
+
+        .about-project-btn:hover {
+            color: #ffffff;
+            border-color: rgba(56, 189, 248, 0.52);
+            background: rgba(14, 165, 233, 0.14);
+            box-shadow: 0 0 18px rgba(56, 189, 248, 0.18);
+            transform: translateY(-1px);
+        }
+
         .search-status {
             display: none;
             margin-top: 0.85rem;
@@ -763,6 +793,272 @@
             display: flex;
         }
 
+        .research-disclaimer-section {
+            margin: 2.5rem 0 0;
+            padding: 0 0 0.5rem;
+            animation: researchFadeIn 0.75s ease-out both;
+        }
+
+        .research-section-heading {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+            color: #f8fafc;
+            font-size: 1rem;
+            font-weight: 800;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            text-shadow: 0 0 18px rgba(56, 189, 248, 0.26);
+        }
+
+        .research-section-heading::before,
+        .research-section-heading::after {
+            content: '';
+            height: 1px;
+            flex: 1;
+            background: linear-gradient(90deg, transparent, rgba(56, 189, 248, 0.42), transparent);
+        }
+
+        .research-info-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 1rem;
+        }
+
+        .research-info-card {
+            position: relative;
+            overflow: hidden;
+            min-height: 188px;
+            border: 1px solid rgba(56, 189, 248, 0.18);
+            border-radius: 16px;
+            background:
+                linear-gradient(145deg, rgba(15, 23, 42, 0.86), rgba(2, 6, 23, 0.82)),
+                radial-gradient(circle at 12% 0%, rgba(56, 189, 248, 0.12), transparent 34%);
+            backdrop-filter: var(--glass-blur);
+            -webkit-backdrop-filter: var(--glass-blur);
+            padding: 1.35rem;
+            box-shadow: 0 18px 48px rgba(0, 0, 0, 0.32), inset 0 1px 0 rgba(255, 255, 255, 0.04);
+            transition: var(--transition);
+        }
+
+        .research-info-card::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            pointer-events: none;
+            background: linear-gradient(120deg, rgba(56, 189, 248, 0.16), transparent 32%, rgba(129, 140, 248, 0.1));
+            opacity: 0.42;
+        }
+
+        .research-info-card:hover {
+            transform: translateY(-3px);
+            border-color: rgba(56, 189, 248, 0.42);
+            box-shadow: 0 24px 56px rgba(0, 0, 0, 0.42), 0 0 24px rgba(56, 189, 248, 0.14);
+        }
+
+        .research-card-header {
+            position: relative;
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            margin-bottom: 0.95rem;
+            z-index: 1;
+        }
+
+        .research-icon {
+            width: 42px;
+            height: 42px;
+            border-radius: 12px;
+            display: grid;
+            place-items: center;
+            color: #e0f2fe;
+            background: linear-gradient(135deg, rgba(14, 165, 233, 0.3), rgba(99, 102, 241, 0.28));
+            border: 1px solid rgba(125, 211, 252, 0.28);
+            box-shadow: 0 0 18px rgba(56, 189, 248, 0.16);
+            flex: 0 0 auto;
+        }
+
+        .research-icon svg {
+            width: 21px;
+            height: 21px;
+        }
+
+        .research-info-card h3 {
+            position: relative;
+            z-index: 1;
+            color: #f8fafc;
+            font-size: 1.12rem;
+            line-height: 1.2;
+            text-shadow: 0 0 16px rgba(56, 189, 248, 0.22);
+        }
+
+        .research-info-card p {
+            position: relative;
+            z-index: 1;
+            margin: 0;
+            color: #cbd5e1;
+            font-size: 0.95rem;
+            line-height: 1.72;
+        }
+
+        .research-footer-line {
+            margin-top: 1rem;
+            border: 1px solid rgba(56, 189, 248, 0.14);
+            border-radius: 14px;
+            padding: 0.9rem 1rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.55rem;
+            color: #dbeafe;
+            background: rgba(2, 6, 23, 0.54);
+            font-size: 0.86rem;
+            font-weight: 800;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
+        }
+
+        .research-footer-line svg {
+            width: 18px;
+            height: 18px;
+            color: var(--accent-primary);
+        }
+
+        .project-modal-overlay {
+            position: fixed;
+            inset: 0;
+            z-index: 300;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            padding: 1.25rem;
+            background: rgba(2, 6, 23, 0.76);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+        }
+
+        .project-modal-overlay.active {
+            display: flex;
+            animation: modalOverlayIn 0.25s ease-out both;
+        }
+
+        .project-modal {
+            width: min(860px, 100%);
+            max-height: min(86vh, 760px);
+            overflow-y: auto;
+            border: 1px solid rgba(56, 189, 248, 0.24);
+            border-radius: 18px;
+            background:
+                linear-gradient(145deg, rgba(15, 23, 42, 0.94), rgba(2, 6, 23, 0.94)),
+                radial-gradient(circle at 12% 0%, rgba(56, 189, 248, 0.14), transparent 36%);
+            box-shadow: 0 30px 100px rgba(0, 0, 0, 0.62), 0 0 34px rgba(56, 189, 248, 0.12);
+            animation: modalPanelIn 0.32s cubic-bezier(0.25, 1, 0.5, 1) both;
+        }
+
+        .project-modal-top {
+            position: sticky;
+            top: 0;
+            z-index: 2;
+            display: flex;
+            justify-content: space-between;
+            gap: 1rem;
+            align-items: center;
+            padding: 1.2rem 1.25rem;
+            background: rgba(2, 6, 23, 0.78);
+            backdrop-filter: blur(18px);
+            -webkit-backdrop-filter: blur(18px);
+            border-bottom: 1px solid rgba(148, 163, 184, 0.12);
+        }
+
+        .project-modal-title {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            color: #f8fafc;
+            font-size: 1.25rem;
+            font-weight: 800;
+        }
+
+        .project-modal-title svg {
+            width: 24px;
+            height: 24px;
+            color: var(--accent-primary);
+        }
+
+        .modal-close-btn {
+            width: 38px;
+            height: 38px;
+            border-radius: 10px;
+            border: 1px solid rgba(148, 163, 184, 0.18);
+            background: rgba(15, 23, 42, 0.72);
+            color: #e2e8f0;
+            cursor: pointer;
+            display: grid;
+            place-items: center;
+            transition: var(--transition);
+        }
+
+        .modal-close-btn:hover {
+            color: #ffffff;
+            border-color: rgba(56, 189, 248, 0.48);
+            background: rgba(14, 165, 233, 0.16);
+        }
+
+        .modal-close-btn svg {
+            width: 18px;
+            height: 18px;
+        }
+
+        .project-modal-body {
+            padding: 1.25rem;
+            display: grid;
+            gap: 0.85rem;
+        }
+
+        .modal-info-block {
+            border: 1px solid rgba(148, 163, 184, 0.12);
+            border-radius: 12px;
+            padding: 1rem;
+            background: rgba(15, 23, 42, 0.52);
+        }
+
+        .modal-info-block h4 {
+            color: #e0f2fe;
+            font-size: 0.9rem;
+            margin-bottom: 0.45rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+        }
+
+        .modal-info-block p,
+        .modal-info-block li {
+            color: #cbd5e1;
+            line-height: 1.65;
+            font-size: 0.93rem;
+        }
+
+        .modal-info-block ul {
+            margin: 0.2rem 0 0;
+            padding-left: 1.1rem;
+        }
+
+        @keyframes researchFadeIn {
+            from { opacity: 0; transform: translateY(18px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes modalOverlayIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes modalPanelIn {
+            from { opacity: 0; transform: translateY(18px) scale(0.98); }
+            to { opacity: 1; transform: translateY(0) scale(1); }
+        }
+
         .page-btn {
             min-width: 42px;
             height: 38px;
@@ -1219,6 +1515,9 @@
             header {
                 flex-wrap: wrap;
             }
+            .about-project-btn {
+                order: 3;
+            }
             .status-dashboard {
                 grid-template-columns: repeat(3, minmax(0, 1fr));
             }
@@ -1249,6 +1548,15 @@
         }
         
         @media (max-width: 600px) {
+            header {
+                padding: 0.9rem 1rem;
+                gap: 0.8rem;
+            }
+            .about-project-btn {
+                width: 100%;
+                justify-content: center;
+                order: 4;
+            }
             .status-dashboard {
                 grid-template-columns: 1fr;
             }
@@ -1283,6 +1591,38 @@
             .main-wrapper {
                 padding: 1.5rem 1rem;
             }
+            .research-section-heading {
+                align-items: flex-start;
+                font-size: 0.9rem;
+                line-height: 1.45;
+            }
+            .research-section-heading::before,
+            .research-section-heading::after {
+                display: none;
+            }
+            .research-info-grid {
+                grid-template-columns: 1fr;
+            }
+            .research-info-card {
+                padding: 1rem;
+            }
+            .research-footer-line {
+                align-items: flex-start;
+                text-align: center;
+                line-height: 1.5;
+                letter-spacing: 0.05em;
+            }
+            .project-modal-overlay {
+                padding: 0.75rem;
+                align-items: flex-end;
+            }
+            .project-modal {
+                max-height: 88vh;
+                border-radius: 16px 16px 0 0;
+            }
+            .project-modal-title {
+                font-size: 1.05rem;
+            }
         }
     </style>
 </head>
@@ -1310,6 +1650,15 @@
             <button class="cat-btn" onclick="filterCategory('Entertainment', this)">Entertainment</button>
         </div>
 
+        <button class="about-project-btn" type="button" onclick="openProjectModal()" aria-haspopup="dialog">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="12" y1="16" x2="12" y2="12"></line>
+                <line x1="12" y1="8" x2="12.01" y2="8"></line>
+            </svg>
+            About This Project
+        </button>
+
         <div class="search-container">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <circle cx="11" cy="11" r="8"></circle>
@@ -1331,11 +1680,11 @@
                 <div class="system-state-row" aria-label="Pipeline state">
                     <div class="live-indicator">
                         <span class="live-dot" aria-hidden="true"></span>
-                        <span>Auto RSS Updates Active</span>
+                        <span>Live Updates Active</span>
                     </div>
                     <div class="refresh-indicator is-idle" id="refreshStatusIndicator">
                         <span class="mini-spinner" aria-hidden="true"></span>
-                        <span id="refreshStatusText">Auto RSS updates refresh this page periodically</span>
+                        <span id="refreshStatusText"></span>Actions refreshes</span>
                     </div>
                 </div>
                 <div class="status-dashboard" aria-label="News refresh overview">
@@ -1352,11 +1701,11 @@
                         <strong class="status-value status-value-strong" id="sourceCount">0</strong>
                     </div>
                     <div class="status-chip status-chip-accent">
-                        <span class="status-label">Auto Refresh</span>
+                        <span class="status-label"> Refresh</span>
                         <strong class="status-value" id="autoRefreshStatus">Every 10 min</strong>
                     </div>
                     <div class="status-chip">
-                        <span class="status-label">Next Refresh</span>
+                        <span class="status-label">Next Run</span>
                         <strong class="status-value" id="nextRefreshStatus">Scheduling...</strong>
                     </div>
                     <button class="action-btn refresh-action" id="refreshButton" onclick="triggerRefresh()" type="button">
@@ -1435,7 +1784,100 @@
             <div class="loading pulse">Synthesizing global intelligence...</div>
         </div>
         <div class="pagination-bar" id="paginationBar" aria-label="News pagination"></div>
+        <section class="research-disclaimer-section" aria-labelledby="researchInfoTitle">
+            <h2 class="research-section-heading" id="researchInfoTitle">Research & Project Information</h2>
+            <div class="research-info-grid">
+                <article class="research-info-card">
+                    <div class="research-card-header">
+                        <div class="research-icon" aria-hidden="true">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M22 10v6M2 10l10-5 10 5-10 5-10-5z"></path>
+                                <path d="M6 12v5c3 3 9 3 12 0v-5"></path>
+                            </svg>
+                        </div>
+                        <h3>Research Information</h3>
+                    </div>
+                    <p>This project is an undergraduate initiative for the Bachelor of Technology (B.Tech) degree, carried out online under the guidance of Dr. Annamdas Venu Gopal Madhav (Former Scientist, NTU Singapore). The project was executed at the Dr. APJ Abdul Kalam Research Centre, Virtual AISIA, India.</p>
+                </article>
+                <article class="research-info-card">
+                    <div class="research-card-header">
+                        <div class="research-icon" aria-hidden="true">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                                <path d="M12 8v4"></path>
+                                <path d="M12 16h.01"></path>
+                            </svg>
+                        </div>
+                        <h3>Disclaimer</h3>
+                    </div>
+                    <p>We are not liable for any loss or damage whatsoever arising from the use of the information provided on this platform. While we capture data directly from original sources, the absolute accuracy of the news and information remains the responsibility of the respective sources.</p>
+                </article>
+            </div>
+            <div class="research-footer-line">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <path d="M12 2v4"></path>
+                    <path d="M12 18v4"></path>
+                    <path d="m4.93 4.93 2.83 2.83"></path>
+                    <path d="m16.24 16.24 2.83 2.83"></path>
+                    <path d="M2 12h4"></path>
+                    <path d="M18 12h4"></path>
+                    <path d="m4.93 19.07 2.83-2.83"></path>
+                    <path d="m16.24 7.76 2.83-2.83"></path>
+                </svg>
+                <span>Powered by AI &bull; NLP &bull; Machine Learning</span>
+            </div>
+            <div class="research-footer-line">AI-Powered Real-Time Global News Intelligence Platform</div>
+        </section>
     </main>
+
+    <div class="project-modal-overlay" id="projectModal" role="dialog" aria-modal="true" aria-labelledby="projectModalTitle" onclick="handleProjectModalBackdrop(event)">
+        <div class="project-modal">
+            <div class="project-modal-top">
+                <div class="project-modal-title" id="projectModalTitle">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <path d="M12 2v4"></path>
+                        <path d="M12 18v4"></path>
+                        <path d="M4.93 4.93 7.76 7.76"></path>
+                        <path d="M16.24 16.24 19.07 19.07"></path>
+                        <path d="M2 12h4"></path>
+                        <path d="M18 12h4"></path>
+                    </svg>
+                    About This Project
+                </div>
+                <button class="modal-close-btn" type="button" onclick="closeProjectModal()" aria-label="Close project information">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="project-modal-body">
+                <div class="modal-info-block">
+                    <h4>Project Information</h4>
+                    <p>This undergraduate B.Tech initiative presents an AI-assisted global news intelligence dashboard with source aggregation, analytics, summaries, and risk indicators.</p>
+                </div>
+                <div class="modal-info-block">
+                    <h4>Technologies Used</h4>
+                    <ul>
+                        <li>AI, NLP, machine learning, clustering, sentiment analysis, credibility scoring, and real-time data pipelines.</li>
+                        <li>Responsive dark dashboard UI with glassmorphism surfaces, analytics cards, and interactive filtering.</li>
+                    </ul>
+                </div>
+                <div class="modal-info-block">
+                    <h4>Research Guide Information</h4>
+                    <p>Carried out online under the guidance of Dr. Annamdas Venu Gopal Madhav (Former Scientist, NTU Singapore) at the Dr. APJ Abdul Kalam Research Centre, Virtual AISIA, India.</p>
+                </div>
+                <div class="modal-info-block">
+                    <h4>Disclaimer</h4>
+                    <p>We are not liable for any loss or damage whatsoever arising from the use of the information provided on this platform. Original source publishers remain responsible for the absolute accuracy of their news and information.</p>
+                </div>
+                <div class="modal-info-block">
+                    <h4>AI Features</h4>
+                    <p>The platform synthesizes global stories through automated summarization, topic extraction, analytics, source intelligence, credibility context, and machine-assisted discovery.</p>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <script>
         let allNewsData = [];
@@ -1463,6 +1905,32 @@
         const API_BASE = window.location.protocol === 'file:' ? 'http://127.0.0.1:5000' : '';
         const DEFAULT_NEWS_IMAGE = 'static/aisia-lab-default.jpg';
         const BACKUP_NEWS_IMAGE = 'static/default-news.svg';
+
+        function openProjectModal() {
+            const modal = document.getElementById('projectModal');
+            if (!modal) return;
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeProjectModal() {
+            const modal = document.getElementById('projectModal');
+            if (!modal) return;
+            modal.classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        function handleProjectModalBackdrop(event) {
+            if (event.target?.id === 'projectModal') {
+                closeProjectModal();
+            }
+        }
+
+        document.addEventListener('keydown', (event) => {
+            if (event.key === 'Escape') {
+                closeProjectModal();
+            }
+        });
 
         function apiFetch(path, options = {}) {
             const normalizedPath = API_BASE ? path : path.replace(/^\/+/, '');
@@ -1648,7 +2116,7 @@
             latestCard?.classList.toggle('is-refreshing', isBusy);
             indicator?.classList.toggle('is-idle', !isBusy);
             setRefreshButtonBusy(isBusy);
-            setText('refreshStatusText', message || 'Auto RSS updates refresh this page');
+            setText('refreshStatusText', message );
         }
 
         function readBackendStatus() {
@@ -1755,7 +2223,7 @@
                     }
                 })
                 .catch(err => {
-                    // Backend unreachable - try static files for GitHub Pages/project-page hosting.
+                    // Backend unreachable - try static files for  Pages/project-page hosting.
                     return loadStaticNewsData(err)
                         .then(data => {
                             contentMode = 'static';
@@ -1818,7 +2286,7 @@
                 setLatestUpdate(refreshedAt ? formatDateTime(refreshedAt) : label);
                 setSourceCount(sourceCount);
                 nextAutoRefreshAt = nextScheduledRefreshFrom(metadataUpdatedAt || refreshedAt);
-                setRefreshUiState(false, 'RSS data auto-refreshes periodically and redeploys this page');
+                setRefreshUiState(false, 'RSS data refreshes through Actions and deploys to this page');
                 setText('refreshButtonText', 'Refresh Now');
                 updateAutoRefreshText();
             };
@@ -2239,9 +2707,9 @@
         }
 
         window.triggerRefresh = function(source = 'manual') {
-            if (contentMode === 'static' || !API_BASE && location.hostname.endsWith('github.io')) {
+            if (contentMode === 'static' || !API_BASE && location.hostname.endsWith('.io')) {
                 refreshInProgress = true;
-                setRefreshUiState(true, 'Refreshing latest news...');
+                setRefreshUiState(true, 'Refreshing latest Pages news...');
                 setLatestUpdate('Refreshing news...');
                 return fetchNews()
                     .finally(() => {
