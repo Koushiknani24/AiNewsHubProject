@@ -5722,5 +5722,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/19/treasurys-yields-inflation-traders-fed-interest-rates.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEdtWWtCTTVBZXRXOVcyOXhObWQ0bEs1NTZ1ZE1mTmpyRjBTOFpOWHpiaVRUQ0RDeHNzREJ4a2JJQl9LV3ZlRTAzbUliMTUzcllpY2ZBb01TVmF1ZWZCNkt6TS0tNUNBQXpnVi1icXlBMGU0cGRrQVN2UlBqbDl5MlNHN1lnbVdhdEx4R0hQeVRJZmttMEFN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.sciencedaily.com/releases/2026/05/260518041442.htm": {
+        "image": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/kindle-loyalists-scramble-as-amazon-turns-page-on-old-e-readers": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/janez-jansa-slovenia-prime-minister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDNPNFR5VjZHYkMyY1h4MlJHTVpWcVg1T0tIbWYzMmRmMjRMbFkxRTkyVXo5WXEtR0dwZTljQmNzTGMxWkhWWGFFU0dOOFlSeDJ5WUhqUmZpZTdiYkRvRkhKa2hfWmVTNVVMT2JRek5vTlBlYWJvblE5OUFiMm1YSGZJUXhSNEgwNkYybzlyQ1hEcXQt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/19/us-extends-sanctions-waiver-on-russian-oil-why-it-matters?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXlWaDJjdHd5YWpkNGZHcnRXT1JXM3lOdlZVaXFWM21ZLWVWSG1ob2kzUm1jMVpFZGJVZ0lueW1xREdUa2VfU3FUVDUyRWZJY1RRX2ZwM2pKTzlRS0R5eFdCVkpPMDdyYTExbVNMZHpmdDhUbzZTOVRrT2VRYnRjZVByWnlCUzhPVG02ZjJGTmZURmRLODRWZFZrVVBxVlEzbkM3WGFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNanhPOFcxMkJCQ0lpTmdGaXZfa2VRV0lfa3VtR3Vqc1RtR2FwYzRvRWtTZFFMUkI0U1RfcmpnYU5Zc1JGd0lCVTBEWlNWZEd3RXQtbVFpWGdjeW1ZNTZWUW9mZVdZTEhqcC1GZHdqemhzYm5id2NhVDJXLWtKS19nUHhZWGlKdlJkbFdOXzF4QVdYSVBuekNn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnZ4TUEyWFpSVEJMMkVZOVZNdkhSRk9Vb3BmN0NzUEF1QTk3RmdnalNTMDRERkpHUmRSLU9xLV9rcEVGMjQ3eU1BUVEwVkFNdjN3Yk5IbmxfOGNCZUFBNm5FSGVrX2VXNUVrQ2pZc0l1ek1iUTFERXdjRFVSTEFsU25iNVMydEtrOFNhTFNsZjJwcWJNQnh5dHRsUkpzSzg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWxaVWdMSnJia1RxU01QM2lrdUc3RjZ5Z0UtQk13QWxHN3l5ODNzMzlLeW56eTRIR0tPam5QLTdKbkgtOW1kWHJEa1FEcGpyZFoxeDNZV3pnTXR5N3NiZzdXZlVFQXNZcUxwdDlBa1p5bjQ1NmNMeUxHd1laQWlOMHJZS3h0YUU2b1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbndUT0EwcGVNNnMxQ0N5S3lNOFBoaGt5dGxZMU1UQzByNkNNakFuam9jdng2dng3RTQ2Y1BuVXU4ZzdiRloycThtOHpvOFhaTFJQU21jQm85dE00UVI2OHRFY3BzODdQM190VU5zQjlQNzZJSXZqM2l4a2VmTmp6VlRMOHR6MzFGVHRtTWx1M1pRZXJpNVctaW5SSDZIQ0RzRUs1bU1UNXJZZXg0T2M0MEh6QVdpaU1tN3VRdUhPdXJ3dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTdOX2RjYllrU3FuRkZldndmb1FlYVBQM1BibEhaZVV5TUhoOElLQjNqeHZTYXdPVWRLQWFkV0pRNUJGMXpBUWEzeXFhUUFod1RDRkwwZ1hneHdQNXZYOEtQczlyVnhneUNTMGpsSmhXNnU5ajZQYk55bEhCRzhROUxrUXhzUUFZWWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwJBVV95cUxPeThDcnY4cEFLdExDQ0lmRlR5eGNCQVZ4cGZMQ1Q4eFJpazhaT3dKNUJoVnd5cFRORlE4Zkg4ZjJlTWNmdEstaTc4SC1wcnYyeV9oZ2RhUzJVbGU4RTVpUFowdTBKWi1IazNIc09VZG42WW9RaFlqVTU5eHRGLTlBQ3N3TTJPenhPenRWZjRyMVFVQTRrR20wVFhNclNmTVk2cjZkcElwM0JJV1dWM2F6dGhUMURBakhlY053bXNPSE4xQmY0bmNQdHloalNvVUVRdlBHVHl4dmxCZTc3bVhqSmNFcU5qUVFZTVRqZWk4cURRZWVTTVEwdWlTMnRCV0JST3BraEdXYm9WZUJ3ZW9EdjVoTjN1LU5yM2l0Vkk2cklqNndQWkRKZC02dG8wUmxqVUdVbzc4Yw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX1lGVEhWTDRGS0d0SlU3S0RjeVZycTlFcEttMWlWMTlzdGtCSWNqb0N0c29nMUNUWndvX1cwakZlQ3JPeE5yWFRwQUtmZzZrWWdqMVVHb0tZeUlBbWZ2dFdkTGtBbnNnUjZ4VWtTc0xTa2d4Z205QWl4RnVISkxaOEotVXNDYTVNeWEzYTdXYzhZR1hFSndpUWRJWDctOGtJUDdOZlgzSVRpdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/19/us-lawmakers-raise-alarm-over-legality-of-pentagons-lethal-drug-boat-strikes": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnE3amJwRnlRSXk1R3o5TC1fd2Y2VTlxQ29pYzYtWVJrbkZ0NHdnd29kZXBoWGRHX2RHYXZXZUpFZFlKVVg1aDdMWGdzNEVvbDJiNGg1RGxtZnZsbDhLNlFzbEVGdnpOT3dFTFkzcmNGaldvNXU2NldrVDBQQkFEcE1oWk93Nl9UWEkybTZ1ZnhiQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcm55M01xTXBrOENSTmgtMzZCSThoRVdpakZIT0FaMC11TG5BWmVuTVJDVmZEM0w5dUt3NVhENG9oTVJEOXM1dmNLM1lsZFlnYkQyU2dUVHpyYWFTS2RZNUlXVnpRMm1aY1VwNU56VFNSc0VKVWNLNHJXaVcwdURXdldNNlpQak0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
