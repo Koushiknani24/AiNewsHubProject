@@ -6442,5 +6442,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/20/goldman-sachs-on-north-versus-south-asian-stocks.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwJBVV95cUxPV0JQQ05uTHF4TWlReFdBVDhldEwzMjYzRmlwY1R6Wm9sQ1Z3Q2dsUEJ6dkFNMGNLYmt6ZEFrZFFsMWJlSXdxUzVzQWdwTDQ5TV80aTRKMWlhNXc0MVVDbHhpZjA2U0NwZGFuOWduaG9vY2VvS1VkcU1TSG5PSGN3Y3BMYlpzZEFjOERVcGdLYzR3R3VJMkhoYXlQNml1dEh2VUt5SnduSVlkQXJFZHRmM1NxaXA3THg5N3Q2S28tR2F2T2ZaR1o4NGV4ajR0cWFDeXlYcjlKaU1pRDVQRzgwTTY2RFJCN0xvOHZlQVI4dl92SGJPMFNVMkF4dktjZTBVLVQxUy1YQjFEclBWTzlOb2s1Mkg5WVnSAZwCQVVfeXFMTTlraURRRVR4MENEX2VhcElmZ014YlZBal9QTkUtREVWSW5kSzF1M1VxMjZhdjU1TC00WUhRQ1czWFQ0SmJ3ZFNhYm5XRlN0d3RxU012RFFqcV9pdzN6S2pZYWxyRXhpbFZ6dnVadkZiSTEyNGRpTmdOMXNGNUw5Q3JhRjFLX3BSUGJpNW5Yam9ocktmUEhLbElVdEJTaXJNNlJfc3FCRFRRNElDOHJvMXdpT0doQXZEb0VURm0xelpzMUZ3UjJEazFMcVk2dVFfQjgyMkNlTE5USTY5RlZzUEx4cEJfNEtLNmluWkJ6RWxMaVpSd3lIRzJBQXl5dVRjTFhWTTFBalFoczVYQlpHWjJBVUtLZnMzVzZ1U0Y?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/20/us-treasurys-are-now-firmly-in-the-danger-zone-strategists-say.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/my-europe/2026/05/20/eu-approves-trade-deal-with-the-us-despite-uncertainty-in-transatlantic-relations": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/google-unveils-smart-glasses-taking-on-meta": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/mexico-eu-trade-deal-investment-tribunal/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVG40bVFrdWxUN3pBRDlGWU8tYkRuVTA2bHEzYnRNY3oxdUtVRDFuR0NTTExBY3BJY1p4bE5UTnJWQzd5THZvYzNpa2xwZEpZc0dKbU9LSFd1UmpvNG04Tkhja242aXJuVDJSWWtuYzNaOVZTRWNpbWNNVDdpcTBYeW1EdVR6bW90QmtpUTJ2YXlnRUZKVW5ha0RxRVdyV2FnZ3dIeQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZGJiMG9rZVF5WHYtS3RiWlV4b2dtUWlyQnNySGlFUTVYYTJIcFRRT2c0eWRoN0U5MlZVQTZKTkItSkdJQlpkVXgtTjM2LXQxa0p6Z1FkdlRHUTREcDlaTXFhSlhuWmhqR0lZeGVTTFRDV3Fvdl9wemdkTkMySXJYdXpiSngwLUQ4czFONWJrVnFtVjdmRHB6dTZndWktYm5JSEhaSldETE1xTDlpeUww?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaHFyRXJSVU1SUUhkOF85aEwxV2kwOHBWQmNnVHpKbHhsLTdfSXZ5UVF6R1R0N2Ixa1o2WlFRQjZxeWZqWlpvYmFoMnpwWkhnWUxlQjVLN3NXSEVZVkhFc2FPbHNuOXhrTUtkUm9nSlZNRzZiTWl3cDVRZXlobFdUaWl1NFZUODJiSXlKZ18weEpqQkRtVVotbGRCTmZadi11WlJSLUFKU3hNdUpONWE0Nm5MOXpISlQ1eGY3NkZqT0xxVnV3YXFXVw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/20/us-senate-advances-resolution-to-curb-trumps-power-to-wage-war-on-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVZ0RTk2TzhpWFNJdmFQb1B4UVgxd291UG9oRUJHRUxYZmZDemRZS3dudW9BXzZoTFROTDZJU2xpbll2ZTZONy0wTlJLVW9rSlE3dE5RZTFlVjZNdkUxMHRBN2JCckQ0RWIyb1RXZEc1VEJlYWhLYW52TFVDaDBrcHVsZlhMUDNORnpKdHE2Z0Q3RzFmOVRHeHVXT3pwTWY0VkVHRWc5aG1sZllGNmFMTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX0U1OGR6Mkk4MWNLR2ZaclAwTHVjNDJHbEMxemlxWWYtdTFSX0N6cmJ1WnBacmlaMWliVmh3Z3hkUV9kTzJrc2t3QVhrZFpzY0xMZjh1a2JPY0t4aWsyeHBiN19seHR2Z0Q5cUNtRmZFUFV3TU9USnYyNGtjZTJsLUNvdEFTeXZMNFdNSE41Yk9RWFk5eng4d0hKWThUWnVUVF9RMl9CVnBvamdvZTdxQ3FxT2ZTbHFwcnhLOWlKSExzMTZTYy1Sdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdm84ZXpEeW9mMUYtcDZWWnUyXzVGMXpmc2w0WHFsQUZsRlVCSG5BREYxTU1XNGtnOWpTcEpIOWpyVi1TQnNwalkxTlk0cjNSQkdwRHNPS1lYblFQaDRoc2Ezemd5ckl4QjRvQ2N2anRRRm5FN2tEVEpGZkNOUmNDbHNMN3cxUklkU0xSOVYzWDlTak05TG9Lbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMFhmd1pTaXFSSGxyMmRrbngtVDMzSkhLRC1heE1HWENuYV9sQUctUENuSW5VUU9PNXdHN1lZenRXSEtBbFdrV0ktaktYdkNkZkpwRk1za1hLcnZkd08wWU5jRk5kVjdxM2tFLTRVU0luMHJ6YVhENDBtUXotTlZ0ZTFVWVkyYUdlZTZFNElzZDhoYnhobHpGMHpuaUNYZHV6MnZQTlA4Q3ZTSFJtQXhjeE1iNGtyenRPby1QZjV2S1FoMlBq?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/google-changes-its-search-box-for-the-first-time-in-25-years": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
