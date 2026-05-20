@@ -6820,5 +6820,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-trump-irgc-threatens-attacks-beyond-region/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/05/20/eurovision-winner-dara-turns-sofia-into-a-giant-bangaranga-party": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/numbers-of-exiled-tibetans-plummet-as-china-tightens-grip/a-77229131?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xdmlvWmpkSVBHTW9icFNKcHl6R1JDaDZjeGJoM28wcVRxVk1kNG5wZHdiN3I1YWd3OE93WFNQRThVNW1fRlBwUWxvRWhGb3VjTEkzVHJmNnR5N0dtMzVmaW5UaVlBcFV0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXJ6VVNkTUQ5cWxZRlBqT0puNGdZNHl4c1l0QXZReU44SWlUdEpXeHJMYURWbzlLR2tEcFZwLWZOS3VoTXFNeHdkTnRVcFllbkxKNURtY0ZDejh1T0liTUs1NUhwTUtyWElNVzItZk9qaElHMDNwaWdGRXBzLS1PejhWUDgwUU9iUVdxdnhhenRyazdVZDBqckk3a3RkbUVx?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/5/20/which-teams-will-make-their-debut-at-world-cup-2026?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFB1LTJEWU5mUGhKYXliaEYzamJpeFhWc3hidXFEakNYam53bnN5czNJSkNBYUVQZTQtLUQ1VUlydTFDa0pwcHRDdDNVSHQzanBoaV9STE1jRmdXWlNXbXVTQ3Q2UzlTWXFwRm9zUjFEY0o1YWR6MlVUa0d1cTZRREczTmd1Wi16ZUs2MlpxM2ZRcXdweDdWbzM5VDN4bVdC?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcnpMTDNUYnRwOHd5TFNSWFppdXFPYndpanJ6M0JDRVJlY25rRm52REJITUQ0cDN6X2JGR3JpczdwWVZPVU1xdTB5Vm5iZVFDZVVlQlU1b05aTWZBOWlLb09odG15TUVObGl1WmtybjQwT28yMDZBLTlvSzVaM29BN0FvOWxqd1pGN2YxUWZ5ejY3dlZFZGdpREtB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1RPb1JsM2pjRDJpTTNiYm9EYTY4VVk0ZWdKQVBNYzNoSzF6MlpIc1VicUVGNEktUXpCZlpZSGhPazE5eTllZmhtcmxLanpBd0g0MlFFYTZwR2xOeE5WSTNNbzEwWnY4ZVNybVdzQ2tuOVlNaGtRZi10dWVTVWU1MFplTVFaVU9KMkU4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/20/putin-xi-meeting-3-things-you-need-to-know": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/right-wing-fujimori-holds-narrow-lead-over-sanchez-in-peru-election-poll": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUXN3MG1USnVMTG1rd2NqaVI4RENmMERqMWhseXJkaGNCbUJaWk5ENFJhUjlscVRsekY1QnNSY21DOG5jdHNsYTk2Ul9YbVd6REQzZko5MWswNGFtTkkzTHdXZ08zdDhCRUdtcG0zZTFBQVl0S24wRVBxcV8wdW94NkZJc1piZmJNWWR5bzFVamVUMVM0UmQ4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-critic-thomas-massie-loses-kentucky-primary-to-aipac-backed-gallrein?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcVBpUWhUNVU4SmowT0h0TXNRN2JBdElQZHFiUUNCc2NhVE1uUEZXZGdHOGZmSnNNQUQ4bVFTbGZpcVBsZVdsOUxHQnp2R3pOcmQ3OGd4ZnNuZFFaOGR4RFdTdDRLQm52NUVIaFJLMWF2MUY2UDdUVmJ1MU5uZHVEX3U1OUxQeHBtb3ZXOHowaGYwLWlfc3J2a2JZdFRRY3hRajZFTVlXeUtGWGFlOWZDcVpxMzZzVEliSGlQeHdraGNFQkJsRXVwQmxNNklMdVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
