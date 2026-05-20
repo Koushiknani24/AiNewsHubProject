@@ -7090,5 +7090,167 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/05/20/congress-iran-trump-war-powers-win-00929880?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-features/emile-hirsch-speed-racer-legacy-1236601946/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2eWtyMF9MR1BWSHNVVllCS1JxSnVUNjZ6ZHp0TERRZHhVRFl4WUdtSkcwZG9lYUNaVHp2N29yS3Z1QVhSZ0VFdmVUNGd0bTVNWUlZVg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/05/20/activists-use-giant-tedros-and-bill-gates-balloons-at-world-health-organization-protest": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-indicts-former-cuban-president-raul-castro-as-pressure-builds": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MdzVOQnA2bms0QlRBTVFXUmx2cWRxcFJHOHI4TDZZUW5HamJZNFlZTDE5Y0R3Tk1NanF5NlMzajlkWFYyRUZFVVVpc0Z6dERLVEM5RUw0Y0hfS0lINUZ1M2xTVmNOU2VTbUNXRmhJdmxGTW1SN1M4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/report-peacefulness-mexico-mananera-wednesday/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1reTFRTlJ1V3YxVzBBcDdKQVdiUUtSaHFSLWYwT0V2SUljNmthQ1VHZGN0d0hRU1VvQTRaZDNMMG5OSEhRX0x4RU5UblhUNlRqX2xsOF9FSUJDLUNsRjU2Vlo1NlFTdkZTaHVpWEk3WFVLSDFzb0FTMUtRYy0tdmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUlhvS2pRZXhlSm5RRDdYRWdDTXVZc3dSVWw3SVBsa05JbEltWFh1dnVLaExCUUN2TzJoN3F3cVlXRDJocVJpeWprTEdPek10WERFVHc2bXlWaUxpcXBqYUNQTDRqMGlmU0RybHJXN0xtbC1DbmlrYTF4NVhlZEVGaUF4clFoSjJIQ2xFMGQ2Z3hSOE3SAZgBQVVfeXFMT2U1NlBKMl9IMHdqRXY5Y1dncU5jQnZmcXlibkhBcTIxSDh4VzEwS1R5eEEyZU1hLXBSR21JRTVZUVFQYzB3SkVRU2VGTDlhVVJwZFdKYVY4VkU4RXhITnBkd216dTFwWTUyczNBZnZsSjgwUVQzVGg1RUN0SS0zYjhCUUZKTmZ5ZWVDbXRZVVJTWU1JUzdFMm0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOVdodXVULUQ0d2drRlpLWHRJWndibVdlWHB1YmNfRlpobXB6cTBGa21VZ19IYlF1NGhwd3o5SFNJZlNfR3N2Qm1hOGFkbE54WnlEOElPZmY4ZXFUUmhJeXZuT2pJYjcwaVpBQjJlNWU0T3hsRU5peEFQbDRVWThIVDVxTWgzSVktYkxfLVpkMXlFREhJZHp4YmJlZGU1bHoybC1aQg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xSWdaR3p2MVpqUUFxVDV6NERJX3NXc1VkZUl4czVLRFpfMnowcUxGOUZ5YUVCcmc0Z1FuaHhaT3h0WHNocDJMbTl5bFZub09iZkdIWTFDN1Fzbm5wUWdWRGlkQ1JfWGNRdG5zbTREVXpQS0FWUXVpVWxmSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3dyNmFKNjIyb2ZOcHdIT3ZJODBhN1JOcURwckh4LWlMQjVtZndQX0FNRzIxYl9JbFN5ald2RkprYXROaFFIb3daQklvVGthVHFVWHg5WFJmYmFnbG1GTmFtQW41eG9CX1ZueXpoNHBQaEFkWU10NnBJYm9nUjZIQmJlek16c3JTU0VmZktkS3VTYjhMcmRlRUk3dGI1c0hqZE5mZGlUONIBrAFBVV95cUxPNTAyclVadkgyY2lqSjZQT0oySVdqa2c2clBFMnFFcGhJV00wd0VFMGVDVHJJWF9VUEFhNnZTMmFVTDJJNU1LSjNJRDA4SUdNNXRpX0p4RlZ4TVJ1ZWRUdHpkc0t3Y0NqdDRXeENUMTNKSDE4b3FkUWFYbkl4Q3lHRGVvNkd1RFNmMU1sMkVjYzlwZ19GcldvOWNzSjdUN05xUHc3NnVjalF4Vkoz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/20/russia-dangerously-intercepts-british-spy-plane-over-black-sea-ministry?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVZidzRDS3hlVW9uTkdoVlZVS2F4Nk5yRkJ4dnIwN0p4V05xdldiVkxMVkxPVzVuSU1tQ2JJVXRXOGNZaEIzWFNHckpya21aQUVSaVk0NnZubWtMS0I4dzg4dDN3aEh4ZHd6MVFmOE5SYnc2QWs3VDFWY2pVdjctenZ0Y0k5TXhwZDVmcDNlQ2g0bG5PdEZ6QmsyOVphQlhCenF3aQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEgxaVQ0b3JyZkY0N2M2cVdsNDVIamN0a2FiVE1QMzJJTlB4MmszRHYzeWlubkxNanpfVjRYUmRXQXB6UG9GQVNURHhJLUFJU2JCZndMU3lIWWo1YWpqRkRVdjJMZlpvbEE2VXRaUHdSOE95Yk1oOUt3WFN3WF82TE84VlVteTdmMFhyLS1jUGNQZnlPcFpv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDl4Wk8zekFjbng2dTRPWFpxZmtLQklvTjh2WkdBek4zbzliWDlqUE1NZDJLZUNyR1pCVE11Znd6NnAzWnd5eGZHUXVkeDhjV1dsSExzMEJhVFFyZlJVc1hpVTRkN3U5ODdJLWE5b3lRLXEwdG5hLTJibW54ejdob2s5SFpYRUZsenhDWVo0SXJST0FITy1wZnpCdl84VHpBVmhEQmk4d0xFMGkwWDdxSDM2VXM3WVp3Z21aZXdFRmVZLURtQ0M0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjRFQmRFX1o0YU9TanY0enpENDR5eFFHZU9iVG1NRjR6TGpISjJRVFp6dzVkUTVYMDdOX29oQ0NLeF9LclJTSmlPem5tUFZ4aWpiOGdhcExIbXpzcmZhMlVSLWQ3d1pJTWV1V2FFYVBWNTN5d1QyaEs1S0NfTG9SOHZyeTI5elZDaXNrc2VRYl9YU3luLU1XYkdCWUVBU2VkaTJ3WTQxUkpodjDSAbABQVVfeXFMT2ZfMDlBYTB2WFd5Wk1ENm9ZRDJadFhMTWxNNTU2d04wb21NOHhLUld4Zm5RTVpGWVJ1UEo5UTJQRWU5d0dTSlVWcGJjMWRzU3ZrQU83Q3lnVWRGd3VrTnJ4RVNncWpFQ2xzUmtYdGZyMjVsUkVROExkM3lHdktraHVNY214ZVFkRHBFWXZNb09reF96ZFN1VkRrLWhFbG5Ic3M5ZXJEeUtqZ0FLbGZvRVg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2M2S1VHajIyTFpLNGozWVhUWVl5RVRla0lCMGdNTGUydk9MZTRZNUZRTjZUd0x6U2lsZ1ZVWWFuM2hQZDBoSFFmR2dHYldoN01fY0Q4UFpYeUZ2UHo0RDJ0cHl1dVNsWXRabTZsQjZZVFNtNDEtbmgwRi1jQlF0enZiWWN6eHp6YVE2SkUwei1RdzZGejczVk5MZWNVbUpkR3NGSGc3SzF6WEtxc285THdRd1FsbVNkVTFRV1NfYUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzFXTVdjREZsd2Q4a0lPNU1veXNQVjQ5aEhfUmFLTGQ4VWNmdzFCZlh6dTBFSUd4MkNjcjRLcWhpbHVTRG5iT1d3VWpLZXR5ejMtYnFFV0tQYXUxZDNPZGF0WWNmWVAyWkpFd1V5Q1BPdC01a2l0eXN6SUltYVVzRUxQdlpGRG9ONUozNUpOVjk5RkY3N2dCTjVmU05yV2M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/the-boys-creator-stars-series-finale-1236602403/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/20/no-country-has-ever-developed-without-urbanising-world-bank-economist-tells-euronews-at-ba": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/environment-ministry-royal-caribbean-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV19HTGJxeVlCdmlXbWJSaXhpZFd3Mk5GQXFldnhYWFR6U25wMXdyYXExYjNWSHlqc1l3UFZzZHUycU12SWZlM3BOT0xIZ0tjeEJyNlF6blhlNUNQMGd0VGFWUndZb2FBWnhuTTFTRWJKV1JVS1FpUi1oQzNkYkY4bWl2X1R2bW55YW5rQXdDZUdnZzZKMWR4QWZocnJFREZkOGthblczM09zOHBtOUtIOHlRbFo0OEJBTzA2RFFFX2xlU09DbWl6TERTV2QzcmxfWUJheHZabWtNWl9FZVHSAeMBQVVfeXFMUC05RVI1X001UEhkZXU0QVB0QS1sN2EwZEJtc2E4Vm5nel9QeWpYOXhzc25yVzNaZFZmSldNeHJaUlVuNW43QU1ONDdRZHNheDFzcVJKaFFiY1g0bldOVWs2VlVZRkVkSE12dmxqUFFTQmNPZlp2SG1QWkNxbnpySUZZdXZLMmRIVnpDTFcySi1sdFVady1wYXk3bzEydDZueHFHRkJ6WERRb3I3NzBFdEd3WVFkbnNhdlM2d2lidUNHZVZKMzNuWTJmTW9TcXZVd1lFcWsxdmFEOWtkM3gySG9Ldlk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aQnIzYmdEejZ0bVZETzMxSEd6QU9KczNjcDRoSW9Wa3o0ZEU2aGcxS2hTb2ZZbE1GMURUQUxaQXR6ZkRlTHNoV3FqMVgzeTFxeVc1U1JnNUpydVQ5TmdR0gFkQVVfeXFMT2p3SndNeC1MVG5Xc1dmTTEzZ3dBa1N6elhFOVpXSG91T0t3NUp1OHkwckdmYlg2SjZzTGFfSEphajV5RDBzRjRQT3dDTzFVVUx1ZGVfeFp4eURjZUhqNkc5NWt4cA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdWF5a2pPem42VFZSek9WTjhoekQ2MWtSazYyTXh6ZU9RNjhSUHpib1VjYWZIS1B3QUlXVWJCbnYzOWpJamxVVkNXekctRFNfQTU5MHZScFJySUxVbkRhS1RheHlwN3BZMUR3TV96MVBVYWZEWTN1TGhHSzV1emM2X3hvazlJTXlJaUh4VmFHdXZvdWFjb0tZblRONUpnT2ZXN2lHQXVCV1hkeUxZd0d0Y1pRTko3YUJ5cnpHal9NV05uVFJzVzVqNF9rX0xObGZEQkVVSHNBTzFrcWpaNUxqb1Y5WS03cllJWUMxekdxa19FMDNRajg0S3pqY2xvZW8wWWRVWWo5R0VSQzJjelJuTnJRTlNaLVA3VG93Uw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/5/20/meta-cuts-8000-jobs-in-sweeping-global-layoffs?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
