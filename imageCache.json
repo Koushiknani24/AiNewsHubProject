@@ -7252,5 +7252,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/steve-bellamy-typti-tennis-channel-championships-1236602736/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/ariana-grande-knew-better-part-two-dangerous-woman-1235566519/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/05/20/tax-world-gawks-at-trump-audit-agreement-never-seen-anything-like-this-00929576?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTR4cnNrbWV5UmZkREI1elNmbUFta3Utc0Y2WDVGcU45WG5ZWWVKR0RxaWJBcTRudkV2Q2d1UHJ1dTZrU2lkcHRBMGpVd3JDY3JBZU5sTkhlU3RLVXlOMnhsYjZlamlUOXN3RVNrUXA0T0JPaDBOYzd1c2xHdFJXc0lwYzlTQ2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/5/20/james-murdoch-to-acquire-new-york-magazine-and-vox-media-podcast-network?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFAtSndTaWZLbGJMdEQyQ3N6YzFsVlVYdHJicER6QzZjRUc5dWlvbVlZZjROYUlveFEzQjYxelZBRmczdkQ2MS13elNTYTA4Q0RtanNnTkJUS3d0eGJYeEg4bE1fck05Qmdkc1JTUHVIUl9feElCZkVkYUhVUlVyRC1ORm41Y2hUcTRnVkR1d2pWdFRPdUpLR1NQUGYycmdLaE42QXNzcVBVVUtuZ3BXeGRyYWdUcE5oQ0l0Vw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzdpbFNDTlFxX3BhdENWUGtKZl9HQW01c0NHSkY3SUJ2NkNkLXZhMXRVNzhOdDNlNzVTNnZINUlzQV81cjVaVndWZnA4Z1htRzlEQUVKMHBQaGM2cW5BSXNfLXYzejlQZ2ZkOG1rZXVXY1NjNkhrdEpIa0lCY3JRa1FHTm1TWjUtWC1zTUF6QjIzZHdua0ZFUVBhdmFOMXZXcWhaWWl1VjY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdmVHOVZha2VLTUpPOUs0MWxQNUJBUTgwbWhhZ1dINTE5TE9oa1F0bHREeFFMeWV6WE54MGZVaDRzVURJUm1NMGd1OUUzRWYtMmtvZTBWTlo5Q2JqeDF0akhIel8zTDhEY3B3b2szZmdxcHhKQmVpRHFVbWdmQk5Qck1ISTQwN0lKUE9XZzRqUlFfUVp0ZDZr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYkZHVGtIRlVzbjhKRTBWOEMyWjJPV3B0QWhpQVpNTnVYNEZNV19HZHduQ3RhSEk5bVVuOVA4dVE3WXZGUTBSNkNJcnExSzg1NVMxSUdSQk56ZThKZHp4VmtaeWdnQmhGbkFMZ293MjVZOUdxWG55UFlMUzN2SzYyTU5fb0pzd25IVFByT3o3bEFZaFk3ajNqWVdNVlVLak05bm41RWJMMDJFbUhjNmFhUXJKYUNWczNaRktHSWk0dmJhbHN5TmxOT3B1RUR0ZThQR0ZkOHdIUENlTzVzSzRFakdsUzV6eU9kLVRMTmFn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSEJJWF9DcVN2dVIyYmIwMlpCclpuZk1rRVNCMGNCZlZKa3U1QWRGVjA5REUtNDh1N3VKak1zWWU0ZnJrSkhTeHVPY3JYbzcwY0Fyb0pTSzdmMzliV1l6VmIydEZkenR0M3A1MjE3ODVPVFJ6ZWkyNWZXd1ZxY1dPeTdWakRIQl9FZnVLLXNxd2pZNGhlQnVBNXFOcFA1ZzhDOVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
