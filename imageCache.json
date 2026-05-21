@@ -7606,5 +7606,149 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/jimmy-kimmel-stephen-colbert-late-show-cbs-finale-1235566779/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nbk9INjlha3pudE1VemNIZWpqYXBwMVAwMzY1Skwwc24tdUw1TmdHcVM4TURkam5qSGxMUFRjczYyeXpUdjVvYV8wX0d0aFFvVl80SmxyUm1fUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/05/21/nx-s1-5829610/ebola-fears-surge": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-05-21/horizons-middle-east-africa-5-21-2026-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/why-are-drones-suddenly-terrifying-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605210054.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzVzVzFaY1FzbEhNc3BhWFBMQXNZakctbmYwaV83S05pdnA1cGFtMVZTemlfdm1sNUlkRnFycEREeFZrTHlWT3RBQVMzYkVQZzhUV1NhRHN0NDRtVmFGRVFvcjJzVmVqV05naEVmTmNzZEZPWk9oWElPWjNjbjN2TUtoUTB3OWo1SHFmSDMzZ1NuejJqVVhtZUFHZTBNa2QzX0V3cl9wWURXY3RkY0lTS3RGWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlhaazRfQnNVdmFGU2xVaWtfeGNwbnRDcW51UnNVdnh4amdVNXBQMUJhLTFVeDNJUEdLeW9zalhnZGl5SWk0VVhWNmJrQ0U2M01JZTVXaWUtUE5kSWp5ODN4Y09kTjdVY3VYVG5peTFLNmVBWEtlbHBvYk5TdXJ4YWQ3T2VQNmQ0VHI5Z1A4UEJydWk5UkpJTjNpODlXNm41dE5PeXFxYVNlYnlDVEVNSU5lQ1lHOVJ5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3dMX0pLNVM5ZWdJeEg0S2ZzYVpRbXE0SEUybzBINVA3eUh2R3ZoMkgtNlJibnBoU1UwRGJtMlI5TzI5dllxb1c2UkY2ckN0cWhFZlNOTW8wNHFYSy1OUXExTURiZENfMG1WOWc5eC1IWHE3MDBMV2hIZDFGdEItNU80cmZucW5wMU9CS3pBZ3RfOGJRU0RTZlZOY1FsTEhOb0t2ajdaY01lUXhSeTZBVVkwOExaMDdjdUJySGhrNTlEWFl5VjAycFBwX0txQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/21/bolivias-president-reshuffles-cabinet-amid-anti-government-protests?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREhBbWkxbjNLeThiQThCeHZob0F1SHNWTTRKbWl0VjRPUHZvLXpVNzkxSzAxMVI5VzhUa3c0Y1dHNFA0STZLWHQwWVNYUVkwY1Y3M0liYWd3MDVXRDFXLVJmbjdHY1FyeEdWNko1OUZYbHJWYTBMZmtzZ0Z6Yk5aSllhU0lSa1FtNWVBRmxuSk1kREU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX1hHX09IZ2lSVjRNYzFLczBqUWk2RVdRM0xVaENST0JPM2N3bmJRbDlXZGNOb25za2hJcVE0Z0NrZFRpM1Y4Nk5MSENwbi1ZdlFnaTN4bW5kaGw2VUh1YzZ0eGVFZlBhSkE4YzBmZk1OUUZFQnljWkFZcTlLdWNPTmJuVGNTb2pXZ2pBelVweEhvbnIxZHNlVG9CaU0xYXM2RUxVYlF4WUNIRm96SGx2bW52OVNXMDlYMHJvOTF6eDJxNEhBall6eld0Tm9Fc0pDS2lmR2pB0gHrAUFVX3lxTFBDeGxtSTVUcGQ0QzJucFA3RzBFUmc4ZXhuS3BqWkMzZmJ1cHd3NGdXeGZPSjNnLXJyTkNJMFBSeWlyQVZ6a0p1bHg1enB3RmpVMGFSVlBxTHVBdnlBc2VZQzhVVld0QVdPeXYxam92NmJlMEhGcTBXLWZpODE0NHJSb3RnN0I5LXVheDBrSUg5NWkxQzFYR0lkclpSV29MOTNaX1VyNXBhak9RbDVadHNSeGJ2V3U2R3IySWVvMVpPa1RhZ0hZVFBhWk1QOWRza1dpV0pCSGZfWGpDdVlBZGp2aC1sa2p6cFpVLW8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/wie-rubio-trump-nachfolgen-will/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NRGl0bmcxZ2MwYlFMUmlhRFdveTk0NkxyVHc5UG5iWGZ0TVBpZFZhQ2hVMGpyRXJodUxFRmZNQ2s2RzZnSWJMZFlVbHRwcmVTd0lGQWFNWnVnZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1lGVkZqd3h3bHhwbjAzRjl6dm1VNmFDRDlhUXc1dXAtQWFSZkY5UGJ4bHlBUml1eTJVZXlrLUU5SklDdGxLNnNTSmVGX2ZQOWJfWjNBMVNxNUk2cnJsLUxOVFdraHhEMjVPb3dZQWh6MFV6LU9Gc0p1LVptWGtqQ0E4b01lcVBMY1R3UV9mb2thcmNGLWZoZEtCdXRLVnJ1UmhQb01sVWR1RjA5elNJVzRuRk44UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaGUyb0pWZTloNkJGbk41WkgxTjFsN2pRM3FjS3FlNGhFeTh3TVY4U2Y5d1MwZDdwT3lSZUlkNi1wY3U4S0hpSXlCeklnMzc0X2tyZ0hZVEpPYnY1T0VXSmNUaVNYekpZRnlMN24tb1NhTFdldnlrckV1aUVQWXJ5bFhrQ0pqTV9KRkg5d1J0MVctYnNiR0I5NkQ2d3JBNW9tWWxNQjhDUVpOTENXRFh30gG0AUFVX3lxTE9fdHRTeWNub2tMbTdHOWQ4ejNvb0tfd0lpeVkweUlhXzhjQ2RFRWZiSWZvb2JyYUhta0lxZ0NlRDdCejBxMDhOTjhfSlA4VUdpWVpGLVVpOTk2V0N5eV9kemROWXVZT2dWRXp0czZFYmlWYXJzZkdDYkpEN2d4WkRtVzRFVkdLWWRJMV9fRFpjclB2WkdjNEx3dWJDRnlwZ01FdFR1djVQYXp6ZFpDNzAyaDB2Sg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWgxdlRRYXFzdmx1RnVJVGNyZ1ZtWUU1UngxeTRyN2ljdUVab2dJaVd2dGpFdHNMQlZBZkNnS2F5c1BzY1d3WjllUk9YWW05MmZCRklZMndIOF80Y0NKY0xZR21iMUI2X0lrOGRSbUNyM0FTbWZCZVRNN1V4Y0FaRmpCeTdzOHI4dUJN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/top-un-court-to-rule-on-right-to-strike": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUlhCZjBrTEJ0ZHFNOWIzTlI0RjNPNjN1Z2JidE1faHFrTHVsTXVYMGdCTVljZzh6MHJ3MWxJUnRhcVhQS2dSdERVT1pSaWtvVWVtZzFETE1CTElhWUhkek1oVFRxOFgyTXk5VFU3Rm9qdElkQ3pGRjJKeWxZYnVnMlNQYmU1YnRuQzZTbFBxWU9IZEpfNVJF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/21/argentina-protesters-condemn-milei-healthcare-funding-cuts?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMlFrZmtQV2c3Z19PRE1KSkJVRWs5c1BCUnpfVHRmRWxna2dFd1RacENPdXRrcUhBT1NBMEh3c1plS1MzVzhibU9LSkRpb0x0Q3VvWUFJWG1nRmhMLWRPT0Z6MkF6d0NZeXFHc1pCdHhSSWJBWWs1NU5JdTZxX2tKTTZDaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3258349/industry-confidence-dips-amid-energy-price-fears": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDQ1c0TW5CbXJKbHlYWmpNaHNKT21zNVlXTThXT3BTcUVGOTctdDZPdFlNdjhhYUU0UkxVMmwxYWdWV2VkQ1doZ1ZTU3NLSnlLSjB1OS13U016dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUFV5dFlXTjFNOHV0bmVDamhrU3dnN3llUXlFMFV6OHViVldBYWFnX245RTRLMU85ZzRZcTFoOWd0RTBhZjdja1hDQzNiSEZWZHlfSXhXZkxXZDZsSDEyUEt4QnpwQUtiRG40SnZ3WXV5ZDlsdjBRRm0teUpuRWVxTXNDdTBwWEFSTlpUY2x0UjF5WjBCZHdxeWdIMVFZS20wcWFCZXV0alJ0NWRDeXEwSVZmX2FPdElWVDM5a1pDVkxiM3ZCbnZGS01oRlB3S28zS1MzVUJvd3FVeFlocklxSkhseEJnUmFpSFEzMmdFcTV0NmY00gH6AUFVX3lxTE9qNU9PSjJRLUFsVld4YXM5WGs2blJTb05kaERxeUNjb1lZNjEtRmJOT3ktRGlNNVp6aFBrd01jYnZ0bTVhWm9oUXhUeVZaZkt1MU1jS1V1NkpjVW1TdEVueDNwU1pGLTlSd0p6OWRrM1hVWnpnSzdpXzZ6aUNBSE1VZmg0a1AyS1pZeG1hUHk2QnZUN0lPbnM4VktIamZHRkpsOV8zeVAtWWY5bXgwbUN5Y3Y0dlhOSnp0ek5pX3V6dFllY0dDeWc4UUN6ZHlnSFpkd2x1NXZRbHNZY3hvcVJlMVVXSVB0dzc5RjdScE9VMWthcVNnQkg5bmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
