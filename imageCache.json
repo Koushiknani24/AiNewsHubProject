@@ -9574,5 +9574,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZXQweERtZXllZzhfVXp3c1lXOW1PWC0xMnZpd1RNSFIwWFFrUjRZQ2hrQ2ZGY0V0TFN3VXNzNXJGMkxXXzhaYk9oMzZNbkw5dVBjcFJPaE9WOTZ5dUhLb0UzcDg5YXZEU1ctbF8wQ2hsMEtyME1henYyTmVSSFJzeW0tcHhRSnRNMGJaM1pHOVpfNWxaTnpDR2V1VnlFR1NqMFVzdzFwQkdJQ1dmd0gyZGpLb05VQlU3TG9EZ1NQeHZERVpvMEtGdGMyVkJoY0FmUFk1VDlGQkRGeU1SRkkwTndSTDA3TTN4OHlSQmVvRzhBRzNhR1dn0gH3AUFVX3lxTE5ldDB4RG1leWVnOF9VendzWVc5bU9YLTEydml3VE1IUjBYUWtSNFlDaGtDZkZjRXRMU3dVc3M1ckYyTFdfOFpiT2gzNk1uTDl1UGNwUk9oT1Y5Nnl1SEtvRTNwODlhdkRTVy1sXzBDaGwwS3IwTWF6djJOZVJIUnN5bS1weFFKdE0wYlozWkc5Wl81bFpOekNHZXVWeUVHU2owVXN3MXBCR0lDV2Z3SDJkaktvTlVCVTdMb0RnU1B4dkRFWm8wS0Z0YzJWQmhjQWZQWTVUOUZCREZ5TVJGSTBOd1JMMDdNM3g4eVJCZW9HOEFHM2FHV2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/netflix-spec-script-run-the-football-marentette-1236604483/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-trump-us-peace-talks-strait-of-hormuz-control/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-reviews/tom-clancys-jack-ryan-ghost-war-review-john-krasinski-prime-1236604468/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/my-europe/2026/05/22/eu-clinches-new-trade-deal-with-mexico-to-bolster-its-foothold-in-latin-america": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/mexico-european-union-sign-free-trade-pact-modernized-global-agreement/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaHJQTkoyV2hZSjk0SGo3dXhwV3h3QU9HU3FENXpJTVlFWTB2WUVaams0Zl9hd3lPSFpGNDdFSE1qOVVkQy1Od1Y1bnlLdmxya1BJN0YxZFlZS2U2T1QtUFBIZVpTeDMwa2NkNWZ6cHF0NUJ6RDBxZ1VfQ2d5cDlOcDRmZWJXUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/22/mahmoud-khalil-to-appeal-us-deportation-case-to-supreme-court?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/stephen-colbert-the-late-show-finale-sets-record-viewers-1235567792/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXg5SU8xWUV5VnItNXRjb0R3MDBKOE1GNDBXellwaTZqcmxQOTNaYk1qTXdYaGNQV3lzSHJxM0VxZ05ydWw2T202eEVneTV1SFhEeWFaWTdZN1VVN2xZSG5SNURLV29aaGlCRl9GdFprVUNmZkVGTlI1WmhNemI1WkJYak44ODh4SDJRd1hfd0NOZkxNZ1g0TGJGdDQtZkx3ZklDV3RTa9IBrAFBVV95cUxQWXd0bEYyZmN4TUExQURfdmtnbnMwLTFaMEE3T2YyckpXeURsckpHWThuZVNwMTVDSkJkTmlDdUo3cDVjU3FlMllGYnlZaE1wZlFHeF9yZmx3OUtXVjA2bldGZGlnYUJVXzM4bk13MDZBelg0S21mbmlYWlJWbzlzSEZ4NW9sWVRqVGxYODhsNk9TMWs5eWt6cHA0MXpwLUpTUGwwdXozT0tnV1o5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-city-regulate-cell-phone-use-schools/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ2lvMFc4WFRPVmVTNlJQeFFlV2VfU0lMNlR4Y0hxZXFSMEZrZi1pX0FHQ3pkaUttV2tMOWN0bHF3bWRJZ0d0TGI5U0hCSkplQXZ5bVZIWnFFV29tVlMwLV9QempWTGYxZ2hqRXhRUjBCUkh3bEo5aThCYlZSN3dLYnRaQWtGeEtYM3g0cU9DcGhjOEJGMmN0aU1EN3p5T1pYVlQ3dDhKY1JvbU04dUFud280NmdFZ3BnWWRUbWtOUlBsZ2pK?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTWVFVHV6UzJ2a2xZSF9wLWFjWk96eWxrUEtkX1VXN2MtN2RtWjFfWkFYMi1fbzBEeVpsNXZ6TjZtMnlEdUY0dUVZOUQwUHhyWkZJZERGRnBfQXRuRUhxbWFhdUlZZFlQeFZKY3hDajFVOHhReVQxemhXb0VueW5NV0JhTlBZUzk3OUlHZ1JoQndLOXdNcE9pVTZXUzhTcXc2SUE1dndR0gGrAUFVX3lxTE9mZk5ENjJmd1Q1YXpORGZvNXdIdmFVUE9wbTV5Qk9ZYlNtWERhYUtiQ3BDam1wSkx6S2drd2o5bFh6YVFkQk5YazBWTk9fY2xyUFpPOWl5TWFmN1B0VDNrM3NfSmI2dHZJVGpYd1NSa09hcWNJcFc1RVB2X2x4M3FKdUxlbDY4OGRjazhRNGRKTmZkLW1jSFUtMHBwWXh3UjNxLVdrSjdEbjYtMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/22/us-judge-dismisses-indictment-against-kilmar-abrego-garcia?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
