@@ -8944,5 +8944,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/22/iran-asserts-jurisdiction-over-uae-and-oman-waters-in-new-strait-of-hormuz-map": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/what-happened-to-jailed-belarus-dissident-raman-pratasevich/a-77250853?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605220289.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbnVVU2VNaTEzMzRqakFObzBaYnNKejVuY0ZpenBBSUNLV28tNE85MXdoa2UxcW9sNHVmZF9LYUZoNDZETUFVVkhOLW5rbWJpUUhUWXh3dS1KMTBNXzhlZWxUNUxwaV9EZDh3WlkxTmpzYWNXWFUteGFLQTByRDExZld6MlhXejlwV01qMWVMSTl4T3pKMTVnWnFhYWd3akg0YmRNZWxKRFFBay1FWTJwd3RxdVJ3R0VBeW0xbHFVN05WeGI1WkdsSmlUdVctdzYwYlRTaG1nUVpTRlM5elBDU1R2UHhRM1piNnBEWWxaa0c1U3FvYkNJQ0J4NWhISFNPdkhnaWFKSmR6bjg0ekI3MUxn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNkVsWVVsdFNhd3NWTXVHb2h0UGJ6cTQ5V2Y4OHFCTnRzMXdKZnJXX09nWDNhbldnZ0s5bi1EXzdVcjZNX2NDbmI4dDRGQ1F6UEpJcjZLdlpGRWxZVlh5dnhDb18zTHdHZXZwQWRlZzhsRTJtdVpOUXFKdFBOYUxXRFZPN2w1VnI3Tldtb05nUFRBY3BNUDRMSEYxQXlYZng3WWF5ZkFHSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFQ4Sk9SeG1HNVFTTnRueFdKREItckMxaEh1ZFktaU9Dcmx4OUZBUkRVUFhzaWQtamY2bElnNmhjUHRvVGdvalVnUkc4dVpIVE1sT2dkOGNabV9IQnlIbjlham5ZdzlvU3RMalRzNGRGWWIxZC02aXFSY2xWYll3Qk02SlVIcHI1X1ZoWkFLOW1UdmtPNE9YSDZIWEYwblY5TWdMZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUG51b2VZTjZ4V0ZqcFhRdUlUY3hVZDN2M0FVLWIzOFNIcDRrYmhBMU4wNGZVNkhxTXVxZUxicThwWTcySkxsb1RTV21acUFTeFJlNjFWM2poWjhfd3d5aEoxenhEXzB6a2dRcVU1QzZubHgyS0xiczV4dHgyT2xBanpNaVA5d2o5UjRIbVRmTHV6SlpOdV9hV3BMOUxsblpnWTR0cXFyTVFlTjlmR1hlQ1pR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc0NhQk9tVUVQOXpPb3lJMlpDZDZNZ3B1NTNWRWc3b29wVDB4YjhVSktRWlctUWR3X0lEYWlPY2gta2VsMkhkdFNwSjI1d3RaM01IS3N6VmJ5UnE2NW9KcFBGbmdITFl5bjVXQlZ0SGg0RjBuQXh3Vzg4RE5FdGF5TjhrSm9IaHlQbG5TTERIN3lhZkhlV3Zn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3259250/thai-business-groups-urge-action-on-worker-shortages-as-costs-soar": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/22/too-big-a-risk-why-has-russia-sent-nuclear-warheads-to-belarus?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/22/how-cubans-feel-about-the-us-indictment-of-raul-castro": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605220260.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUdleGtKbTRhWEtTQWhQV2tBc2w5YnBTTVdDdzNPYkZlc3k2MWtVWmYzdGlXcnRsaFo5NXUyeHR5NjBVMktqT3JWc010VVJCY2pOWWRzSU1XZzNSbVRDVTdKQzVsc19TVFN4WHdNWkpMT3RQSTh2QmV6dmY3NEJsQjFtdEFVN2xDY3psWkhOaG04ODZIMERTblF6d2hNQnRhRUs1SFJLQWQwWDVjbm9UNkFFcVotMnlsLUpaNXlpNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdMMlM3ZzNDaEM4RTQyN0thN01OTEJjeGIzd0Y4ZWI3MzJYRDhybjM1bDFYMnpzYlYwUmVoU0ZrNk00SWNOR1FDMFJZaVB2bWVkQ2lleWZoZkZXcGo4MDh4WURhNFd4MVZjY2NFYi13RFNTbjZlRDVBRWYtRXhDVzlGQTFGVzBlNUlIUmpjd3RZbHoyczh2QllNdVBKSGNTRE92SzJIbmVXLUEtcmdXOHQ4aFc1M1NV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/5/22/real-madrid-coach-alvaro-arbeloa-says-he-will-leave-role-after-poor-season?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
