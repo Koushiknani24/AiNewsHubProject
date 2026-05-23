@@ -10012,5 +10012,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/video/20260523-eva-longoria-my-greatest-success-is-still-in-front-of-me": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/advocate-killed-after-suv-rams-into-him-in-suspected-hit-and-run-case-in-hyderabads-masab-tank/article71013865.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/23/us-says-people-seeking-green-cards-must-leave-the-country-to-apply": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/23/failing-chemical-tank-forces-thousands-to-evacuate-in-southern-california?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living/noise-in-mexican-neighborhoods-not-good-for-napping/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/05/22/nyt-first-amendment-press-freedom-00934208?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/africa/20260523-senegal-s-president-sacks-pm-after-months-of-tensions": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE92NGFjVncwY2x3ZEdrYl8zOVVsTkZSUnVBSHNpVVIteUVETUhRWEVvMDllNERjU0JBY0M2Z0pGZnplY042QWZMeElXTTJ0d1E0UHZWYnZMUkxWeXhRd2k4eDJrYnZaOFl1OXA3OVF3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXBlbklWSjl0ZEQ0eUkxSXpJcllrZ1NvbTEtRUNLaXotMFc5RXRZUlk1aVU4RGxydFpPRGhxNmV6THJEcVVCYXFkMkwwTE1ELTdSbk51cmFHc2Qzbk5NZFVPa3JMUGdvMDRjTTBJV1FMZUV4Ymg1YUo4T1ZoM08zSnJZb1RTTTBaSzhRTXluMGZwZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUTlYdV9RdmhSTkZ4dzYzcUVtdG55NVZONDFDRDItdVEwb0Qxbk5SVWFKekstSmFOZVNjUWVwcFduRXFfTTVuN3VIbmg2WjVsZnF3UlJTOE1lZTQwd0N6cDVIVHgwRjlSdmUzYW9vazR2UW9WbGVvcll5TS1jTnphVnExUEdCUjhqVGRtWTA4SXpKczU5aG1pOHJsYXlDVXlrdU9IQmNxZ05rLWJZVHphR3FmTmhrNTRZM09DNzFzbEs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/5/23/north-korean-women-team-win-asian-champions-league-in-south?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/san-miguel-de-allendes-hotels-center-of-city-social-scene/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAJBVV95cUxPWDJlV0xXUWJiZWdMdmdReXZfYzlia1N1OE5xX3NkMHpfM1BFVmNDalBuVVZQb3FBSGRaLVBaZTdmX2owQmtJejZPZlVOcDFFdi14aTNLZzdkNzNoWGRrTlhGdmE3TE8yemJoclJXVUZYM25wbWtuS0J1RXlzckxTYXhyV2JzNWVEcjJmYm1yM0d6V05jYVZDQ2NieVRYZG9tQU9ncjhMVVExVlRTNGZtcjVSUzNCeDFiRkN2SDZzVm8wU1dZX3NRSkxaQ1ZybjRBbWdUTDBfQ3VJR2lXclpMRks4cE1GOWdUdVVvTWMtQ2UxbTBOUkt0dnFrWlhzdlBXWDJ0cHVmN2h2SkFNNm1vNmRZV3dXSzY2ZkkxdVhFeTfSAaYCQVVfeXFMTUJOQXcwRm5qU01SQ0JyNE9vcHRUR29LMTRCYVQ3eW1wTDVDV0JWNDNXLXZDWmRzUUZYcVozYkNkajJJMlNhVU5vT2prZUxTRE1OZWNvdTZjZDlDelo2VTNlb0huRFN6SG4xeE1ya08xdnliemoxd1JWaE5DQlFhalVXYzR1b1YySENqT2s2Z1c5a3ctR1NOQTkwWUNoYkdSRzdfeGdOYUZ3WGFCSllFRDI1X202dEVKNHZLZ0duSXptdFBWY3ZUYkZFX2xodlRNVzNsU203Ujltb0dTNFFsY1MzYTIxdE5nTVczMURObTE3bGFkVlpkQVFjbEgxZjhic2NDYjlRQU8xOTdjZGpRZzZBcmY5MFg1RDVGdkdrdWxWeVlDWkF3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0xrTW5YOXpZTlM3YmFKQzVXNlN2UUtDOEc0dldIUkh3dExmSVU0NmtvbThyTGs4ZTJVeFl1VkFQekZqS0ItTFhDYVQ3X09hRzN2S2taT1FYNjhPakE4OWJxM3p1V1BHcUxBQ0FRanpsZU16anhHRGVlQmwyRGdVeXVlM3QxczNNUWZNVldZM1l2QVNfc0dJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmlEcmNtRC1zVXRjUXlULW5BWlZOM3lOWkZIWGFFSl9JTXhyT0g2MktMc09Hd0d6SWxiQ0NSajJxRGFuMnV2Q09MbG5LUkZsZHFZWHN4b1JmYjFValplUnhTS1l3UVRRSkNKSkZzZjlVQ1BmdVhoR0NkNGJYODJHVUVLcENWSktTcEFPQXFhMDBkdnFVV2tZZWVvRGZsdWo0VjRCWTBoOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9abXJGa1d5NURzVjFqUk8wNnMzeHQ4R0luaUtGRmw1VFNkclZZNXZ0VHR1a2UzQXNxTjVnWFBsQURCb2N3N2hiQjVWQzdYVjZhMHNtZFloU1pnQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-gregor-gysi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rMFk0MF9uWjZ4S3lCYndybXdWTzFIdTRKOWluRlhTelBabFNnMFZoXzJ6eWxfaS1Hb3BNQ3l0Rmg4SzRydGZ4dHVGeGlWZDFENGUwMWtDVnZPUDF3dEpXMXY3ZFY4UG1hRGp3M1djQzBjZXpa0gF6QVVfeXFMTkF5ZUZ0RDZMNVR3REUtTVNXRzZ0SUQ5SlBJbHgtT1BVeC1iTVFVZ3Z2V1ZRUGNINFZPODN0SUlqYTE5Yy12b0kxX1B5eHNtV3pBbVNWeHdRYXpwUzVJWVpPdHQ1NEpQal9ENDBuOTBvRzE2RDZZMUZ0cFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
