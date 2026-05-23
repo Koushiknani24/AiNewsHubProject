@@ -10924,5 +10924,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/sherri-shepherd-farewell-talk-show-bittersweet-end-1236605157/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXExaUpDRVJ1QU4yZGJTQ2ZQWkdkb1pYWHNrZFE4ZWZQalNIY0R6MzFNSGJzb01qNlpwbjd4NlVRSExPdGUtaGRnV1VMZC16OHVvay1Kczg3T3AxbHRPLU9jVlpNLUhrM21FNmJlZGJYTjVNSlVnOFJfZEdkNDFFMVhnS3F2a1gzWTZadzc4bTVJSUctMFBhcUV1MnZINDlYRm5sY0lxOWZlYkxOLUJpR01KNkltN2M4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/watch-stream-french-open-2026-tennis-live-online-free-1236603842/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/05/23/nx-s1-5830447/the-squeeze-on-cuba-now-includes-compensation-lawsuits": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wMXlpZ0xrZ1E2WUhUWkJBS2hOMHYwbS02cGxUekZ4dUZKa20ySlV5SnlqUXM1VHU0am9jbWQ2T0dFNXRpU0U4MEtGcUhabVVyazlZbUp5WU5mbWlzejhHb0Q4di13UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3gxc0ZIQzkycUphR2RNd0xMVnA1aERMLU55c2tfMjY2MDhBM1daSFVXeFJSMWxRTjdkaGcyWFZuX3ozdXBoWGpHZHZaQ1dvNmZJdzhFYnpVRWlnSmNKZ045MmpYM1NKbVVqM3VCVlllOFc2QmJzOS1NdHhPTWtPakE3QWtoamY2ZFFOQWFadGdZN1NYdHpvUw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/us-conducts-military-drill-over-venezuelan-capital-caracas": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1hLQUZ0ZUtfY3dXY1RoSFV1cUVNUHNlY1NvblJjMzFNZHVqVzFBOWFTWVpyTmZaQjNKUFNjZXMzMUFxWm1IYkxacmxabkpfLXBnTHZab0FsVU0zNkxHZEdpRFhqOEIxR2MxNXhlaEdONzdNMndpa1Jla1ptcGI3MF9POVc2a0NnY0pob2NVMkpFc2IwMWVIWENNaVBWYXJ3ZGpHS2xQYzd0a3JkMElYVHhLRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
