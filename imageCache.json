@@ -10570,5 +10570,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/marco-rubio-in-india-rubio-visits-kolkata-india-us-ties-live-updates-may-23-2026/article71013451.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/celtic-complete-double-scottish-cup-win-over-dunfermline-6138246": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-preparing-strike-on-ukraine-using-hypersonic-oreshnik-missile-zelenskiy-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.yahoo.com/news/us/articles/extra-eu-border-checks-suspended-162943699.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjZ1X2xpV2RRaHhWUWl6U2MzazdJS0NWZ1pieV9IUVpsRnU0TndpWVFGVVV0a2hPdkFLdzdnSWFYTFlEbzB2QVJIQnFqTkhhSU9BZ29scjFWbTJHZ1A1X3NFMXBiMG1VdTlienlfdUFQUWNtMFBRWWlMQ2RlYU51UWdBck40aTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4aDVnVHlkdWFPa3h5dDY2bS01RWd6YWNpWU0wQWVnSEl6OFJuS05TRDlEN0RybDRuRE1ZNkF4YlZLLTJIRmlncW5qMXc0YWJydjNnX05pNHJaQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbXN3aFB0QzMwU0Z4eFdqR1FnWlJXQlVnWnVxR3U2UGxQVWdsUDdXdGNybjIyQzVoNnotOTE1SFF6ZUNoTjdTU0xTcEF0cThNZDVRcXVLQWQyV3QtUnhPZEN3aFpob1pVejdZVFI3bWk1ak9KbkFVbVRyX2dxZmpoVFNLN1hjLVFySEc5NTFfUGRIelp3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc2k5N0dva3hWLVhZNk1TLVV2QTlTT2FxcE5mcHZSZUdUZS03NGNyb0hWbE5tQkV5LWtxY2lOdm0wd0phVkxjenpuT0hmYjZCS0pZQnhteGZ2QzJ6b2VqTlhqUm9JcjBoNnRJNHJibTFpWTBPT3BfNGFISWFFQXk0dy1yYkhib2w4NzRBSG8zdFNGYVdGR3JudXJoYWZUdnM3ZlRV0gGoAUFVX3lxTFB1enpZeXJjWGRrVzlCN3FtdG1vLWFhbUtjTy1Wb3JBZlpNWk9XeDZkdDJGYm1xdHhHT0p1M0RxS0JuamdNbHItRC1tODlVaEN0MjZHblhrYU50dy13WmVZZEhqbVVxRTAwd1pRM25vazFySGFlYUJVUkxNREcyblVTaHRRT3pJQWY1N1lNS0JZeWd1X1hhQjRLd0pLU01BUktZZEpRYXlQYQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/23/iran-sends-mixed-messages-as-pakistani-mediators-depart-tehran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVklYWTZua0dyQnVLbE1lT2xPdnhjcFN3aFpRbGtEQ2pKb1lCSmhrSHJMNW16OC1zRmRKbkZ2OFJZVTk1M1pPSUZoSXZHVUlnZXpBY3V1REZYRm9qejhmWmJPT3lvVDFkQmR5Z2xOQlBGeXF3bDJGN3FUU2lTWndCX29iTi1iNU9ZOUpEOG5KTE1tVXBfQ29ERDFXNXFSTW5JZmR3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLWlIcGxmZTgyNjBXZ1hTSGptMDQyYjJLRm92N0JQT2V5aFV6YTdJYy1JdDF2dC1FbV9ZcVJVR0RIRjE2ZWE1d2lmUHZueTVXaXpZNDd3Ym00d3prSS1xby1nZFVGZmZmaHlKVVpzYzQ1SFBnYi1md1hNYkhIOFpaLTJiWlAwQTZSUnRLMGtMZE9hLTJDeU5uU3lnLTVWeEJ5UllqMld6dVVOQ01RV2cwdEptcmI5bVQ0Z0ppWVd1WV9OcTh2UTRnN0N5QTFlbms3TF90bUdLXzJsVnVYLS16U0dB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAJBVV95cUxNUUlDUUJuTlBXck9wdlhXODlCb0ozU3pPYXFNUmdnNGJqN2stTGJjV3B4QXBaZnZNVUIzUFdBeWhEdWVyRWZZMW83NkpKVEFqWWJPazVBZ2stdjVyVDhWYWFycF9ublYxNEVzcDdiYUdia3o4WmVrQnhkTkFveFFCX3pXaDlub1J0N0w4NEkzWnRfMVRJTGd3NTdkZTFKU2w4R0hZWW84cjRZN2VsaXFxbjh1VGVJbW9obFJGdkx3YzI3SjBBTVB3X1YybEF6aHFacGN0Z0hWVTZqRU43Rm5tZ1JERWoxZG00NnJIWU12cW9qT1NkMldKRU5LN0ZFalVjQ0Q3VHVwbXYySkVlT1hrbnAtSmhFTlR5ZTRNbQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUkVmSzF3ZDFERE1FTlpSMENzV3lsdXZ3M3RHOU4tTmNnTFQxeUptNWtvbzhRSDg3VjZvVUFTYkN3X0Y5dmU2QUJQRkw5aXVXSU1McEdCcEpYejBwUEltaWQ4MkR0TnItbEdaT2o2U3VFd3NKUkxmOWdpOVdvTEpialdEM0cyeUVuNWoydzlrTjF2QWRGakNOajFXN3Zmb1JnOWozYTJjOEZJTFZmczl6dExrY0otQzQ0VV9GUE91MG5qWjZzTDY5LW1GdFJsbG5fU0Q3cDNoSVRrTlBzbkZZRFN6ejc2c2M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
