@@ -10822,5 +10822,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/police-and-protesters-clash-in-serbia-as-crowds-demand-presidents-exit": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdU5mUEFQdEM4UTdacVVmbUk2VEZKVjM5UGJxQ2pKRnFnMjMyczFwT3l1VXRMOFNubGZpUE1jNktfZjVnYTcwVTMyb0xmemtqaUtsMS1XREpwc3JheW1jOFNoSkxnWlVTb0Z0RlpIbG14cXhtd0piX3o3RWNsU2dMOTJDczNkejE1N1ZRUEZVWjhGZEtOa2t5ajdVTlJnTlRQemVZQnpMN3RINjJKWDMyVkV3emNFT0tHaGRmekdfZ1YtcUo4MWhrZTdoVHRTSTJWLVZN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/moroccos-king-pardons-senegal-fans-convicted-hooliganism-charges-6138346": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXl6T21WVHB3N096VlNvOW1RNkk4VlZYUVB4LW5WRXIyYnJ5dG1XajN3cTlwS0xaTzUyLWI1RHg1bDBLbXdUazJLS0xqRXd1VVV4OV9wN1EwR3dXOF9reXNxcmVqT0VwZ2l2OVh3QmV0WTJHSlF3dk9odUE5VDV3bVU3UkpZek51aFpxTU9xbTR1aERoM1J6TjJUS0l0dEI1dmJBbFd5Y2xXLVRidEFYV0hHNmE1WGprSGx2TFl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
