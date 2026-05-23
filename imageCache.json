@@ -10774,5 +10774,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/four-held-after-clashes-at-spain-airport-as-gaza-bound-flotilla-activists-return-home": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsQVBrSTRndnRKT3NMU2pfZ25TUklhTzMzNXRzbXp2aXUyQXFDcWdrUkVaVHRNYTB6TzlzZGZrdmtUUmlxdFhyRVhxVjNxbDNPWnBFY043UHNOZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3pDbmc3bkxtX0J6ZTE4YWRqTWtjNDJqOTdmSGxmTDFCa2xBNmJBNkJFOE5nRFZOR2ZQbDJXMXpuUzVIeFNvaHdmSk8xekRieG9aeXhkY1NRYkFXQ29uVkRpLXpvV2xXSmZ3VEk5YXNfTzBDV0FrVndKMEpfSm8yWlBqZjRhV0RVV1ZYdVVLa2ZHQmdxMEZyZDBQX2IzYzFWaTJ2VFl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/5/23/barcelona-beat-lyon-to-claim-womens-champions-league-final?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcVduck40WjJvYXJHZWQ2MFJzNjNCbzV0QlRYcVRES3VKa1pWbmQ1YVpZU2hDRVFKcGlVeWhXOE93R2JLamRwV0dsSlNlVVhJWmZBNmZoZlNzNUlXV2otbVJmT2hOWWN2Ql9OaExtb21EWURTMFZWSVNfeEx5ZzJZNmxoa0lERW5hZ2ViRHBlazFqYnFMcG9JLWRsU2tiWGl4OTFCbUl1WHF2ZVhYbUlwaFlOVElCS0NUYWtEQk8wb1pfZEhWRHV1VVpnS3Z4Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/colombian-right-wing-presidential-hopeful-leads-poll-for-runoff-vote": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/man-held-for-stone-pelting-near-arani/article71014754.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
