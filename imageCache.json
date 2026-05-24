@@ -12052,5 +12052,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSWk5Rk1YTVpGa0tsbTlXTzZlcHphVnUzZlpEUDNaWmM2eGc5cUtsazNHVm96VWNlNnRnd3AwU2tNU2hDMFJlYWxXMmlsR0wzbjZOTGtYZWJFME5kdW9PNGQ5eGJ6MFROZjFSTWVaMFJFMHNqOEw0UVZOdHFKN0xSSmpzVkszN2NvRFBmamFlZkl0SWYzZ3g5emNsRGppRkhmNldqcG1lOG1ybnFidDJWVVRVd2dia1ViWWd6RFZhbzJ0bElSYlpvNUx1N2xzZ2dGOEFON2VXVlg5R3BsQ1BvYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOEktWFZpVWJpYWpYbEVRbjBJRTRUdXd2ZUEyWFZZUE9VN25heUt5UFM1LThuRWc0ajVIM1JiMC11d1BYUHYzM184bFVBdGdHOWJhLVBzUjlHYUsxUERJNzNXZXJjS2dnTWp4UFJHelJReDhEcU5kVm9FSUNTMG5fZGZYSTE2ZGctV1NyeEc5aksxOWlNWlYxUkRTazBCNkdScTNUSXhnZG44V000Q3k1Q21GSTVoZlhkZ0UxYW8yV3lYbEpmakNrV1ZRU1Z2Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE44WGtYZU03RHcwd1NxdmQyeHVZUnpQaXk3cDl4Vzd2ZlNjV2V5S2g2RlI1aHQ2VlFuTTZMNmdzS1NXM3gzbkYwTFNsaHVGZTRVZVlkMjlFSVo0YzcwUm5lOTNtZUJlcXlJR2VKag?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/24/spacex-sp-sector-index.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORmlveGJ6bzVjcHVCNmlFV3huNE52WGs5R0RGbTdtM2gxVjF6M0NGZ3h5c3JSTkZwc3ptdXdXS3VDYXI0Wm41akcyd2Utc0h5TWpaNjhmVXk3aFZoaEpINkhMZWF1MU81WEhoRENDdTc4N0NReURLNjg5VXNiZjB6WjVqVDZCOFVHN0stZXFaNFQ4U0lwWVJWZzdBUEZWMlRPQmZCbWhPOVdTU3ByYWJXMEJadnlxT2tGMEFJZU5nVjh0R09iRFhpU3ZPUFQ5S0l0cTl2SF9Hdnk5UEFlR25PR2U1NlRyUlNIN1NKZlpUWnJWUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZUlFNM0hxUlB5NC1SR2dpcGJEQ3o1UTlZUFRXRkNicEdBXy1lR1RDRl9JM3FsT1puU2prZGdzbUN2MG5LczhJcVFaaF90THVBUlFqXzA4amg0cjhPSkRoRWNpWWRmcHh5V2xCUUszZnFqTGRMX0hqTGF3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/quotable/2026/5/24/trump-needs-a-deal-no-matter-how-bad-it?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrYUVNZVM1RHlhUEkxNWo2c1M3QlNENU42Q21IQXpZYy1GWmdldlJ2a0t1RHZuVDR1dEZrdGNHNGZseDRrcTdGZ0hBb2g2QjY1R0RpWFdyUzRhQjAwZzhla2ktcFdsMkZ2RjhfX25WUzdYQktMRUVOdEZEem7SAX9BVV95cUxNUFExU0owWWJ4cjNYTEJtUkN0OWRJMThGMEZpdHZuS3dmUVVzWHNBem1UeXBzdXpSQXdQLVVVYXl2dFA0bkg4eW5WY0hwVjdrVENjNDRUcjVEYWg0cXZLU1R3ZEd3anhpQi1pb0VTM1dvLU5zMHJSTUFBYmFmdjhF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
