@@ -12178,5 +12178,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/24/oil-price-iran-war-strait-hormuz-trump-peace-talks.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/venezuelan-inmates-take-to-prison-roof-to-protest-shootings-abuse": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUmhHeFRacXpacmU2MmF0aXFaSHlzZ3UyVW1fMUlqY1A0REctbGI5WTRsc1JkN0x6NFV1QXY1UXRYcGhOXzVMbHVNQmc1cVdVQU9SV0xwUE5VT1JjdnYzR0lzdmx5QnBUaHZNd1pXOVpmSlN5X1B2ZWhmOTE2dzBOWlg0ZzdGRFk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/these-are-5-of-the-main-issues-to-be-resolved-in-an-iran-us-peace-deal": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/potential-crack-in-california-chemical-tank-may-prevent-explosion-fire-official-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ITHhLcFpoaFBHQUN4SmJ5TmxQTFNTOGxSYTNmdl8yX1pjWXVDbUE1N1A5UFpLeGZuU3hodEJfOWlfWDhnWWhwMi1iM2dkeldjMFlwdTliQXVKdUtUTHdWekx6TXVKb25VaU1mTFJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/24/ecuadors-noboa-pledges-to-extradite-criminals-in-state-of-the-union-speech?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3260438/thai-aviation-faces-tougher-quarters": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2hmY3lCYk9sWlQtMHFVaHYxcWx4aThsaTBzOW9Nbmw4VHZZY1ZVRkFmdjRkdGlOc2hsNjUwaDAyamhtYzVONEVReHIwYkhzaW15SkxtbkQ1N2NlbzUxNlE3c0RXOXdxSkVPOF9PTm1TYi02bFdZeWpkU0JkWkRpNHd3SS1EcW9UMU0xdjBxeUUwSGJaQ29uOFZobG5tRnA4ZmZhWmsxRDF1ZUZfZmc1WkZR0gG3AUFVX3lxTE1hVlJnei12djRXSmpyWF8tcGZIZWNUMlhfY0hfdTI0X1YzMV9oSFlvaWhYOTNXM1Nna2lFVklveENJcHpNaUVJcHRpMk5XbEVpMHlFbThuZV9pYkdiTUx2NEhuWFFOeWpCTGxIQm5aX0RJVVVKMWRDNWxyQUp3a3R2Q3FXR0ZteGtWNGVKOXBaUEphaXRyRWw4ZTFkN292Z3JiNjF3MzNHbjY5R2VTT0hiOHRQS01yZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
