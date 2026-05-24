@@ -11734,5 +11734,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/052426-sunday-morning/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/kevin-hassett-national-economic-council-face-the-nation-transcript-05-24-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/star-wars-mandalorian-grogu-box-office-franchise-low-1236604973/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/24/trump-iran-war-talks.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/24/iran-recounts-historic-battles-in-response-to-trumps-talk-of-agreement?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2owUzJybFRkMU51Q2FxVTFsaF9Qbkc5aWdSREV3RVAwbXIyT0dQZnNXX0ZYNWFSYXJYQkpraW9sVy04UnVicWJXa2hGNDNPbElXb2s2Si1oWFYtMmlKOTZiNFczOFlvd2JlOVZValFaZ05EZzZwX09aek5meHRTVnk4ZWVGd3VRS05ra2kwcHh5ZW5lQTJ3NEEzVWpGdUpPdU1mbV9LdnlFV3dfRUR1cWppbm53UW5PZkNUQ3k1dC1NUm0ySDRybEJ2cUtsamM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/05/24/latest-news-bulletin-may-24th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/brilliant-barcelona-finally-dethrone-lyon-queens-europe-6139136": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUTJCaW9UeXJpdk9lNWl0M0w1Z1JXTjdVdTVNOHh6Mjl3SDZvamRTdXZ5VXd3cl95WGUxQzc5V0g4TzdEM1J2amV3aFZTcjcxOG9KYWhkMkt6bmxfY1l1OWpybEcwWXRlaTRuWHduZWpuMmxRLWhwM3ppWkgtV3ViRXBPUl9keXc1WkxuQkFCOGYzWWtqblF1aHZ0R2g?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NRmh1a0xqV0dtT2g0RzZxM3E3T0YxYkhDRjBIV0lmMWJBWElOY3B2UGZDdzBRVHVma19iMkJ1eDRSbzJCZ1IxbktnaFdsVDhDUlRlcFhBVjhpQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMmRFZjI0NE9sbFlRODlaQ0Y4QTh0cnhTSzVkcnE2Q3Q5TFNOSVdUYUFmLUx0VVoyaFJISWI5SzVRNl8yX2lQSXFMSUprUHVwTFBybkJ4SnhuQmFKc3NFQkpKazAyTElEYlpnWlRsTERvRlhWZXRKbHRHUXk5OFFQbUVfNnA4a2NvcllFeEtvX29rOTlnYzVJOUJwS09wQ1VaLVkyRmxaalZqSkN2TnRRbFJCSHNseDhTaTN6bFlnNWtMT3ZhaFZkMEI2d0I4d1h5OEJCVFZGRUV0ZlJhYlHSAeMBQVVfeXFMTlJZaUEtSTZQSXltX0R0VG4xS1hmMnpDei1CcEk2S3hsTXBKTVM2a0V5SGFWTUhZSW9LYlZFNWR6S0dDSjRuV0VMQWx5NW9lVDU2U2lPNGlZNFJsckVDRlQweGV2VGI3Nm14TTVydWxvSVFXUllGRVRhS3BXZDdPYVdFMjNIXzhhRE5sN2dWRHVjQ2huMURHMG1JNmZ1TmJZVWxNUEMyWGpDYndzLXhFNXc3VVVsZHk0ZThUX0J3R0NVeUJNNmJOb1JPcFJzT0o4RzJWUG50X2ZGOWw1eUVHSlRKZkk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/24/the-mandalorian-and-grogu-is-disneys-lowest-star-wars-film-opening.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/05/24/turkish-police-use-tear-gas-to-break-into-chp-headquarters": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/5/24/a-paper-city-new-york-library-hosts-3-5-million-pages-of-epstein-files?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2J0TnlEdTROMUV4dmVSNy1tdEVOMjZGenJaT3k3SUFNUzdTa3NmamdDRXlYVmZkUWZSRkQ4bzloXzdCSHJXaXk4SEIyMGJFY1VZSTRWbFEyUG9KYXp4SE5uTl9fTktuX0l1a0RfRDVVZXBLZWF4YVloMk0xRWFraGtNaU16UG91aV8xMXVzbjRLVlBm?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWVJHZXJiWk5zYlhSLTZ5d0hEaTYzeENvb2ZPMlRSRTJ4Vk81TWo4TjVxcHhtNHZ0UHlta3dEeWNiSFB0dk1FLTMyWVpiZUY5eHpjQXdTUmdnaGtRcHh1UXRucldMeXhGQzNJR2VBeHJzTVFLV1VVcDdXOTNmQ2VzTWlWUU5DbzZvUy1qQy1NUlZRV2hpTEQ1WTBNZ21VbnRtWlJKMWVZQktubUh1LXhqWHh1cmhIZjY1eDZfWjdvQ2xwbnNxa1ZOU2JEOUVCcWhrNHpIbGtDUnlFSVE1bHRCVk9saE5fUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
