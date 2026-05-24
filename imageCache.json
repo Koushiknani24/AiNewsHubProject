@@ -11584,5 +11584,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-country/ben-chapman-peach-jam-feet-on-fire-album-1235567825/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-reviews/the-samurai-and-the-prisoner-review-kiyoshi-kurosawa-1236605158/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/24/turkish-police-storm-main-opposition-headquarters-with-tear-gas": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605240027.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/possible-iran-us-deal-to-end-the-war-what-we-know": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUtLbmZ1SjZPX3Zsb2FLZVBodTlCd3duOGVaTWdsX3d0aldISHpOcE4zLW0xaWMyZnZqS1AzMDdGV3NXVkpTYmkwTVNSNzUzWl85X1JWSHNKcVZiclNpWTZwYzE4c3ZzWWpuTE1MTVFWTHItSnFZOE0zU1NoUU1rYzRyT1lla0I4S1hVY2Y0WlA2MXhLaUp1anZUOTc5aEwzMTdObXduVi1WMmZBc0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/24/we-wont-know-who-won-until-final-outcome-of-us-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcWZLUFB6ZG1UUUs5UXU2NllRell0QXcyWVN6eml1UTRraFc1WldEaWdRaXd2RXg1WF9STVptT0pSM3U2dmdmMGlzZGlRdGw5NDQ1VXI1Q3NFWnY3WjVfUXh4YTRtRW4yTzN4b3RJSXIxNVh6NThpM2w0LXo1elA5TWh1Y04yVG1PakZyR3NXSEtLY3ktclBWWkktV3lYdjJrZ1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT25jUzAwTG5ucWNGSUxudkNQZVN5dHlJYW5mal9iWjIxUGt5UnJ6cFlYc2tXakZ4eS1SRHRQNlhVYkpoM3F0UVZWdkdnUklSZWloOEsxRU1iZTNNd01ZOGs4ME1YUy1PWXNoOGtzUTdKQ3A4OG1kT0t3RmdrSldfSnZBVl81RzRNV25mMFBxTlVuVGJCektHMWJWRWY5cmp4cDYwLXFva1doOUpFdURHTlNRWXhWVy1mdldtOHhIYVdTZ1ZlcUhfdkNBSVh2bFQt0gHmAUFVX3lxTE94NXdOVGNUUlpNMi1RQkw3cC1TaE5EVG5NU1lXYXNmQWp0YTN1UFBqblQtWDhyYUhiZklEeVdFcThVTHB5RG9GZTZNVXB0SUxLbEVXMVV3a2JLVGx0cGdhN2tXV2JDOEJJTHlXU3lZZXZBdm9zLXlsVGFNZnJqeXRNSTc2SXZzeTN4Q0hqbWZlSXpFUFVWaWRzWlV1M2RkZ0sxdFNaUjRLaWhoQ3ZSWWZ1WHRKem9LNGZZMDlIXzY2V2tONmtBSXBHQTBiVXlhNlRxbDRIbXNrTkZCbUdDRDMwaU10QVVn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUZoNU4wYU5ZZEZyWDZQUHp4ckRuSzJ0VVVpY0RxbmQ1UGQtWTFTZ3R6bGJ3NUhuQ3diUkZVZHRDczFpdVdxR0JJa3lseTlxd0hlWXpwdlNCVnZPWjNVZHRhNXh6d0Z4ZFlaREpWRVctdkc2MnJ5aFdGR1lXYkFIVWZYUk1SQ1NjUlQteXhGeUVCUm9OUDFyaGhiSk1fQXJRTVFmOV85RmxOUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/el-jalapeno-mexico-activates-reconquest-protocol-ahead-of-spanish-kings-world-cup-visit/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/volodymyr-zelenskyy-rejects-friedrich-merz-proposal-associate-eu-membership/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/races/zuccarowins-the-feature-event/article71018122.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/netanyahu-told-trump-israel-will-remain-free-to-act-against-threats-israeli-source-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/24/will-the-texas-primary-run-off-give-democrats-a-chance-to-flip-the-state?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605240026.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
