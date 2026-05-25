@@ -12760,5 +12760,143 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living/real-estate/xicotencatl-park-tijuana-migrant-community-urban-blight/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/italy-giorgia-meloni-local-elections-puncture-hopes-left-wing-revival/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/railways-chirag-centre-for-hr-excellence-inaugurated-at-moula-ali/article71022235.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israels-netanyahu-orders-escalation-of-lebanon-offensive-to-crush-hezbollah": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/netherlands-government-green-light-migration-return-hubs-outside-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/meloni-coalition-wins-venice-mayoral-vote-defying-polls": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RX3J1OVFNWlNsbXF2S1E2elJpdkxUQnhTbkdDTUdhcl96amVGYjIxNGR3RjRndXVjVUdWUVZYMFE4aUp2ZE9UVjNvMFR3b011S2YxV0drV2VPbG1wdldKMDlQaXVsNHd0eFZyVw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/attorney-generals-office-summons-governors-rocha-campos-monday-mananera/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRzZfc090akp2MU5oeVpyc05JcjhuT2lCZ1k2dWpMazJzSW9NdWxETHd4eS1RU2gzcFE0R3U2dFIxVVV0S0wxbkcxZnR6eFJHM2xRVkZnd3M0TXk5QkUwMUU4MlB6Z2hKdmp1Ul95N1JGTlpES1ppSEd4X2FrYm01NGh0N0dPcUhjOFVmdk5ENm9Ib3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/5/25/bolivias-embattled-president-says-will-take-a-50-percent-salary-cut?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWtCRkZHdV95bHpfbDRPU1BVaE90Zjd3ZHByOHU0ZGdYSHBfaE81cWNUQ1ctcWV2Q2RjWWV1dU1QdEJyT3pkZTR1d1U4a0M4T2NDNlpvdnlPVXljQ0tDSnRGNmttUkxfcW52TDNMejFOeEhlRTJNZ2paZjljQU5sRmM2T1RMcUxodkdJYnRwdUZmR0R5RGZ6dE5zSzkwamE4WnVWMG9kdVBpblVTdVh2clZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ0Z4bWhKZ0xydno3ZXZDbmpsR05FcFpHUzhscXl3YUZFTkszU3BCMERwZ3JVdFNGQlRTSVQ5b0ZWYkVuVngzdkhqcXc4TGZuS0g1ZVd5QnJHRmdKakpBUTFLVExYMnhUN01ncncxV1VmeUtuUUlTTVltN25jRzV1a2xNS2hlOU4yckc0WmZoYXVQT2Z1YUFSOEM3QUNlZWpUeElxT1F6WERkTTZiVlNUcXNPUFo1M2xQRzczd3dhV29kQ2JKQTFiSXpCRU84WXc3SjlBckU1RTjSAd4BQVVfeXFMT2M2X3I2SldyazFQbVVnZlN3YzJrc1RIbk12TDRSclBMR2JEOEFRSkJrbm95VWNuV21vTWhDaGpXZ3J5UUZ0S2QxVFh0STRqWW5uVlNuNGxlU2plNmJJMHNRbzNwbWxXalJVcUhWMklpUmozSUFTdDROZDhlRWxqak93cl80bUVyc2JwbVdnRmJNNHoyUW41NUh2dkRVOXRrdzFxMUtJeEFGV0pSMmhmMGVKRjBqQlV0Umw3MURXNTlZSjZWV21id3UtbVFrM2twRUxfNU1wSzU0SVFVSC1n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQS1xT3RXZHBJY0k5OUpmNFRSRThvaGwta202MG1hWlpMOGFGWHUzcnBYMUFqRUM3SDFOdl8zejdxenowUW5jRXZxbkVScGRfTTRDM2E0VC11WUlFU1ZSY28tVjM4Z3h4RmNpdFJZZ3kzT05Ic0FDcGd2TFdPeTIxaWxxR0Z1bFZZQWliMjhXX3Z6UzN0QUlhemtYZE5wT2lsRUpLaUpqZTdXb2NZN3pDZTlUQk1feUM0WUxEMC1OanNJaDNocENoVjQ0THNXN0NlY09WZFhpZ1dlWUXSAeABQVVfeXFMTS11Z1ZLUHZGMjNPQ2EwWmItM2ZQZ2FGUFB6aV9ib01YVHNOcUpUQV9ER1hlT1FCdVRHUjBSeGgyTEpoNFgzRzlhWVJaOGl2b3piRVdmWEV1NGlzeWRiMl93c19YWXFmS3N0QWp6Nl9xUkE5ejB4LUQ2RnNjRzdzV2hpM2dnMmFXTjIwTC12aUdWSWU5TkRSR3JzbXUzRXhMdDZDZUcydFlIQ2JVR3lBU2xxOFJ4aUYyLXZPQi14NkNUb3pOMHZNSUtsM19lbGVTSkZWeTNXY2hzV3VvVkNsTEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmX3gxTnJuQmo4a0RwX25yOHdOd2JJOEpHMTZPLXlyeGtjTWdJUm43Yld2N0hmOU1DSjBhd0ZUa3l6bU9YM0lSUlJFUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV3Zja29WajNJeTJvT3FaSlZ6ZDZwcXkwakZMZTRHTVg3dEI4WU82UHhOWTkxNzAzc2puQ0dJZEl5XzJfUXdRWlFlai1vanEwUFYzQkdPRmNlUnZXLXBPRFFKUmJRM3dJMVJaZjl4RWk1VzQ1dlRDSXVyOS13ZUxXSUhwZWpaejQzTDlBbGgyOU1uTGd3UlFpMDN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTJYbFBHaUZTcjFLSmZNTVhtUUVXWDc0Q0djMk5TWWRyYW4yZTJZVUJBcGJwazdPX0p2cU0ySzFsRnVtRmFDWXRzZ2xhaklUM3pJZFRLLThaZ01LOWlwV00xNy1MMmUxUHpPNWFVTHVoX05ubU5LejBCczZNck50cGVjTnNBVU9mSERZaGNYTzBJYzVScHB0azlQdVdzSFZqYUJiSTZoZkVBRXotdm1oOVpB0gG3AUFVX3lxTE9OWXZwM0ZTLXhDMHkyNDBieEd4SVhyNEw1aGo2V05TaGxGQ0E0cVBfbTJva2hVVDlXMDNXY3huUWRUMXVUWE5KVlJ3aHdXZ2dSR1RsYWxJcjBRZkJUaHhQTzVja1R4dnVNa0dhS05WWnRxRVE5c09ISGJqNzh2d1BycTA0N1EtaGpXTzdsXzgyUjJzNUVzTnBfV2ZlQkI0M1J6MFVQelZuWlUwWGlvSHV3dGg0V3A3aw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVngxZVRLZ1JuQXprdzRzMDIwazZnY2tvWExLS2ZlNkhEMWYxeVF4YTVldGFYSEt4dVU1NEo5bng1Sm9EUFFZNzN3bTJZR1Z1akRjd1o2emJhU0J3TGMtZVZfcWI4ejdyNWhvd1hXRmRPVkFXYmFKUWl0YVM4Q2pyeHJmQW1jSWxsaDdfVXBORmFWQjcwamxWSXFHYlE4ZDFtcGo1SlRzT3RwSHJ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/miami-court-awards-mexico-suit-security-minister/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/land-acquisition-for-reliance-data-centre-and-steel-plant-has-turned-into-a-major-challenge-for-the-government/article71021316.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/john-healey-uk-defence-ministers-plane-signal-jammed-russia-border/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/ebola-crisis-in-congo-draws-640-million-in-global-pledges": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBPd3h6VGM0TDlnQTJRaHcwMHkxaG5HcFFUY08yOEpFQ3FjZHB3b3h1bGlwSnRkT3k5SXZORXhjYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
