@@ -12262,5 +12262,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/25/oil-prices-iran-war-carlyle-currie.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/why-are-europe-s-biggest-defense-projects-in-trouble/a-77263797?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/25/trump-urges-negotiators-to-not-rush-potential-deal-with-iran-as-new-details-emerge": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605250018.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWZXbUEyanpXNjlmcTNSenNnMnZPSnNTTTJZYlBQTms1aVZURERBS09aNWNjX3hlNDVWcmVYYUlITndBdVI2MUFBbXVTdUlpSGU3Q2JIZ0s2SWxfelU1Zzc0elJweFpmTGZTMGtORWExa1lkVGxlbm8wMGd5T21OdDR4SE9JdE5USXAwbHNwUm90Nm9Oam5XUWs3WHB2R2hrb1UzMld0Z19VVXluQVIw0gG0AUFVX3lxTFBhem0zNXBmdkFsYU8wZVZ5bERMZThkdEpzTlhSOE5RYWx6V1J0NUFCZHlBbnBud29JT0hXaWsyZ2xsVFlSVFZZdmxka2xqN2k1OVlqaGxnWkRJSVNJZjlZbnVuRXJsd0l6STFjMEwxcUszZ05FbEdpUzdUN0QzZUEtQjczRkd4VVVpYTliQkNELXQ0dC1qSkFYR19BUTI0TVhyd290NkN2eXhqVEQ0Q3JyUHM0aw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUGpUcEdDUl90S05yUWtBLXpJejVEQmFoMkNtdzllbjRSeWRCNzBrczIxT1pST1NSTUF2U2tyaVB3dXQ0Ukk1dmJFR2lsS21Rc3FiYzBUUG9RQzM4MmVMTEdCN3JDVWRSQWF5aG80TQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CZi1BWXp3QThJRWJsMFJMV0N2ajVVNi1US1drQlREV1JNRVA5bkNFWmhuYXZURW5DVUZldXUyRVJtNzhkYjlEYThIaTVuLXJXaUFlYjFJSFIzbEJ3R0RFUEVLaGIzSVU5YnRleA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUswWFc2TEJEVm43WXl3bVRwa05OUTdobVBhMGRPTFkwSkNUeFJicnVoczlQS3g3ZHVBTWZZRjctbHZ6aGRCRDlhaHBaeXNIaGJhZV9GRGtKV09HR2JUMmV6aHVlSTloeW4xYVZtOWxsTWtjNUZrMlVHMWJ0Y0FVWV9BRmxrQ1IweWU2TzVYQVd5N2RXdUlKNDFkYWRrbzE4MC01Nw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUFJazRTNkxGRDJzVFU3UkJYZ1JPc0R6cS16N0YwUTNxTzdicXVQUHRKeC1Uby1HdGJZa2JNRmk4blh6SjF2S0k2NkU2blhfRTVxZ1pMaTROLVZrZmZCTDRmV2I5bWNXUUgxSzRYMXFiRU02b0JLMWlHU1pwQng1NTZMRF92dllob0wzazlBMEJsSTBRaE9RY3RlQ0NUV2UxU3FhRF9oSGY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/eine-enttauschte-liebe-zur-cdu-und-ein-streit-uber-die-afd-mit-waldemar-hartmann/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/hes-tiny-its-blue-scientists-find-new-deep-sea-octopus": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605250017.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS0RUSlZqZWExeFdXTEwtRnJZdGtGREZNY245RzZ2UEU0eUdtN1ZsaElHN3h3elI2dU40RG1zR0pFYjRWZzk5ZXRGenFHMVNMTlczRjRsano4WFVRanZHZVNPS3ZsY1o4bzhuVGdZX2p4RzZiQ01SV0s3WTV0ZElZOVRZamc0YTUtU213d1hPLVZUd3o5bnZKRmVqWk5iejQ0eEdkMy0zM0Q2TUF3bHJmb3ZLaGlTdlNEV3FrUlNEb3l5M3V4YWxRdUFXck5VRTFHb3MwUVNFYTNna1J5dmhj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdS1Ba0x6LUdGUWY3bUsteDA0bkhWbklFdGlKeFBJSUdSTlJQRnpfaWJZT2FyYnV2azNqOThiYmx4UkZXS29kZGF4THRCdGhjdHJfWmlUZlEzVEtsQkZCemQ3dFpLXzBqZnNoZVY1VVExTHdKUWFWMjRDaUlDSHhsZ25oVC1hSWlJSmxES2w3Wnh1QlN3WkdFQjhqbmZkMmEteFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
