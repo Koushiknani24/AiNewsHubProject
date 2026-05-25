@@ -12982,5 +12982,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/rocha-campos-attorney-generals-office/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/senegals-faye-names-economist-lo-as-new-prime-minister": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-fbi-codis/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/cuba-publishes-list-of-prisoners-released-in-april-amnesty": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxObEVMSUVLLXFIOGpkRVJIS0hmN0x0YVJNSzdPdHF3OUlSdmkyOWFMX0s4QTdrbVJWMzI4NWRIQ0VCSDk4NjRua19qV1pja2FmaGc0RjlxU201OE5vYXZrWFhwUGhWS3VfTURmN2FQZ0h3anhmaGZOMTZvYjVOMEJUR0JLRXk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOUVSN1hlREdzdkZvSDh0dDFpUVFrMzRiejNhb2pHVWdqbjQ2RkNIbTRTdlpxMHJRTG5uSkJSVmI1azZjS1MzLWF5QkU2SWd5eFlxdVVkQUlJM3ZkZVY2cndFekphajA0OXg0dWpsMHVzczhXRFltdXJvelBEUFNnYzJ0bHBKdzA5RFcxbXdkVE9vZ01mREVxTlp2QzJQZElNelJsTTBRVFdLbGN2V19tVGNlcVZlODA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.yahoo.com/news/world/articles/brazilian-government-commits-617-5m-213208692.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeDROQ0czbDFZcnRLN0FmWDdlTmhpZzU5ZEd5NW45SS1neFJwOW5rR2lIbDV6T2ZXTGlwdmlGS3FNV0pybG5lRHBsN2Ewa0tEaTRmSExpZGpEUkZRZHdrZ2RFMXF5SFpPTTktRjhta3Z2eUxGNkxwUWg1TXVoaDlEMDIyb1EyVlh0bUdvV0JaMlhjaWNkeEJNMkU5OTJ6dTJzVDhkYkxwOXZDWUlJc0YtUUNGZ1Z6VkE1Vmc0aVBRLXdmbkVnWXBLdE80S2JMRXhXZ01N?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/25/czech-police-detain-russian-priest-over-white-substance-find?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/mexico-invita-app-world-cup-tourism/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEM3c0JxTzlQUDAtLVMxOTBTd3RBU2hpWmxGQlVDNDl2WG9aTHNQYTNVa1k2cjJLMW9EU2FEN0NaUFltaDZzX3RYdm1UYmdCdE9OQ3o5Nlcxc3IxQ2NQYUJJMW5rSTlDQ3IxWTBUQWQ0WTF1NkJDU3l2VWg4OHJHU3g1NDFRcjRqZXQ1ZGw2cloyM2R6dGdvMXZxOFM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
