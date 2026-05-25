@@ -12346,5 +12346,161 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2puSU5FbjhpX2RUWEZZaG9wV1ZKdkp4Z09sUzIzYVlTam1Ud1I2dmdSaXBBSVVDWkxLaHpBTG1VY0NBdEUza1NqdTZSb054dHZrRm5zdkN5N21GdDRNeThWMUJwNlh0LXZrREVwand5eGdxbEU5VXRmNTVMVE9KQ0d2ajFMeUktTWh1d2I1S0pyWGlrU3dmZjFVZlJGQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODJrdDJTX1RBR0lpSVIxOVJYTFdrSEo0RmI2WEZSMGxoaTFBekhQeWpWSGhXQnRTSG1LVk1mMFRiSjl0TDVNNnVPYWd0dHB5cFNlbmpuOTNMbFJtWjZEU1o0UFBzSW1NZDhMR3hLajhsb2JEV2NqZ3F1SGw5MW5wZTBTNUE1WkRRVW1TSm9GdWNKUdIBlwFBVV95cUxOcUktS2JtQzc0Y0NNTndLVEh1cTA4RFpyMEFiQTBHUWdsaWxUYjRGMjN2Wm1QaU1sOHJEWlRmOV9HMDZ2UDl2RkQ2ZlNwV09EaUpYSjF1REtSVGJ6NThUNThJMmpDeDlUQUNGc0w3NnZ0S1M0QVl1SDR6S2tyMHFQeUUwaW9Peko5N0N5anhjbm5YVFdYVndn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/hidden-femicide-risk-grows-in-afghanistan/a-77285438?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/self-driving-bus-in-sweden-crashes-with-tram-on-first-day": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605250430.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1Z3T2NzaHA4cmlqU2gwR1lhQ01zV2ZWUVh3TFI0anB2ZGY2VC1jeEJkMnpyUktPQlVrSkhuVnJkVDBWVzNUVG1VS0RCM0hqNGx6RWVrY1Z6WlM2WXJkbmRNMExCOGxjSW1GZUF3dWV2MG8xTEg1LWJmdlNzUkJyRHdodnNOYUZtY0dkUjYyQno?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFUwLUtRLWF0djBXR1gtZXhoaFN3c21wcUVhUFdxZTMwa3JXa0t5elZ1bU4zZ3lFZUpsdEFwV0RUcFRSakVfeGdObmdfZVEyeEY4aHZ2OU5WMERyTFo4Z183a1pBVGIxd1o0TDZ2RVlvbXNsNGFQT2UtYXM1ZkxmODhGY1pteDNBb0tOQ0lHaEdNbVlwbnJELS1R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGFSY3pNNWNRVmpiM3lDS2tlZUtOTFdmZFRRcXIzQjdOeHc2OG5fQTY5MERLbFhxbmJaNkRjNGsyTmNuR2FQWHRWOHRPbVhSb3BiX1pqcEhCZHV5M1hpd1dvQTR2SFJ5TkNSTDhYZEhFNm5DTDFyTjc0cThTTmlwWFlqd0Z6X3Zxd1N4Sl9Bdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1htRmpqYTJycmlJQWF4MWZIUzI0a3BuX3ZZNmpGNWNzaVRzX2JNYUNZLWN2RW5OZG5tejQ2T2FDSWtDS0lpNEFLbkFTVUoxcWpPNjJfZkZVT0NKYTh3LXZCZXpJYWVFd2hsV3VtdUZwTHZJVkV6ZEVWeEtHc0FYMFVBY0ZfckRVVDZlaGw0aXNMemdNOHUyM05Pdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNV9zcUFXRlVYZUdTVGRxVWJlQ09HTjVHN0dYOWZoQ292ZUJXZ0xUOG5SaVdhZHhpb2xHZFhUZGZMVVFGbnRYNnFOYl9Ma0ZoRDR4X3RtSUZNWlJwSDZ0RXU5SkdYLUduSXpPZk5RQi14ZzRtOUtISUU4aVVqMEw4amgtYWswT2xwOXJfV1VqTkRKY1lj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/5/25/what-are-the-biggest-fifa-world-cup-upsets-in-history?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdjU2TGpJSDM1NTZpNGlIN2FMMDVLUTdpS0IwcWhlclV3UUl0MHVMTHBmV1ZWcU05aG0wYmI0RXJrSGgxRkhwenFEaF9UcnRzckRzM0h3RGhldW9kQWkwYWxwTmpEaUJqRmRzTl9LcXhKdmhlRzJWNkhWbEFpWnV2d296Z2k2eUdSQ3dlcEF3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sTWZzai1SNTk3MWZDQmU0dGhYWTFCSE9teGFUamVua0l6b1VhdGZEQ3pnOW5NT2hjdmd0VHUyazF4aUxmbW15d3RfNHp0b2NyakZOOTJ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNG5iOExpUkFCdlprVXZQSHU1WTRIOENVN3NaUmVVaU1lSFJrVUc5RUZkaVppcWxJUmJrZ19UT20wVGx2Zl9ZcVNULVBURlQyUDVaRmpLMzFWZGx6U2cxMnZTRzFsTzNIMWNHN09GYzNxaS02V19HREE3NVlrN2Y0T295SjI4QUNVRDBLT05PZXlJMDRIRGg2QTNGMkswU0Z1c0l2Z3A2YXQ4U3kxZjRKNHJLTkh1WFBY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3260650/eighth-victim-of-deadly-trainbus-crash-identified": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-us-war-trump-deal-obstacles-remain/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/25/housing-crisis-is-a-matter-of-governance-and-not-funding-city-leaders-tell-world-urban-for": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/chinese-human-rights-cases-in-limbo-after-trump-xi-summit/a-77285479?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/who-chief-says-suspected-ebola-deaths-at-220-and-epidemic-is-outpacing-us": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605250410.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE50WDJfWXhXZzJlX3lfR0xVdTJ1Yi1VZDlHNVR5Yl9abU1lajJFY0MyR2FvM0hGWVVZWDJkNVBFUXJXb1RTRGVZUEI1VE5GckxWZUowemNlczJ0dklwaTU0STVFRjJ2dFoxbDhycVlKZjFQalVsR1NwRHpNQW4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbVVEUDFmMzF2YzNNTENXU1M1T09mWGpiWWF1QXI4ZVh3QXctZ1BQZlc2Ukg2QUFzZnNKRmV6ZXFUalA3aTJuQk9YYllUS2paYmVJOGVQY1lWVGRhaFBJMEtuUXhGOEIzWmZHbDRIcVBvb1hWZU1XWGhvWWYzYU52aVIwdnJzcXk1WTlidU1KME0wdUdUSWVJeUwxVTl0RDA2bHBiRy1RRXM1UkhlQ19la1BVcTJjNVllY19KVDFXSllNVHJXQ21CQzBTMVo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMDBUQU9GblB4czR4bTd2aUphWkZyZWY1VHg4SDE3aGlDaS03Y21HdjJjbmF1Um1heVJITGczZEItek03OEI4alRGSE5QVThub2pYaDZDV0lnMGNOQmdqOWg4WWlteWZicjFUN0ptdTZkUkw2bUdjUzN3SGc3ZVk0UXZtVVpTUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYTBhbHlRVTdlNzNxYy1IOGtoTENLZXV6Z3Z4TFZBX1ZIdlc2dG9hMXlEc1BEMWVWNkFFc1NRcUo4Z1RtU2I1aWtBaTAtcXFJVzVZaG9fR3QzeWlJenM1R0pFZjRsSUVrNk1fOWZJc0g5UVB6eFlaa0szQ2ZLd3pWVm93QXhxcjEzdm9NN3RzU0tkRmtYc1FqX21uakxLNzdrM1p4UkNvS0s1SkdHSHJHdVFfdnIyUmhpYklxNGR0bmNjT19iZ243QWN6RVMzNGhIUm4xN202SzBaNlpEcUdHQ0VTaEI4cGNMQ25mOG11ZFkwNXFQYUtaUk9R0gH_AUFVX3lxTFAybUFzUHZfdmxsckcwWm5BcGtqeFNpMHhBelpWOXd5UWRLSUFXZkNRcW5iTGpfcWFZU1JPNnlRVWROVUdEbDQ3UEVMNWYwcmVmUmhkVjhJbUxuNFhwbXVZTWx5YlVGMEpvM2JNY0dwbXRwczA1YTZEeXZRNkp6TWs4eGRoUU84dTdlOFBrSHdjQnFfMlZSVndiOHg5QWxnLTdKQVNPVTlKdEladEpaVDF0dUJKZkI3QmRFVVpRQkVUNmpsUlR2Z1JXaEpmNXZzVjEzdW10ajB3dHpGM0oyLUtGOGVyWUxQbHc5aEo1ZmdGVWxxZE5MMS1lTks2NFJscw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/25/paraglider-survives-mid-air-collision-with-plane-over-austria?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
