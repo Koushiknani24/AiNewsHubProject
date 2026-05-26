@@ -14122,5 +14122,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/star-wars-the-mandalorian-and-grogu-opens-to-series-low-98m-1236605886/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/lifestyle/christina-aguilera-ischgl-alps-concert-review-new-album-1235566743/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/27/asia-markets-live-updates-nikkei-225-hang-seng-index-kospi-csi-nifty-hari-raya-haji.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-allows-central-bank-top-bank-sberbank-to-directly-down-drones": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/05/26/latest-news-bulletin-may-26th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnFoVXlSdWszVkF0WlZtdDJja3FjMWlyNVZvZFpsR1ZaQjVLdlItT2t1ZE0yRDVDTF85VVY3akJRdnJQY044WkFkOUMyanFtUFo5cld2akd1NXhMQUpSckd2bVJQMFItTkVsSGp1ZzhiZTl1YUdQX1Q2M2dDTDJ3eDE4ZktDRk9XMXRN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQU04cTV4WnVBUjItV1pVYnl6MlV5WEtxOUhsSzJkdFAwYktxTUpnTjV6MU1oSGxZbVdMczNqMkgzOG14OU8zRGdjOS1ndDZfWGhJVHNGODFzeDRrbTRwLVJ3LTFHQzY3TVdsbUVoQ1E4dXZmeElmbTRfVVZCeHRqcDJ0TE1lUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-partially-restores-internet-access-after-months-long-shutdown": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/investment/3261483/crypto-futures-etfs-being-prepped-for-q3-rollout": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/iran-vows-retaliation-us-strikes-ceasefire-appears-hold-for-now/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-builds-giant-stage-at-white-house-for-birthday-cage-fight": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/26/ayatollah-mojtaba-khamenei-breaks-silence-to-vow-no-us-military-bases-in-the-region": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmRvRl9YRjBNemlROUY5R0wyUVo2dU1yMzVWUkM2UnNmM1JMMl9FWXBLRUlUQ1NFUHA2RkxUSTIzSzdLRmhsaHFIUE9Bemdkck5MYWU3RmhXOVR5Q0xxSnZHZDhQUEZFMFVUaGFNejFZZmcyZ3oycWhleGpIWXAyag?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVljUjJjb3liZUdTYkNfV3hrS3AyZFk1Sl9iUkI1WDFPZjJxTmZ4S2sxRWJfaDFIOHR0ZExIcFZPdTBKd3hfMXBfV2RCb1pZWEFONERlcUxkVHdqR0M5OXV0MU1zenpmUGRqbDlMTzM2MlJQVFpmLTFTb241TDc4ZUJTbTdRWTNJVF9scWtSak1rSlJkYTJKZUJoQTRaTzQ1TkNJdFYtb1ZtTzg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
