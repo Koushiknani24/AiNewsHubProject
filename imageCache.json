@@ -13372,5 +13372,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/ferrari-unveils-its-first-fully-electric-car": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israeli-strike-kills-five-people-in-gaza-medics-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/26/ferrari-stock-shares-luce-electric-vehicle-ev-launch.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/marco-rubio-us-iran-war-could-go-on-for-days/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3VfTTZxUUtrRC1IVms4Xy1VdW5iaUJDbzN4aEpFdUNoTzZpX3FfZVFpdWs3OVpyU3RiRk93ckRLb3ZVWl9TVGozZldYdUpnVU1RbE5ZN1Y0Z2w1T0toWXF1ckhPNTRGQmNKelZtOGY0bzFWd2hRYnRPeVdpRnZMcWhpeE5PQXBWTHZIVnZuQU43WXdhT0JvaW1ZTTh4NE5kOUI2a1cxbU1zMmxCY3BqVnZqSDUzcUR1cGhkc0Fwci1ST3lCc2R2VXZmc2N5c3M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyUmx3c2o0WXpFWHl5T21FYnNhVzZmUXZ5WEp5cnpPc0lVQjVaUlhZYnI0eHFHbmQtaFdxSlVwZDFpbUVFZC0tdTNjdGJUbk03TF93aU9MMVM0MG1SZjdTOEhVR2JHbmxfOHEwZmRLSGlZZEQ0ekFuVnVKY19iQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRWhBSk41UUpFeWRDZUNLbFBadFJ6T3NrUFhlTlh3VEZYT21ZSl82ZTJqdDVmUXZOVU5kUWFpNzRlYXY0T3g3aFQ1MFdrN29UYWZDd0JwcUhyeUJ5S0UtNjlCazFzZVhhY2hZMm51NW80U2xDRnBfZ3VnTnFzRUh0S08wUl92YWt2SC1HblpicEw4UGQybkdZSGl4ZmlveUEyam0yZkdZZDRfamxzM3BLN2RYVHRaMVZMMVZIODZNTUc4U1E0U3YydDZBSjJmUk5EdW9DcEdfZXh6YTNBSmRPcVltajVwOGc0VTlkYjBJdkU4QTJwdWZEUGNyckbSAYICQVVfeXFMUDRBOUVwY09YUnp1ZlJxOGl5bUxQTHlLMGZZRUlZZFdmaUd0dGdnNVAxRmxEaU9jYzZ1V0pXc3k0QkdCdmRmZ0ozeGx2alRwVDYtcFdjNzlocWlJUThlWlVLeEVmNnRmSjZ2TEhFNkNFbXBxWFdCVFhPR203UlhNek9jVm1EOWJXWVV3YlNnY2oyTV9EcUw4aTFOMG0ybHB3Q1JtcWJ6VDNJOUExajRMcHdFZzBKSWIzZml1TnJ2cWc3Q21TWWpiWmpBWndaZnpRWGVhZkc3bW0yM0F1TVNoOVI4YzM4TGpnb0FmOGhWZ3gyUnFHZHFFTEdfZmFoRTY1TXBR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/26/taiwan-monitors-unprovoked-chinese-combat-patrol-near-island?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUmRwRjVZUmEzWWxkSUl0c1llOXdMMHNMbnBWZ2k4TE5aTk9wWk5tdWtOWWVPbmIwa3R4ZVVKZHF5ZTh2d0o5ZEVhRFJ3M0hKM2pjbDF0OWxJcUZUM1ZrTGZBZzZaZTFOb19JQmVKeWpjcEpIMkRJU2puYkRxSWdBSHFUazR1bVdKMjdzcA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3261180/rules-on-screen-time-in-schools-coming-soon": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE04ZVNJY19nVEl3NjdBSzFRUjRnRWZDY2taem5yZjJoWE0wV0E0TXN3ekFuQnRlc2xYV2x5XzZqTXdHZWFPbHlSLTdvcG5NbnNtczhROEJxWjJBWTFBOHA3UTk5VzZaWm1uUVloNUMzVFBtMzA1QXZQSWt2aWQ4dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaENaenJITGVLS01TUm4wbjJrV0NTRk0xbGhwemtyYmdvS0pvU2dxVk10Nm5EMlJTN1VMQWFOUVNHVzhvcjVEM21GWUN3VDMzelpHM3dkcGY5MzVVTmhibjQ1dDliYXExMTBDRkdLTzBnVHdsU1AyOWRYUFpOeFhQZHZ0bk9SRDA4ZnJLcWI4d1prOGJHTVRVc2l2V0VoYnR0WjZMRHdSMWZkMUFm?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/05/26/more-than-500000-students-enter-tashkent-maths-olympiad-as-stem-interest-grows": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605260089.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2dRcnJQdHdRTEc0VnJzbFZLSWJsdkRXWkhUZF9iVDRZWGpVZS1mazlISWwwYlA2bm8zOFl2OVRaYUEzd1RzYmpVb0dQM3FkSGNNR3RMUXBnOUhBT2dVRW9BWUhWVnlUb09JWTNRX04yRmNxLXlSQXh0Ymo4ajdxT2hGOG9HV3AyOHZySmVfTU5vSERLQjV2aUhiaDVOeWkxMEI00gGoAUFVX3lxTFAwc1VGc1lsdmd1dFNxSXVsZGZ0LVBLenZ5Yzc2MmFNamhvSkRhaXp0MVdqX2xydVVNTWJNNnVGOTIxdk4ybTFaTnBDUEFuaDc4ekhKbnZyRVZBTnVlY1lLLXFzTHN0TWd5dEFqTW5NMXREOWVBT1VWV0owODdiZlNmZEgyYlBocmVQTmE4b294WHhWejlXazlkYS1OUENLYnJael8wQVlsaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/5/26/knicks-reach-nba-finals-after-defeating-cavaliers-in-game-4?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR1o1aGh4S0YyRzI1cFg5UlBCRVg0XzZ2czdjSk1qSEtvTWM5bTVmQjNBNkFOemZZMmpEc1IxU19mRUljVFV1ZmJBWkdRU3YtNzdmZDg5ZlFkRE5VdVJUMnhxbzV2UmxNUDdXa24wdEY4MWZXWm40ZkhnalJoLTVIQW9fWk5HdVlQZWREbEhzUzZVdkZDNTI2QVAteGJQTDg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdTVsOVVvZmoxeFliaE9ScDlXSWxCWkxiZXo0cmJNdTVJZjNjTmRqc0sxd1JzZ3FMTHlZNm5MTDlScGhZWl95OGVnWERkaVZBaUFsM2tiTzgtZWxCY3oxVk1Nc0d5dUp2U3pGWHhBU1o3Tjgwd2I2WTVBVjY0cnl3SGFkejRINEcwSkpxalBQMktBVkxhdm5fZzNGSHJoSVVkQUloNExn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
