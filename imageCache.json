@@ -13240,5 +13240,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605260002.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202605260001.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_reported-us-strikes-southern-iran-in-self-defence-250526?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uWVBMM2w2ZVhhWGFBV0lNRDlUTFMtOWU2cHBhY0prUVpBSW1kYVU4TzdSbWFXS0JSTlNNUFRZYmdpdHQzVXB2X0VpTTFoVE1jc3VjVEpWNUstem0xdk13ZlIzYUgzbEFmejZpS0d1V1hZT0wzYjJvYQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/quad-foreign-ministers-meet-s-jaishankar-indo-pacific-ties-delhi-live-updates-may-26-2026/article71023497.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44TW04UlFHaUVyRTgtdEd5WmpEMnltcFRMaVdnUzRLcUV6WUZENjdiMmdLYnpHYnIwc1J2VmVwX216MlBPSGJVVEx6aG5WaEpzbXZZb0R3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUm43WEdLLW5zZlhmS2RBOE1kM1NaR2h1eWZvWld1Xy1RRHYzOWNDWnRfd1lfVWM2S0RTaEFqaTVSRlFyWVVQREUxTG5Vc25MVGIzZXM1WEYzNjhPakxJdWx2MThFa285NDhHU2gwQkxmSC1VTDJwc3RaWDJVVF9TWGZ4eTFtRmdQZkd5RTVyVGNoenR3b1cteUFlZU5RbGl3d1NYOE1yVktLX3lNVDhuQlRQcV91OG40U2JIbHFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/26/oil-prices-today-brent-wti-iran-trump-hormuz.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNnotV09QOUJ0ZXlsVDlWQkU5MVdNQWlDTmZlMTVtRmY1STFadkRCY0ZHVEJnaWc5VnNIVUU3bUpXNkFiOWF5SzYxOU0yTmZBZVZYOVZ0RFJTdW1OZXVFLWNJNTYxS3VrNnlYUDhrZzJMTTU2RzdKdmZNcTgwdnNhZXlXS3NlMGl2TGlDaC1qS0ttSi1zb294UVpuNkFYWTBLWWl6M2prYl9qS3RUV3VQZE9TYTJ1cThtLWh6X2ZQMk1lbERnbWxCZzQ4MlNSbHhMTy1GVVpNY2Fac2xjODZVM0h3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/should-europe-talk-to-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTm9Zb25KV3l2cm9SWWRpUG9mZkpzbWRPLXB3MTJLOFplQ251VUtsbHdTWFQ4OUk0RlRLcWJmWDRaOVh2MWRGU25iVEJ0SXZ6TDNkTzJuMHVJVDVjWGNvcEpNNXBhUkV1X0RhYUhsVzUzWjlPT2ZpSk8zOXFzZ1NGb001cFJMUmpNa3F2bzlMWk14M0NDdm54UXdTZnFRU0duWHVnQW9iTUpDM3RNMnNGc3RLVHg1eHNvRXU3R3V0OEZGT1NtSEFpZ05IaEJiWlNT?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlFJZDlWTEI2SXhCX1lFVkhiNExFczBSUE5lY2RwZmdRd3l1VFVmdXpXZTZ3NG5ObHYwdllZYm9VWlJFc2stcVhtZ3FuM0tkUmhPRnU0ZFZZTUR2ZHFYQzhhYllaZEZBSUFaVjB3T096ZjRia1pHZnZscGl6QjVELTA5endVa1p0ZkxQQ0JBb1JvZjJlTEhkYnVRTkpwR2UzTFhQbDFoajk2X2p0cTROdjlmMVZkWm90ZU15b0tsLUZtZXNB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/26/netanyahu-vows-to-smite-hezbollah-with-overwhelming-force?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTM3MXBzMlBzbDBQSXpYMzFBX2xjNVJRY2VsOWd6NFB4VS1Lektzb3Byd01DLVhoaGhlckRibGljUUF0SXo1RDB5OVlKUkE0a2tXbW1Sc3BLZnZjZEM2eFVidGR3dWJ5QklQSjNhNFNBMDJSNmg5NTJqck1rV1NSVmNSQTIwVjM1?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE14WnB0Nzk3bTZXQm0yWVZMVnpPbkc2UUtncmQ2YkxkZER3RWkwb0M1cWZIc2dBS0YxUUg0cGlJVGlCajBoVXJUcG9IMkNGc3U2bXE4U29WYkZ2aWJKdi04QWk5LTdZNU5LNnd4anZFR2JrdDVmS0dKMFAydDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/california-chemical-tank-explosion-threat-eliminated-official-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3261150/why-our-workplaces-arent-working-part-2": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOHUxZWVoQ3MzbmJLVVUxLXFXR1F1R0JiaUxsand1dW9nbUJBMHNFTzRrbXIzcXo2bk1tUXVJOUxtRWZkemw2Z2xmQjN6RnRVZ0NEOTgwLXh3a1NrUnZ1TnR3WmFwZzlBaVdGQVppcnhJVmlTcWdEZzVKSV9feGxLLTdmdVppclNZV1FJLUtUeGFDc3FXMXNEb2R5VEJYLVhIWVY5ZUVEQW00eGZfcVJkNjZoTDg4d0RGUkRvVzZFdWxJZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmlCVThEUU95a1U5S1FLaFdjY1BFV3FBbVlMTGJkVTdjWHc3YUZrYWI2ZGFrZ0dJYVB0QnU4UWJfeXlpVXhpdnByeC1xZzFpZ3g2bUViRjdEcGctX0NBRVIzakMwZjlEaHF1Y2s3eDA0MFM3YU1nX3JhbTluc05tMWRHTVNKOEMtekM1REZDdThPNVNmd1IyNWtrWDBjbFlOLUU3emNR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/afd-mitarbeiter-im-bundestag-bitte-drausen-bleiben/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-export-revenue-april/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORWRXLTlobTZEYW00Z191dzFKaWppck84Nkk1R1B2RVk4aUlSVmtSZEhlVXRhQUZjN1A5dF9RalNjeS1BcVpPdHFOYmV5NHYzaml2MUhwaWcwSlJ0WExKX0dvT1dERDB5SExEQWxRZ29uUEdTT1gzTUppdl9Kcl8zOGxGb3VZc09LZDBuRUxqeUxVc2RLTk0wYVVEZnlhX3ZGbU9SczRJSWZfam84TjgtOWQ2ZVFEY1FOVG1ZbGFHTXBXQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
