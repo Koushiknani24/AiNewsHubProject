@@ -14818,5 +14818,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/05/27/snowflake-amazon-graviton-cloud-chips.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/music-news/john-mcclain-dead-michael-jackson-estate-co-executor-1236606994/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/pope-encyclical-ai-read-david-gibson-1236606943/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE02ZDVZMHVLNnpmV190a0tCTzhHOEs5aFBSM1dlbTFXZWI0NThpV2lhY0FQMDFoanFBSDJXYmtRTVBZUGpuWVlzYXBkek9kZS1adWxrNWhvZW5raFVaelVqcXRuN3BqelVuZEw0ZjEta0xQamg1TVVj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/norway-joins-france-nuclear-deterrence-club/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/fifa-world-cup-new-york-and-new-jersey-prosecutors-probe-sky-high-ticket-prices/a-77319846?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/palestinians-mourn-slain-hamas-militant-chief-as-israel-escalates-gaza-attacks": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvSlZTeXJRMUh4czQ5QTVrVEhuSkVVcWVtRE9PVU1yRVdvQ1VUX3BsNk05QzhtclhZVzFnOEE2VmRYWENIa1BPaHVjejJPaWVsVmp0bEZ4V0RlVlU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbXBDOEc0WGFrcnZERGVhamtoY25mWTdYWlNxZEdyM3dyVjg1UjRfVDUyUmxvRzZxTmZFYzNEVlEyQnl1ckxkZjVoZnZLZm0zcnB5alZnSDVFTnJNQlYtRzJ3V0pqVmRma1JySTZtNTJjNW1MV1QyQ0QxTnJ5b29SYVJidjFvZk5DTWdoR1phc05UeDh4dFU3OGRJZUhhT1RsRkJNRFR2WUM3QmFyc3lDM3BJc0hrN1FwVXRF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/morena-elections-foreign-interference/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/05/27/trump-oman-hormuz-strait-iran-00938713?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/27/alabama-pushes-us-supreme-court-to-approve-congressional-map-for-midterms?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQl9ndjN3bDhmZjgxQWhJQUQ2MDJzbVlvRklnOVlNUzJaclQ4bnZUb042dk1HZEVVZnJsT3JQUXZGREF6ODJ1ekxGTkdrNmM2WkdMUXRHQkVMcElCS1pFRFB3MFFtb3BncVRLVUg1MUZvLTBfbmc0VUxHMWtNQTJIUEtRV1dxdU80ejZxUTBxck8yYU5hNmxUbG9lWFpQOU1QbEJpR3NzTzg3N2dMUzIxRndZMDJGZjA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/trump-urges-middle-east-states-to-sign-abraham-accords/a-77319844?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWdKYW9tbTJzSGhtcnczS1YyYWNFeG0yS1l1LUpIWGNSWGx2NjVWSnVIaEktZFh0M0V6R29OaUowVG9uZE1SMnhlWEJTOFU0V1lFeUN2WnpKVkR6VzF6RFBoY2ppUFhDZ2g2d3p2cTlwSGtOYnBaYVNadHl6ZWRRRFBrYUMzanA0SThCNm9RUUEySWdiMzFrWGpYLW9EUEhyM0hrT2l4Wm1yQUxiM2pzbVFJMzVsS2pHVHhETE1yNkZqZ0pSbWFsNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/health-regulator-counterfeit-ozempic-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa2NTS0VUYTZCSlNZckY4YngtMXlJeTlsaFhfQW56UUlBZ2tOQnZJQWppVWZXcVFTeHl0VjV5WngxZ2wxVzdKSTFpaW5iMnkwQ0pwQnNJNFJfVThqVlRZRzR5cTJNaTNBLXZIcjhrdzdySW5tVnd0ZmRpN2lSeWpwU1VzYTFRQURzU1dDa0k1TmMzYm84bF9zUzRkZUM0cVFKTU9rUDVIUE4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSnUtWkhlQjRGUDEzbEJPUWxGZmdNM3lES0ZBZ21RTEItZkx3TVBvRjJ6ZTZhazlHMXZDeFdOejRJTjBrUXQxNVpNdExsY0Vpank0YTNvNHd2ZFZmQ0VXVE52cFItX2VDOTk3Vkl4MFUweklFUFZtdnJjSkxreXpxVXpPTmJSYnRZcUFqQ29PZGhmZHQyZEF4VHQ1emNvUmh2ODl4UlJQNEJubjAyWVIxVTA4Z3BIRmctajU5UG03WlFaM1JRRFQ3djNlbXhfSl9jWDhWOFB2S3BEeE9mTnloS3dLY2h1UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
