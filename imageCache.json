@@ -17110,5 +17110,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/paul-mccartney-the-beatles-fame-beatlemania-1235570322/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/national-family-health-survey-6-kerala-leads-in-womens-obesity-and-ncd-prevalence/article71038060.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/05/29/nasa-blue-origin-trump-moon-base-delay-00943139?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/amazons-tech-education-hub-queretaro-launched/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3263225/land-bridge-a-huge-political-risk-for-bhumjaithai": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb1VoSWtfVDI2dHZ1V1U1bDFCaUtBbDZud3lOY1kyWkVISlNRUzJDd3psQnZIX2JsMWtKRXMwZ25hWmNVVVFlTU5lVjN1bS04YkRhams0Rm1vREJlUUh3NDI5eU9YcWIzTkh5b2dGVDJFZ0xESUNQUS04RXJQRHEyT2FDTUlaM2doTWhQc0Y3NkIxOHd6cnFDQ2RyR01GbVdoMkJ0ajdVRnlfRFZQOVJPdHRYV2ozNVVP?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3ZFMWxyaWluTlpzMXRULWtoQlY1YjQ3aFlLU2pWV1l0SFlZbUJSX3hHenlZbTZpTkVhMFZ6OFV4dm9zYnN5TjZSLVkwM19zb1V4OEY5UnE3ZnZ5S08wY1F5bjBJU1ZDdkRiMUp3ZDRvLXpYWWVqcGhkOFFfZHZ6Wi1VMzFRc1BhY2xRWC13?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/three-latvian-mountaineers-die-on-north-america-s-tallest-peak/a-77353020?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZmt6UGh3MVVfczdVaE5oRmRWTkJfMHV3MV9UamN3NVhodmNac2lBU2IzdDQ4QXh2OG1mY0JvQWZ6bmd3RzIwQnZIbXJKYkhOYzFDbi1Ka1A5c2tiTGtKRzB0RC1BRXdiTzQ0QlVUdjczQV9RNTZhS2t4R1BGVy1FSFU1NlhMbzcwREhqRTlGMzFFZlFBNGdJZnhfV2xBOXFfdXFpOVVmUVRGQ3pKTnFfMzVLVXNTejRhZ0NpOE8xaUJGQjc0anZoclZlVG8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2daOWFra3FSb2NnZzczbEVVTktLMzZvOW1MNGlucGxaQ2Nad0FjeXhuOEVlanN6RjZkaXY3LUFnbUVMcVQ4enE5ZTh4QmM4eUhrVG1tYlp2cW9UdUl5dUxPN0FlNkstTE9zU3liM0NtczlFNnQtVHQtVjZQbml1Q1kyVkw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUmg4LS1Nd2VxdEl5aTJjaDFZYlNLRHExSzhmMmlyQXdDRk5Xd2VicmY5WG1QUVdxVElMQmpidFh3ZTRKQmJyekthcnBjRVNhZTk3TmpWVGx2QWV0clRSUU5lYmxvSWVxaW02N0ZQeHFwWFJGR01VbkZTOXpaY1NEZHIzc2FnVU9qTlBzSmR2TXk3M21RRDZ0WVJqY0wwaWdjWDltQXhYa19sZE9uN0pycjVB0gG3AUFVX3lxTE1xU2ZwWElpazNNLU1wUUl1NjAzbVNxbnpXdU85anpQLW5JMGt3NVRjdmo3WHA2RTZHX1p2TWFna0kzN05qdW56MVc2UnlySTktZUdTcmF1NFppcjNXSWduSlhSb0p3Tjg5dExLcXBBaWg3TDN4aGJKQ0FrdHY5NWF5VzV6QUx5WHlzZEdJYmdGbkRrTHJUTjQwMS1jaDhob3NtU3VZTDQwUy00T19MZlVnb09WWjhFTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/sangakkara-backs-rajasthans-sooryavanshi-india-call-up-6151191": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/video/thailand/3263245/chulalongkorn-universitys-rare-book-room-safeguards-25000-historic-volumes": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
