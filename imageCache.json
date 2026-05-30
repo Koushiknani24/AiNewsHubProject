@@ -17692,5 +17692,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/053026-cbs-saturday-morning/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU3hJaFFmcTJjbDBBWU9YWFBPdXpHd3BDc2dtVndMYkVIMVNvSGNjenQ4ajNfd1BEdXNJTUVNbWlvMml2XzFRYWdLZ3BzMlBGSThHeWR4ajNZYzVWeWtUWVpZVHd5V0p4WXdhZU9wQlFoRENwcmotUnh2bFNJUzZYbnBSNEF1eWNVUEVOWFczTF92SXZxNGR5eEs2aFdJR3dQY3M1T1p2RHlfWmpr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/05/30/latest-news-bulletin-may-30th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRS02VXlCZzNhay1uWHJJRllweElqWmZTR1BGS2hESEdwUklMaDNVYWR3TjlZLWMxblQ2TW5KbElCbnlhNE1WVUZISFF1RWVvTUQ1aU9jeWp0OWNtMHZQc2t4am1XcExPbXB1RVY4ZFNuOE9PZHZud3htOTFaMUhpY1pUYlJXZzQ2TG5fbDE4NEpUQ21mV1Rj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMXBxVWhxVFZieEpCWW1NczFUX2VUS29GNkxpM2ZDV09PSm5PMmJMNnNtYnNuQkk1Si1aeWVMMDRCV05JVkZRVkM3Vng3Z2FKaS1BUGRhUmk3OC11YWVvWlowQ084cUFpUFgwc0dBN0o5Ym05SktVWXRXRGNhSWFFY2RoeFVmX1U0QzM1UjdtY2RQcVhldW9VLXFLOHFPdGdpbnF6U3JOMkhTeVVPTFU3b0cwUVlQUTVSRkNNYWJWUEo2a1A1cXY1Z1gtNEpyTVl2S0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/ice-hockey-switzerland-through-world-championship-final-after-6-0-win-over-norway-6151681": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/caitlin-oheaney-dead-he-knows-youre-alone-tales-gold-monkey-1236608943/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/parry-stuns-anisimova-reach-first-grand-slam-fourth-round-french-open-6151676": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
