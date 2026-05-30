@@ -17836,5 +17836,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0dibXJWSnJKd1FJQWJQVHNfUGpoSXJoR3VjdjdWaVU3TERXYS02UjlaRHNZRllFT2ZqUGcyR1BPVVkxSFd1VHBrSUwxeXlUWl9BaVpsZ3hVTUdIeWhYUFpwaGZ5V296OWU2NHd1Z21lbjZJcXZBN05ublEyNkF0NjFMMFhyLUFFZXVCZEcwSExpMVNiN1E5a0kwejJEZ3o5V09yNUpFZzd6NTBHWkVvcWtMY0lRQm1r?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/reaction-psgs-champions-league-triumph-6151791": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-military-says-it-turned-away-blockade-runner-trying-to-reach-iranian-port": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/week-in-review-may-25-homicides-world-cup/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDhzeEtVUHoyZ3Zsa1BnRHdkaHctQ3hnaVZUeXFTbFBSQ0JnVnJfZlBUd2NNekowSmRuR3M3YTZzaEQ5U0ZwMWl2UUpOQXlVbDlSRDZWbk00Rkdxek9UM2hQZW5Pa1hLVFo5ZHVrOGFNd3E4bVNKSnVTRVJKQVZsNWRkd28wakMzWTNkTlV3bXRGc2FxNkpRRkhRTDF0VDc5ZGU5UnZB0gGrAUFVX3lxTE1HSVluaFh0NHhTcDJ4X3pBM1lrNDVvVndsZFduZm9iWnhmaXFmTjZWNjIybFlmYzRxcWhCMnk0TGxuaDJ1dldWRUNINHh6S0RRcUI3Ql9mdDlSeHM1eWdZaEJpTUZiLUNRTDMyUXlhMWdvU3hIZ193VGNaVkMxZ0JqMGxSVER0WC1JRlEzeGhVakFYRkdmVTJFcWVSaXluaGE4Z21IMzRTTHZERQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOck55TXRndG10djFkOGlicnZJU1RTcG5kQWxVVVE0MmJ2RFdnVXdTQ01YTDZIa3ZxOVRNMGowQWltN2RSRjZ1ZnZOTVBtZ2QzRjQyemZ4eFk4T3QycjhrYmEtQkQ5dkNUWl96QWpOdTVhTjkxYUdpODE4cy1hcEdFZjFqOXlHOVdlQkhORkJ4d2FndHdTYUJDRi1YX21qM0pJSGt6YWNJVEhFYTdaU0dVcUVvREQ1eXFUUnlueXJKaHpRQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/30/qatar-says-temporary-charges-negotiable?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYkZLZFhjSnhNeERzblJLM1RzaklmOXNPNU9iQjZmLTQ5R1NWMVJSYzVJclM2eHFBcFE4QTljYWJJVG5iODhZVzFHUkxCXzhlaS1lay1QeWFNRGNyUmdPLUk1QkRBTm45OHJQamdFN2FXMGJxWHREWUUzd3lzMm1GUGN2RTA2M09fVkQ4T1VVdWxnazdMSlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/5/30/bruce-springsteen-calls-out-trumps-reckless-administration?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
