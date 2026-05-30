@@ -17950,5 +17950,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-state-tv-says-draft-deal-with-us-includes-releasing-15b-in-assets": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/jubilant-psg-supporters-spill-paris-streets-some-clashes-police-6151856": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/05/30/psg-fans-erupt-in-celebration-after-champions-league-triumph": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQldickwzeHRzWThGeTJWV1BzVWM2aHdUNnJsWU5vLUlxazFGNDA2S2h5ZlBVTjdoZWVpZXVlN0lqVE9ZalE0ZUVOM2FHWXpVUUp5aVBXLVY5eV9NbWp4NFdxSWdSb1gtOEZQaEVnWlppOWNPTWlUSF82MjlSdGhfOEViZmVGLUV2Q19kajF3VUctcFpzRlkxOXpVbE5PaUQ4VzhrVlhVZG01eDBNTVVYcUpwX3NyamMyMk9xQ0pR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/05/30/nx-s1-5839989/judge-review-trump-anti-weaponization-fund": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbVlZOHhSTkZ4WUZNU1NlMG91SE9LM0lMMTUyT1NkcGNJN2NLUDJvS000eTd5Y1d4eWJzc2lDRlFUSlRJMmVzNW1IRXF4ay1oaldFWi1DUTZVbVJnZjNheW5fTEthcUg3UjN0emtHQU1zd1JzdVcyNHhuYkwwbFloSFV0M3pmS0ZIa0dqV3h1Rnoza21FU29hR1VjWDlhZmpEWDZ3UWFtal80aUE0ZVNqMGVLVU9zNTIwUGpBak1sd01yVUx1WHVGLXRHS25mX2hDMExnVUdHWkdxWGNVeXBsTTFXUkVITFJmOTlYSkZjU2tIMWFQNXV0atIB_gFBVV95cUxNQUNkM2ZBVVU5Sld3XzhGalpKb2RZdWJHNmZ0UFhweUUwbnJPU2dVUDJkQnd5WERUQVF5d3cycDBXM0lzODMwUi1oSlF5Wl9vaGVVWkVWN1JPeHR2TVZJbDc3djJramRCV2ZtQ3hVQlM3bHd3aVJVaFRJb28wcE9mdFR5M3JUQzRxaHJZOXZCMzRMb2NWTjMydUVFbXNOcUM4c25RNG5lckFpRVZCVUtuUW9CbEdHMk81RzVfN19DdW1mNGo4M3NBdDEzT3FsLVhnZERUMWtna2l5SmZRLWFhVGotTFZUT0lSOTh5UjdlemhQS05uRDVPdmpnd2lpQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/5/30/psg-beat-arsenal-to-win-back-to-back-champions-league-titles-after-shootout?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-admin-walks-back-recent-green-card-announcement": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmJRTG1SOTl0NUVGQnFFd3hUS2JLN1UyS0h5WWp0Q21HdUJFQ05mSUNjMTNJTHBXQ3AzWmRkaGU2UlZGa21XZHJIYTh6S19DczQxZGFfY3BKU3cwUTdJXzg2VW54Y3NwVG9Mb1Yta1Q5a1JOVjRBRW9sbE8zLVhveHNKakJvdThLaHVxcmNaUGJ1ekt2VzFxbi10THJ4S1lTbUJjZFZlWFFuLVJuQ2NvOHlRSTbSAboBQVVfeXFMUElkUHBRVUltYWpuSzhUTGdSRld5Y1VvSEdMTjFMa2U3eXlDS2NDX1JwMUFqSnJwU3NidkJHdnR1Rl9haFVhcHBOV3pkX0o1Mm52UFhyZEF6cWxqTWFQd2dQM25kbzlWS1dQV2FTWUJXMlBKQjc3MU8wLWRRc0N3Q1I1N1lTcVdoQXE4S05ma1JZSUd2Q3lZQ3dpSmNDdktNUVp5bEFVN195THBzWWF6NmJWQm5UVVpXWFZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/05/30/nx-s1-5841380/psg-champions-league-victory-against-arsenal": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4VHFqWnhBRFlrdjhNRzc3RFZNRHRUMnVlVVRVTTZ2VVVHcmFaRWZ6R2QwczhseDAyVXE0RXVsaU5Vd0V1OXdtMlptWktnWEE4UVEycUNsRzRxUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZS1USWdwWmR6NVI4bjBMY1diajdrcXczWE9VRzNmdENLeHgyejJEWS02UHBUQXByQnFHLXNnWkFuN1BwQ3kwMHl6QlA1RlR6VlNMd3YzQ2R5WTl2MUVXeVVHdlo1OFFYekRvX3lUM2hoa2tiT2FHbzNFdlFRWlVoRGlSQk54ZVpQWUFoUlMwWERSdGRIcXc3MHdqa1E0ZEx4elVMLWNpbnI3MWFHb0taVExmX0FocW92Y3BTTE9iUGM0elktNWxXMGVwUGdCSkQtYUxLLQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/05/30/nx-s1-5839359/trump-says-a-ceasefire-extension-deal-with-iran-is-near-but-core-issues-remain": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
