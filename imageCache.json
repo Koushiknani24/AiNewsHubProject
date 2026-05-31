@@ -18208,5 +18208,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzdVlwV3B5RXZGdHNLa2ZVTWw0alFXZTlxcGdvdUlTUk9HeXc3WUhNMU1zU3cxNnJrT1FyeVFsNmx0YjBfRGptSHUwenhKbFpBNVBhbDdoY0I4dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNei1GZWZRN19RMFN4VE9PYTNWUEpBZFRfQ29yUXI5ZUx3Q0R3cV9lSDE1Tld2eXBmWGFwbWZJT0piNmNiTENkUHcyWXpzWU1PNUEyZEZfV01ha05BMTE2T3NuSk5SakNRTUxhZE9vY2Z2emFrNHBIX2FXVlR1VUdGUi15UmY5RG5aUVN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/05/30/ice-immigration-privacy-data-advertising-00939078?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/meteor-explodes-over-united-states-triggering-sonic-boom/a-77361548?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/congo-expands-ebola-testing-as-outbreaks-real-scale-eludes-officials": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkR4ck1JTm5YbkpVSGh2U3h1OV9nRGN2TDNnN2VRUEhjNkpaVGt2Ql9KUVUzQllDQl82SC1OanZLbFhUMjVxekFYUC1tOVJ0Zkt3SUkwNUxEU0twR2p0MjRnNHFmVmFEX0FvZ1hycy12NG0xcEtxaFVqR19rYjJWRHlqWkdieFNfR0N2ZldBbFdRMVVFZXFZME5pdnRsck9iU0lfRml2Z0tERlpHdTVJa3dDeVdpQ2cyV2hBTS0xcHNwODQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/5/31/wembanyamas-spurs-dethrone-thunder-to-reach-nba-finals-against-knicks?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa1lWS0MtR1pNcEVyYk9wOUdNWWFrZEg1dzZjVl9RZWliVDlVdklud1hiZU53ZzBqd2RrcGxlNmF5cTRwLVNkcDJDWmkzRDZQZmdudmJVY0tqelFhUTNUTG12dF9mNmRFVE1udnhSYnd2bVB4ZlotelhRQkRtczlIdng4cVlqemRUQnZ0UnN0WGY2MF9NSnBHZFhuaWNtQXBmWEpKOURHT1k1MFVTYTRaY0ZuRzdoQWlsYXJaYjZQNFJwQlVPb3FwMVBWYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/services/retail/after-zudio-boom-trent-still-has-a-long-runway-for-growth-noel-tata/articleshow/131419459.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/czech-republic-likely-to-miss-nato-defence-spending-target-pm-tells-ft": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGJCbUY4TXRnNXVMbFAzSTh5NnFsV2dqMGYwUjdYamhITGhvUllGMHJsWGRKM0d5RFNGQlNDcG8td245VlMwQjdRZGNldUNEYkxMZEkyZUZIcXMtZVRBRHlYZXNRc1BNNmVKQWVoMEprZVZjMkRsekdvV2l4aU1xLVNTVEpBSUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS3VLV1JKVF9XSlFYaUJ3SUpPSFc1bnd3bEJQclhGNE5DVGtXczBQRkpRdUEyT1EzNUxfU1JYeENvQTNScFhZeURJOVd6OGdTNDRBQXJBLUhnVjBaM0tpNTVUUnhyVzNYSngtcGVxMm1iUkF3SnVZa2Y4RHZNcmMyZ3FLYnVJaWRvNHZyX0tCOGV2Um0tLXRBV3Y5US1uUF9KVXJ5RTdhSmZmTWZlTDloSklXaHdQRHdZWXo2UkRZWUExVml2Y0pzX2dsRng?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmc0b0lxenFKSjhyaXI5b21UbElubWdrTGN6TTluMzVZUVJqTW9TN282WjVxOVAtN1Q5QWIyRHpRUHB0SlJuN20wUmRhUXZvRkRwTTZGdk1jN2NDV2xYRDRzeUt2RERwWTA1SUx2X3NxQWJCb1NZeXNfbUhfYTh1LWpLTzBsMzlCSnpMbkY3b0NOd0NPa3dLencxclJTMEU4SFkwSF9JSDRJRVZ2VnVoenZFQlZKRmllOFdPaVdSZU1zTmR0QTZIVHpKOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgJBVV95cUxObmg2Rm9HZ0FXVDc1dmNweTd3YVA3RTYwU19ETkRQZWJYeWdzTEY3YTN4dmk5UGlIdDh2M3k5TWlrcEpMTG5MWGlJNFRvVTFVenpjRktLOEp4V3pYaWROWThpMDVxN2FYX24xV3BSQ2RkdEQ0SFYtcG8yMlg2SXlUWTNYNDdfN2dnWmQ4dTdlMldUYXE2cGc2Qi1ZdXFacUJ2aUpvQWdOb3hpUTF6RXJZNTVreHQ2bldIbUFmUXZ5M1ktaDVYWXczOE5qeVBxMzRzY1NJLVk4SWNkM2I5ci0wNFI4QVBsZjRRbGFTOUFKR1NiT2psT2hBbDBhaWZkT2xTeGpEdDVfZ2t6YzFwQXhYQ1RqamNyYk1RVkHSAaICQVVfeXFMTkdVYzUyT0ZIZ1hiOE8tRjJ0Q1I1a2xORHU1NTRnTURDSlpPYXJvTUY4WkJrUE9tM3NOZ0RzTmh3TFdEYnI2cXFvUVA2U2ZjMnMyOUxCUmEtSzFaYy02VWsxMS15bWVOMmV5ME9JMWdmTlg5UXdzOThQTUs2bU85OU5iZVlrUHBhTkpjOVZVZ0lWX1Z4YTBEUzF0T2JONUtrMGYxTHIyRGNPRG9SM29HNTlwRFhra3NXNnJTNlNGcFZOQXo5aTJlLW5qYndZd21LeUxUWDVSRDVod2p0XzBjSEJYQ0h6QW91Qzh5eVFnaWJETEdIR2VZeHp3cG5WRGdsalhkSlM1OWYzY1V2SlU5cXhpSkFCYV9QQWZDX0NUYUJDNEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0JwWVRBNkFjY2FYTGFHeUZGQW9PRXpzT1d6QVJkTlJldWZjbzJHTVltdG41TVNld1JhOFdNdjB2aGhzYjRkT3RHZDFMUkN1ZzhkaEpvVFRXaU9faHNmZkZQUmhRNjNGZWEyZm1kelNzaHJjTF9xRnhYcktfaFBnSllPck9GY0pvb3l4WGU1NktHRHNwNWVBdEppcXMwa0FmTl94TnFWUDM5bkJSWlVHbDhlRzV1VlJrSjBCNkktQm8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/5/31/how-nigerias-algorithmic-apothecary-fuels-a-surge-in-risky-herbal-cures?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
