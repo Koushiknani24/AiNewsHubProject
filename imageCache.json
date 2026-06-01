@@ -19192,5 +19192,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/outgoing-chair-powell-delivers-defence-of-us-federal-reserves-independence": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQak9WVW1nRmlGLURWelRraVJnWjRjNjJxcFBGYmp1NVJmeldEWlB1VEpJT01YSm4yQ21kUlFRdFRrQVlmWFZmdjU4UmdDRm1xRjN3VVFZRUJGNEkyN2Y4bW1oODlYVk5BLUtVZzRsckVxWWF5Y05pMjQwUEY3VGc4V1dGeE42Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcTJsdjIwQ2I4SmRJekducV9LaVN1UkhacWFJZ3VKZ01MTVhpc2dNdlhhMUE3TU9UM2xLc2RIMTFtZEg1Z2E3aXBRZjVRLWJmQkExVGVtcVEtam5NckJjZFhJMldYTzNtM3FSczFYODhNaDJMM2lYbVJqWHc2Nm4xR0ZSYXp4RFUzcnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/6/1/before-the-land-sustained-us-who-benefits-from-guineas-bauxite-wealth?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/motoring/3264089/ev-journey-at-a-crossroads": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/mentality-shift-behind-rapid-rise-fonseca-says-after-reaching-french-open-quarters-6153166": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_qt_guest-jorge-restrepo_colombia-elections-310526?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
