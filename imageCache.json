@@ -20656,5 +20656,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/02/doj-fund-trump-todd-blanche.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/02/massive-drug-tunnel-uncovered-beneath-us-mexico-border": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/teachers-union-world-cup-statues-sit-in/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-fires-hellfire-missile-at-tanker-heading-toward-iran": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/6/2/trump-administration-is-scrapping-the-1-8bn-anti-weaponisation-fund?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxORGRYQk5LLWIyZzhicEFjYnBZVDcyOUZCUGZxUjZtZjJoVS1GMEwzY3FaazA2R3RrVVVlSER6WWVTcEU4VHV0YmdudmVwNmg3OWxORS01TlRZbWhJSVlfOXVsWVZaVEtoeFlqYmVDc0IwY243UEk5bmhwa2RfeUhxMGo1RkUzMk1LNUdnSW9iM2pFMW1sQ04xaWtGbWVZTGM4VUVxYnJIa3BnTXc1Y0Qwbi1jcWtTZ0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYUk2S2ozUHE5ODBvSGFxNWNxRkRST2lsNG9RZDNUWGZMREl0aWppcVJmQ1ZVVEpnUXR2ajhZRHp6bzZFNU9KeVY4Ymc2NjlXUUdSdkxoa2hzbXhhWlRlcGZseHR6aGlPUExUUHVXaUM1dzZvMjJ0cGt2aXZRTTRzMC1ZYUNwQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/02/iran-world-cup-squad-to-head-for-mexico-via-spain": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/first-storm-systems-2026-hurricane-season-form/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LSDdrM0FuME05TlRib0o0cXNMWEJBQUc0WWNtalg4VEY3Z29lT3BNeEtVbHBmaGJaWUNQYUZ1dnpETTNxa25rWnEtRmRRcDl2U0tyZW90cXQwZHJtWnJlZnU5OFJCYW81YnFjOTVueURlcmR4aHZmV1RwWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONGdvY21waTEtbjlLTFMtTGhPcDJfZTU2aFlOTk9Va1BwMk4tNHFPOTVZekhTbkFVMDhKb3JsT0thR1RJVU1CQ2J5QWNDeTZJY0cwcnVKeWx4a21rM2NNRko3and6NEFqa1J4RG10T1NzTEdtcHhQVjljMnlpUDVsTnQweDhmX2c4aDJOTHFOYjNreGQ2TGladGx4UWVUOHJfVDVhVURBM1dwMUMtTmtYYWFxVkdySGo1WFZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUjA3bHNZT1NUQ3BVanNWSVdKQnFyQzB0NDd6YkliWWxHMW1zQUtNdE1RMnhqQVZ1eFdyWFZpamZ6OVBtOFhrdXNldXRXbDhDdmtZUV9BcWxrSTcwMG5ORlVHSkkwUWhGUXNLV0htcXBwMUJtd3dueURseTlnRVFBZWN1NExtZ3d4VXJXellLSHFubXQ4VVlORl9ERHJiUHpfQm5DdUN5alpIeXhNX1ZyZ3hYMUt3QUFnUDRNSg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/2/russia-launches-massive-overnight-attack-on-ukraine?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxONGc2MDBFNjZVT3RON0VLNjFPaTdBZ05zNHM4eXhlXzVnUEp2STZQYTJ0MWU0VDlzQVljR0ZTaE5nREdnNnBVemtfREEtbFl0RGtIaFBYLWViUU1SNE1UZFBYcVktZXJXREFNYXFjR1VsU1RzTWtjWmYySVM1UGVTN19KMFhLei1iT0x1R21wVFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUVhGMkx3ZWJQajlTXzZOcy00RWxYXzZIU3RITW9RbWFvMUFQQkJIcUtJZ3VIUDgzXzlKTEw5VlVFV0VPSkJpZ2RESkduYjhKSzRraWtyZmcwcXJ6ZF9IYXc2cmVCckluOHdiSEduLWVBeFFPeVZTQU40WTFURGo1MFBTRlFPOFVGWmVmaVlhQi1xcnlhNkpoRTVWeXJfUDV1Z1hFU2VvTjVTUEVGTURZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/rise-of-ai-slop-and-pink-slime-journalism-in-australia-poses-risk-to-democracy-experts": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV1J3c0NpR1pjdTVDVl93NS1MX1ZWSWJ6NjBYcjNPbDhuZjNDc3RLUnN6Nm82Uk5aOEZGRWRRMlJ0T0o3RVlDc3lMMWJ0eU9aMS1oWnRJNnBETXZWcTRmRElFZFBOOGJrRXdjWlRoQ0Jvd3BobkpzVU81SDRpUVhVT3VJN2lMZkRYb3M2dHFjMlhIbnlwckxUZUxHMHpIdDJsZnFzenREOUFyYmkybzN4ak9iTVBNQdIBuwFBVV95cUxQVFdOUm5BQldabG1SaU5hMEVpTTUwTGswTW9jRGI0a1J6bjVzdUtkbWdjbFBKeV9KRXdMU25ORkpHLWgtaHJSa0ZpcHQ5NXFxQ3A2Zms0M09sWjNCczNGc0hUNzA5TjBNUTNfbDBHVFNzWWQ2b1d5dTJTTEY0blcyZFp4Z2VGYks1UmpDRXlrVUlaby1wX3A1S3F2SHdxMGVWODlGTmZCOWJLZWw3SXFMdW5fbG51R1VDQnJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQl9iQzRkYlI5emdpbGg3WUo2NTJZeHhEQm4xRFNubEY1VlFzek5JMk85UEo0VEhKS2JUbEJ1MVJlYU5iOFB3Xy1fNndCRXhiMzBnSHQ2UGdYUlZKaGdhNjVfVFhBWWFHSHJZWmJzWnZwcWV1bktqWXhQWUwyTGJHX3J3UmVUUzR3VjRDYnduNUJncTVEWFZ1ZEFVdUljXzdPWDBJZjB3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
