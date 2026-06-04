@@ -21886,5 +21886,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/trump-iran-war-attacks-kuwait-airport-israel-hezbollah-ceasefire/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/israel-lebanon-ceasefire-hezbollah-trump-netanyahu-iran/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/04/video-shows-moment-drone-hits-kuwait-airport-terminal": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/iran-war-even-a-peace-deal-won-t-fix-energy-crunch/a-77322623?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbWhqNEV6RHRQS3I3Mk5oc3NDRWF5SFBoSXZNcFBVbmdWOUFoSy1HaGpLWTdGMTV4SHc1LVlVZ094blVaZllPM2NRTmdzNFJOVUZ4UkZMSjk2dFVJaUowZFhhWHBZS0habmVpSkRjdDlRa3RaZ0pxaVVkN0xZdEpiQ2lkaW1FUmRVQy1JeS1xZDhMNi1GQWcxVGdnYkJ0Q2lKT2taa3N3ekVrTmRZT203N0NjWmNBZXlFWUtEcXo1SHhmeU0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/4/brunson-scores-30-as-knicks-upset-spurs-in-nba-finals-opener?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHM2UnpSS2FhU3htbF81NFRlU2VqMVZaRmVWNmlDZ0dTX2UzVGN3MG1XS0hfMG84MzhCT1RLNlhmWDl6c0RqNmoyY3hGQTZHTmZHTGxBVWYteXhES3JOYnEwUm9fMm1rOFl5VXE4M3JTRjJvRER2T0NrcE5lYVp0T1NaLWVFV00?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3265788/thailand-updates-power-bank-rules-for-air-travellers": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa3pHbmNzV25vNTRtVGpIbVYwanIyN0VBRUFQR2lpLW1XZDJZQjB5aUlIeS1uNTBFc0g2Mm1WZ2VPbjB5U2VWQlpQTV9qM2NVVkdZNW10ZHM2c2VrSmZiNDZHeHhaOUNwdkpldS05dS1vUnJ0amdvdF8zcVBzS3ZEb2FVcmhOYlVYZ0gxcGJCemc4SDd0S01MUFZGeDZaMzQtNFpvd3hESmlLTG9oWklvNVJOTkxmaDlYN0l6dHVIeXJZS2Zuc21B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/erin-brockovich-environmentalist-against-the-data-center-boom/a-77413743?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/politics-at-sam-and-annes/can-andy-burnham-build-his-way-to-victory/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdXBYOTVJUnMtdzRxWl9PMHk0WjRJTUJNeE55SjlsdmMyMmdpdWZxN1hSWjN6aGRjWXRfY0czakdPTVdYemdZdHRUVkFWUmsyemxRSExTWVJCWUJUSDlNNzAteTEzZ3V4R280WklVWnJxMDBOQkNjUm9CMHM5Q09objRqMnMzeGhUMGg2U01pVjBUSjZiR2Rrc2N0cVYzTjlFcGZVLUVsaVQ3SVBETk1PanNjeG5HbTZ6NmpWTHhpVXFYS25xc2h4ajdWZm9acTNGY1FUU1V3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVjlmT2xDWlNMcXBldERkbDNTcWg3Mlh2NXVYdHg5RHQ2c3Y0QVI1ZmhPMlo1dXZNYXR6NE9MZ0VWLWpQZGxQNVJtaGJvd093MFRUdGhjdjBaNlJfUnRidXgyZHZqNnR1dXlWaHJxUk9tLXlBcmw2djdWWklUOWJNU0M2VXVOZm9QRlJyMV9qdkFQRHl1aC16YzRaSENrZF82R1JxZ2ZOOGNQTW9OMlBjZEdn0gG6AUFVX3lxTE1fTENPZmFRQTdudjYyUW5zZTVuX2E3SGV2NW11Yy0yWG10bnVLUVFCMXBjSlVsY1BQNnRkWXpLV1J5UTFqZGRoTm1Wbk1CSUs3UlZWYnhaeDVQbDNyNkhRZEVoeFdYOWV6cjlPTkluME42N0xaSmRnQkVGUFcyLWRLMVNOaEFFeXg2MHBRb1h5eGFNM2xFQ0p3bmJGYk52OS1WblViX1F2bUJBNm02Tkg4VS12azl0cXRJdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606040102.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/4/sabalenka-mentally-off-track-as-french-open-exit-made-her-want-to-quit?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXZBVGtQRWNUQXJnZ1ZIRy1ESnlmMTR6MXZMeGotWEJEV0JwTnJmVXdHYUJZazB3cjhrU2FLN0gyMk0tUlNPZDVYYUpLMzhhTUZFam9aLWpNWjNManFDVzFVTGFudDBCQnJja0V4YXFLNldHRUtvYTZBdVR5eTlZaHFKb1dHSjBHSXNMRHpZR3JGY21Kb1NONEJ3ckoxR3N4d3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
