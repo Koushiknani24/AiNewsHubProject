@@ -22156,5 +22156,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606040502.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/06/04/global-steel-crisis-deepens-as-oversupply-reaches-alarming-levels-oecd-warns": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa09XdF9XZHJyUjJMUjRZS21BMlhmUVVnd1hBQlUzOVU0MFlTeWlDSTMwVHNzT3hXdG8ycXRxNkZMVzRpTTh3dVYxZGhFTXJQbm83Tk15em9GUGJpb0tycGltY2ZidDFySVN6QVUxWDVYOXRRVnlxY19md1IyZUNlS2oweUlCdEtWX3o2ZzhhTFl3X2pLV09JV1pUdm9ScVNYZE9FTzIzNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/chain-snatchers-strike-again-in-bengaluru-three-women-targeted-across-city/article71060526.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/sponsored-content/turbulent-skies-the-stealth-erosion-of-ec261/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/germans-at-russia-s-spief-who-s-really-there/a-77416709?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/cyprus-re-elects-parliamentary-speaker": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/officers-raid-private-finance-company-in-belagavi/article71061208.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa1F4LXU1Uk5qS3hCbmw5RjNReGMtVW5FNEJ5NHVMNk1FMDBta0RLcWFJNkNwcV9nQmExSnJGWUpJbGp0bGxCdjJacW04NlhNdy1KeHFkek5LREtYanhpUlJKV05CQzRtNm1TeGh3ek00SC1kOE1OSi1RX3hubmh5UDlTbjZTdURyUW1EaWhac2I2ZUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVZvb3BQT3VtZWZzd3NiUU5GRWtKcDhSTmtrR2pfQ3l4RWxmajZwVU50cGs2OWdWUHhGcjhUX3RSSjFwZmdoR0dCN2dtVXV2a3A3LVo0M1NGLVFfYUQ4cTZidFVxRzdkSzR0S0xCclMwYWlqQUdHUGRPY1ZWMUJpV1RjLWlRQXBrVnNtT3ZYTHNxNmpvczJWQVl0SnZ1NzhudkREenpJbHE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-reviews/masters-of-the-universe-review-1235570518/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/tiananmen-dissident-lambasts-china-on-massacre-anniversary/a-77420338?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSWJYMnBiYmhsbWhlZTdRcWpqcDQ1VFE5ejcwRTFpVDlvSldKWTRpZjBBUHBKVHhKSG9CalFJZmdNN0FBOFhtcDdTQm9RM0pqSFFiQXF5bDNHRnlFV0pEMU44RHY0b005NGUxZVZIVVc5dWVUTFNQLVZSUXN0VHgxaVlMcDBFQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3265870/new-us-tariff-could-threaten-thai-exports": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0hfSnhJcGN1aDJzX1RCM2w0NGZiM3dMMnctVnNTa2YtN2JZMElXd2ZCbXk0R3dvdEhqSm5TUm1wdHk3NVNIVWRTeXNDWVFSN1hTbkZ1ZFNNd3ZtcEhLLVR6bEZnZUZ3TWVyNVZNLTVQR0lVMVZ5NlZ3NjdCY1JQVXZqRXBpZ2FpeG5nVEx0V1ppZVJYekEyOC1SdV8zYXNVRGVfbGZUd9IBrAFBVV95cUxQOU85TTdKWWF0VWxnOWN2TnVDR1JPRjZOaG5PNFBSOGZhYjZJcl9DSHVmR3RRUkZheWo1SWpSTVZNYUw4UVAxXzRRYkVBVjlEYmNqOHhGVFNZdVo4b1NQM1d2WTVDVTJlN0lKcE5abllJSkRXeVdPTXJ6OWhEMFpSVEI2Ny0tcUVFT1JhMHRkYVVRRUdTWURYOFVPTEh3RXoxdUlYdl9LUld1SElC?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmxLVDhfNktPNW9BSEw0eGh5ZkdkcXdxVjU3QTlFb0VlTGNvM2c1RWJQbVVxQU1KWmN3X196ZWE5b1hBNHFkdTh4YmZ0VXljOUpNRHIyNDVzWEY5aEJJNHJ1dzNTTnEyZjFpVEVWTGVJWHVOZVItR1AtRDFZeFhDdHZEeEVLZE5tQUN6TkhTeG8xc2h4eEZZS0xwSXBvUlJIQjBMbUZidGpHRUJNQ28yMNIBxgFBVV95cUxQQ0NTMWpCVUVIYlQ5c3U0V0FGQkFXc0FXeVJvd3NiWHl3dmJUZjhpNTZDMTI1R0daVlJyV3lqR0NEUzVydjNrX0otY29WWklJUXpkeHk4dEdrb2VvUWl6T3JTSExXOVhKUlJQVk1uRTRzWHFiLVlvVFNsTnp5LV9fYU1qRThSRFRvREdZcVhIMHhCekluRU90TmQyNVJEcV92NXJwRWQ5ejNMOWpSelhmcXBsWTMycXRpUFhkWlpCZDBmcldVemc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WYlQ0eUFqamtFOTkzN0xCX3dGS0NfeFRYalU1dzNqM21CS2NFUW5JdDNKOG55WHRPY2FhSzM1bm14YW8yZFpMUVpMbGd4VktUeVlEQW1kS0txUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/4/shark-predicts-winning-start-for-brazil-at-fifa-world-cup?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTEYwa3pmdHAzYmY3d3J2bmlTNGV1a2JGakZ3RGpkZzFKUHZ6NWZKdGFvSjN0NTNydTMxajBodGVlYkVPMV8zVGowMGJGUXpjeXpCazYtQU9VUkttbU1EUWt0Z2tKZlZGZ21GYlpEUVNZZEJkWjRfd2lmcjFtZGJMeGhwZTNwUEpsamVlc2U2dXVMdEx4UzlyUHBnRXpxT0NzanhyQ2NrWXFsNXlHaEhPd3FR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUXM5UjVxa1V1UHltQUpMUHV1aVl6Nk40QnU2Qk14ZV9qaUdUMUlUQi12U1ItYkNvd2x6d3FMVUx5RThPV3pnMFB0QkhMTVRLcXNvbmp0TmllN1hWMkdJaWliTlBCVFJfXzVNcEhKVGZFc0pod0FkSW96U3RlMWs0SW10Wng0T1FPMWlNQml0Tk1iTm1kbVMzTUwtMUFFSVZGNFhqZ1pDT0k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQlhpNnpDMzl2ZWlyejQyMTFEWk1uWlotN0M1MnZIYVl5S1ZGRnNrNVVMbkxIUWo4WHdxRGV3WndrbTF1Q3MtNmZlYkxVcHlTQm41cUNuVE0yYkMzT0VISnFlM2VqU21LYVBObDlTQ1JONTh5NUJ2YWtpY215d1Bfcll2cG9TNGVyeDJrcEhOS2VKTkFSWWhjODhESjVZam1HQjkwSm5Gam7SAa4BQVVfeXFMTmt1dmVMNkpweGM5ODNmTEZTZEZsMTVyVnNCTmJnci1mMVQ0ZGFnRlEzWGlxdGFYUmdvaVRORGh6UTZtYUNIYWtlaFRDZmdSejNLbzdZOWdOeWpkT0ZZV2ttZ2FpTHFiRTRqSGFqX1BraU4wTUJUeVpvOFh6dG9XNzRWX01pcFpFbjNKV21XRWFXeGNia09FRjE5N1lSU1FyaV92RW9renM0YkNvTWVB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/4/why-is-a-us-ebola-facility-in-kenya-sparking-protests?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbF9NMXpTVFRhNFQ3a2lkLUFiUFNsckoyR24wWkZaR29Rc25OeXRFc2tJWHBpOGRBX3dfRFpDdVQ5U204d2VhWGx4X2ZXU09md1VMRGtxTDh4d0NBbjU0b1pMamhrNVoxQVpXQUdzc1hLdk5sZG9vblZCSDFiejg4VnB2VVc2bTA5R01TV1ZPaTliM2FEYzk2ejV3a0NRRG5OeWMwX0FkTjZsOEFWcnJFQl9GcEJyOERSZDJyNmlOX280RzJlRnpFTVFta0h4N001WUJLcGdzRzFYdWpvQTVscVlFbjZEejU0U1FjX3NtUXpoam1yNEZDcHc4ZnpZZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/04/clash-at-protest-against-kushner-linked-albania-resort-project": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
