@@ -22726,5 +22726,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/05/asia-markets-today-nikkei-225-kospi-hang-seng-index-csi-300-nifty50.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/britain-and-france-finalise-post-war-hormuz-mine-clearing-mission": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/spacex-blocked-early-us-benchmark-index-entry-sp-reaffirms-existing-rules-6163526": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/gas-tank-explosion-puebla-fireball-isky-school-evacuations/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFBSRUtabmVWYkk5eS16dTFfS3lRTjZTcDAyVzN1YUx0WjVId0hsMEh1d3NmZ3NOc2JFWUxtZEk4ZS1CNWo4dEtCUTlEa1lhZGJnZGVreHA1elY5c0lXd3dUcXRDWG5kQjgtd0RGaHFXRVo3Um4xU2FrV0QySlhTU09MOW40aWx6OHFUNVFLTVVlX1hKVHZZOUlDOUU0ZW52dkJTVGhKSEs1UHBBYjZqdm0zMzRvaFVETXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/06/04/nx-s1-5846966/george-santos-kalshi-threats": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMWR1X0hjenhCS2k0T0otbmgxWkY5NjlWT2pWLWN3dE13SEdLZFpyck9IWlJBUGZweFFHVkx2OWlTc0gyTWE3RVFROTVfZUFONmpMNkoxYlFkbjJya3NzcmNuejRhVnBCMDVuYzNvWnFZVkx0eFhnaUplcjV6Tlh0R2ZUTGE0eXR3UUdNRXhHak9vcHVfMW81NnRDeUdXNUxqeVZZUjFfVHRrZjdGamZZYzlmLWhvWXdEZXk0bXI1VG5mUGliNm9MY3VLbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/4/democrat-fails-to-block-us-measure-to-deepen-israel-military-cooperation?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3265923/thaksin-to-play-no-role-in-pheu-thai": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/andy-burnham-on-question-time-5-takeaways-from-the-uk-leadership-hopefuls-tv-moment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/4/ivory-coast-beat-france-in-world-cup-warning-to-one-of-the-favourites?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/progress-in-us-iran-talks-stalls-sfter-hezbollah-rejects-truce": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTZmbFc5VHNOOHdXZTEtcjNRZlNfenNLNUw2Y2w0QTRlWkhhU2lZMTRaS2hNakJoSjRoN1hDTVNZMlIxcU9PLTlSQVdvZWVfOUluTzVBa2U5bHhuNDRBQ1NpZ24yWS10WEhpN3NIdnd4aUFtR2JSNHRkT3lvUUIwNUxqZTEtalVaeEdUaENMblVxZUNyZWhIMVJWTVhUVjgtbkZqMFlFVjJkc2FkRGNjOVlBbEFlUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
