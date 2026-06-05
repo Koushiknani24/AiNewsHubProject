@@ -23434,5 +23434,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/vladimir-putin-to-volodymyr-zelenskyy-letter-no-peace-talks-dont-call-me-old/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/gallery/scary-movie-cape-fear-red-carpet-events-1236610071/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaW4ydlRjMTVTR3FQYmwzLVktU0JEVlB5aUZVa2h3a19yeGVoOHRtMU8yTndfcnlWbGhBWk5YcEJEcW1Ld2JSdmZTODBjSHE4S0xidGdrdGQtUjJXMTBNN3pCTU9FQUNab25UbDJSWmNlaWJiWlNXa2ZLT0ttSTNnM09Xb2VJNVNNbV9YSExuOUpERUVlR2dUUGNDM1Bldnl3LS15WnUxc2lscFBVTlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/05/azerbaijan-denies-claims-of-israel-using-its-soil-in-operations-against-iran": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzhWWG9jbW5kRjlMMkdYZTgxdHkwV0dZRWxOdUh4WHdIalhJY3JwR0RuUzBzdkhBVTY1ZlFZdWxBX0FvcGdvbWoyUUoxRk1HQW9UVkVDa0I1LWVkeXlKcFdjNzJGMWhwT1N5RU9jcDE2ODNULXdRczhCc2NwR1JWY0NLWTVJdE9TWmRkclJqYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/heavy-rainfall-holiday-declared-for-educational-institutions-in-kozhikode/article71065994.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jamhHUC0waExnMXNpVl9fb2xRb29YWEtodllLMXd6dzd2VmRFbVJGOWFfWVNaanBsWUo1bW1paGM5LW1vVWVJZEhoQTdHdm9pRXRkLU9GZDlWR3NPRWtXbFYyZEdhYWM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVEo1RlBRNEg1ZkxFRGhxZ21RYUZFZDBTejBpRl8tSkhvMFpGV2gwNFJCSGI1b19DMnNvRmFPMm1jMDEyZkJRZ1plckZaZDM5OVI5R1FOaGpfQjZxNUdCdDNNWDE3X2ZhdmJ1Q21mVVRzd1BwTHc5OUdzdUk5ODQ3Sm94TWF6WERTekRDVmhMcWtaLTdaWXYxRGRBVTFHcnVBbGVPYV9nQndXRkwtTHBmQ2JRWUhldFp4aXN5Nm9EREQ3VHV4RExlTEFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNFpVUlkzMVJieVFSVFZyZXpQRkZkc1BZX2JpclR2SWdDc0xlemI0dk1UVl8waEtyTDd0YV9sNkVyVEtUSXZIQ1o2R1RjVTc4dFM2M2VRLXdpUUx0VzlRMXQ0ZGhyLTFoZFFiX1hXcWpyN3c4eEl3bk5RUElwODBxOHNESnpUSGRpUWFYX21nb0RPZFFaV2Q5QzJJMVVodUpQWTdtUUIxU3UtdjBnNTVrSnlOWkJiYjQ3cGxzVXhkY1lzTHFiSEdWTEVxS2xSbHdpSFd6dE5NRTZDUGpMV2wyUEpRNjk4TnPSAfsBQVVfeXFMTXEwaF9YZVl6dVBhMTA4THQyME84N01UMW1zN0lwYUNnbjY3UGlsZmRqb25NV0ZJdGFRR2dIRDFjOHAtU0p6UXpHT2NfY2tNNVR6d2lXS1U4ZGlUZFFHdHM2N1JjcUtUQ1NiN05pN0w5UGM4ZU41S1NlTDlkSTAxMkg5TW0wVW5pNW84VmlDSldLWGNrSlBxd1RKQ3dPbXMtWTFZVHhHSmF2eE9LejhZcEItWENXVzI5eHhQNHNUU1Q4NERENkIyZndWLXRTN3JBaHR0OTVTUkNrZFVJRG9wT0QtM2txS0xmLXdvN3FqWWM5bE1tWk5LSXBPS3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdDBOSjQxNXQ3U0JCS3NPdkpWeGFqZFp3aVpjMFZibmpRTjBCSnQxbm92aDFtcVdmQmF6MnBiU2F0MC1RLTg1QTB0WHlUWWRJX0xqYi1TQlRObDQ1eUszcEZmRmpLZFU3bW1mbEo3ejlPZFppTkk0NHl1WGJLaThzTS1YLUxzSV91VkpzaGM0X2pLUms?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/how-disinformation-in-congo-is-worsening-ebola-epidemic/a-77434273?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZDcxRGlkMlhCU3BEd3B3R3ZjcnFfVV9NNFA5TzNXQWVlbzZCdVl1aTVTU0J2WktpbUgyTDV1SE9VclJqSklldVlTdkNDU2lyME1YbDFGeGtRWDc2dS1UZUZaSmtWdEdnVFhoSEY1RWMtX0NMM0RxRUQybmxBQjFYWVZYOHVlNElqclYyN0FMOTJEQU55dElPdzdyMm1rLXNCWFV3VDg4elI4ejBJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzNZN25aQTByN1hjY0RWOFFoX01wRWVpQ1JIa1lOZjI5TC0ybjJ3SmNiLXNtNzJMdmU0RGlfUXQ2VE1ITUhGSFdjVmhJb3N1WFN3emc0aEctblRVWGpsWUtNcHowU09UOG42QXh0dGxBTWt6cmswVEliWTlfd1ZTcENvS2NvMjdXWC1sNUNMTE9MN0EweC1NRTVsckkzWU11bUNqRjU4UTRxTUla0gGyAUFVX3lxTE0tS195WE1WWFRjb1lnSmFpY1k3MXlLTWZXOFVtU210TFFjdjN6dldmZkNsbldBRE4tOEVxR0NXemx1ZlhTZlFmT0FNNFR3dWwyRHFxQjlacnZmdkI1UmFGWlFqaFY2NFp6SkxUWWRwdVpGMzJQSHdUMWpKWDNtV3NacHhCZzNkUE8xbDNtZTNCRzNqUkRxcEYyWnJKalFNTlpiaURfZ01tTFdNWE45UDVobWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XN2JUMVZkdkl2N0V6RnhDM0lRRTd6aFk2bTVrQ01ES0tCanhtTktDZWhRa3lzNEVtc3JIUDFEcjZ1NHpGLWpOSGJqQnZhM3Rzd0dXMHM0MkNlNzltVVpjZlBDR1hjUGVpUzJIREFMVko?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/one-in-five-unreserved-train-tickets-booked-viarailoneapp-in-thiruvananthapuram/article71061909.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMdXplMU5seDFnSEtEcGJoaldHOGpzRzU1WmhueGhJRmRRNlFITXZtMm1CSFAtekVBRUdjRVhHdkdOeExfZGJwRFJCekxsTGxfcUk3SDRYZW12c0hzalFOMDdHdHNTcGgzUWI1T19aRnNNek4zLWlYVFBR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/5/russias-putin-says-no-point-meeting-ukraines-zelenskyy-for-now?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iN3BCRFhEaTFvTkhiMnJrMFh6VW1FNkh3X3U1dnFTQ2w5QkVOX0pLNlNTZkl2a1I2ZjhGVUlaMzhGbFAzU0pSYkRMWURPZmhoM0xWdDVnalU1R1huYjVlcnJLWHl6Z0Z3WlRGQnBwT2ZjdU41V1VLMDBB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606050540.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-membership-lite-plan-candidate-countries/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
