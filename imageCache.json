@@ -23056,5 +23056,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/05/no-tech-no-problem-dow-makes-record-and-traders-think-these-stocks-can-lead-now.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/us-ambassador-donald-trump-never-threatened-invade-greenland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdmtzOGN6M1RGQ0RabUZkVkRUNHUzU0M1TUxMMDc5OWYxNzFYX3NKeXRfNTZCZHB5MUhvbjM5bm1qeXplcVJzcEpQX3dFZjN3bDlyR1BRQWE4b0cxWkRmTTRCSkNwTUJHcFVEY1hoWE9meEdUOEVwbzlIT0hWZHE1N2I0LWYtVWctOVpqVHlDSUV4YXFXcDFpUUtFWEMxMDJjM3o2b3IwQnZOd1pJZ3ZvRGtrZzVtSU50NHU5RXVwb2YxVWZjTUVBMEpLSnBfSDVJTDFSaWd2a9IB3AFBVV95cUxNOUpZZ0RCcS1PV1Y3SWZiV0NGUWluMFdYV19NWjc4ZHFSdnhPeW10Qi1vUjJwUFJldGt6QXg4MnBOWE9DTUQzUl9FaE1pZDh2UW9FTHppSG5oUk8zXzhpM0tuTzk3ejE3ZGpOeEpfSnc5MHpQXzhqQUtoZWx1RXZBOTc4OGJSc1psWm1pQ0xidlhWT3NJZDlObkxaOGROblF3WDRVYVpETFFSdzBiSzBqSFVLeUNFa0duZk9wQVBBdlNTc1J2bENYanNTUTREb0ZmWGN2M2x6Q0d1Qm1t?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcURlcHp2TU5ubWtEUktYVXNqZ0g1dlBFQlp3RE9YREE2OWVlbXloR3pzLU4waE5jMW55M0paOEFLUnp4MUJyN3pTWUxvZ0x2MFBZa18yY0JPTHR1aF9pdDByd1BUX0dmSDdfLVpWamtxY1R0WndJT0U3aGx6N2F0SWdpcnJwTmx0eUt3MmJPTkJJMU1kNkk3WTdwc1J5MDdoU0ZHSV9R0gGrAUFVX3lxTE16ZUYzbzVoS2xCblNOdVhYZFZXN2xXQzBSM3EtUlR4YTA4YlB3eVhBUlkxZXJqRFJVTVVUUkdQUlNUNUx2U3o3WkU4X2hEalUwYW9tUFRnT2YwWDY4WnB2SHZjdnJRR2xSa2FCd3BqaVZJT1UyMEM4WEM0YmNEUEZqY1hlaHoycjIyZE4xYjFRNUdjVm1RT1cyRGN0ZjRmdE5RTW5YQlpwQURyTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/5/us-iran-war-pushing-millions-into-food-crisis-warns-un?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYnVTQVlVUUdVSm5mRlhLSjlxT2plWDNibU5wSGRRdDFfMGgzc0k4cXRGd1lfVFlweF9ndWpsdEZxTmVHWDl4QTVJUVAzU0RCbFZVQ3FQUWFKSU1tekt6SFhnZjRwZkpzN25wVlFPY05tY2wzLWc0VG10VENPYWpRaG1vOE1oRTEyYTl2cldaTmtwZFdO?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWmZmRmg4X3doVjlmb203OFdCLUg5Nmw2Z0ExMWttdmxOMnh3OE5qNUU2R0VEMm9tZFRtM0xOZXF6Q1FNRkt5X25ZNGQtVlV1VXFqWlhCa1RBU2Jra2hCQlgtT0ZXYk1FcUlLbUZGSmNZNi13RFBlRW41dm5QOVlqNjV6VU1yR1JG?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rSHRrUU12QXJUWlpyRDk0cTBBMXEtQUlPbzktaTk5VUpOSDBpLWxfTTJMSUJBSTZhRUJDeE5CekVjcnJRa1ROcnd4SWdoa3VSR1FrZG50S2VscUM3MlJuQXpjdDZWWnkweWsxanhR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb29zNDJLblljSElMaFdQVURUdlpUZjVmS016bDZheDREMzcyVElqNWszNWY3R201ZUhON2tOVHpoSmhBWktOdXlOd05GVk5STkxyTkwwTFhSTzB5NkExZnF4ZkFOWFNjNDZHR3ZRTFp2VmlGRmJabWxxU0piVEFwcXZ3SGQxek1DRWow0gGLAUFVX3lxTE5UdWUxY3ZXbmtRcGFoSUZsbTdURG5rTG13WVh6MVk5eGFjQ0JTLVBsYlhaT0FZREI2dERsSGJMcUJKb3B2S2N5TFdkV2ZNZ0tSdkFQSC1XSzEzelhGenhhTXNibXEtdkVBWW1JNlVOQmhyWkF0TFF6Yi0wSmZEcnZURExrOHloblUxbEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CaGFZYm0xV3hrdkJROE94NDRuWTlNRFRzUUxuZnZjWTVoaVNSZlhVMXpXUGZxeGtpaWpqZkpqSllLUDN1NVoxVU1lWE5wZFpORjNNWUpJMFpyQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVHJvSXdqNnNqUjA0MnA0bHUydE9ETFFacnY1VG54LVlDX212RE11OHJ0bUFuRGxnSjlXUXFvZVBIeWJsOVd4ZklUT0dLd1U1M2xvc3ZiRVdKRERwMDFmblE2TmczZjcxbU9Gb0wzcmJwX3VxRUlET0ZGZHZ3eTdVcEd6ZzBocXhYeFh5TUtSYWpBZE1mMTc0dG5MWDF5X0hsUFJzOEQydWRydw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYU1BYlFqQkFoSV9nMnpDb0tHTHR0TXFGU0xPbVpwMHBaYk1IeGk5TDRIczVMeFhCcGFMUWdxTVhtMmI3VGZPOEs2Nms3eFduNHBrdGRfR1J6RWVoU2hqcVNjMENTUE56VGZYV0R0MTFYVlMxRTU0ZDJjOU13b0M0Y1hydGlDT1ZfM0xraDhBaEJwSTZYbFNpcDVFQnZuYklVTnNMa3hZdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogJBVV95cUxNT0lta1hwSWZFRWNrTDdIMzQ2QjFXdEZrTU15UFlfc0hid18yTzNBWldXN2poN3VMUUFpU3dKTXZxb2N0Y0lvTjJFdWppb3BpQjhUSXZxaUdQMHR0Tl9ESE9rd3MxZEp0RXlBR2pMXzlZQ19CT0g5NTJEcVJqWERhT09tOXlPcHJocUlYX3poOE1mRmVXcGNRdE41Y05OUFJxUUIxcmI2d3JLMVFMTnJpY0xKd1I4eWZDRzQtS0QycE9QMEFYeFJ0YVpLZ3dwODBUX3l5NDRVa1VsM0JUNXpJVzUtX2N3ZnV6WnltakxwcUtZQW9BSFdVb3NNOXp4R09oUGVpSGJzdTE2UzRtTTZ6el90YTd6N3pHSjdtWHpGX0RFZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/chwalinskas-childhood-dream-and-discipline-drive-fairytale-french-open-run-6164601": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/5/ranking-the-2026-world-cup-groups-which-teams-are-favourites-to-progress?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/05/smart-pipelines-can-ai-protect-the-worlds-energy-lifelines": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
