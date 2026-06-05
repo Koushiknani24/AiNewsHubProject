@@ -23314,5 +23314,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/tech/anker-soundcore-liberty-5-pro-earbuds-review-1235572685/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-features/the-red-clay-strays-faith-god-politics-interview-1235573001/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelpYcVVHTWdLNlpoUl9TU3BhbTNWOG1NTUdOdENMa1ROVy0tbW5mREZvYktOSnNMbk5BSy14UzJsUlo2Yk1nc2RmUjliV0VYZ2pPQUxFclRoQ2lNaGFZa2pSSjZoUDAwSlpuUFNqbHBvd1RfWF9tQ0FqM3RwaVJPalA0bXlTMXV2Z25HclRB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/us-official-tells-putin-good-hello-from-your-friend-president-trump": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/if-it-wasnt-jared-they-wouldnt-give-a-shit-albania-pm-defends-kushner-resort-against-protestors-edi-rama/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/waiting-on-the-rain-in-banderas-bay/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/over-3-lakh-students-register-for-tamil-nadu-engineering-admissions-as-deadline-approaches/article71066367.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelJMTjAxUFhxdHBqeU9KN3lhbkFhM182azlzVHpGTDZXaGkyaDFNT0Vzc2ZBT1BJTnpiTm9XalZjOVhaWGN6YjJjXzBBZ2lrQW52bFhZZmw4OHFSYWVRcUpwenVEckFlSkY5NGx1bFM2dDVuUUlPQ1M1UTgtX094dlhHOUs1bVU3NlFBRmFuLThRN0dtUE9yWg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/drc-how-disinformation-worsens-ebola-epidemic/a-77434273?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNanJndjg4bng1LUR4TWNpeE1ZdVJ4UTNnRVhLMGJKNzFyTlhpWHdDQ2tPeDJmdUxpQ19icDYzYlJqbjBQWE5CSFlzR1dtQkpDTV9RQVFlczBmc2xuVEdZMDJrQjhlbmllM3RsVjI0U0JzdjZJdGJEcTh0dGxXLXd5NHJjTS1CeDhrQW11cnhhalpVdzhORUQ1R3RoN1BlOFRuMDBiMExCVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWxXQ3AwU2t4YUlFRndZMWpEdGFxS25qZllnMWVlQnJvYTJvT1p2aktlY2JXSW01OXBLQ3dsN25kVHJicXhDeFZhR0RoR20yR2tYSUg3ejN5V0xZcVVabW5URTBoaURDN3BLRXhGRmRpUGFhcXVGaWU5TG5rdmlCcjg3WjFIVVRhejdkdGlOQlhqNGgzTnYtdGJQN2FKWm1wQnZkNVEyOENMX0V0MFdYSzR3dGVldlB0ZUJqamhqTdIBxAFBVV95cUxOQzA0d1NUdlkyRDlMTnBNVTZBTnpCTEkxbG9DSGVFSDEtOUJIN2lvN0lJSnM5ZW4xd1NVQ2lhUWFBQXh6cVkwaFpJOFQ4by1SMWZKblFRc3h1WUpfQjhoYWdPMi0ydnZORGd3bUNoTjZBR3pHRGU5WlQ2S2ZZWHZmNlN0MmJCdEVYNXB1ZFdyXzJiVklWZGhTUXFnMnZBbG5fX2hWOFdiekdJLUVqdlVvSUJJSm10VEFBaERkTlBDUWlLRS1Q?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FRWtMUjlOamJrOGtmbm0xbjBEYXhJTmZLZm1VZFMzVEw1VWxKWmJqYXBueXkxeHhUaVdnMUdhWXNBVjJBNjFCc0s1cGpvNnprRlhmb2NhVXBPdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/5/zverev-cruises-past-mensik-to-reach-second-french-open-final?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/life/tech/3266494/anthropic-calls-for-pause-in-ai-development": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYUdSZWswS3VycWVDWjlHaGlSb1JWTFBLcG1GTDZsNk4taG1YbFV6X1dCSlQ4SFF1emgyNzg0cHJscHFQeUhpcmdBSWVEejQ0V1BTSUdUNFk3SmxYanR6clZhMm0yR1NYdXdXZUFnSXFQQ1lDUHJFRkt1aWJGWnQzSGFtZWxIamNNbWw2Rkk4QUh2NGJaYVFsNUZHd0ljdk1uZ3NXMTZ3dHVDTnlvN21GYlk0X1lDMFZaUWg2NWtocFZHNHhLd2VCREd1SE40Nm8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zQ1VYT1BKQVFuNjJsb2hjWnU1TWthODh3TTFCTW1CMTZGWUxDbGN6eDI0am94QS1CVURkbGQ4MXpFUTI5eFpDMUdEWjhXNFNQQmQzTU9fRnFDVE0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb1hrbXo1aUNPeTIyT1pTSVJmNlBnWDZDNFJ6dHBVM0p0bVRnMjRHX0JLZmtsM05xVWIyY1pLNGFBNHR6ZE9MRjRaQWZHQml2Ql9DVEtrMS1Rd2k1dVY3dkJsVVBtVncyRk01ZEFycjAtTHBrd1VjVTR4eHdMV1VoZXV0al82TEdGbXBDOEt2V0N3V3g4enhnNVJEVl9IQnAzU3FDb2JDaERuQ0NOX0J1d1lR0gG3AUFVX3lxTE9KZ2ZIQ2F2YnlDUXFHaXQ1dU0zbHEweU5PRFJqZmtuWTBKWFEyVU5GLWprVlVaZGtJTms1N0hVMzNyNlgyNERuYXVfdGpORURmZFBQNTRtdXpsZTBwdUpGZklwbkVSeGZwa1dBeUVMQ003cVZORk5waGhERDBpRkctOTJxbWpOblhMWUxfMURFOVp6YXE0WFl0Smk1U29MU2xBVzNNSFRvOTZWVmJFUjZ3QmVPWFNmTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3266479/53-huai-khwang-businesses-probed": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWxhTXE4RVFMNzZSeHRMdVdCRkIzeHktVTdfazU4ZVAxVkU4eUJJZlpOdUxTYVhuVUphemMtNFIxYmJXcFRYTTl2V3UyeTAwS0VoY3dPRmN5aDRLUzVtU2pNZ1UycTd1RFpSOHNmZk9OOEZXWXoxdWRtd3JEVnJWTUxFMUx6VWpORGt5V3lzMHRTc0NZaFdzSUJGaVFxd0pWXzlYUG0tdUs1QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
