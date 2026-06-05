@@ -23566,5 +23566,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/jennifer-lopez-subway-takes-native-new-yorkers-claim-city-1236614878/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-us-war-israel-hezbollah-fighting-ceasefire-efforts/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/06/05/nx-s1-5847926/platner-controversy-senate-maine-primary-election": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/music-news/taylor-swift-i-knew-it-i-knew-you-music-video-1236614826/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/large-tourism-developments-mahahual-june-5-mananera/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPamF2NU1zUzBoaG1vOFhMVUNwckV0MmxLY0hFdW1kN1JHcnN1Q0p1UTlfaHB3eGsyTUpoSUxJb0RFNEFJSVlaUW5GMmZHRXBvbkROMDJBOEh1c0dEazlaZkhIRzBDTXRZVHJYRW1CbzFHLURNcmd1ZDJTS2VKMUlnd0VlX3RhbnNoMGxpdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/5/france-opens-war-crimes-probe-into-israels-treatment-of-gaza-activists?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOQUpwV2l0Q3B5TWVlS29waXcwRFVoMWdIMFlBQlZQSDlJNXVTM3FyYlc1QUUzWG1iaWhZVkt4VU1ZVzN0QmktV3BjV1pVYV84T1VhVnhIZjdJQXdaZG8tMl9JdkhKOW8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0ZHRmwzdEF5WC1FMUs4RzRMNWJEY3JPWElwaDFaSE1kZUV3RG92WHNKM0NMRk1sSjNJWUVtRURRNUhxT0lnRlRUcDdTcDJhXzkyeXViRDM4dFBrOXdJNXFxaEkwekN2YVZIZDhXWWtka011QVFFVWtnbGQ1blB6YWFRTllYLThJeU44aEM4dTBzUzRyRFp5aFB6b01wTGJnSkFKcmVBSXFkNVpza0wwV1BtWXBJUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZWEZNcnNfUGlWMkpfbEtjdmNlblZ3RjBCVHJza19hbjNicnlFNWllZEJHbUJsNndTbG93d29QcnUxZThYdGgwdEtuWjhBc2N0WC1QeU5vU3FrSmhNcDJ4M0lKb2twOXBtbzM3Vk5BeDFtamlYdkpQNEZtMXNLUdIBgwFBVV95cUxOVk9rbmpPdHZucWlNbjJwSnlyeGgyV2gwZkZnaGM1WXM2NEFIUTVfM25KUzQtTE5nT2hiTERDNHhXcW5WNzljSW5WM1hOa2NGQk5VSXVtOUlkdnA2ZDZFc05fSm1HRGVDdld5NTk5MEZFSkFXdHFaenNDMGtabzhDZnYzSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/lifestyle/arts/susannah-flood-liberation-tony-awards-journey-1236609831/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/guinea-presidents-coalition-wins-legislative-majority-results-show": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/north-central-pacific-coast/waiting-on-the-rain-in-banderas-bay/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbDN1bDJPZ3hjYnhoZHlsdEhTbGtNVVFTaTFrYWZBSXJCejd3VFBibGNaQ05oU2FKcWZ0VjgwSk9rc0dzajc4N0dpcVBfVkpvM2ozWkNSM1VxZERCMy12NFlFT0FJenhPUTlsQ21nc0g3T0kzUF9lVm1NZUEtSmVQXzBCZkFvQmh4Y1V1TFlJc3BreU1SZW4yRDZISWt2UlpiQjg2YTBGd3A1UWQ2OVhVWmNLLThuZnNXMWNkYmFxYzU5R3QwWDFtOUhabS0zZ1FPTkNfQUxXb2o?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeFF4aDlCSjMwOXNueURoNTVCUzBxOVV0dUZmWl9TUk9OMFdCZVRoQVo0M01TenFETkFZWDZ4cTU0S1BWYmFIX1ZQZTlHWEllN2p2azNyRG5ZU0htNEdHd0VLRVdMaUwxUHNSVVBSWnE2SUY3YTEySEhNZERoWUZMUjlKS21yajVWb29ZRVlFOWtJZFZnVnpUNm1CTFBxWFAySVBEVURYTmhHeE0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
