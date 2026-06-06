@@ -23884,5 +23884,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/anthony-head-dead-buffy-the-vampire-slayer-cast-tributes-1236614926/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/screwworm-us-border-coahuila-texas/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1o1RDBJVGVQai1scDRmSmlnaWxVZlZBaDZyZUswRHNMY0c1N25BM053RXdmWGV5aGJkalg3V0lpUnpVOEFpUWY5YTBCY0syV1dmejdaUVlJVXZkc0tNVTQ2RmlTVWlEUVlDYkZEYl9yQVZ1QWtLVzZYNl9RRTBzaENsNlBVMWJCYjJLd0ZtdGlpUTljLVBhV0JlVDFJRWJwdm9YQjhIZ3BqdHdua2Z6TFMzS0xXbHhuZTFuNC0yWDhHaUlWSFo2MQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmNrWDRkbU4tak8wX002c0o3MmhHYnlteU9lT1NmS2EwSFVvZGswVXBTZ3VFdkpmQURzcTktTEN3ZWFQSmJIcHBpRkptTUk5YjBKeGR5ZjFCWktiZTMyUHBQWWw0SU5idXBWR1hwclBxN1BNWnByanVhSUhKcDAtLVpxQkk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZDNoVzBxdThBR0pUcnk5WGxaU0xZUGNnYkhxZ3Rid2VnOVJMTnZJTEtSZ1NUYzZKamxQa01xNmNvXzQ3Vk82YXN0MEFRTXpMUnBXcUlRUVRBckxXbXlzbGRWWjlhVm1ET3NxOVVhSWZwZHpLNDN6SUx1YmFBdU1CUVV4dmdkM2VkUG1MSnktRDdIRU95N1FXZldEd3F3UXdIMVlEVDZfd1FxaEVfN3VoeXVycUhmMERDSXQ3MEtKMEZ0SnBEb0hfMUFrTmM1b3lYTjljV1F1X0l6YXpWYWttYk9ac0VLZEhQa0tXdy1hb0Q?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/world-cup-ticket-scams-surging-how-to-buy-safely/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVlJT3M4SXRvVzIwRkZmNU5Zb2JwZTFRdjdSWVJCVWh5V1NrcTFFd3dBOGRuSndXNzlWNE83ejdZbk9HV3k4dnl1Tl9UVldIdHAzOU9Oc1lfZjZrTkZWODF5QUphLV9WZG1pS0FKQ0Fuc2N5aDZ1SFRFU281bzJpWF82T3FtSDlJMk42aE8xUEV5dnNxUkw1V3o5M2dpRnpvQVdVTFFsc2x5LWdpNVg5bHp0SnJFSGllMEk3WmRKOHBONHFm?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mMWlOTkpzckJhM0p6cEl3TGZVNF9fUGlFNDdkYldUeFVPZW93eGxiLS1tYmVYVnNncEpzbkdKbm8xaDRuZngxRU9xVTFueEVmWmVjOThYZWliOFZf0gFcQVVfeXFMTWYxaU5OSnNyQmEzSnpwSXdMZlU0X19QaUU0N2RiV1R4VU9lb3d4bGItLW1iZVhWc2dwSnNuR0pubzFoNG5meDFFT3FVMW54RWZaZWM5OFhlaWI4Vl8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3266609/opposition-alleges-nacc-misconduct": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnFoRWxUUzc1V25uT2RpV2lYQk5Tdm5GTXNBZXRZVEVNZ0FOdXNDSVp6RFZ1Z1Fqb1FuMFRYaUpiQWhqYktKWDA1WVZraTlPM29fY0JJaV9Sb2hWOE9jTUlsb2V5OUtuc1VLOWhGR3pnMFdoTnRDc3pONml6WEszZjVxUXZQZGF6VG1hU3czVdIBjwFBVV95cUxOLU55TFlCVU9YZFZaQ0FyQmdqNGVZbDRvZ21qbDdWSDJFZGc2RU50MVpKZHYySWhRRFI5eUVhZWNwcDBkWl9EcEpzS1ZseUF1QVNGQ2hxSllVbmtrU0RqNjFFWV9ScDFkUnE3enhENlFXRzNWTHhjMGJMUmU1c3JPMU9WYVEzcHZiWHBtTVpwVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHUtMDBNME5zVktNSm9UQWtKbFBQMi1aMnBWbXUxRHV0bzhVV2FManV2cTJzZW1qV2JxSDRNMVhXVldOZkFwWTk0OG9TSGhOLXBJRGh1QzhmNUREblpmN1FGNmZEMVBtWW1HeE85aE1hNUNOczM5Vk1mRUZ1Z2JkQmdWQzdsSGx3MldLaS1OcnRwTlVUR2ZVWWNNcEFqMVg3cTFkSUpaaG5PazdYVnFsYXJHTHZjTHFVejFV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
