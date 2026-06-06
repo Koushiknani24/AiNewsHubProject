@@ -24898,5 +24898,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-features/victoria-pedretti-the-last-day-interview-1236615471/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXZvdWh4ZmZET2lQTjFwYTBKdUdDaVZidUdlNXdXbzFFUFRnVE5HenNzcU1rUnB4ckc0SmExemFHUy0wMkd3LXhycEduS3dGelNSd2RDbkFDMG9YSzZxWGxlQXg1TWhhVTVNc3Q1NVJLU0NrdG9Sb3R5aWVEellpY2U0R1pwZUVSTmQ4a3VJUFBheDhWX3R0ZkpkYzBvYXlaSW9aa1ZIdzNkYkg4U2Z0REJzTdIBuAFBVV95cUxORWRCV0hmTHR6RHJLaVJzN09fR3A3YVhTenVaZkc0M0U3MXFHQ0lmSTA1SmlQUENCcUtGUllEUlhLZVYxRmVmVVpMY0hvRUEwWU9iT2wtaldvekJsSjE2ZDl2NlV0NmdidUNVQkZvWkV0OWkyR3FSUjBVZ19saXEtXzU1OGY2T2JheS1vZUpBalhjOVdkSEN6bTJ2STI2VWdTZ2dZOXlYZWg5U3I0UlpBRFVNN1Mzd0hf?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2FZbFRJOG41c3NwR0Y3RU43djhIa1M5UnBsdmZyR3NkQWFzN0NydFhDQUZiWUI2SjN3dEFneTcyNi12c1RXbGtYWlIxRWFnWkc1QmtVdU14STBGenI1S21Xbk5LcVQwUGF0amN1bEc1LVNOREIxcm9TTXR5ZzBWV3JROVAzMmhJUDhTSVdlUkVfWTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05cHJtbmlLNkNWeW9UVjRXeS14RUgweENQMmtKbFptNjFSejd0ZnBRMkEzWmpMeHJZNlBlOVhiYWhQN0JTS1NZYzBjYWp5bVdZN1VDYWc4Um5lcXNOV21ndXNNQ0JycE9v?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LcG9hQUFIWE9VYkFZWUlHZ3luUFRmV3V3bXM0U2pMeFlBV2xBMGFYaVJjWFh4bFhUUHJCZUIxc184eUkxMnVzLU9seGhaQ3VuMnJrYS1XWjdsSVN6cVI0NzNodnrSAVxBVV95cUxPTHFIZUhJV0JTUFN5MUFOcUdjYjRTNkNTLXBwRlkxdURJRjQzYnhpZXNsaHNELW9sLVRxTFJrck5BZnV0QjREMWV4VzZ2SlRyVTk5ZU9MTVdpWXhYTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXh5YkRZRWE3U051WWJPdlJZSEZjS1A3RHd3OGR5Q2QzaE8zdWM0R05EY2ZlOHRLU1pUQW9BMk8yQUdDMXMzaF8wdC1JaEpuQ0FXNXhUOVFnUDZOQXZOdVVNRmJPWW9EeExaQnBhZFpSNFJPZVh1M09QVlZ3YTNQVnhPS01wLU92ZUtfTmllZkJMUGJX?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSm82VUVQY3BuV2hVd3RWNWMwSlJKdXliZFJkS2ttSERqRFE1REc4Sl9VX1dfV2sxaWgyVS1rOGU4aE8zZGx1ZFozUHdhLUVHT1N2b1pxd2NoUWc3Mm1VT1JGNUc3eENHdlo4djFnUXBJeVNIMzNLRXlZUGtLWHhZS1BWWnRrVUR4Y2RpZWw3MUVPdzBlMGFnMjlSMmVvSmJxajB6QWx5M1AwY1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/6/tunisians-protest-for-press-freedom-and-release-of-political-prisoners?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLTZjYk8tVjV5cEVwMlMwUXpBVzRSQUgwQ1BPZk9fSm1YVEZaRzdiT0ZwODRQVDZIS2t0NVdGUkJwV1NsS296dW1QZVU1dV92amZra1k2VEh0bnRrRWlMZElFRFlpYTZIZ18xaURwRllYU3dIS0wyN09iYXhLM3hfTGRNYkk5QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPNktYcVF0cnpuTVpxZzE3NUNGd0RJRURUMGtrMXZQTVBxa01oWU14NkRvc0NGVkZNQy1qa20wYURJcHV5WkVscEFrUHIxSTF0cmpoOFJCNHdxS3VGbGs1bzc5SmowdG0ybS0wdDVpNTU5NVNyeGx6OU9HdDRzemU5UDlTMG5TYzg5UVhnWlZJSHFURGJlVjh4enI0X1VmZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
