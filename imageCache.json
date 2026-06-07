@@ -25702,5 +25702,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/060726-sunday-morning/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/march-in-france-for-girl-whose-killing-sparked-outcry-over-lapses": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/greek-police-arrest-a-palestinian-man-on-suspicion-of-planning-attacks/article71073995.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/07/trump-says-never-promised-no-new-wars-00952870?utm_medium=RSS&utm_source=RSS_Feed&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjVmeGY0MklaeFFoaTVkYWRTbTVxcXZGWVFObk9PRHV2THcxOGhiUk53OFhfRzhwbXRGYjhCdUx4a01wRnBBTzZ3NmhiRlMxWUZLX0VJejYtQUdnaGtsZXY5U292X0dOWU5oNHJrZ3NTRnAzT2xjY1Nsa2VzUUNBcERITGw2ZU8wWjBPajkwTWVMa296cGVOWWhzZGtDaHdpeVdsR19ZWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/06/07/latest-news-bulletin-june-7th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNalU0YW1DcEdld3ZPR1JWeTFDd3MzX3cxTktTckpqYnF1eUFWdlJaVjRlLU9yUWxja2V1QXQzTXBORUxPcVlJM0ZvQzlIZ1RxOXB5Wkh3YTlvbmk1Wm5QU2xMQ0tweWNMM2EzdmRQOThkRDJiWHBzd3djRDV6T1hsMnhWemN1VFdjd2hGNVJVbUVmY0ZrdUtjX3c1NFl0amVFSkZRNzgxeG8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQW9iQklZX0RUVEhhX0Y5VUh3UVFGMFZCdF8xYmxYS3BrVlJ3cGd3NUZ2bHBTUUVCQ0Q4bjREbVNiT0FOd1ZTNXBvRFdUaDlBSVVlUnpPTWpuZDQtY0RsbzBweDY4Y3RzMnVmMUJaSVhiWVNyV3pqWndNLXVZNVBPcjNsMk1ZWjNKMV92TzVrcld5TnhjYy1ZSzhBR2VTbm0wN1HSAbQBQVVfeXFMT2ZVbHFsYmJ3eTNYbnRxWWVuUHZsWkhVOC1ndmFCTzNMVFdMNDBCUFh5YUk0dUpnVlNKWUFjNG5xOU1lT0RiaVljMGdrMjJCRk9PS09MSWItMDFGTFllWFV3cTJGNnphUzhoS3VWYjUwR2t1X1R5bDAxZVpZSHFfaTRZTG9jeV9yTlktVmJWWjhzMWJ5V0k3WWtEd2RjNTF0VFI4MVBqcE1vTkVDdUtiMGxwa1c3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KNUNfZDBZRVlYS0trQjYyWXV2bklBdUYwMkxQdGl4elJwOHlvam1PamFtWWFCbEVVdkdTb3JOLTIzQlZraFlWWVhwaGF5SS1xNWRfaU16TzdORnhuRmpPTzJWRDhNOHJyWjZaUk9jNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDZDV0c3VzR1BrZE5OYnF6OUtxRFdMZmUtb29TZW5XV0J0bDdQTFpBaU9MNENjNmVkRmJQSVVpejdfWU9nbHdabHIyemNSRndMRDBVSFo1MlZQd2otM0Vsc203Q0hmSHZSZnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdV9mVlhtXzNwdkJRTjYwblhWMndVQ202amhYeTJnSmhUdWZUYzVBZUZTaTh1R0Q3Xzh5N1FUQzNHWjdVd21RS0hfajJya242MnI2MEdkdERrVzFrOUdxRGVZTXl1M0lHeURQcW1ydEJXeHhEQUlwRTZ3bERpcnFBa3dTVU54Y2Y0R25zSlZKVnF2U2cyQ1pzZA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPejRabU1JVlBKN1JwUGRVV2JhZm01Q0t4c0N6S0otZ25YZk9tN0laX2lkREdFLVlIbDFlZWdpM05wSld0cF9QQWJSZ1B1U2NIRTF2UTRtWEwwWUU0NGhqRnRvdDdpb08yRnJZanR5VzJzQVluQnhrX0FVSEdaWXl1VVdyNTVyYVNaRzlzR3pic2o3aW5EZko1SDVMd09zbno1?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/antonelli-stays-cool-win-chaotic-monaco-grand-prix-6167531": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hUlhJTlpvcnVRNmJaeHdDd1g3ZmtuZzVrV2JBSkdmR0FNZ21wVHFTdndKWjV0TndYa05laS1aOC1sajZLc3VRdkxRSU5LOTlCM2FoYXo4ZGY2OW1zSno1eEVtLUZReEkzRzduNGt1UXRwaW9hOEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
