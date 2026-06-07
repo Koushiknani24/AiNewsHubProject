@@ -25966,5 +25966,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/kosovo-albin-kurti-party-election-win/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0Z1Vk0xMzF6V2Y5ZVlaZGZmeFprNC1PTzV6d3RvUDYtbkZSUkN5VUIzZlFWS3plTzZfSGxUS1dqQm55QjkxLXZPSW5JeTlvcG44YXZKX3hOeTdtZlNLZkcyelRzS3J2TTNsMEhMazdtUWd5TVkyaTZHdFNFenA4UkVKX1dHM2hPNS1v?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-storms-out-of-tense-rain-plagued-nbc-interview": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQNGFiMi14OXJlUHplNWJkZ0o3SWFSdE1SMDBhSEQzQVA0SkZzek03bmJHTmdkUXRHbUUwbVU0MU9OVnhsTnR1ZG9vdkppRWZ4ZkNfLTVHSjVEMzNlenJUdW5EbjV6SHdPdEFSb3VXMTNra282N2hfU0RJOTdSSWFBakk5MHluUHB4dkpwTnZOWkM1TDJVb0tuVjVBRy1pdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/07/iran-launches-missiles-at-israel-in-the-first-such-bombardment-since-a-ceasefire-in-april": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/middle-east/20260607-middle-east-live-us-downs-two-iranian-drones-targeting-hormuz-shipping-traffic": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQmVIcUJ6OFEzbmFYV0Q4SDVWTjd0MlEzZTNDTS16My14MWk2TmZ2Wk1kaFMxX3ZVak85OU04ZFRjSkpmYnVzc1k5S1hueE9razdTemZTREFHeVZ6dmpzdVdLUTNDRTZwSV9fU3k0ZmVQLS1XWHNOdWpEWUdnaXRrTlNjMlA3c3pkQU1icmtwQ21HMnFjaFVnNWtnMlFqeC1MeWdzNUlmYU9QWXJtMzZ6YmxQT1hkN3BrRUFZODFmWjl6TXF2TV9NMENWX0gwQ1lBSUZF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWi1qZHpOOXlndl9pb25lRldfN09RVjVYVU1OQWt5OUVLRWl0UXpxblFyTjlwcV9oRVhKdGxfTlA5QnZTcVVYdHlNLVNENm5CYXRNNlNQSXF6U2c0ZVhxd0tkbXBBY19jUm9DTG9zbGtlY3VrTEJWMVVfMXNBemxVQ180MXk5SVI3dlB6a3dmN1dMQnpvUV9RaHFvd2lLZnJuUGoxUDJ5b09hSkUwcWhB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/has-zelenskyy-forfeited-an-honor-and-poland-s-sympathy/a-77412975?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXpoZ2hfRW5CTVdqRzVKSTdRM0dxclBnN0VHNG9ONFRVT1lxWGJwTTFEbG1obG1vYm1rWkpqbTVvUXEtTTBrVTl6NG55RXZEVWQwSFlYZ09HS0oxN3BGb1hnWGJaczZwQzZnVHZpSmd4X2pVREdwMFl3STVkendmbld2MTlTUjg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWVsbGJFcG5uOTFkdjhHTHlnUVREWHhPcjNCTlU0VHNCSmNOaElLd21mNTJWNTgtQ21pdElCYl9GYXlLb1BTUEw0Vm1lZG14SEcxM2dHZU5ZcXYyVThwTDA4NUpzOGp1ZkJRTjVrVHFEd2JTMkFJb0VRX3l6NTBhRHE5UFRFOHRab1ZjTDh6WHY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdEdFbTRPY0tBLXJQU1liYjg1Vm9fSWxlc1RLLWRyRnVwQjRMVDdIYkwtZG96a0FzcDdwdGtHeEdqNjI5OElSSjdDU2Q1a25HQ2xTYWkyUk5vQVFYcHUtOUlwS3loMG9BZno1V0dOVk84Vm1ldFRIZlh6ekc2YjVGbmhMUlN3anBwTk1ZcWVyU3ptTWxLYzFn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/reports-iran-uses-war-as-cover-for-increased-executions/a-77451822?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0R4ekFROFdxTkFmZWdQTWxZY1pHcWdlZExzUnZ4RVV3MWFXYWpSMW53RGVKLTB4ZklDejlwbXZ2dmlCZ19qSGtDTjRYQXI3SWxoYWExZ2x3QUMyWUVKdGdhdDdMWElCanprTy13SVdTREx0M1RXMm11V0hFU21pTFZUdHVaSklzdW1zSGJoVllkT0k3MUpPMlc5d2NvUmd5dTM5eG9MQjRDU05hSXVBTFlGTXhIRTdkSnZhVW1yVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/moldovas-president-pushes-for-development-of-interceptor-drones": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
