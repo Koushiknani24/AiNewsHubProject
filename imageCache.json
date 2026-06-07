@@ -25090,5 +25090,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/entertainment-workers-oppose-paramount-wbd-merger-town-hall-1236615502/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/mexico-city-chases-world-record-largest-mexican-wave-ahead-world-cup-6166956": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1hrSDFoMGN1MEc2MWliODNtTGthOFJ3VmdmYkhQU1Zzdm5MVm5YRE1HZXhFY3BHQUVhWk5DcjBBZ0VmZmVWbVdnb0ZORXBhaVJOc0pGRVp0elI4bDZOZVhKSy12aEg4eS01Q0xpZDQ4cUF5ejZhV1NoZFQ0bkNnd3JUXzFlZ1Z4Qm1XdGdpVGgzYWlFZWNjVnNLd1pDZWtfTlBHMFR6YkJVOWxoTFpoejNfS0xtaXNlTEphX0drNzNSeVFONmtJdDRROEVfZ9IB0wFBVV95cUxNNXNWR29NN19TX3NvQlNYSUUycXdlLTNZWDlyMEdrQXE3ZXNpTzlMNUVYNFRxNmxRcG8wb1RGLUpjVzRMVG1Tc3VwYmZTY3d1dl95NzR6UWVwemZHWG5aVkVpYXp1WnlsbWRfM3dmbklBQTZhOUo1QURrQ0JQbUpNQktNNkE3Nl9iT1MyVW5GaVI4MVVNUmsybmVrVzVHNXJtaXczU1Z5cUx5VnMwbGwtXzM4SXZWZ2hkZ1h3UkV1V2tacHNvREhaTWIwWlkyUWRpcGlF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0FWd0Q4QVlOZWRMM0FneG43dVFzRzlTa2dER1VxMEl2SVh4Y1BiN3pOdm9rUUJIc2loeTN6NW5ySnlYZmgwMHRwTzRYRWd6eDRWeU1PSkFGUllYdzlyVl9JcWN5djR3S0RwUEFVbGo4NGZOLW5oMTFPc2dkMVBwZDJIeGNRQ0QzSllROFBpNXpVSHVmOVgzSjJ4Ykd4dXBFUmdlNnVQdGFMWTlfclFVN09vUGtQanA1dG8xWGVaMWNLRGF1V2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/pentagon-sees-growing-espionage-threat-from-israel": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/6/trump-pardons-former-us-congress-member-accused-of-insider-trading?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkhJTngzUWFWeE1qajJnUmo0dlF2Q3lITGt2M19tN0haeXV5cUM1XzN3V3dkQl9NNkg4MnhJV0pzWVVwQ2twSTl4cjNsTHdzYVVaWVFnOFBUZ2Q4b1hIQ1VSeEw1UGt2VWo5UDIzU0k3U2FLdHpabGs4YzE3ZldWS21vYTVmWDJLaUNVWHVVaEZyN2xKdGFvRVYwLURVVmxMMlhPbTNoVnVJM0w1X2l2LW5PcHp3UDh0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2FoUzgzN1F6cnU5Z3NxcHhDRkFUckwtMTdHOHA2eG15eTlTS0Q2OFc0ZzdqbXZYekEtbjFCd2FKbHNfeWNSeTdVTzVHTHh5VHduMXI5WnNjUlhMSWF2T1pyY3pIN2xIMWYyaEZFaHU3d3hvWW96eFVUdWRObGN3WWZKZ0VOaE9uVm02RHF4VGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
