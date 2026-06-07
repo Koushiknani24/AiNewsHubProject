@@ -25798,5 +25798,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgJBVV95cUxPd09DWUNaRHMyeEJmMDdKdEo0d3NSeExTQ0FlRnc2U3JPaFBHYm1BXzR5TlI4TU50QkJmQ2JDOUJYbWRKc0lLU3dySGF6eHFtaldkY2l6X0dpMzEyVEJuYVJyWDNxTXhHUkZ5S21HLTFCdmpoNWVtZ2JlZUhET2ZDSUVIZ2pKOFRwNEY4QTNsdzZKUF9PaUxtcmxrS3hQaTBoNWc3VXhkd1NjcUpQM0tUcVB3VzZGckpuTUloSzRUSDFFblVna0pIWjJ0bnpYZlU1Vmc1R3E5MF8xbDJBcnFYN3c3QlN0RnN0UUh0UmFESmRLM2cwRDVURGJOY3hZV1ZKcTFiYzFqczFtNnRORFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/07/trump-election-fraud-doj-fund-weaponization-storms-out.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/07/delta-takes-on-united-over-the-pacific.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVjVtbF83dkxneG9EaVVZZVhab2xQRmM2R2ZuVnVZelMydUQtVHVPSlBGaDRoLVdFdkI5cVJ0THpYakw2dzVkdXExNkxQMTVVNUJ0ZzA1NGFKQktKZzNObjVnc25jTjdKbjVKRDRaQ2FMZUhiZndldlRvTUNXRlRUSmRpSTZJT2hTRE05dDF1bkFtak1FbmxDVG9OdHpUMU94TlpETlNTbXEyX2c2NG0tRFZNb0FTVl9CcnZmWHVLQTdHTjktQ05xZjFTUmVaeFloSlh6NzNhMG9oUldETjhJb3lwclpwM3ZXQ2VHV3Vn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EdmNydEppeFJjMWxFMkc3UGUydnVWbEdnRVZKX0cyaU0zcEdVTEd3dFhmR2dqWGtvMWh0cERzQ2ptbFpyTUxDY1dZWDl1Sl9Za1pxYk1VSnRndw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/zverev-fights-cobolli-maiden-grand-slam-title-french-open-6167606": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/world-news/earthquake-of-magnitude-5-6-strikes-bhutan-gfz-says/articleshow/131571956.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YU0FVX0hXTldhMm11RWtWOGhGUjM4ZWFGRDhlaVd5dnJkbjJocVNZeEpfRDBEVzJNUXBIc1Y5QldTa0JaNWtLUmF5M1hvaVppY3dGeDBCTEdLQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/matthew-rhys-interview-widows-bay-1236613191/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/07/trump-ends-nbc-interview-crooked-elections-00953046?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb1QtZzRMdnZFYmhna1ZVdWF0WFFtY0htalV3ODEzaUJHbWVtS1hpUGNRRllpeW9yQ2N1aFlRaGFQcnRUVTUzV1F3ajVyRWlRV0pZUVlDRmFnX0hwNkVjcEQ0VWpkczVHVUlBZDB2MkNzS0JlMnJ6WVREQWdJek1rNFJpUUlEZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBYzFPMWhvZTUwYnJDeVVQb3FKTVRqTmpVY0tScDU5ZEsxenVFcGdYN2xhM2NiTkxjTkNyMk9sVWh6WGJXbWRPa01Ia2JQeHZfNmlibUh4T3IwTS02cGNkcDNiU005amVvWVg0aE8tb0NiWXBQbzIycGhvN2M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/7/nigerian-forces-rescue-360-captives-from-boko-haram?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWY2YWlGR2dQMlBRamtUNFlMTVliVG1XYmZLVzJJaGlnTlVFbVo1dUJXMGRnc1FNWGhncjNrVmVTeGc2aWEzdlpqenhQRVI5Z2UwcGF2cENqMWxpVHB4NWVJUWhodlpYNk00OWx5WGRCMmExcUFvVWxFd3dGRmJMT3RPN1ZaTUI0NXl1ME82N0VhRVBUZjJjOGZVZGFBUFQxYkFHQjVtUDZMbnRmWXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
