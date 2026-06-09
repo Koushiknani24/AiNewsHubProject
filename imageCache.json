@@ -27304,5 +27304,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-reviews/the-accompanist-review-susan-sarandon-aubrey-plaza-1236615839/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/richard-gere-reacts-son-homer-gere-acting-career-euphoria-1236616986/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/neil-young-returning-farm-aid-virginia-beach-1235574202/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/08/trump-booed-knicks-spurs-madison-square-garden.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/can-ireland-defend-its-trade-with-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVXo0VVg0a2pPM2Z2VS15eXZET2tCTVp1Z1F4RHpRTFFiMUx3dWdlNFFJcjg5czJLT0tKMlg5LUFERkc2MUFHd25ISHdCTTZULTIwLWRXTjlFUldoZHNCbVFkcEQxNnhyaHJtbFdTbVlxSWlLXzZHOXVqSE9BenFmTTBrdTZnRGZyZW5TWHZMclpWb0YtRVNteWFiZ0NFM1VPd0FiR0NfNlNyaGtBYlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-06-09/maybank-handles-4-9b-deals-for-singapore-malaysia-hub-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/zwischen-hormus-und-fcas-schwarz-rot-im-entscheidungsmodus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/hugh-laurie-house-criticism-viral-tweet-1236616158/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-experienced-second-warmest-spring-on-record-noaa": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOWp6SXlPalI0VHdiYmRnQ0pPUDZleC1kZzlWTXZaeDJoZ2JGa0NvNkQwY2VtS1lvQjlxYmVMTUk0Qm1Sb3Uxenl2cjA2XzJRSFRSRU0zY1plWjVIR2tNUDhaQXJDY01URHB4ekVpd0twLWVzTUF3TGpYSnpkWElRMW45U1F3cWFlT3JxNWViRWQxX3Z3UnlUeUV3cGpQV1V5dFAwbFV0cnR2ZG5HYjk4NjBWR0Q1c2tNUXBHTTA1UlpWVGRJWExrN25rN1NGU09aMHJDeDZ5YVd2WmRhNzBKMjUtNGNzY0VSSXp3bQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaFBPUkw4c2tEU3llbUs5bEd1QTdFSi1zQzd4Zi14eGFrTEt4alBZekxBS3V5bTRmM05Eb0RqUTBlckRtYmxXRl9pU01CemRtWjNSNHBaMVN6a2hfRlVjeUNRcFlUUXlSNDQ0NkhqOVV3NmZYd1lKSllmcDBJN1QzVFRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR3MyLTJIall1elM2R2VaWDBuc2dHTXJfOFpOdlhrY0FFLXkyTl9jcUtWZXlYNlJ6X2dzbzB5TXpzUVg0Y0o0UDh3OHJrWlZBY0xHVGNFOFB2WGxWa0xPUEhRc0lUT2JIUldmZ3BiRkFVT3VXcVNIc1ZLclhyU0hUbmFqOWxfNGZKTkZZRk5Jd2tGLXl0dXRQYUxGNlcwSTZuSWlDQkoyTWozOXQzTVkxbGtiZWhLaVhya1RSSjBlMlc3Z0c4MExaWlNkOXJxNENWX2U3MGVqcDZUWVFqU1RMa09YVnYyTkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVk05RTcxOVRRWDVhT0d1Q2ttYUZtSVdaNExHSzFncVpKWjNLbGx2b1VUZll4VkpkczFzUEUxMnR6Z1drTHJwU0NoZ213RmNVR2dDZlU5OTdxQTJ4S3BZb3J0OC1nN01hSHJCTDF2bXBYTVNwUjBUdlAxZm1HYndPRmY1NzZjRXpUQWlJMGhZVU85d2FwU2pINW05RlFUazBUYU9CUVFDekd1VklfUUtkSS1wZE1GUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHh5ZUJodXpvNGI2Y09yQ25oNUszam5rendnZ2haX2l2dTMxbWcwU1Jlb0xjdnNRckNkMElCZy02aHhlQUFfNmZTeU1faE1vLW1aRzByektzWFJ4MEUycjJtY1dkRi1DVGN0dWNzdFIyQjlPdWJ2RG5LLTVXelN5SU5BUGZFeFZNSU0zMEpUcUFPLWxySlpSWjA2c0FvZDRxRzlZWWdPNU02M0JMVUVsN1Vfbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/newsletter/forecast/the-mayor-of-the-sports-world/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1ZEazY2cnBBMHRTV1FBLXlsbWNDLWw1bkg1aS1KcERXZzd2TG5waTFDSGszeTByX05NQ0RtYUV1VG1QUUlGd1pGTkRJNFY2S1ljRmJNZklTVVd5Ml91Wk9VVW96ZzN2T0FxVF82VUdjTlJYNE9NWkdzdy1CbTdGTmRnOVFhbFJTMEJnR3hTVFk0SXZMYVFGeGhXQXdQMmtNc081VVBiSThENFJi0gHAAUFVX3lxTE5QMUo5aWl4M3N1RlVidjhpcGZXaF91blI2Wkp2WEQyQzNwakRhTzIzSVpTUlpJbE92cW92WWxFYWl3bGJfQUMyUXVEMFJoWGlvUGd3bzJpbWY1M1NGWGhuQU51T0ZNaDk5RHRKdDhSUE9vM2ZnXzE3LThIZkhLZnlYa1c4UEdybVZXZ3oyRnJMUlNJb0g1UUtlbU9QWWZVVy04bC12UzdOS1NweFFaYk1oSXZ0R2ZnSnZWMUJQRnEyUA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/9/trump-warns-netanyahu-youll-be-on-your-own-if-attacks-on-iran-continue?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/norway-court-orders-ailing-crown-princesss-son-release-ahead-of-rape-verdict": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/6/9/us-lists-chinas-byd-alibaba-baidu-as-chinese-military-companies?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNzZxOWthdjlOZXJIRG9pZkFGTUlUUEg3M0FZajk2eXpLSk96aGZsWVM1UmZQYl9zNFA3NlhpY1FrMng2ay1sNVVCTmFsT3NDcE9jWGVncFA1VFNQRDFRWjRlTEk3amJDakQ2enB6X0EtRlQxb19lTXpLZEd0cW1kcmFmdGxtZHBHWWY4eG51WVZwZU5lWjhWRWp3S0pGZFRkNjhWSkVFRXZiMkU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
