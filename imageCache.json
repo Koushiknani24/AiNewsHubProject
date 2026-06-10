@@ -28366,5 +28366,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-06-09/us-launches-iran-strikes-after-helicopter-is-downed-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/largest-ice-detention-hub-in-us-texas-state-wasted-millions-in-rush-to-open-report": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_afghan-authorities-open-fire-on-protesters-090626?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMVlsZHRveTdvUjVEbVhMdHhZTkprWnZuM3BwVWZPM3dhQ2pxb2lzRjMtQk9DV3VsNmJMblhQdTBrblVLUXVSWldsb09WMkRTaTlFWUFMNzkzeEVjLXRUUWJzV0dKVTJDOEFOYlhLSWZsd2tEV3BQY0stQXp6aWZ1VnlNU0ZmMXRZNmdNQWlQcHdpZjVkR2Q2NC1ienMxVGE2eEpkRlVB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/in-ai-blunder-more-than-34000-instagram-accounts-became-vulnerable": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWdTQ0lkdGo5cU1lRlVGQjJPOWo2cFhUQ294ajRid19FbGNyeTVNbEw4QWJSQnpZTF9mbC1JbzZtbnBDNlQzamRITXJNTlBGRmRpX25NMHl0YVhlQVB4VEVnNVFDeWlVRnI5WmZGd002UHZWaE1zT0YwOFFaV1N1amFrN1Qzdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU1h6MXVEbF9lU1M5eldsaGM3V0d5eDNLc2xtZDlxMnplczhLLTBPNUJjemxTREFLVDhGaW9JQU9fTlcycTl0eG5DOFJVWnFhdzYtMEF0cDZvRnpTTjA2MDl4cjlYUFN5QWlXampoT19YVzZnaENDQlBfY2xoN2NnOWRpMk5kV2pkUjFZZWVZT2hlaUNFTDNnZFN6WG11N0pfazlZa2t3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/9/us-judge-halts-execution-by-nitrogen-gas-ruling-it-unconstitutional?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/09/us-retaliatory-strikes-iran-00955278?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/spacex-aims-to-launch-orbital-ai-computing-tests-by-end-of-2027-sources-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3268469/pundit-define-your-outcome-then-use-tech": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CT0Uwc2lpUS16SVZFdzJoNEtXa05zcXFwVGpUY0FVTHJWNnlwRUJyVXdjcjE3eDdQTHBQTzRkYzJFY3lvZm9xWmppOTVqbzhDd1pnai1NMFVWWERZTmR6RXVYajk1RWlsWnQ5RkhYd1hRdjlOeV9sWlV4YkdqSHM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/mercado-libre-announces-4-6-billion-investment-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
