@@ -29278,5 +29278,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/matt-shakman-nicole-kidman-elle-fanning-discretion-paramount-plus-1236617774/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU25kWmtrYVNpdHBud0dxUDhZdUx0OFMyQUxOWER5cXowaW8zWk9pdWNBeWdycUNTTXp4VjlmSWF1UDRzOEpBdl9RRTlYeno2cXBHUEJuVDJaTk05dldzaEwza29fR2I1NmpsZU5JZUlUWjNoWlZUTXFiaFFLYm9oSHR5Ukk4X2s5X193eU5fVm5KWjZmSHBsTnJ2U29JU1lVb3ZtLUZuTUpDNHM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWQxWE1mbDFCQXhhV0hCbVdYRExIR1g1Zml0OFpZVkdFTWs2QW5kWUNJTGxSZ0xBTWpfSkF1X2hiRVhHQzJnV012a0JfTjJZcm8waW9VMC0tNktpeG9FVWlJSjUybENTa1U3elBXZHVweEpsUHhTVV9ZUHBjS0V6Z0ZUSXBkeHpuU3ZPZ0JR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/i-love-the-inflation-trump-comment-on-latest-price-jump-sparks-backlash": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUF81VmZsVzJzRV9IM3dpdjB1NXJ3NXRrT1p4NVN4YjUyU1VYQVRlLTA0UmdXcXh6eEdKSkxKNEtnalZ3Y1VCYUpQTkJyeWlsT25qMUY2Nlk5Zkh6ay1BMUttN2EtNzFmeVl6YlNIenBJWnhzQW8yTjB1ZkxJWk01R292TUxTRFlCLVRMVUYxUEs2cW1KZ1FTRHo4TWZ5RHBuUXVV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZWbDBaNEhlTVFZSXhLS3phaC1EWTYtelNHX0JFQUM1WmJ4SzRCS1NmSm43QmRSVXVnUkxsQnBpbXFwTkljUmRxN0hMV0w3VlhhVnZvNVVjblFkR3lyNUd0b2FlVGxNMlBzbFVHejZSaVVCaHlIenlIRTRRS1VDbVRBSWhUbThxRDVLVjNad056Y0J4Z0IyR09n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/10/u-s-second-straight-day-air-strikes-iran-00957752?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jNG9OVHBBb3gyTUpiYTAxMW1nUDhCb3FmT1RLZWlxVXNsN3gwVWJsTHBQRklCQURUdC1sWmh4OGdLMkU4MEY0Z3JqN1Q2dTlYTng1ajM1NF9nbkhENHAxVWE2NmFyTHZIN2hyVGpmNzZpZktoc09ranpwLVo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/6/10/canada-introduces-bill-to-ban-social-media-for-children-under-16?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/property/3269058/thais-put-home-ownership-on-hold": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnpLXzlLWTBYNDdRVmppb3VVUzN4U3F4RVotV0JiUTlhOWRHUVhvemh3OHVDdHdTREpyMWItU3FIZWQxSC1YYlBSMU55QmRwMk1pQ0lKRDFZeDZGRG84WnZRZFVLekJvOWs2TFlLZjMxVVlrWW5xVVFjQnNqV2xiNmJLVDE3Y3dJdTVvM0R1Z0g2Y0pHVEpwSFdsWFJPYkZoaUxKWXl6NVdQZnZTa3pIb19ac0Jid3BZVElB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/10/inflation-iran-energy-fed-affordability-00957339?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/tickets/ariana-grande-eternal-sunshine-tour-tickets-buy-online-1235424292/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/10/ronaldo-misses-big-chances-in-portugals-world-cup-warmup-win-over-nigeria?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
