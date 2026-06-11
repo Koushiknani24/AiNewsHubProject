@@ -29368,5 +29368,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/west-asia-conflict-israel-us-iran-war-strait-of-hormuz-mojtaba-khamenei-donald-trump-benjamin-netanyahu-june-11-2026/article71087443.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/11/cnbc-daily-open-trump-expresses-love-for-inflation-print-and-anger-at-iran.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/10/hormuz-closure-global-energy-00957746?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0lNUGZXMS1EVjUtbGlpOTk3cGxTU1FINDZTSUNyVllOa0JFLWh5VHR0TW9RUDA1RkE0T2pzV3hIbE5PVTA5Y21jdk1ObkQxSy1SUkxuYWVCTW82bjdfbExvZTZRODJmcmdTTGwybU5YR24wbXJ3czVlWm9mMmE3QjRvWnEtOWhad1FQZ0U2OXcwVGFxZXJYT2FWMk5pc3h3OE9yV1dzVVlNYXpKbHRN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41Y0tVME5XYW9Bem1ZRjF5UjRIa2ZvbEQyclZLeUlCekh3TDhuT2VKR20yMms3ZjlBSmJsWVRMenJ5QnZnUngzVDJ3dW1ZNWxaR2NxY3lrbE82aDRVNnl2LXVtSE4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNE1iXzN4MWV6b3lSc0ZQdnlvYlRQVXFvMkxFRjJWalpRRktOVk5HelRKQ2lYY3FtRjlPNkIzaVFhWlhxT2taMS1LREM3cWtRVklQSmMxaUdkSnJiazhXMDQ2bERVTk9nMlRwNEZBWjlGRnlWS2R2U0JuTTFOaUZyN0xGZ0laYk9TQ05KaXU5UThiNkZJcTRiVzgwNW15ZmtrZ09tNXV6ejhLRDFNOWJMdzNOdXpUX0EyMVBhVFZHM2hpZHB6?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/trump-says-not-looking-renew-usmca-negotiations-continue/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/6/11/maasai-women-turn-drought-into-income-through-fodder-farming-in-tanzania?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbDc4SHdtdFo3Sm1MbkE0Y2pJT1NiQmcwS1RIUUNKX2pxNmp0UUZ5amtucUdCaGQ1dGt5cE5RVV94aEgxOFplY3VJVDRyQmdrTlJyQ3J6RGtGNlRTNk9UNGVuMXRCTktKU1lyb0tmV2dhell0VzRMdC1lenBMZlZjcWY3TmxCNU03ejJzdmFwVThoS1Fvb0RNRW9hbFBtWjRra21FVUU4YXV2cXlCaHo3d3lDdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbV9vX2dkSXVCMnpsZnRuS3RmM3VYLTY2VnpHT19paXRTR1hWdFVsanQ2RnNmRHRNOEhERVJkRDFiVlNoQlM5Z2lTc1RXMUtiOWthdVBVNXVxY2FUeUFqUlBZWnc1VkJ1SHNuWGZLRzV0TUpZRHlhVy03VE01OWhUNkZXbTRKM053ZnhxMDlvZnZwYks3cy1ISUpOUlVzN25ITWlLLXpEUWFpY1QtT3RXdDZzN0d4OHZZY0gxeFd3NWk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YRWpZcHlYZ2ZsVlBNeDZUbUtpX3R3cWQ5WTVXYk5yeFQySFZZNjNRVmZrUEdUeG4yQ2d2X3BuSXUxdEVOWVJieTFvNl9fbHBOZTJfRU9kVkVRbXYzTDJPX2pTcDVnMzhZcWlWQXNiN05sN25vZzVMbDlsZlc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6UGRpbzFzYTdJajVPd0p1aTVIV0haSE5vblRKbTBmMVJPY0VyZ2U3cEF0dC15V3NpbWpRaTd3YUlENHlIQmNNX21nWXlYZVV0RmdIRkhXSVlKeHBrcXpFc3kxdndMUjByZlVEemY5bjZEd3FvUWRv0gF8QVVfeXFMTWw2YUhEMVQ0amdmSGxCNkl5dnFpWmxYLTFvZVVaa1lMZnNlT1NhbjJ0Q1ZsMWEzUnJNaERfOFpWUVhHdGhxV1BrSDJhNGlndTJfSjN4RG9rZFJSeW1oMzBpN1k1MHpheUlmVDZEUVJSVGpjNXpXckVYQzFYcg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/11/world-cup-has-trump-already-ruined-the-vibes-meps-debate-in-the-ring": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3269118/cybercriminals-exploit-fifa-world-cup-fans-with-scams": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTBOOEFpWTVRN3JUZzZBakhVUTNRTXFpV0NPRVZYcVoyV0RFNVYydHpSZUZFaGJRSHdjb01Ha1FiZ3pjUGFhalFGdXU4NDBmR0d1d0oxOUFZVFo0eTR3X0hVdFdoTG5OUy1mNVpSUV80ZW5YSlFTMVo2ZnE1c1htazJfM3FEa1g2R1kxLWJmWm05QVp3Z3NxVTg4ZlJOMWxnQ1NqZW14M3pYT0ZKSjFPUTk5QjVqdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXdFQkdYTGhpbm9kUVpsQzVOM05OMGk0OFprcXpiX05DYXQ1NklDLUhYTnJPTHVLdDJfVlNuM1U3MG0tRFJWRXRYQzNxY25CUjN5S0NoTkxZRnRTa0drYlo5bDY1V3pVa3NCSWpYZ3BabU5QYlRZeGpvbW11bjdXcnVSS1V4a2dMT3lIaXFGX25OLVFtXzRIWExYQmFHcWhSRjZWUko1UF9mR2g0R1o0UnZB0gG3AUFVX3lxTFBjQ2VRcm9BSEZrcGkwWkNUb2RHeUJYOHpVQmZwbGhNdVpJLW1iendaclY3UkxTc05udjU1TWp4djZHck1FSUg1Rlk2ak5lVXpFWWlGMnBjc1BZeUhlVmZkdk5oU2UxUEc4SXdhOV8wMlk4Yzk0QU9FU3pvamx1Y1VvdGl4dEhpeWxycVJHUkgzRVdNamVsbnpPVWhKdmh4TVVMWG05cEtGN0M2elpwYTBzUTI1bFlORQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/banking-giant-jpmorgan-chase-ceo-meets-with-sheinbaum-mexico-city/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWdDb1UzNmEyRGtEOTNrVXdGbWlUMllmRzF1V2Zndm9sb3RaNHE2LWxIYnFiM0RCN1I5M0ZqS2NOY0FHTnJ5aXFOT2RUd182N0lBUTNucGctOHI4cDFlc3F0WVJSSHpaX0NKRTFEX0s4aXhIOG5IUkpNWkFWa2tHd0t1VmdCRnpMTzVpcW9tNW95dUwxWjFlenFPbG4tbUVYYmR4UUFxXy1aYnJEc3JzLXB3NFV1T1B4cUNiVkZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/11/mexico-braced-for-celebrations-protests-as-world-cup-opens-amid-tensions?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/22-countries-tell-iran-to-stop-attacks-on-our-soil": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
