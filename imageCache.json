@@ -29488,5 +29488,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/06/11/g-s1-127411/amnesty-israel-west-bank": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxNc3dZQWNDRTF0ajJnVnBZY0RNbVlOSmpxU3V3WV9TV0JpY1pKRDNsN2VPYUEwbTdiNzJMZzVsZXItYTJtakRSd3p3cXZwd3NfT0ZNNld2ejNMbXM1Z3phZTJGZ1hyQW9mX3ByVzZNZUJEQVNMcjRsZkRaOWRwNm56dU43YUZFTklhRV9MeVZMamd5R05BeVpnajBjQjdwdGZlM3VFNGRxRzU5cl9YRm5reE1TN253ZGdJYjBfLUNXN2pMRk5oeXhNbFBfa05fZG4zU1JjUzJmTjE3Q042Z1E3eUR4WEVsM0hSS1drUW5zRVdQM25GTUo4cFBXUTZmVmNleFVhSWt6dGtDTS0tdHM4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/monsoon-rain-tracker-live-updates-imd-forecast-southwest-monsoon-kerala-bengal-telangana-tamil-nadu-karnataka-june-11-2026/article71087506.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZkhVNkFXUTFWaWc4ZG1JN09udFRKUFB4ZnEtV1lJcnJSVWF3Z2k0UE4waElmeXlZTk5xSXZWN2NvdU5nWVB0X29MaVNUR2FPUUpNaUFRRDVzaThRVlRvZWM0OE9ONUhMakhmOTNqcUZhQkdCNklobnJsc2JnNFNGaTBTUFFzX19OcjluT1ZvT2pja1FPWFcxbzQ5RQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606110082.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUE1FRjlKRlIyNjdjNE9DMFhweUc4Y00tczh6bkVSLWdLdGV5LW90aFJEa2xxTnZGWEFNbUhpQUY2V29rdWpEQVJMYnlmMzEwNjFkYmlPWldIVkZMM2lQNDdQUW9GNlRELXExa2o2dUl2NDFWbmhOX2U3VUY0Ul9QaVFGTWc0YVdsRnhSWTlELXAzYVBWbFZBXzNvb2xnNTY4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3Fpa2tDRnBwNFRWNWZkNFU4ZGloUUVFTE5OQWZLQVoxZFNxU0tYTzlqTjU3YUhpUU9TUTJNMGd6YmtDWXNWVzhCN2hNX0lZbUljLXNUaU8tRi1ERVdoM2VjNm9OYjZBbDZHY0tfVy14elVkQ3lHYWs5TDdBb1pWbmdldjVaMzE1V0k3NkNNSV9kWXRnNlZFamR3MzZfRjFjN2FEaldIOWFOd3RFVm9QYl8ySlFNUk0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMmh1c1hHeG9fRlRKbndEdFVsdjlVcGNhaE81dHh3YThMRlNmZUNReWJ0by1DQ2UtUFdoYUM4ZGUyNmxxYWxsU0FoRlhMQk9jUWtZQmwwWmxxVHB2Tk1kSEJGelAzcTJXZFV6WkcyMXRVMndERjYwMHdIN3BxalZUMUtrdVNwS1JZN25ndTdZTFc2N2s5NHY4aDJoRXozc3lTOUpmMmdBZnNSZ2ptSDY1ZkwtM0ZYMkJ2OE5pbzRLcU1oZzNMaV9RaTNqYVNJeG1YemF1cWc1YVIyYXFJRDBuSy10VTBRckFqa2E4Uzd1a1c1d0U3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTh4UW50MDczME9Ocmh2WmtDY2Fsc2ZYRHRNMi1FSnpXYTlFLXI4amJwNFJaZ0xyeUtRUFNrMURsTE4tQS1hNmxtXzdmTXlHaW1CdnFDblA5ZXFSb0I1TjVFMTJMUU14akVkZ0ZJNlFXRm50b1EtTURMeFNkb0d0ZHpXaGpVakRjcVRGMWR6Z3lJa2wwd1RyR25oWURLSWNLYVY1QWU1LWNtUm9IR2RKSEw5bzVTN3hnTGFF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/once-an-arab-oil-embargo-victim-us-becomes-worlds-top-oil-exporter": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcE9oMks5djhvbVBJRm5EU1V6U0J6NFRGS1BTZ1NYc0x2VnZoVTdqQWVIamdLZWhDSThFOUR2SnRrZGZIc0dGVjc2amNhVU0xR0lmbmx6bHFiMWt4QjBpYV9RaDQ4U2ZyZFc2N2V2QlVpNTdCbDl3UW1rMzVuRkpaLTZkVk9LaWRiWXE0Z2E0dHhHNHlUSE93Q0dlZlBlWE0wYnBJR2Q5UGZvNDdZNXFCS1E3WlN6ekVReHBDa1RsRkVoeFBjUU5YdXJySlZGeVFFRkI4MXg1d2RITzNRWm5ReW5FM1JsUDFIUVZsc2dBOHBIeUk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVotVXBtSFIzWjE4NGk0ZXRDWGFqbGlENTNETFBsaGJRSmdFLWJBaFZiY2tQMjBjSm4wMXl5azV2emN3OG1kMVk3c21WZUxqanAyTVp4UmZ6UHRSM0FNMl81djVvNm5aWlpDQUliLUxrMU5paVRmSFgwNzNJVXIyRVBvcEl5TnQ2Ml9ESllaM0hIZkJTeU5rR2JFSWFlNEZtSmhPT2JJSTdCdFpSYkNQWdIBtgFBVV95cUxQNDVBLWpPLXZ3Nzh4NDJiMy1Wb2ZxU0NFOGJXUTREYUt1bFpRNmJIZkJrSlNlUmhVVWh6Z3doU0pFX3A2U2ZXbEhOMVpJQ2lZQ25heEJQV2Y3b29zZ3U5cHNqblhPbXdJMllxUVJ2b1VsanRQV1R5U1h2NXItTWs1RjJmRVk3TThWTERqdXZKam42VUNtVWs5RTJhaEwtbUJFZXRQY2xiYXNCeEsyMWNNRUt2X2FaZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sUWNiZkowYU1EVTFMMWhoSThOeHBDZkk2ZWp4UTdWSktuNmVYRGZpaHFyS21OS1RVeXZTcE5IMElqWG5qNmxOaHB6Rm9ZTU9SZ0VraDlkeDBtV29EbkxzMzI0aG1heUZnOHlBUFJjQlJ5RWJU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2VhTG9sNWxyaUI0WHRXZW1mTXh2dUVXaThpQW42RW03clhWSl8xWFZoRktWd2g2b01PZXgxc2pzamxDTkJJWkE0LVVqak1qOUZOajZyZG9ZSkVUa3J0UmhIZUpvZ2xtQVgySkF1a1czMGhkbkQwT0M5eWxZV2Y4clh6THIzVkVqNkJrMGhn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3269344/indian-workers-training-ai-robots-to-take-their-jobs": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByeklLQkxIV0Y2dURTTTJnVFJvVmQzenFkSWhqdGs0QmtFU09VNVFFZHFXMkZRS2h1bGFxTDFNeG9CUVBFSXk3anAwX01TclNVRFZNZXdn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/06/11/from-welder-to-millionaire-spacex-ipo-could-create-thousands-of-new-millionaires": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/11/why-indias-deadly-dengue-crisis-is-now-no-longer-confined-to-the-monsoons?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvOFlEZngyS1VqcFFxOURCaHFWNTlVRFR3UE9KSGVvT2d2NkMxbmw1TTN6Q3RWMTFITVhIUkxFU3BYUkc5ejZua3NaLTI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
