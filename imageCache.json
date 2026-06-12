@@ -30850,5 +30850,161 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/12/trump-doj-fund-preliminary-injunction-blanche-bessent.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/12/trump-iran-peace-deal-leak-00960515?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-widows-bay-industry-tca-award-nominations-1236620354/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/hyderabad-police-commissioner-sajjanar-reviews-security-arrangements-ahead-of-moharram/article71094527.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/elon-musk-first-trillionaire-spacex-1236620223/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/azerbaijan-sentences-prominent-rights-activist-to-eight-years-in-prison": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/9122-candidates-clear-telangana-icet-2026/article71094167.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/nato-allies-back-greater-drone-defense-powers-for-top-commander/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/iran-us-deal-what-are-the-main-sticking-points/a-77526613?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FM3AwRHdtRkdRVnlSck9RMVJjRW13aWtCR1piNm5yYU5fSVY2VVVWajN5d1NCRmdNVGphZ3NobWxTTHVod2JNdmxfSDhjSkV4MW9fSHZ6YmRRVUluQ0l1bjRZY0M4b1c4NVdadWtVSjA0Ujc3dVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9POE5YSmNOQ0F5WXJqUF8xOHpDUlZsRlFUQkRwWnBBeC1wdXh3X1hYcHVGY2xWZGdvV3BBVGozeE9IbTZJejZySkprM0pTanBhSUp6SzlB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUy10TFp3ZklwdDd6ZXRjS3NzYTJVbS1lT1VxV0hrMGR0b0RrZGpJdkh3S0k0WmJCU2Y1cVNDazZ5aUNDMEFXY1lHTnM4UVdzZ0FYRDZ5VjByWFNDSmpSc2Ntd3BfQUpPN0pyMWFObDdOZ19mMjRGVDJLS1FmZ1pkT05SbWdZQWp2UXdfT0o5NTl5Ymo1LTBuRTB0NA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWRtNUJ5eExiWEwwZmpjdDVqWTRhaHVwUFhDanQ1dUpvaGxMWG01ZEZ3b3ZPMWw4NmNmZEZkaHpJZEh5UEI2Vnh6NWdrVFlIWXM4ZW5YSlhWUFZBQ3FiY2o1UTFfeU8wRmFlaHFUQ0dFYWY3UU1QLTB3aVZJdlh0OW9ibEpKRDl5dHJ6NzRVb2owbHVYcGpsRDdkb2Rpc3AwVERvdTlITzJkanl0S0ZTbExFbVd2eXVEZ29IU1BB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/life/arts-and-entertainment/3269964/backrooms-internet-creepypasta-is-years-most-unsettling-horror-film": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxObzVXWWJLS2dYTDBTM0dRMFhIZU1MRmJxbnlaT05kSF83czVwblpYZHQzVkhmVWlBbHcwMTk4TEtsbXFYcnVmQ1ZTbjVtTXZ6WDRuT1VyMmRJZ2xKV09wdkpVQkpxZDNJX3A2UVZFX0JuRkx2OFhfRERDekZqM3hXVEpmOW1fUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oc2ZIWWRXS0ZsQ2QxM1lpNENEQ0dnSDZfeVVQZmRhLXhlQkNhN1kwVDJ0ZDBwcXBPaHlYR0lXQTkwTWo1NnJENFJDbWU5dk9CU0xoZWN3YjZkMHE5UklBVHE5QU00V01zbjl2ODA0anQwcGRuVTVYbEVR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83TERwQ3ctd21lYzZXTE5TSkljbDl5c19fNzJXcTlKbmV2UDF6Tkxnd1BlbWVkeWVGb3BmdnhvazdyZFdKejR0WVRDNnI4YUFFckZJMjd3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/sahel-juntas-are-crushing-basic-freedoms/a-77500618?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1NNQUVPV2VnNDdmbkZLNVU3MTJyaGVSMXRyeUxTQkM4NVFKbnpkbWh2WFRqaDFiM1pwbkFLNy1ZNnRyaDRFTkZCNkExRnFibUR2MEN3LXZnNDc3RDVhWTd1OEVid0ZpV2RMZEhhYU91aGdnWWJnWTh6SU5wTU5JNzBfVmItRG9ITHcxQnRtTXc2bEhmVmxwdkk3cFZyc2RZR3AyN2pOWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MVzNsS1Rnbm1DYVp0NURZMWdsM19JVjBaQ1pWRDczTnZBTEY0ckJlcnEwMkU4NW1kdVhDWXIyRmFUdlRVbDAxcjJpMjZSTjFfdVJEM1Raa2NXSmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-countries-approve-compromise-on-air-passenger-rights-reform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzFHenk4YjZzMnVQczEzQnF6NG5iSkNwaGY1Y3YxYTFTanZ3TVVOTTFOc3R0ckRXeEhDZHExVEhzM0Y3TmRTRFpLcHhpb1RpWERndnBEQ0plaWpJbWp4REFaRkg4QzF6T0V2cFRoZ2pfam1sNFVJNzRmMm1zMUxvWXJKM2pZNURmVVBrN2loNUc3RXZaWnBTcUZlTXhUQWxQUzhPanFncmhOYlZiNHF0NkZGbUhPWknSAbwBQVVfeXFMT0F0Z3lzS3ZlcE1HRlRkTVJtQjBBNVNkY21MNm9tUVRfYThOX2xodjRNTE5JVW5BclVZUEhMU0NVNWdsX2oyZzdzak41Y1FiYUU0OVdFTTd6Tl94ckpFN1ktTEdvUTlNWVZfd0htdEYtNUF3VFozNkkyVVlISWFpaDFFajdTVF94MV9EZ1c5dGhQQUplYzBSUVRWZXBoWDhPYTRBc2JtSTFDV0U0VlJtUWViTmoyMEllUzc2SXA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOYkd6VUFmcHVLSnEzS2tZZEZqM3VDbFc5bFhieURSZmV6aEdKU1BnWnJkS0JSU1Z2WVBvT0VnRzJhUFBSUFk5enVmR2d3ODZTd1ZKOXZPVXZjMjNrVXRINkJ3dEFhazNiUmhJVUhFQTMxWEx5cEJic1FrcVlXMmNOS1dWV29jNnl1bXUzX0sybHA0RVdnZmJ6d0RBR3pEUdIBpAFBVV95cUxOeWZjdnRmdzJWOTlCNVlqMXdPQ01MTWlIVll3N0VSdlFvdmhMcXBfbUVydW1oTDJIODFRYTktSmRDRjFLZl9ZNDVDQzd0TmUtbXhHbkY4cnlxSUtiU1ZERXJHOTRBZ19UWDlvbDBpNzQzWGNKZkJWRm92UzI0NGRra3dWcXhybndveHg5ZkxMampWLTdCZE52Mlc3c2IzOE9ySFdsNw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/12/activists-form-human-palestine-flag-at-world-cup-opener-in-mexico-city?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/12/alarm-as-ebola-spreads-into-new-areas-of-dr-congo?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYzViRXFob25nUTZpVUE2MnNsNzJlMkZLLV9raHBUa1FITjdJa3dtdEpOLW5TTGg4TUQwN2lMNEs1SE1qbGtpRXBRU2Zjc2FaR1JRWmUtNU81V2I3SEx0c3I1NXk5TzJkOWpmWXRVbmJma00yanUyZHBFWWsyT1d1d2VzQ1JGOUlsSEtuZC1xclRLdFVwU1JaTHo1Y21ObDYzYVdrWXl5ZVN5YkxudHF4RHYyd2h5NDFtYjNZR2hkaFQ1WHNnd3BwRGF5aGd6V0dEeThBR0t2NjYtYjBqS0JLWA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
