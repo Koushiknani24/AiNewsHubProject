@@ -32272,5 +32272,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/culture/culture-news/donald-trump-name-removed-kennedy-center-1235577092/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-source-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1ZQZTJRSW5PTzRXY1VkRHRGY3JlR2hTcWFLSl9CQTVNOGdIWkh4NXVWX2l6VVlvbTRRVHZRb0U5UFZ1MXhqS2VXSV9QQmVlbUhHalhYY0FwcVBzYW9Fa0hjZHNhLXdkR09nbU1UbjF2UTdYQnRIRDV6SWpXb0NKM2I1VXI5YzZKZ2stWkxGUGFxWWVDUVZzTHN3bXAzY1RJbGV3SzVxLUFvY05V?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-tutor/mnd-tutor-olinia/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1VnFTNnZ3M3BJdXliQVY4LTRHWG8zUU1LQ2xSQnk5NmQzeWc0ejdHX19TVUU3STQyZVZWd1VrX29Ud3VDWW52di0wZnpPWXg4VTZOVnln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/13/keepy-up-cop-wows-fans-with-football-skills-at-world-cup-event-in-boston?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRHZpU2hSVmJWX2hzVFBSaWJMVTFERk9JTGlCU0JabzY4NzNvWk1hOTBfeU5JRU1fZ0c3YUpSRG9jS0s1UkFnZVZNZEJBaUpzajFqWVFua2FQdHhUc3ByejZOcnA3Z052M0hFd3k3d1Y3OTlHVUx1bGdiS3ZxdEZYMnNQODJ2SkVWVWJGSGJYVjA4WnFuOVRaU3ZSbFJEWmJ4TTFyRWxpMk5KZjAzaS1Lc3lXTGRPT1JxYkYyTVl6WTc2NVhIT0tDTVFlemtBWGs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/13/ukraine-to-keep-targeting-russian-energy-after-hitting-sea-terminal?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/haiti-fans-pick-up-beat-52-year-world-cup-hoodoo-ends-6181461": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
