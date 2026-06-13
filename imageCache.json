@@ -32170,5 +32170,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/week-in-review-world-cup-opener-protests/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/woman-killed-daughter-injured-after-scooter-skids-on-marathahallisiddapura-road/article71097868.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/england-world-cup-equipment-theft-kansas-city/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/13/trump-says-agreement-to-end-monthslong-war-with-iran-will-be-signed-sunday-00961472?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/trump-says-deal-to-end-war-will-be-signed-on-sunday-iran-questions-timing": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3V2bVZyeXZXY3BHWFBlM0Z3SUhiS280Z0U1UHh0OS1RUWdpLWY1LUUyYUx0MUlnZkpkWDNzZGh0ejB4a0Nrc3BlbTNqNGMtMV9jd1BoWmQ0eWNNVE5fZmFVSXRpSkx1VWtRTjZyVHJiVjE5Q3NxWXV0OERsSkdVem1UbktwTkxpaU42NUdGcm1CY0ZzZGFoZGNZMXNFblJ6RmN3YzhuZ2JxRG01cTZ6SG8wWFd5ZWJt0gG-AUFVX3lxTE4xNlBhZ0ZJYUJPUnktWEZVc2R6c1pIOTdMdWlrMmxfMkdLd3Q2dDZBdENYcTI4OWxNOC1GQUFzcHVZcnZxR0NzNmNsS2VqMC1LRVBzSldHR3NxYzNsNjdaanpYSEUxT25VcVRmV3pSSTVsXzBuOTBjQ3Jubmk5dmRmUjZQQVg1b1haWFBtMlN5LS1ZMmRCbV8xa3gzNktvdHhnd3RQUnhSY0hKNWtOY01vd2h2UEZ6QlYzdmVDLVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNajFEdlh0WVZnQXB4TURZWkJ0MkVfOVR0aGQyY3FXUUtyUTA3b1ozM2VDckR5YUktVmhCd2ZGU19RNzJ6eGJBYVYtUUtFbDJQUXNCS2Ntb29YZUU0OHpycXJoak1UaTJMalNtcnBFNjhGZUlwWE9wMlEtSkhlU2hFOW1rNmY1NXBzTnRsVmlnakV4Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVTFXcnZGQ1ltWTgzcXdreG4tU1MyRmFveWZnbWdyZ3ZKU244M3EzUUNHV1BwU3Z5djE1UmdJU3BCY0dOVC1VTjgxLXFGLWtkaHZ6LWNYWVFRSmdkQkdDR3pVenBzWFVLa3NlMTF6SnF2UktsLTBCaWZNYlZQcVN3X1Mwc0ZJX1EzTXJkS1dmNDNHR0U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZcWVuUGwzMTNybzJfS1pSQWxFRDByb1JhYzJqQ3lKc0JQd00yNXduRGR6NE4zMm9uT2xPTFFsb3FPd3Fyd2ZLd3RJTS0tNkpjRGNvSE1rLVVTeXU4M2JzU2ZNYmlLTHl5RDAyTURvUzFIbldCRVE5bg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/alien-earth-xenomorph-gore-1236619920/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/13/trumps-name-kennedy-center-00961458?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdzlvMVplUjNNVU1yYTVOQnFkUDdkMURnWllodUdERXJIcnYwakVmR285aVZjM0g2QVFKOTgxSThteFoxVW5EMHdHaEg3RFN0NnFHUU1PcC1qNGk1bktOYVIwVjFUaHpRbXNoVHNqVkVFYUtCVFRhR3k3QmlpcGlIcVotQ2ZtLXZOZ0ZYNDZ5MFlKOFhxTk5XQllGLW00MjhSNXlQUUhfeXJrSTZPdDJKbFZ3c1Q?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/13/oval-office-octagon-how-trump-turned-combat-sports-into-a-political-weapon?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjU0YzdQVzB6cXh1SFlJWE1ldE9WSGpfSEY3OWhlZWxmTERrdF9YUXJrRHBxSHRpd0xOSUdST1ZWbDZmd3FleG5XYlpTMjVvUHM3bUhjNEJzOFpSZnJkdFNUZTZmQ0dXX05QU0ZFcW1rZHRadjNrc3IxUmplQkZJaTYzblNVWTNCYW5TYnBJMm5NNmo0QmdvTFJSSTFWNklzVGhiNFR1TklRWFU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbVByQThQNzZHS2RpeTJlbVVSN2swSnJscldaVHplZkFISWY5OEZnWGMyM2pHcGdRVEc1Zi1KYzhVcXowUjAtSTJhdk1PRHp5T29KOTM1eGdKR3N0Zm5od29ydEZEQXNRZjh5cWFMNTVSc1UtUTE4M1d3SkJ3T0xiSWtKbUxjYV9BYXRUTXdDNzBKSl9qcUdNeERzcGZqeWpFbjZicmpqTkpQU2llTUh0S0hBeGQ5N3hQM1hTMXNsRVNRM2hqOEJxaVNJZk9LZnhPYnRIbGJuRzFsNlUxdW9lcVNtb0JyTWtFVnN6a2VfXzY5OVZKNWM1Sjd2ZjR4R1lkVFHSAYcCQVVfeXFMTVNfakxiaHZFNDdxRmRnNGVsMzZIT25QZ1Y0Q1JzNE1oTWJxd2twWkd6UDhNcHh5N1JCNU5QRTdMT09iLXp0cHptWGR4VGhtZEJkQ1N3aERIMmtzU01TZDVyVmlqT3VxOEpyeElON0ZBbW10aDVWSXVlMU5JX2otSHlXdFV6WDFHc1RpN29CNGVZdmJ1Vk5venVPTXdpeGhmcE5iRGQ2QllEbkpmUWx6NkJsVkluQnVPMlFkNEtZbjQxb1lISlZIc1VXX05mSHZkZEFSNjNLUWc0LUhwR0JaemVKZmRqSU05QWdVMG8zendQUWoyYjd3X1lNMHpqR0ZZeENsU3hnNHM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
