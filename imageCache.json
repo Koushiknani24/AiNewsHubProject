@@ -33154,5 +33154,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/academic-initiative-vijayapatham-launched-to-boost-student-performance-in-kgbvs/article71101717.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-truck-out-of-control/article71102104.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/14/iran-deal-teeters-israel-strikes-lebanon.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/football/germany-vs-curacao-live-score-fifa-world-cup-2026-live-updates/article71101921.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/14/hegseths-strait-of-hormuz-not-clear-00961715?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/trump-tells-putin-he-is-ready-to-help-end-ukraine-conflict-kremlin-adviser-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnZQSVhSZkxKQ2ZVM1Frbm84c2lfbUN3OE5wdmJYOVVXLWJHYVYwcjVsS3JZY3Fpb045cDNYVkZUNEZmdmFJc1lieVJFbkdQbEFQMV80eWZMTzZhZ014U1gwZjVCZnNBUDlVNVA1cjU2VXRyM2x1RTUtTlJkRXcwS1BucXpNaFF6cTJmRWJ6UGY5ZG1vYmJDeXNlbWE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-mexico-prepares-for-usmca-renewal-after-trump-says-he-doesnt-want-one/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWFhTQlE2eExGbVdPb2dydGZkVjhXajdsRTdFVzM3bWQ3RmRJMFUwZ3h0YzFhRlh3WlBjdGFJMk9CX2xMNFBycm9md2YtVl85cmltZmI2TDlybHN6LUlpdHgxV0NORUNtTUV1alVQQUo1UllYbXh2SGh1R0hZWXlDTTFjOXphU183c3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOS1idnFqNEdiT251eUVpMzV5MmpUTkZDT28zM3lQdmZRWkprOUswWVR3eFUtVWFtYzN2TFA1VEhZQ2l6T1VsWEdBMEdMbjdVY1d1VUt3NlBXUDB5aXNwY25MU2pRQ3N3ODFBZFhMQTh4SnNESVFrNFpzb3RKWlhsYW1ES2dTQ1dzUGVXYjB3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-discussed-peace-talks-in-call-with-trump": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/world-cup/a-lot-of-balls-brings-together-100-mexican-artists-to-interpret-culture-through-soccer/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/14/trump-g7-iran-ukraine-ebola-00960717?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/14/al-jazeera-reports-from-israeli-attack-site-in-southern-beirut?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaC1WbGRORDhoODZGMGE2dGRmbkhfZnRRRFhzdHRBR1h5UzRiandUMVl3alEydXljNi1LZzNhT0VwRzFEeHkwSUduaktsdm5hRTJiei1hYjRVbTgxV3BqNnB1WEdINHVoWnhMb1ZYZk9VZjNRRDhscHlpMm9LRlRoYjRBT2stbEdHY3NLa2lCZjc0VnBPc1BrYU8tbWx3T1RjTTdVbUd2Z2NHdnNxMXd2VnhsTVlzVDZGMnFMTEY3bmYyUUdnRWU2OEZXaFY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
