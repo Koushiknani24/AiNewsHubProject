@@ -34810,5 +34810,173 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/16/kevin-warshs-fed-is-not-expected-to-make-any-change-to-rates-for-a-while-according-to-cnbc-fed-survey.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/lifestyle/arts/paddington-the-musical-broadway-1236622520/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/athletics/athletics/article71108307.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1Exa2lGWkpiZnMwQ0xicmZYV2ZWWWU5MnRfUHhpcF93eDMxREY4ZG5Ydnkxb3RUSjFwTlV5Mlh1cWpTRmhBUzQ4NFViUlhUeWs1Um9CQVRJQ2ZJaVF5SzFMLXMwYW1Uc1QxOGpWOUttbWF0MEd4NWNrSnNWRWJEY0h6NXRRY2VyTEgyd29JM0RzQXVJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeW9YdHlJX3dXZUFCeEtFbGxPWUVJeGNYQjJwM0Q1QlJIUEtnbUhxRmdVbU8wd1dZRXFHY1pFVHdmMTAyNXRFVEI1U0YyY1VwYzZMTWVKZmREWVQ0d3NTUy1lb3F6Vl9selNJSlZnWVhNSjRIbmJpWGl1RTI1ekVEMnlZSVRhcUJQVEpDc1g5VnlsQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/gallery/2026/6/16/families-return-to-shattered-towns-as-fragile-ceasefire-holds-in-lebanon?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/how-germany-and-poland-rebooted-relations-35-years-ago/a-77576779?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVlIdUhMOHdGaHFWTHhzQTcxeGV0NFM3dU9lWnUtVmFkV0F3d1RNUlhwRGgwQzNUTUlaWnJrX0E5RnpfY29DNFdheEU1d0phS1VOT3c1UnFGa3lYLU1Rd1U3SUhFQmxTQXRZeFFxRWFab3EwaWNKTzBzY0xDaVdIRUVMQnU5ZEdXa0RuVjlMMGozT0kwa2x4RlFBY01NT1J6UVZXdG1qdG93ZU9BSXhHTU55aU9mZlhVM0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNamRlY1doZWxvT18tVWR1YnNwUDJYdUI1YWtyRG5rNXRlWE5MU2NOOWNfYjFaTkpaWEJDMkJpeE1iX3AwdkhKTHFnckd5WXBVb3VUOUQwZDdweV8zcVVGQjhIWXJOcmRCMFNzcTZOZlczNjZzM2hNNTJDLWFwZktJaEh5MzZmNm1EV05OdTJyWjNVWXptRTNfYXdNblo3cnh4ZGdJb3pEZ3FaZWJNVnF4ZXg0amU0c19HMVdaWWRQNWNiMGVwOHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclZaZUVnM1ptMkFpRkdtbzU3SEUxUHNKei1zLU9fZHRROF9SZDN5aTVtbWZmU0pTekQzSXgzejBBZGc2cG1jMkxwUVF5dHRmeWppbHpDeDFiVnc1VVp1Tmhsa3BqSjF4bEloc1VZQktNcjRvaVZqaUhTV29JblFoVFZOaGtKZ3ZiS2I1SXR2MFBhYmNHd1BQR1dzWDlZdV9hT1NNNw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYXQyM0pfNGVSOEFFOG9GdlF6RHc5V205Qy12RWd6WGhTejlrVGZzUy1JekE4SVhXdm9yR0FPNDVZbW44X2lLcXlVUG50ZjR3SEM4SHR4dHVQVzJwVEZKUmRiSGhMZUdpbDNOUzhXY0pESGdOZ28yQ3drcTJIMHdhUWpqNDhZV1MtUXJBSHE0ZlhleTdiNEVHY3dWay1EQS1LUjUyOGR2bVNkUlBPLXlfazRZSFk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3271696/pm-anutin-wants-foreign-culprits-deported-faster": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/16/trump-zelenskyy-ukraine-war-iran-g7-summit.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxORG04ZHE3aldLUFk3ZkdiUnAwMTZZbVBZUkVrdEI4bUFJaWVaZWQzZ0VxMkVacy1QQi1mbHAwUGV0aUZKNWotVEptcG5RM2x0ZVNQR3BxVTBHWHdubXB6cVRsWXdvWFJYV1V4VTY4QXR2SGc2REFBRGdKNkJfb3F4MF9kbjNMZ3UxWUp5Sl9hc3BtUmN6WDVJaFNSbW1Vc3hyRDFTRy1UUHhvWDRxTXBHZk5xcTbSAboBQVVfeXFMTV9NNVNjOUN4RHBGUnZobVkzSm5HX0ItNy1OYVRtQU8wQ3ctZzdIQ3FRa1JzXzZ0ZnJISVprbVJ2czJzNFZBWGdFNGVUSDZoVDJRQVEzMUhQOUJzUlprcUQ5Mjl1aVhmcmZNNzNHb1FMc0RaekRLY3lMZjVvWktSS3loWWxkVThMRmdzTE5acU5LbmJ0V3hKcnpDSExNdUJYQzQzM0VNR3VTS252QmpRWTdGWVJPYW5fa1BR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmxuTnhpZnhfWk9xMXRkVFVNeXBjXzZSRmZRakJpR0RzZnBxOWFfMk40NW1yaXBvTlBQY2FhbG1wY0w4d0wyRFhIOUhjSlF5VW5Fc3pwZ2xRaERESmhmWGp0UE4yT1l2d0M2N2R2UTlLRGFYSkczc2wxcWxCSU1TMzhleHJMR2pKSjcydDRGMHE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/the-secret-eu-trade-negotiator-who-made-trump-wait/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/diplomats-and-abuse-chipping-at-the-shied-of-immunity/a-77575633?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMXpON2VESnFQTVlOS0hkZ0pYOWw1WjBmblktS0l0Y0FSU2VrTmRiRUVzODJ5aGRzdFNKNUV3VWlENDZ4Y1EwOGV1U3Q2aWNUUkpGMFdJME8xMF8tTFNHOVVpQVdENXI1cVdJV0l3aFR1cXR1MTkxYi1CVDF4bE1lTmtpRlpnNS1zeWZQLXlKOFRDdWFxNU1MUjV0dXdpaTBGTEktb0t0U1VyU2FZdWdOelRGZzhLeXNpVEwxOC1fRGQxZi02WGpB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/16/gaza-hearing-loss-running-out-of-time?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/06/16/investors-look-beyond-the-magnificent-7-as-wall-street-embraces-the-fab-10": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMURaQzRlQXBLQ2E3R2NLaTlJNm1OcHM4NGtjemkxckgxM3N6QWtvclh3ZjFodUJ4aHkxd0Z3ejJrSVp6aER3T1hhUzFGRWRISzdrb25tbVUzemIyS0FnSWd2cjB1Vi1YVk56OGpsUW1VMEU3dzVhekJBeEFsZkh2RHUwU3FHRWNpanNRR2IwS013U3dqTGNiTzM1YW9uRldIYW1IM1Q5R3NlQTVoZ0VxSm5DZ0RPZ3NLQ2dPWnMzRUIyX1dRbld1c19Ld0t4WTRlQUxycXItX2xUbWJmdElsSlBpZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWJMTHlNeFdXSDNwbUtBalNhalBpekUyTVJNNVpmeEJTRG1IRHE3MHdzS2hJcWZvMHpzTnJBZ3ZkQTVoQ2NMblFpUnFTa3Q5UFRiZWxEU2R0WWhlcmNtaWdBNzBPWGZWaV9SVkJka2dHcjJwUERyOWJoQ1Zxc3BlWklSUlFqMERRQ2tRbGdxM0NaUlVTUkpUMnc4Njk0SkNJdU5DWUgwWHhvbnlTUHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdjJsOHlkMVRDeG5naUFoZU85cFF6dHg1X2hHcG9FVkRJamxsUFZZdGdoalpEdXRhTGU2Y0dQUGkwdjlTTnhxV1NXMldDWENwM29NbEp4UW1wYVYycS0zdGllUXZCOGZSMF9KZVloMnJkYVIyeDNEak9ka2lWc29hUlViaHlZVnRwblVMM1UzZ00wdlVLNFhXblJVQy0xZmpCX0syeFNSMkRURHNacmxhZWxRMFVTaTJERFlNQk0wcDBoV2xqcnYzQ3lfd0xhVXh5Y2JjRVpuX3dKREh1YVZoa2pzZ1VwSWVyZllZZtIB8gFBVV95cUxQaUg5S2FnelFDNnBFbU9MSEFJRmVndkR1SEk2SHdpTmVNSl90eEdCM0I1QVJMWXVQZE5YRjdWQUNST0VNOEVuRDBXa3Y5OEYwRUZ0d05rX1NtUEJRLVYzR0xuWDBIRDFUQXE2a2dwRE9zUXh5V0F4UzJmM2JxVTFrV2V2dlI1SVdHMkF2WE5jdE1xM01IOE9fUzZaWS1HUEEzeVh1RUpENUpqbS1fNENVWlgyZHZ3a0RjSmxaSC02WFppdFhJZ0JOd1Fqc1o4SnBudkJjRFlWQU0zLWlOU09LU2R2TzdlcFBuVWhOM2pNalJSQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tdlFxcTUxcHVJRXZfVWpGX3FYMmZjTU9ySjJzaGdtbHlyVUdjZVVFbEQxaWUzN3Y3bnZCS2Yxby14b01MVW5hQmVWS0cyZC0xZ2g5R2hB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTBLQmNpeExDMjBmTVFNRUZ5YWZ1bG9UanhzRF9UTzVFTVBjSGVXT2p6XzZPRUEzV2VrTjBMRWotNC1LYjBCa0MzS3BkWUN2aWxUM2N3aXU4ZzVZSkkxMV9iNmFGUmx0d1lTRlpSdXU2M3h1cThsUUZWMDY2Zy1FZ3AzUHdRR0JUakg5S3R6QVhyVEc2d3p2aWZXQTV3VVUxbXhZVmdCWHZYcmdSR25KRHFORjRKNzJvN185UHZ3ZUN5ajQza0hRTtIByAFBVV95cUxQaTBLQmNpeExDMjBmTVFNRUZ5YWZ1bG9UanhzRF9UTzVFTVBjSGVXT2p6XzZPRUEzV2VrTjBMRWotNC1LYjBCa0MzS3BkWUN2aWxUM2N3aXU4ZzVZSkkxMV9iNmFGUmx0d1lTRlpSdXU2M3h1cThsUUZWMDY2Zy1FZ3AzUHdRR0JUakg5S3R6QVhyVEc2d3p2aWZXQTV3VVUxbXhZVmdCWHZYcmdSR25KRHFORjRKNzJvN185UHZ3ZUN5ajQza0hRTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLU5sZjd6ODVkd2tSWjZfYUZURkpYNlJQc2ItWW43dXNCWUFjMV8xRHRVVXVnME9HbVFxOGl2MkpFVmNjVVdTbFJKQUY5QmM0dF9XWEx4UUt2WXBzQWFUX3ZSZVZaUk5pSzVQN1hlc2MyQlFvUUNzVzdRbHo3ampkMGo4Y3VEN1JMdkE3dTNMQmpCdmxEeFZ0UU9IUFpUWmJVeGV0UmVvTTcyLVUtSDhhTlUyMXdMQ3RNWUx4RFZuRkJnT0pkMGIwRTVybGdYZGtWaHlj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/16/suffragettes-to-palestine-action-a-history-of-direct-action-protest-in-uk?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3271684/feuding-phuket-governor-and-deputies-transferred-off-the-island": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
