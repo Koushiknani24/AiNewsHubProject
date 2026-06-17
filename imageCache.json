@@ -36058,5 +36058,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/spider-man-brand-new-day-new-trailer-1235579794/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/17/trump-vance-iran-deal-nuclear-g7.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/17/trump-israel-lebanon-netanyahu-00965661?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/us-iran-deal-memorandum-of-understanding-text/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/record-34-million-olive-ridley-turtles-hatch-oaxaca-coast/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fMkFwOEMzOGpsN2J1UEFXMVg0TkZTQ0lRWXRrUmU0alR5Y2hOY25Reml0U1pCRTd2dGRXV1dCMDlYSVZLbElTS3pfRmpLdVRfbXQtaXFjNUU2SHVrMWtyRTZnaUU4UWJxTGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/17/tehran-says-considering-plan-for-iran-us-presidents-to-sign-deal?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbGZjRTZKXzY4UWNtRzE5VmtLNFBVQ1FnaG11YlhUMTN2OWVmNFVIb2xpUGtzeWVvSmpWaVRPcHU4QTNrU0phRlhEcDBEd2E4SFdHLUNNY3BZUVppQXVwRWZHMnp6RVRmUEtLUmVPSjRaR0cta2xuNnExUU4teDExb3BYUVdQNXdaclZUeGhnOWdYSjFyeUgwSDh0T1h2UVFKMEVqSElCOXM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnVYY3BlQ1hiMVo3Z3JjRkJ6QWJvdGFOZlNDNjdDNlVpR19oRkpzbUF0dEg1R29tZFBSYW9ZcDBsNm9RRHJTaXlSZ05Oa01EbENlU3V6YllILXZWU0s2Y1RLZUNUNGlSU1JRWGg1UkxOWklaa3ZCQ0pJVm9RbjNQWFJocVRjbWhGZ0RwWEZPVm9jZFZxdVluR3J1TktpeEs0YzEwdE8yTTRra3BZQXg5OTN2dUUycDh0M1E3WDVzTE1jdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1QnlhWTg1N2V2Z0NtbklpSTFKS3BHbkQyUW5hZmtmS2g0X3oyNFlBekJYWjJlZmZDTVF1clVZcnlPS04xeHItLWdadThZLW9Rbkt4N21QellYbzg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmVDcUdRN1ZITDBvdkhvSmVsRUt3QlZIMUFucUVkSTN4SGZGQUZ5aHpzWmlxYTM5TGZKdjRDUGg1VmpET2dlTTB6OEcxWDVYTXRpRXJYVVZxU3lsNXNxa2d6cGExSnhYcFBia3R1dDNEdkRlTktqblhnbGhpbm1TZ09jaWNwY25qaXBHZ0g1R1lqN1RBNGlGNEhZRG00U3V0X2hzQW1B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/ai-artificial-intelligence-anthropic-china-g7/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/explainer-what-challenges-could-stand-in-the-way-of-a-final-us-iran-deal": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcEk5RkQ2UnNHNnp5NE9vUkhLT2M4V1laREFGejlkT0xOQW8wbDBGc2dIaVNfd2F1WmxOLVB0dUx4S2htUFNvQk9ya2VZTU1ZR2MyYXVwVnlUZ2k5bWItTjJXRTdBbW1nQ2pCblJXUHV6aFRQU1IzWFUtOHM5QTAzRTRGeElsOWNIRC1ZMWk1Y2tHeG9RN1Yxby00aEhSdTBDbV9KeUlOenQydkVsNHN5X1FKU0JPTW9DT1BmNUJqRHI5ejNOcW9vaURhRzlLQdIB0wFBVV95cUxNRUZkQjBrSVlLb0hVVzZaUjFnZVl3cGQ3bXREYTBQcUo3UjlKMDdOSDMyVUtDTHB0cEF6amtGUzZDRVItWWswZVhqREFhNHhId3VXNWN0QnhRX3RrV0dXYjhlZkE0cGlhX0pwNlQ2U3E4VVB6Ym9oSlBqOTU2TG9OaUNZbmJUZ2hubnRiNDJVckdScWo2cTdGT253S1phYWdRY2toU3JhVk16TkV3N3B5N1gtV0c2OFJQTTc1Q19HeDBwVkFPaW9uUUxLUkJ1OFNSNUU0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606170570.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/cfe-power-mexico-2030-wednesday-mananera/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/6/17/will-ukraine-become-an-eu-member?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeV9abFZQMUNMNkdJWkVoUEVOQTVkZEVoUWVMYlE2Q0lJR21vOHJmbV8wMmdIVUx6SVA3SnlpbVdMMmNwU3UyZzgtbGtNZ2JOQnVYblNvXzhPdnRQM0JvZURqVWx2VUh3eEhiMG16S1F1dFNlbjhVZFBNemxEMWIzSHJsR3RSc2prQ0FlTzMxc2VkZUFudi16UEFCYkRlaUo5b2xkM2Z3U1EzWHNheXI4c2RaRXE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
