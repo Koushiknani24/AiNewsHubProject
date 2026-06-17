@@ -35902,5 +35902,161 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-pictures/lambrini-girls-new-york-live-photos-1235579457/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/football/portugal-vs-dr-congo-fifa-world-cup-2026-live-match-updates/article71114716.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/17/trump-us-iran-deal-g7.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/eu-g7-pledge-support-amid-drc-ebola-outbreak/a-77588901?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2pCWTdVV2FuRWx0SVlHUFRkY1YwdGI2aXlfdkFycmdhR25YRkVqdHpMbGllY0JJQXRZUVFRNTF2UG5VT0MzX1lnZ3N3R0pLLUpEdEVIUEJhOVNuQUtpSWJ1Y3ZYYWlIdVRIaU5RRDFOLWFkWGFLbUxzeXNGWWlfWWlPcWE5SjBqVURyOFkxN0p1Sll3OXE4YnpxRk5KSDQ0aHBvNHFEN3VSdW5iaU5zWk9sbVI5X3kxRHFOU1FkQktBNU5ad1N5cg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606170219.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/meloni-says-social-media-ban-for-kids-is-no-panacea/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFBpeWVkNVh4OTZMbnFqbVdIU0pvQ2lUNHlwXzZFbUdkZENLVGtYcEhMU2UzcHdtWkZFdFozLXVxcXNabGNnM0ZWcm1yOGNBcElZUzFlUU1kX0Y4aTBPTnVjQ2RWN2k5WU5xV3RXU0FxUWgzcEl5ZjdpMERHcDdXN3R4ZEUxYzd5MlA2ZXdZNzJ6d3J0YkxzdktGWHBvZWFDTWRyODZITWQ3ck5XOGZSQTR3NA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWWRmOWJMcHd4VGlEdU5SeEVDQm0zT0gyTi1aRW9kcVM0a1FsR1loenZLbkVVV1AtSFVRVnhhd2NsbVZPVGJBa2xjbU00TElsY2VReWlQb3BKSXcyYzFLVXRxaGRxWnAyWDY3UktPUjBZNDdEUEs2QTY5a1ZPTHdlY1E2dG0tZnF1OHJKMnZoR3FfNmRUZHZpVVFMWkRsWmpxWUUya2VwYkpwZ3pyYnR5cnlTbGtnSmRFZnEwcUd2R0NsTWR5YkpV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeWxuZzNuN0plSXNCWm1kUWplRVMtR1BUODhhdi1fMkpyMFlFTHgtdU4weXQ4RGFVN2VieERjOU1WZm5FTU5Ea0xmdU5yQ1RKNS1EakNCVkl1UFBjTnZmcHl1TGNZa2x0TVNyN19jSXNBLVBDanRTMGZsUEE2MnRtUlA5U0RtY21IYzRCMkFoM3BveGgwWWZzS0k3YzV0NmxKNnlhMWJsbDV6V2dpVTFXN1R6ZVNqdnk3RWU3U25Kb0I1bHFNQ1N1MmNTVjNMZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRi1zRnJDYWtMaThfRjN2alZaQ1QtVzVqYzhYSGJjajFBUnJEOWs3S1JZTUtxdDBRT3huakQwQUMtbm1GcWpMWjU5cmcyMEZPU0hyMnItdlF2VUY5bkkyeGEwYlQzNlRIYUlkN2JwcmhUZzAzTTB3YV9qanR3NDE4MURYYUlWTHBmVy1yNEZmUW9TMVBNYzZDbEJ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgJBVV95cUxPa1p5Tnk0Z1dJLXM3MGNKUkdKeEJHcXU0cnM2bS1pSHFmS2hCVlE1ckw3cWRMWVpPSzctV2RBY1pCSWZoalFoNUxqd2hkY3duZWtGR0V5RDE3M1VIM0VFY3AtY19jQWtNTklkdzFlbGVRdUNyNGlQY3k2QnBZcHJmT3Z3RmpSSkdVMUl5cTRVYzVvajBOX2FjYUhFcHRMRzBiRXg5dC0xcGh1NmMxa1o4emhGTHFmd21FdHhLakxhMnYyZnVERGlPdEttVlBJckk3cU03STh6RG42T0N1VUQ1a1pyajZPUzVhZUZQdXlpWjN4NjE1Zi1ZQURzQ3lKSERSWVctbUdBMllIWHdmNVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTJYdWNSRGdBRGM2OWtIQWpnTW03VE1aU3lDR3hTT1lLaDNrcElNZjNHNUlBbFR5ckJZZWJXbUNqN2JKWF8zSDBTQnNNeVBNMldvVjRLbFZyZEc0YlVNSGdPWHRVOVVjeXdYTV9NSEdJTWtHOWExcjFvcm5KaHRyQm5SOFJpSm9PMzktcHpRR0w5NDNpZG1jVTFKd3ViNlcydG5GZzQxaWs4TURqaHhEc0VVZTdlNFNwdDR5dHh5NzBzcVRXajBR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/trump-says-netanyahu-could-use-softer-touch-in-lebanon": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606170215.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3272361/rights-group-seeks-bail-for-sick-activist": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXJxUUJVMVNFeVc0dUhXSmNZdVVyaVNCREZlRmJqZnpwTVltZVpMczlmR3hfaUlyZFl1NkpkTFVGTkpMVjU5bjJtMEtuTDBFMzlwRGFaVk94UkEwd3BvZGZjMk5KQTNZU29Za3NkNFRxV3dyWC00UkhzOFp6TVR4U1JDOWstRXFPRWlMWlZTNklQTTJydnFxalBwdHg5OVlBb3lHdnJ2UmRhTmpvSV9QWG5QLUZIUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/17/trump-pushes-to-delay-appointment-of-new-spy-chief-in-legislative-standoff?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wSjR1eHNneGZfOTB0MUlNdFRZZmo0MV9jbG9PWW9yNGotY1pwbmJvSEpSUGcxLURZTUgxX1FIZGVKc19SQnZSN0RJSUp4SThOaGhlSXFQTlo4Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3272359/thailand-prepares-for-el-niño-impact-on-water": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uTFFzUE5SblgwaXNYcjl5R1BNd0dVd3NELUZMRFVkNkpqOV96MUZqNTBQWkZNTzE0Um56VGNRTno4SEJybHRwRnpLTG9nRjJ2ZE0xRTR0ZFNMcXV6UWNNNlk2Y2hFUGRWcnd6V1BNLVhqUGZabUZZ0gF8QVVfeXFMTlV5eGVzUzFGN01QSGRBZHljQkNPeGJyYzIyYVFnMFA4Rk5SN081cXVnNzBZREhtYnVZUU5oSmVfeWtsWGNZX3JxaW5scWMxSzVZMmh5YnBLbmlSeUNwRHloT1JjWGtRWEs1ZDM0NXRmQ2UtTlpXTklRekFudA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tTzBJTkdNallsSFdSTy1vdGdoMktZSWxYZExoNXhIeTU0Sm9obHhRT0JubW81amh5T3NJcmV5aTNMSXV2TU1Qenp5TDQ2MWpHaG04Skdn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV1JUazNOQ2l3cVhsOUhsT0tMRmxDd1dVS1NZRVl4cGpBXzZKNEx1WUYxQmZQR25NNGRLZE5qOXJiS3VKWWRBLW4wajRNdUJoeU1aWGwwUUdzbXJyU3pxRFZ2UEQyX29haXc5aHZCaWQzdFRtbXpfclRkeHpudUlzU1VXN1BQbU5ReTlmNXJrNWNJdzVPdVdlN25USkotT3M5c3ZESXRHSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_massive-brush-fire-sends-thick-smoke-over-miami-170626?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/viktor-orban-backs-marine-le-pen-over-jordan-bardella-french-far-right-presidential-candidate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
