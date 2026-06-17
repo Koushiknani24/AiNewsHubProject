@@ -35740,5 +35740,167 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/950739/toy-story-5-review": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-features/slayyyter-worst-girl-in-america-crank-interview-1235569057/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQeHZNNkRfSnc5MnpVZ3FoYzdlZEcwVnd4eXhrRXN1M2NsSzNhcG5SQjAwRVVlSS05Ym9MZm9naE9RZ281RUl2RkZWc2k5OXJpaW1zeW1MVVotbVNsZW1JV29CY3A1c3oyY2dwT2hpdFpWdWJNd25hd1AtWGJLal9qY29WX2ZMc05MVWhLQ0R0aVl3NWhOZHhjdWNCbjdwQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/jd-vance-interview-iran-deal-text/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/world-cup-2026-africa-s-new-era-takes-shape/a-77578984?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbEJweEMzYTAwVktrNDJYckdlUnlycGhXQ3pjWnlUTjZOSFdXb3Jod2tlQWc2Y3loTTl4cmFGN3ZMRUdJVEs2Mk8ybXZ0Y3czODFLbkxGSlNnREtSQkd1akxrdFNkc1Z0a0NwTVpFOFZMUUVjeXpjQVhDOUtURHVyRmFadUZORXBxQ1dFWkdSQTVWMVdONHFJTXdaeVk2UWJTVkxOVUpmUTFMNkJoamRRYUY4V255SmpXWnlDdnZ6VWFscWNiZi1HcWs4TXQ2Skk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0FBZHhkbjdrWUg3ZC0zMW51MUwyZHRIZFJBMjBMdFkwd0o3OUQxYnpSdFlvMUVEQXI2Y3EzTFRBUnZsX1huYTA4S09LaFc1WldYc1pFb0Q5RVlTV2N6U1M4RjEwTVphMXZHR2hSaklrakFYTE5FV0F6TjhMRVhCcWVNdlhEWEdXZlh3T09NUnBxekhnNF96cTRxY9IBqAFBVV95cUxOOXRlYXB6YUNrVF9BWGZSU21yNk14cUM4bFd1UjdwMDllNGY1TF94bHFvc05uWkhhc3N2NXItQWZjdk5qTENNSXQwdG5MX01lQjF6M2NiaUFjWWJER3BUNFNNN0MxVms3TDRlZmJBb2JnZF9DWW5nSFA3NlBLdXlTdFRKMzFXQTFSZE1EV09BT2ZpUjJubkFid1JNdUgwYmpCek9yWlFrSng?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/17/carvana-new-vehicle-sales.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1ZzM3BaYWdwQXpTc28tVmRZY1Z3czA2RXN1c0EwM2FaejhaM2dZLWY2NUljTG90YVhZRkQ4N2w4R0FWVTV5aDJoTXcySWRUcjk1T1hnVF9RVlV2UzEtckE1ZUllNWlraThsSGd5S0pOSmR5S1YwMFE4V0hPZ0l4WU5hZjRsbTFGRWtzaExITjRadFhqTVBZbUxBWXZkTi00YWRLR0ZxTzAwQ3lpdkJfLUZJaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByQ1ZHWU5SeVdRMXRiS2o5TVl3NEY4Tmx2enZPMmZrTDk0Wnh4aHVmbHRQWXlkSmdCOENDWjhLdWhvNXZYdmxzdjA2WXVFNHM2R01QMEZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-accuses-ukraine-of-attacking-bus-carrying-schoolchildren-kyiv-denies-it": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYk5iSDZtZnU2bHZiMlg3TDJadDRpOGtfOUxfclMwUFZQVUp6dFdaOHFMZFdUTDVfQTZNZ2NzMlgyb1ItQU1fOExFemtDVHhVY0tCN2tXT3dnSXNJbWRibmNOcmFRb0xtQzVqMUxMN0VRZHBYa0RRREFiSXdlQXAtRUpDdVV5M2E4RFlnTkY5QnY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaG1nTU9LRUtzOVRQU3RiOFhHcm9LNmhndHNnWm1CakVKNXdGTGROaGJyZnd4cDVDS01hY2dSWmdnZ2hhMDFJY3RBeFB1YWdidkQ0M3lhckJTcERoVEU2VTllejhwVHhEczBHcnJLOURPQzh3bF83SHI4dTQyNDk3WGU0QmZETDd4bXY2el9sN0tQSmliWlYwOXg0MkVVMzh4RjhtMmh0S1J6TVA2Z2M4MHp0XzE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/krishna-milk-union-repays-110-crore-loan-in-two-and-a-half-years/article71113519.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0E2RW9qSk9ELTUtUjl1b0N4bDRpcFNqSnFvRkNiNVoyMFV6Z2ZfNnhOenRwSzluaUQ0LXU1MWI0X3NjbXpsM2tlZjZqc1YtNGZCM183RUtoNndJWGlTT193VVppQktPWklxS2Z6aTd0dzlnVHhrSzdlRm9ldVJSRlc3ME5SVzdLaFdmdkpmZzV5a2U2ZGRIY1k4X0UzQklPQmhBUm5rMjFJWkdRdU9nRWpmbExWd9IBuwFBVV95cUxOVlVZMzRLQk9pbWp2dlNadGZqbXEyVlM5aVZYbEtoTjdyUTJ3MW1IVV9NZ1FzX3dfMzV0cDF2b0lCNVVZTzJCZjlNQndUVEVMcmpvNmp5NmhidnRQWjFiQ2Z6b2pQaG5UOTBPbGtYYjhJZFIxUmFDc1RDRC1zRWU5MS1DcWotSVduUEZPQUIxMlBxVkFOYVNNLVBtbHZHTjJGT1Zlem5VbTNYaG0xXzJ1V0FlYkdmX2NfaHJB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUd2NmlUc29JQjJHdzkzQ2Y2ajhzdjN0TG9kWERUMXltZHF1ZlhrOXJPblI1bTBGNXVCWXNZTTBNVXZreG1KMEFQMTUzeE5saXQtU1EzdE9scDB0M1NXaWIxazBXQVVUT2FYRC03SkhEY2l5VzUxcGxsQ2tCcXUzUXVxUWJtUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVFSN1NZazVNS2Q3aFhJVG5RYks4WFViTEQ5X1dhaVdHTFc3dXVlSWdjcTZjV2t3eUpJVjFQQ2VqR3Yzbnc4eDIwaHZlSmh6TnJSZWhaLUhweFVJSVBfTGpZVmphQUFQVUl2VU1BSFY5N2VVZW53b2dyNmM5WTNrRzg2dWc5TWxLem9Sa3RjMS1rVjhLWnpjX0h30gGfAUFVX3lxTE5JTHVGZ3F2N3JnQ282LVBHbk53dnJwQUdyYW9MN2FUMk1CM0hOTVFZbzdVVEZFVE1RMkV6T1A5RHVTQU4zTVhFeEtWb0V4NHg3TS0yWDNTMXVrankwS3pKQlVsTkRRN09EOUtTOGRjYmtIWVktRWkxV3pVa3BiejJuSk5RMFRqUjZJVjl3aVp4NjhIYUItdU5ZV3k3ajVlRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE01a3pRcTZVUHlIcTB5MjhpcXE5eUpMSDNUem1yWThHUS1tOXdXX3B4dnZVNC1RRDhpN3oyWll2YmVhamlBYlhiYUlFMzE4Y1lwT3BCU1NBUTFKQW43RGtYM1gtdTN1ZEdneWlBNlNkeUhPTmV6MjM0Wg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/uae-airlines-offer-expanded-insurance-after-iran-conflict": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUZsY0J0U3FFUjB5bVR6TWg4WG02NnFfXy10aWZhWWhiVmZTN0lCT2hJWDVFd3l3SHZzdHdzOE4tclhySTdudldrOVBhempsTE9MVm80SnNQUXdNU0xEVUI0dTNJMjhDaGJQekRSNF9IalhwdHk4TzNSRWhOSkpBRVota0RKSkhrZWRXWGpqX180aFNSTVduaGZ1SmVKd1diSjBXVVVab3pqU1NXVV9wajg0S2pnQ252SEIxTTNzNHRwdzhmdkFMVmFQZkY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3272339/suspicions-about-ai-passport-mount": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmFRRzRQU0FTRG5fZHBqRmFSdFhIUkFpN0Q0VVFmamFEVHJmU0gyOVZXcmN0dGszVDdaM09mT1JWSktxQVJGMGdfeF9SQXVuQTFXNl9faHpwV1ZSN1lNMXpmWjJubmlQWkRBRFZuWWFLZkJqelpNM1NCengxY0Zsb1hsYW0xd1RsbWFkTUozbTNPai1BakljZUsyQzk2UkxUOGpJUlJiTWVubG8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTl8xTWZWa09McEZFVWhldGVNMzZXOUxtWGE3b0c0UUhBUU9RMi1oT0lIRWctSzhCWHVod29qYkdZMEhMcjUyUE9CQVo3RUhETjltdTBqM3dqd0VYMTF1U3FLSE5zb1NuRHNCTmNZM0cxUU8tb01rRzhkTUczeG1mLXVpMXJWSVJ6R3VvUGlKLWFTNHIwTHhPWV9qNUxZQUxQOU1fbmRyWTktbEQxcnhfZU9B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/keir-starmer-uk-anthropic-ai-export-controls-denial/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-accuses-obama-of-bribing-iran-in-2015-nuclear-deal-at-g7-summit?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
