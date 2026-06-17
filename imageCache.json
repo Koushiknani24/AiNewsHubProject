@@ -35512,5 +35512,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/football/austria-vs-jordan-live-fifa-world-cup-2026-live-match-updates/article71111920.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/has-trump-achieved-his-goals-in-the-war-with-iran": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/west-asia-war-iran-usa-peace-deal-israel-lebanon-strait-of-hormuz-live-updates-june-17-2026/article71111807.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/g7-summit-france-day-2-leaders-discuss-west-asia-conflict-ukraine-russia-war-live-updates-june-17-2026/article71111954.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/06/17/latest-news-bulletin-june-17th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjh1QkxwN3M3MjZPd1lWZjBBMy1faEQtblRMcG16OUxvUDdYdW1wVXhFZXAyRWNDQnBmaWtiTjdLUXl1Z1RmYS1rODlkTXpNVS1OdnI5VzRZOUwzeGhlUjBFWWxmRVpINlZXdXhGNUo4VFlxanJMZXhhV1lfOFlOWHVnbHBvWlFzZUtpNkNHOEhKb1NlVjlkX05iTEllYVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcGo5NDB2TDRONUlDTVVoMkRORS13Z09fYU9IaFlET3ZQcGVrOXYwc1VIUjNKVWlMMENHMUluR01MZllQRVNTZldvXzBzejdGRU9TZHhuTmxFeXRJYUdUQ3RSSnUyaUx5UlRIYjBMampwREI0Mm9wdkxlRGxJdzk1eVBkeGRFR1dtTE5PLWRCdkp5TDhWVUJycmxuUGhRVGxmRUlpTHVLUDItM0RQUC15NDhVbkFaWGhQTW5GRC1wckF3MTFTRlc1Y3NpNGpfOGE0MXRaQdIB6gFBVV95cUxQT2pTdnBRcFdBcmppV3hCVG1PMTlLX0tXdTQtN2tFVWh6QkE0LUJTamhyVnNnY0pieXprdW5RT0pFbG1sZ1RDMzcteHRPWGhRSnBfZENtMUZMMU9JRUY1dHlIdW9lZXhIamRDR0k5enBNOGExMkx6QkV5NWlhWFB2Y1YyenVIRW9BclpLWVNlRURiNV9ZVnJmSlYxQ2FFLUk3S3lVZlV2cUJJVXdQVE1FMElfd2kxcW9PRlpoYWxsb3hfUnhlRjZsZHpfX2xRZzkzeDFNU0M0YkNPUmphSWZCazNRelBvaWota2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/stowaway-rat-briefly-becomes-jetblues-most-unwanted-frequent-flyer": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/17/lionel-messi-rewrites-history-books-at-record-sixth-world-cup?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRFAwMGtXZldaNWNWZTQ4WUJpMFlFZ0lPUTlXanF2azdCZll3ZEUyZllWWWwzVE9wdjJ0X045d20xeFFraU1EY0liZmV2d2Y3NHJtYVJ4cWtKZjI2SlRLOElPNm9MUFhPaC1zeG5mM3pzNFlZNGZHNWNaZ2RtcUZ5T3RzNTBXcDl6SWl5WWg5LWVfM2JadXRMQkUyU1VvV0U0dmJURW0teTdkcnFwUUptUFkwZXg5NVlmNmRPUVpzZjVwa1h2U1NZVzN1LXUxXzJRckRr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tc2hXaGFDSjhXbE9PRXg5X19QYk9HWmpNd0p4UklRU2M4TG1wMnNibUxqNWNETlRQbzRmeU5TTDRZcFFEdWpUbFFPdFRTSkxfQ0loTFZCLW9qQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZnR6WEwwSjBzbVdoT216MXdvYzhnWmphb2JLYUhrbkdfZnZlSGJIMHM5emZ3WHkyRW9fV0l1aGVGNzlrZWZnLWFZclp4aHVCUnQyVVZDbWpEZHM5OU1iNWxVZFM1azl1VkcwSzdEQWVSY1FEZDJmbGpYTWhNVHVSVC1QN25pLTZMMFJGVEk4YW1nSEZHNkZ2R0FB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeEZBbjJORlVrc1VrT3B6QmZJdGFnTWVkUUczN3o0bnpzT3JYV0J4a2FLMVl1d3hGQzZPTHpDNHFHaWlFcmlhcDAwTl95V3pWRmhwR0NweWlSWlNtc1NILWxBYmhlSndkQWQ0TE4zVTg3LWM1U1JmcXZnNmZnYjVjWk5kY1h4UkMxN0E5aE54VVBEMXZTcXU2aG4weTIxalB0T1UycUZQSTl0MmZyRzJNSzFCc0Nmc082XzVKUXhPdGlfbTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/06/17/european-defence-spending-poland-spends-larger-share-of-gdp-than-us": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdERteksxempTUnlidU1rZ0NkYWQ2SDRHY3kxY3ZGdjBmZGpqbVR3VEFuM0xHTE96VVZrV3FMVEtBdElnZDNpLXl0a0hNVUFpaTg1b0Z5T3hyMWNaSEowaTVOd1M4UEJTUndJQ1lMZV9aR2htb3EtYnZzVjhHeVFza1ZYWVBqaDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FSThucFVrclFwczBsUDdYTS1ucnhVLTAwb29maFBucTdLMF9JTGZ4U0dweXcxR0xOX05WY1htbDJ1TDNzSHhvdHR2dmhBOFJGR0RiTFRBeU5UQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHpjU2NJOEhXMHRNRGx4Smc1MmNkODZrd1VCX2FvTW1OeFFFUEFPUGk0UkpzeTF0a1dJc2dFUTUyYXRtSVJlZk4wb3NhOE9iS1BFdTUzZkxhOWRyWUUzSkJTSkQwTnh0TGphS0lfWHRrczNacWV3SU4xSXhfWV9xOU9NQ3RfNGg3b3BOTnFCbktXdmNjR29xMGdnTkpuME56RXkwZnFzZ0ZRVmRhcGfSAbMBQVVfeXFMTk1WUmh4UnZXajFzalc2aVdMTWRjb04wMnJIdF9JX1NCaDdvTFZBWTllamFYNjhSNnF1eXBZMlE0cjczak5ySktUdFpMUUk4dGVJSFkyeGZQb25kWGFPTFdzUjVaQjdhZV82dWZHZXFkbTRrWkpVS1p0YkNMTlM1dzFuUEowVmZYSVl6LWRpaG5MaF91a2VzUHJnVUd1cjNnZ3Q2d192d1NLbTZoVGlKd0tXdlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/6/17/trump-administration-seeks-to-halt-air-pollution-lawsuit-against-xai-data?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
