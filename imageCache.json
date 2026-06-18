@@ -36994,5 +36994,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/952354/firefox-home-page-widgets": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/06/18/nx-s1-5863085/student-loan-auto-pay-discount": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQjV2RWkxTWh5djhTSzNubXViTmdySlJIbEdjeUVCejFRZmtpcThnaExEWEVCcW1rQTJ4aWRnRWpmN1pqbFIzQTUzSU5SOV9CUW9UOXp1VGIxWmcxbEViZHBhNG9uNkFXLXN2QW5rTS1CVmpLcTd4c3pXTUlUWTFRX2RFelRXSFk1TzB6VnNhYjd2MTZQbkhUU09DeDVZclU5cGNCU0tB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/israel-says-it-s-cutting-ties-to-eu-s-kaja-kallas/a-77605930?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/some-eu-leaders-caution-against-talks-with-russia": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVRBZGpGaHJiTnNDYnFvR3VXc0xGSl80ZGt3U0VlMC11NERUNEQ0RDVmRzlER1dEU1JGbF9LS1Nlck5SN2N1YXZhUFEzai1jWHl2TzNvbnFOX3IydEkyRWFpQ3NTd1FEU0VoQmpfcE53N2VtZW1VU3BFVk1xT1ZDX2lKMTFFLVhPLTVheVZab210WDRfbm9v?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/yc-seeks-cms-intervention-over-wrong-photo-in-psc-bulletin/article71117550.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_southern-lebanon-residents-doubt-us-iran-deal-180626?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVW5BUi1oNkNzNk9nc1NTbEhGN08wLXhsdHM0ajRGN3NFaEhpMmZWeEpxRU4tYS1fZS1ZbnVfMTV1VkMwQm84Znd6c0I0b2k5Q2pQeEtTcUU2V09uZWRtZkdsM3E1azNERXVCaUxTcy16TVBJMmhWby1ISU9JdEplNWdid25ZSzF2aWFyMjhERk1KNmxOUW9z?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/playbook-paris-podcast/les-candidats-draguent-le-monde-de-la-tech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/us-iran-talks-hope-and-skepticism-in-the-swiss-alps/a-77610766?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/colombia-presidential-vote-centers-on-security-after-armed-groups-expand": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/power-and-policy/gesundheitsreform-die-pharmaindustrie-und-der-streit-ums-sparen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVNQb3JHWlpnaC1GVDhWRkZOSTRzZUFkNmlVeUdQbjdIUktKZktzTE9raXprb1dNZjc1cFJUT185WTc1ekRzVE1iYm9HUmhHTF9UbXBxbnlrMkJhRjlRUTBMQ084RjYzWlBDUG00QUh5UkgyNzVfNThyRVBRTHJHVmZGbi1BRWpVRjRnNHhYMUdqR2NKemJ0cGtoSUE2VVI1VXpUNFA0OEjSAa4BQVVfeXFMUE1Mc0lDS0FELUlOYWszMHYwbnpOMUVFbjhROWR3MTBrZ2pILXc1R0JHSmFlenVxTFE0ZXBTSkRvWjlqNnluTnRweWV5R1NZdnlkV3FsTXFWeFFRaC00Q3BvUlNkZjBwaUFhNzZraElJc25sRHBMbG95QWNvWWNwelZnc0VFanh6WXlkdGlrNjdOSzh3cXoyc0RVeHBTLXpoem5BeEtWeERHci1tbTl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/18/jd-vance-tells-israel-you-cant-kill-your-way-out-of-security-problems?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnV6SnBoZHVDUTB6R21tXzhSMmF6QnE4T25VazFnbjU2STRWLXgyeTNxaUZUTlY1bFlTWFN0cXpYbGxHM2lrQUh2UElUMnNzREJqWDF0aVJZdG0zeFB6NDhJOW5sX05URU9mck92R2xqTW9qNVFpWHZUSl9RZUhiLXdFQ0taRzdKUDNIYVo4MHJ4WDBINUF4edIBmAFBVV95cUxOZGJsalN4bFVYOXFrY2t1VG1RS2xaWnZNSE1Ic2dDcC1IYUVpbEE1am5MV0YwbzV2ZUZWNkg4ZDIxa1dxNExJX0dWRGhnZVRudHdRNWVndUdJWXJaMGFTZDlPSk93ODBIeGJUVExvNElKMFQ5U1BUeXcweHlZNjhhNl9jRzh3U1k1Ylpab1dscjJwWFNxb3NJeg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2pMbjFlTERmQV9WeVgwTElVbUIxczRLbUV2cVRNQzFNSDRsXzVDOElTUGF2MnByMnQ2N25EU1k1R0dlcDlvMmtmT0luT0RwMk1XRkxXQ1RRby1GTkw0NnN1bW1fNHp4bXhfUmdYUmcwUUV4U3pEN0VSNFZZWURWVWZSamNBNFdEcWdRZmsweVlKV2hHOXhJTXhSdExBTDVyU0FFQmMtZlNFVmtXRHNuWXFjUnVVN1hlb05zLW4za2ctM1pOVE40?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaVg2LTNGUUpXaTN3allhbU9OZGgzZzZEZjQxU2FGdVdDYzhCaVJaQ3hnTDhpWXRnUWVaRXR6R2w1S0RncVc0a1owd3NlMjBIaFVOMFBhTTZWdlZiQnFmaDVKVVU0MWJDYzJhbjhSYVNDXzhSRjNIN0cwLUd2QnB5czl3eEJpT3BLZ1dSeEU3MXNjbEtlVU9IaTZsOWFfTHdXMEhRMlVURVplSXBNTWdTWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVkxbjZqTUNjMmZld3ZIa3o0Um1mLUFUOGdzOG5LaG1jQVkweC1kSU83QXFiNk5yNVl6M2ZFZWhKdVAycFQzWTd5Z0JIZVFVRWMzTDJYOWlUYThvci1LZ081ZUN0WUY0WlN6b1FaeTkxbmVsTUdCMWhjeWExY2IyR09HbTVuclR2MXJRaXU1RnEwVGtET0Z2Y3dIdUNkUWZrVTRmQVFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZnVwNmg2T25pNHVpS2VKT3pqbDI5VFd0bU9sc2RiMV92bmNMcTlWNHhsQW9IZUtDM2F6UmE2bVRwWXlzbDBrZGZVWGRfamFoWEc5cEJpWXczQ1FONTY2Qm9oZXVuS29nSWpDTmUySlB2cnRDem9naU5rMV82S1VWa3ljc0o5clJkVHF3RHEtN2tReGFvV0VrSnRUZV83R0YzVGR1SWxKaWhXa0M2c0hHT1F2bG5IUXBkaTVuTXdRcVlXeXhUSGVvNldPUUVYdEU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2E0N1d6UDJpUmNiRHcycG9SR0x6UUhkNENnRDlLdG9kcEpFVFdnbTVRNkNReC1LQm42SnZiMVp4NEc0TjNsNjJCOFFYQnFMT2FSempPUTlnb3J4NmxXNXdiT1VBVHBGa01lTmlIVG5ycjdta1Q1dWI5RVpqQlpGOEFIRkRIRGd6QzBaLW1XcmZ4V1VCMnJTMWNrOTdXUjh4NGdOWmpiSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
