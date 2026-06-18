@@ -37126,5 +37126,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXIxbW12UlR3d1h2Q3dRWTY3eXlFa0J0dkhvd0RhSF9KaHBxcEhNZjFDZmNlV0phamNacmk5Si1pbWVzVWE3cVpCODFMWFRNSGRGa240ZDhESnp5QWwwQWZMTzRfQ21fQ1VOdmVsb081R0FRM0U3bWNZNUhndzdFRV9lSHNyemNsWjVLSzVaS284b2JJbWRUNXFUVGtmSGZGUHRuaGJMaWFqOVMwLXljWS13cG5GYS1mTUMzZ1dqZUVMdnBQcENBYXo3ellxU21WalpiYV9PYkRibWJrTXl2Y1pULVdwSnNCRlViUFFvdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/lifestyle/doordash-summer-of-dashpass-sale-deals-discounts-1235573069/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/18/trump-student-loan-autopay-interest-rate-discount.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/russian-dissident-artist-semyon-skrepezki-murdered-in-poland/a-77612911?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM1lieEplWDBFSmdtbHozT2hBWUFtdXZfeE53WXc2NWtfdzVjRVM3RjdWdFBldlFCQnVSQVhPNzRWOFFNWUo4dU5seDU1RG1GMmpMWmF5dmJIcEZuUGdJQW5OVTNoaWRSQ3RBYkNBQUl2UFpZVm45akpDbE1XblY2ejJpcUZfaUw1S3ItYVFvWkRsQ0otU001Vjl3Q2J6Q0E3VWV1b3VDc1FEUVVhSTVwYzlZX0hYZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQk1aSXNhdVpkYXctOVJ6WjRzU3VkVkhUZ1FKcTFDNTJURWV0dUJxRUx2ZTVraUZJUnlfMjdzUVVyUU9MU3c4Y0ZJWlRnVWNiX0dTZmNNUHZndUt2T0d0UG5DbEhJdFRrdE1ya3VaOEhXc3pqblJjaE12czF3VkQ1UmpTMnppWVk2SVpLbVVQaGlGZ2NWZ0cwVFdXVzdTSS1ySmQ4SWlORnEtT3lyeHRXQnBwUVFNaUFxemZtN3UzOEcxOXZfemFFemloZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/6/18/can-the-global-south-have-a-say-in-global-affairs?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/nuevo-laredo-hunting-ranches-ecotourism/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORDhsbFpKQXhkX1cwdEdwUXZoNVNIRWgtY2Joam9GRng2MTZvM3U5WEZJb3Bhd0VwNWhlamxpbWFCNVNkaDVaNUF2dFNicGQtX2ozOG03V0xnQzM5LVpfZzZmS1ptTThxYWFqblBzMHFJNTB3TE8zWVRhRnVVNnQwcmdLWFNXQ0FOWktMNndvbVJNYWJTX0NUNnpTOTJFcHUxWGtPVUFVWWdqd2hmeFBsaHhqaHhmb0hONGlUOHFQX0ZKVllJSWVTanpkRi1zdVVFV2lDYmxPZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN1VtU0p3RFZTMEFJOF92d09hVnQ1eXg2M0ZxQ3UzcWRCUXZ3UC1lVzRWOEFndEEyNkdLZk1QRVo1MVNNUHo5WFZRWjhuNDE0YzFsRzBEaWU4Mzdtdk5GdnZEXzRIRmZrQTVGZXd5ZUc0SG9FN1BiMFpZeElrZ1NUMUhUTmVuMzFmcnZkTVBXSndNS3NaWEsyaTZOaUc2NVJXTzZVRzBUYi1CQWhFNldHQzJNWlJZZnhRNVEwX0xVZjRPcU80TnFydGV1bF9RRmtpOEtkTS1TVVY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbklHSENtU1loOUNrZ2xKaXhwT3ZKaWxkalpOUTVjMnQ1d1JWWkQ5MEF3V2VGNTVjVWFad3hORlhCWnUyM2xNMTNLa3RTUFVqZmk4Z29aSk9ZSlJ3MnJpcnFZT0pobXJFYWVsSGFoWUZrM2hQLW9LaTVVbUdUMGIyU2QyR2dmVnBPRFNCYk5B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
