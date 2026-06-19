@@ -38302,5 +38302,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_thirty-dead-at-drc-displacement-camp-ebola-threat-190626?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/football/scotland-vs-morocco-score-fifa-world-cup-2026-live-match-updates/article71123790.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/love-island-usa-narrator-iain-stirling-season-8-interview-1236622784/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/19/usa-beat-australia-2-0-to-book-knockout-spot-at-world?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-june-20-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/the-fun-and-fantastical-interior-design-of-meridas-chuch-estudio/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUY5amU3X2hqYjFzcTdLT21NSHk3ZnNLMy02R19MbFdUejJUNkFhenp6U09ldXR4TWlNdjd6QnYxN2RBRTNra2Y0QnRjR1F3bmVjS1VBVkZ6QzhEZ1BmVG5MTXV4bVNDOVFZYWNaY216WE9TdjZDQjdvYTItVHlvdFZaOVhQUGFXbFZsWWRwTWM4VjYzVUlVMnNSdF9sekZQU2k1ZGJRTDd3dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/19/spains-yamal-says-very-early-unnecessary-to-play-full-world-cup-match?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWwzMDFweHlHYmJ1UkkwZTF3SGhTRllhRUx0dERDc2l2aXlkMy0yQlVHVVJyQWZRZ0pTVTdldXJYVkFaa3Y4RHlYRUl3VGQteFJ3Rk9LRHJaSHJ4YVloYWdTbW83dWJLMFlIUUNlNHNocUZTekRNaUFhSEcyT1hCRGQ5R3VHZjY3ZjZ3bUg0TGZlbWdxcFFFaW9MbjJsQlNENW5qTEV4TEJNOWZuYklB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/mexicos-host-cities-packed-fan-fests-dont-need-stadium-seat-to-celebrate/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/london-england-train-crash-east-midlands-railway/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpVC1oZ2lxUURrQXBPZkJpNUpJMzVwVTdQVFRPLVgxMGpOSDZoX0tDaExhb1NwUHQzR3BLWE4xa3VlMTRpRENNQVhNVERlYnpqVzZUT0VB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/06/19/heatwave-nears-40c-in-france-forcing-tourists-to-change-routines": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
