@@ -39256,5 +39256,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/06/20/nx-s1-5855391/for-pakistans-ismaili-muslims-a-visit-from-their-spiritual-leader-brings-a-homecoming": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3kxc0ZQYmJ0MXFlbkxfcnNtWWFSXzB2ZzdtbWljZFo1RDU3YTVmUXY5RU9VcG9WNnFTWkN1OEc1M25iY2cxTnlaSkNfX3VDbDFwY3ROSVBqVGtUMGIzUlNDcWhoVF9QVFFqc25kMkM0UV84QXNLNzRud25sZFE3MFFnaDFzY0x0SldnTzUtelhRNEVBY0dWZWxWYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.yahoo.com/news/world/articles/israeli-strikes-gaza-kill-6-213546465.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/france-may-tweak-not-tinker-iraq-world-cup-test-looms-6197761": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNzZ6VV9nVkFQWWw0MXQzTEg0cHB5TXlhMU1hUElVUy1GVGE4TzctNWVyWW4td3Q2QWFqMGRydU5xNXlzdG5Jd2lHQl92cWhiZ3FoTnZkR0c5SjRwQU8zUUtIZElmQV9HV1lnRFA4LVlFMEhIcHV5NlFxTUh3WEhCbnBnMFBFSUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/zelenskiy-warns-of-impending-massive-russian-attack-on-ukraine": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE53bjNMQWtrc1VXNTR0OVNkYVJBQ3pOSXMwMm5MMmdZZ1ZXRWFDWHV2SVN2WGRmVFhhaUJtSTZCM0poLS0zOTBFZEhKZnhJRnFDOGhaSl9PbzM4QUZmcGVEVlg4cmJqMzIzUWd5VUV3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/london-mayor-rages-against-social-media-machine-reimagines-an-internet-of-positivity": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXc4a1I5MUtDRmh4dEFiRlR0eVVVQVgwNWpsbFphRG5RODVkcG13b3JhdUk1WG5zeGwzOUFVcURMbWxCQnFIOTdsS2s3bXZCejlPZ2xjcFBvSWh5Nk5NaTRYWnM1eTlpZ1BaRDFwRUtJLUFHU1J2SWpBbXlKQUF4RFlBcUdHZDU3VTQ2X0xISm8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjdFLTFCUHdNS2VLSHhnMi10Q2ZqRmY4R1R4b05Dc3pRcTNLaF9SOEIzNTBmczJCX0ZRYmNHNlhhbm9aUURoYWszVFRUYWs5WXBUTm42Uy1lOF9jNVZuZ3R2Y3lGbU1uc1l2c2NHNVpJc3pQN0lPOEs3aXcwZ1Rkb2d5VV9ZdW1oMXlDV3VjQ3dUNWY1NWQ4TFFjYklDNHNvNVNJMdIBqgFBVV95cUxPMklzTlhKeGdrZUhRcm1reGxkaTVjUDFNNms4TWVUM2VybWtXWGJWUmxsV3BWYVg1X3dVVFZzc19fOU5yUGZQdFhQWnd2YVVPMmk3TkhDbXhPRnhISkdzLU9iRXZxdlByQTBERWZpZGdRTjdwZXo1b2ZoUzN5UmR2UGRSd1FuWG5PSXZZX3VjTGxMOEtucS1yVmpNckpBajdPUXV0TjkxYUJaZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWZLRUlHdXhuQXlwNkpEVUlGa2tQSEs5WmJzQUQwRFVzT3lsOG43LWNyOWNlQlFxM2VrQ2VaQVIwR0RGTWljb0JYSkFJeU9FZ3dERzdONnVrdmhXSlZpTjd4WFNnWno0OUdRV2QzbWVMSllVekxQel9PYkZhWlN0VHNkVGJyMGw4RVFkbk1lZ3ZKem14LWU0eWVn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTmxtcXBFVjIxaW9NSmQ0TkV2X1J6cXZEWlBMMUIzSFFtcTlFSkUzZ3N2S1lBOXZWSlV1alZ4dHcwX1Y0ekV5dkREMjRDbG44LWJ6NGlYSmprOXp3NWhNSVVvYmRiZFFicmVpRlViSmY0NG84UGZiQjEycURINlhFZHM2SXJNRnJUVW1zaFVHbVlmeHdOS3l4eHVTTV9UUkJnUVNtclYyNDJSUVEwT1RMcjZiZnpkUnZySGNJb1pMWGo5blU3aXB5eGVTb05UN3ZLMGl2MjF3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSDNLWFQwZzJ6YWtLT3pEbFJucEZqYjgtbVdpRHo4cHBzX3VHRWNQT3ltTzN5bi1mbEl1VjVORV9zeTRTbDVFWGc2cVh0YXRaakd0M1gySXFLbzZQVkplRXVadm43dU5keV92TlhudTVmMTBWTEhBZ3kzWFY3clZLRVk2RGxSTThUeWVGaEhpUFMzRDB3TWhv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
