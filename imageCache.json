@@ -39118,5 +39118,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/6/20/are-uk-prime-minister-keir-starmers-political-days-numbered?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/pegula-knocks-out-sabalenka-set-up-berlin-final-noskova-6197611": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWVJaa2ZEVXUtRjdKajhRYnhHS2U5RVNLenF6TVZUNzZrdFdHc3VmZWNlTGpMeHV4d2Y2WmNLemJqS0NnbDBoWWEtUkpPQmJfbTBEZ1JpcC1OUWQxNWtvZHNRcWtsc3BsRmx4dXBxOVI0SG1IOC13TVhuVTJFOUl2dUwyVVkzeE1NeU9ZWkg1dUFnQ1NOTnJxdlJ5VHhYWVpLdEFpQm41RjhMQTVJVTVWUk44MmYtZXdXZjFNVHdyWVlNNGFZcWE5NFh3OWRfY0M1RzlGdmQ1MHVmWU1IeWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/paraguays-almiron-faces-uncertain-world-cup-future-after-landmark-dismissal-6197606": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
