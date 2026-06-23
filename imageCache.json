@@ -42334,5 +42334,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/06/23/nx-s1-5867684/supreme-court-prison-guards-rastafarian-dreadlocks": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/cities/bangalore/bidadi-township-magadi-mla-balakrishna-accuses-hdk-of-selective-opposition-using-farmers-for-politics/article71138461.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtYnZuUFdLRFE1bkQwQk5wZVlkdjNrN2pfbEhoUUxZMHd6c0tUNkxyTW9CRFhsbklTTzAxZUhMVEpYTjNhSG04TlJGU2VkWHFmOFExdnphUmJZYjhIVXp1NlN2NklneHg5RDRDbG1rLW5TWGlnM3I40gF8QVVfeXFMT0pScGYwaUVieUgxOHpSUHNYb0xBNmQzclF1ZXVUcjlLR2VRNnJ0WlExblJBajd4N3JabEY5SmR1THlkYnlhN0I0UFBpalE1ME13SkJ2NXNlQmdjc2dkalVyU3c2Q2thTmxEeGlXZHRDV2hsako4aFpTQnhqWg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjc0lKX3BLQjNTME5BNGh4OGtGdzhnYzM4THdHYVZYX2ZhTklpSUFOYUpGdFZFajFTa3k1WkNJRkdjaXVaY1RoQ0d6NzJXSkJPakdoc2tOWU9laWVL?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc2VlNUMydDBBMGpUeDZSbWZOanIwYW1Yd0VKeDBYYVI3ZWZBUVVzaFhzR1llX1k4NUhkV1FidXUyMmV5NVlEVDY5Vno5SU9RQ2s0SEJGWlk5YWFGM1hZcGFUNzdudFZoRDA5M2NNSlJRZ2NUMWp4OEtWaXowYnQ5bUs0cnZXdHN5UWlSQ2NIN0VHS0pwb3hOWld3ZU1rYWxFa2lEMW9hLWxDQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/23/donald-trump-to-attend-world-cup-final-present-trophy-infantino?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbmpSN3NocTFpMk5WX1V5eFdmLWNYUjM4Y1A1VXdWSFhnU3dyOTZHdmRydW91bWVqTXlFMmJKUTBjYVhzVW1HcUNmTlFidlh6NUJDSjhLWGNHekNMdzZhZGFDV3N0NUsyWUVoa0czX1E1aDJyeFh4Wmxlby1qdEhFeTdHa1cwSm1lczd0eEU2cEJ1RjRkY3JSZTdHQUU3ZXZnVnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa2FUYkFpZ2FIa0M3RnNIU3VHQWRBMVdOZWk3Z0U3VjJVQmk3SFZ4Qnh2MjdNRXlwcE1QTnR1MlJTNWRlS0pXUWdCYVkyN2lyVTY0TVVaWi1kNW4xVnRsZnJyMHFDUnFHcElHMEhZNklwZWl2ZVdEY0NZQWdqTks3OUhWVmJxS0pNdk9iWno1d211ZnVvclZ5aTdiZU5FUk1qQW13ZlFnMEk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOHROSnpjN2V3RzY4TDQ2TURlVXVuZkRJVlFJQ29Mb29QVUVIOHMxdG1SODlQVkNYNTMzeGpqaEN1WXRWNDVWT1Fsa1lkX0p3bEVualQ2bGpnY3ljeXp2TDRtYzQ1MWFxLUw5bXg4WXJVY3NZNGlpUE03ZEd1SU5RQmN1V2ZKd3R5RGlNOXYzZm5zNXhXUWFUM0xnTjVDelpvZkRBbFNJV0NOMFllNFHSAa4BQVVfeXFMUFZ4amlPSGpLVjNWX01tMWJyQUM1dWM1MXVBWUp6ZTByNm1UQ1p1MkZ3anpJZmRJeXlodnI3N3RkdVFrQjdwMGxaaXR4N0F2NGR6UnVOZ2JZM2dWSHV3cHhDOWw2RXgwQzdxelMzSjdPUU9wN0RMWUk3eVpBTm5pRU5MdDQ4b0xaMHVHNEs0T3JoMGN1cksxLWlwTGJOcnRTX2t0V3liMUpJSExYV3hR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/england-held-0-0-draw-stubborn-ghana-6204971": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWktUnlHNHFwWHJzSXc1NHpDSGhOd3NOakk2eEZpa25uRUY2OE5rdlZWNWhaVk1wWVgzdmV5d0Z3WXVZZ05vUWREYk9RTzNrcDE3RGkya0NGZ0xVdkZFd2x5cWRJQW1wTkw2bVlYU2hRLURqX2dJNkZnRlBMY0pCcUNlOWlNZWZOMEw2UVhSd05TdUhMMkU1NTgwWFRudTNFOEFLQjAzT0FPb005Nm1mTUhQUUd1QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSHhfdklnb3R1SFphTHdDcjVHNVZjb3M5bWx1elZLUVBJRHhCVzFiWFIyWVd1azFNUGE4bWNGWUtRWFFZTU1aX2JNaFdKOTJFTW9SbkxkTHhKOUlXcnJERjU1US1Yb3k3SnVBUUYyWWU3U041eDVOOUVpUFRWRGhLSXBsOVg0WGNHUGxVSEpfRG5peGZLTnJVWWdFUTc3bE9ESjdZdnpiQ0pmWmRsaFV1YTdabw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/top-seed-paolini-suffers-early-defeat-eastbourne-6204976": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1B6T1ZwOXU1UlVHSXNnVlBWNk84NzlQdlFabGlObXdvTV9menZEaDlkVDRabXhFUFlFdmQ1X1FTR1RCRVd6WUNXUVlqN0MxUzdyaGZ0MjF0Q0RaVGh1RUlOZ0g4UDA2X0ZLXzcwLWRRX1FNbk1NS0xmbmhnT1I1dXlYREJyczg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
