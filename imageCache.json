@@ -42226,5 +42226,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/senate-house-pass-iran-war-powers-resolution-trump/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/23/cerebras-cbrs-q1-earnings-report-2026.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmVKOWpHZklGS3lDR29YMTBtZWpOdTFHTXQ5QjY3TDRSajlsNDBxWm1rbG9jREZyTEpqMzR3bS1sdWlJNXE4Y0F3Q0pfaV9OQlYwSTVHcm40SndLZTFJUU9GMU5kc05aVU9NRF93QUNmSmFxeGpib3NiU2lNQTNrMzBkYy1SX0VwODRrSWpzeXPSAZYBQVVfeXFMUDFDZ0lfLVMwZ2xoOFlVTDF1bi1lOXRjUmJBNU8tUDVIR0hvczBmT0dSSkNKd18wQTM5VDhhLWFPSk93aUFKUlF4bDdsYnJaWVNxb2J6eHc1SVFKbkNvZDdfSl80TVBDQWNnY0RYaENPZXBUaHo5SEd4VW1BN3pMM3l2bHFTbUlnWkdFUG5TS1UtQWxUVDhn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/portugal-played-heads-not-hearts-against-uzbekistan-coach-says-6204846": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-brazil-500-million-world-bank-decarbonize-ndustry/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/tech/headphones-earbuds-speakers-prime-day-deals-2026-1235581796/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS0tpR2NHVEF5R2xGNWN6Z2RIbHFZSmV3NUE0V04xX3d3bW1ocHFFNzlSSkh3Z1p2eHhkeXlwcFNxWVBJYVFQT0d0WHd0YXVNdFFUNnBXUlp3LVd1Vk1ySGxqQmI2OHg2bWxzSHJKQzNIZTAtNVJsZnk0NUtGVWhwbVU4ZzFxb256b0NwcWd0b2wxZ3J1ZVV0X2IyT3I0RmN5NlJwYVR2QnFQM1FLTU9QWEpB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/06/23/airbus-under-fresh-scrutiny-as-easa-orders-a380-inspections-over-wing-cracks": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWo4bkE0NnRualdzc1NPYkVKTlpnM0RMV3FnVFZVUTd1LVJFVUFZXzBaY2tPaV83R3NERktycUJueEl4d0w0d3NaaHo2Z0Y2N1ZNTUd0UjZ2Y3JXYTY0QWdtanZId19rZlhMQjYyaHZpQ3Z0RGJGdGlJNmRiYXZ4Yw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaTlyOEhQX1NDYUJKNnk1aFF3QkxXeFFCR3lhR0FwY0NFSC1pVzN0VlYyWWZDM0lGb1R5TzdpdjJnSjJ1bzVrelhRZWhYdWhvdjJLUExiZzhKTU9zdEVNOC1HQ3VwLTlxSWxXNGVidEV3X05Qei1BUGlqMm9SU0VJbVltZ9IBiAFBVV95cUxQV1c1b2NzVjM3S1dxY3ROdnFzVzdyeHdPNW9pYjhoOFRkNm5QdXE2MFVDSDhZdC1IWE5ObTBqY1hlM0JPVlpkaTd6MUxQZHpxSHY1aGxRNzg1RUVZdVEzSzF4Q2dqLXFtZ0tNTC1HMW9IYU92ZGpySDFHN0xZRHpFTHc5OTdOc0Vw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-06-23/boe-sets-52-8b-stablecoin-cap-and-drops-holding-limit-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/ambassador-memoir-us-mexico-relations-amlo/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQVUxQTWNaaDA2VUJmYUNjTHVOUWJIWkNnTDY2UUZGN3hRYVBiMVdLY3FlTlJHQ05LSU4yN0taNGFWS3JNUXBvaG9sUlQ2X09VLU9STTkydUU2dkdseG9YRkxFNVNibzBJN0FQdnVBZ1VMOEVtejFybnp6SXBnM0pxTHlXWjl6WjVSV1k1cmhuY3RFbTN4MnRsNTBBaWFYdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/06/23/giant-messi-statue-honors-argentinas-world-cup-hero": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/ebola-in-dr-congo-sees-record-first-month-caseload/a-77672493?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWtILV9WYnJ3OXNpenZaUzhzTndLM2pEYk1yc1pMc25wMkxXamN1b1RxazRpQmFZenNVbUtQMDVvb0NhRHJGb2tnUnRuaGZ3QmxMUGVPVmtLNHJnOENWT3FJZjRoQ3ZpM0VVaURGQlU5VW9pUmloSFhlSkg2UHVJYlBsV3A0QnNqSUlF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
