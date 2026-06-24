@@ -42868,5 +42868,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/06/24/rules-before-resources-europes-investment-agenda-for-central-asia": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/24/treasury-secretary-bessent-says-us-gdp-growth-can-return-to-3percent-before-end-of-the-year.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/record-heat-causes-mass-poultry-deaths-in-france": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/hollywood-big-tech-war-entertainment-platforms-1236628274/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/06/24/giesinger-celebrates-munich-beer-culture-pushes-for-oktoberfest-place": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/north-korean-soldier-crosses-border-to-south/a-77687834?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sNEJCMENYTG1ZQ0J0MnBZRHBuOEpfTkdGenplWGRBaC0zMTF2SmNlZDRFN1BoX2hYMzQ1ZDNJTnJkV19ScnBBZFgyU08wUUdWeFo4ckY5U1J0QmFJVDVsXzl4cDRZclMxY1JCa1NnakE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-06-24/the-future-of-gene-editing-with-jennifer-doudna-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdGx4bm80VUc0LUpWWmJwcXBNdEViUXotYWNlRWw2OXdjVTdWVzdGc2lpcS1nQUZLbzB5Mmd2VkxUUy1XOXJnQ05tWkJyeE5OcDZ0eXhOMWlSa2FjeWZIWWNvTXpScFA5SDRlaUp3ajBTejFzM3Q1T0VjYnJGQnlXRUZoc28tVE1JVnpiOVZqY2t0MnlXcklFOWV6WDh6SGVBZ3E1Q0MxLUV2SkJLRjA3c2FJSkdyeTZndGJRWFFBQkxMYVBGcHN6QWo2VTNpME40V0lz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYW1GQnZINFR6MUVPY2xyUlEwSVVNMzJkRGU4XzJybS1VS1dhT2taTHk1T3RkX0FkbWpWRVpnNGUtZGpvMmlfNmFwVmtQVUp0VHFCbFl3cDdHX1JfY1BmOEFYakxmYUh5ckhyZnN0c3NwcWhKWFpVZ0hYUDR4amVUVFdKbnlSNVpzWF9IcGp1UHY0NFJQWEw0XzRWQXVTaU5VcUV6cEpnTVdYTURYSmVUY3pKYklmUWk3VDlhbkFxbVdfdTdSV1Nidi1fenVYTHNhaDk2LWhxTjBFaXMzV1lSX2tGYlNEdTM0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/24/mamdani-backed-candidates-defeat-pro-israel-lawmakers-in-primaries?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3275962/rocker-sek-loso-freed-on-parole-with-monitoring": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxONXJCMGVnR0tfTGVQakFINnBVQnNXZmhXYlg5enVzUFdvS1VqUVdZTEdlTGktTW5OYW9mWHFwNUZQQ00takRleldEdndZWFNKaEFDZXdPOXBLM3dyaGs4TGhOZThzRGl1RzFsaG5BdXZxM042TmN0YWNJWW1SUmJtUTN4QzVjbnowdjZlVHBTVFJuMGxZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/24/slate-ev-pickup-truck-ceo-business-goals.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/donald-trump-board-peace-seeks-reset-cyprus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2tfbXlJaVlURWVSdk9zWWhsbDdOM0lnLUFWUnlUNmR5bVdNRFQ0UDFSSTBMaF9VaEJxMlRoVWpVMjJSQlVxSThHWnM4RWlBaURuSFlkTWYtU0JzZUh4dTNzWFUxeWZsVWFjWW00bHdEUHRvWDJXdVM0TnB0RXpOWDlsT19zdXV2VGd1WHdJOUhXUE1ydHlneFlBNW1YTE1fTFHSAacBQVVfeXFMT1ZZbG1WWS1oOVdUbTdxZmJwcGNrdE5ucjctcTN1NnlqektlUDU5T3Vib3ZTY3NPYXVXZGVnT2l6cEpfak16WFc5T2hDYV9FaTRRTmxZbUpoWUhmUVJKVGh2bzZIbGsxWWRxMGFlRDl4ZjJEQWxtamlrSHVsUDMyRU5UYWF6VWZ5MERBcDBRb2JwNGZ4WVVSYzJJSWtWSXh5MXVCZVkzN2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd0E2eml0RDdwYlN6MTc4VlpBTkNlRDJDQUpBRnNIdVhjT2JlSkMzNV80d05TN1ZKWWlheHVwbDV6NmE1TjItaS14blByaFd0ZTVyeVliTk5WYUZUY2sxcXpFdG9UZXNRSlRuNFpsRGZNX1NrTll6OC1QQ3hHeHFMMjYzQjBzV0lKTFR1Q1BMNDE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/trump-says-iran-has-told-us-no-tolls-being-sought-at-strait-of-hormuz": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzFaRUlNQ1J0T1h2VXVLcGMzT3M2aF9yZzhMWHN6b2tKRmZ4V2t3OXhBdXdZVGRLZXlyTVRmdkZNWXJWTGowOHA5NXpYWEpUeE8zUDNMeDdjSkdveWJnaDQzU1ZqWHplRkhWMW5Dam9mVUhVbUNtS1lVVExZdDlJSkJYcnhsVHZyOVV3Mld5cGVQU1R4QjJsWGNOMTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OOUgwOE9uWnRyTHRoeGtDNFg5SHhPTE5iU1FrUk11Vlh3eGxTV0FDbUx3VmhRazNTd1J1eV9zUHJJemQ0OG53bVlqYVlIblNmVUV0QUtVT016dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
