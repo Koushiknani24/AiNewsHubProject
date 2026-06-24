@@ -43666,5 +43666,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/leonard-cohen-estate-trump-hallelujah-freedom-250-1235583656/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/deadly-heat-wave-grips-europe-most-french-homes-lack-ac/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/michoacan-avocado-growers-celebrate-their-official-protected-geographical-indication/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/24/south-koreas-ipo-bust-clouds-equity-markets.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0RkNTJCSE91MldwX3VRekZ2Tm5fS2x5b3A1UzM2NGZNTEROMDg3eTZvWnQyR29ock5RSlhZU0EtUmM2SW1RdmNlWk1nc0pyTGF3RG11V3hpVXkyalF6ckVtZkpxTG9WRzB0WHNoSnhuM1VxMTdZaHVBaTlualI2dzIxNmNnanEwWm5icFVJWHJDS25IUnJqSA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/japan-earthquake-damage-toll-updates-on-june-25-2026/article71143775.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWFCMHNtbDJIVVVmMENfWEl0TTVHQm8zVElyRGRBZkVZeVNqbUZwVi1LSmljc0xNZElOWjJaZ0dyajlGbkxTb2l5ZWFJZEN0N09YMGg1UVIzVmRRd0hrYUhEbHdXdk9oeE84ZURsU1A1NV9oM0x1R3cxdXQ3ZVhvM2R2RGhVcVg1WWtj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/bosnias-blend-youth-and-experience-continues-surprise-6208326": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3276139/industry-groups-act-on-shrimp-prices": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96RHJKZVFpRzhRYjVBSWRPdDY1Nk9QZ0FLYzVETnRqekFMdmZqSmJoMWVnUEtNSUZISm5NRlpBWWZlXzY3MG9pNlF1d1g4QzlEUl9oSlpXOUxNZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxONjdaWWg0ZGE5Y3ZvN1VIdVRrcFF2WDJkeTdQSHEzVDFaQUUtQ093SHZRRzJJSkZsaXQwSzg1QkN6c3B5Z1FIN2pvRVpRdEprT29GNkxaRU9jNHRZMTkwQmlaYkhTQXY4OVRxYWdWbG1pcmxyUkJzTGVzUzAtT1BrdXI2SDd1Zzdna05meDJhdy1mck5YbnVCSlJTenZ0Nm5lRGwtZmtxNHc2cnVQX0ZOck5vNNIBuAFBVV95cUxONXljWFVzaFBrbHUzaFFJQW1YblBZZVdiRnhkLW5ZMldNYklYSkRrWDhWdUVrbjJaX2l2WFVlQzRBX2ZoNlRRekpvQjBJazJMTmc5RWNFRmFaSlEyUTRtRFo3Smx3ajZQekY2R3BWd04xRXp1RGt2UzR6bmtfRlZ5LV9LZzVHTlMtNVpjR3hWRDF6d2pOa0g4bFYzZE1KZ3FNbk5RbC1uSmMtZnlkeE9jWVVuZXh3V1FS?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/24/european-heatwave-scorching-weather-triggers-uk-red-warning?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
