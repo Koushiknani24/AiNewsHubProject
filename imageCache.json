@@ -43978,5 +43978,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/business/lauritz-knudsen-powers-over-50-gw-of-solar-energy/article71142649.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/25/chevron-gas-prices-trump-big-oil.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/25/secret-settlements-jeffrey-epstein-friends-00975274?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/resurgent-raducanu-and-murray-backed-draper-lead-british-wimbledon-hopes-6209776": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606250142.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMjRPRDEtaWc3aXBPa0hsRE9JXzRPN1EyQ0x0bjdRdXl4cUhxblVRYU42TTJQeWc0RFJEV0JnQ0UxMklORGNuSWp3dWdlbWJJeDNVemtBQTNZSTAwSUVpTllhMkFGemF5MHlOblYyZjVjZ1lhRzltQjFRdDBNZUNENGx2Y0xQZnp6ODFYdHFHZ3M4MUlsUGNaWWNxeWdUTzdSamRxZk1NRkxNS24waW00cUNLZjgtOXh6SXRzemFDWFRrUUNfODlsNjRSYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNzZmQnhTMGZ6THp2dVh6MnFubVVjTzk4X2g1d1UtRUk3cTBGbDBDR1NvM0pMclBvX20yZ1FyR1VGeXVBd0JXZV9iRU9ESkJZeGYzalNnbEVYekgwWHc3WFdZbW10b0R2bG5vMndiSFVLVHQ3RUVOclVuMWJMU01sOFBLUExOYXhTRUx1N1dYdW5XWC0xU2tGcWd3Ny1QNDd6NnFDa1BPMUdZaW5kWUt5NkJXSFNGUGNiMGJVTTFQMTdOVkJKa29TaldXVjJVd1ZKbUlpNnMxdkp1aDZ6SlRjUEpTQjB4anE4bThxbXhqbHRrWDg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZGlXMmRyTVhQaHhJd3VVdlZJSjVSaVd0SndtTS1GbUF4dmRHTFR3SnhiWVFpNi1nS2VDVHZvdDd4TE9JOUxZR2xEWndjWkZvTVNiM084OXdQMEdfYUZHOU41d09jTDhNcmw3c0dUeTdYcXNxZEtldGMxZTN2SWRHTWQ0NmhWNFM1SWExTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/les-pays-de-lue-souhaitent-que-lexploration-petroliere-soit-vue-comme-un-investissement-vert/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/gallery/2026/6/25/in-pictures-aftermath-of-the-twin-earthquakes-in-venezuela?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0dEV2RXc3J5amJ3cjFXd21PakhnQ3RCYVhtcE4yV0pLb1Jrb2RlMm4zLVhkaGVvc0NrS281ckZ0Z2JIaUdxbzBIX0Y5TUdxWkg5UVBZS0JtUkU1blhfVGdKY2lNb0xDZm01MVktOXZjcmdMNjhKVFh3dXlYOXFMSjRPbXFPRElIdHFnYUhXX1ZadzNKbUY3N2VROXRPWElHU2ZYdg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/temperatures-set-to-surpass-35-deg-c-for-over-100-million-in-europe": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPalcydllxb2xYc3RLQ1c1Ul9KX1BmcE0tZXN4RHdkNk0xTk1GcXJMbXJFMWszTUtmV1d1aC1IRDVKZkVKM0p6bXB6OTdqcjZuc2xFRmd3UGJRR2pUbGNyajNGVEdNVVdvdDZWNTFCb29xM0F1TEljVWNMWmhNVGxOaWd3TkpSUlBYWGJXNm1HSzNjMExTQWdSamRxU2c1VVdkekpuRVhzbEo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/7-1-magnitude-earthquake-venezuela-tsunami-advisory-puerto-rico-virgin-islands/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/25/world-reacts-as-devastating-venezuela-earthquakes-kill-at-least-32?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQVI0MzdZQkgtR2oxeWEwZkpSWERxaVptMURhNC1sbnJpUXM4X0F1aVFvNDNBcVNoREs2VHQxdzA1dlIxUjlFZzJjX0N0M2VWOUdtNG1QaEszQi1ZTjk0eTBUWGtER0hqUlBweVJfQ1NwdEQ1YXRLYjViUFVIU2Y3eVRRVGtZUW5tU1UybzRfRm1FREhFZ2lZeWhhRzFmdjBmSFp6b0t2Q3V6UTY0S0Y3OHI0NmtRd9IBuwFBVV95cUxQZ0NnTUZrS29ISWRMRkNiZVNZWWNEeFlhR3dnMkpuTTRWODVLNklIcW5JaUZ3ZWx1WU1jUG5sNjduY1BNRFlhbDRmSzNnc1poOHF5MU9GMFFxR3RBQ2JHUng2cWhPeXB0bm5XbUwtdWlBUHpFek9jbXdyOFQ5RDl4R1B6RjI4bFNKSl96OWNDX2VvbEZUc18tZGVpbFFBQlBDc21peFlUdWZkS2tvQnd4cGxxa19jV1kwTEZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
