@@ -45070,5 +45070,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/ukraine-hits-russian-chemical-plant-again-reports-say-in-heavy-overnight-drone-attack": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/paris-desperate-for-ice-cubes-amid-record-breaking-heat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/politics-at-sam-and-annes/the-bloodless-coup-how-burnham-came-out-top/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/nato-allies-promised-trump-theyd-secure-the-arctic-theyve-got-work-to-do": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606260142.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczJpV1Ryejc2b0FzbjAyMTlQNk1iNmY4ZmM5R2VRcjlQSlpZcmNxYVVWRTgyVWZ1Vjdqb0o3TUdERW04TjBzejJfWmxOLVd0bm12NG5waEE3bWhjOF90cVdCX3pvSEJQWUw4ZVE4ZTRYQlpKcktlUzJ3RDFYRmNuamxKU1ZLNzRLbTNMTkZjODh2TVZwdFlDQzJEUHhhbmVPbjluaTFpMmxZaXZjeDNZeXQzdlNQN21JNGU4SW5pbGk2QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/26/neighbours-aid-rescue-effort-as-venezuela-quake-death-toll-hits-235?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/life/social-and-lifestyle/3276940/your-horoscope-for-june-26-july-2": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPODMyazBVR0NScy11RmRLUFJWT19ZTWZCRkpnenhrREhVQ3lxWTNQbDlUVWVVUWdjSTZyWnRwVU1RbFJ0a3BaSVBYMEtBQVYzckJsNVQyNUFLVG1waU1mcXJNQXhVcjN3V0lrMHdKRmdxeElwc1R3cXQ3cG9HV3BHeEg5NkZ0MTlmSHJJb3hGWXYzRTIw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZE4zaGFZYWpHX2k3ZWFkUS1icTIzeVJ4WTV4bGFJd09VRHZPNG1aYlhEa3dITVM3cE4yUVQ4TFRsa2plZEhhSENib18ySHhhVzctaTBxUkU2VGt3blJlV2JMQVc2aldrWUQ0am9CeEdzM2ZuajRIeHhpaEVmWk9JVXUtRUVQcm83REZWX0hZVE9adC1YeXZmdWNWcnVoMXFTcjFrazNmYVdXTzBrT2JJQWVPZGdmS1hOSFZSbC1tNGdOcUs1eElCWkdmTG9tR1YwbUpTbFdwbTVVVEtiUWxSMHdtQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3llSW9ZbWYxQjRaOEFqdnVCVkhFWmM0eEZyX21vQk5pWHpOMU03bm1JOUh2TUY4X1NvNVpvY2RlN0lWTDBUVnlSYVQ0RlJBTVpXLXc5UUVWelRMeHpid1A3c2ZnOFV0Snh0Qk1OTUozVFJnMTBtc2JtekE5SHZOaHhWT1lsLXdVb2w3Mk9B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606260117.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRWdFRkV1LTFMX1FXZkFJTHhlN3VvV1FoaVdZXy1MZkctbFdhSnFFdTZRLXRibFJKbDRydVZqV2dvUG5jSHFKOGhieEp6Z3ZyRDNSdWp3X1ppNU1IenY2TWZJcnNoNTRFeTlVOXJvUjRzM1owVlhNd0tzNTgtdFo3eXNiMWN2X2U0d2ZSTjlDcXVDZnJzby1UUXVQUmNGSDJvVGwyb0QzaExmM0pOcEhFbGVWUGJNTjhxTFZCNHA0RGdHV3RKeXNnRFlJV3RTZFliZGhzck16bUNFT2JvR0l1Vnk3eFZscVY2WHZuM0syVjRkeTQtS2VqU3VaVVpNbjNSYjhMS1hHeWdvTnhXVy1BbllidTFUbU5TZWRBVTRUWHB1Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/hospitals-overwhelmed-as-europe-heatwave-shifts-east": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
