@@ -45790,5 +45790,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/06/26/frozen-feasts-and-cool-pools-help-rome-zoo-animals-survive-heatwave": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/frances-dembele-steals-show-25-minute-hat-trick-against-norway-6214246": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/26/small-plane-crashes-into-beijings-tallest-building": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vRkFRREVZbXkzODJTNlRaUnlqLUNMWGl4X3YwMXVFZml2dkNnNFNwMHZHRHFWdjNRNTBxWDNEMFU2SEI0clRKVWV5MUVoVzI2YVJTenozSzRYM3FJMkNfM19n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHJfMl8zV21ZbkpiNi02aFdaSGZsTzljOFFLcU5RSzZuMk9qS210WWdaNFE5MGpLWDJxZEEyTklqVW5mdGFoR2JnRVRxQlZQMTk2Njc0TWlwYTlFanZHY3IwMmIzYUxEbHFCWVRia081RERnSkVDNlZQcWNoa19lMF8yRlg4R0dfeFZrNVV3SUFjUkJzOUdrRk1SOS1jamVxaGJIUm1TVVpsYXE4cG51dg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZzBYdFJ3OGEwY2JmQk9YZ0FwYlBZUDZ0SGN6c2wwbnktcWx3WDFWMHN6WnNJejM0UEl3T2t1SVRPMmtlWFYwT1J2VW03OXFvQm1DdmsxUDJMc0tZN3NsNEhUN1RnYllwdC1ITV9SSTdNajdaekJCUE92NHRrcjYyQTZqZEVPYmtPMDlZRnhnZzJTanBfVlM4MXNhSGpad3lteFRfMEt1VEFrMjFaZGM0Vkd4Q0g?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVhMNW9yNV9WbVNhckV1dXBCNXBMaTl1STRwRlM2M3Y3VllUcjF4UmpSZldMNm5lNVFIQ2R5LW9JX2xIbGNWMVc3eUtVaUJHX2FFWERGalZQQ1NRT25kTlNGZHQ4eVVKSmxwczlQTmJ4SER4VlEzX1N2NUsyanIxY2Mzaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEJUdUhyWk56NXRPdkpqWjhEb3NYZTU5SjNCdHlyYndBV2tVNU5ycnNzTmJ4UjVRYjkyMVdSeVRjcHoyaUZ2UHZCTGg3c0JGZGpzMFRfb1BxZlBnOUlGNml5T1pBOUdjcGhYSmpyYzNlMU03QWd3Wi1PUm9KMDFpSU1LMWtKWmpubHFRcGVjbkFCNzcwLXo5di0tQkk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHFVZjg2ZFptY3NHME1XU1hvX0FmeU9XM3hUS3d3S1Nob1VWblVKU1BOS2IyRVRaMzhBY3BJdkpLQm8wMkVIZ0pKRER1NHR0ZkJFX1ExVG1IWmZRdFNQSks1c29mb1U3eUxBZ19xWEhia3NMNkM4RDhEV1BfS0QzYWNsOVZrd3pORVNOVm04VTlFTVJTNVEtRi0zeTI4N1BHS3MwdE93?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/style/noah-ny-inxs-merch-collab-buy-online-1235585174/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFRXUHg0TGlVUXJ0OXpkWW1GUFJVNTNXeU5xX25ReXowb0gwUUVjVHVLd0t1bDFybmUtdXFsZ0l2dVJCMXZSTWZrYkgyVk11S0F0NXpTd0lNRjd5bnpWbkx0REVzWFhZcW9TNXRmN1djRGxralNMcUduZUpSZ2xCQWxwM3M0Ykk4UTN6d3lOTXBUUlV5Z3VuNzFtYkFIemZ6cXllWEZCcXM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd25lbll6cHRVN200dHJHNVJ1LWl1bkpMcWxEZ3kxVERoTFpneVd1dFIyYjg5VkNfd1NxV2tQcTVwTWFIYW51MFVHUDByYWQ5T2RWZlZwLXg1Y2VPWm9VWWFVNHJoenY0T1o1aFM2VnhSdldGNGluTGZlNEVTNzRNVHJiX3hGSXdZQzlDZlJMWHZiYmFORUdDem1PTXgwTHVNblhwVkpjRnBmUmdtbUdSbU1NMy1WWEk4ODBR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/26/thousands-of-migrants-flee-south-africa-ahead-of-anti-immigrant-protests?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/26/burkina-faso-cuts-diplomatic-ties-with-former-colonial-ruler-france?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGcxeHZmSjcwLVpBNmxlaWQ4aG11Ynd6U3pqbGhkM09BTmxuYXBtczBhR3NGQWxVYU1WWGlVTGU1QlhHWVJOdDhWRHJoQ2hMcGZyb013NGVpR3NzQ004RUJWd2JQWDFYVG1SZUhVOUI0UldOWGdQRnRTWW5FVThLdG9LeHk2a0l3d0tZSmhnVXkxZ1hSOTNHcFcwaTJKaUxmZEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTDBQbkFmSWdGVGxFS3lRV0E5U25XYk1tVmdNRTdGVjlodUNDaEg1dWYwVWVVc0VLMG1IWlJuN0I4dm1yd1dJZ01DSGZCN0FiUlpMYTIxMGkwbGY1RmRtTFA0bnpPdmkxTjRPVlNMaTlEcnRSN0J4cXlQbHBWZjFiMEQ1OUZ1bDhhZ2Vj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3277015/dozens-of-international-teams-rushing-to-venezuela": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUTlVSXZkMHhOSlpneVVlSzNERHItcEl5MmVybVRUZXlVcVR2SkpORXVGaFJZbFh3b0QxbDdOYUlaZ3hFckFaelRpaG9EdUtqUVdNSE9NMGpfM0pyR0h6XzZHZ2FIMFIzSk5SVFd4YlN1RWxkV2pLTEJ1M2lRVWh3VlRWVGRKWHZMNEdpU05Cb0w4Y0ZabHd1bEJDSnpJbVA3TDdSc0JOV0sxczNsN0NCOGhRYjZBbmJ2bjZZcXhPeE1md2Nfb2N0UW1VV0c2ZWhqLTY0OHBhYXNjcXB3NlR3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
