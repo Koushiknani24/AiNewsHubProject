@@ -45262,5 +45262,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/us-iran-war-israel-hezbollah-strait-of-hormuz-peace-deal-talks/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/business/a-historic-heat-wave-catches-europes-fashion-industry-unprepared/articleshow/132017338.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/lagos-building-collapse-kills-at-least-nine-authorities-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uNzZPbXNRSTFUMFVUTExzMERsY3FpZzVWWVhVQ3hzVURvUzM0T1czY3pkN0tGZHdrZ2ZRY08wS01FUS1ETFJwek9iSHRMU1JVa0VLR1lwdzNWS3BuXy1DRnhqX0gtakl3OG9tMjBUZHRVS3FjMjRQV2E1R3p1Nms?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/kenya-deports-somalias-second-deputy-prime-minister-over-alleged-passport-fraud": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTNUc24taElMdEtJRlh0ckt4ejJGR3gtdDNVM2dwcjZGUU9kaDZNSGdRdmtwUDlFbFlfY3FpOGRFdzI4V0dhSWNMU3NFUGhmeWE1MWV4Z0FQSzNqRjBkN3k3bUZsc1QtRUs5ZjRTcUtZZ2VyYWdyeERUaU5iejRuSHc2a2k2c2RFQU5rWkstbVdxa0pNdTR0RXZFRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjVza3JKbEc1YUFQSHE1dFBVemxqb3dhd1c2RnlyZVp1NWw5TWY2WTJQa2E1QW1rNUJzR21WeGU2WUxOMHZFUXJxRk1oSVZjcG9FV19GNVpNeVJINmJ4TU5va2J5NlpQeGZmSVFmRjVpcHIwdGE3QmkzSEs0T1dVVVVrTnZoTnJ3eG5YbjROaHI5UjNLQlJRbTBmajJqUVNxV1NjYUx6SEphQ09RdmhVUFJWaWJzdHM3TDZ0eUNCUGxSUmdxTE4wUHB6V1M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/bayer-why-so-many-roundup-weedkiller-lawsuits/a-77717842?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE1fZGo0cjlPbDRnaEM5MnhDVjNNeDNPaDFHMXlaTnhGWUJhSkR5b3U1R1ZxcnVmR3VLUVVLRTFTb1ZxNzdkUmlLY2Nzb2UyM0p0c1ZYZHBmcU0wT0JRT2R0azhibkZLRWhqMlc3R1hPOXl0Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/26/everything-we-know-so-far-about-the-deadly-earthquakes-in-venezuela-2?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0d4TUp4X3ZVcW1EWm8zbkhJdDZETFBFa0ppazFhNWlyTFFyNHd1LVJUa2o3S1Zjc25mYXh6cUlEU3hLTlpRdmpfcm55Tjc2V2FyQkk5X1dJQi10VmZiMXFwcWpTdFZiSlJXUElSekNMa1lwSHlmalltVGZZSldJNFNBaHdwM2xWRjhEbGpRMzg1WTFLOS1vVC1tWG1qLTUwa3luUWZlaG4yMzdIaWg2Y3Y1QUgteFA5SEptcUJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3277000/commercial-viability-key-to-land-bridge-panel-says": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/06/26/lebanon-thousands-mark-ashoura-in-nabatieh-amid-rubble-left-by-israeli-strikes": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/balochistan-activist-s-life-sentence-raises-fear-of-unrest/a-77721686?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRlpieWk3VVNMSkhjZ0c3cUE5dzZscm1BaDdTT1JRS1gzUUhXM1FTWmZObUxZNVRlMXN4Vzc3bnN6MzJST21kcnFOSk85UU41ZlA4TDgxUnN0dFVHTzBlVXBRb0hrWjF5WkppNkgzXzc1ZklaNzFsdzZXN2dUdUI4NWEtbnN1MHRMZ2xocldlTUNkZXcy?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israels-netanyahu-faces-election-challenge-from-hawkish-ex-general": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/26/which-countries-have-pledged-aid-to-venezuela-after-powerful-earthquakes?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHBkMWhMeDhDQTdJUE9Rb041RzFPaHB3Z0RGSnQ4d1V4Y2RtYzhpNWpvME5EUDd6WklHREFwUWNJVU1NNnkzWms3d3ZWVDN2em5WdE85QnFnZDZMMFRvZlBhZGhibnQ0UWRzTUdQQXN2Y2c3RGVqQTVJc3FZOVNmdGhibkltaF94LVJabml0VGFiOTJZUzJCZ3d4aGV1bEU4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc2c2aGxBdURzMHdCdF9GUmotb3JqbXl4OHZnNEtRbkJKZ0V0alQ2Y2JqOEQxdlo2cGRxZGxUVENmSWRpeEJIcjRmVjZSaVhqSjNROVBKRVR1ek5ZNkNIU0dBMk91bmtCWFhxeU5wRFRDM1RDNXlzYUFkTFdZU3JRMVBtMUxpTWJtT0FXQ3BzeFAxQ3NJdi0tQm1wR0JFTGdKckpuS1BEWVVHOGRBZnRiNU1JLVdCMmZpdk1xaFBRcDg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
