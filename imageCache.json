@@ -45910,5 +45910,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdFFQQjdURmhyUXZFRWxqXy0tMnhtcEY3OTBlb1htQ0pfXzliRk9wY09YaXd5Y1c4UHlCLWpCN0dBZV9mRDZZU2dncE96RlFEOXJYQ052ZUVOQ29fblhGNXNVVjJBYUZNNGNmeGdjNEVxbUFIczBZREZ5XzV4V2xnSTFDVjJ5ckc2OVNOX2FqUzU0X2RLZ2t0SmVhNEZVY3JobVlqSk12YUJ5UWFpZ3RIRnhsSDlHX3M0WGxIWVhNaUpJMk1WRTQ3RHFqclJ2YUFVYW1qcm54YmM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/game-theory/2026/6/26/aje-onl-gt-africa-boycott_v5-270626?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/26/heavyweight-champion-usyk-says-vacating-heavyweight-world-title-belts?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWxkZG1remo5eGtIaG1uT05qck1kVTd6OTJ4SFEwM3FBZlhsZFFJdWdkUGlNTlI1cXZidVI5WmxHdldWV1RRczM4SnpXb3JQSll5dkNoSEgyYnQ1V2FTeTlaaXNuSTdnc2EyZjdJWE5PR3ozQ3pQUFBmOXVfSEtQU3F3QnV2YVZsc01nMTZzZFVBU2dhR3lpWjJwUUh2UGtjQ1RHVHlwaEJ5MnhiUGJfeXZaSm81U1VVX2FuRHVqdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/one-of-latin-americas-largest-pride-marches-mexico-city-saturday/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/26/desperate-families-search-for-missing-loved-ones-in-venezuela?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXZ2RTlfMVd0cmljck82bGswT1I2SUN3emNSRGNaTnlmRU5uVjRpVkkwWjRaczZjTXk5b1ZjUU0tZnJpMUJsQzhHckVvZWNnb1FuWUM1eVd2R0tkaUJaOHpJbUVqTVVCOXFGbXNOVTNiWmN2QWhZVWJaWFN5SUpRMFpXdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdlgzc0liUXVYc0Z3dzdzOVJyNm1RQjBWVWdkem82bmlma3JVSmIwSjZaNUVxaUUtdDZpTXFyTzNMdEdLY0o1RmdKM19wd3pLUWtPcXV6OXdkUFlxcjBDOTd1WkJ1T1N1dEV4SXpJOE9QdDkxckRNdjdONTlPNTlkUUtwdnQzd0ZndUNxZllsdWNlLXFGWVBYV2pwMjNFR2M3X3RHVkJLV3VJT1VPOGZ4UGRvbHpLRmpDX05aT3R0Z1o0Rkk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMmRFQWlmdUlkeXZWaXpCQWVsdnRFNmNIZzNzQktuUFdsWmZQVnlwSVB5QzFpbnVQSG5MNHR0VGtYTUNjVDNmaXhldm1zTmR3Z1VJVVotbkczVlNydE5ROHBVS2dKcHZIV3gxVGFJMG9qQ0hrZmpvT0RmSmdMTkxRSjFNN1ZEeXM3X0JLdWJyZkt2MEFqcGFrTDQxMjM5bkFVVEpCVmhEY3hIX0ZxVzluM0pSVWpDSkYwS0FkZVpUS2lGLWhMNVQzQ3NLdUFUbVFyWjF0M3VLNGY1dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXY5QlJ4NzVBQ3gwSGViSlMxTGlTZi0wbVp0RzRvMHJSWmNxM2szWUE0MDNSNTNoQ25fX1Zjd0pob19keUpKNlhwYnY1bTdjQ3hpdjcxaGJzTmZYS0dCczFTTHFKNmN5ME16WUpqYTB1TXlJWFJteXJWWnh0NUl5amdpZW9oSXBDZVh1NnBfTzdnN2o2N25GU0gwZWJrUXpSR0VscUFBanFyLXpuTnRpd3QwQk0yZ9IBuwFBVV95cUxNVlo4eWVOVWRRZ19oM0taN0RfclJsWUpBZk1uc251QzlwalpSN1poWmZHeWswQzRNbWl6LWREY1F3R1o3MUdqNkdOVzMybThZYTdlbUlpU2k1SkwxS2Z6YjZubHh1eWRHMG8ycktZRjRLMnRCRUpZY3lwck1HT2tVV2pXSTY0bDdGV1N3RlBMSkt1T1lUVGdoZU9McTlWaWswNXNWcE1LRTNCaEFETkQ2OV9ucURuTzV2Wk9N?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmRnTldvUUFMTFRJeVQtVFlfa2F5cHlRZW1GeTZUY29CUjJ6YVBrNmhJR1Nkc1RtNE5YUHBHQ1QwcU55enBKRGllMTFhZ3JoTjBlWVNCYi1jQkR5REhiYUJNamNrTm8wTHZCUG9hTTcxQVBWWmNtbzFVZFdZUW5WUC1YNU9PR1NOUEFkeFBkYTRSSm93WGx1U3g3RV96Ui16cmZJMW9mbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
