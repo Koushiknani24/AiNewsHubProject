@@ -45556,5 +45556,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israel-lebanon-expected-to-sign-framework-deal-after-us-mediated-talks": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/norways-haaland-bench-france-striker-mbappe-start-last-group-match-6213886": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/gallery/supergirl-elle-red-carpet-events-1236627245/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/26/israel-declassifies-entebbe-raid-documents-on-eve-of-50th-anniversary": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/germany-sees-hottest-temperature-on-record-of-41-3-deg-c-says-weather-service": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFpyUUxIa0FodFcxY3p5aHVfTUJ4WUVmaXB0bnluSlVWNjZGTTlYY1pfOW5fUVRUUXQzeFpMb1ZndzlWVkkyV1ZZd0ZtM2NHNkU4QU9vVm1raUJwQmtEOWtfdjBaT0tvUlp3dkxPdnJtbGxydzRFTTZ0V1JTVEQ1NHI3ZHpUYUpaRnhOS25GSldLNzFzX2lVZl9R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRm1YeE0zcDhXRWR3WjF6enp0bEtwZ0JQTERDUHJLMlhfNWNOczJ2V29WNWdBbFkzdEFuUkp2YU5Haml3Y01vd21qSE5vSmI1eWJTR0xob3JBUjVHS3dYTUktMV9JRE5UXzZRTWZzVWJRUzNIVnpzT1k4Y1djUW9tZFR1Rl9xNFpMZW1kU2xickJaUXFxcVRqaGJtRlNyaWdqTjJySjk1NGJwaHFQNjZDZGY3V2V5Nmha?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmU3VmZ5aGp3b1pYZ1IzRm5Ka3VncC1TcnFQTE1pbmpvQk9tdFFfWERtVzBVcUhVQ1VGcXJFbjhqRi1saHBubGs0RXg0NlY3eGVTZy1Fa0thOXZOa2kyT0hMVjJkemlPbUxUdVQ5LTdyQWJpVEl6MWRWd2VmNWZHZ1ZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMlpYNkphNzBTODk5YTlnY0J0SEI1LU9nbVJHRjJUWHpmLTdicV9Ia08wN2RkLXZhdmtjdW1ZVTNZWm5ZcWFTcjdTQnQ1UmFONHNpMG9RMXg2OWZUMmdFVTNMNDBmckxxWlA4a09rTnBOM0pvd2V4TGRoRXJDS3pjV09saXlSWTJMRDZhejFGUzQ4TUdPQVAwbjNmblJCcno1SDc4b3VHNy1Ob2dNUzFWYlpPLUZQdGJGd0JrMlhrN00tU2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMmlHZy00bUR6U242dm9vZXRtcXpWWGN6NnprUjlBZXNocEJQYTg4SnVydHRqeEVyY2h6Z0ozajY4eEFZdXBxOC1pZTVHeFRwTzJWTE5jbHEybkxLX0sxMFdTT09SNFphUG5MVE15eFJZNXk0LU1CRlBUcGhwYUJzODJMSHAyRl9qaXRFV2taTDdNazd3M2NsOUJ3TmNrMnpvWk9QMWxCbEhEQU5ON29Xazg5aWNTVG5OR0dLR0loYlRReDB0bXZVaTM0N2JrQlBRczYtQUJiaDE3RHBjak1GM0RKQm9lTmhabjdwZ3diSlJNM2FzcVNBYVk1OE91d9IBgwJBVV95cUxQWWlraG4yZTMxRVNhakVtNHJoYlVTbWZTVFhlRlZ6LWdJc1l2ZGc0ZjhNUWUyOWd6UWgzeTg1ME1CLW5oZmVONXJnRTROVHFWa0VxSjdsdmRZU25ETU5mOUI1Z3FNdkVTcWh2MGV4dVplNkRkTi1fckw2VVZWUS11RXVxbVUwSXpwcnh4dFBNRXJDajE1WF9oLUVYSEpETktSOW5xcFhrMU5PRHhQRXdUQ0ZMRXF0b2l6YS0yS25ubzAxT0pzY0VBaEg2TTVNMlZKWkFGYUJQWTBNOG9oWWItODdWM01sNnlLaWx2TVlyNy16VUQxVGZ5bHBfWTlzMXItaGlZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-26-2026/article71149347.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/26/help-we-are-trapped-venezuela-earthquake-victims-turn-to-euronews-tiktok-to-beg-for-rescue": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/fact-check-throwing-cold-water-on-heat-wave-disinformation/a-77726297?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606260490.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMl9FMjQ3cTJpVWVqNUpkYXozdzlrNVd5R09lTUVTRlY4V2NKbUZLU3dfMWlKdkozNmNjUDBtMF9ldkVnV3hXUjd3QTJxbTVyTlNmNW1iMFNMbUdQd1YxZjl2T3ZNZ0VQM0NjSXBYaENBQ1RkMWVIdWo1Sk8zdmppemFfUFNWWmVZNExYZC1ITm1DM0ZkSTdBUHBZMm0zbzVMR05jMWQ4SVltcFNM0gGyAUFVX3lxTE9aYWRYQmNkeDNIUHBONG9KbW9nbF9RQWQ0N2EyNGdiSGdSVWwzdDY5OVVGOTF4RVZSOEF3c3ZUeXdXVTdCV1ppQXF6WUlkLVlObEVHQkk4QTVnYVI5Y3ZQVmY3VWhIYVprd3FUbnBZMWJ4MV83U3RNY1NocnVUVUVsOEtNd2dzaWVYQ0VPZXI4eUJQNHBkaWgwY1Z6TnhHVzhmVm5Ob1VQUFlKdGI1NHl6YkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/26/dr-congo-files-case-against-rwanda-at-icj-over-decades-of-alleged-abuses?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUVvWTdWRmdtOWZhRGlRYWl0b1EwdzJKcFdLV3VLY05UckhIZXQyQzZURnFfWS1sc3V4eUhHd0U4TlNNSVlJbHVRSXNwVnZNQTd1LTBQaGVOdVNjV3FSeVR1SFMtSFN2c1R1RUVPVWJ0Wkw2V09zYUs3b0ZlN090Y0hGR3Zvb3A0RDFUVTlfaW15dFhodkN0WkNubW5ENHhNYUHSAacBQVVfeXFMT3NzcExOUlVJR1Y3T3owOUFPTVo5bjJnbDFxYUwtd09jUmMxX0g2aC0yeFM4R3l2TTdWVXI2U2JEa2xjSG5XU1BZWktvMUlSazBEM19LcWRWX21jZmZ5YUh3WDBFU01CZVN0Sng5cW04ZGU4QnNIZXR4QUFINHJIVklwc1RDNmFZaF8tRE9tamhFZ3hNeXBjWmpIb096VFFmYjQ5dWM5UDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVE5a1RRWkxlaHh1U2lEblRmdm9yMFpkUk9pcU9iQ3lMcUFRQzlkVFlUMjhDUFNTTnAyV1BjZmNlcGJmVWdWQ3BEc0tZNThvdjBWMGhMSHRPRlZsV21PWXhUdE1Wa1JXLV9SUF9ZeWFQVE4wWlcxcEJfT1NJTThQT2VQSHNYZ2NPVHByRHNtMlgweC00Vm10MUV0X2ljbTMtQURSWA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/shiite-muslims-mark-their-holiest-day-in-war-battered-lebanon": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/the-take-2/2026/6/26/how-did-colombias-election-split-a-nation-in-two?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2swMDBJeDl1TlZVU3dHWkh5M1h1YTVUc0V5THhoZVpQY0FEclp3TDktTHFPTG1Sc1NMTWsxbWZ5VmhxVGp2dmZoMXJnV3BPTk1rdXRUX1ZtUjNNWHNrcHdnMGdPMFdxay1GZ2RhT3Z0R193ZC13VUt4b25qaExEQ0JFNFI4aHJ5dmcxZllucW5hNG8ybDB0dU9VXy1fdXVSWVNTVDRSRWdTSnhGMHhEVW90SXNodw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
