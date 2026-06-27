@@ -46648,5 +46648,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2NBUE0zMEVSUVBJLVlNS2Q2RFEteTJFTnpWZ1JWdlZScWstNmxXeVZPeGlfVk1Gb2ZVMW05dnp0ekw2ZGRzRkpHNVpPVk5GY1lqdzlFZ3FUZVBxR28tVlIyUDBUWDRPVTVFV1UxaG5kcUduTEFJV0dkWXFNOXI5U192QW55M0ZKUW5rN2ZLcGl0MUZIa09qZE93NHJsV3RCcHBXS3NJVG4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/john-cena-netflix-little-brother-comedy-interview-1236631810/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/transport-department-for-stricter-driving-licence-tests-speedy-clearance-of-applications-on-vahan-portal-in-telangana/article71154825.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/27/israel-problem-bigger-jd-vance-00978621?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/newborn-baby-rescued-from-rubble-of-venezuela-quake": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOajk0ajFaenlubVQ2dk9KOVYzajFCUGk3RTkxcVZCcExvTkNCZWFvSkQ3ZmRRemIxOGgyRm1rT3VlemVJb1hLaWVWd0Z4XzB6UVhwX29qQUNkejlOWGU5Wk9xS0VXNVpjc1BpQTBwSnhKbWxsMjU0OFpnOVNrdXdmWV9XcUtad2QtY3I2azFkWGU0bDBxZDd30gGXAUFVX3lxTFBINGJLZFY5dV9Od0NfakNDdDJBazFzRnFQY3ozXzlnUTFlVXZfOVUzVWpBQm5oMnVMWmlzMi0zNjVPaUloalRSWFN4NzFmUl9FcW9KTTVUMWt1LWNydnZnSlhPUFpJWWJQZmFqMXcwTzNkN09jYl9kRnpnZTd3eVBzdHg5dk0welppaktGb0FjNE1jVm9ZWHM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXJPb3ViMGVFRmxUeHJOMjViTktycGdfZ3RCNThxTDduR3J6M1FZN0NEbGlkQ21ScUg4ZmRsMmliMVpLVzdPT1NpQXdHNU5NbWhzY0s0dmFCTXNhNjNxNTBvbnNUOFF2T19majVzV3VJYndaaWxTNUU0U2NZMUlJakRRQTNmTDY1dHR1enhaUG1WLWdCcnlj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE96UFlDUDNGME8wRWNIemxRWG1fVmZPT0NmSWxvTlJnNGhTbURIaXlsTTZPLUNyY0NuSkRSUTg3bGRVUXE3ZloxVU1MM2YzTXpsaWhDZHZXNzZfYXhGWkdCVHJHRnljX01KeEdVSlVzSEtPcXVhR19J?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYWplaHZjZW1VT0RTREhsc3VFQkV2OHhDWUp4V05pMTFUbXN0VGI3TnFaa1FCS2puNy1lZ292QTFNTWpOT3ExeHRvWmkwNElLU2ZMQjZ1dktJcGp2U09GelhtVE01OTlZcVFJT0ZlRFlFOTBEaFdtVTQ1WnRYMl9BMWdwT2FTN3VJZ3ZiRlBpdWdWOTBLYkxqTlBTVExEX1J6ejdmR2J3a1o5aUVZMDAtSU1YV3lOWV9IZ0J5SzFPaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXJ0Zk5vaE9qZDhzeFdKb0I3djVKeE5jeWNDLTdHWm1TZjRxZjdiVmRGc0NKZmdQX3RNSWxvaXY0clNla0dicWZLYzVWYndkTGdCdlRlZERydl92ZTN4TzIxRU9MQUdtaUV3T2FFUjFYbkVUaWVIWFVGcFBQbGV6a0hacXJYd3ZmeERySlUzNnpFSWVWNWc4UXRTRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/thousands-of-hungarians-join-first-budapest-pride-march-since-orbans-defeat": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbDlLTkhYQkV2OWVHSEJNangxWWRNcWwwQkYxWXV4Q1c3UF94TWNFVzlzVUdPYkRvLWp4Yjh6TE5NYW53TTRhVm9rNUktNHlkRGFwcHFTREFoYnljZkUxbktLcG5HNmd3VWl3TFZWRlB0aVpJTkFjazZMaC1VaktWU3FnUGxHSkd6dm1zWHN3N1pvSmxHN1pLTl9RVUcyX0U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/27/tech-trump-ai-silicon-valley-00978862?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/27/sabalenka-defends-wimbledon-protest-says-its-for-struggling-players?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
