@@ -46444,5 +46444,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-durch-kyjiw-mit-botschafter-thoms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSHIwcExEdTllbjQ3QzRqek1OT2pzcXh5Z2hIMHQzdWJuMG5VLVRmWU5CR3NtNVRvUHhJUnNvUGxJeFZVWm5mYklLbmhGZzZwVWJhMUdTbEM2UkhUWk5fUVVQQ0lkQW56cWpoLUp2Z1lGTnlQSXh6Q1JvVzJmSkJCajYyMGZPUXpTdzB4YVF5cS1ZenFkUzNDTDAzSEVvM2t0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/27/uk-maritime-agency-raises-strait-of-hormuz-threat-level-after-oil-tanker-reports-being-str": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/06/27/latest-news-bulletin-june-27th-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://time.com/article/2026/06/27/burnham-britain-why-u-k-is-set-to-get-its-seventh-prime-minister-in-10-years/": {
+        "image": "https://www.google.com/s2/favicons?domain=time.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MbHJUdlIzSmNHTm8xZ3Y1T0pGSE9UMkE4M0ZyMnRqVmtjSFpqVEhrakdNU0pqT0dDMzdJRDZfS1VHRldTSENoQ0wwSTZ3ZGZMWnhKRVpjVV9TR2s?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/military-age-ukrainian-men-could-lose-eu-protection/a-77729285?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEd6SERmMkZXNTltcllFQ2d4ZXZMam9ObGQzVXQzZVI1Sk80c0dvU0I4UEwwUjJMQWdtNUh4X2ZZcExiVkJrbVIxandZcDVuM1RJR1VXQ1RIN1c0VWRmMGhvT3lzYnBxRE1sVzFyS1FZMXg0MUgyTktYR183Nk1pellxRHhKT0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3277474/city-hall-vows-transparency-on-eve-of-bangkok-election": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/27/venezuela-satellite-images-reveal-scale-of-disaster": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
