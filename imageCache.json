@@ -46516,5 +46516,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/venezuela-earthquake-search-rescue-la-guaira/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd2xDVEdIMHIzaElUTHVqQUdsekhsYVlJWktLZ05LR00zcEctSzRhb2JxSU9zQkV0MF9hMzRWRllNdFdYbklfUWNMYjlBdWdsVlRDOWdaLXRvNWEzSmlOWkwyN0NMZG83ZjF0Q0RSejFZbnY1M1FlaFRBOXJULUd1RXRweUtIUkxKZTNiYTA2cUtCbUp3dVdSa0hR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/longform/2026/6/27/childhood-interrupted-family-awaits-justice-8-years-after-baby-was-raped?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/06/27/woman-rescued-after-car-plunges-into-flooded-sinkhole": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/101-east/2026/6/27/exclusive-infiltrating-myanmars-scam-syndicates?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3277470/pilot-confirmed-dead-in-beijing-tower-crash": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
