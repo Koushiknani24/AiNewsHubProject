@@ -46294,5 +46294,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/jananayagan-producer-appointed-special-representative-of-tn-in-new-delhi/article71151438.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/french-city-dwellers-swap-stifling-apartments-for-cool-hotel-rooms": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/06/27/business/media/colette-shulman-dead.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/politics-and-nation/sena-minister-claims-14-ubt-mlas-set-to-join-shinde-uday-samant-denies-operation-tiger/articleshow/132030653.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/tamil-filmmaker-k-bhagyaraj-passes-away-june-27-2026-live-updates-reactions/article71153448.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/27/searches-continue-for-venezuela-earthquake-survivors": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmF2VEdadEdkM3pLMmtiV3JQRi1jek1JSFN3MjlZYTV5SXhkeVlpVGp0b2lETEtJVE9Jak5yc3pmMHBfOU54dU1LWVBDMG9NQXBJUnpLTWdNMndRbUVSZGJ1WXJHbHA2OUozMDhLSmg4cWVVTzBIOXVsRWhGZXg1OHdhSVZPa1YzVUpsNjFyMnZTM1dEeDdlenQtZ2FVZE43X3ZCVkpjenk1dUNBbE9uSNIBtgFBVV95cUxPZHNnUTMwQk0wYzd1cHkwLXFhaUp3RWNLeHloTjNGcEQ5SjlNM3g2S25MRHMtVDBhamZhOTk3Q0ptUlRiUzc3TlRzSXkwajR3VHd5TDlLZ3Rta29RWDZoNmNYNktUZURlLWtxZGdoc1piWmY0VzZfTkRMUjk0Wk5WSi0xNDBzT3U4NDEyR3c0UTJab19obGh0dmhsUlVfYnZ3MU5DLXVoLXRCcnFwVFBjVmJLNUQxdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ1lQOFdJWEN1MUU3SE15VU5BcmtMNGNGQ0RUZEtIeWcyX1AtdzZCTndRdDlZLW9yZUZqdEZubmV5UWlXNDVsMDBtX3VaekxNTFFpWG5SdzZLQ2lPb205RGV2WXZTOUgxNmRRVFJ2dXdfbXRXWWcwaUE3dHRTRkNBSUVuOHVQLXZpTnd3OE9HQjRzbkZ6cUt5NnZLaFRqSlBuUDQ4QkdEOGNRSDFnLXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWERXTjgwNEkzS194X09PNFp4cTgyNmhoSDZYTi1MUXR5NjNMOHIzUjA1WExHaHBJdkJUMWNCQkNCNTJpWndxeFFuUEVQUW9XQUV1dEM1NGpZM1RHOU9tN21YTnFtSXJrVk9ESnFfVV9tWDBhZHBJQTVqRUg0MVhTNkRQZEZfVGpzNVktbVpEbDFwNXl5cGlzQW1aeTNMMXYtd2xiUXZhSFVtZ0JyUjZrQXpjYVk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZVNrcGY4YnVzdUdNdXVYYnFiYXE5enlETGc0VEJ0bTJWa0RGaTNVZldJbVl4Z0xfaG5sNmFXZEpPTmlDUlBGNDNEOTVUZVdOWF8wUlNjX2s5MmpuOGxGY1NSQzRYa1U0UU1RdzZWQWtHMFotcFdvYWFycURHLXo1Z1g5YTNEVnBqUGN0akFERWtkakpRV3RNQmtRaWNkS3RzY05rTFpHX0RlSlpTdFJTdFd5bllMaXd6TGlsbEtyemhOVjlobG9PYl9YWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0FVWVlIR2lqQkRFSEV4NXo4QjZfMWlaem5tb2kydnpON0pvc3JTTjd6WUtGR2hKSlQ0N3l1UW1lVzdBcklpZ3BTZmxOM0VrM2FpZHlkaXQ0emlNSkZscGNwXzdKbWlYVklKc3dXdE9MYWpHM3V1ZG9keHpSd0FYd3lORkxGdXN6SndTZDFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qQXh6emtld1RqTDdWWWtOTHZBQUVQLVcxcW1uZ2h4WVVnUlRJSUUtREtDczk1cWdqQVVWbW5idEpycVRWcGZNM3BLNFZMZmZIZWF4blBvVzMzOF9TX0lwMVA5SlFmTTdJNGNmQkdJVzBtX2c5a3FDWkVR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/27/venezuelans-dig-for-earthquake-survivors-as-72-hour-rescue-window-nears-end?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TV2V3YXBjWTNPb0xXbmdqNTA3cWVYVGNfQjRhV1g2MXZwZlZaOUQxdWxTcHVMNU5LYkQ0VG0zdFdzdXFsMnNsZVdQa0MtdFZBemRWaE1uTm1YTFoyODNYZ0JWck5zTGNwbGFTZjhzSzVsT3Z0SmJBT2lxSHpTV2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/06/27/nx-s1-5786564/4-ways-get-creative-with-your-leftovers-save-money-on-food": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/06/26/white-house-makes-peace-with-anthropic-for-now-00965675?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzFwcU1GMHlncGVabWIwRHR1N1RZSDJRWU9LQ0FtSWlmeXBzSkt1TEFPdlUzTXhhZVpXMGhGZEwxc3N4T2hZNXFNZHNUQmw4dDczNVF0SEVWS3RFai1HbWV2VVFDYWVTMkJWbTZhWEg4UGdtQms3RmVVTTYwZ0JKODY2WGRHTE5fMEt0amI1bUtDYkc5cENaZlN2WGZ3S1plVmtLWm1aeUxsNk9STnNrWDEzNVNTVU9Jd1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMS03ZUVXVnBnX2JQYXUyTmphLTFxWDY1enFPazFJdTYxRHFUa2F2MjFXYzljVjIzWElBTnVlWU9leDg3N3VpY3pkS3hWMkhsM2hSOHBLOWJveS0wbDN4MkU1RjhNQThMTkFLc1NiX1RpMG01NjViV0NIcmlVWHJ2NkVPSmRNUEtYMFA4cHVBRjdWXzRYUHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTndOVE9HZXZwYXhBaDQwRlk4QmhNMHBZVURwUFRaenVGdWMxdmgwemlFejJ1M21vS0tuZ2hMZXkxN05YQXQzbmpPSndGSlotTzlsRTZGQ3dwRHRab2pZMUc0aTJEbG8tQnF0T2NqWFNGN04xOFZQMmI2Xy05UFBHUVdZN0dhVHNseDNGQjZWUkFxVk5PSGlBbkhhLVRBbEppOVpncWk5QmMwMGFiR3RZQzUybXpXYWs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWZUb3BnMTFERDktMTNFaTRlR1JjX0FobUd6OWlqSkY5dVV5SHBiNHhDQXprQlhoRG1RbEdlQTNHa0lRaEItN1FOYzJwSHh2dHV1aTh5MzNyUDZLRVMxcWZDWGM2X01NakhIY0V3T3dTUUpqU0x2QWFWZUhna2g3Z1BRd3dFaFpkT1dOUNIBjAFBVV95cUxQT1U2NnhHODVQZ2xpdWZ5cE5Lblh4ajB5MXk0UUt5b0JpMjNHNThDN3k3eDQxRGJrUGJ3Q1JMTmdKUk1tczhoQ1F3aWpjRVFNTS1CcldQQVZ5MzA4a0xkRGpMb2hJUUtPZ1lWS3ZIaTk3MTF4aV9fMlV6ZjJ6d2FtWUt3RU5TNHRmUWxGaA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR1l4b2NPMWVlaXpWVUR3SjJDd0U0WE5TUExOdWVlbVFxb1kybHVZQjAxdVdNT0pYUU1CRVRYZW4tUThjTjFsTFVYZGxoMXc2dVYteVNIcGxDQWxuWDBUWmE2TXNDRzlRZDdfM2QwN3NBdm5QemFWUU81M1JzdVdhTEFXallmOElvUWVDa0FNS0Z1blBvLVl2enVnSVJtY21qOUt2ZzhLVzlEbXhER1NTcg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606260488.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/2026/6/27/video-world-cup-2026-highlights?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
