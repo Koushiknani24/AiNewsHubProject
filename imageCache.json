@@ -47962,5 +47962,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/argentina-wary-tough-cape-verde-after-cruising-through-group-stage-6216566": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/28/everything-you-need-to-know-ahead-of-the-world-cup-knockout-stage": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbmJrQW1CSWJjMGlYTjV0TkZzSGtiemhkcUl3OTJyc252SHNScFFPS2ZqMUdUVGt0ZUxSc29aUGtwWTh1Zk5hUFRxbTlIdHBtZVJVcjVQMmEyS3pIZWZMdEVobFYwdXVSVUhZVEY0OW1QV3lBaW1zWFFGcktWZDdndDdGY2hYd2ZaNUphSVRSeHpFMlVFMDJReGdIdnJCYlZCR0hn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/raducanu-plans-wimbledon-start-despite-leg-injury-concerns-6216556": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVk9QbjNBRUxsbVM3dTcwYXJ4WWRZUTBURVJnTk84eFdXdlA1MzFhMkg0ZzB3N3JZMU1LbmpibU5mWExCT2RhandmNmJnRHNranBBeEg1SXBOY3M5YlE4UDFtdk56WmVkMmlFSUtFamk0bkZ3aGoxcDhDNTRicExQNW4zY0x3QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/liveblog/2026/6/28/south-africa-vs-canada-live-fifa-world-cup-2026?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/serbians-to-keep-up-protest-after-president-vucic-says-he-will-step-down": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3277899/chadchart-romps-home-at-city-hall": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
