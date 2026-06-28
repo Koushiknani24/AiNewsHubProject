@@ -47632,5 +47632,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/hezbollah-lawmaker-warns-of-lebanese-internal-conflict-after-israel-deal": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/magazine/2026/06/28/supreme-court-justices-security-police-00969784?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDVEbTVfU2p5WkVGd1pQNno1SnhQZjViZHR2MmdvUmlRZlIwRFQyblpoc3dqSTNPckhaTFMtUXBoQWFKa3dEWDlxLWVyR1NNR3JyMFRXbC1IUDY4Q1FNY21PdVU3OXc1Y04tWlN0aE15dktTaGtrYmd6SWdibDJ2REpKRm9qaTNtMWxjS3BZb1UxbGN0ZlhhTUFEQzlaX09Rd3A2ZDZ5NXRlaUY3WC1lUV9COS1DSHRUWWR1V1RLOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ05YNU9lZjV1VTgxQTQ1Vy1CZzlfTENPcnNLYnJBTGJ3QlY4cTM1dF9KNXBxWnJLNVA2UU9seVVQRzF4ZXdWWEZ3VnhmcXlWWDNmNHFBV3NGVEczNmJ2cUlLRmJsakpaZk9JaGRiU0w0YlVSWmtzVXcyRTRKYW9HUDhWZE02bjgwbURUWldfbnRsU29ZZTVpN1JNM1hxdkMwelRxMUNZNUoyMlZmNktxUkx2QklrZXZkQTBvQtIBvAFBVV95cUxOMXZ2WEpRQjkyMGJ6VVJHdjdHMWJ2bDlERTNJVGNCNDE5SXpsUGhyU2otaGJJeGF0Mkk3N0RLZUg5VmF5ODZDQnI2ZS1WNDFCazZTRFVSQzB1UmZkNDFQa1FBSzBmdjkyWXVROUY4MG56VGx2RVJLT0xtc3d5UUdXMjZETnZyYVR0ZmFYd0xjN3pHRk9sTDJRbWRHMFZZWVpkVDRKVE03ZmhYc082dmoxX296Y2RaYkotZ2l3SQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04a1dCY20wdUxTX0cxN1NKM1FMQWh6dlU2X2xOTi1uS1VRUzVISFZuWmtLQTYxbmMyMjN1Y1ZZRTZ5QlZYbjFRcnhhYmlLUG9HaTFxTmZ0NlZNckZiVEp6Vk0tSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWdqcmJOWmtwaVp4LTAwSnFsSzRSUVJDVDlBRVU2bjNrOGw0OTQwNzFZeWIyc1NGOFZReEE0Wjh3blYwTjdORXNwNjI1aV96TlZXbGZUSkllZ180Y2l1dlNCZ1NiWFplMjRnRUtQY0pVXzhDN0lSMHUwaDhKa3VkaklrVVREQTJXaVRfQTdFRmUyY1cySTBtaDJCa0xld2w5c1VBV1NBVkFkZUgwaFI4WS1MQTBzMzA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-trying-to-find-its-way-out-of-mou-with?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxONGltOG40TktKSTBza2I1b3lSOTc3Mm40c1h2ZFh1TUFNZ01jMFNJRXpYNFdwQjBiUnNDUHFWZFFmd0FnS0dnT1F5V1FxVHFTQmJZZGV1eFUxS2JYdFk3aTNHSUVmR2xUR1B2b2ZJenEySjZoaUJLcDM0NGRhTndKZ2UxU0VOLTNWMTh3TTFMMk5jbTBPYXlXY0Q1SEpkMGdlWHBKT3ZOQ3pFRnpYYUxvZ1pQU3FfaXhSREpWWkJ5bDFQX2ZBdGJfakJvWjl5OFhGc0FBSkFacndta0JvZ3NybW1meDNTUDNTOEhUSGJUMEF6cld3NG9BczR4anpOZEU1Y1HSAYcCQVVfeXFMTklEOVJxbHBVV1lmajFGTlk3eExPWUNPRUJYYld5WDBVTmRiMHFKT1hvWnIxeFBodnp0a3J5dmlldTV1NEo5ZVlYQTZyTXZKYTJkcGx5MU84aElNWkJLcEpadEVIdUVUbXd2WndvOHBfV3k5MUhsenlWRUU5M3h0TlkxTFEwUnowYzJYTDF4TDcxZEFrS005SWpGcFRaZXM1QU0tanBrY2s1dzFVVEJwZFhwQjJrTXN4aTg1M0I4RHFKd185QkpZVE1wQ2duQXFEbHhyMERUNlNqbTR1MlU5Z3k4b0t4dVJxb21ncndKMXphRkFDaXZaYXllZzd2aF9IVjNiVXhvVFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/about-1000-deaths-in-france-attributable-to-heatwave/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYzhvaGdvY2pSckI3VHA1ZHB5aW9mUUdObU9lSVRjakF1MTdIV25vNTFIQWlDQ2kwS2hTeVpVMXltU2dKQURBck5GMmZXTExxRXhUN0dYcGhmdFlkd1R4MnlSX3hKV3V5TTBkekxqdWVETWJxcjhEbC1BeDRFSEwzbGFuRmFxR05oT3h4eU9pZExoLVJGYkZiZXFTaWFiSFZ3cmpqVThNd1QtS1M0VEdQZjQ4VVU0SUVMMmx1d1pRVEpDR1A1b2FxdEItMkp1Y3NueEFyZzZ0X0hqc0JUdHNSV1gyQmFoQUZGZnpsd29HMExUSWfSAfgBQVVfeXFMUDN1cVJ5bEJZNzRtOVdFdFRaOHB4MnBqa3N1UmpuVWNOVmhLakRvMlV2aXRaZGZlaWxzZVpPcnlOVjJ0UkVFLU5VaXBsX0M5ZkVUYjNMbXdWVHJwRzJJU3NSdXJrQjE1cEZ6UzBTdWN5cHFMWmxwUHZIUFY4ZWl6UTJHVWNpSUNGcTdhODl6SVUyeUJXVF9RcURDUlFobVMwQWsyTWJfYXB1Mm9raXM0Wmt0ajVqVUZYcWtZald5TWdZV0hCamlBbHZ3cEx1ZGQtLXRfX29CUm5ZQWFQbVRmVTUwNUUyV2tSdHpTMGctYjNjWUlYYnF5NHI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWVxRm9CVVdvXzN2M2xNenFETUFOMWNPb1JSUHhMV2xGLUJWV2o3akhEVEt3STdib2tmWkhvMjZEbGpCSHd4RTJxb3lHT1Z6ZlBKcG5oLUE1aU5xRFhjd0VsdWl0SFRWV3hnWFI3LUV6V3ZPYk8zS05mTUtyRXM2YkJwVnoxNmhaRXlReDBnbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXJReGNlVXp5bHV3UlBjRE4xUDZ2ZmRiWmE4cFhiU1czRE14cGRkQi1Ba05NQUdMd2tsRi1ONGlGUEJLXzF6RGUzLWhTRmVPQy1oOUlZQ1RfeXAwYTQ2aGN6Ukc3MEp5SmQ5YmR1ZnA5T0M1YmtQbndkNkN6V0JkN0NnX0NJTUpKc2RlWldZUFNGWXJW0gGUAUFVX3lxTE1oTHZoTWFGSHZxQ0g1eVZ5cmwzS2pyMEhHZzM0RjduRTJQOFlFYXByek5jc2hsUGY1OE5hRWEteDFwTjk1RkRxYXptWFB3VXFETjYxb2JKTmxRRGNYZFo4LUxELXRfTGFQX21odld6UWV4Ti03RHoyVWM3Mi1ZLTFwa2c4bndpWTJmQTczTHJObkU3VTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/with-operation-purgatory-magyar-moves-to-demolish-orban-system/a-77726207?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYnpoTXR2enFrZi1XcEJlV1d0aGJFalQzVTd5bTVjMGgxVjlpajkwLVNjUUxid1hhY04wa2FlU3lLVjFVaXpfZGVOaTcxV2tMOXJUc3VaU29LMkFsVjFxSFN2blhCRHdXaWpTaElwNTJ1a1JkTnhUaVd1UkxvbGpKdTFZR1ZjT1NBUXVwcTJ2aDZqaEgtcEhaUVVHejBTTm9vVXN3aWRzVWo4VWpyb2VNTU5IcHN3bjZKSzFWSXpKcFJxMFZUdGt5SGhnQlh5UFBjU0xud2pMZklTaEZuTnpHTm53bFVjLUkwMVloaW9NZWlCUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3277869/son-of-myanmars-aung-san-suu-kyi-demands-proof-of-life-from-military-government": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/cities/Kochi/body-of-girl-recovered-all-four-members-of-family-found-dead-in-kochi-kerala/article71157155.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/amid-gazas-ruins-an-oud-repairman-preserves-a-piece-of-palestinian-heritage": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWotbFVoMDVaOWFrYU5QbGRmcmhPcW5laTA3NnkycV9Tck5odC10bFNNTG1PMlpuU0txVDdIYTMzLWhCOU1HTGJ0aFQ5Tjl6Mkk4QUdyanBOTC00dlFwc0t2dy1NQTdfc25BdmhDNUNod3lsZ0xxUFZjTVJ3Uk1JTkpRYlZVcUd0cFZCTlRNdGhMQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNi1VX0p3ZzFFajZ0NDN0UVUxUThDLUxPaDdWVXBvMTJLSE1RM05rYUtJdVREYUNySjRkREVhQWtJYTBYZlFkaFRLcUkyUnAxRjNLbU1uSzBzRG9uZlpnMG9Hd25LRk10TlkydkpNaVZSamlwNVQ5YXd6T2dXdFNnbHU1R1BWblFsTVhJTkJ5YTh6VTJ4SEY1RWIyVk1LU284MnBpNGR0Mm50QUFSb1JPSjN0SdIBxwFBVV95cUxNLURrZjZzR0o2ZER2NFNHbngtMG91cUM4Q2xxRWdsdjJmWExDbk1KUGZjcWR6OWNtX0NDLU9nckdGcHNWZHlvYmdlYVA1QVBUaW5abldQbEl4dVFHZldCTDUtR1NRZHNheU5HQnhlUU53Y0d3TXE4T3Y4WEZEd21mUGtCZ0ZXMjFfdWJvVHQ1N3FpSERsWjhpbVVKdzBfcERRQXNUNjdCanZuOEg1REdwTXpKbmV3bUM0TzlfNmNBOGE2aDJ2YkRV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
