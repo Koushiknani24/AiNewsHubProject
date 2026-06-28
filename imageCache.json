@@ -48376,5 +48376,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/06/28/nx-s1-5874019/weather-extreme-heat-wave-north-carolina-ohio-july-4-danger-prepare": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVlpsZV8yaVZwR1NTUTI1bUthM3lpa0xkSENULVJsa2lXcXd4MFhlRGpRUG9xRF9JRUNQUkpKUEpQV1NHQ1FkWmd4cllzV3ItQkhqS2Q1RklLcC1nelBzb0Jnc3FCNzREZDJsX3VVQXVScUYyS2Fpc2JlRUczMERfdElZbmxjQ3pHT3h5bkNENG9ibmVwVG0zbWdySWJuaUZSV3Rsakl3YmdWeFlId21mNU5Idmcxdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/putin-says-russia-will-press-on-with-front-line-campaign-regardless-of-ukraine-proposals": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0xRa1VLdDczZnJKS3RSMVFxemNSR3dNaEpNNUJKcFlzcGJXVEkyNW1pU1BtdFNadTFraGFGUEJfMS1Fb3paVUIwN1ZGbThXcGU3RWNLZm1GeXpiWFNPb05fRVNQNkxqREFPcHZrWDdUYlh1MzRoZ1I3UkY5MGpMV3JJTkdSN2t2NGpvWUV2TWI3cjQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNajJwRzZHeEFReHpVNTJ1NXgtUjVRSDI5LTJpVVMyM1JwLWt4UGZkcUpod1FIRWludkFKdDIxREpLYzdJd2lpbmtrWkNPTHlyUE5xWjE3b212ZWV1RkVzVlE1V3ZfRm93Y2hnYnFGbV9WdXo4NVA2Z2ZFaG1fTlQzTF9QVUJWWWV3UDhmRjR6WlBJaTFJWW5QYWVpTTZfUzhRNUpEOVc0czJTMkplenUxU3lPREs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3278200/living-longer-saving-smarter": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwJBVV95cUxPN3VTa2RVMUEtR0hRdE84WnZZMndoNTl0VkExSTVyM3RFOTZCbjl4VmVQOTctcWgwUUd4TGFYT0FLb0d0dTl3dFVOc0RQRmRLa0FIRUlFc3dLakhGUF9zbU5wQzJNU2RfSDZacFhkMF94R1J0c21wWXVxY2JEd3BDVWczSnUzTjY1a2pMNlJUeTlvZktiU0tWa21xSDd4M0FNQy1WQ0QwZGZtdHFMbjY2cHVQcy1sQXhFdElZanB3eVVKd2o2aXpydnNrSXdMbnZ3UlJEZnBhT2FNUVZabVVuWmRYWUVVVUhUOThfNEhQRlVqNVg2eXRxS1c4NlE4czAtYUNxSUdKTE9ZZmJPSFp3WHZoRzJaWGwyN3g1VFB3dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/venezuela-quake-death-toll-reaches-1450-as-rescue-work-goes-on": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVhIeVVNaGhrQlFUaUE0enpNc0NtNXRxSTlvUjQyR2xUWjhjcHk1UTc5QV83Q05fX3BGNXBNeGhTQlU0WmpFb25VOXVxb1c5Yjd0VHFNeGc5OFZwM1p4RG90N18tV2JtQ0VuWDZiMFVENnhtaVEzT2RFTFNOR0dpYTVDVlNtMS15bjBjWFJoNHlnMDhhaDZYWXRheGtpZmd6UERNNTZTZGdWSUhqY19iNWZfWldjRmxsc2p1OQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
