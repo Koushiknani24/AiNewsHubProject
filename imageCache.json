@@ -50464,5 +50464,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/30/trump-financial-disclosure-released.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWNqTm9mX0lhRWVFSElPSGVoamhzX3k3R3BCd2NvTFdaQUZ2c0R1b3hWWmYxc0wxN2JRUUZOaU5adElHTWJpeUZxNUUxVjVYQ1J6YjF1c2l1Y2xQbkc1WGstR0V0b0g0WEh1SlJJNlhJMnNuQ3NHNy1oc1B4YkMzQ1lQQmNjWWM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/30/death-toll-from-venezuela-earthquakes-climbs-to-1943": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNREt4ZkoxdS1QQ1hTQTZjTVB6NHdPZHlkY3dRb0hHSmswYmM4YWhqSWtmNXJOcmxaRm5iMmpucHA1Y2owX2RLZXJIak80QXkxRmdyNTZqTWJKeVNicUF2MlVVQ1NEVmlBcmwxYWktTnhrLTBXRGswdzRMWG5mek14Rw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmQxVmFGY25qNmJ6aGg3Q1hCaVM4MG14SkJmYkJPSExkSEt4dXZObUtKREdxMnEtZmJ0ak1zdVlEQ3NBbjktLWFYNE5ONHRMMFhFR2N5QmVDMkgwcGQ2ZlEySkI3akNWMXpVOV9YcHNQb0p2UEJGem9TdHN0NGF1Qw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEk0eWMyX2pqOXJnYWVWTThuMVZfMnNGMXpFeVpkanpMeXNDSGxJQ2Ntd1oyOGxIYXlvQjY2a1k0RzJlWGo1UGstbWtTRFNWVzl1dWdMM1VPYTFxbWZBX3QyTmN3Mm9VQnZidnNSYlpSTHkwb01JSTNLcFdJam9EQkxoMVpCbVJyeE9Ddw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/30/what-is-birthright-citizenship-and-what-does-the-supreme-court-ruling-say?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHJFZUVkWG1QUnVpUlIyREE0UzN4ZTY0ZkVGTWVqbWt6QTIwR1JJOUZHT1pNVFM5bnJDaW95X0IzVF9SMXRKQXNyU1lLenNkZlBDUkJEVUxqaC1fenZ2MkNvMmdTbEZyZElBX2dMMGEtT013VEh0ZUpmNTVFNVdPWVRyaVJLOTlUTThLTU12LWxPeE1GbF90OUhNY21rSjhWWXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNck1vUzhZdmlpR1NJclpkaVQyNjFiZjg4NTJId0JVS0hQYVhxUXVEbjFRaWpWSV9IbFJjUEFXcDF0QWRfSDhZSUowLU42RFR6UXpjdzFMSV9KMEVMTV80akQxZlFxVmhBdUdPWWhmdTh1VWNid0xZNURSWHZrbUM4NmJ2UzBSTkU3UVZHQ3ZFbFV0TUhmemMwRA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/turkey-recep-tayyip-erdogan-israel-armenia-genocide-recognition-gaza/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHJkRWdDa0Zua19faHgtQThGNmF2OGlNbzBSbFdZcWpFQ180OFkyVFExWDVTa1o0R2NEbmpHTDlwTTFNallMRnlPTWlsbGdsdXhZZUJVN21KNVRueEJ2RnNMUEc5YUZMWFFBN2tpMnc1Z19DdWNrTzFKY244azNuMjhXZTFGcUUxa0RUalNFVW11eTlCbkdYY0hRYXRVXy1OanFrUlFzZy1tbk9tbVNV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGNDN2Y3em82Ym14bkpCRmJvUkt0ODllc29sUVZwMURnZHAxVVJ0UUxOOHUtcnNVc2VCeUxDQ3pXR2FlbWdKOFE0VmE5OUdNX2FSeVJfUnlUWFFteHA0U1M1MVpMYXFLaXpRUnJDdmJqNG54RlE0eGhZVG5GemJ2RWN5MUJZbndVVEJlNnRsVmM0VG5OVVZLelF0bGdkRzNXSWdz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDhhTklDeXNCYUZ1TDdYZmtfSmp2Y05xOEJNVjdHLUc5SEZ2dVBicFp1eVE3VjQ1UTVHZ2d1YjlLdmczVWYyVnFia3A5VzY2SlNybXYtMkhqdmxIUVRCQXJOc3hqSndWYVNSZFRMenNzNkdKdmM4TzNHZmdRZUluTzlSR0J2UVJhczdWclhJVWF1dXZqUTZoY1g2U0JSNzdTQUxWUV9XRE0yeVNzMTZreWlzR19pRFct?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWms5SFNJcEJHb1BKTFpqUUxDR1QzOUhnNWdvd0luYnVSS1c5WjhIcUhJSlJXTWcxUk9IMFBsWWE5dWVERG1MVXk2cEhTdS1qa045cG9JQ3FVUkY5ME5GQkt4ejMwc1Znc1JwSTY1bWk3TnpkVUZyQlNzaV94RVRpWWlXUVc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/us-have-courage-prevail-if-world-cup-shootout-ensues-pulisic-says-6222906": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObWJBQm1QeTVJWWFqOVNqcmVxdGpzWlBEYUxYbkxjc1NjT1plWjlWTzByejB3ci1fTGlYb240QVVqQ2gySEdEMmVQdFA0TF9MM2YxYWZQRndXSkM0emtLRjdFRC1nVVhLU0JvUmRFbTVya1V0NXVfMHk0LU16N0YtakVkbkY1UmpLWWdrV3RKLXhMS2dVdjh6MGxPMEtLSTJfTWpOejM0NEV2VUFPYzBpWG5DaHcwV3Ax0gG-AUFVX3lxTE9ucHBoVU5nVFRySVZSQXZfSWVWdkNDcmxHalJhWDRKR0dXMGZsOEVuREdSXy1Temd4YV9CRlJPVDhHSTR0cmxHUVIxaEJsdEN1NXl0cHNNak1yWFhYa0dHTjZzcE1yejUtRUVtdWxZUWxoQlBSTzRhV0hDSGRfRmJ1dWhONmtXV1NpOFNSVGNuTl91MzI4NUFVUVFPS0xOMXJvc3BtVm52QXNWbEdPeDJOS3lnX1RjNWxUSjRsT1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd3dLeURGWW13SEc1bnJIMmRfSzdUTVpWWm1OTGstbURVVE9zaW9PcktYbGhaYkRQU0ctQUF5ZTNuR2NpdzBaeFN0OXA5cElwQVJNekU4aFIzam9pbzNrenYwZFB3Z3J1NGhCZ1VzeTF4SEp2XzZINU9ISE5ZanVLMDlIVkxjTHpkb1hjZGI1N1Y0aVBCSHBXcEZRLWVnZmxXZHh4dThPLTNXclFzSTdlaVRqUm1sYXlYRUc3WFRJdGNETUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/6/30/emergency-crews-search-rubble-after-athens-building-collapse?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNczlleFlMQnd4bjZaM1NkbnBXTURCM2pkYWgzME9QZnJGNDlJT0lmNWZ6elN3SW5PM1BHdlpseW9aZmM1bGRXcG1fSTlKdm00NE81d0NWS0NWSURtS3FnUXV1dlVuaGZGdDMyTkRxS19NNElOS3p2OWtnN1ZhS0NmT1gzX3RzanhlaXZKZ2p6eU93S0lmRENKRWlLVVZ0MkxhSlU1UmlCYkrSAbYBQVVfeXFMT21GQUpBSENibWxac2pLRnpZQVBXYjItY1VIQVowWG9PU2c1TE45T1JlRUZQMzR1YnVJU1Y1ZmxpVkdrd0xJeUV3WjNUMTlOUjk4aHMwU3FqSWZUcWhaNGJ1anE2T2VyRjdlREoxajNaUEhRSF9mTGpvOFdoMHpDSWR5WExPNVFtcjE0VFpFaHhLZ1NtM2FqM2dGdDFqQnVFa3g2bG5DRzVabW01MUpwaVVDTXpURmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
