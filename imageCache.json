@@ -50032,5 +50032,167 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/gadgets/959264/bose-soundlink-max-wd-black-deal-sale": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/netflix-willy-wonka-reality-show-ai-gene-wilder-voice-1236633800/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/row-over-proposal-to-appoint-seshadrinathan-as-state-election-commissioner-intensifies/article71166211.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/guillermo-del-toro-gale-anne-hurd-john-gore-academy-museum-1236633597/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/business/Industry/coal-india-targeting-to-spend-1900-crore-on-rd-until-fy2030/article71166853.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/norway-back-big-guns-ivory-coast-make-three-changes-6222236": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606300545.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNE51SUEyMFNwNUlScnZYODlNMU5jTHdRTC0xRmJHZTByaEVUWHNzYWlKWU5xOUVPUjR1RE53UjJvMV8tUndCT1pZTFp5VnkzZ2lkX2dEWHR1M0EzRnR0UndkRGx1S1RyWE4wX2xhNWMtV1c4czhHdk9XYzdVbElyRXc2UE52NVdnUnVwSFRfNWZ6ckZnaDRXRUZhbzlkbTdPZ2poZFRNRktSWXEwMFBwZ0g2SQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVFpeFR4N3puS3JJcVpXREZhVzZiSVV0aS1qc05uWk1UVHQyNnBkS0E3TnRQdkNaSzFTN2RRdllDYWhHV3NIRjQ3amgxOVJ5MXJua3J2VWltODlJRmdFTWlhMmJrTFdFb1h1dHZieXU3MkxydGIxdUVrbV9VY2JkZW51V24zZEprMXRuVTBuOVMwQVVGT1Z4cVBHOWpMM3QxbHB3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/science/959466/quantum-computer-majorana-2-microsoft-trump-eo": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/playbook-paris-podcast/edouard-philippe-se-jette-enfin-a-leau/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/middle-east/20260630-middle-east-live-us-and-iranian-delegations-in-qatar-no-bilateral-meeting-confirmed": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ19VOGxFREF2RzluRmFTNW80a2xjdzEyaDRPc2dIYWh6VlpDeGdJcWNTM3RYMUduOW1tSEZzVG12eEpMeTQ2bTY1Ql9nV2F6V2xaVWxZeXFXY2lDd240d1NzUVhnYVpnR1FlMjg4S0YzRHF4Nzd1bkVrdVRDbjdRTzNxS0g1NWR2ODRtMlY0VWNtU09pVjhxbkI4WjM5LXJqLUxzSUhsMWdJQzRkTk93MTB5SmUxLXJSVjMyWXUzVlJKcnRndG9OZXBFSk4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEt3UVd6dWpndXBSRmhIMVlrSUl1VXRvTjdNNHNGUE50bjVWWDFoX0kxM0VEa2hsUEgzQW4wMDhxYTd5dGJHdThuSFFsQWIydklpX0dJU19VMGN5d25IOHlvM3paOTlYelFJc1RubC1hM295bEgzVUdOdWkyeTNrMHVMY1hDMm1pOVE5UUhyLXdYdWxjc2xMTXgydUExeC1GMTFFaGFHVzZjdE1VSDljbEVB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcHBpYUsyU09jOGd4Rm1rQWtyU295VjZLaEU5aWVPR0VId0lVVUdLZGV3Z0FiOG1xOXIzdHBoRDFDV1lPMkZ5SEJ6d3hiTEdpUGMyblEzTUFSMld1dHo4VExkSzVTdk9Bc3VUN3I1MFdFNzZLS2kzaVdhWG1VMG12VXJKQ0laQWdkcjhTdHVmb1FVbVNOZ19nOWI3TE9yaE9CVGFsU3hTNE0wdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hQU1VU1JNY040aGVUS1FYUmRSZkM3d3Y5dFBjOGticWFOcVB5Z1BaX1lNaWxLSW9XM3djdjZxRDN1V1J2eUEyMndKd3pIcUZScWZKLVRxX2JjN3BGNTN3Uw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaUt5TGJ4MEdoS0JRR2tDUTRMQkVBRVcwZFVmcE1qVWRua2NMZGxCUTFDU1JZS3JjT3EzeUtUX21kR2xHVWUtSnhmRW5IZDJBLVN5eGFzSzMxcjQ4VkNaV1p2S3dTbGYxS0d5ZmF0REZUVS04ckc0YXlRWmFKSU9OTDg4Xy01Zi1CNXF4aXBfbjVHcnQyQjV4b3dCdUVhcFVSd1AwQWpfaUsxSjNhcjdHWkpQakV4ODYyME9vWklZWUdfOU9SVXNXTnZlRWozVm9UUjFjdDRkOUZQS2JxeEZyQg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/under-siege-uganda-s-army-chief-clamps-down-on-the-press/a-77769666?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFBfaVZrcXhEWXUyOTgxWGQtaUFsNzVPakZXS0pNRC1fRGMwUXdfaFV5cV9Deno1Nk9MeWRBOHFkNzNNNkdwQmhlM2hTUTd2aFdWLS1yajdRdTlfR1l1Tmxua2E5WDczTm50eDVNN0NBVWZtXzYxT3NKNXNnWFlyRUU0Q092MHk4M3dwYVVWR2VQdTNCVWdYRHYwanpwS0pWR2tWTXdwWHFpMENzVEdHVllpM1FlbmZraHU4OGdB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/will-alleged-crime-ties-damage-serbia-s-ruling-party/a-77772788?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHV5b0xfb3k4RFNKZkU0b0k1a1NLWW9rbHhDMTdLSEx3QjFJUzlWNW1CREdWSHl6SmdleWRXRmwwbllCV1pSUmdzTkxLU25YejhEd25qNU9RTmFXWTFsMlloNFBHczg3S1hJQTJIZnZQbzQxT0JqX3F5ZU9lQmNlVEdGYkFxRE55aDllTVVWTF9pZzBfbzNqTHJFOGVENzd2VTNTQVlpc2JJLXPSAbABQVVfeXFMTldBeW90OGhPS0RUU3R6R1F5Wld4T2ZtZ3MwRjkwZmVER2pQUkd6a1VnS090NnFqN2E1T2FpRy1RQTRfaEJYTi1BUXV0ejN4TWNYaUxKVnIzMTFKbU5NcTJ4U1BvQVItTmw2Ung4NjBVQ3FYRE1jZ2luV3NXdHhzTWhQYlRMSWNqd1NLdHMxbGpwWTR0UDJFMkQzeTRKbjJWeUVkME1qbjczaXVtN2F3d2g?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kamdFeFJYRWRmbmlnX3dRamtlc2t5R01HUWtqR0pxcy1QdEg2cUk4ZUFrTl8tUDNaT1AwMmZQaXJLLTZ5OVRPVk1kalo3RlRGLU96UFZia2VkNDQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/french-government-vote-of-no-confidence-heat-wave/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/30/monaco-prosecutors-say-no-terror-evidence-after-blast-suspect-at-large?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGNDN2Y3em82Ym14bkpCRmJvUkt0ODllc29sUVZwMURnZHAxVVJ0UUxOOHUtcnNVc2VCeUxDQ3pXR2FlbWdKOFE0VmE5OUdNX2FSeVJfUnlUWFFteHA0U1M1MVpMYXFLaXpRUnJDdmJqNG54RlE0eGhZVG5GemJ2RWN5MUJZbndVVEJlNnRsVmM0VG5OVVZLelF0bGdkRzNXSWdz0gGoAUFVX3lxTFBMRUVQYk5OSU5jWFJURnBXcEJqUFFrNnJocUE5R213WHJ2TkNfSWsyaEFFbnUxaXdXZGU0Wk11N3FqV0phdWluOFlFU2NOTVY3QWk2dnRDYlA1WlZxMzFMeFN5VU04NDFva2dudjZlcnVodUJoVnY3aFZsb2RpeE5XZmhtTHBSUXdhME1OYU9IdXE1b2x4RF94ZGh1WWFtb2Zac0daTFBFNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRXVyVWViY1hlQXdKTnNKZ01LS3duTnZaRTN5VEtWckNBMEFPbjlOVjM5THNyMV9HejVqSGZhYVhpbm9KQ0pzQTNtVTlWQ0diQUl6WjdCVm9VTHlvMEhidTRSLUFtMUl2d2JheW5ZdHdyTS1RNjZQMGZFZ0pvbEpTOTR0Q0FmMExCYjI1UA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1F0WEgyN2Y0Rk5MVVFKclFxMWVwVEFuZHJ5OVNpUndtQ3k4RkkzSzFDaldMenV6RnJlTzY3M29xcndSd3JGMXRQM3pPTjJKbElIRkt0ckQwUXhjWlcyZXFJY1JZaVotX1NEQWVzbThvWG9DSWt6SnR2WkYxQ1lYaXppVnZVZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
