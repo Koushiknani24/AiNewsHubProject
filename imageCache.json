@@ -50338,5 +50338,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/next/2026/06/30/whatsapp-to-replace-phone-numbers-with-usernames-what-does-this-change-mean-for-users": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/operation-toofan-volunteer-arrested-in-bar-brawl/article71166339.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRkFtOEk3cmZwQUNRT2MxT0ctUDB3Z1JKSWhCQmtGd2tjdjdHb0J6b0U3aEdORlZ5TERrYjRpTDljVFMyTUkxTVpjelJQWk02dUViem1TMzJOQnVQSm5VdVM2eG5Qbkp1alNneHlTWExCVDkzamhGUFVaRmVETlBoOUlPY0JMUWl6Qk5pYXh1LV9VRWhUTlZ1ZA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUTZrV2ZlV0x5dGZNM3pDcmRhZ0NNOVcxcFN2X0FEN0hDR2JwN1VHRTdUM1FtUVNGNnZhQTdOZG1KMjFEeUU5S0lXZzA0TGJNR1Ria1Z5OUVhUWJLUHNTdnZYTDR4eW5qMmY2dVVSaFhfWUs5Q3VNeVJEMXFxWTNYX0hqWFB3NjFWN3NtOEdjMzRqLV83eS1xYU5Cb280amE3TW4xT19qUUJKX3djSDZvRl9hSVhBZk5XZ215akhEX3lXVGJPNUZ4alFJQ2VCdHc0bkxaT2Z4QnJYTDhTaVR3WV9CdFRLX054WnBodksyQ2xnZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/corporation-to-end-subsidised-biomedical-waste-collection/article71166258.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYWZrRnl2YnE3d0tMY3c0U0o0MVc2cUpXU3poU0lZbERWMEJFMEtNamNXaVFpaHBkV2NTVVpMRU1WS0haRXBxNkhJQnlGV1FESElmQjZlSERvSVdMeUZwaGlkUWdxSkwwenZKYk1NMVB5S01KeHhOby1ZM2dYWGFmUTllY0lubXZBSDdJWllWSnN5WkotYXY2NUtfNEN5bFBxd2xqdTNWRHZZOVFBR2ktZ2haY1ZTcGx1MUZqdW5tZUtCZGtwNUtyN3FXdHpucE1WLVM2SUM0MW1BS29yM0otLUlqNTR0REU1cUxvY3RBbmxDNHpjdXBWcHBvVkxIZzRmWHNDam5sczZUazBP?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/new-arrest-double-homicide-mexico-city-mayor-aides/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/un-chief-says-un-agency-for-palestinian-refugees-nearing-breaking-point": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnZObDEyRENqMmlXYzB5eENULTl1c0UzNGZTRG94Umg2Tk5heHlyVjZmUnNQVTJhR250RDFuQU5OdEF5Vk45bllVQnpkNnlwOU4xcEFPOXk5NGRZdjkxd2xjakgzS1dYWG04NnVGbWdBTUpHaGVBV1lPWVNvUTFjWmtB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/tom-hardy-makes-up-with-mobland-producers-1236634032/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/us-iran-war-israel-hezbollah-lebanon-trump-peace-deal/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUmd5Z2hMQW12SmlCYjItQXl6anh6WUc3TkMtLVhOdXF6Nzh6eHRJdk9IeHFJNGlvLXA3ZjhOa3F5ZTcteXlrWFZnUzdLekRYWFg1VWhCX2UzeUNuMWtKUWpkQlNFVTBReXZrU3VDUTFPci1zN3BLSWdJaEEzRFc2eTVBOWtWaUdRQzVhRTNwbDVpdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlREVWFNNDNBX1Q1RmcweFpvdkxRbHlONmJ1R3B6TDR6azQ1Vk9xcVBuVHpZZ1RFWklVQVlsc182YTk4VkduRll5TW5SMXZyUE10aDM2bGJuYnE1TzdicWlISHM3d1ZpeGU1dkhvUDc5dFNNRDB0YnpNTEx2ZW9lQw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/portugal-s-golden-visa-delays-spark-legal-fight/a-77755949?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexicos-health-ministry-eliminate-hiv-by-2030/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVA2bFBhUVdUOW5TX1JVRHg5bEVHU244bkhuamRnNG00WWM1bFE5WHJaTWZvVVBON3AxMnRpeFBLRmtiWUN1am5hd0xzVVd5V0UxeXpJQ2ktbTQ4bTZUYURZeEpHdGtseUxMckJVZE1GSWsxZzhUZWN0a0djQmFXY2cyT1J5WERHZTM4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/30/supreme-court-strikes-down-trumps-executive-order-restricting-birthright-citizenship": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/6/30/norway-edge-ivory-coast-2-1-to-enter-world-cup-round-of?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWZxNlVOdGZ4VTRYVjBPV1BHUnN0eXR6cEsyU09FLThoQ29vblI5WU9VbWRCOUN1X0JlTUUtU1F0UWhsdkJ5bVowRDNrc0dqNFg1eGI1UHdJMDZ0WVpsQnZEMUxzc3VkVGVyNWpJNWVZNkJVcGNLelJlRzBWeTFfTTJtcXQ1N1RFM1NXVw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
