@@ -49630,5 +49630,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/30/high-inflation-could-linger-despite-iran-war-ending-ecbs-nagel-says.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606300149.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVZsUXg3NmJzYkhuVHpoS3NPQUlxY1JKcmRuNjg2Y291d1JKdFowaXFqaVp1TVM2UnZMSzg3RDlHZjROUTZsNnhucDRUSjJTNGYtb056c2loTkdGd2JPREMxaHlTMWx1d3JLVTM3ZFMtWjY4QU5ZLS1OcVRLYk53a1JmNkh0MUl5OVVtc2FMdHJLUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZmM1NUFyRzNWZjVjZTQwak9DeW1HdjctSTE5Q3FxVTJSbUFNOG5ZSjVyRThjQTREbHlxTzJ1RGEyU0d5R2lDNXhEUnU5dGZBdUE5by1KMFpsZnhIUlRKdnNjT0R6RjJPQ3MyeWRlNXVCS0Y0cS1yZ2xwUXhKR0VzODFoYTUtcFVSbDBKZkptLWM5YXBlTnVjTnNQeXJ2TzlkV2k1RE9VbWJodENJU1ppd0ptMWlNR1BsSzVfMUZRcVBYZHNpRWFnWmVNaE0xOXJsVm4yNVRyWjVnWEtnWTdzME1SY9IB4wFBVV95cUxPWmRpNGhTMzNXYlBvQlRvVlNDVE9peFlkYk9yYkwyeUJocnBpSnV6eXItNXc2c0tjMFhHRHRNX1hjdGlBc0ZMYjVsc0lxUmdHYllCRWlidm9KRko3bTdORGhZa25lR1FGbU8tWkJ4bDNQS2NVbG5WM1JzMUFpaVhvb2UydEVWbzI4M1pUa1Q3LXE1S2ZzeVBPb2FJdUtPOVZaRmdQRnQ1NVREQWI4aHlJVUYtSHd1MFdxTjZDM0pBR3doTFpmaTJXVlc3cWc4YXJ6WWMySVBsU2F3OVZQNW5PX2VhMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11UkxoVUcwMGEwZ3d0cDYyNldXZ0xkQlNqZ1RfN1J4QXU0QTdDUTNxVE9lb2ZmU0Q1TTV4RkVuU04tNTZ6RENZNTQ5eEJwdzYyYzB6MHMxV2JDdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202606300119.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/money-works/2026/6/30/how-each-prime-minister-broke-britains-economy?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/06/30/european-rescue-teams-arrive-in-venezuela-in-desperate-bid-to-find-quake-survivors": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3278869/why-our-workplaces-arent-working-part-7": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/sponsored-content/europe-invents-the-future-now-lets-scale-it/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UX3NHUU0tdmp6ZG9qZ00yZ3VRbkZsRm1wbE1MaFNoeE9QV21aVXl6MFRxNDVkUXB2Z2V6NUlfNGFTRW1hXzRoTnFtSEhfVUtQbmpvQUU0a0NMdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5teE5PN3BRX3A0bGJSWmJKMlpWb2xTRFVYOTFLSG5lMHZJM3NOWEJuTFlzX0dJVmNjRGVoTjhQRS0wV2licEw2a2tQSkZvSW9OcGpCVTVn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSThfZktfMmxTUVlTN0xHaThoN0F0czBwRWM0YXFyWlM1QzZZbDFfTFJIZWdiUlFTZGhESVd1V2Rtem9MT2UxUW9Hb3M2ZzV6Z014TF8yM0hqMHVnOG1iVzNadlpmdXdkcVhscElQNi1obVhqNXFuYUExelc4YjVJWkdabnZtZ25qUUpOOVRJWXBkSWp4emlXQUJJQWZPbm9pRzgxNGQwQ3hIMmZ5aHlpVmlVQzBSR2wyQUR6VkxRT2FuNS1xMzRYS3BtUUQyS3YzMDNJem9rUTloWDZ0eHNwTG11VWNLSlNXS1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/06/30/abivax-stock-trial-data-biotech-obefazimod.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGlJcERxdUI4QWp3cU9sODZwblFNY0pualBtQzU3ekdUZDNMMUZmWEwtSUhscVVMVEI5amE1aHExcXRxUnktSXBHdU03R29NelIyQlNxSV9JcG9sWU93Z3VKM1NIS0lKVTlkbHZyRVdMSjdYTkYzV2xxY1gwNEVIVkE1MFllQTcxMDFYTmZmNndyZ0pBMkhLdkVRX1JCZFNYTVdiWndwN1VGdzRjdDAw0gG0AUFVX3lxTE9PTUU3WlMxMEF3UDc0bHNObEpHWmFoeE5DRmdaNjJkMG5USXVHWGNqZGlMNENERW1MMHRXQ1F2MDNyNDh0dlJTbUgtbmdQemYxVTc3M2llWmFrbFMzc3hRR3hITkJCaWYteE8wbEpNcGtWMHZUR1lHT2RGRFdMNFpNdnRqZ2dSZE1idjV4ZHlfV0pySGJJaUNsNk9MRThEcnVyNVMwckVOM0ZhY3dpVnNsRlhvbA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/6/30/at-the-world-cup-the-media-has-set-up-a-moral-checkpoint?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
