@@ -50770,5 +50770,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcHNWSXR0MzJaeklrLWpRbWw5ZzdvRDQ4UGo3WVhIVzNmOUliMkd5ZGpPdmhKZko0TEY0R1R4MjM0ZU5NUnBidlJHdjJZS1d0MnkzX2hIMWpQOFU2S29SQWFFM283WEhiekNnN2RJajFiUnlIVFRReEpFQ1FWU0llNDZZUEJ6Ny1LYnREc3c2UTNaUkNvTkVfQ0NnQVVuYUQwYVlwdHkzc081TVpDZXhMaTBmbHdoSE5PaF9JMnVwUS1JMTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTEhOWGtIcWVwMU9uelZPYmhmdGRNQ1dtTDFUMXZFWDhId1Izdlg3UTJobGMxWTlZUjhiaXJFTXd0bmM0Z3Rua3pRbTdObUoxMU5MRlN2ejJSRjdmdWhJbF9xRkMwd0NHb2NxS3dSalhxUVJYODJsM3hEcEQ3d3ZFVW1JOW94RUxuajRsYVVxQkhsVjhkUmFCQWl5S3Z0Y1NLUy1jbWMzdWFfT2VKTGfSAbYBQVVfeXFMTVllcmN0alNRR3Zwck5ueWJ4UHVoZXpJZFRtd3ozczNjRVR0UGlYcXktYmZBWlY4NjRXeWFmSWRUWnNOTlZCTmhyMnNSVG43c0pjTnVzX2xiSFBMc3BQdXZmQzcteUhUNGlha3BzSUF3cVI0ekJua21JUW5URDJPSmw5T0ZnWnhuM216NURoaGJmR24yVmpoNU5aY1Z6cTJsdXBmTzI2R2wwSWZJMFZjR0pZNlAzYXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/indian-mens-doubles-pair-of-achutaditya-and-arjun-make-first-round-exit-from-canada-open/article71168953.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXFTVlhPblpLYTFjTHg4TWdhQ1NBZXZrckRvVjQ2eGhjcUx5bHJDRENpdTM5M3M4ZEVJaVExVXEzTDNIcWtGWFlORkI0RUczeUNNbkNMUHVXdjRFR0tTdUxBNXFvdG5WXzNHbTlWVzd3MW5xMG5OQzBuWlNiWjd2NQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/nationality-dispute-what-does-an-indian-passport-prove/a-77770701?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3EyRmpBdTlNbks2VnFwWmVaSVFnb3dXVVBNclRNdkFEMGdlOE1DMVV0TV9sVUMyMV9pM0tqdTQ2Wm11M0llekgzNDRTQW1VUVZibUI2MVRYanZiREpFTzdMUV81UEhwSWZQYUUwMW9rZTdYR2JOZUs4bGRjbzBNMkk1MTYwc1JPYUtJUHBtdHdUVTZFaGtaUDdZalg0aTNUTHQ2Tjk0ZEN0QXcwM1RVcTdtZG9PZDk2bEUyOER4d3V1YnU1LUpQMG1EdHJFSmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/01/drone-captures-rivers-of-lava-flowing-down-mount-etna": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607010084.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWGVPQXdGczQyMEFmWDlXZXZpaGYxZHVsSDh4d1Bna0Rab2lDYTItU21JOGRZYzhNeXVTRTY4ZzdqcXIxZmJrcjk0VFh0aVp5dUpyM2ZWdGdMTklLUWV4T244YlBBNHdVdWxEVTlZUTR3WjdsVWFOaXdCM3pUaFJqQy1iNmd4b2dl0gGOAUFVX3lxTE9kZ1d4eWZPQkpncUl5RV9kNHBwUS1Kb1RMd0lPUTU5Mlc5TzhtQXhleVE2ZE5PTTBIWEI5YlpheFdCUExYMDVMOVpFb1Uydkh1cjViN3pGSXA0QkNWbVk2LXA2MjVXdXJISmJLZ3kzLVNENUFUOGpLSjZiOTJ0QlRNTGlWNU5zVE1BcEFuNFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUJRTHpVdEM1TFBBNlMwNGk1blBFc2t3bi1iNmIyOGlWQnVtQ1R4REZianZ4c1k1Q0phZDdGVnQ3bTBsSmJ1QjNrdVZXMzNPelBWM29jenB3N2RUY2FmX21wU2pMa3VESGxVWVktMXVXVGZFcEVEYUg3TUoxVFZYeUhocW0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3279247/finance-ministry-highlights-10-tax-reforms": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTgxSjVUSktHU2RUSUpYZEhTX2xpcmttYVkyZXVPRzVrZ2xIdkhPY2UzTkVNX2ZLRUJLczZSWllqUFI4LXVTQnZDUUlJeFQ4SVFtXzZrRmc0T2N2b0dmSjZ6c0pld1NydEV3ZXp3bk1MNmVJUG9vbmExZmJvWFVpMUlEa0xOUkk2OXFraUZ5Y24tdExsTjNBUm5xREVEUk4yVnZtVlRPUWxRazhhUGI4M01n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdnZrZkZSVVZRaXdfTWhNeTdmMUVHM0NaRXh2Rl9DSVhBVFFOTXJZZTdnQlBnNFNyQ2syeDBBX0pRTHMtMUN1REs3c1NTNkJnbE5tRUpudDB1SzZ3WDFfZkpUeTBOcVpTY2VIb1Z1RE5TWG9ZOHF0cTNqV3RkWTRkSFZINmdwdWRXQ1lPcldvbW4tQTVoMl81eA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQakhqNnAxbU5jRHlxU2lyTnRvZzRsSHlFbzhacWVQT0VsMU5hajRCT1FTLUdDclpsWnRjc1ByRTZFUXNJOTBWS1dpTUZnZXIzYVFLbF9QenlsQTI3N2JZYmJWNk1FT0hkaHQ1QzRKRUhsaHdmX0RzUXNfOFJUMEwzT0JPaG52N3JyYlN3MFp3ZEtTOXhFcXdTQjNQZVFfTnJPcjdIVzVidWlieC1SenpzSkVOa2htSUVibzE2cdIBwgFBVV95cUxOWjBpbVVadl82Q01hbXl3eHBBOTM1ZkoyRVktbWtYWWJpd0lER1B0REw1bGE1U0ZzWGJTVnJlVy0zTkFFajloUTM4Wmk0N0xONWdoUG9fTzhjXzI3Umg2WlgwRGozM0ptYWFIeGZVU1hZQmtxOEZfdTBhcThXUm9CQ2xkNzdLR1pvcDB1RmgxME9YRlotczIwNmVhOTJvcFQ3eGJtRl9EVmVYd0YtRmhJa1VWMk45cjFXZW5kMDBfSENHQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXlCZ3NVR09xaUl2c0FhOHpFYTkwSnpLeVVjXzk0NjBJb1N3LXVSWW9wYkVDWjZocjk0V0ZiWGZtTm5aWF8yaG9iXzE0N0d6ZFI3cVh3RzBNSTNpQklyOGFzaFAtb2UxTzJhdVhsbjZybDhBYTVGS1FMYVg2MGV3Z3dkMzNVS0JDRXBmVWxqb0N4UWtqQkRFMk95YjNwYTg1NVR4TGJ30gGmAUFVX3lxTE9xb2FkbTVDMjhuSU5DdDc5TWRvd0UyUkpDcDllYkRlS01qbzBzczJ3YWl4cWp6eUtrSkctY09YbGRmdENOLUFfOFlRSXJlckZ5Z05ZSlozWm9oUmQzX05ISWc3eDdfVXNTeFd0TUFxLTJ6d1owa2s3RXNkc2xDdFhrcTlSZktPSkJXY3RSUkFsa0ZTczhNN1h1MTUzYmNIR2NxbERrQkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/01/latest-news-bulletin-july-1st-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/venezuela-death-toll-nears-2-000-as-rescue-hopes-fade/a-77778620?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeU1TWl9qNWV5WkU5ZnF5Uk9xS1NuVl93a2xxcHFzU1NUN0MyWW56cWJfa2xGMG9pbUZIQVFJekNwcmJqUXRfVnpOSG9hcmJrd3Z6ZnBQdGhnX3F1RFY1ZnZPYUhnSlo3N2hwRmhtTTFVcFRYamNvWElVUzg1VXF2ZTRvVVJaZ1otOEhrR1dwMFlCbXZieFR6OUtPbTlValYwaGZVRVpHckNnWnV4LVpoTFFOTzBvei1HZW5zM1dn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
