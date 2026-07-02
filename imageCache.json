@@ -51958,5 +51958,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/russia-latest-massive-attack-kills-13-injures-over-80-in-kyiv/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa3F4YUZsNTAxSUtLWVJvbWRjSHRKcWc2WDJNb0F5UlgwaTVQMFNzN1lSdldoc3hYS1E5NVpqb1NWRk1XdGh2X1hSNkFkcHJfcXZWQkVkSEhJOWVIU3dndGZfalJVZnNJd3oyaHg0clVpVHNYdjYydExyUGFRZU9oLXFBYm83dWtKUURMcFRCcHQ4QVVaLUZYRG8yZWYxLTl3VlVBZG9IVWdXSXdqMGhBZFpPY21GUHlJdlVuLUxMU0zSAaYBQVVfeXFMT3JQRVlNZGVxRHdaZjI4NWFGYzJUM3ZBOURvUmJVUTJyTmJubXNlNFJBaUprRDNndVFKQzJBenNMRnM3YmJidk1QSjU2WXVlRk4xLVAyM2JtT1c3OVBQSEpiQXBzeDFueGhJSXc0SHBZNzNOZnIwRFozakgzczROMXQ3TF9PVmpTbW80aUk1dVU5b1VVN0JoQmwxVTJPbGtuODktdkdOUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/2/trump-says-record-boats-leaving-hormuz-calls-communism-biggest-threat?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE54YmZycXFoTHFLdW5jOVJjOURqYWpfX1ZFN0NlV1ZSWkxlVUJNSUo1ZUpvdGJVY25fOFk5V3pzZ3JBTEZhbVpYX3BVb1RDbnVnbVIyRzdCLUFHWUcxdGM3SkJnYjdEd0I1RzlGelNoaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUnBvWGFuY2RvdDhLaG13ZVdUT0NMZ3ZsMFEtZTRyX0RaRVI5R1F2TTMzeTM0bXE3RTBtTXo2ejhGWl9JR3NHV2hnZlFjbE5Ua0RYdms2ekQ5X25IRlk4VGM4YzNxdk9JUXJPbXI4QzlfallOckdHdnVXWkNobkRGLXJn0gGCAUFVX3lxTFBJcGVBT3hGc3hNUnhiZGQ0LTNsS0VRV1hva2xyTExpZkJaOEQ0ZlQ2eVlXaThyMVBZZWhxRThYUVFuRERpWEVGZkx3cU9mZVp2TjJXZXh1OVZjdkl4RWJaWFB1Y0Q4cXcyaDlJYlYxdWFwdWRoblZwZ21kb3R3VC1KeGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVB4YmxON2p2WEJXRXdhd0NqWEUwQ0M1Z2xqVXVnRHc1N3d0OUQzLUFfWGpYOVJwZlRUNzJJZ2NyaXFfRDNSc1R6ZHByZ3pQNHlxdlR1bFFIaEFfdmJSS08tbE1fWGFkd2ZlS0p5RkZybHhFbXlNZkI2VS05Uy1EUTZjS3JMRFJMdDNGeXNrb2NLRlY2?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2I3cUEydmhlWVB5bmFRM1JuTXZVRHdDVFV6MTFjWHc0V3NFeDBCNFR0ZEJ0U2NjR213NWJwYlQwb0pNQjZmbU1tdlJjRlF2ZUZKZjBBRmpteTM1SUthZV9ESXZpaVRvSVhUaUYxb1lFenoxLUU2MklQd0I1OC1XR1NGSVo4b29CdVZ5ZzQ0QXp4MFdlMnoyRS1Rak0tTVNvYVU1RVhtb29hdENLeldfakJsMHNNaWNkQ0Uw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPazh4dWptNUs2dkNkeU5EWHY5VHNnU0NWUVJRUG5ycmFSb0dYXzNPa1RYY1IxUnVfdEotRHV1Z1g5Yk8wcmp1OXRaa0ZzTHdNeFFMZ0tQakdYOGY2aUJTRUd5UjgyWERkWWxreEhBV05NaWFNOHVpbS1XSkJXazVtT2RvLUVsMWpTOVQ4YVdjaXJnUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekVGZm50ZkVtR1lRZHh0TWdwc01RWFBHWjdDaC0zdlk2bGhUVHBUdTJHZmgwbkJIWWVXWkJCODY2dzhORHhuSmI5Q2xnQTdOZGgxVC1HUnRYOTFvZE1MV2hWSV9oNGotY2RuU3VqM3JROEx0bnE5NmpZVEl3Q1U4UnFaSnJMT1ZlWjl4dUVHbVZTbGM2RnlRTmdPalFCS0xlTEphdkp6M3NFem8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYXJGNTZMQWJpMnBQQnVrQk81M1FmN1BZX1ViMGxtSXIxWDBVM0l6Qi1Id3RIUVYxSVVzR0xTY0RZeVVHRDhtZ3dYcHNjODE4Vmw0VExSUmk4a292WlVtMV9aT0x0LWtRbWRmYWRQX083VFlZdlZOcGhSeGtyWVBnWEEtVGwtUTN2bG9XaFkyY1kzN3htb1dvbHl4LWo3c2d3Umt3RzVLU2dnWXc2U0o0ZndyUUNkcGpjYjRxOVpVNmVfS05jU2x3N3pkc0pQS3lKYkVVU25tQXNmN2J3TThVYmdjN3V0QTh5U2NjTFIzeHpVcnJSSkdXWk5oamVOd2R1SVFGYkg2NNIBjAJBVV95cUxNMzdoOEIxUUVtZjVoWnRUcTF6UkFhakRQMmVzZDZSVFh5VXZFT1cwb21JOGMwY2dZd24zcmZxSHBFdHM3QTQtdW9BWEUyT1dCVW9mYzg4akVkRFk1U0hiQmI0eG1VRWZqajZZRTVmdzBiNi1jeFBfU0lsQkN3TU82TFIwbDJ2UWNzSk5TWGJxTEd1TWJ2aFkzdTFvY285eUhKaFBwZ3FYYTVkT3pFbkRJUGpBWkw1cDYyeXp1c1JqRWN6azNnUkpvSFRpU3RGcWp0ZlltRkJCQ3ZoRjFmYnVxLWJCTXA4Mk9UV3lnRG1pVjU0S2loSXV6SW1jaGp3dldYYkt6WnQxRXQwbVpB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHdRejhzWkhHbG5Fd2VvY1JVVnY4U2VxN0VTdUh1R0M5MjVKN1hIM1JWU3UzbkVFcVd1M0NSYXJPSk02OV80RUwza04tbndJalAzQ1oxYnRlWHZSTFA3R0c3bXlRbEhJSE5lT2trM3YxX1VFVWVLT1JGbDc1V2VOWjZDYVZIUVNZWWNIYy12OEFfYy1jaWdVUnRhX01IUUhRcGRMNE5QU1JmaEx5aHZr0gG0AUFVX3lxTE80dmlBRERUc1hBbVEyN09uNks1UTlySl9yU3VuZm8wdHBoc2ZIS1JES2JKb3V2Y0ZoaS10bFJmLTZlWU8zRTBtbGtlUzZPRm5UR3RBYzRyTVZpM0ZnbmVULWxnbjFlRzJJZ1RGSWdWWVMxVnlGQnhuTlBubUhxWi1UMXZuTDRHdW9HSGdiVllucWtNM0N0X1hKdk40dVlhMGpOSi1LN1FVQ0NMcVVQNHRYQ0RGcQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3280019/eight-monks-killed-by-pickup-driven-by-11yearold-boy": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSm13YXZPNUM1dzQ0Qi1sRTRGQm1oTU53VnFwc2tqeG02aWEwVDNFMWpKM2dhNTAwd20tbTBEdlZ1TDVNeUFkTms5RnNPRDN2Uk1yRlFkN3VOQ0NQR215blVBVl9uT1lIZG4teVZ2S2twS0ZTRTZWZjJpejg5SmxZWVRDbEhMN1JCX2FSNzFMT052c1l1bDdDRk5RbzJrWUVQeDRnR2J4X3M3R2hpbU5mRXFnZFFjd1AzLWJuZWM5QXh1d0MyMFlRd9IBzgFBVV95cUxOd2o5a09uNndEU3RkMFhZaXBaVks1OVhVMTZYM3FyQXlxa0x6QjByeXlnY1VyM0dmMGFaNldVaVA4YmlLTGlJRTJLTmdFdWJmamRaZ0FuMU92QzVZanBZbk81TW9yeVBGVkVsWTRWZHBsQUI0aUprRElHdnpWZE1VVGM5cEotTTdGN0E3bmJtVmVTNWhacDRWWVJ5Nmw3b2ZhbS1heEpRRGR2NHRUNEJEeTYwcFRPekN6ZFFYRzJVZ2VCSmxVdDR4TGJuZTRlQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607020105.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTnBLNWZITWRaR0l5d1I0OVNRY3l2NG84RFB0WWhqWmVaQncyNjJ4TnpqZ2FINkJTM2l0cDVNMHc2NUVTeWFUWS1zM051UW5oUzV1MV9UV3FscnVQQ1drUEl6UGdYUUlmckIwX2dsbFdvMjdJVGZhRW8tdjdvWFRrQklSNDExak9SMm9FZ0Iwb1VDM091Z0NMQ3F6UjlabWl4TlBRaF9LN1dlX3dwamtUNHJ4eXBraU9VLXl3Rm1CS1BROG16RDN1ZTQxUmlIM2FWOHhKUTl6TjJNdDhyYndsaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PbzRaZFRrM1ZYalJ4eHJUNE42MWR0SS1JcXBhMmN3SDdnUmpYTnk3WVJUVW93SGFpWEd1b3ZwcHBXbmtmeU03SFFQVXJuOGVEMmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaUlCWGluRnBBVHh0VTkyS25wMU9ZdzlNQU1sZWk3NWw3dzBqZzVNSl9xRlpHOFFyX1JmZ0p5N0hQb2pkb2pxb1VCZ2pTNFFwZGZieUR1bmF4bTB3WUJhamRRM1JVc2pwdmY0dlEzMGR5Q1VSR2tEekNzVTh4c29Cc1JGWWEyWnZmN0syRnpnVXhKOC1iNEVjQ3RzTHozU0hNZGlNSzM5QXBtdlh0Q3RIN0Etd2dobGZ0RmdkY3NZMURXbENTNkhsbjJMQUhJbDlnQWFkX1czaElkeEN0WVI3b2dB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/commission-warns-frugals-slash-the-eu-budget-at-your-peril/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3279999/former-chief-monk-given-12-years-for-embezzlement": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
