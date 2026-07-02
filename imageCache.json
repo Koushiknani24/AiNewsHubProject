@@ -51700,5 +51700,143 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/love-island-ciara-tefi-aftersun-revamp-dancing-with-stars-1236635520/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/football/usa-vs-bosnia-herzegovina-fifa-world-cup-round-of-32-match-live-score-updates-july-2-2026/article71172007.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZzB5X0FfMGZUVmI3aWRPRVZLNWN0SjUxUzhWZGxMNTd6SnJSamFHOXFWRTY5amZfSFlOMGxidEhqMUxRZzFkSkR4SDVUQWg5S0R5S1JfSjUyeGZ2U0YwVzlMM2VsWGM5Uk5nSkZNSVVXdmxOZGNoeG9SZ1hWamVjT1BNTlIxQkk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/big-wildfires-hit-southern-france": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607010506.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/experts-peso-outlook-year-from-now/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmdiZmJmdG4wcmFwN0xhelJpc2VnTFE0bTJIUG5pcFI2ZVlhUV9zRXdKQjk3UjlEUzU5czZlQ0NKZXd2dlg5SEFqQ25HUGllOFlzenVIZFZtQURLZk5HU1RIcjIzck5WVUFWemJLazVYMmFBT0V2OFhOY2FYbWtoNnB4enJpQ2JFUmRWMnNfSVF0UC02TDlRZ29JVVRkcl9ycmgxRUg4NA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORjZyQ21saUZGa1NpeTJVVWdER2l0YTY1eUZZTGFUeTNmOG52enloUFNfNFFnM2pUMjZja3lzSnNNREltdnc4VlRiaTI3Z0pOSlo2ajJkWHotSXI2djdrbzl5aVgtck5QVXA0UURYTGMwV3RyZ3JXcXBaLTZJVFNmbTBsbTREQm9SN3huS0dJeUxxR3V4bHRhVXdiUHIwREktdWZfcEdIU256bWM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVpXU0FIUWNHd1NwVFZjWHljTEc0aU92aWZCY0tONE9iZU91eWtjTGhfcVdVZHgxZFFPMlhSVVZKZzRyQzBqbEloSU5maHJzUldqUTlNX1FkMGhKSkM1NXd1aTUyTXRqV1JFT25fdnN4cGdKVFJ6MERXb0dKV2VfWnowc3RjMUlUMzZNYmtOcVdSZVByX21lZEljNGxSa1ppMkZ4UUhUbkNRYzBIY250ck5tSXRzdGRNZERCalhCTkl1NjhVYVZVQnVyb3gyN0FvdGRFNHo0TVI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTE4zdjNOdHFYVW4yRlJxdWdBVl82aWtOQjhnUWVwV092YnlYdzljYWZLeHFZSzhLN09PaU9sUmowWWtoeWJZR0RESWFrUWI3M1JmWm1QR1dUT1U4Mml0dzQ2Z0dQZFBqS2YtTnhfR2t1N1JqbkhpdjBfbElGMTJoSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxONG5EUVJ0bmNKcmRXaHFpNHF5Z3FoZklSdGhrNmIyZVkwaFpFWXFoSFgzVEFJa2NFaEVncWgya0kyMlR4ci1RQ0ZvSkk0MFVmajFLRVAybWFEX0VidC01LTYtOXl5UzFFMzZwbnJadXJKdm82bWRva09TSi1WSG9EU2lLUTJMdTZuSFZ3N2NLUW54eFh0RWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/hope-fades-hunger-sets-in-a-week-after-venezuela-quakes": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1ZEYndxTjJmY2JKdEp3bEVZNGM2MGVxeHBxV1oxMlBTN3VGM0dfa1JuNEtGRWJfTXR4ZlhLcWU3VWJaNGo5Y09BU0I5VklTY1A0aFYtdGZxVUt3aHA0cVltRlBkYm53NEhBdlNiQ2I1YTRJZURqeDNtQjNNSDB0ckFlRnJib1RDMkVPag?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/lost-dog-reunited-after-live-stream-shows-celebrating-mexicos-win/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/2/belgium-stage-3-2-comeback-win-over-senegal-to-enter-world-cup-last?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607010499.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/02/oil-prices-fall-after-us-iran-talks-conclude-in-doha.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/7/2/iran-war-live-positive-progress-as-us-tehran-wrap-up-indirect-talks?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdURleUJtMnVXSU5TV1RiRDV2RDBmVFV2elV4bF9KMnFWSGZWaVM3SzRyNEdFTXhpR0ZCUm1xRy02d2ZNVXFoakhUV2Z1anBNQmhBNlhLWW1RMVRDY3RlRDdFdVFXZFFYMDJBcU56SC1qOXh1NW9jSlRqcWFobW5lZHpfcWdBNUw0XzJWSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTkxUTUzT1E3c09rajUwMVRQZjRoMGxXSUh3d0s4ajVPV3B2SUFWT0xGczNkWGJxd1pLak00TTVLbE9sLWY2TEJfVHFMWmZmZ1hFNlJXSHliN1MwVVlxSVdJWFdoMlVaOEd0alg4aDBQT2hKYmxORTgwdzNJd3RkMHAtTFA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNGoyRE9WUDRaaUQwYXV0dnVzUnZ2WFk4RmQyXzFlM1ExYVRYSHh4VHRmNThYWnJKWC1qSkVaVXhZSDJRSEpiaXZkbXlaX2RaMFpZY1FDVzFPTG5uRzd2a0hldGowUkFPYmxRcGlBVjBzdEI3di1mWTFVdUlwQ25XbGhOVGlWNi1BeEkxTm5WcFI4R1JXV1ZfcmlkbXN3LVBaVnVncA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HdEhrc3ZiT2l3SzFGYUYxMFc0V3FCUFVybXFsUnhobkVDaHMzaFkwMGh5aTBvUzl0ZXBWY2dEQkd6V0tIVnNEMnp4eGQ0YkYwZFdQZGd3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
