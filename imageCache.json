@@ -52816,5 +52816,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/fox-all-time-us-soccer-ratings-high-world-cup-1236636277/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-in-numbers-world-cup-fan-crowd-size-mexico-city/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IOHZOVmFydVBscjI0TFlrdlkteGY3ZVpkUTZaUnY5RjN4TGQxWVQ0SndRdVpVQWhuSkltOTVPbk9KbHRYbzBaVkoxYUx1NXVVNm5QdnZwWmFXTkVHUEZxUm00VWw2em41?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbWhURFdlWXMzblJHVHhySC16LXIzWTJvRWZzcGdpczBUOTA4ZXMxSDN3cnB5WGhuN2IzWlphNWd5Vzl1X19Mamw4b0pCM1JvX1k3aEpGNnJuVHpody1KaUcxME5vbXBQazBKalBSd0dsUVM4Njh4UTR4Tl94TVc0UkU0VTlxSnV4eGg00gGLAUFVX3lxTFBTSkZ4UzVTUDExbDVONzBRWFR6VUxPenFZQ1ZJR2RsLVZ0LS1YUmVnZUhMWDg5NlFEMTYzY3Z4YWVhMnJrX0ZFQnBkRjhGcWQtQ05tN2FtdUduUGdJbzlCaGtWZnJtT00wUjYtSTVNUm96NnltZHhXd3BJTl9EVG1GOU41STNWWlFzWlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/02/former-olympian-indicted-on-felony-charge-over-alleged-reflecting-pool-vandalism": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/travis-kelce-swift-wedding-name-trademark-1236636131/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUXpQbjN6bFRaRXlKd08xSVo4OVlvM2lfd3JKbGFIZlZqWmlGZVpNNzFNbFZUTEt2LW1XczdTQ3RZbVo2LWR0OWwxYlRJRkliRnpuRTI1WjNPZDdKTmcxT0l1T25sMktNMHEyT0M0ekR1TkFIMGtyMGx2VGpETzJST0dkcGFZT1VSS3pHalJXWHBKcGZRbjdEbmh1VDlSczdFWXRfb19YYUhQdjl2dGw3dtIBxAFBVV95cUxPSTR5eEpXLWlaMUNyNlJVdWpIZ1pUbzRNUUsyNVJmSTRMTFg5aXFsb04xQVFLNVpvMTZBTTNZQm83c1M0R1NjQlJpV083Q1lId0NxOWliUG92eFFkY2V3d1NfcGF6VEFRYjhqSjFHQmZpNXZQUkVnQllIM2prWjE2dlZnRVNSRll3ajdYOTB3SWItWExhcWRDZWZnTUptVDdDRTRXSjN3R0l1ZFRyckRGQS14dGJlZHZmdnQtREpZbncyWDBF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3pQVzJKTEFaQjhuVWRmWmtlVzk3YXpMLU5leXBLVnlYQmUxUGZBVkh2cjU5TkVoMENudVg2VnhpS0hJVm0tZ1lrTVp6Y1ZfNFhYUmtlRVpPVUtpanB6azJFT3RHQzM1ajFySHZublBBRjZ1VDUwQy1TQWpMVW5OWGMzZmU0bi1KS3dVVUg1eUNaZkNIX2RKVzcwdDNyX29Nci1VMzBVWdIBrAFBVV95cUxPaU1zREtSaS1RVkozVDB1b3FvZXQzNlpCeFFwN0FteUgtOVpMVTZWRlo5X3FtV0twa25DYk85QmpsYW5GelJ3a1pzU2N1YjVfWnpDSVdMSzZVanVhMGRWYU5YTEo3NG5lLVRxNm8zbHh2MzBfREF1bkMtUlQ1LXlxTlVKa3c5SDAxVUFZaW52SXAyZEdYNTREOVZLNEFvYXlJMlQwSHRBOWx4aTht?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/football/spain-vs-austria-fifa-world-cup-match-live-score-updates-july-2-2026/article71175754.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/st-regis-costa-mujeres-resort-quintana-roo-tourism/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/02/daredevil-couple-charged-with-felonies-for-empire-state-building-proposal-stunt": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/2/who-declares-cruise-linked-hantavirus-outbreak-officially-over?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
