@@ -51838,5 +51838,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/speciale-aix-le-guide-ultime-des-rencontres-2026/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/02/russia-launches-missile-drone-strikes-ukraine-kyiv.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/has-ukraine-found-russias-weak-spot/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607020037.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMWZFcGJvLTc4T3RtZE94QnM5LXFiUVpwRGszc0tKdXBQU3N4djJFOUhSZm05eElDYUdMWS1JYUV5em9URWdTYmRyWE5PU3lYUkEwTlo3UVZZdl9va2VhbkVGczFibG9GQWVlZXNSLWcteTUwdE9iaE44aUcwTmhIUHdvUEVDZUd0MXA1aHVJbEhYbkQ0UGk1YzIxWnNyMHdfUUFha0F2YTNEZUg0UlNmNlBmaGI0YVY4UnZxUldORGhZSHBmcWV3ZGlDaGdwdjZUVlRNUFZjSWl2aFVXSjNNVDY5U3hkUUhlVDJTQjhMR1U2bDBZaGlobEk4VFlvMU41RFVhTGZqaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2NMNGo2MkRfYXlJcGN5MFJIeGtmcUJ1RGtKQU9hcG1OWllUX3NjeGo4VE9iNFg5TS1iNTVZMFpzbUdBMGdOZjBkdXFqMVVVbjhLZXFBVWpPSnNySHpTWV8zU0t5ZjNrRUNOZHFLYXc4SzdnOHlaWlNPbk00LWxyTHZDby1aTEo5aEZoSVNidFEwaDZWTlg4UTJabmI3OU9rWVVuSmRoLXZ5eEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wRFc4ZGUtSER1dUhSb2hCbDNSWHR2S0tadFExTjREMWNkdW5sdGdxOEdKWGc5SFoxZFBabklPOEdsV2ktdFFhTUZWemRHSTJCM2ZValRyWDFUTzEyVVUzT2F4Qm4yLVNlUW9VMHl2LTFkTGlvS1NfQkw5VkRlQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russian-frustration-rises-as-fuel-crisis-bites": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/2/belgium-fans-erupt-after-latest-ever-goal-seals-place-in-last-16?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbjFGbThmWTNrbVFnbnM0M0tJaGlJa3A5bE13REJBc2p2WnZfTkg1U2RKTmZHR2N6Ny05bTZmNEU1NVBIcVdUWUhBY2p6RE95VnlQZHd3N1BXSHhyVG9EV3ZXTUhLRFJIUkJJd2N2RUs0ZVNrU1dTdmpTblhBbmNTcmNuZk5oRDJMNEp5YTB0S0ZhVEVLcUZTZllOLXA0YXpSSURhVWdzY0NRcGUzQVl1M1FXTGdfM1dNZjJGbmt1YkU2cEF3M2tScVN3Xzg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRC12YW9TcmsyeFRpaDFMXy1PZXJKbEVqY0lVbmIzRllLblBjWENPb1RBMWJUZHQ2bHU5eHNNeEx5bE9WeDZNZlRoREI5RWwwemlsbHlwMVJYcmI1eWNHS0ZDRzQzSHI0YU52RDAzM0U0SFNUcFBBeXlFdmZTU1lqUm1OVXNPSzRTYWxZVi1nTzlxRFZiZlBVVHVNVXp0dWstbElrVEF2TlBOUTlSVXhhMzNyYkQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/soder-reformen-und-die-heilige-mutterrente/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzF5QkZKdUhTQzRtVnplcFBTb1drSDUzTmpUYVRpZnF0emhyZnJFVlBfR1EwODN1Z0djSG9vM1k5allaN2Z4bkhrUjNTa29jSUdVZFROZk8xXzZ6S3JXQmhITWVBNE1ONjFTOWs1LTcySFJBdzlQNnRaWmkwRlgySEUyZ3BZTHp3djhFWndmdWZDYlgzcy1JMDV30gGfAUFVX3lxTFA5TnVYZVZyLVE2U1FqQ0JtYThOTUV3bjlMQjRoTlFkTkwyMTdyUDNFQ0Z6dXJtNVJuN0NCSHRlZjMyRWFNdTJEQUdHdmthUG5rTnZKUXZYT1NjMjgyV0xtM3pMZXpRUzFZRy1vcTNaMFhUMnpDWmRDUDQ0aFJsNERYUUttYWpreGV6ZkFhQXdYNlVaOUwxX2lWcU9Mem1kYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3279685/shrimp-farmers-urge-action-on-disease-crisis": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3279560/interior-ministry-wraps-up-exam-scandal-probe": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607020035.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeVFUaTVTeVZIemFyZ1dDdkxMXy1SbUs0ZWE1OUxvUWY0THQ0QUhZeXBhSVZkcHB2YjZrc3pPMlpjTHJ4cnRPdTNENUJlMm9NaDhia0JxQWpnU3dKakxOTTRxYlNzN1cxSjIxWTREblBMYVRfU3dsUEprQTVWeFcyOXJnWDJPRlVJTm9zb1VXbENzRnlmU001aW9VZzhZY2gyZ3lBMTFuUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
