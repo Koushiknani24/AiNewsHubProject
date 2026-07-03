@@ -53068,5 +53068,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/football/switzerland-vs-algeria-fifa-world-cup-match-live-score-updates-july-3-2026/article71177131.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/03/kuaishou-shares-fall-after-securing-tencent-funding-for-kling-ai.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU3ZQRGlqS1RQUzhwcGpBMndUSzdidUExVy1tNHBCRjBWZUVtQjBVUnhMU3ZndzVCcXJ5My1SNENUQmlPN3M0SHVMa1p5YnJnZUVodUNDcnY0ODQ2aUQzQVJ3YjZHaDZBZi1CUl93QWJqa2FKTXdhanh3ay03NXlQUWFNekFFZHdFLWlBbXVpYW9zUVB4NGxEZVNOLWR0aTJOdHJzcmJTRzZfNUdPZ1R5dHpfaTFVM3ZURlNSallNUjQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNTBscVMxdHlBcEt4a2xOdzdXLUdDMFluN1lkellhQ2RzNEs3QVdkZDVuNmxtTDd4T28xTkM5a2hSWjRwT1VBcUZhc3FWNFZiRU9MQ0VrWG8tWHZZT0lkRUVQN0JDNzlaXzdtaklQbDhpSDBMSmVJc1ZkeU5WSlFNOVlDaEtxOWRUQTZ2cnktS0Y4UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/03/turkish-comedian-arrested-for-insulting-islam-and-erdogan": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/new-updates/explosive-diarrhea-illness-spreads-across-us-new-york-texas-illinois-among-hardest-hit-states-as-cdc-investigates-parasite-cases-check-full-list-of-affected-places/articleshow/132151681.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tZXY2a1Ntd0syQjhLVEk4VmZWSnd5bFFBOHRlSjFqYWk5LUJhQXpzV2ZwelhXdTFocnB4X0RZek5vZ0hNdkRXZzZGMnBTdVVyZHZVb3p1bTYxelhCRnJUS2VCdE1Qc2N4cnMwMEVwdGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/7/3/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSm5SVVMwMG5TUzNYUHdScXg3anRJZDBFUnRQYVNnbW03NERiR1Y5ZDB5WjFHWTdDZHVnMnVLUUdaaWg1aXZoTU9iMWVWQWVPWW1SOUk2bEpiSnoxbndRcjlEMHd5TGdzd3pOdmZTcG1NRjIwdGVod3VSNFUyS2NJeE5ZSFVMVlRuRUhJQXc4cW9ycDZpczNYN29nTVFMdnpiazNB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcVljc1RuWjhTTjBrMndia3FwMTZycXFKUWhnVGRjcmJJUnlJVWVtS2tWNlVLTzhqQXlDY1pCcTh5ZFZ3OTBha2dRalZEWjdMVkMwU21GdGkxNG80WFhuQXBxZEd4NWhtTkxweVFKcU94dVVrc3RtYnhjZDZweU9Ua29nZC1TTkREQzZhTnJ4dVdFbkVPOE5rRTJWQ0hmZkx5T2V2Q0J6TXRzUdIBrwFBVV95cUxONDFwSjdqWXJlUmhFSkxtU2RqUlhhVnZLVnJjU1pZMW42a1g4UzVDV0hpVjNXY1BreDNRWTFJMnllNGlSTGtFcjIwSjF3MkhmSFc3SUxxaUwwZ3VxU09mSnBJOHBDZHUzeERGaDVNejh6VUE5OXZfTk9XellOd0N0SWMwaXQ5b2EwOTF2ZWxkMmZoT0NSc2dseF9lSlAwMUVsYmxBU1BoVGluNnNwUXo0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/lifestyle/buy-heated-rivalry-bobblehead-dolls-ilya-shane-figurines-1235588770/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/can-nato-allies-avoid-a-clash-with-trump-in-ankara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXhxNGVHUzdSOFFpRjlDYTAydjhwXzgxYUhkVF9BRFVCYXdfcVdfbldfODZQLVlHczc4Yk1XRS1RU2hud0lMVE0xbUNTRndobk5MTmtMYXBhaG5ZSzgydVZVWXFDd2tIaGZnLXhWV283bjVBaHZGUW5SYVlrVjRFSkJEV3RKdm16NmVic0FBU1VEZWJsYTg4dThRWWU1cjBwZmc0UEptQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFZuR1RfYXY2VlBVZTZmVGVyZjloUno4d2phY18zTFZKYWRkQTd6RzJOVHREeVZlYVZIcGl2ckgwbThMWTV4VkFDdzZtcFpMbWtPVkZrMlBMY2lVWXZ2eExvTV9DMzF1c0prdmFLMU1qU2YxLVNSd0xaM1U2YWdGUEFQcFRUekZYb2U3N2VsYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/3/who-are-the-rogue-bishops-defying-pope-leo-xiv?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3280194/ai-partnership-targets-business-adoption": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/kenzo-bengal-tiger-escaped-from-mexico-state-zoo-dies-during-recapture/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLVpyS19ObkZRNlJmcDYtdDNDcEhpdkQwVVp0X2FzQWJsTkNJWmRhRml3bTlxLXI3bXRfUkhDV0lGS1dCaUxZbmhUYklUaU5WZHdFWVhjb0dPNWJqV3hZYWZPUEZ5eEhsTlRDQnc3UE50TTZFRktYbXVKUU05dWVyZ1JJZ3lNaTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
