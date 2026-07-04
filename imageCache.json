@@ -54862,5 +54862,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/football/canada-vs-morocco-fifa-world-cup-live-round-of-16/article71183507.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTNod0xTMjJIckxKX0NjQ1Z3OXJDbEZFcXNka1dQNVFfdjE5WVNnNUFfRWFuaEtnRExzV3huaXBRQ1BCUnozUnV0eG9ReGlvTUdrNDU2SjBKNzVkaE42MVNPcWt1a2U1RTllNTFFUjVuMnBkYU44SUUzSUtDaDUzbE1SNHlxMVQ5aXBHS3BxamR0eHpuWGo1WWxJNWRNaXFBVUd5SHhYaW41dDVreWVJYVhiYVhLQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/argentinas-hard-fought-win-over-cape-verde-raises-questions-6232251": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM08ya2JEeEVsQ0hmSjI5dmxzWU1TTXlhMFBSTnNpcTg1b2F4MkJ1UDJQdndURERmdC0xOGxzREJIUnZkMGxoYXJ3QWR3SjhMeG9VTjRNdEp5YjVuMVMxTnhrcGp5cXpsbVk4bTZRTXdwcDY5VF84Y014dWd2aDhNMEhsV2NIcnVUOW44clB0NnRiV3JoTjJiZ0pGTjZxRFIzNVRzQkc2aVB2QmY4M0VLazNVSG9lUWt2WjRvVW5BU0hfWkVPQ3hoOENhWTNrVWE4eGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/more-than-1000-firefighters-battle-to-contain-portugal-blaze": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/04/latest-news-bulletin-july-4th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWnRrUnBIaEhkREY1azA3QXZRX056ODBFOVVFeGtHbTBCZExldUxPYXdOS3BmREU2LXNPX2VrVWNTN2JKT25tVjJnOWNkS00wMWNIQTY4VnNzSjlZXzBhVnF3NU9ibkc5R1F3UUcteXE5NXU0ZExnc3o0WWdNYlI2Q2tsZ29jQVlQUGxkVksyR2dub1ZtbldBYk5vbWIyYlhjSnkyeW5aNENHd1ZIem5PbEpTRzdzUTZlOTg1VnNlTVBwU1dKeWkxMDlZUVVsazNyc1FXTl9EM09sWDkwWm00UmRjSUR3NTNFQll3SHJQbkpNOUt1a0t0N0E0ZXhRUElGQTNUZU9vaHNqMHhl?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/04/world-leaders-and-royals-celebrate-the-uss-250th-birthday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
