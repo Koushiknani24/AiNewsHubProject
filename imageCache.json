@@ -55126,5 +55126,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/football/paraguay-vs-france-fifa-world-cup-live-updates/article71183916.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/04/nx-s1-5879372/a-new-phase-in-the-war-in-ukraine": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/04/nx-s1-5877738/iran-begins-week-of-funeral-celebrations-for-khamenei": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/two-held-for-alleged-theft-of-cow-at-badiadka-in-kasaragod/article71182235.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/keys-ticks-bucket-list-centre-court-appearance-6232586": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/04/nx-s1-5879160/pope-leo-visits-lampedusa-to-spotlight-missing-migrants": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-envoy-says-friendly-nations-to-get-special-hormuz-fee-treatment": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2xGUDBrYXduWXE1X3R5eFJMN29RTlBLWEZqeWJfZkM3S25tclFkTWNxTWFPd1lIVTNRRGJBdkNZT080OW0yWndoMF9ScUdFUnJfcmVhNlhFMmRpalVCb2hSaTZFNEExeDRSSlhRT0pBaFR2ZUlIYlB5dGMyMVJWSlNHcXVtd1ZmeGgtdm5BN3gyUXJuNC11Y3d6aEg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xUGl0Y2NlR2tfT3pJLU9tOENicExKcUhKdEhKTnFWOVd5eUQzb3VyYVduLWZFYXFnQzd6Q2hMVHRPV3NKTGlkT0ZPM2ZiN19tVUlJbU5DSXRfQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcU80UU9YM1BOZnZBeHY1UHBNZklxM0NlNG90Ui1BV1FDd3ZVdU56QnVjSEFTWV9GdzY1MW9vOFB2dmR5Vkd4S3h1OFAyUFlzUEZPNHVSdDNWRmdBc0c5QUdiVjJVaGhqMFRGNDhrY3lkZ2lzSUY1eFRmSmxYV3duby1ieTBaNkJjVXNkYkNfcXFqT2hLTlZYczhfYmxsa3ZVZkZoOE1maVdzNkcxNmJN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1Q0c01xOGdLNWgwRUR2cE15dWRUR2YxZk41d2I2LVpaMDdDcVpTOTNNa2p0MEhLZmZjdTIwRjdVQ25WLUc0TVlXUFZRM2xEdXl2N3ZlWWlTck1IOUxHNTZBT2d1N0FxR05HUkV3SUdkcFJRUEkzWk9GRmZlWTBxak1jRDdLWDZTT2h1UUZvcnBISlBvT1BNLXNzV21LN2ljQWR4cHpDNFUyUjBTVDJiOWlyN1pNVVpnLUFJdENMNkJ6d0x0MDhHTENoX3dpZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/4/ounahi-fires-morocco-into-world-cup-quarterfinals-with-3-0-win-over-canada?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNFUxa0R0RHZoZFpOMnBtNUtBWGY3VU1WOTQyLVlKYWxSUnZVVWJLckhYYkR5NnlmcUhKYU9VNXBPdkZ6bDhZdkU2Y2pzaDRGUjJkTDJKbVBRa1czWGx1c3d2S2VKQ01jdWNrdUpobDJQeDFlME0zRXliVEp1YWd4M0ozM2p3ZVBIS3hxWXZnWEwtS0ZTOHpPYlpkbEZLellORmxMQThzWjNEa08zSjE5WS1Wb1NvN3dwYVowclFCTTR1R0g0MklB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
