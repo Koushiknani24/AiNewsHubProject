@@ -56056,5 +56056,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/face-the-nation-070526/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/folarin-balogun-red-card-world-cup-us-mens-team-belgium/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXEtVEJUeG91V3BKUGVIc25HYno1dkk3OHFtblpHZ1k4bldfRXZ0UWNoLWJNWm1aV3c4Vmg3bUVZRE5lZEFrc3ZvSkpyN3drTHQxSWJVV05uX1JTSE1jdGJhNTJvaWNDSVVsaXRZazVqam1FeVhFVmdBeGRLSy1tUHV2c25hMGVKMWl2T1B4T21EOVhyeFo2Rw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israel-government-says-it-will-defy-supreme-court-ruling-on-media-regulator": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdndYUF85eEtxNFNTTUI0S1F3TW5UZHA1XzBEMlFialpRc3h0TTdNUkNQUk03MWVpb3ZWVGFuSFFMdmlhNHBUQnRjd0dOcE43UUJ6QnU2Q19wajA3ZkNVTTY1djdZSkViRFdmRUxORl9PQ2oycVY1OXMyaDJqaW50ZW5lTGE1RkFwWHhtdWtUMTZJMUdOMnFDUURpcm95bjQ3NEFn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/students-leave-gaza-to-continue-studies-others-in-limbo/a-77816921?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/05/poll-patriotism-political-right-trump-europe-00986654?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2ZKQWpiNUYwV3daeFFmbFZpN2lCQmpPUUpSMVl1YmxIS3YyNHZ0eXFZVFBkVHFXSlE0aEcwRkpxNHhuVHQteGNHQ2JoUjdxYkdvaTVGV25sMnJoeGFWV1pqNUZzWnBURTN5N0FPWFBRVnhsUVNNX3dHb24wLWdNSE91NXBpTkYzX19jdFRzS245WTZrSVo5Z3FoZlc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/telangana-police-book-case-against-ap-police-officers-over-youtubers-arrest/article71186649.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/battle-hardened-argentina-egypt-set-last-16-clash-6233351": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVJOZDU4Vk91cTh1NHRuQWswdk5hQU9vWjROM2xlTGYyZHNCYkVSbkEwaGdtcnZtMVZMLUx6S1JCR2pzbWctU2JmZTRxbG1OM0NkUnBSV3BybzlVV3gyZ0EzUTd0WXA3bHpaWUJ6OWdsUGdWbFVGVnVoajlLeVo4dA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/germany-defense-minister-boris-pistorius-oppose-share-intelligence-afd/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORzhmeDZIc3VVTkNyVDNpNXhDbjhjYUd0LUYyZ21XSThKTUZRRTAzNHNVSWVQWmgxdGtxcHU2SVpSbTB1NlQxR3BNZU5UWVdYTTdwX3FiMGtaYkpaMWVfSmtORzlXRGJiT19xSlU3RzNIMWlUZUM5VEs3VmZNMlRVVWo1SzNhaGFzYVR5Q3NBbWpoMU5ueWpTNVJqRks5RFpZT205bDh6S3cyd3ZqUjR0WjZqbExNZlVwbTQ5NEYwNFh5TkZRTnlHRmdUNUZpaFVqYnFfS3ZjOFFHYlZXUmRLUDNhZkF3Nkd3eFlSNm00MVZmZDJONXlJZWp5d9IBgAJBVV95cUxPT3RiaUtfenp6VWpQYTFNckJ5R0tCR3pxTE5xS3VqOGpZV2tCUG5acVlFdWdhZnNxRlVtbENWRlg0ZWVrRGNlV09VRW52UWxYakR6NjFwQlU5RDRyY20zbEJ1ZG5kVnlPdVhMQ3ZacUVuX0V5azlvdmRwSFVyVno3WmV3TEUyeUFlZ21WMW5kMG1iSVpTakxySkk3TzRVQWZvTEtUR1BMYzlZSFBZckRNZ2FKellwZjlwR3M0VjBmVlI0YXpPd3JiS242YXpoZTlkeFZGMVhPcmxMTWFLR1lWRnd6bENHWHh1V1otTjN5c0VlSjlyTDY3b3VJZEx0dU51?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/5/super-typhoon-bavi-threatens-guam-with-catastrophic-winds-and-flooding?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
