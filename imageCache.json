@@ -56386,5 +56386,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/auger-aliassime-labels-injury-rule-disgrace-after-stormy-win-6233666": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/live-updates/2026/07/05/world-cup-2026/belgium-politicians-balogun-red-card-fifa-trump-00987474?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/gauff-beats-bencic-reach-first-wimbledon-quarters-6233671": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KMFB3WmFEOWxySmtCdm5feWttTkZhYURiYTRuekpUODBrSTM5NUJNdFhDb3ZvZnpSa1VxMjBTUnhfak1XUUt6WUg0eXNiNU1fZkp5LVdPbU8yUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/investment/3281660/upbeat-outlook-for-tourismrelated-stocks": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-july-6-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSG1sTXRxYXA1UDN3TXRuR3ZHSkh2bXlhcmh6UzRMcHZpdUt5QmlJTlpnNTNkRDhyNnJHR1AyTzNqcFFMa1FTVmd6aUpnOUFweFM3S1BpeXBYR2dkYS1rd1NwT1pyNlk1eG0ydUNOSGJTY3R6YTVISkVPdmtZZklMdDA4aEhXeEZySmFhRlFRYklDNHBtekI2Sk9ZLUE0LW5uQ01wbE5HalFvdDhNMEYtTw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
