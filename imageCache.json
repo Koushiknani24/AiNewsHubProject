@@ -55582,5 +55582,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/05/g-s1-132046/paul-pelosi-hit-and-run-california-car-damage": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/scholars-told-to-pursue-research-on-societal-industrial-needs/article71185267.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/greece-offers-bounty-to-catch-ravenous-fish-lured-by-warming-sea": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/billionaire-bernard-arnault-lauds-mathematics-in-74-million-alma-mater-gift": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/food/rancho-tehuan-how-one-man-rewilded-a-ruined-ranch-into-mexicos-most-unlikely-culinary-destination/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONjFYYVh2Q1Y5VmZ0dXZiOUQ2bHc0Q2U1RGtYRzJXMWtwZWR4OWJ0aFg4SXBieWUzd3BRUU1TYm9OX2pCWWJnblhFU1Zta1Y0YXFmald5NEV2c0dRd21CYjR3YjZmT2R0Y1dROEFxaDZLTE0zUHQwMVBUSExEblFhangycjgteGNDcnZsVzMxM2ZpUzFHaXRpbm1GcXMzekF0NV9fZ0RrVHRnd0VfYVFKaVNTcV9FUG9iUDJOcmZ3UXlkLWhrZmV5Sg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc01ad2F5MFZGamQ0MGFYRVRUeVRid0lCMjVMbHhPYmZ0UUUxNGpCallVNE9xOEZoYTNFTmtSTWVvTFVxUFp1cE9ycGtEMXI5VDMwb1FlZjNvb19kRWFCUXJXZ01UbW1fWFphUzFaS0hraXdjazVXTlJrX0oxNW5rZFlWaS1tUmRtczJGckhEejR0bnkyV1d4QngzZjZNMERSeGdiRGd1Y2JGeGdlaXJGZmpiWjYwMU9XcktV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/imd-issues-orange-alert-for-parts-of-kerala-heavy-rain-likely-over-next-three-days/articleshow/132193835.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOER1UVJlUlF4THlaYW81QUJDSV9DcjJ3MWJrdGVWMG8zR2ZGS2ZvX3hpV0toOTc2dUFmT1VhaW44WXhoc1hveXhVRU5EakZhczVmUmRCZTBuYWo5dXJxdEFwaDFWc2hBLTQ2aDVpN0dWX3VxRjRPSEc4V0kzTFhKZ0s3c2JxZ0hBZ01BVUE5bzRuZVc5cFVmYk9aSjh0WWc4RnU4V21GTHhnTTBmVFJXWWJTRFRVY0dfdi1ndg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3281320/heroin-carried-by-thai-air-hostess-traced-to-myanmar": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWRxcFVvMll2RktSLVRld213VHlsNEtsbzhBWlBnWmRTTThseVVwUlNrQkM2SHRrTDhvMFJIdjY3Smx5MFdwMHg2YXlsTkk5bnNvMU12UHoxdWtOX0hUQ3h1QlJoZUQ2OHBBMmEwNjgyT01WRTZ4MEFwUE1zSldyLTZmZnhGTnd6NXAtTVcwUnM1THdvck1xTE1xRWtkbGhaMlJIQjF4b2U4RlNzSERaQ0FHUmR5OS16d2o2eWJVNVZ1VWpaOEt3V0xn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/the-listening-post/2026/7/5/how-xenophobia-went-viral-in-south-africa?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/frances-far-right-didnt-drop-its-grudge-against-les-bleus-it-recast-it/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNm9lUFB2RGwxaDM2bVBBbUd6eUFzX2wyRzBtTWhTTXdSUmR2UmE1a2tjZVpuTmhSMGZXZkZpWlBvdnhvT2pZRWs3MDNMVkdnb2lEOHdHQVlCOGJIWkFmWWZaLWxVdjJ5RWRIUDVEZEVSWjNFNDIyS1hlLUh5NHZaSjRlcXpJN2NsU3hnU2pxTGNoTGR5S29sZGpXaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/attack-by-yemens-houthis-kills-14-government-troops-officials": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/5/fifa-world-cup-round-of-16-bracket-schedule-predictions-latest-news?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
