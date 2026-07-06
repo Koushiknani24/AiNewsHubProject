@@ -56536,5 +56536,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/india-weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-july-6-2026/article71187774.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/west-asia-war-live-updates-july-6-2026-khamenei-funeral-ceremonies/article71187769.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/how-the-beautiful-game-is-deflecting-americas-political-turmoil": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5Q2phTDRSc2Q1SUNhbm1tOU1fZkd4Rnp3bU1hMmlQNjlNMU5VZk01TDMzR29UaHJ0MmJLRmNHaElBR2I1SFFwMmJjbWV1ZVBiSmxNTF9B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/kansas-city-chiefs-coach-andy-reid-says-adam-sandlers-advice-to-taylor-swift-and-travis-kelce-1236638453/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zSGt4U3ZkQ2tTaklHM1hXN1hka3l2VEZoTnc3X2xRUllrYTVGZzBucWxTb3B5dC0zTGhaYUg3dGg5eUVYRU8tdWU5NGF0MGR6RU51YjU2cjFWdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/6/belgium-astonished-at-fifas-u-turn-on-balogun-red-card-for-usa-match?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVzlzOThRZU8tdWs2VVRkbmFIalpyWjNxOFFpcWxsd0NFZXBOS3I3ck5aby04VURiek9jQ1g1SDVqenlXekMxWEVFT0g4ckVlVVJGTUR1WVBIWDk5cWxVMi1hOGQyWDYxeU1hVDVHbDBiTjJ1LU9YZUlwZDFDUkFNWA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUc0SHdEaFlyUmRyeERFbUY2Y01ncmtPSnhfTnJHTGRaM0o5eEgtWmpYdzZNTFpxYjFZUjhyTjV2Q01EZkRZVTY0eUhTS1FoLTFydDBSRDhOY1hHNnJ0czZyQWtVTGN6enhUN1poZV84akEzWkRWbDJPenBfazRnSmt2TEU2SHVCVG84VzQ0SEJZZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
