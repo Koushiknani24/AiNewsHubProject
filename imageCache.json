@@ -58270,5 +58270,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TZl92X09wNzNlNVJobWIyemlOeVZWNjdIaWZkWk40U2U3NGN0dnFEUHhqTkpoa1FvN3FaUE5ZMkRLR3dicDRGdW9BWmNERVdQckM0Sl9wU2tKZUJQQXpPNW1MUmdFVkwzc3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/building-on-mg-road-in-kochi-tilts-following-attempt-to-lift-it/article71195253.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/conflict-climate-change-cash-strapped-why-poverty-persists/a-77863904?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYVRWOFp6MmxuTmYzZmp0VWw0WW9KaEtsdHRDbFlNYTdhVm5WMDdPd1NGYkZNT0J6NzdaeUwwdkJlVWZyQS1JNDdXSUs4bXdVVHNzQ1BiYnEwdFFnaWpxQWFEYldnNmUxTVZVMm5JeU5SZlZDVm5jV3d2Si00RzBTTXRGU3I0QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3ZRNWhmOHVIME9KcFUyREt6dnpXVGFsM0w3eXlFb0J4aE1EcEZMZS00dU84Vy1CTU9vTnh5NWY4RUlvZ1YzV21QSFZrUEVRS2RkTDMtRlp3Ym1vaDNpcXBlU1JOWlc3M3VhRXR5a0tWTGp2WUFSR3Y1X00wWUZKcm1PeW95dGlUY0N3YXZSb1dkeXla?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/rahm-emanuel-knesset-speech-israel-criticism-benjamin-netanyahu/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1FRYkNJTkgxUks3Qm13OWd2a01RZENtSGk4U3R1bFhQbFBFc0tBTk1xMm9tZnROemJwS21LOFd0U2dLa1RFU2hDbFNjVFBIQ3Y5TUh2Wlk3eVZ6SjNNakQ4LUpUMkxrRHFWbFRBS3lRX1RSRzdlaThzMHNxV3hsdmd5LUVGT3VnanBfTkp2eHBaZ1FhaWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/7/what-happened-in-the-first-half-of-the-argentina-vs-egypt-world-cup-match?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/ioc-paves-way-for-russia-olympic-return-los-angeles-2028/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0ZUM3FNRllTazlxdTF5d1otLWpKNG5aTnVHQUplVTlzTE5JYklPRmNpLWpZSTN6cThKVjBPS250blFQdDdXWXVESHVuRS1aUW9BRTRSSmlBVFlJdHdhQlo2Y3AxajB3Qm1aVWFZazFUSnhtZmxBSUlVNzZaNlg3dTYxT0pHREJaNUdTcVV1RVJFZ3M2NDFFSXlWV1RNYklxU01UelViWWVsanB1RHlmejBnZnVCZG1BTmlheXYtb9IBxAFBVV95cUxORXdGcC1mM1Y2OHhmSWhKOUFnM1hoOUlzbVVKeldKZkdfSEtlUE9UYUJCdS16M2RiczVDZlY4UnBMSXB2U182Y0ZyMzBCNVF6OGowVXg2dlNObVFzMjhXckdtbkF5VUlIdXdtdTB3YkVJczExdFVjTG1nQk0wYUZTX2hfLXNyRmZOVUxaWi1uS29vX1RhUWFZOE5qdUZ4UXp6M0pVcGI3SEtrTTVtdlNDVFdmajF3SEZ6OV9tNnVLVk1QVlZS?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/mark-rutte-aux-allies-de-lotan-admettez-le-trump-avait-raison/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1plNC1wN00ydTRZRzhBT3A0MHRyUHBaNGhlZ2JqNWdSS2ZtSkhlQkh1QVlMLUtvSGNkZ3cybGN6SjR5UjRjWVdzUExpUzNSWm8zQWhwei1Eb2g0cHdZX3V6OWxWLVk0X2lMR1EtSFpLT0hSTG1CVC1GZFVscHhCMElCN2RMZEVkNlFYaG1femF5V0t2Zk5aYnp3LXVrd9IBsgFBVV95cUxNdEpKa3BHVURRalhQWjBlWG1uTFczRXhiNDl3YXUyWllhdmxnOVhYZy1tQ1V2VkZkTWxMQkZEanhEWTdPTXE2VHNjMG9nSkRLMlFWSGkyNUNsMk0xaXdRTkxraWlnQ0t6MEJrZkhVUlJiOFBBMl9uNzFjTXdXQVhQME1HVFUzazZpN0xLZjFhRkk5OWNLX2tBaVpheno3LXJTSjgzaFk3a3Z4YWJGYWxIOVN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmdrTTJEc3F0MWptbTVucVc2S19UdzdJMDJ3OW1kcjdmajhuTGRyMDVRSEtoN1AwMXYxX3hUY2c0Tm1NbU90cFNBQVVxU1lpdDV4LWtrQm9MVUt3UlM3angwN2ZpQnFKdDY3RFdZU01OSTA2d1RTYVZMeWFrOWZILTJlZ3RSbzNLLTZPdV9yT3Y1SmdzMUJzM0dyYzRkMWV2Z081ZUlLR1NjSE9GeUVlcENaM1k2VHY5dkFueEVn0gHCAUFVX3lxTE1EMURHWUNVdDlibkNqeU5WU0J1ZHBha3c3N080aWpKUVZPX1RBUDZydEo0Yl9rb2VzZ2l1eWpyMGVfQ1Q4LUhxRy1fNEIzc2RSQVhLcU56QlZtbmlJc1FUWXJ0N1FpLXZLNG5Xb19jUUx2U0tIRUFYMGctaFFEUFM5MW0xZ0I2NUMySXRLVGo0aDVNTGE4bDRaTnVaTDJ5X3Bvb1JTYkw1OHRnOHFXemhYbEgtSTlsU1pNT1p2SkRicXZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/liveblog/2026/7/7/live-switzerland-vs-colombia-fifa-world-cup-2026?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZE5XNVVqeVZTaWo2U0FQSVgtTHdFN0ZfQ2xKUEQ2Qmh3TXVTMUJlcWpHSDY5LUgwWExsYzNoVS15UWdiS0dEdXJwVzl5SnRKaHFmZHBwT3JfOXhwMUVmaGpTTkFVcVBlaVU1SzQxOWZHUl8zWGtUNXFXY183TXlucW1n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
