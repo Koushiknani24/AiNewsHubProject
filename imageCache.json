@@ -58828,5 +58828,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXhvN0NNNHFpS0hKOWRJV05kLXVxWFh2MmhjMjFtUUZfUWp0anZ3MUpqaXZmREVMTkdTZG5oX1hRUEVRZXNsZVJyemF0ZEg3NW1GNTlSel8wX29ZYXM1dUpweGFWUnVhY2FLanRQOVpERkQyU2JFSk1qeUZfUHRYaUFSeUo2ZzdkaF9SMmRBQTZwZXlmV0g4UkJ0RXMwWTBTcGZvRHBfdTFKdE0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcGtseHpXNmFIb05XUkRjSmtFR3NRUHEwLXlQdGlmRkFtcDhYZ01Denp4UktncFVJaHJBaGN3UzFLUTBpR3c1QmxQQU1tbkVGUWd6VEh2eGZvN1doSnFObnJqalBtNHZDV2gyX2RtbFl1QThFSWk4UE52SlRRTm5tNG0ycjZRVWZ4SC1JSWduQmFYc3pPOHd3Nk5lTnlLbUZQRHI4TVozMG1mRFYzdkFTZ0duQVrSAboBQVVfeXFMTmlvajV0bTRQR29ieEx3R0ZhWHp0MDdTTlFZV0JYZUx4UDhncWFBdkZjSlNnSUtHZE1hTXNBdTF2REpjTGtDcDloTGVJWGVjZUtpSTJxZUJ4THpXX25CUURIOW5wbXVtcnJYZXExd2JudkhjcnRnbWhpQ0NGWDNrajlvN2tJTjdCWUVZQWJPX0lIbW1JanNVa2M0U0VfWmFkeFNfd1BfOTJoZnU1VGFFeS1RcEI1QmQ1YldB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/gazas-future-still-unclear-after-hamas-dissolves-governing-body": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckhMc19mbzVyeHN4TFJpYmpYN3BfWU4wVkRmYlFGQ3RmVi1YTVVBbDBlSktSODlzY2hTQ0NfMkVjQTBoeGpIUUJuREROZ190cFM3MWpuaTBWYlNtZ19Ud1k1VXFHZUlxS0UzSjk5eFE4WFEwSkFlQ3NOaGY1RERzQXcxb3pVU2dIbGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/8/djokovic-wins-five-hour-epic-to-earn-sinner-showdown-at-wimbledon?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
