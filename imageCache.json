@@ -59692,5 +59692,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/police-crackdown-on-suspected-drug-traffickers-meets-fierce-resistance/article71197343.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/08/congress-condemn-russian-olympic-committee-00990402?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-he-may-be-gone-as-he-declares-himself-irans-no-1-target?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/russia-halts-diesel-exports-after-ukrainian-refinery-strikes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5STkZIWE5mTVJtX1BFbGtnaUZoN0Uwc2hRVXVMZlc0MlpaSktvS1JSbnVPNmV3R0hjbU1FeEx5cDhwLVh4QVhacUtuS2MtVTdJS2dSd0o5OGxFVHdUUmtvaDUxU1lRd3lWSnFkdGxYSVFqaTczVTJ1ZW5wOEhTNm8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbHlVNXo4XzUzazlfME16ZGV3UXI1RlI3YUl5QTlXMDFMaFB3ZGduVHNYWWtFbWFVRnlRc2cwWUhVUVdpUk5GZ2t0WlFGR05FT19QN3dXZFNEaW1ad2ZYaVJEZ3dkVzdkQUwyMUM2TDRhdVdjTHctUS0tQjlBWVNUVWR3WUNRcXVJaEdzZXFYN3FuWFU5M0dpWDByOEM4TkYtV1ktNWdHREhqczFIdkFIYVVoWDVjRW43OUtVR3NGalNZYXc2MS1vZWgzQ0NXOXhUVDhIRG1YazdVcVlOamNmZnRKMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRnBUT1kzUEFpcFNyM0Ixc1JWU1NHTl9HTjduQmEyTVJsZGxMLW9tOEsxUy16UGZ4Z1NNWjg0eXNPLTlDUzhZeDh2X3FrRTAtOHUwWFRSdi12TFZrWUdXY3Z0alhaYi1HSk9pZHQ0bXhoRENoT0ZGZEs3NGFHcFdnUVVfaGRwWEZwUVNrWnZOMjNZeFFpVXNucUs5eW1IcFVqSmg2RjR2blc3N1BlLXZOVkltTWtVMjZndUJiRkczQXZhZmI5RWlnVTdybHd6dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-country/the-war-and-treaty-dont-play-nashville-game-1235590820/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/v-c-running-varsity-unilaterally-allege-kannur-university-syndicate-members/article71197441.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc3kxUVJDeWh3cE9wR3MxNld3LU1LZUxSU21tQjFNYkMzRmlCTmZPdkNkemFKMFJmV3pGZkVkci0zbmRoRFF2dW9IWUEwSFJJZWhXQ1VOSzZvUHJweVhaMzhvVUNhYUpKV2hGMHNpRjA3UDNLZmNSNEw3MkRDcW5DcHV4Q25VMHA3VXpOR3Q0alMtbmVvODZzUl9oamRvR1ZuNFF5WnV4bnQwUVFpdTlWWmY5emZIVGdpOTdScm1B0gHDAUFVX3lxTE10aXIwbTlBLUlsY0ZCb01hWlo1VUtZSkdTN3BYcWRIQzVvbnRFMVNJRE9XX0dkQ2pzRmx3SURpYVR6cTZHRGhySkdSWmJScU8yaXU1M3F4SFJ6OGttekYySkUxREpocVluUUhvLWJpbzN0a2pGMVNPYWZPM01FQktySnpMOXpJcnQzTk5TX0otbkdaTGhYZFUzMmhEQmZJM0hFXzBIMUtCRTMtRWFNcFl4OWx0emRqazhwVDJRSkFKYjhhWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607080717.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/8/israeli-air-strikes-in-gaza-kill-eight-including-two-children?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/natos-rutte-says-alliance-reunited-at-ankara-summit-after-trump-quarrel": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQei10WjlpNVp6eV9XWV9LXzN3ekRzN2VoYXVqS3RBRTk0TGxyZ1BoMU1iNlpUZkphRGwtUlg2R2hqNENuaHhQWmFCUjNvLUpja09IblY3SXVhM0tNb1JHcW5sREhrMEdpTFhTRnlOTG9NVTdrV0Y4S0hHS18wYmdQNE5qZ0preDl5RVNPTVpPcUluNDlqREpr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/8/spanish-football-legend-alexia-putellas-joins-london-city-lionesses?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYmQ5RVJpZVNoSWZmY0p1OU5CSWxjblE1di1KZTJESUZ6NDM3UnZudFJ6T21NVjNaSEd5Q0pmTmRrZnNRM3hraEF3Z1hOaVRRR3dTYTU5UEJDb3J5SXN2aUJOT3d2ZGVrdktwUFRCQjlxTE9sb0l0akZ4djIzRkRrQXFHWnBYNk0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/08/trump-spanish-exports-trade-embargo-00990123?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa2FqTWRhLXBhaUx6ZjVHS0xrY3FhUmpQZVZqUmlMWkN2d3lVVTVLRGxBTzNoX3FtSVdodHhnT1ZpYVppVXB0T0FNc1AxT2dnd3h2SUdCTVRUZDdQVEllT0NqcUVTLVduNW4xV09qa2VzQmtSRlI1NVRsN2JrbWtrTmZ1ZjlFZjZWc2FuN2Y0TGZvSUpFejh2SEhVdW5nMml4WTJyT1pHSTdIVGpCUG9jd21yNWJmNDFZTS16U0oxZ0tIS3BDUXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByMXIxUFdtaTVQaE1MQzVoNzVRUXZQSHhRZDFGUDZxZGtEUDF3QXg3V0VkWWhHdk5WZFFTa190c3V1REdaYUZPOFpFc1NvSmZsdnZSZQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
