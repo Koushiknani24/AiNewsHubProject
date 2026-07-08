@@ -60010,5 +60010,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/culture/culture-news/donald-trump-e-jean-carroll-civil-suit-payout-1235591267/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-judge-orders-trump-to-pay-writer-e-jean-carroll-6-5-million-for-assault-defamation": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVzdZWHlHZWhsWTFBdUdZZG9DeDhKOVF2RjdfY1k5WHEzT3BKOURtNWtQZXZlRkFvQWI3SGc2QzNnXzRORnZQVnFSRmU1WlNseWswODM5d3VwNkxDYU9RTFRWc1JPRGhWNVVmVE5MUHZrSkpEYjFudmdNRkZpUWRFcVdSOTFWQUl5X1hhX2hGLWlsVGV3RXZLeU5hbDY5WndjQjBNSEF3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZmJYUC11ZzRYWmpQeExkTHVFYlNJWkxiOUhaZlRVcWh4VUZpc0ZnSHpodXA4MFlQOWlpMnA0dEhhRzI2Um9OQ09MSFJVdWdlNTJveVN0dUlDMFFYS3lEazYxWExEbGw0M0MwN2plYWtwMldCaXB3ZE5Kd0lKWlR0Sm1VTG9hRGtNbXFyNE93?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/trump-wants-to-leave-the-iran-war-behind-that-wont-happen-soon": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSDR1Y1I3MnlxS21oSndoMGlPUm0zcEhWRk5GWXc3WG5keG45UWc2dzRoUFlRVVh5NlFRRHNsS0JpVEpGQW9heHNicWlPa2M2YWtoT1RDQ3BzYnk4SEV6aDFYNjJFZENMNlFhUk56ck5wS3NCeGc0OEhueTdJQWpEamdNZmMySXdVY3U1ZkpQdEhHeWlwTWVyU2tqQVVkNXJ3c3o1LTZyazctTnBEdVBRMEhnZV9LQ3ZlWV8yeWpwTmhBOFRnemFJb0o1TldmdkNxWVVZVnVfdE4tdThhcTdldGZVYW3SAeoBQVVfeXFMUDVOTFBCSGNnWWhWLVYxMEpFNDM0QTFOdHBFaEoxZW5qTkxHVjctQzBrNUZrdVZ4SlVZWTJKV1E2RTJFQWVGQmlYV3hCTXJiN3VaNkt1T183WE9TcE9ic09jN3lTczJBQTlUaGxhdmpnOXNtUTNxLXJ3c2pMcGk0YVNXZ1lValBFRzdEYkhUUDM1V21UT04zX0w0b1U2VmZsWmJVdHl5eUhpaWtEYXhvNWhmQlBYMWdLYW1uZGFZWlE0ZnRFTm9lZGF2NkJyZmo3VGJBY1NTdUJ5V01nMDhtMUdlRnI4Q1dIX1hR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-denounces-nato-summit-decisions-on-aid-for-ukraine-defence": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPXzJOZ2l0OXdsbzFBdGNsajlEbjhoOG9tMkNwckF4Xy1CR21mWjB6emFLQTBqbml5VGdQZG84ZENnWnRfWUVCTU1BV3hzTUY3QThlTzc5VVdsSmpWdTkzYXNub1pvb3AzN1FFT3ZLNHVpTTZQak51cnZrRDlGWDloMFVNcHZCUWZianNuZFk1LXJxdVE3VUxRR0NXRkZEdE5BUTNINkFsanlVN2o5RnJ2UHE1Y2l4Wm9Fbm54c3JaQXp1OWo0ajZGdmw0Qm9nQUVFRWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUFFBSHNtaThwT3hnaEw0dFIwcGlLV1poQ2FGckVQZTZxb2lCRFktbi1CbElkOElkck9DaFdBa25yTzE0eklja2t4MENnSXk4NHVCLTdOdThQby0tOWc3VnVwSkNiYm1iWmh1aVdLTnFWdk03NVFpMmhsY2czS1FybQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0pMNk5kSlR6SG92ZU9GVzJxREJsVVlWRXBEcVlVdzZXMTBST0wtcERuc1BZY2NZS2c3STQyQkZIZ3duNmEwVkdVZHVvX09YaUVwY2NSejNFbXlqSFZtMWw2bjljZTdfaTJHUl9sY25yTGRsTTVCNDZJdXQxc0ZNWWljMHdhZF9HQUZUUC1jX3NuTUNFcnZfcDRiVms3cklyc1BRdXdfUkdNVTI5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOG9mQnRHNUV6TXBZczV5eTBXUTZHNVg5SkRSUlJvaTBMS3Rmb2dDd1lCb2ZCQ0RfOGxzQ01HMFo0d2ItZm5FU3daZ0dWUU52WVNDUlcxT2RuekxJdzhhZGVadGlWS0hmVm9xTUc0RDdQd2NYSE8tWmUxVzJydl8xMkFxbDc0OUg5anpUMk8wWWdqWFVlTlp2MUE3RjhBM0NxSTdQaXMtOVl2Nm9uel9wZ0FjTzdRRnpJVnZweG11VEtWNVQxUjhhMUtWR1FRT1c4czhwaTAzNlM3aE4ycDZTXzBDQmMzbjNpcWdtT204OWtPa2FqTXpiStIB_gFBVV95cUxQWm9LYm4tbjVkcFA0U0dnLWotemFEVEJKVFdZR1RMYUJoV1cyQlZlM3FSekEtQkxNTGg1SjJ2aXh0bEFpYzRLaFhuUWdKa3puQXpacUNIV0JKdDJOWjR4OEpqaDdIVmJVUFU1a2hCTXM1T2dnUnhDMVhGclppZUJwaWstM1Q5aG83YldhZWZXOHgxZlZzTFZuQjNkaDFILWttLVZ1NEExa215VEM1RmplUldWVXRKX05UVWVBMzZmUmJWNUhMcWF4U25Nb00wcV93MmY2YXdHb1BUTEE5NUpuS1lMb2d0YnZGMXRaa1phcDBPWi1zTGdyYmpGNlVBdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/8/family-demands-investigation-after-us-man-killed-by-ice-agent-in-texas?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeU1oNlRMWkRzZXYtTXVOLUZKSVdiWVdlNGlHLXhMQXE1UUNTRC1LU1MxZjQ3MVdkU0FBZmJGNUFjaEVVUFBpWUNUZm9aOXdxZ19YRmlQNXBqVUlERE1rQnliSmtjUF9pVkhMXzFuVC0tcWJmNV9LRDFnaWJTbnBodVl5RTBoVlVXbFVIRW1xX0MxZGNrOUtKVnZrUnBtYm90QmZJay1LSUY1RHNCV3FraFc3WlRPZTZp?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/other-sports/prime-volleyball-league-gets-fivb-recognition-season-5-from-november-30/article71199988.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd2JUMFVtUlVVd3BnVUZLRklmVG92QVlyX0piUy1MYmZsbzlfQlhmbnpLVFNkaDJCQzNDcDFxVGJYcnRaQUVHLTR6S1FOVExySW5ZbHFxZU8wSnh6MEhtY2UwQ0JmTFhtaU1VdTl6dXM5UFoxaEhSS014T3RPcXN1ZmNWVklJUWZLaGtTejlJWGd2RlMtTEdDRmVqWHNYUGZjT2JxNHVHYkdjWjZQUEtVMGZoRXZvVGt2VzFRbNIBwgFBVV95cUxOTlNjVDNwV0hUXzd1MjNOcnlSSl9qY0RQX0JkcUVnWTVYeGxSRUlvQ21OWWt4OFBhUHl0VzItc1hvRkNNb25PTmRUeGlGSFJRXzZGOHZNSnQ3aXhSdkJVSld4Y2l3RHJEOVZWdlQ2TVN6b3VtMzBnR3NTRDVxTG40RFI0TDc4REJLalRRY1hfTVdLY1Jyb2pHVmEzcFBPLUtvVWJaemdRdU8yX0YtZnczdHV1THd1Ynk2SDM1TFVCa1Bwdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
