@@ -61108,5 +61108,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-us-war-trump-ceasefire-over-strait-of-hormuz-attacks/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/federal-grand-jury-indicts-8-men-over-alleged-plot-to-attack-white-house-ufc-event-doj-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-buries-former-supreme-leader-khamenei-after-new-us-fighting-erupts": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-09/openai-executive-fidji-simo-to-step-down-following-medical-leave": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/lists/baywatch-reboot-cast/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVV0bC1mNVdzZFVvdVRIUml5cWlsTnRqUXpqSkNkd3pLWG9TcHh5VmVFbXZwS3h1ampLckNuRDJObzVaRE1ETmpuN1pKeFhfdkFHNU45SjdjNTdUYkpCTndFLUxlSlh0ai1qenNBREFncC1aa3JWOWdSVE5GUlhLTzVsVTF5VFRycFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/brazil-police-target-executive-linked-to-banco-masters-communication-efforts": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlY0eDlzWldYYWFiejZTVW41bTZmMmFSbE9HVHJLZkRlV0pJNnp6YmxBZ2tJRmk4VExWeGpfVHJDeTBlSjA1XzVjUFI1WHNFbWEwSThxSXp5bFRyY2tiUm9tOU1MOS04RTJMUUdHZ3NMYlYxOEhsN2xlcmVRYnh2VVo1WFNUM2s3b25NZExmVS1yVEZLeENFLXBtOW45dXA5WC0zaG0yU1RoUldOQzBoS3czYlhaWXJ2TkduNw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNS2RTRDd2aFFoYndNMXRNN24tTHZ0VHM4Tk1NZ2ZnRDBfTHhLV3JsRTdIYXBDYmtoNzg4Yk5DNVdJUWpVcFhhTk9wMXNlZGx3clJXanY3Y0lodVdNZmpuS0sxTnYyQmk5SFF3UUpYNXVjRlpnc0J4cl90SDIwajBoUjJKM2EzWHF0dDFOdWRaeGFtcF9CMTZFWW9YQ1FTMVI1SVBuNzlhSDVFRkw4bk9oMjNoNHNSd1dvSWtXOGVKYmRGdnU3Rk5oNWdCSXVKOGNMTElWR3FOTVROamdPSDFiUmNuZHo3TFpqVzBxQjZzU20?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QeVdFeFJzdmJRUzFxS0sxTFduX3ZOVmdSd1hjYnJtRDJOY3BoZXdQVF8wVHhwM29ySi1Wa0xQbWZoRUVZWE90X2JRX1ZsVW42REJvYjVRTFRXd28tbDhXYlZuRnBDR2RQRTZnMDlRV2RLR0lCd0ZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQamp0V1otVU5NWTI3MmZQUldKYXhvSUkydGxzdWFxTGtPaGFLZDFHUEU1YnJjc0JiNkZzQUpSMmRDMGlTUUxtWkYwMmJkTEZibDFmQmp4cVlaYWwyYU90WDRPMFo5Nld2ZlpvdjBZS2FYdWY0Y20xVXNnT2k4OVlSeGdpdThsUWszYnFlWTY4RWYtQjNUZjBtYTJCWWJSbEVFWHlzZjM0UlBVN0l2aFZkdHdKRXFpMjFqVndWcHlNV2Q?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLU04N0U3a0Fob3drek9xZWY0bVZVQ2U1ZUs2bzVEbFRtc2xhckZUbE82blF4eDhoT0c4LUxaSmc0WmJyOXpxNWF1bW9nZUF0ZDR6cnZ5X1QxQzhzQ0FsZmtxVzVJMmpVT3ZTblVjTlBpdlpBS21RajZaTGlMTGVxM1doVmFWcWIybTdmS1A5TkhtcGllRkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xc1cyOHpuZkxtZUpXcV8yNFp1WUR1cUdFdXlTMlBuODNsWVo1eGJZN1RpaWtKSmFaeXVEeURlWU9MelBfVUVUbXhGN2hGTmthMEhtYkt0S0RLYkNuSTBfa3BLbnRxWUk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/mbappe-strikes-again-after-missing-penalty-france-outclass-morocco-reach-semi-finals-6245096": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
