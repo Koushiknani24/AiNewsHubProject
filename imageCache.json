@@ -63172,5 +63172,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/charli-xcx-music-fashion-film-songs-brooklyn-1235592401/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/trump-warns-iran-missiles-are-locked-and-loaded-if-they-attempt-assassination/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/jayden-adams-south-africa-world-cup/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/confident-zverev-faces-ultimate-test-against-sinner-in-wimbledon-final-6248326": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUttcGZwQjJ1Z1JTNkFNck9kSnZ5STBydHAtcF90ejlGanlRZjVxb3NXZ2RzVGdvQi1DV1A5VTBFU1Z2cFh6dTU2djZXc211TlY2cm56V1lZcmlHeE4ySFQwWTdDR08teWtQN3ZJQk5HeXM2RlJLN00zN0JBX1M2Y0ozVXNpNlBLaWdiRm5Udi1iQXF1dVBsT2FlVdIBoAFBVV95cUxQdnhhRVhzSFlCcDVNc1JkcWlFbGtCU0ZkeUNiTFZJWkM1MlFVeTVydWpHeG01ZWNsTkYwTXJqMzVfdDlKLVgtZXBCbGRfUDJuQ1BsanBYeGxINTd3SGpTdGpjZzFlcFhNZmd1QWhSUi1CWU0yUEtjbXBiQXQ1UU9UWV9TS3FrbmtyMUYtRTlpUmlUTEFrbXA5cUtIZU5pQWJf?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUNZMjV0NWQ1T1BzdkVvbld5dVdFTzNONVlqc3hwdnF4T19rTkgtNFdRajZpREpMS1FvTmhTN0FweEZmeDQ2ZmstU3hjaXdSMU5PUFRGY1FvV3pqc25Idk9wWXpuZDFpMEtZbm5LTnI5TkR2TGhQTkd0TTRKOHVlcmt3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdEZEak9OM2dNY1k0ZjQtX0hRNzlFMmZCcjY2NDV0dTdQN0NEUzQ0djdWeXpfbDFZWHNjcTJmQjl5aVFiaWNKcEs0cFR4a01OQVAxUmZsNFcwZE5NZ1UxdU9qQ0daNmJsOXBjbnIzX3RRSEIwaVI1S1laWGRsQ2VLVHRaeTdGa0VYODdBSHBlWGM3Y3AyV2hn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
