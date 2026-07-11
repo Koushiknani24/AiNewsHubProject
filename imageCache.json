@@ -63562,5 +63562,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/music-news/patti-lupones-gay-cruise-blocked-egypt-1236644606/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trumps-posts-on-singing-somali-schoolchildren-stir-anger-in-minnesota": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/marine-le-pen-extends-lead-in-french-election-poll-after-court-ruling": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/11/nx-s1-5890169/2026-world-cup-fifa-england-norway-quarterfinal": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/trump-administration-panned-for-new-york-times-subpoenas/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/11/whistleblower-claims-kennedy-center-rushed-renovations-to-please-trump?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnJiZ0hHcE44UUp3WldsUjc5WEdWTlRtcXFrQ3AyTmJHeGl6Zm1RQ2VWZ08zZnZEc0JtNkdvNUthcklKNlNDYnJOVFllcFlnZ01kSmVaY0Jra3dIQnZvbWg0cElkRF9ETnlYa0ZGMmRBNG41emk2UFhKVjhib2ZQZU9tZy1CdVdOWkUtdkJMVlZXajd2V3BNWDlTRDVMUkEyU0czSDlEN0hhMmlhdEHSAbMBQVVfeXFMUEkwbWFGOUhOR1h3T1B0VWtjTG5ISHMyUENhWmw2ekZZT1Y2WExGaURDTjlobjVkc1VwYWVpdGtBRDlxQmktZVM2UVpmdkRVQ3BBQWVuZXZrNFZsODZWS1g3WVNJSXJpT1pNMlBUenZHcVZfTjZoM2xzLVA1cVVyYmFOamdSbXFRQ2RaR0JFZDA5ekZjSEpjS0Nfc19FT2hCd28wM3BWNkJfeHFUc1dvWEZOVW8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeEVtb2l6dnlFUnFHN2ZBb3VkZ1FUdU9UaGI5V2ZwTWZtYlM4S0gyVzltMnQwb3ZndjlmenBxQnk2S3dSbk5jVXIyT0FMb2JMbllwT1dnSVEzN1lPWHA0cnktQ2h1TVZ3cGJ3Q1FYWWRYLTdLMXo0YkJhTXE2YV9YbDQ1bFNldVplT1lOcWdpUDR2TjBxN2x0b2xYVlFoeVg1TkNaUGZPVWJTaEJWY2ZCVE5fZEZfRF9EMTNJaE96RHpkZzJoekxQdnVPRlhPZHM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTNYYUV3Um43OUV1bFlHZGMxT1B1U2ktZVBhMFdIZ2JXNXlRdVRWYUt6WlczRHR4QU1OZ0ZkS0xBVU9GSk8xQ2VISzNDbl9qQk5TdGt5QXlLOEhCSFhFRzBiTnFmTUk1WmstZVhyRmRXTHpDY19jcVpVcG15UkotbmlzZmQyVTNReFBKVDVQMnM0QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQWVBTGtjNzFjM3FMMl9IaDBmRHhTQUlGWTFpclhRR2xqeWYwYlExeW1aU1h6UlBVbFdJMlhSdzZVRFFmbEpYNU1QMkRucmZDMzJwcWFTc3l2aUdjZlpYaDl6NTJMMnA1cThRRzU3LW1oRGpPbzBINlduakFuVGxaN1U3S3A1dXZ1Vm5uZ0VycE4tdlBCWUtZZ2s1YXRILVZGZXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/firefighters-gain-upper-hand-on-deadly-spain-wildfire": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/11/fifa-to-sell-pieces-of-world-cup-final-stadium-pitch-could-earn-millions?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
