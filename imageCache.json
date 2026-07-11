@@ -62782,5 +62782,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://time.com/article/2026/07/11/why-wimbledon-is-still-the-biggest-stage-in-tennis/": {
+        "image": "https://www.google.com/s2/favicons?domain=time.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/donald-trump-praises-allah-threatens-obliterate-iran/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/10/wall-streets-new-obsession-reading-washington-00992403?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNmRmSHI5M3FTWGJ4WW4wU3IzeldNdGs3ZTJ5bHAwUFZhY1RGZG5kT2ZnalZublVFZDNJZzdha1FCTFpncThDN3lZYTdneW51YUUwWERJZzctTXBISWI5OHNwSV9iQ21TLVlIU3c2SlI3LWVXeWUwZFJYZnFIdEZEYnZYSWxwVTZ1bDd2N3ZPMkhxRDQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHVFTjFhTHV6NHZ1dWVqdGg5WXBQdEp5LXEwSU8wc1ZMMnNXMkpEazR2YXRTa1JxZVZCandoZ2hnT2FaQ0dnTTBnZUhIWlRqLVNRWGhiYkZ5d3Y3RGh4SjdRV3duQ3Q3OURiMkZPNG1WVUJva2Rja1gyYVp3a05keFVlZVdVV013Z0dsOFFlZHBWOHRybW9wZEpFM1M2eE04U1poWnpHTlpKQ0NyX0N5dV9CZXdOSlRiS1Vz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3284452/repairs-stepped-up-at-purple-line-tunnel-site": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUMyRnZxUHdHU1A3NmpfZVNkQUdQV1BEb0RLZmE5YjlwMkJqa0x1bnRNWEh1QjBLcHdxenBpU0lDWmRROERVUmFwZEpVZU1TMlNMaFpyZXY4NlpfM2E0RUstS284aDI2ZTg4V3lCSkJ4OW1hQzBmeld2SEtmTkk3eA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZEhXZHI0cVBpcU5WR1FON0ZHMmdkX2ttSElLcWI5U2VPbzFVWS1XSW9rb3o3bEZ2MHRKOG9VaDMxT0FvV2FCSldTRTBpaVB0X2dmSFRHd3pwZnFKQ0dfdXo2V2JTaHdFT3dmcXI5N0xzeVRwUV84bmpoWGhmXzM1RzhVLTk2QzRyYlo3dkp4Yw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/poland-to-create-memorial-to-victims-of-ukrainian-nationalist-genocide-pm-tusk": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTdMcHFCeXQ3cnJEdEp5NC1VVC0wVXZTOUF0UGhweWNRX3NuZXkwT3V6a0pDek1mTEJiVU5GQlNNcEVyenFiSFJfa193WVd0Q3VoT1ppV2ZKbGlTOU9BWWpaN0s4V1A2MDVxZjNWV2pkaV9SR2MzTzRGV0U2NEl3MTVrSU91Zm1l0gGOAUFVX3lxTFBMRmlpQnRyQ3FKT0huS0l3M2ZLb1ZhbnJDc1lWZ2R0QVlYUkQxcTczYmR4MFEzOFR0dkpFQlQ2V1N4Vllxdk1tYWhXTHBaZmFQNGVjZTZ3akpRWnZrVXlwbV9SQjRtY1Y3OEVXUDNLdnotNHdqY3RzSjB5VGRWU1hNeVRSbUtQWl9qV3R6cXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMVlvZWhZemtQSGdfTzNxam9JME9jc3RlNy1rUDNIT1lzM0l6ZHlFWGQyU3FpV2JNVXlDRUlMbEVhWi13bHZTSHdfS0VvWkhmTksyY041b19tLUNHajB6RkVHaloxdnBEX0dheGln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/russia-ukraine-drone-missile-strike-kyiv/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBT3ROeGVBSW4wUy1xcmhuZTBFb0d1bmtvRTN6dG9lN3dVblBscUd2SE9BV2IxUGI4V1doM1JGcl9WTDdDTHBMajJQb2xYUEdUc0hkNw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/11/latest-news-bulletin-july-11th-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/11/world-cup-wrap-day-30?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
