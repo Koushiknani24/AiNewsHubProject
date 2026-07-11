@@ -62620,5 +62620,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/10/trump-demands-public-statement-from-iran-in-ongoing-negotiations-00993749?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-patrick-schnieder/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPODVvWkRodU5DY3BUbkVyYnFZWEtlVC1ld2dsdTB0c1BicHZURGVLajdsSXN5THVYeWZtRnd5cUpkenZ5clRzODladjgxUDJfenVfOHdCWm1KQU9NbVVQUVZiejhBekZjTndralpNVzE2dVBVY0VHdHgwcXczR0djcmhKb0RxRXlZel9oNzNKeE40bmhGczM0ZnFFdjI5RlJoTElmbFBNdFFieTRjc3BhSA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/11/latest-news-bulletin-july-11th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/turkey-orders-detention-of-36-suspects-in-bribery-probe-in-opposition-held-district": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN0tUWlpIVnJBZWdUUDc5NDJpdEh1Q25PVXc1MEk1N0VBdkkwQTZZa2FWY01pTmRLQnZjdk5FM01fWE5yS2tiTlZxQ3Ribkc5dEE3RXA3MHpCdWl6czVBT0Fhejl0SHJPYVNhV0o3akptcU1TaUlmalQ5T3R3dk4zcFpOYjdwY1NMc0J4XzhLZTBmWTlOV1AweElR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/opinion/opinion/3284405/has-internal-security-become-indefensible": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/wealth/invest/senior-citizen-fd-interest-rates-up-to-8-30-this-bank-has-revised-rates-on-3-year-tenure-check-other-banks-rates/articleshow/132323948.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/one-killed-in-drone-attack-on-vessels-in-taganrog-bay-russian-authorities-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnphY2RfMHNuRmRZdFE0TFlnOVY5LWFlQ2lwNFVKa2lVajNSNk43Sm5rZl8zd0hqaVlGektRelpYSlBzYk1yRFVlZzJGMFpzSFBVQmZvQlA3ckJ1bzBMbGRMdUlYSGNEQ2N4Ynhtams2cnEzQUdmcEJwOWw5Y2FucjBaSkl4MlRhb25aVGk3ajhYNThWM19BdGtobXZEbHpSVkN4X0ZsUFJObzVGc2VTdnU3VG0ySmJlR1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkFGRTFOc3k3dHVoeGZneld4MmFfZG92bWluZ2dvbUtzME9yWDVxUWkwa28tMVpHX2h4a1hnemhIQ2ptV2ZzeDRJelc0VkdNV0dBZ2VkNVJVaU5LV1ktYlM4d01zY0hJcURqUVNRMXFlTlV1OTI2NjF3YUpFcFNzd1U0bGJ0WGh1S0tjc3l3NC1jZjg1ZVFzNDUzQlF1UzhtNGcyakFWUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/11/wembanyama-signs-contract-with-spurs-for-five-years-252m-report?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/11/fifa-world-cup-quarterfinals?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
