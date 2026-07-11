@@ -62878,5 +62878,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/11/nx-s1-5881251/opinion-is-democracy-a-joke-count-binface-says-no": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/volodymyr-zelenskyy-ukraine-new-unit-strike-deep-into-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/scare-force-one-security-questions-swirl-over-trumps-new-plane": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTHRRNWo1ZDNvRWlXc1pEX2RHbnVHUmdoNWRGOVlNXzNDdV9pRlh6WWllNGduUFRZU2xLUXZWWkFmTU8wV2phdTNCaGplaXNpN1p1NDRheUhZNUFwVGN4dklxdjFpaFYwVTZTeTFUX2QyNGRJVTh4b2F3Y0ZUTUpLdTlKcWtHMmp0RVJWRTRpdU04UC11VE5EX2k4YnhiVTNnZUR0RWF5NFM2TVlNMDJQNjVCZVdxSFo1eTZ4bkdpNC1oc3owUHE0aWJ3WjhaX3JRd3oyTDNiOTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/11/zimbabweans-return-home-amid-xenophobic-violence-in-south-africa?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX1hPSERVaEJTY1RGa0Itdm9tTlA1bDd1Y3FNLUlleXhpbjI1Y01ZQ2QyaTFUMndKODJVUXlqNnZFRVlQNTZEYmMtSnFyVExmTXhKUXVhS0Ezc3M4b2ZSem9BMFBya3BES0p4OWt0VFE1Slh5cjlTRWhhVjVIQzF3VG9HMDZ3NzFSQjR4RTZQQVAxbk1rb2tNUkRVZV82MWdsT0JnU09rVTB6T1dxWjRWNktMNGZPdHVTRDgtcEVuUFhRMnhXUDd6cDJOMXg5M2xOdndSUWNyWVViUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/new-updates/xavier-nolan-wells-death-update-why-our-baby-didnt-come-home-grieving-parents-ask-after-teens-mysterious-death-during-july-4-boat-trip-tragedy/articleshow/132329925.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/next/2026/07/11/apple-sues-openai-over-alleged-theft-of-trade-secrets-heres-what-to-know": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/spanish-firefighters-turn-to-the-offensive-against-deadly-almeria-blaze": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/longform/2026/7/11/sheinbaum-takes-on-cartels-trump-and-the-legacy-of-1968?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
