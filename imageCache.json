@@ -63502,5 +63502,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-july-12-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzgwYlR4LU50Z3Fwenhna1JGMDktY2t0dnRzY0hrQ0Jpb0w5eVJKaGtzSDBSRzZyV0xHQXY4b0tlbzVEbGNpQTlzNTQ4dGZHbk5yVEtjbC1CaGlhc2pCd2hVM2JvVVNNNHpjYjRJZGd6VkFBVHpFeEotZFlWVDgxMDUwTHFWdWVEWkt4WDFhdnoydUZoMFd4N19sMzJWU3RnZU16ZGdCOGdIRnRjUmh6Qkl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuOENCdzliVnJPdEVLQ3Rqc1Y0UGYwTzRKV0doWHFhZkprZUJyS0ZMWHVPLXZMbDBUMDhWeWR6YVlGZ2c4aGwxaW5iVjREWEUtRWJJNEh3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/football/england-vs-norway-fifa-world-cup-2026-quarterfinal-live-updates/article71211741.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkhBSEdZUVdHQVFXa3QtdlBzT1pHZ05aOGo3M0szNFVwZVZSN3Y4YzBXNlFiWG9kbDJFdGFYWVZUUWpsd21GTDBqdzR6X01WRmNQR1Iza19adldKclFMbWc1enI2Uno0cEN0RHVLazBzeVVEYnZsenZwZkJKTWtVSTRXel9qb1BET2o0TXgzd0NKTXdfbEpNcUk4RGlqYk4weU1LVDlvRFhTdEk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZDVDUUI4aXF4MnlQWVVCazFwQW50OWRCaktveHREdnRLRmphbEpVdE9QdVRkR0dTREMwX3BJbnJlOXhUNW9oRUo2ckxIUDBwT2tpVGlESnRld3hMLWoyZ1ZzQ3hIZEpjaG9od1duY0tLNmluU1FJRm9USXU4T1VPT2FDNGlwVEN0TUxWX24wOUpvaGstUzdmaVZ1MW9INXZVZGRnbm5nZUNqcG1jV3VjY0ZVT3JGV3dYdF9KR0pnSVhfNXdOMEVJTFpJRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQMU5rZnNxX1ZIMlBXQm1uc256VG1rbVRpVFVQYko3U29ReVJ2cEtQVFNVdWpDMTgyNXRKbEtNMkFZQnJ6NGhEdWFsazR3S3dIRnVSMlJsMWtRUXJiN3ppaGpCQmhKUURUcXNRR1BUR2J1b29LMUVVY0htZnpfQldDbjRudTJsaE9xV2VwZFc3VWctNE5IZ2E1RU1DOG1vbWEtVDVHLS1oRWFVTEM4MWpVVFpxRlp2TWhDZG9maGt3QUJjbTJJRFB0WlZ5RlpUbHdDZHlodW13MllnckhKZDBxTk9rUXFXZFFUMXJBeXFXVENLOTNmcGlRcEVxMVlxZEI5SDE4bjQtMjJZQ2tIdDR6VGJIcjdzbXlqZGY0Qm9zV00xTFB4cUlibU9DTXVNUzFDQWo4dXNLby1uOWhXVEhYVmN1a3dDOV9Oa19sT19vNnJtYUNBZUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
