@@ -63304,5 +63304,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/another-headmistress-in-karur-suspended-for-screening-vijays-speech-on-school-premises/article71210397.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNZVdGdy11X3R3S1BHSVRmWWhqeExrT0QzVGIwNVZrZFVkQWVpenNISUdmZmY0OE5LOU5jVDRvWDBJbjNaY2hzOUtURWZCTmc0cHVmZGQ2a19pSVUwa3ZjbjFFeHJTUkdzNmtkZXg2RWQ0aWlMazF1akhZTG9xMm9nMERMTXZVQUNtY25Tbk4ycVdwRlpqR3VKbS1zQmhxTHduSTVLSGNmWVdzOGFsSnR1YlVvVV9wN01ILUVJMGNfdU5WZHNvOGJraHlOblJtWFlpd29HeGpFNDRodFZ5UTZpR1N3Rk1WNFVOdXhkLUpKbkZTSm52Sk5FRFUyQ1lSTXUzaDNlSERtbkZNcnh6dzBkd3Z4bVNMclR3am5nanNicXNNLTBsMHY5V1VPaVVFcTVnLTljMXB4bkRZdGpiaU1GdTlZczYwZ0I2d0drTUFlQnpfSDNfWTZn0gHcAkFVX3lxTE1aenlBNllGaWVNd2pHRTFtU19HUGU3RE4wNldFcFVpZXRUZkxaaUdKTXFjMWZnc2V0ZjNOQXNfTXA1aHl3T1NMSFdoTDRqc3R4V3d2WFZzUFZPMUs3ZTlGc3ByOUtSUjdCbUdmS09xbTFhY1JJYldhel9fZUwzNXBubFBDdGxRbnkzemxsVnRUOEtoSVNjRjFmdGNvVWVrelljRzVTdFo0cVg0N19vN3RMVjhQSDV2ajdmWWl0R1dncjJBdmJ2S1VRbmpMNW5VZXktdzlJYzJCR01YVnNlaXQ4T0ZDWW5oN21vNEVJNXg5b0oxR2dzQmN3YjBycTk2bFpRcEhmcTd4MUhBVlc2VEs3NDlTOFdJSVdxUTdpcnFqRktyNThvX3czRWE3M0RfbjluLWpUZ0Zrdml6T1dORks3NkNfSU1yN3ZoYkhuRGRsaE1GYktJNm4tYTRyTw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-week-in-review-us-tensions-world-cup-july/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/record-industry-proposal-labels-ai-generated-music-1235592406/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/venezuela-quakes-have-killed-4333-injured-16740-national-assembly-president-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-tutor/mnd-tutor-mejores-ciudades-del-mundo/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/liveblog/2026/7/11/england-vs-norway-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
