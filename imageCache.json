@@ -64126,5 +64126,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/germany-funds-50000-strike-drones-for-ukraine-source-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israeli-attacks-in-gaza-kill-three-people-including-a-girl-say-medics": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-2026-biggest-takeaways-from-the-quarterfinals?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/former-spanish-pms-racist-comment-about-french-team-sparks-backlash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVm0wM3pvYnZiV2xueTk2U2RkVlJZZm5aVFJRYmhtaG96aUIzckQwWmw2dHlxR0s4YVdWWG12TXlMSFlWaXhjcUhnaHZTRXhqUzBVODNnR2YtMUFGRDB3VXN0dkN6aV9Hd1hHOFpGWHpoRWpqakxna1ZoVU0wZzVab1ZVUWlGOGtWM1Z5TFNzUzd2eHBRVDI3SGtIM2lkWWxDZEF0TjVTRHJmcE1EQXBUYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/12/qatar-mourns-father-emir-sheikh-hamad-bin-khalifa-al-thani?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFRxNkpnOHZJVENmb2I0OXZsV0RHQWt2d3JDd1YxWXRSems0NnYtUXpFdVRfd1BIT3hnTkEzcnhQRV9pcE1QTkNRMURMZVlONmJqQVVJNmM1Z3lfVzBkUy1HZWxYbUF5TVBvZWU2dkc2cUR6UHNDbGpZVVljcGhnR0MxcDV5SGpmV2dxRUpHRVR1dlFF0gGUAUFVX3lxTE1HTkp1dVJNSnU5azJJaGF1ODNTcXd0NHpCdktKZkNaTWh2aUtZRlRvb0hKcDZFTmY5VmRmOVpSRlY1ajcxOTR4X09Nb0U1NmRQaElrV0VSSjVHRnJvWjFOMktadWstZU1iYUw5NXFGLVQ0VFZndXdmZXM5am9vYmRmXzgyeVFTZHBPMndvUHVLRnlTQkg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGhrZ2FzTUtJem9sWmVlbWNIVFdEdmw0dGNpXzZoenpMLXNIVXZGblVJOEs3MUhPU2hwQTF2cUVtU0VfWjZlOUdmc0pfQy0xWE0xYlFuaDhCY0pBcVFMU3p3dkM3ZXhlc04tdTlEOEpSMDVzWkJ4ZkFlQmVPOVM4ZjhoOVZJdHFXRDVIOUhTMDlVZDMtenEyWmxR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxOckh4ZzM3a0R1eDkyUXpCcTFBU3Bic3VObnkxTHlWM2l5dm4wMHpyUlhpUnBPbUNhdFp2NHd3aFZqdmMxWmZZMW5MUTdYNXkxd0dYWEFDX2lieXpMUWlHTmIwUzJrUFhpNlQ3Vnh2UXlkOW5lbHR3VUJJZEtra3RWbE5qQ1pYYldwaXdDOV9xRUtkNXBDd2hsdjhFZFZDc09meTZRaEZORDJ5WG5lMGVjZjZrUFFZREgtbUFGSlVCU3pGR0UzQlN1N0d3dDRSN3paMXV1SHVxYUJhb3g1STRDYmFRRVBaY0R1MEhHSWRYVWc2Qkw0SGRCOEJseXJtQVN3ZXfSAYcCQVVfeXFMT2FFRWRCNmdIWUxpWUFrQjF0cHJCSmg4U1BleGtuMi1oVi10YUJ1VDdDLTVXczlaYmtTM01OaTQ1T0tiOV95LUpZX2VrNmVMSFFsZjE2SnlxQUdveEkyN0szbmtyZVZWYVNJVWMyYjdvaUJhcEd4R3hlXzhxZkhLU2hBN2Naak52R1JLX1RaaDhrNnVaa0d5bWtQNWZCdmFlaC1ZOFU1VGtOVS1YbXpwMU1BbEV4aDMyeVZhMUtQdU5PdUMzeUpxdmxXTFJoQ0F6MW5iUXVCcF9WZ0RQUXBvX3psbDBrNnN3YWRrd0ROX25WR0xJVEM1RXR1VFRBSS1waE1mYVF5MDg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdzdlYlh4TU5oaGU1SUwwRG10T0NVUjl3aFRVcXNsZHQycGpRWFNsUU5teklnY1RrMENkLXpzRGF4N3lpOFBfQnFKejY5RjZwWXBkVlptLUplU0s0eld6aTZxMWNydkRoMlBjUUNWVWVnVG55S1ltYXU3aTNGRW1aTHJtOVVVUXZXZXVYWldGTEg3UW1xMFVJcy1XT3lkaHVfaEdBVkNBc0k3QVh4RFBqcXR1UExVYUlUajZaUmFFM0hjbDA4RDQ4bmtBSEUyQlB3NFBCNHFTalJZd9IB3wFBVV95cUxPSXRkcUNKNGRnQ3UweFBHT0ZkS2tNMVdPS0NmakN3aTh3TG9KWm94RjlqVEdaaUNMTkdHM0EzX3hNT2p5VFFieUNndm1wSl94blBQQ05fZEVmN3dlTzdZMFF4SEdjd2dGSnlhckNfM3JXekFfZzloR3gycFJHUUVRUHZXX2NFUHRzVGJUZmNoTG9wR2ZSNUVVRFEweVU3YlRLUzVxSkR6R1otRnVYUWhCYXVldlZOR25xckNlUWVKMW9yZHN3R3NaeldnWlFfdkVyR2ZTdS1WTDhHU1IzN2xr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmNoY3JjNkx2WGxkamNwTjd2Y0dDeC1kbDEydTNOSW9IemFIVDk4RDJEWjh5cExEZVJLVG9zMy1IcmZzUDM5NTlNZ1FRSS1xdncyOWlSUlRmZnIzVHZ2OUl4VjQ5RUxPcGRDdDltNzlUSng1WlVKQ2pDWjFYenhrSS1VMDdVQUpUbTJZRFNiWWZhYzl2dXdOU2VKdWJHUjFDdlVzNEh1QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-says-he-will-replace-prime-minister-svyrydenko": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
