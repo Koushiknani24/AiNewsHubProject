@@ -64750,5 +64750,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeER1U1ZVaFdKeFlQQ181WUdzRzNEM1I1WjRFbl9abHlYY3JhWjdCc3NpYk1sblJnZm9XY2ZYMHBCc084WFg1dDZSRHF3X2pNUlJMcVctMzJ5M1lKa0NnRXVSNkFONDhHbWZVNXdSZ0M3dGtjZGh1QnFPTm1tbURETkdlQnJObTl2ZzZtaVV6cUI5aElCTEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/special-reports/3285087/calls-for-isoc-reform-mount": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxObGtaR2VqTnRVUjFvY092ZW1pR1lFLW5VUUZJZ1N1MlZpYU8xRFlud3l5bGo5OWRkLV9GdTBlZGQ2Zk1kY3JTbGY0bXJhZkR4dHh0eFE0dlE1b2huYmxEWGNtS2poRWQ4WDBTQUJUaHQ0em81SDVIMmZURTQxU050Sk9aWElXMDliX0Vocy1TOWxRb2JFMU5qVDdHQ1oxTGNSXzM2Yy1Nc0N4NTdwLUY4ZHZYUE9sUTU0cFpzNVhYel9OeGFIT2x5TklR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSVkxekl6MFpKSDJnRmVSVm1HVm1HYi1RekJJMjhIUTc0QjMxUGFhcFJpSVpoV2ItWUo1eTFxMWJpRkNOZWQxR0tJcjVOVnVuT1ExRjFhV25JOGM1bUpYVXNUYmt2emdFRDlyV0FlaVZ2cFhyVV8xdDhjUUxfeWxWdFFzb2FRRmIxbjhWWnVYWGpIZXVpUGdPRkZNMjYtM3lNS1dpc1lLSldqYkFBcUY4elZTdWU2aFZtckFRZ2liRnnSAcYBQVVfeXFMTS1kZ3oyalplSG95Y2ZWenZNRHhoTzR5ZUZQMVJTTUVRSkV6enY0OW1peXNkUmtzd0dSanB5OHZSSXZjalcyeVhTQkpZX3gwcE5DUjNEbTFoTzZjYVNxanFVN1F1WnBIaHRiSGt0NlNrUEZzbU8wbUFlazBoTE4zSHB0M2tCTENqcGdfaGEtRS1IcDZQaFJLY1ZUOFRObjFVc2NoREVLeS04d1pPcjJYMTJ6UW5sRlBVVDZfdzhMd1UzU3NZaW9B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
