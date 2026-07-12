@@ -64042,5 +64042,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/india-monsoon-tracker-live-weather-forecast-imd-alerts-flood-rainfall-landslip-july-12-2026-updates/article71213197.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/no-evidence-of-political-motive-in-murder-of-former-uk-minister-widdecombe-police-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/11/poll-politics-patriotism-us-europe-canada-00993636?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWDNoTi1oWWxDZ3JYcFRORWhiWjVoSGhQdVMwOGdNZDhsTkpmdTRoeTJ3OHBkUlU5NDZBQzItMnVOeEVudjNIZEpydGRzdUQ5X1RURlV1UHJyVjVjVTNxenl3cVA5ekpubnFFT0NwMGpuekVycVRZWDNodlVOLU1kNW5wMmJ5cDl6NlRpd2I0SEt0UlNPRE5tV1dSaW5qQTh5V0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOWo4S3A3YU5JbGRHN3o4eVU5MFNIZHVIWkNnbzlSNEYwVzRybXd0UFljbDdaX3Y4WWkwa1Jidm5YN2JKRndBb1VZWXAybGx5bVhLaTNfTnJsNldOakY1eWlNeVlmZkdzYnFlTVdMc25yNmFpekZSemNfVTdQT01KLV9LV3NsdzMxQXFORUg0M2VRNjZJUmFZVF9BQlU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ2QydEdBYUs4a3d4RmIxNmF0RzZfVzQ3ZGNlTVQ2SjNLcF9sOVNlY1AtNUlPcWxwV29RVzVIUjhGLTAwLUREdG51OVhtVE04bXlMZmVzZ2pHQi1lclMyVGU5Z3dKRk44M0h4cU9FWXBfTU1GMnF1MnpWOWJ6SU43WDFENEJCVWliMkcwU3ZXX2lMSzE1Q2QtbjBuSUNKTDRYdEdNdi1TTksxQVllajA1X25xSi1hTVNreHRoSDJwNFRLSzNXMDE1NkVoZ2RTdEFxVk1NYQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iraqi-prime-minister-to-visit-washington-on-monday-oil-and-gas-deals-expected": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQREV2R05zQTg2bnpTbXVKcFpCQ0hEWUN3TThOSG5pQUdNd0JfYm4zWk9jQWdkUnl0czF6b0RFWk9SU1BacEh0TEE2a1JpNDIzVVVOLTA3cTVyMGdwbEttRTQ2MldpakozcDdoaVB2WURvSlVJRzI3SjJHZDY1OVNQR25vMmdkdzBWVXBhTVlVbV9VT1kwV25pMWRfQ196aXU3bmVmaA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORnlsWEN5VXA0OEx3SFpUd0c3ZzV6ZXluS0ZmZzBWVkFaSmV1aXRJeW1SNmdrQlNib2Jya2xxOXFXWW9Td0J0MWZYaFp1c3JGUF9xdEEtdTQyTXlkN1ViVnlsMEFmWUMxMlVmSnM2VFRyV3A3WVhtcGRUOXUyOFF1VXZFb0FhcnRWZjNKTF84UUJaM2lMVnp5QTNySE9oUE43Y2dqN0pPeWlNaWxHMkphbWhqWkp1WDZLUTNUY1RfSndlcUQ1TDN5LXpSZHlMQklRNmVIMnlwWHZxQVNyVnpTdUJyc3JTanNzTnR0WURRWl9KLTk2X0lCWm1JTdIBgAJBVV95cUxNUEh0SUNheEZFdWJvSnU1VUtQUU1LNFo2Z3ZKcEQ5QzNzMTJFRlhYazlaclV0aTZKVG9tNEhFbGdNNEVpNTZlZnpYbWtNUW92d012UFdWcnMyWjlKTlZKcFpWbzE3TldDM2lKZE95eXA4YlBoUktObjRQd3llaDExdC1sSVdOeXJiaEE2VTVtdW1MMDJER0pfY0xrNVNSM1J3T29qRlNrR1pmZkpzSHlmOXBfNlVBX29YcHJsazV1N2dvTVVKX3ZVWVZGa1dxMEVYOHJTb1dBTG9sNVUtRjFtRHp6RjU4Ujc0dUxnMFVpejlJYmplNDVvNU9rM3RSbnNT?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMU42eXRjNWwwUndUTk04UjduNFlDQnJaU2tscVZWanV0TDJiN0c3S05tMFBzSGpYb1RUZ3puQ0k3Y21rcXFfdFVZOHBGU1E0c0VUN3BjS2ZZOURNSVhld2txZkE5Zkp5UjN2YXZyeGRVb19RQ1FjWHQ4Tmd4NWotLUdNaDVoZVFndEVOWA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/ukraine-hits-russian-tanker-azov-sea/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/12/key-moments-from-former-qatar-emir-sheikh-hamad-bin-khalifa-al-thanis-life?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
