@@ -63736,5 +63736,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/12/ghana-slavery-apology-why-many-descendants-say-words-are-not-enough?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWNIZWpPMUROMXlXU0EwT1pjWWUycXFoTjBobEJLM0JpWGhjTWZwN0Q2RkxaY3N6cU9fNXZOT194MWFHYllDYUh4RWdEdmF3NVpGQ2tlOTl4dWI5VzVMWlgycVBYcmtSRDR6UV9lQmtoWkZMUWRvLUYwZXhIQzlGcVVpTGlMZElhRkxkT0pkMXlEZDJmSll0c2JsYkY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.yahoo.com/news/world/articles/ukraine-sets-russian-refinery-ablaze-060328333.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russia-s-fuel-supply/a-77887704?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNUQ3WUlhM20yeHk1R3dza2tqeEh3bFZxc0NoZV9EalJtbXN5eENla21JTGEteThpUmlSSDh3S0dENmRoY3FBcjhLWkZyN2VuRjIyV0xkZzhRcVk3ZHNIT3NtdHlqdTBVYl8zOWFVWHoxWTFleFFJTDV0V3pkSXdwVE0yMlZLSE13V2lnTkhneGlZQ2pDMzl0cTJ3VnFCeW03YkNGSHNrM2d5Slo3N0JGRm5BVFV3WjJrUFhQbmVRUdIBxAFBVV95cUxPaXllUUVXQ1hGUDNITDk2RF9GVjlpOEM1ODlTLW1UTlNkVHVQY3pKSmxvOWVwaV94LUhWa1VUUFRPMUttdlJVclRWTkZ3RllFZFVSMnNtckVoOWp6ZlJ5UzNsTndjTnd0YjJjNjhiXzhzWlNOX0NtMXZ0bVQ1MWhDaF83cEU3TEpKYTdXZVNEN2JuUkg2SWZmcDgzWWNXR3pCTjZIUjY1V1lxc3VaSXBlOE5DN01VSzd3SUJERFVuc09IcjJn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/qatars-former-leader-hamad-bin-khalifa-dies-statement": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWc3WGtyemhwZ2VjbXNaQTlTVnNobW9TTmhtMkxVdl9xTHVXOVpBNS1mOGc3MkgxTnZaa3B0VE1DVWxCMFZGZGFlTGlNb0RMWGtkazBIckpMemhYZ0FxbVVfN0NCRGdEMXBxcGl3ckhYblJaaUNFRFhaTGpfSjJKNE5YYzZZZ1k1SENnUDB3UXUwNjJXRXFWWWctajdUSFdZNkRKOFNfcy1KN2NjZVpyT3J5V2R3QWhNVm01NzlQbHczYzd1WFA0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYXlubWVBWkdfTUNzZFVUVnZ6OGVSVXIxVVFsSmF4RF9sTTRYcWxwR2dodU1QYXc2blUtUkdteTJnNDZQYWdjMmJTckpkeEJjcVZOMnNydzQ2Z0ROS0ZyVk4zb0FXWXZTWHFxc244eUhfbk1KQXVCZDNvRjdwSjJURjRiUERxNk9HRHlaeVlJX1RIUjZqaGxPRTR2Sjlad2ZacE9oVS05NXZHNl9rdDA3ZTFxQW5Oa1NTaDZKNGdKU0RwZTBQNnFRTXJkcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1dYdXZZOXN6OXozV2tJMmpxbkJEaWRnZlBub05nOHAwcUwxZzJITllFaUQ0OVRHWmJSdTR1TExoemNxOWJldll2V2E0Z1RacjJhYnFoUmhwVzFXaFpaUkxZellmX2EzVmpWM0xOenVXNjltVlJwSWlJTWlDaVFqSmRzT25WcVZzTnZWNEo3NmwzNWxpVkhTRi1zWUNkQXJHWTc4d1pwUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeHktN0VLZVBxZG9ENnRRNnp5RHhGb0ZNX3RKcERHdUdpVVhRb2R1YXdVWGJiWkpMS2xRZ0diT1BpRDBoeHE2STl1QXY4VzkzZVdFOEYyX2hMOVg1NWY5d2tHZW9iM3ZOR1NjWlM0RkozYVJsYXlQWXFSWWJOdHFnZDFtYkg0cGRzN21DbXBJc0RSWW1qblVpZTd3aHh6UFRpYzNKaEc1b2tlQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaHhRc3dNbWVoMUxsV3JQdXlKUGo0NFV0b3ZWSnQyZFp5VDhPR01zWVFmN2Y2MFkzNlgtVmtZbTZySWk2bUNveEZBeWw0ekJvRDY4RjNMeGxhTkpkeWMzTWhRS2JOOEE0VE5XWE8xU2RZakFFdzVTaGV2V3QzdXo1NEZ5OFRaQUdOaHpDMUtJWU9jR0xBRDNxWFgyRnROOFowbTR4Wjd3X2hqWVR4SG82a0Fn0gG3AUFVX3lxTE42R0xMdWJ2Y0lfNU5WYUJNQ1BPMEVyNWxrc1BCdGVfMjdIR1ZYbk02MFFMUlIzWmtDOE5paXo4bXpZNVpWVDlycXBQeFd4bkROSWItUk1zQmdDWFdYdGNuOGVwdDYyLTFwWmI4bWkzX25fM2d0WTBGR0RsM192ZFNlV2hEa0lENFpCMlFuMDgyMzhiTkh0MUhuM1lLUkNfLXdlRzJ2Wlo4eWQwOGw5a0RqTUJ6Tnk5UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3284845/leaky-bangkok-train-tunnel-slowly-being-plugged": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSFhiZEtsUnpzdlVob2dPdXBSSThtc0JwX3IyQkZzVnNfVXJ6Z3piRERMXzZSTm9fMWhzWTlRRVVMdmhNcm9zMGFoMFRyb0ZUZFotN2QwQ0RVdmltMnAtWnc1WklUeFRUY3BYZlBXMU5JZUV0cEl6MmowSjJkbGlITm4tSVljazNiZHNtYXF2WkRLSkNtUVdtVkdIU0Vhd3R2eW5laWV1YlNDZVBhdHpxMDZ6SkRuLU5YVGZSMzFfdGd0a3Qtc3JzOUxrZ04?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
