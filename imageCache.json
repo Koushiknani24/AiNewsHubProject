@@ -64510,5 +64510,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/lifestyle/erling-haaland-e11even-miami-nightclub-party-photos-video-1235592459/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSlVZeUE2U1lHZUFBS3N5akJ0TmdLVy1XMjRkdTEtNEZtcUN5MXlSTlFxSkJsbzA3dTBnVEtlbVIyMndVcWlsQmZJQndxVlFXSVNCdUg4QjNpd0hYdG9hdi1hSC14cjZVT0pBbWFzb2VmNHV6b3ZWSTRnSGRWaVlGTWdqVzV5XzVnUFRZYWdnZFhSMExERjFGWjE3eWhVUjZHME0tUDNvbF85OG0teW0xYTNtNlpjTG9lbHVUZFk0U0Q0NkNjbjZSMzVJeGxzOXVvODduYWFn0gHbAUFVX3lxTFBZNzlNRDNnRHM3UjBjQXBqcDZPSjBkc0ZpYVVfRFp5X0VyNVprSGIySGJ2RXY2YUY2enFzeEhCd1d6WVdudlRnQkpIdlBmbDF4bHF5SjRacmNHMjdWOGwtRUdkWTlzQkU1bDRCR0ZxcURsNjVwR21lZXpoMDdFbC1ueldqUlZzQTk0UENzeERqaGdZTTA0RHNNMW9ua3pUQ2k4aXBISjI2ZEd5X0JjQ3pQc2N4MlYtRm5nQVdZR3pPd0xQMUZiQjBkMlFnZ0hTSFZERDhhMmlpdzBTVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWHFjbFNSbC1ETDlTQ0cyOTc3Q09QUmxXby1sSmVHTVNGTWI4TFVRTVhVVnlDelpiLWxjU0lBQXhZRmNRc2diNWRTY1daSTg2dzVqYl9uSndPZWEzNkFQWmVlaDkzWEhpZlNkNGhfV0pJMmlGcUtuUWhYeWx4VnBkRWdIQ2h1NmhoS1luaG5lNjAwODZoajdiWnQwVi1DLXFGWEgyTFZJYlJmdkVQeEs5VVdtNHNmQ0k3dE13VXVR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/12/thousands-gather-to-bid-farewell-to-qatars-father-emir-sheikh-hamad?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israels-election-will-be-held-on-october-27-coalition-head-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxQOGtLR0dBbi12clFFOE1Ja3phTUNPR3FVU2w0V3BqRkMxX01qWUdEZ2IwTlM1TVUzbjlmX2VQVHJ4Wi1HUGlkT20yR3dnaWd3NVd6eFlXRDJZTVpWY0E0U2YxZy1mTDRiR1BET2NTa1dwOGFfSTE2eHhvdG80S0Focl93clM5TlEwOHNiR01RR01mX2UxdG5qMVNfcGppY3pzNWtHU0RNSnpkLXo0WnRxd1I2NDhlVDBHQV9GcHdYNHctbElzbUZnWUY2WjVFODZrbG1vc0ZCNzNfNjBjMVJ6dXd6NU5wSHA4VENPUnNvelE4VS12bXhJTkpFWHRHSl9TWXowTXdiUFE1M1Faazln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
