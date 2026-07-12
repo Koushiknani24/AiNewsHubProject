@@ -64624,5 +64624,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/12/spain-wildfire-firefighters-gain-ground-as-almeria-evacuees-return-home": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/driver-in-chile-runs-over-and-kills-six-people-at-festival": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3hicTRrbFlZaWVMQ1RLQ3Y5MndudzJfa0lxckF1VHlJQVhCb0hoSFlIakxXWW1oUVZjaWRLcGNtc2FhcXMyeFpNUXpvWUlOVW00ellLUF9seFQzZkZBLU5ZbDYxUlMybVpCYWZGdGdxM1l6U0hqSllIMmZkTjJ1RWZkNERpbkNYTDdUQXowRm9heXBXa0NlX2tPLTl0NFZ6SlVHalNrMmXSAa4BQVVfeXFMT1FUV193d05wOU55WVRYT3Q4WXFVQ1A4eExvX2NTS2hSd0lZS2o4cXVhR2JOWURKZTFSRXlvbE1aQnJ2VmhHX2JxNmtEcks0OEhGRVZPcmw5clh3Zm9HSEREa1h2bjhNZ1M1ekVyX2YzYUpNOHcwMm1vRHhCNHdnaWZsRFcxeS1VOTQxTVRCTUUycjZQNXoxemlyYjNuT09qMDNwZEtZSmtJeXN6dGtR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/12/sinner-beats-zverev-to-defend-wimbledon-mens-singles-tennis-title?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTJKMF9EbGFJOUNlZExCNDlyd05zNGtwZGpuR1VhbERCRk9UeUtVWnhwdTBwWm9aWS1tbUtZUG9zdklUQV8xdjJaUnlTbW85WHhuOVZMdkpvaTRxZXJHdzNuR284c3cwd05ldWlxMk5Fd3M3XzhNVEFyMEM2M2FFcWNtRkFhYnU2cmdHUjRXcVRidjRSR2ZKWGNTczdkY0FIX0YzNmMtNkpfVFVyU0R6ZVFfcng?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmWTUtcDEwbGRfTHJLNXhJUUZxMHp5Y3pKRVF1b2RvT3AyNGlaM05wTGt3UWx3SlUxaGUwSTlFNFdCZEZGaG9RaXVJT2pyME1laXduNXB1ME9WdDVqQkp3NjZQa1I2b1RBeU5Ycg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/sinner-beats-zverev-to-retain-wimbledon-title/a-77926065?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/bellinghams-brilliance-outweighs-brief-disagreement-tuchel-6249586": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/12/qatars-former-emir-remembered-as-a-man-of-vision-and?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
