@@ -64936,5 +64936,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/ram-temple-mandir-ayodhya-supreme-court-hearing-live-updates-donation-controversy-petition-sit-probe-rss-vhp-bjp/article71215941.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/13/venezuela-quake-death-toll-rises-to-4490-officials-say-but-no-number-given-for-missing": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/bangkok-na-ladprao-beer-pub-deadly-fire/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3pkMkpSUUVwajNuWlUtZS1PZW9XWG5kOWpTdUdrSlNkMTFkZk9vSXZvNHBpcWhvcXE0LXZxYV9jOXNhWXotV3RSMnlOY0laaTNLak12MDV3ZFFGYjg5TDgyOU81amVGaHlmYkdwYm15ZEwzYXZtajVjZkttT1RKdDRlTXhJNHNNUldBRXRqdVg3TWUyZEtwOFNpaHdRRm5Ua25ZejNzc01RcExuTmxBQ0pQcVg5Z2JpZlFVcQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-which-semifinal-team-has-best-chance-to-win-the-trophy?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/eu-set-to-approve-air-travel-passenger-rights-package/a-77927050?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFNVdUNtSmZ0clVlNHRVNkVXRV9PRnZ5ZHJfZ28td3lMNUVpTkxYNDg4eHc3STdncENVVVNBNVRpa2ttQWhjQWZzUWJGYXhYcUkyMWpQNVlUV3FJemF0a1dkT0FuSEpPeDE1SjNSMUxnb19WckdoWU80M0pfMzItb1NicFRkU0tpcDNQSnFsWmxkOTVXVHBkaU91WW9semlfczNiZ2M4LU1KaGM0Q0lDZUtWa3o?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/13/nx-s1-5891505/actor-sam-neill-dies": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGpkYTdVWEs3WjJDdWJIUjlUMWtscDl5bFptUGx3MmpPWWJkLTV2VEJxWFpHWnRJYVVVMGFpRWx1a3FaTkhxMGZlT3lGbW5ZUFkwS3V3LTdicEU3aXExLVp6ZEVIa3pETTJaVURLUG1RVnZJZnVCWjhfbWozN1ptSW44cjNvblVQSi1DVjcxVV9KdVlQMWd1dGt3MnMyM0E5NThDbFlKQWI3c1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHhFRUIzRUNMWHpkN25UN1FVR3AwVVhSLWxHdHZKNExHUjluWWU3R1RaR0NQbkc4Q2ZaV29ZQk5RQzhYX241aHBVX3duTmVJMU1DcmhSRlRVQ2owclR4MTZfSzhmZkxMZG9MeXJMX05ZLWo3V01aQi1QOUxBNjBDVXNtYkZ5cnpfdTZmOS1Mb0RTbF93aldHNXJOSUtsTDZTUjBqVHFMakFpSFZrZGVValZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/13/major-wildfire-rages-south-of-paris-during-heatwave": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3A0U2h2ZHk1LVNTYlIxX050eHpXQXVGdlBBM3d0TnZEN2FLYlFOOVNRVy1iV0tEbi1WbHBNU1V2alJ6S19IOHgxdUg1YktmTTJ1YzFaTC03MG9jNGQ4WkJzMVNIMzhNNG1PMFd0WHd2b2N2c0VyX3pUV1RnN2p2cW9UQjVwcUY2ZXhoaDV2WkdaM0VXSUpMZlpfSWFsdnhIdXRvTXJtdEJIZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607130138.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607130120.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWs4MUZ0NkU3M1VXdk1WbEl1MXdYd1NxLTYxcVp1aU9hWnhRQWRzZUJ2WjE5ci1ITFRxZmtoRnR0ZTlSWEUtdkVUWlo5VTFpd0tOd3cyTXNMZ1JNTTJISWVtdjhhMEtReWpqVG5pR0hfandFR2ZsaE9ibTlScENNOWJpM0tTWDFEc29DTlJ6VTBsdHRTc01XT0w3dFpETXpCWEUtRlJBa09UQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/hungary-parliament-set-to-oust-president-in-magyars-power-shake-up": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR0pUS0VTUXVBRTRFX0xmbG1NSjlob2pZNDFrekxvbjRlc2hEdnoyLVhSZE1UNEpVRnFCTGdNR2drSHZOZFRBYm5VNzNRbU5HOHI4aXFIaUJQeWI3QTBCLVZtWm9Gb1JtcDBFenk2YlBFUTlfRmpXN2NLaWJ5TTFtWXNUYl85MFZoTlR2N0RIWnVmWElKTTEwU19TTjJvamVMRlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMjR1NmZZMEU0TXRUcmhCaUptY2YtRVFUQW1oTnpSQnYyejU1a0ZlQTBpWFN2alIxYTBaY3Myd0duWjJOVzA3Qk9HN1dFYkNSTkhoMkJPcVk4NFBRMENZSzB3WkZHcmdobXFfaW5qNVJETXQ2ZG51M3U0X19yWWtLT1dpNzdHX2RQREcyTVNBVlJVMGVydUMxMWdlLTVpelRzRUo2RVV6Zm45cVFYQ0ttVENRR01ldWh6UHJwbld4V2RxcE0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/13/jurassic-park-actor-sam-neill-dies-aged-78?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
