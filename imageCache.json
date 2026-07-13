@@ -64792,5 +64792,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/12/trump-lindsey-graham-senate-whisperer-00994269?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3285142/beyond-rainbow-branding": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZXNQWUlIOGZtbkFndTFZT0hqM0UzYV9QUHRNMFRCU0NYVFRHYnJrYkdJQUJ4R0VLWmRVdk1wR3FPbHFuek01eXY1TzQ3R0RHTm4yaThvS04zV0d5ZG05NndFLVRWM285eHU3Q2ZvQjJ1aUo4QUZEZGdxOFljWkdPdW83WjFXOEY2d1BBSw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxNT0pETklVZ2lneGJHNTlPZ2VxSmFBY0hWSVJkOWZTemZmTUJ4aU90SUpVWjJEODVJdnlzMkRDLWJlRXZUWDgzcnZ0WWJHZURnWDV3enJPMHMwWkllbzZCdzFUUmZXT05nMG15VHRwWDRRZDBxWHFIUXNwQS1qYVpCOVhyQTVWdDZjZDg5R2RuWlAzdng0dmZFaFFLS05GRGN3T056dUJBdGZ4T2NHcGZ1a1Z1SXl6cXBvUGdMMmpNS05zUTVfbjl2Tl9YeVBMSWhmaWRhV21zczFCaXcxQXFUR3ctb3NwMzVrNmdRN2J1amVOM0Y1X25nUEFZTTR2bTllOWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
