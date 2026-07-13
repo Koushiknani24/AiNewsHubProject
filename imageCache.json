@@ -65182,5 +65182,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeE5HRFdUWmVKTEpZTDZuWDhFMGJlRDFGNzREWU5iNVFGRHlTQ2Y1SzdwRlV0SmgwQ2JialVQa05oUjNzOVMwdE0yMDJmb2R0dDJYTTdrVE42ck1ZMXhFX1RPZnNqaGNxZ1RYODJVR05sYWdxUnl6UmxPLV9OZWdiMloyWmd0YWl1QUJ1UVBMWFBORXlPQlJwWlQ2Rk9kVElqSXc0T3hzd0RkN2pJRElRemNNUkNKV2FRbGFGNXVPOEVNYW9MZ2FHOTNjOXA1c3R3TWt2Ug?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SRWNSLUswMkRpQUtmQXFxOWJKS25EYXZTS3hka0tURXNfVzBTd2tMNkFSeXhaUGVmclZ1QmtzS19JdUdwRlhNZmw1Wm14RUl5d1lMeGZXUTlvRWZYU2pQMUhGVVd6RkxnaVk4SGhGTXBYVm1WZ2dNSi1zTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/ann-widdecombe-death-probed-by-counterterrorism-police/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjNLN2ZCaUJrM18wYjRjSWpCRHVfTjBDSk9vV0tFZzBvdW1Rcl90X05CRFNObkZfdjlVODhHV28tVGVoREtqMnBfbDY2WlZLVS1qdjBDX2c1V3RnSzNwQ0cxbGFtLVI0RUZhZGlKUWNNOWVIQmcwSDM1OXhaUHVMRWlidDhnamdPY1NxTlRhVWpJNDhK?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeFlPc0JFMUg1OUhTWTZLYllrd3JiTXRxRjRnR1NyTmNCSzdKenpvWURJeFBYbFgyUmNTUWJSVmJpV3UtbEI5aGNXbHlKSW5FYy03T19oa1AwdmRXMlVXYzRRYnBXMzdqN1NxZDJoRTdBcFVWMGdBUW5ubGdYZzNFb1F4UWZTcXJIVnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbnBVeW9jS0FmQlY4eWcweVFPbUpERDEya2VfZkJuRi1pVFZkY3ZSYUdycGRjTlUxTzc0Rkk3UEwxU0lWd1F1aHVxdmloM3ZxWm9EV2FyQTBnUzJ1enY1ZVdFV2N1MGxKN2FZQ2pPSExSb3FYXzV4eXlaUl9DZjl3VENJMVBCOEJUVVpNOGk2WmFyek12M2wybHRqcTBHLXRaWFNYOTFhbDJnNEdUVjdXZmJaNFpMS3UxMWJmcnJPaG1GZmprSFJSNmRkTzNJN3ZNbXhKZEhkOU8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbzFBN0l4LWl2SWxzSGxUd1ZRQ25Pckc1bk9tcnlOcFYwcTJqdHJjU2NhNGFGbTNTUk90ZVB5Q0ZqT00yanlWNWpNR1BUdWtOOS1ZMkRFVlJnTjRiaUJGS0NEczZOWXVldEN6OGZIbG9zcVI5LUZwd2YzemNMYWdMTkNwdjQ0T1ZwQWR4YUpYNDVBcHZhdHBuVUgtNVA2aGk0ckQxOW5ybXFuUFNtYldaaFNKRGt6NHQ1dWMtNG12cWlmZ9IBxwFBVV95cUxQbE9Tbml3V3hjSXdXaGozdWZhUDJEYWVHckpmS1lxbjgyZGtxTjFxY0dkWExIZVQ2ZHhBaTNBZ1NPWlo3WTJieHlyYS1PNzVKODdTNVB0VUQ3ZVBvcFltZ0NDVEhxLURjb0tPSlBXSFhHbkNpRWVkNnVibmpYRFZhWkFvbmt0VjZEcU92SDROLTZRY2l3aExDT1dDNDYzLVlETTdTa1o0a3UwUXY3dFdqV0J4UWptaGpRVGRMbkV1V1QxemxsQlpB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/iran-life-in-limbo-between-war-and-ceasefire/a-77933549?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGNpYnNvazZ2cXlfdFI5cXp0NWNYY29Xb0s5dlQtQ09pall5OVJ4bThsZWVfSjdhcnBINUxaZ1pVT0x1MmEySGtFTXVBMVFWQkl2U1Z3YlhUQTNJdVZPQnNQNDB0U1lLNExsTG81RU1wcjRTRC1DQjByUF9TazlQMVR1d2V1eVczNHVkS25EVldrX24zOWJaWjU3RXVNb2M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3g1RGM3MG1TZFUzRTd2TWFnMXM4V2JkeDB0UURTNnBWQWdLRXliNXlPZ2ZwYzkxeGxwa2x2dW10dmE2VmpVeEMzN2NoTkQzT2pNcGE4bWJyTC1KMDVhbVFPYUxVUDVJdWJoTUFfakpFUWs4VWNPTjJCdUZkcjVxMGhXdTZyNEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd2xUZlVNdGVhOHVEdjlLcWJJbm1KQjdKVVRWdERNcGprRzB3YjhBdVNpakUyV3RtcTY5R0FHeDlMZDhFWkpxTkoyM19feVhqblV4YzdIY1U3Y204RDhudlc2Z1loN0RkOUxBYlFqRjI1SWp5YVVCbXhpSFhIa0hMOEpfanV5amZHS256VlJRWXc2cVdmMUhlN09xWFBLVkxaekdmbEFtcTR0SEx3WEZfUU4tNmc1U3V5M25sMWtCb3lYRkY3OFZVRDdfbG1lUm9uVm55SmVmbksyNGVT?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/bruxelles-veut-limiter-a-13-ans-lacces-aux-reseaux-sociaux/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/kenya-what-impact-will-dangote-s-new-refinery-have-on-the-region/a-77927159?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607130542.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWdkRHJxNXFmT01QbkZtaU1TajhyUnl3eTFiMGJQNzJJTVM0TGFDZ05vRGZQOWRiT1RnZnY2d0NVMUE4bVhOcjhqaFF4VTRFT2tWUm05SjBDQTd4UDU3RHd6MGtGRFRIejhlLTZKVldxclFRSUJmV3BpaUZleHNTWW1qNXpYVEhI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/13/what-will-happen-to-trumps-agenda-after-lindsey-grahams-death?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/13/the-late-sheikh-hamad-bin-khalifa-al-thanis-legacy-on-womens-reform?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LQ2IyTmsyTXlsYjJHR0NpMEFCT2Q0Z3UwS0JzSXRlTFRpZ3hzc3dzOW9rak1NWVd5ZllBR1Z3Q1I4LUVLamVTbHBCWlVkcTY2RTI1Ng?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmRJREZnQmlJaTk3TVNVSXJBbUk1cDEyVnB4MTl5TjUzOEdKeFpwN1J0WEpORC1Nd2ZobkRuMUszMmF5SjdieHNOWm5jOWRuSVZ5VGJUaE5ucUljS05pSk9SOVFzNXE3WGhaS3NVSGpyZWtBNjR5VEM5dlBkZ3dpSDhYUGRMOHN5bEtDNG5ObHQ1UklaTGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxbmNOcGp5YmZTempmR3Zld1M3NURfb25PbGNzWElSSGJpUjdJY1g1SzQ5ZV9TVlJoRlFKVWdTQ3NGWHEzbF9RRWNuWkM2SlpqM2thcVl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
