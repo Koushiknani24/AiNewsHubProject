@@ -65710,5 +65710,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/13/trump-notifies-congress-of-new-war-against-iran-00995170?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/pickford-relishing-first-messi-test-england-prepare-argentina-showdown-6251981": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDUzYWw4SlJCWGNjdmM0eTJaWDVrbjBRd0xNTFNNV2Zna3AtYXZCb1VLSURMU19WMWFlblV4SWJqWE9aT0dqVHRWc19ZZmIwcUpRd2tfTkdrdTlUbHlIZzFibXhKNGo4cURCdjBoM2tuN1kxcHNJZ3hQcDVieW5nSDJ5VGVSbjFZTEN0OFNWTHdYYTRyS29SOWlR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/13/world-pays-tribute-to-qatars-father-emir?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/4-americans-among-injured-jalisco-crash/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/warner-bros-paramount-opponents-attorney-general-suit-1236646844/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-member-states-sanction-israel-kallas-commission-stands-in-the-way/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWhTcUtuTk9UcFVFLXJzMFlOUmlGNFdPSlVtOVh1bXF6aXNObF92RXR1bWg5eVZPRmo3VVVOd1ZaQlp0OEIyZFBpWnpxN1pmMWdicDFkZjBhSHExTWl2TmJyOU93bDkxRUlXdDh6RjF0Q2g3aTVBT2tIOUhkd3BReEtoWGV5RjNPYnhka0huZE81R0VNNFU5Y0R0UkVvZTVjeDBuMXgwNHE5am8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclgtRnRjMzB5akk4ZlhnTGY0aW5Wckk0YlRTdUlmamdjN01qMlkzaC1QQU5zalBzRGNVdV9YczlOekRrZWVPYnUtMzF3emNKZXAtUDRLa0xCMkdLSUNFc2JaOUhTZ3M1S3pBYXkwNG5CcmNVdjJSQmYxeGw5T0MtN2o1Z0lQYy0yR1NsWTVyYllHMEY3Yy1NbnJ0RmJDdVladVd4LUlmT0k4R0c5STJNak1rUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/guns-seized-arrests-cartels-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3RYRkxVbHhoSUZkNXJETkliX3F0UGhFbzFDTkE3U0kyZkJqUE9HYkJVTV9uUThPcG5Gcjd1dHZlSjFyZFE2ZUlOSXIxT2NiaTRZTk9YUmVGeXFWaC1VRXRPR3BLTzFFN2docmpKakFHVFJLa1MyMzhOaXpMdXVrTHpWcjRLYXo0X3lWeWNnSzA3dG5VOXVkb2RFV1VoQUJMTDhKU216U1VXdml5Qnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1ZZNm4tRWs4bmdqdi0zMGxTVDlWU0VOcXM1Rkp6SHFydTY2LWd1U0hnZDNzNW9uSVY5dUZMX2tVMGVBUHRLWEJ1c2hEdDZkdmtheGlMOFBaVUFDNHpTa0dGWXU1V05nbHUwLVBJeVhGSHdtcVZDWUlUUWg3NVNXRWFIeVBLU01t?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/7/13/twelve-us-states-sue-paramount-to-block-warner-bros-merger?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/europe/20260713-ukraine-allies-gather-paris-step-defence-aid-heighten-pressure-russia": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcm9CV3JmNl9KYXVIMzZEUHpNUHo1d1ZXR0lsay0zZ0lmNF9RRWRiMHR4d3J2X09ydHdjbmNXaFltLUxFMExpS0JidFREaDBVNTZLMFVkS3lXNzhfbGk2SVVOeWFqWkdhc09zRC1kYzVrSWVsbF9kN2dnQVV5SDY2WkZXYkpzWEZKQThsWF9FTGdVck4wZUMwMl80TUlqS2ViZ3JKU3E3MVBEQnBLc2NGU2VNaWc2M0RJcGZTRdIBwgFBVV95cUxPN0k1QkU0OHdoekxObjlhQVFDRjRKSUhBTUhMR2M2LWFsanl4SXIxZXNkalgteW10RGdyVFhueFRRSG9KUUNOX2hDTDk5MXVoTmRsNGptTU9ibGx0N0gtWkRVbHdJODE1OUx2dGRRdkpYbl9ueW5BZEhfUURicXlKWTNFcEpFTGJhTDhNMU1YQmtKWHhvSDk5VmllZlB1c1RIeG5YbjBZYTljRmRaNEs0REY0NmM4LXJYVzl6Vk1femJQdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBbm13U1h4Tm5zUlRQalhLOVRSUHVvY3VVQ1BOaUotQzl3NTBqVDZzLXpKN190YUk1LTlONkVWaDVwR2hqZU13bEdSdk0tY1gxUmFJSk1OTjB3ZjZhR05YcHVmS252QWdpU3VJb1UxenV5OHdnNm84OWRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
