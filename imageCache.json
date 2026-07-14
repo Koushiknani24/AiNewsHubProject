@@ -67174,5 +67174,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/14/pygmy-hippo-in-thailand-predicts-france-vs-england-world-cup-final": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/14/french-and-spanish-fans-pack-texas-streets-ahead-world-cup-semi-final": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVVphT2h5bmNVRzlnTXc0N0FPSE84LXJjbWFBeXdUSU5BMk9HdW9pS0d5LTlid2JsSWpLZEs4RmxXU1RmNVJQeUIxTHgwRDJMNkZ2dVBZUUw1NDNFR3ZkMjFPOVZLUlVGZ2UzdHZrU2JycDhzTTluNHVHejFBZEtQblZRcXFWT1Q2a0pteUc4SGc0cTFIZ19oQVpFUnFtSXdyaEdial9rLVQ2d19LWWZ0QzAwSHVQSGZUaThyWA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjNRYU9RRlA4eHJhcmVILVUxb3RhWER4U20tRExZYmxIOV9YXzhFcTFub19HbmczczhQU3V6NEhmbjQ1dmUtTnNoZ2ZpTDRab040bkFlV1RrYzh2cVA2eDhxS1V1MVBqR0ZjYnBVRG5UcHp5SzVMai0wdnF0STRHTi1lNnFZV0g5YWFWaGdMdEFIOXF3TV9Jc1dISkZFNjNCX3ZMQnJpekpCQkxqa1FxQ1BReFJzLUJBR1VN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSm1XZVV1d0RUZ01tSDNzWmVlWDBmc2IydzdER0swbkt2eHlacC1hREVrRUZHMVJFOVlOMU9KbWZlY2hielYyNFc3cTktaFdXdEZUMVNERmNYaUhHSDhfRThwekYzaTNQZkxoVmJOcFdTZHNKOTIyUzBxY1dUZThRYjdsMGd2MjlxdXczODZTX05feE0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZW9TZmpxZndPd0xDdkxpSTBrdmt2TGZjZk9LOEhWRHRGYlJ5ajlhOU15UGhqeVdCZF9DQzJpa1BxUzlYQ2tJS184Qmc4eU9FX0JVZXhvS05nQ2d1N3Q5S29fUm1HRzBVbXRFSWg2cDZYcDhNMFEzVWhORFA5N0RRUlVEYklVLXp3UDFNLVY1M3R6bW1iY1HSAZsBQVVfeXFMUDEybVZxcldHenV2WWhDclpuV0NwSDZScEQxN3BqNlJjc1gzZ0g3aVZIeU91YU1TZlNUNmN1RUdZdTBCcllVSzZ5VXNzX1ZFbzBfRDFIZlV4Z2tyc1pkLVFDSXpqU1dsN1k0OXlUTGctdkRSMFVOOWlJQjdqZG4xbVNlcUFONFZuQXZacTctejJFbTM4OXdrZUNDMzQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1d1dUFWazZSblZhRi1ZMmJjVG9MazZOMjBjRjdLYzIyajZTSTRTdlRtcWJrdW9VVWV3NWU4SVJaUk5YaklFRlphQVhXTXBKNS1WeGstSDdpeHIzdHhlUW5JTGdHc0VWbWxqVmRxdU5Yem5nSjNEbXZOMkhlYlJBamhkUi0xNjlxQm5QcUo1ajNZQk5WcGxuQXVNSWdMTHE3bmhCLWlGZWZiZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/9-eu-countries-push-defund-olympics-russian-re-entry/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-military-says-it-is-launching-more-strikes-against-iran": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2hJWlFlaWstUGFaX1l5aHNaalR3TFljbGF3Wm1RekM5Nk5oVk9xOGExZTg5WnR3WkltNHduZHE3a0l1YnRVcGVtVnp3eUFodG9pdVVoUmc3TG9VeVVwVVA1U2hDRUZyZUpENUZDYzk4Qjl3RTBtYnBHb0lwSURKLW5RR0VBR3FWcEE4dktKYUE1dWdscTBKTjN3YllWS01rWVRXR1J4UEZjT1dEQlhFTHZ0eE9nNFHSAbwBQVVfeXFMTnU2UVYyZWdvWU5rQjdyQzN0N1N5dEVCQlZNUkpHdFlURDhxRU11TFNDSEJqekc0RlFvcTE2ZzJpazNRVTFEYzE3a0hFc1lleEJmMTMwbHp6cC1yYzhnNG5OakpzelMyM3ZTMExfeEJkU0lCTkVsYnMwNmlDS3Bzc0NSVHNsU01FcmNSakswLXVsNFdLck15WDhLUjBUMGpDZGRNS0V6cVIwbFZreFhaRWJOdWUydloxMDRpZXM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTC1SNU9EZDg1UHl4QlRaeHBYeWEwdWdQOHhlYVpfNzN1OHk3b1lRV3lBNUx6UFhldTRzMFViZnRKdnVocU1VcWN3TloxRWdXa1FEbTQ1RFZjLVo5TlFWZnk4RmRlRVg4aFVua3BkQmg5UjV6SWNLQjVUT29OM2NEWjFIcHlYSC1lbFJCM0V0dmpLSzdjX0FYdUdwV3lPNVRIMEhYUDdCeXFIQWNsU2JBTW5xMllVbTRhZnNlV3JlbVY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY05Oc2NvVVpHV3NkT1Y5enJlbm41YUJ1aEpfamY3cEtJekRpei1mMk1KNWpxN0RQeHdSdlR3OUR4OEpObWVPeGw3alpNTGUzTkpRTG1HTHRPOUNkb2dBbG50QmtHZVMySzl1SWVBemJJeFYwZVdYOThwQTJOcnVpbHhUMVlSS2N3ZnhINC1nVkdNSVFSbHJqcFZBcmhMWFB5WXIxcXhEUUpxOV9MLXJBTUJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3285835/new-thaimalaysian-checkpoint-a-boon-for-tourism": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
