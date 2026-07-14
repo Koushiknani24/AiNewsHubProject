@@ -66310,5 +66310,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/new-york-comedy-festival-2026-lineup-schedule-1236647319/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/14/ice-agent-shoots-dead-colombian-immigrant-in-maine": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-executes-two-over-charges-of-islamic-state-membership": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1NKTnlHS2w4NWJnR0pqV18xLTVHRlllRThNbUF3MG1xcjBRSGs0ME16VnNrdnkta3IxelFTcW1FNVJNNkVuTEk5bFNBdXFiTmttekw1eFIxTUxzdG83WTZRUFpENklkSTdsc2VXcm5JRWR6S1hOLUFyWkpuYnRvYzU5MU1RRHdRVllILXNqRG9tbmJGdURsZmdQSVBBX29hSHRKRVhzdVZ5SDRVNjRMNkhFd0Y0SWlu0gG-AUFVX3lxTFBrbGYtQVl0MmZWYU9tU0VLbGdSRm9nTUFpd1JkczdIN0pKTThXZWxCMlpKUU05R19VaG8tQXNqVTVaU25KdkVUbTRzVEJyNHBhUXJSQ2plWWZ0bXdUNzVKSlQ4d19jbGVoSlhKbmhGM0dYYmhFLTdFVnZZMG9aQ0lBQVZQQ0drNmdwMVVKYkdGeTF3QjdRNG9fSk5Kbk9zeHFjSGpWZjAtQXpUTWN1empLTUp1U2piNXBRdEF4eEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdF9iNjRwdm9pODdabFB6TGd0b0llZjQxY3NDQWktelE1c2NnUERlYUs2TnNPc0JBaFZvWlZhM3VfRUVwTV9MZUFteVh3VlV0QVhfZi1NUGpQdEp3elpuYnFrVE9Yb1BzNmtGLWdiYlJ2THBOT3NrRmppdG5mNWFVRDcyWmFSRHJzWXJyVVpQYy16cVZKb1I1UEh4eFdYN1VURkFtQmNVanhnM2I4Y3JSLXhHTmhOMXBmSTRMZE4xam5CSlN1eGFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/14/we-will-deal-with-it-trump-says-as-us-probes-reports-of-iranian-drones-in-cuba": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/14/who-will-win-the-2026-fifa-world-cup-heres-what-ai-predicts?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbGJYT2lIU3JpSlA4d2lhUmdwSjFTeVhiS1VkdmdNbklfand2R0VlN3JBa2NZYndDNXB1cHJ6Rmw1N090cExlbnFtT2ZaTHVSNXlkTWNMZVI1cG9yNnFlUzVlU1VET1p0RHRiYnhwMEhVWTRpWjM2NGF4U2FnLXV6NjFzS2YyLW9lR3RIakpWWWUxbDEzT0x0SzNwOWVTMW5kWW91QzJCa0Y1WXdyZGtLUkZXYzFwR042LXV3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3pfNlpadmszaVJxV0p6QkhaLVRBWFlXaGRVYm5LakUwRW1xUDY1akNzMF92dnh5cmc0enR0aGFtUUpBWTBlMThjNGtwb2NMQUhiOEhTaTNXWXJfV2NTTmhvVWZyY2FCbFlYR01VSDk1eFc0TnIzWUFlVDUtUUc1MUhwemRxMU44Y3d6Q3RQU2JrVDEtazVNSGZKTklvYjZi?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3285775/pub-inferno-death-toll-rises-to-30": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMG1ISFducWNMT0NWbFlBaGU2NmNDc2lyV0Z2S2lZR3VJU1RiNmNxamF1UTBzX1VLMmxqMTRUUkl4d0pJWmEwZFVsSFdpNkZoRGFNeTNhUmtER01La1pXdGF5TmtqSmJyM3RHUHFDWTZnbGxOQ1VEbFB2cGlfZ3d2MjRDMTUyWUZJa1E5cnR4ZzdRaFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTi1lWGhCMXdKTVpVa2E3QTZiYXpXMkNVdkRUU242cURQcUVWX2J4SjFndVJPazctNlczLVR0Z0RJVS1HMTF5ZDN1S1RidmxUY1AxRFRLb20zYjBSaUczdTNBWVh1THZHYzhVLXRNUnVpLTF2R2YyQ3B0N3Q2dDM4OW5KeEdmbjlHeWJfUHZhMkJ3MUVrM1BDR05VNEFhaFpvckwyZzk2Z1lucWF1dHJGdzNGT0h2bVRqaU9VSXhtUnM4YkhheTgwSWxpdkRNVXNtVkd5c1V3V1MwaW85bFp0V3JBTGNyZ20xeUt30gHwAUFVX3lxTE5ldDM4WG5qMllaeEtxUDc1a2hBMlFHMmVucXNyckNXdTJXc1dkRlZNd2p0VGE5RndFWVFRU2hqUUhGd201Z0hfV2NwNUpEaEFscnJWQWpwaGpUeEx3NndpYTRpTEhmcVVsVlBjSGFCRngwT1g3MjFkdTZGVGNnTGhlbUVoN3pJZnd5UmJCeHNoaDJTb1V3MF9hSFZSVGRDang0djUyR0s2R09qXzdkMWZkTWtNT29sMlpkZUtWNFd3bjlHamJBNEw0UFVQRWRIVGJQNTZCMldUdXhuNWtWM3ZZYkd4MmRGVjBWOEpIZ29qbA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmNoQVZSeW5KNWROdllua3BpNmdiUnBkTmJxbWE4eWFqNUtzQzZycnUtZ21HbXVVZDVQYm9WWlhQWU1wRzJNZlJCd1BRbTl5QzhxX0syUTBzNDJDTC1pclRndEZVaGFQM3dmaW1RUk5jR3lwRXpRSGJibmxnZ0lBRS1aSFg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRkFIX0duOUdyYkljb0JUbjVIYUV0OUxvVjdxLU1LR2NFUnZFZUF3bDFZMDN6dFNzb29sYkk2MlVNaE9BME1LamtuaVc3aGF0U01QQ0EtUTc1eUtPdWVMdklqQ1JpUHhvTThYSEpzdm5NWjl3Y3NUYmNGVjFOWWhjeDdvUzhnOTI2UFZiSFNtNlVXdmhaaVNVWjFaMHRvc21yNlRwSnBVeFA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/14/bangkok-fire-death-toll-rises-to-30-as-police-probe-possible-negligence?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT3VCR05PbEhQWUFKT1FYaGtQdTA5d3VvZEg4N0xhaEFNV3ZlYjYzNUVGcWZvN2FEU2k1YTJlV1gyQUVQOExPb2FWV2ZQWFRxRjNwUUU1em5zYlhXcHB6Q0J1TV94TmcwTXk4Q2ZuSWpqOGcydTBfRzR4YjhXWTdWeEFKRnFCUk5idUd1RTNwZUdVMmpMU3YwWUNnY29PWHk5cEttOXk2VG9sOFlTOXBLVHNn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
