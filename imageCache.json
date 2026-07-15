@@ -68590,5 +68590,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/15/trump-dni-jay-clayton-senate-2020-election.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/football/england-vs-argentina-fifa-world-cup-2026-semifinal-live-updates/article71227180.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/white-house-weighs-releasing-controversial-intel-on-china-and-us-elections-sources-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/eu-chief-announces-drone-deal-with-ukraine": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tNjNmMC1obnB0Q2p1TmlyTk5XUkVMSW9ucmZ0T1h5YTZmdzVJQ2JFX0h0UUdFTnV2R2VHMXZsZVNmRWtzSkp1SF9oZl9MdHNNemlVXzA2S2Mwb015bld3bEU3RnVuYkVURWhCbjA4YkZGNURQMWhFbGtSUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/15/fourteen-year-old-boy-charged-over-alleged-plot-targeting-london-mosques?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-us-war-trump-strait-of-hormuz-persian-gulf-strikes/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/netherlands-records-900-excess-deaths-during-heatwave": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdzlhNTdLRi02R3ktcDI0MUo2eEhJRW1iSFg1NnRVSzJXUDA3MzNtMTBQeTFBcWttOTFsbVpaSWpKd1NXRHlKeGY4ci12d0FENWkyMnVFeUNDZElQbDNyMjdKb3k2UTZ0Nk03dFdpSklhbFc5NWVJVXFuWVREc1pqVEctTl9LdEw4UnBsNzVNY2xLbEw5aHBXZFRXRGFoTlFKakE3aVdoWnEyT3o1Uk9uNkM4QXpNM3NHYl9IYnJhWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYW1BdjlzNmhXRVVpeE84WG91bkNJRGo4N1hCQmI3ckk4UGxMd1JjN0lQRkZGVG9MbVFTSmJxSFNjVS1oMHZKZ3pac2ZiNFZXVnEtV29neTBiNzZOYV9OODlXQWdqaFlvQk9RYWxuVXNFWm9DTGxTMTJpT0RlaVJBSHlYYnpYQUQ5a25NeEo5LUZrRDB6Znd3d05FRGhRbkxxTC1rc2RyZVNFWFB6SmZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/15/argentina-fans-flood-atlanta-ahead-of-england-world-cup-match?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
