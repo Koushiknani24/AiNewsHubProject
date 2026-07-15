@@ -67816,5 +67816,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/15/stripe-advent-offer-to-buy-paypal-for-more-than-53-billion-reuters.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607150120.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/15/nx-s1-5891559/morning-news-brief": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/why-investors-are-fleeing-one-of-asia-s-biggest-economies/a-77847180?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWgwd0MwVHJndUUwanpPbDdkNzgzVHRyYkxNWXc4bUNYRXplampvZnRtZnB3NWtnb0RxM1F2SDRPREliV1JyVnJOcmNoQWtvd0JWRnpzT3k5T1gzWTFyQ0JYZXVVVE9wWXlLRXVNNlM5cld5LXZONlFCUW91TzNnckd1eXRXT3B5NXZPVng5RGR3Nk9vQmpodXJWS2RBaENL?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607150158.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-war-washington-strikes-tehran-donald-trump-peace-deal-strait-of-hormuz-live-updates-july-15-2026/article71223849.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxONlhoeUZsbHJUaXdFc2pJS2p2QVR2bHZUbUhVQnp2SnlTSUt2RFkwYThGeUxVY01MeVAwTGhGUFhseU5PMTBvSHA2TjlHOTdiWmVBbC0zVG9BUkdtMkZCZk1tNnc2UkR0TUY2c1VmWmg4VF9hbFpkdXpBdlI1Ni1EMm1ia1dYckJra3JkUmQzSkpCNnZC?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFEyN1NxTHNCaG5RT2lOTWY4WWxWd1JQUGpLdV8wY3J0RVp3RmZaN21hcm9YX1A1TWdYc3RMU3BKNV9rd0tqdnM4SEpmamFRLXJIU1NvdnhUYlo5WDFnb2dPY2JfZU5HXzBMR184ei1kSS1zeUthWmltb1VzZWhOR0lCX2FlR0NXSGUxY0gxbVJTVkw2RFo5NnZSVXFhcGYxOUhOS1BJU2gza3VYY3VHT2JEWVV2VHdCdDdmeTRyOElucVF4Mk9r?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXotb0JPaFZzQlZnbE42MlZZb0E1blVIdGFob3lQOTcxZUhqaU9Rdm5WYXZJZkYyV3ZScWhhclZxNmdWRi1xUE1OTFNEN0t3TlZ6YVV1TkFqUzB4cU1QV1V1c0VuYVpFQmlhMkY4SkR4VWM1cHNObU1SMnJkRVZ3dlB2MVlBVWlKRTA3TVRkMjEwM0hhbHU4NTlB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40YjBfeHBBWWpOTFp3c2hEYnBSS1JGT1BiTzdjWlFlRXVxbDVwN1FvUXNMbi1heWpxdU11c3dwampiaWN4MVk3LXhvQzZla1dpZWxnY1Jidw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdlFTcE5oQzFjUEFlUkE4R3JOdi1tU3FfckF6c19JYXJPcDBULVY3bzUwcGZCVHZvTzBPaDl0Ml9zeUdrX2FmVzZyNnpXYnFfNmtKZ1o2WExkbmpfd0o0X09raWVFLWx4M2laZnR2OGh0LUVOXzZBS211ajlCcTI1Y2ZWLVhhTDM4Q1JVbmljU2pVTkFBOS1XVl9rWDdyaWdlMlBUY05sc3lTWURvT2YxZ2JsTHhKVkxKR3FJclNYaWJfeERPRVZWUWZlcVFEWGstU1dDTm9tYy15Y2hjMlllVS02eG1nS1BnYzc4cldyVll3U0RrdTd0Z0xYTEZyMFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/palestinians-in-gaza-stuck-between-hamas-and-israel/a-77956421?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwJBVV95cUxOZE11RG45QU1fbDRpODV0bmQzT2dSWGN5aXd3RHJiM0lSOHdseTgzcmNqWXc2aVZjal93UFJhRlhoN2VqaXhPWTlodjJsVXVya3dyYU5tQkd5RkpHN0hmVTJBSHBKOEEtUVlWUUp6SVJJaFhYN3JMaHNSVmxiVHpKWWEtVzUyckl6LUlheE5reUJMQW5mYm1Dd0FrLXA3SlFWcTFyc3piTUJ6bmVKdVY1cGVwaGZ2SXdDcE9XTHNEb0VoYjBmYUR0cWNyMVJkX3BnbFpFUVNfV21IOWxMcWZFclh1Z2J0MUZ2TkstcFRFNll6a0YwdnhYd3NEbTlsYjRWbHI1TE1tblJsT1d4MDJsaGY0dTlndFd5YjBjR1plb3ZGLUVVY200?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZks0QXoxX3dwdURtVkVUMEZxOXlPbnBycWhzMV9IYzZHbFRiVV92TmtVSy1iSFlpcFZnN2N5WVBxX1o2MzkyWG4zdXU4UWdXb2ozVFlURnpybHRta1ZCOHVUTmxNMUNDcTBiY0ljbm9La3BmcXhSNFZFR29pdUNYSFNpcDctampWNDZ1Q0cxYnJzcHZLbmlYNEwzTlcxRUFQN0o3OGJxcU91QmJhZHA2SjBidk1PaHJ2WVRtUW5PeG8tYjdsWEtkLVNmeUlqMmVsQWxzUUtGZjZFT01JbnFZMlZ5MkJLVEtTV1VNOFFseGluREVFY3pjT18xVVJMaEhZeWpv0gGIAkFVX3lxTE9maG9KdGZZVm1vM1NDZVFnUGxNRVR0S3ZJYXlIUzB0N1pSOXA0aElWMFowNm9fdXZBTFNSODR6YURDYlVXVlAyVlhERjJSaWVZbklnaTlrSllxYWdGSm15U18wWTZCWkNtWEJQUTZxWXVWekUtMmRaQkFnNUtPZHo0bmVoel9mb19sdFd5WlVxcm5hSDI4WG5KaDNpLWxXZFJVRDhmTERwY3U1aXhWSnRtdHlVaEwwb1lMampxbmxTVmFmUEZKX1lBZ1drTEptZkExdmI2dElPcUtUaFNsMzM1T3BZU2lnN0pxR0cwZUs2ZzZzdEhCQzVsRzNiNzRYRlBLNFVaT1RELQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/2026/7/15/video-world-cup-2026-highlights?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
