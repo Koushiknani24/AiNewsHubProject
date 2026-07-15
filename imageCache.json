@@ -68872,5 +68872,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/verdicts-awaited-in-trial-over-italys-genoa-bridge-collapse": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/tesla-driver-accelerated-into-house-in-fatal-texas-crash-ntsb-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-15/li-ka-shing-s-cash-out-plan-sets-up-empire-for-leadership-shift": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1JoMi1HRk9FcTRyRTVZWHQwbHlyQk10dm9WQm9GbEdMVVNfWE13Zk1VWWE0UVhkVEZ3VWxZS1VfaWV5eGxnUkxzOVV1T3pWMExUQUxzNjdCOWRzMktQbHJ5NmU0N0dzZWdNN2lRWF9obV9YN1hvV0VYRVAtTzhicWVUd3VyMloxdGJZck1BVVBhdGZoWWZURg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BbG5jLVZBdFRBX042T0JmbzUtbkhfWUVvd29nc1h4bGpNbVNIVUZiRnEySXF2UG5xRkV5bWtDTUtNOW0wSWU3bldSMTBGMU1nVGdZSTktQUlZdFk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-15/gold-steadies-as-soft-inflation-war-risk-cloud-fed-rate-outlook": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/englands-bid-hang-blown-apart-argentina-masterclass-6257116": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOTZOd0dMYlpDZW0xM1dUOHhHZlA4STRZRjYxbVcxVFdodEFtQnUyN3RiRFZvMlhINzdqcWxvYW51ek5fb3pMQ1F2R1RPYi14NDdnYlFZR3lLcDNZSkVlcW9HWV9ZWldIOXhTMm51SDZOVXhXOWRGT3djYlJ5bmNrUlNCd2JLZjE3VXZTOXBTb0JkUXVYMGJrX05NSHc5NHk1N0d4M0x6NGt5TWNtbHJKU2hGU2tCbkFBWGNLSk5RcFkyV1F1dHowRDRjUWNicDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/no-goals-messi-team-man-comes-through-help-argentina-another-final-6257111": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVEhYUnV3UDE1ZnFZMldKb1VXR1h0akFPeWlBR2EyMjRLZG1iOGNzNTlYelBka0VRZE9lTUp2RTZSRVFhYXhCSkZFYzJuR2xWMDNDVVdhYU45NDJtWWhHTjRIZXlwazJLbm9BLUNpN1Vtd2k5VVVvUm0yVzltak4yY3pMZHQ2ZHJJVzNsVHRETE1XZklyN1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSUM3RnBYRmMwRW1nOWNQZDltclhnd2hOVkZodjlvVEpJQ01QYmRWUGU3QmdVbHVacmFkUkdOZkRxZ3k5WW52TjV1THdqbzZpdmRNZ1lIdEVxNENIeXhYMGE1WHQxeXpMWkhqQXNLcnlGeXVUcVV3akRaLWRHV1JfeDFXenktQUJDWEUza0tfMmZNQnViSmdMNnRkYnk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUW9ZemtIcEpOZGtxdWlraXZkTmswcWxFY3NDQ19ISGYzWF9wejhnWTRrbGFIeHV5YWtkYmxBY1ZxN2xpWFpCMV9GYms5QWFZQlh4TW9IOUxRQWluelFsR3BwM1NsWWRpOTNybUEzQWR5bkp5dFpHRE54eGY3NGRMa2FYdlBacW5FSHEtYko1Z0c0SmVpbjBKeHA1R1FEWGJtc0dFYlRyb2djVEZpOE5XR04wdHFLRWxNd3o2aw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-15/bhp-s-iron-ore-copper-output-slip-as-top-miner-plans-for-growth": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
