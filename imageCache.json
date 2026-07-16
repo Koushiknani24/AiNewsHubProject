@@ -70234,5 +70234,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-16/latest-oil-market-news-and-analysis-for-july-17": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-security-cabinet-dea-directors-claim-connection-cartels/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russian-and-ukrainian-attacks-kill-at-least-13-officials-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/france-germany-talks-emmanuel-macron-friedrich-merz-pledge-momentum/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/us-names-2-more-mexican-cartels-foreign-terrorist-organizations/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHhxZ3ZKR0pPZC0zdlJDN3VlM2hOQW1kclFMOXlCRlhpV1dUZ3h3ME1rdVB3ZXZTU2lKak1BZmRtNXFBaTdIVS0ya1hFOV84NXBrUzh6b2NMMzBvTnBPTDY1YnZzY1E0RnhIeHRHcmNFWVRaS2lSck5zNURvQktkNUEwTXo0Mzd4M3ZkWm0zZDJ2ZmM5eEUyS1pB0gGfAUFVX3lxTE5QMDdBZ1B1RzFKamRBczBxSEFPTEdQOE1pQWdVd2w0aE1IT05oeEJUZ0RkMUlWV2t4LVhiX2ZWSUFRR200UHNRYmpGUS01VWtjY2k2N2ZQTnBiNGZRalphXy1CQThiYV9BQ0lxLW5sUWNBVC1BLV8xMVJsbFNNVGxqeFNyT1VrRTVmY0s0aWs2blFVSzBzU0VBcGNwNEZCSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3286984/oneam-moves-to-sell-disputed-hotel": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE9GT3FJTy1RUkQxSk45WnlQWlVUX0pacWl4MmpGakNaLWRNOFdBWE9rYVlQdkZvaXBISE1wWXNLZ3NWTWxYeGlBT1M0UnRoVnVFRFdoM3p0aDZ6azRiSzFEdHRPTnhUaEp1OGIyOU1INUtBQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/mexico-in-numbers-mexico-exports-us-china-canada/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/16/grand-mosque-of-paris-celebrates-100-year-anniversary?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
