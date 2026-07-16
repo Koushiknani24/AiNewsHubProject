@@ -70174,5 +70174,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wUlgxMUhObHJmLVp6SXZ5dDdCZFZXRnRleGg3STZWelNsNTNKLXFoaURFNmRnZnRTZ2kteHItLV9FaU5hZFhnSXlQdmhWMjk5dXUxRHp5SHNfMFdOV3JJZERWNWxhMGVTc1VtaW82Z2otUzZ2M1F1ZGdmQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm1CZE1BRWtIN0xJYWpaOVlZdlFFY3FoVFNsLUt0M2tnYWtYOEpfcVFISnpScVlzeTNuZ0xWRUkwcm16OTVWWXpCUEJ6YTJGNDlmdHBDZEFIME9XZTVBQWI5V3ZqNU1na2NaU1ZHazNmZnloVFJkQWJERFJnbzlRUHB0Rm9jVVJFUzY4SVVzdWNSaUxFMTVPejhEcVBhYUt6N0sxekk4VEdkdzNYeTBXdnEtVGtxd1RtRUZ0Ry1wOEVvUGwwcWVCWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLWplUm1HNXlVdmVPaGE0OC01MGp0UGxXckd6YUp1R0VGUnVWSDExWXg2QVJSdU5YbEpudEcyZmR2c3lxZ19NZmNKbERZNEtxLWVBMS1BTi12MEwzT0c1TWpEWjhiU19PaEVJTllIMGxNcy1nWHN4ODFCTjM1emN4Nm9OV1NPRWdwcXU2aQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/icc-staffer-repeats-misconduct-allegations-against-prosecutor-karim-khan-in-tv-interview": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/un-experts-concerned-by-trumps-removal-of-immigration-judges": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
