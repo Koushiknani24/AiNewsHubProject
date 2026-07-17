@@ -70414,5 +70414,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/texas-flooding-kills-two-as-state-braces-for-historic-rains": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-17/thai-stocks-go-from-worst-to-best-as-funds-eye-further-gains": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3287049/gold-prices-face-turbulence-as-oil-fed-risks-increase": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BNnYtSTRXTE9YLW5FNG1rNmRDNmptbF9DRUtmMlpjem1LaWpUdDA5VVZUUjNDUTdJeVYwcWtwRW00amYxU2pmN0ZXU2NDVFlJY0VXLXlBUUJ3SzFZOTlmdXhYWjk4UzlITDJsUE9ZX3BHNEFqbHhr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexicos-cuauhtemoc-sets-sail-for-us-ports-14-months-after-brooklyn-bridge-accident/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/disney-nfl-champion-apparel-line-launch-darth-vader-1236650447/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/16/venezuela-earthquake-number-of-known-dead-rises-to-nearly-5000-victims?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/trumps-championing-of-debunked-vote-conspiracies-casts-shadow-over-midterms": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTc4SkhCS2RLN3JoS0dxZUFxNHV6aDR3SW12c3E2LUZhVFFERGpWSjhvbXRnWVI1QTZmWjAwSXAtVEtrRllOdmRtcDhObDZZYlNlSmEyNXFfSEYxYURJelExdTMtX2tOSENUTUtHbVptWWg2ZjkzdldGOGV3YTBZem92LTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/16/vietnamese-activist-places-rare-national-spotlight-on-gazas-suffering?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ2d0aXhROFd0RnZNZFZXLTlOWngyQUZYel9RMGdZSERTY0xmYmxnaGVCZzM4TXdfTUxZSllQSW83X0JZazN6X2JJSzFtTEh3VmM0WWRIbEMtaUZ4b3Yzc1ZQTlZtOWFHaEp6M005MHNoWDl2eU1sODRXbXJ6UURBUVNueHpxRlJSTHdVVVhlREp2SmhiZ0lTdUlmdTlJZXV6c1ltVFRhdFdJWWlvRnhkcmZQaU5MSlR3S2RGTVd2Zm44ajRkNGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
