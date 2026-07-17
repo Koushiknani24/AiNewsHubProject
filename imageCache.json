@@ -71812,5 +71812,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/17/cyclosporiasis-outbreak-linked-to-taco-bell-may-not-have-major-impact.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-and-iran-attack-infrastructure-raising-fears-of-escalation": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-17/baker-tilly-eyes-3-billion-in-debt-to-replace-private-credit": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/gaza-officials-say-several-killed-in-israeli-strike/a-78014902?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/former-baja-california-governor-ernesto-ruffo-arrested-for-organized-crime-involvement/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3287640/new-oil-rules-to-elevate-output-energy-security": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc2hya2VEQ01QRWwxa3NXNXQ0YTY2N3JPQmNCbmlRS1JVckNta3RfWU9hNWU4UW9PYWhHc0VFZ3FlNjY3TnlFa0pqaW5VbU5MQXhCQ3VzN0hIR0UxaVlYaEpWMGZJMG9VSDdDcXB2ZWdrSUpDMjE0N2lVelhOQ3JEdXhMTkRjeXZJVGhhR21BVTdDNGhza2fSAZsBQVVfeXFMTllCdnVKY1NPRWVLZ3FKUDBkQ2lITVVJTVB2bjJLQ0FXdlJoNGc1N0t6QzZBY3BaZTNmRHR6elVYVndobUxibVhGRk94U2o0WE9lVngzbUtsUU9QYUx6dlIydFhlcVBUWFlZMWVxM25kTWY3dUFodlVvM1YzWGE3bEJyRGQxUEI4RUw2dDFRTW9sT2Vqd1ZIelM3ZTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaUhjVUFkcEZDQURCelRCeGNHY08tTUdIcGgyVFZwX3R4LTk2VEFIUlkyX1B0ZGllUlVrR3J5NVAzV1pVUmVsZzN6aktXQi02SFNhZk9wd3J4UmhYa0dBbkZCaGxmQU5DOGNOVUZHOUFZNUdPdFNOZS1jR0trWDgzdUZlRFAxdWVDNWfSAYoBQVVfeXFMTmRUZHIzaWhCQ0RYZU05YUdBSEN1UkRYUFE2Q0UxZE8wYXlnZ3ljcU1SSk1kMzJCNzN2MnU1OFZjUU13akt5YjRBMEpFRFZZNFMyTDhpSWN5VFBMc2phcEVva2Z1S2dBa1hzSy1JQnd0LXZDVUlPU2NNdlE1TlFyWFVmcUdsZFp0N1lR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0NjYU9rU2k2THlHX0dfdDZTcHZLcXgwTnR1MHFzZVlLYWxkcjRKUWFSYnZwZmRLNVBHU3lsWkViOTE3T0V2MkZUdkgtUERRaVNjV2tZdkU1OG03MTJCdDRfR1h0b3R4TFM5OUwxRkt6enRFXzZUZm93R1g4QldtODRUTUNRZE5RT2FrMG5mQUVvQlRCX2FNVmpWQWZST09MX0JOZUNn0gGrAUFVX3lxTE5uT1p2YVg1bGM1R1FqVEdsXzVidzZQTEYtdXlhUGZEc2JkS2I3Q0w0Mk5HTkxWUUFmWk9WVWJLWDBqVHdCeXVLbU5jcTNzbkRmbGw4eXNiMkdncHlsYWZSWTdBeFZzdGZoSkgtLUpuVmlYRTc2ZU5WV1liWDRyTjIwcWVZd013TTJPbTRrelBfR3F4Y2liS0szdHpVMzQtc0ZXSzU2QzZRS1owRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYWxKZ1JCU09mTXRoUC15cUp6MHNqWXNvdTFJVWlYcHlxZ1pzOGI4bGRKOW5rSlB0QzFxY1hNR3k0Sk9aQlhoNGd4a1ZVbTFWTExZOE5xNTBrZHNETGg2d1E4MDl4c3VfWW5jU3dGNjFma1QtRGRWRHdha1c0V0FpdmZ2YXptYUFPbnZ3eTFGaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSFNaQ1FlN2J0dERWVDkyN0JTVG1oNHJpZ1VBNjlYeFFxN2RQM0xmaVFKak9ucjkxbk9lYWZiRUtlbkxSWW9zSWluYmp5bV9EcUdtNTgwNnZTU3dFelBmQVJiaTBaYnFJSERvdVJnQ01CODN1b3gzRGw1Q3ZSV3JtbXc1VjMyelRVOUpJX0pocHJld0s5SWR5RTRDNVVDMUV2RDBFYQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
