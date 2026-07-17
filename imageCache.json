@@ -71488,5 +71488,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/07/17/business/boeing-turnaround-737-max.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/zack-polanski-warns-andy-burnham-labour-party-green-policies/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-media-pitched-100000-monthly-fee-for-fastest-feed-of-us-presidents-posts-ft-reports": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5RGZpUW1MU05oZmlhQk9fdzgta3lMVk5WS004bFRFTjNfZG5HWW9DbnVyR0hsTTdfNThlZFJXMVMzeWxZQWJtdm1ReUJWcndGOFJlTFhrMzJRLXFNcG8wQ3JUREdjQW1SRkxFZzJQV3cxUFk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TQ3ZkU05rRlQxcTVlZHZWMW14UnN3QnNXeUpEVDU2Wkx0SXhjUEdZLUo4X05vZ2ZlWExiMktmZ1E2Mi1yTjFOVnVmUlAyenQ5cUpPT3diNTkzRDRSdXJ1Tnl4ZjdWNHB1SWZrb3dGNEtyVm1m?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM1VGcUNUV3BkNENva3VkckIzSEoxdWptUTB5c2VBRHZTZVhLWG1WOURFQTRmVjdvWUM5ZWRkOTBkdl9ISV9QOEdLRWZ5ZXF3eHJnZnN6RzM3T1MyajQ3Z1dZUVBGN1pOdTIyMWJpVVdWU1p1SWlPVGVUemtzZUFROXkyOUV5M0JSMFZiT3pSZEJlLTNpQVZLT0Y5WDV4LURsTUROZkY1Wk10SDQtVkxKRlpodERWQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWFR4SUx6eXg4enZFam9VQzRnbF9WZDBKdHNvVFU2VnNPV1N2dG40d3YwdU5Ubm5WSEx1TFBiT0FuRWx3RGo4MGNycjNpYVQ1SzBUNkVWNEYtSGw5UnhBb1NtX0h2eFpobjBQVjVoZWJEVG9oMHBmNWVLemdXY1hka0x0ODZfZGs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/queretaro-stunning-american-tourism-opinion/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0I2QWE2VG81R196RFJPdmpueDdyX05QbkxzbDhOVVBXZDRYVXpsU202RmVPNGtobW8yTVRSOFZaQ1hhYzBhWDVsaFByUklSOG1QWTFEcVNud0dhVE1RemJMa0EtSVJ1UzNXTHVRX1ZCaDBxbFhrSDM5TTdJZmRKdEdsMFZONUhWa0NXeQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/emmanuel-macron-friedrich-merz-france-germany-eu-economic-deals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzNtQmlNNDNTXzN3Q0hnbEQzaVpWNHVpNlc5V0kwMVk1RlZ1ZU5ibzM5bnpNSnFEMWVPWTlRTkVFRFY0a2VXRW1MRUM4ay15YVRyOGFscDdYSGRqQWlNd1JNMUdLSk9WdDBzZjhnNWxlNGVJVGNQazlsSFFCOEUxZWRZeEI3V2F4cDdHUEN5NlJOc3Y4UXFJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXVvLTBxWklNRDU2M0l1QTZhUmloM0xqbFM2RWwxaS0yckJVNXZTbkFlZDBQUHZHbDVfOGRDdlNlSDJQNUg5VnZodUs5MzdsUjQxZjFyZl9LaTdBbGhxWU16dk9kRXFKZm9OblFOX0NKNWdweGI4UXNLb0daSjNzdGVmZFJzRjZHUzZFWW51OFhXVjNpeHk2SUs2cGhNeC1VMWxsQVNjWkIzTlFBTjhiRUlrS3o2aDBWb2dCOFlHMWVBMFdt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-threatens-to-revoke-licenses-of-us-networks-for-not-carrying-primetime-speech": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
