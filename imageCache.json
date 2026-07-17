@@ -71374,5 +71374,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/why-love-island-usa-not-on-dancing-with-the-stars-1236649740/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-07-17/why-the-moonshot-moment-may-not-be-a-deepseek-moment": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/earthquake-mexico-guatemala-tsunami-alert/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkwwZDc0NHJiR3JJVm81WVpWY051cGlQakYyM3Q2cmJmZVhVNUhQRVd5R3lIVVNqYUo5TWJLXzg5VVBmY09iYnhTUEZDUDdmNEtZeTZsdWl4R2xWbV91R09zd1BkaHpscnpiLWFvZjFqVzNiMFZXQU5tcWFIMlRPYjRrTzZhZzhlREFuS25UVnVKX1NadmpEbU1CWFZlbngxbldVY29LUmRPMXhqU1VQMG4xbkRDbi1SVHFDWXFMQ19mdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/wes-streeting-tipped-for-defense-job-under-andy-burnham/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/leeds-sign-defender-tarik-muharemovic-sassuolo-6261811": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xMEZCTkExN253WERmZEJxbGNtaXpZSk5IdzZtQ1hscnl5aUZjMVQtV1llTUFDbGo0aDNtQmhxOW0tdlAtOHd5MXJMVk5PZ1hfaXQtN1I5bTNJUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE00S3FRaFB3N0NuaVhNdVg2VnZ4b2d3VlROVmVocHRDVElFNm5PRkMySFlIX3RXSGlRQ2p4b29JYnlfM2U5VUdmWUZwOVNZbDFPMHhQVGxOUllBemM4VEpJQi1xZkpBNmZ2ZW5id3kyWUUzMnRwaFcySXVNQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-features/gracie-abrams-steve-lacy-beabadoobee-songs-you-need-to-know-1235595178/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFZCak5zMF9wVmIyN0RUWFpTdEVlZjljaU9yRzU4QXNtQnlrZjVtRzJJWW5Rc2VwMEtBOGh4aVp1SHJZbXdhY09MVXFkNDJjR3NPVWRoVk9VMXFTSVdvNmtPWDJNZmhpV0tsTmdkMkYta0JpdHBrZEppeEYzVVZMTUZrUkxEZkF5RDNSdUl5WDVueTVfcU9mTnM5NjRZZUxHX2pxUmUxZWJJaEROTFd2bXRnTVFidnV4UmZOcDJYV1BOalVXbkNidU9sZng?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUx2ZlNucFBQZUVyMDFFc0NzNTFfalpsV3NPZktxTTNlcDZBNVZvbVhGczRNXzFYa1NEMzE5WldEclk0Mjdoc2JsQy1UWlhkQmRVTzJjeHVLWjlZMUtBQWhtLWk2UEtfQzJNd2FybzN1QTI4VTVnZkRCSVdfNFQ5eTdrQnN1cXA3cl9JNEJjM2UyLTZJMFZtalR6MnhiMHN0WkF6dnFGcFZ4U2NZdjR0VlVfbGV2cWhkUVJnNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXhTeDRTQkFuclUzUENHMGFOUURyUFdWNWxETXg0dzVKVWphNFo2ZWExTnQ4eUNqdWN6d1RzZXRlSWtmbVFjSXFHS2Y1VVhJam9ObDJUWVJJUW5oTGZjbC1Ga2M3dUxtTE5DUlhBTDFVTjRacEFuckpIZVEtRkpXYVBsZ25Pd1ctYy0xLWRKUW13eHNXOVppUVYxMFgwQVVLVHZTQWtOWEE4UTRJMUJZ0gG0AUFVX3lxTFBNcHo3UDlnU3BrZEpOb2I1RDNaaGZwSjlVanUybEk3U2oySGh2WVc2b1JRT2tDODFWSG1vY2pnZzIwWHljeG9ZTkd3aHQ2b1U0Q0Fvc3B6YThoV1c0QlpSeWt0bVpwRVJDZlA3eTlRemk3VEZJNWxtN3FvMnJPSVNadDlzVVowZUVDOExEOG9oX2lzTEoyamZXRTE3SkJfWEwyLUtwMnZHd3hEb3hJT1pHZ21iVA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1NoQkJtUEpjT0p6X09mb0VCbzFzXzR2dFR6TkJ1eVgwVlhOQl9KRDRrSnZHTkVVS2JPUm0tWW9EQzZISWtNVjVtaEJLdUtMMnd6MzNIWUNvOWxybi00SDV5NDNFUExJLXNNdHVZRDB3VUNjZk1ab3JxQzNQaXFuZnFacC1tOGJDaGZXUXgxTnBCNkNpOFd5RDBndEE1TlZweVRlbVNLLTFncXpraUJPZm9qejZKTjRrcFBKZGgzdGlzd2xmaG0zdktnVGNPeTdiREN2RWxwS2c3TlVKQWJ2RHI3Z9IB6AFBVV95cUxOT3JYTEpkY2ZFM055VTV3dlN5LUNQa3Y1VTViVEpwc3Nmck1tbW9qNmZ2aVBfSjBYNXpVeWt2X2xYUUdQZVAtZWptbzA0R29yQ2c0LUg0cEpxWHdEQUdneTRDYklLb0F2LU1lQWUtSzVhbzBTZHFZLXdJa2ZuQXI2aTlmRUx1LXljOVlEQjdVQlFTWlkwN3AxTElTWFczLUN0LTN3UFVHYkhDSEhpQ2NKNE9Yd3pNMnpQRUZXbC00NkxJLWQ0N3pFb3Y1eDZoRUxPbndhUWY3VGFJMVBPR2VETGh5Vkt3al9P?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE40WVFqRWR4UmN5bWpxVUpybURkRzUtdnlfNWowZFdqR0J3Y3BxT3N5WXpVYTNTUnV2VWZyUFg1RVBpT2pLRm96X1dDeDdzVGpZeDY1dWJGdEljZmg5Z2JSNVd5OGdIS2hDR2NlSnh0N3lDWkxlY29fUmJn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/why-the-us-is-going-after-the-international-criminal-court/a-78006596?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelRWbGN3SS1oUENudWJHMGU3Tk90Skowd2ZjLWplRUduVm1DWjRJMjRReTNEeUFWUkl6ei1wNXlhck1Td0tVeG5MbDAzYlEtbFRDdUJFZ2dGRWNaS05Kc0prdzBxenpLWXhmVkZETzhaa3YwLW9HcXRIUHRiSmJNWXRWZHk5QUxXNG9SSWNURGNlN0gwX1htaTdMc2JBY3NpOXc2Z2RNLXJPQmFp0gGyAUFVX3lxTE1kaHpWRzV3VV9aTUdVRzFSUDBhSml6ZlE2WnNaM3JHT0NBd2ltVFp4QXdfdG1tTDZ5NjZ6cnJGeXh5bkxnWGs2S182cDI2SDlJTlA3MjB4dkFFMVJnUGh6QXFGZHNKVE9PaHVWZnBoQVhuR2ExVWRTb19YRjEyRFZNZVlWakVkY3JnQWVXU2ZkbDBtOEF4dGt3YzlGN3p0WHBVQzFzQ2NycDAyRWhNZW5NaVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/7/17/apple-regains-top-spot-as-worlds-most-valuable-company?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
