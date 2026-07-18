@@ -73114,5 +73114,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/18/drone-video-shows-scale-of-major-wildfire-in-northern-spain?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUEVVZG9jUzU5Z240Wi1uMXFRblBoQnZoRXI5dnRGUUlzaTFWallQLVo2czQ3dmhVUzRjY3Jjb2NYb3VUZUNIRlJaamVtUW53RFp5TmFTd0FIV2hkZktvYW5fOEtqVW0zS19lM01KOVBOQ18zVC1OM0NKWExPSGtING11YWhCN3ZqNVpFUU42NWd2MEg4OVY1YzJySkgxbXRFQzFJSlNHczB6SDgwV2NHUTQzZk9CRVlia0cw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0c4SEkxQk1hblZwRWJtaW1HOHNZbk5YRFh1a0Z1dWMxVWNhTW5Ob0J2UHZSUEJ2SXpHY3lBM19ndm00MFpNYm5ycEtSaUMxQnhUTURYel9UYTEtSlJWVVRITzZCQUhnQzc3X2g4V1l4ek9zb3dOYUNsZ0xQd1hFeW9TeFNhbm5HUHUzUlI3TDVFcHhvdExSbWVoYUhHUE3SAaQBQVVfeXFMT0Q1SnBrakF3dFNYam9vU2Z1c0lUTko2MEU0XzNMNDE3b3lPbXYwbmIyMlpMUmhhQnR2d0tBaWFvV1Q3V3psdWRHZUlYZXhQeXVJWHJUZl9NejFrT2p3cFRMTC12R1dDSHNaUkRfT0E5OHJtOXNid2QyUGFfYUt2aTdEeXlNTjF0TV9IY3pGTVhqUFcwbXJ2Y2N2LXhqOE03MnZESzc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
