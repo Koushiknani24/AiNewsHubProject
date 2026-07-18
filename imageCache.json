@@ -72850,5 +72850,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGZLdHRMSVNqOWNJUngzQzZ3Yl84aFFlQ29kZlM2VHV6clJjWlNzQ04yWE1PV3U3R0ZFSjBtenZqVXJBZW5jUEZjYU5FQ2pCVmdrVUdUY3hRTklZbVFlYTltckQ2SjBmVFBuTGtYSDlodmJIZHptQzA3TGlWQ2Y4U25QWlVZN09XN3p0NTJPRUpySXRoQm11TS12alE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/hungarys-president-signs-law-change-ending-his-term-in-office": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLWQybFAzT0VQT25iM1g0MTBxbmdmZzZ2aXB0aHNjME1xdE5tSzluZ1lrUGxMcHBldUdVanBQeFpkSFNsUWJJeTBqdFV3WURXOUtKV1ZnOU9VTi1NNXBUbXF0U0J4YXV0ZWdRN09mYVBTYjNsZDRRZVRMRnM3amQ3WElVbXJha2phSkFNb0ZBX1otNktvVU1KamNhN25WQjNONG5Bd0xna21rZVRTRzdnV2x5cUJsZ051QnhpWVdjY1NFejBrTTJmUGVkaXcwRHo2Skg2RWJqMUJCTUlGdEpxSXlmbFpwcmlvTXdwNg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVTFHUXljM3RIal94ckFqUE55T21GbWZDcExRWWlWQUU4cDlFLXh2LW5HTE9IZ0VTWC1Wb2ZubXlKU0pXd29wQ1VsZjgwNUVhcGJkVnlibzhJbzNHOHE0LUNTaXlyd2ZSY2tTN3duZHhOdnJMNjRWcjB1WW1uNHdNdQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBek93NnQ5UnhvQ2cwcV8xTWd1WkIzRHM5b2FCejVIcFl4Qkpfc2lvSEw3Qy1ld0d2T1RHa1N2ajNXemZjbVhpY1JvUHpjV3oxRXBJSVhJTElJVkNGb3RBbUxwQ3dfT1NlV3E1S3pB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOENjbHZ5M043ajJ4SGxVQUtscW1QMF9CSXRsRkhPNXNQamF2Q2hMdUlRTzFHR1VmRjNqLUhfS291ZlYySFZLRUZUb3RHWTFnZmo4QjV1X3RfRG1COXAtOEc3UWFISzNuOTNvdmtyNDdNYUVzc2o3M0ZtMm5tSTAyclp5cVh4a18wdnFDamJjdjNVdlhyRmVDRWxQQVIzMnZNZjRER3Zzei1jMVowVTU4R3FpOExrQ1BfbEs5YmFaYXhoUWpJYzBxSWZodEJldw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/morocco-and-spain-battle-it-out-host-2030-world-cup-final-6263006": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
