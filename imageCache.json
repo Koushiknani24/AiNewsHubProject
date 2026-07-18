@@ -73234,5 +73234,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/17/trump-world-cup-us-01003946?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/england-take-world-cup-third-place-6-4-win-against-france-6263271": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUE5VNU1WbE9oYmwyMm5BdE1XalJRYk01VFUxLWZGVHVWY2JRTUxOVE0tOFVBZFk3Rkdrc2tDTG5rNlVvaHRGZENON0JLQUllcFc4NVlhTElBT2l5NkhkOE84OXVhRVVHMTNsYThvSE14ZDRrYmdTQkFPUkdxN2Z6ZGY2QTVwNFd2TTNqd1BiUHZiYW5oRGNOSE9PRVZZOXlFYmpORGVienZiejAwclZZVmhLZnBqUjNtNFhCUDEyMzdjajBlSm9vQjZuY19tQzZlVGgzNjJ4Y2t2cExEeWhpcWZ5ZjlnYXJrdi02Tjl2eUhpaE1wbGY4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLVQtVUpabmw3Nm9lVmZTNjJfbVFCWkxfckVaNFdUNE9JYlJJRnRaZDBiTEtpdzN6dTJYUWdKZUJaZU5UV0h1N1Z4MEo2S1NPTjVEbVJ3N3BGekFfdndaSzBXbzhFY0huRVo4ZnRnX1ZPWWVFb19MTHR4TVFNNGJURWFDVFJsVVdMeXI5dDN0X0o5dU9LYVVZN2RkSDMzUHZyNVlyZDFB0gGrAUFVX3lxTE1RS1ZMSGxYU2xIOFIyQVJhTllpQ0wxc3p1NEwwMDNzVXdJZDVhdmN6UXhudjlVR1RJMDBrZW5GczVUclRURC1MbUIwbmNQcnowdUVEWHlGcjhQcnUzOXFJaVp5TFVZSndybHpfYjVSU3B3cGRUejRQRWVTb2VfeGw3elIza1JJdWQ0TFl4RmhHWWpyMkRLYzVraEZ2Ym9XVWhWX3RYQllPWGV1cw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/special-reports/3288142/govt-plans-to-cut-civil-service": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
