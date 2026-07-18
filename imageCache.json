@@ -72622,5 +72622,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/detailed-study-needed-on-korapuzha-dredging/article71238476.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/anantapur-samanvay-committee-meeting-highlights-youth-engagement-initiatives/article71238101.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/17/trump-carr-fcc-broadcast-licenses-01003605?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWp2cEo5cFItX1FQazRxTERUVWV5S0QtX2VxcXBUWXBTYjJvZVkwNzZBMnplNS1Ic2wzdEs4bWUtUDBhaWFvaFZDOW5qQTBaYk9vWVpWSVY2NHF6bWxvVGhtdnpadjZmOV81aVN2dGdOOVZNdHZJQjg4a0podHpPa0FrZXNRZ2NiZEZVMHdGTmZsbXM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-intelligence/the-mnd-news-quiz-of-the-week-july-18th/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living/postcards-from-mexico-on-the-paseo-de-montejo-in-merida/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/18/china-warns-uk-over-british-steel-nationalisation-demands-fair-resolution?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNekFRZzhjclBPeWJHN1ZSendDaUpaWVpELVpPYmdIMFdSWVdZNXJSMFVQQm4wd1IwczBDNnBNMGIwZTNxOVBma043TWFmb2o0d3A3MUgxa3Z3VC1WdE5sNG5pTHZDR2NxMndlaFpDd1NlTzg3Uk5jMFBzRDN4VTlMa1poOEZRS3h5NGtVb3FMd1hPa1ZVU2Q3MEF1SUE4RFc3NjUxbEcwMkYzZV9qM2duNmZ2di0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
