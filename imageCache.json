@@ -72472,5 +72472,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamVra1VTRGNtd3R2VVktV1FWZXJGV3pGb2xjdE9NYWFmNGFCek5BdEI0VDdxRHMyb1NnYXh1Z3RTRnJBRWVjUjRYMUFMQ2ZNR1NEYzZicXB1YzNJWGt0Q0Z2WTd2emRYOWNfc3VzWGd1NVVpRnBXN0FRdnJIZVFDWmZLQ3RXUWZheVB0T0FkOUpTUzJxM0JSZDltYWhOOG1UOHl1azlUV1FZd01EWm1nVjZpbTFHc0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/18/nx-s1-5882194/opinion-the-continued-courage-of-captain-sully": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/07/18/business/dealbook/mls-don-garber-world-cup.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/games/961152/denshattack-review": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-07-18/not-done-yet-refunding-tariffs-or-realizing-ai-s-promise": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607170583.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaZ2NiYXNyRWl0dlNPS09OcEttaGVFLXVvTWFnMHRHWWEteWVyVFI0dTlYdVA0V3RubnpmdGxYOWRTNkFkSmI2eGszRFRzUkg1M204Rk95b2FQVUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/18/pulte-got-really-scared-inside-the-white-house-debate-over-trumps-elections-speech-01003920?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaEZnOGNhbTloaTRkdzRxOEZLa21rR3FXY1FHaS1XTTF3OUFCdFhoUHNSZi0zc081UnA0cnFwTW5oWjNZMFRlSFF4LXlReXd5c3Q2NUQzLVdZZkpTeHduR3Nycjd1cDM1ZnZEaVZtYnV1RWhHSnJJY0xhZ1dlSDQxUmNqWUtmdTlOMC0xZHJ6MTcwLVZBd0ozZGVTemtqcURzYTZ6RTlObzJzOEZRZzdRWDBjdHFOa0RvSXZz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/18/india-achieves-milestone-with-launch-of-first-private-sector-orbital-rocket?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3287940/laos-defends-handling-of-taintedalcohol-deaths": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/101-east/2026/7/18/indias-salt-workers-the-human-cost-of-the-worlds-most-popular-seasoning?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
