@@ -72298,5 +72298,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/17/trump-spares-beijing-in-probe-of-alleged-chinese-election-plot-01004011?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/magazine/2026/07/17/ai-safety-regulation-debate-factions-00990453?_sp_pass_consent=true&utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/18/argentinas-new-york-fans-share-hopes-ahead-of-2026-world-cup-final?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTY5UVEtSk5VNDBPVENQVEVMU011R3k4TUxjU1l5c01wOXpnVzJWTWlUd0VHQ0JsQnZxM3RhN0gzbE40MDdKWE03QktiQm5ldnVIQlFCTFNJUTVYTmRwZFFUTEJKeHNYZmFFOW1tMEdXam5aN2VsbmZUMEh0aUNGQ0o2SHNvVzd6N3NaVkctbTRubXlRRnViSF9BSUdjd0Q4T05QZzBIcHJmWXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE01MXpKVzBoVkxDVjdpek02dHNScVF3dml4VzMxSHVZMnhiekxYNEpyZ1FfeVpoQ1RYLW5JbzNmUGpXVkdEekVFNTBzaHdva3NHdVIzeVQ4NHpfbnNHSVNYNmk2blF2akdCQ3RmeXp3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/cb-cid-officials-raid-multiple-locations-over-fraudulent-registration-of-palani-temple-lands/articleshow/132476965.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/16/united-states-womens-world-cup-2031-01002399?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3287919/vietnamese-gang-linked-to-tokyobound-ice-in-tamarind-paste": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmQ1QmI4SXBmNXdYanhiVVpVQ1laZ1BmanZyR2lDcTVvRjN2cG9ha0pQaFZTdVJoUUpYOXEtWTNNcmhzV3RxUU9MMklZS2hkUmVuSVFvTENyeFJzZ3QzTzVLdC13VDdYNEtZMzZRbm9zYU00UG94TlRyYUUtWjg0cllsekUwZ2lGUU9xOUMzV2tSalVhZFBvb1o1d2xVeGJpUEhFekxOZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/2026/7/18/video-world-cup-2026-highlights?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaHFZS01Oeks3RDJUYi1QRUFRVFRiSTZKTjU3WURuRE1fb1pkdkpHN2k5UmU3UHhwUm9GUmZqMDZlMmZXTVZkNzhzOTZPVFEwdjZPZllxQl9qb29MakViRUxwN2tFTllCc19EaEdwaHpJQ3k0bl9kZ0N6TTBWMUl4eHlaSE5rZXMxd3lYUVNMbmltQ191UXlDNkpvZF9mRjJtZ3h1MEN1T243MFBkTVViSGFuRdIBuAFBVV95cUxPYkJRMFZwR0lFT3EtT3Rfbkw3NXZ4MzVCSFUwYUh4TWZjNHRGOEVneWxZb0xaUkYwNXQyUmtOeG5nTUFPTktoVEVqakdoMjNMZzY3d0Z3RTRwNEU2YjhXN21yQ1JtdzcwVFFlRDZGRmVWb0lYZVZyZDd3b3pOSklaRXJXbGNzZFhPd1B6RnYtbm1mdzVLMlRKb2tzWXVsX2I2Tl93RTJDRUp1eXlSZVQ1WHJCMkF2WXhS?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
