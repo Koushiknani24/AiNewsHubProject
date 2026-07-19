@@ -73768,5 +73768,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/19/passenger-ferry-carrying-116-people-sinks-off-the-coast-of-guyana": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-in-a-historic-first-mexico-warns-its-citizens-against-us-travel-due-to-explosive-diarrhea-risks/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZkVFYzR0QkhHanUtUmZCYnVkb3UwYjRRRDM2a2stZTRBWFRHNHRmSGlkcnZPZ3R1ZFp1RkJIeC1XSldQN2RfZDFoZnZYNVZSMFMzRU1wVDZWNi1zRll4b3l1R1ZqVGkyazNXTFdyN0k2cFVmZDkwYW8zQVFmQWx6QzJoUHRnRGs3WDNLQlJ5eDdSdkdpME9QSlRFQU0xNG9EX183cklDMzA4NXNfWlNlOUpyYXhVcm9iSkQxbkY3bW9mRW9mSDNxNGlB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3ZBUEJfM04wT3ZPbFJEVVpmbXpma0dLRzhRUFM2ellncHRUQVJxZlltdmRiOG4zSV8welpTRHEwR18xcnp3aVhwZ2ZIUWdRZTFtMHhmQ2x3eTE5ZnZmMWlXSUxfbkdlaG9fTFR5TU4yNG9qekVFZEpaaU5YcDYzeDdQS2E3ZjBXZjBFME5RRF82ZGVPVnhCSUNVb0UxUXJURTVGcnFXTWE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/china-firm-seeks-damages-over-state-control-of-british-steel/a-78024119?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3JkVEhOLW4tNW8ydEg3d3VqN01zbllaV3VHYktFRmtJMG13SlUzMldwLV9vWFJWVVlXUFl4VXVGQXRGWnJHOFhaUlJzaFBjMnBMVThISGx3eVpBTWN6VTZPOHpVY3VsdjVDbTNQMTlfNVlqR2JaeGdNMTZUc0FjS0dwTFNKNkY1MUdlZVlmdV9IT3RCbTU1Rm1jbm11V3psZUNkbEx2S1ZPWHZRWU84d3dRbUtPaHcyMWJEdG9udlFmLU1QVUdn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israel-to-receive-more-us-refuelling-planes-as-iran-attacks-intensify-israeli-officials-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living/hyper-inflation-grips-mexicos-private-health-insurance-market/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQ2JfS05HNXZjSXUwbnYzZTlRaUwtWWtEQ0ppYmFYTjJnWlVORXlIYU5ISDdZYjZMd3NRaWVDbXBIQ1pwVmtzQ1JuNFpsZGh1YXFGMm1SSzhsSU5lWUd6Nmt2MzZKLTdnR3dSaHg1NFFkTEJoLTZDY3ZNcGt0VXgxMEdzWFZkRFI1Z29qSi1qMk9sM3lyZlluZ0UxdGJ5Y29qeFJzNV8yWEhaanZ2Ukh3bEtLRXF5czNZWnJQSnlMaWxNU3JyWjNuVlZtaEE0aUdTazVoOXFxWjJXa1lOWVNHZVNfLU9QREE3T0duS085eFZSU3lhcmdNeFdqcDRSM2N2Ql9kakNqaE8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/19/guyana-ferry-with-116-people-aboard-capsizes?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3RsNGtqUi1DdDdaeU5sTkZ6RERJc3k1eVZEU1hTRm5rdFhsWDVzWGV5TUo5aVhFWVUyOEVSODV0NmxiWmdGaUJSTmk0bkhlS1BIV0ZadE1uU0ExRmYwdGlvQl9TUl9nQ1dib08xZWRxS25JR1JRZU4yYWRyUEtFY3RrU2xFN3NfVEJ6aHJfNDRfa1JQWThfUzBNMERHZ3U3N0hOWWdrTFl3VHNHMGswNw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/russia-hits-kyiv-largest-ballistic-barrages-putin-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/19/tobin-heath-fifa-world-cup-2026-football-analysis-players-teams-tournament?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOczJQSVhWem9mMFQzNl9hNFY2cXNTM3dHQVpSQXdjcmdDNGZHV2NlZWVWZUREa1cwTlhTZTU2YkpuT2N1d2hPRHhPMmpPSml1b1c1TlFaay12Rzdkc3l1NVZmTjB6T2hFUWs2U3VkS3ZyU0R6YkpNbnBiZ0VYdy01clgtUHV3ZXU2bFdNZWRuaGVOT3BKQklTU0RBY0prVkU2dmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
