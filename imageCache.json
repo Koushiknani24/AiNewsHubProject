@@ -73330,5 +73330,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.sciencedaily.com/releases/2026/07/260718010142.htm": {
+        "image": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzlISXQ4UE10T0lVcTkyOXh5ZUZEQTM0V1cxaHRNclBjaDJKMGxycV9qX19kVmRjT01vV1ZZWDdUd1RnOWVHUEQ2X0J5RGNMN3E3LVJ2MHJsX1lhNjVnS3NnYVk3V3drTy0teEEtUnJoMzVhOXhRSUx6TUhILTVhMkZpVXZad09nVWtfRjhycGJpTnI2N3RIOUpTSy0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/russian-ballistic-missiles-rock-kyiv/a-78022851?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82RWtsRXlUTDY2ckdVV0tFenZDbWJTaXM2VFEwWWpDYTNJdGdoeTdTdE9DX0tOdG9iY0xFaVRvTTBIbTBYTFRaZnc5cmdrS0g1dzdDVE9IUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WZE1sdVViSkpTbDBaX25xN2JwMGh6NGdCSVJoUDNCSXFTMGEtSjMweG5IU0JrLWNzZ2x0UHowcDhqcEtHUVNUY29nbTEwYy1wX1pBbWN3S0_SAV5BVV95cUxQX1kxZzBlLVJuTHhpSFdBb2NCNjNraHMzY1dLYVBsakw1STBpUDJrZktfancwa0RpTzY0eHl1d005QURaUEpSVDJZbXN1cHpZOGNMb2k3NWU3U1lMbHln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNamR1ZUxpUU8taktfY3ZVenlFQllWVUhfWndQYlA2M3hGbmNfTGlvbXozUVZPWUg4TFFMdW5fYWVtczV4Z0Vwd0ZnMVhkdzBHekIwdEpOMGk5VUhvYVVNbDZvcG9pVDNndTZraWJSSFRVWC0wTXViTk54TFo2UU1uUWFfWHllMHhSSFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/sports/3288297/messis-argentina-face-spains-cool-machine-in-world-cup-final-rich-with-personal-twists": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS2dhWEM5T0FaZHBZb3ZNdUNQM1cxVi02bG5jZ0swb0RDUDNidkphbFpDdUoyMTh1ZjA0UUgzRWNkTmF1bXJaaWl1cmJXTlhUMEdSSFJFVzZLaTEyMm5ockJhR2g5MEdTcU5wZDJZRlZZSC1IWGRDUmFWTWNnTVFyMURGNlJJWEc2eEQ0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CUDgxWEQ4TmpsN3VMSDJVUExZZzFQMDZobTZRZWNKWFp4S1VpcFVGWTNxeGVreXpvRno0bm1IbTZMbkhOcGw5bEFaak5JV0xSNjNhaERwWEdnbGEyMGVUT3ZiaXNJOF9UMDVBZWlXWEhuck4yMjQ4WDZHWDE4dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZDZObjlMcVY5SkVtRVp5ODV5UXBFMHhOTTFUUk9DRy1fRjJhQVhqUnNBNDBRYTU5UlhKUU1acU1ENTFFSjNfbmVJc3RlUkRrUlYwd1NCakd4MU1BMUVaTXRaOXM0ZENielM4b0xsYzlXYzFPU2dEOHR2RUstQ2RGeUp0eEJXb0FHM2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZEt2X3UxVmMzWEtONDdQTkZTbFU3TnpXZVRtZ3QwVE5nOS1DeWs3ekxiZ0lwTHlZZzJPVG5ZVjhHWlR2ZGdsWkJwTGJiVEhaeVVzSmg1WlJuX2pSSmpLQzRHcnVhYW5XV1Z6NEp2TTdtUUZjb21iZWpVWUg3eG04T29QY2plVUFVcFlzbGJacGxjbkE4cHVfRnh3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
