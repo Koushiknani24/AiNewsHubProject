@@ -73270,5 +73270,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/cjp-sonam-wangchuk-2026-protest-cockroach-janata-party-abhijeet-dipke-hunger-strike-july-19-2026-updates/article71240515.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/19/exiled-cuban-artist-otero-alcantara-has-arrived-in-us-rubio-confirms?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb191YXRuNUUzX2lyczJoSC1mVjJ4c1hjM2JlYk1EUmE0Sk5sLXpjREFvWVJyVnVwV3hpTk42TEN4U1BYSkdVSHc0ZUxwc1dHWUFTc2luUmVnQTNsa2hIX0duamxHN3l2ak1fbmNUNjUtV0VvVjdSU1FDU0JoeVdJVWEwU25CZm9PdVo3TS1zLVZJWjA4LVpaNVMySXJqUW5vOXFJZENIQzNXZ0o5blk5d3lpNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/19/a-giant-cake-for-venezuelan-quake-child-survivors-as-death-toll-passes-5000?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/sports/3288280/england-survive-france-fightback-to-secure-third-place-in-miami-goalfest": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/sources-say-delayed-orders-confusion-slowed-venezuelas-response-to-quakes-as-toll-tops-5000": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDN6TjBnSVJRX05ETzNmaUhfNHpkWW5pUEx1NktoeUlrOVRzMkw5NTRHUjFwbzZQWG9Hbl9iQkpxSnBNTWo5YS1aRnRZRmZFcFBqSjVYOGlfYzVKUTByNWNfWVQ0YlJBTmM0QWkxSjRpekxyQnZFaV84SW5YSG5LbHNieWJpb0ds?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzdnRWcydkxHbFRjbEdiRnZnMUFwclQ1N3ZwZTVHbWRKMTFNb21ldHhfNDRBaFF1VmRoRHpUTFJlREVhc0MwZUExOUlxcWlvejU0X256Q2J4MzE0QTVaWG42WGpMS0NVcWNzOXJqX1RQRjh1czFncm1DM2ZfWm9xT0pkSWxLeDZ2ZU1mOE9KQy1JMGFyMlRCamNBSjVWNExTUkRTNXVvX0w1YWREaXJCMmNVUXVZR2oxVlBLd0lWdnB1WFUt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/mens-mile-record-broken-first-time-since-1999-josh-kerr/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
