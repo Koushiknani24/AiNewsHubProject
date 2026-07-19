@@ -74290,5 +74290,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-features/john-leguizamo-the-odyssey-eumaeus-chris-nolan-interview-1236651694/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/19/iraqi-born-singer-emmanuel-kelly-among-world-cup-half-time-show-headliners?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/rubio-hails-lebanon-for-peace-efforts-after-meeting-president": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWFMcmstaE1hNktia25CTTlWa0MtNDB0TmpxVFB0aG9FVnJrYWE4bkdHUW4wR3hVS21uQWJDdmFnNEdpU3oyUHIwMmNSR3J1WlJhOXo2QUtIY01vT28xTENzU2FWYXVoTEZKMWhxOGROZ1JELThBLWpkZ01sekhIRDFXdEU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NT1J4N3NnVThuazZkaF92YW5xdXRyT2VUanNWNlhpQ2xBNV9LQWxrUlJKb1dta3M2dGJZakRZeDdTU3VJbEdRQ056dVBKbGtCVXhrX0ZDNTJ6V0Rtd1d4SXRKbDRkNWVPQVJ3Zmk3ekxDdHM5RExYc2JIMkFCV3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/19/new-world-cup-champions-51-million-prize": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
