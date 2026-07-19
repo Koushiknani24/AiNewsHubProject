@@ -74092,5 +74092,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/russia-ballistic-missile-attack-kyiv-ukraine/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/19/soccer-spain-basques-catalans-sport-eclipses-politics-01004240?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/jammu-and-kashmir/amarnath-yatra-2026-live-updates-temporary-suspension-pahalgam-baltal-routes-jammu-and-kashmir-heavy-rains/article71240667.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOTJsZTdkTzlXdzBWejV0aEhnX2pFVEJIbUJNcWhyN1htVFhhcVkwS2hfRTdzUWI5NGk5YnctMk12TXVEM1NIVjc4MHRJNmEyU00ybXM1R0RMc09saGZDSm5ucHZRb2pSdXJTOFJic0lYcnRXYjhWbmNRYlRsWF9mbHVaQUtzSzR5bjEzTVNUVlI4OF9iaUxyYzRlakxYRFNOQWpQVVQ1c19oQzNkOUd5emRuOEQ0MzF5eWhzWFdUOTg2OHkyV0VoQmpUVVhYUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/19/chris-wright-strait-hormuz-iran-01004359?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/live-updates/2026/07/19/world-cup-2026?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/kevin-oleary-sued-claims-data-center-critics-china-ties-1236651648/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/body-of-sports-journalist-found-burned-in-italy": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84QTBiR1JBa1FZRGJFaWJiLUFIUjZxQlFHQkxUMWFWQTdSbFFOYmItNTBfLTROczJXTFFjWGhaSXZSTjhrWEtoU2dvOFVWVFU4UGZaT0Y2Y2lFdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/investment/3288374/china-roadshow-pays-off": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSFU1Z21xY0dLNWludjRsVEdjX3pXT0ZkX0RJdERsUXAyRGdWVmdPc3dJaWJUY1huLUJJVzd6Q2dQd2Vfc1V3ekFPZVZmUWl4OS1hdEdaS0Q2QThaM09oektqaWRvU285YkF2QTlxWDk3aTI0MVZwRXFlcnNxLWpVaEtrWHNjdjlXajNnUmt5NTRUdk81amVNM3g4bU1fODJGUy1OSjFXWnRfQV82ZUcxNDdQX1VmVUduV2taVzZuaXFHamF1UndSaFpYTVJxTlFubGFnS3Nn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
