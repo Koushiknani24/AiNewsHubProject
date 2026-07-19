@@ -73426,5 +73426,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGT2Zhb2xxcVRCU1VXbmNLcXdkc0tRTXZOcG9aT3Y3VHNwUF96TXpUWTdQWWFHcjVaSWVwdlJaVVNNMEJqUUhJalhzT0FHb2NOaWgzQUtzLTRxUjJMVHR4SXh1dVVkY3VSWjlMTUlkVngwTkVtMGZSLXNLdGxPc2s?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/cities/kozhikode/man-found-murdered-in-kozhikode/article71240744.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/19/nx-s1-5899020/2026-world-cup-fifa-mls-major-league-soccer": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaklJMGhsVEtzamlwT3V5N3VPWF9qRFlzbmlULWYyTzNrQWlvSU11ajFka19QRXd4VjdjeXVkWVREaU5aTXpYS0hDSlVwZUMyNUthbHZpbzJiNm5YTTI3MjZoUGNnenhBU2FtVG45bzRhS1RBX2RkOV93c3haRThCbGRJcEFQWE00?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb3Q2djF3aTYzTjNuOGRGdW5FYTVma3JnXzAwUjc3WTdJNk9McWZTckZVZlNGalFRX2xEZUlYd09kaUlHYjNpUkliQ0loOXJTQ01nb3JYTFB1WWVKZndpWW5kb0tJVFA1a2h0aDlIc1A1dWJXcWpfYk1Ia3o2V1dBbUlVQjc0UnJuRW9yV1d5V1R1SnRYaDY3bHR3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQREtxbndVdmlHelI5RlFjMWR0ZWtkcXdlc3BUSXZPMFBkMFJvVFQ5SHZUQzRkX25TeFFRZjVXTmxOSVY4NW13QWJNbzFGWjhuN01oWW9GeUZIQ09FeHVfOWtVcEdHb3BLdzgwZmV6elZCLXRjOUE0UHlfSXRLWE81Y2N6Z2NpNVBlTmpkQjNlbmPSAZYBQVVfeXFMUElFUl85MG43Ynl4VjliX1ZYZmNOWGlkVkhxZ3ZJUkszcjQ1NDBmZ2hWd2VLaXJTVG0ycEJxNENqVVBaRFZyRV9hXzVpa2xzQjJkbmJLOFlnd2dzYUlpYUtjRkpzMEh1T1IyR090T3NCM1FyV3BXQ0h4RlVHUXBaVm96WGh2X01JaWxfZkdRR1NmOXJINURn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelpfekZya2hERHRkRFBIcDRXYXBHOEl1ZXo2NW9SeTllSEU1MzNKczl2RWU0eE9nckVUZmJ3dXZhWUh1cHNnQkw2Z1JONzhCTl9rdVdoMHROc0U0d015NFV0S3hoYzRTSFp4U3B3U2M5WHpSU2lpaW5qZWJPckZEN3pPX1N5Ti1aZFJYMHFoSng3WGtuRnNETFZJZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT2tmVkkzS0UwZzlCc0VwTU1CM2c1NnVuV1otYlV3bjhFMnBoWGlfVnh4NlNWNmRqS0VJSFlsVTBCa2RuRndaa3VROHdkUzJ2RmZzbE9qTjhQTU1Bc0ZFZ2VzcmdibDd2WUhldTJWMk1KYVJrTkNsYXdPdE5qeTBIYURiX3lERThDSUJtMTVVRC1iZ290N2lXZUYtUUdoVFI5SFFRZ0lveW9BWHFKdUs3czZPVHJJTWZmeGh0dzJlTmpRX3RPV3hqZi1aZHVTMXE3UHRDeXY3bVNkQ3ZQcDJ1aWRCT2VCTHBXTDdLU0pVWTlkUDhiLTNTYm1CUkhYUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3288329/roads-partially-reopen-at-bangkok-tunnel-leak-site": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQLVhZVHd0aWlaU1J0aE82dmh5S0JwNHphQW42ZF9aUWNZV3ZzSU9Uc2ZDNVVtY3AzajdKRXZ6S0JrUWFPQnkwOFFWaDkxQVRvOVF3UnFvRk1teWduMFFseGRtTU5XeFJxdDlqYjZvQ0QtcUxpQnZKaUx4WlJuVDg0M1lBQXRjU1VnenlqNWZiYXJXQnltZUlsLVRDZmJSbG9ZV3hQbk9DUEg0SVh0X01MbzM5N1phWlZ1S1pRemNrU2tFS0NEc3gxYU90eWZTX2xZWUtzOGlsaV9RYjFhVTktRWRuYmVPOVJMSkxCV2x6aGctLS1xUjQwc9IB_gFBVV95cUxOT2xPRWtNTVMzdzNmQ1R5clhNMHVUU3U1LVhNSjJQczQ5VmFPT09qTmZIWVRrSmdMU0R1YnRwVkkyVWtlTlBLQ1FEQjFvWEszUUtheEZHZmRnX1ZwbXFPcEdYbEdIaW9zVTljV3hhRHMxQzRhNEpCVjJCZ3BPVGNjZnQzOUJIaE1vR0t2bksxYjA0Z09kdjhTTmgxRy1FR2Z2LTJaa01QR0hxMS1fUHNGdUhFZG9ya2NWdzBlcXp3Rkt6Q3BHYkVyTERIa29BcmVlU0dIQ3NlampjMWNITXU3U3JtbXE0clJ0UXIySUloU1QzaF9hWk5QVEtSQTloZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/lebanons-aoun-to-meet-trump-at-white-house-hoping-to-generate-pressure-on-israel": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/israel-clears-way-for-crocodiles-to-stop-prison-breaks/a-78022950?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwJBVV95cUxOOUFneWY5MjhFYUtnQWxHZTlmbGVIMnhIWXNDQ1V3cnd5TVhzT3dCREVYT0ZXcF8teU9Od21oYlhzV0swNEZpUUdHUjBPQVZGYnVuc3Y3blQybC1PUUoyVFVRRng2VlA4V25GX2dLamJHWGJ5N2JQOUVselhIcEM5UG1qSjRIbVd4YThacV9RZ25reWlsVUVwZ1JJZWVDUlFSTnZsVHBOYzJxN2Q2UlFHbVQydHpHY0lXTHFaZVkwWmphZWs2ZmlrRlJZN3hPYXYybUVwZkN5VzF1SW5xd3hnSGpUNnJQamV3T0VBVEpTQXQ0QzlEVXRZakM0THMwdHNxdXRSZURkRFd3VmY1cWZoQXVtbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
