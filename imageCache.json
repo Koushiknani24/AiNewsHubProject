@@ -75946,5 +75946,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/andy-burnham-new-uk-prime-minister-7th-in-decade-after-keir-starmer/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/20/trump-threatens-50-percent-tariff-on-canadian-goods-01005548?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/20/moroccan-born-man-dies-while-detained-by-police-in-italy?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSS0ZQSHlWS2Zfd1h6Z3hJeDIwWk1NY1VxTTgybTlwS2NLV0FjS205OFRreDJZSTA0Vlh2RVlBS1lXSzFLbE03RW9TdWRIWVhlTWRHcUZQbXlyejdwZVpYdFQ2NDAtVTNmQmg2b2NvNW5jaEx3RVBmTW93?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/wes-streeting-named-to-top-uk-defense-role/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX19BdEhMcXlydnllMWJtdzh3aHR0QTVGU3pQS1Y2N3dhdFlkcHA1VWQyVHhuSnlEUmJpdm04Z0k0OVcwVmp6dkxWNzNBZmtud0hOU1paX3RucWsyTGdvRnpMR0ItLVFjQ1ZFSzZaanBXWE9wR0NDeDRqbTU1Zm0yT0lRVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/20/kash-patel-fbi-russia-trip-01005078?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaTB4a2tfeWIzSzJ3RHNiZ0lKSXJWa2JwLWp0b201d2ZySFBXaDNubUdPb0JXQ0JXU1NtRkpaN1BuZUhtRUtGTTdhdzE4SUt0VVRueTM4elZPZTVfUmgwSlk4VzdYSkF3MnNUUzBpY3BJTTRMdkxlaUoyNGFCcWV0M05HT242ZEF2NVAzcF9R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/cities/mumbai/bmc-bjp-corporator-demands-regular-audit-of-the-birth-registration/article71246434.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHk0b3JPY3hSMkd6NDRPNGM3YUtkZjhFbWRtVEFPOVBMZkpSWFFZZkRxbXNkYkcxZWZIQlVaRzdsamU1b2RQQlV2SnVpbWtGV3JkMDE3dmdIVUdZaUpyZDF6Nm53TTMtQ0hxWndtNUNscFNLbTBEYV9aTUNpMlB6NEcwOThEQ3o5RVUyY3VuOXpoUFhnbGY4Q1JBanZYbTBuSnR3NXE1amQ5MFFMYWVN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
