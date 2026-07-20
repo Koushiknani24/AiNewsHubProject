@@ -74758,5 +74758,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/20/world-cup-2026-final-spain-argentina-messi-bts-shakira.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/argentines-lament-world-cup-loss-and-chance-be-champions-again-6264361": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjdhRFhQOFFYdUw2REo5ZEpFckF6VDdiVlBQOHBKLWRZa1NHUmNmZV9ULVZJMHBZb1VTa2UyMF94RjhMdVd1d19iQ19UUG94MDZzTHhnV3UyX1dSejkwVVNYWUlEY1A4OVpvUHp3ZjZfaUhtTnhFbGJGTmF3SE9JV2UtQnpMZGplcGlr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/donald-trump-booed-world-cup-final-1236651867/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pc1hldmdPclptVGk1bDJ0cEtaS2N5YmdrODZEMFR5NUFnczhxVy0wQlE2RzJvOXJjVmJWZC1NRk1KMzVta1BGYktFZWhRZHY0QVVJbHFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-19/gold-falls-as-us-iran-hostilities-keep-rate-hike-bets-on-table": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenFKelc2VVd5dXBUWGNkZ09nc2NZNllmbUQ0Q3JBeGY0VUZPNXJNT1FZTnRWY3dvYW1kVG1iWmM0Ny1PYW5FUUowTC13cFdyWVlKdi15QjNxMkRGYUlQVFZ1MFBqMkJ6T3doOWZ2ODVESjlldGdCOF81Z2tkVWFHb0E3UnZlWU1Kc3FTdDBNZnd2VnJVcWJsckNQaVJPVUlxN1Jic1lRaGQ4QjFHRjZXV3RB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
