@@ -77188,5 +77188,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mnd-local-july-community-activities-in-san-miguel-de-allende/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-21/alaska-airlines-narrowly-beats-estimates-as-fuel-costs-stay-high": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/politics/politics-news/hegseth-tells-senators-trump-praised-iran-war-1235596771/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-lindsay-clancy-trial-live-stream-documentary-online-free-1235596671/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/security-update-trumps-iran-falle-wie-kommt-er-aus-dem-krieg/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORWFhM3JDQTVCZExXTURHWk1YdGVJSUpJbUVCSWtEekFsVmEyQkYzRDlpTGJkQ0J5LWVYanRmS2dFRmlMV2FEZnJmN0s5c2NodVFPb0doR2RwMWFGa095QVAzSFlUOE5kWXFFbktqZGg2aVZwWGtiTTJocS10MVUtRFVHN0pweFlpdHVYRHRPUkhjS0JsZzY1cHg3WF8xZDA3eTNOWHB3cjNnNWJUcGlnNE0wUDB4RDNMQUNSNEl5ODJBQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/time-travel-estadio-azteca-google/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakxjaXJ4aVVjZEtCaFNOdVhHM19mVEMtU0lDUDlDaERqdHFqVUw3YnNQLUo3NzRVeTVfZlRuMENuRC00RWt5blJKQ042dmEzRmhoZTA5OUhnWjlPS2dmNGZaY0JxaFRhdFROYzJYOThWaVo4TkdoXy12OEt4Sl9TV3pTVFNiV0VJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVDhtRkI5bHZELUFHbmpNUEZSUEhsb3hGS3JBN3JCNndNaFFFbm03RTNFS21oRE1IaDhvdUt0aTlCX0xsMzBMaFNRY3JwbU1CZThCRFRJYWdydV9vUnlxeVk4SFZSaEVPZnpWd0lVR2VVWERtQnpMZTN1NEhwQ2FQWENncHJzaEJnTUE0Qnl3dWdqSlNYNzZZT3BHWVF5ejR6OGJFb3RSbWFoUHhxT1Z3S2pHMGRDS0NzdXF1RWVlX1gyME53?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/shane-gillis-comedy-guinness-world-records-race-1236653474/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/21/aliyev-says-former-russian-and-german-officials-were-in-baku-for-possible-meeting-over-ukr": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOb1huQnUzYTVKM1hrQnI2VmkyQjBIbHdlQ2htTUdVbGllU2pPS2V2dk1mZDcxU2RxMnZJSVVDTXhPdlgtWjBOc2ViaXNNRGFqX2F0ZUsycElzOUtPLVhCallWOFAwM0ZFZzZ0anZSbE5TNV9CY3RnMkxEeUdnM2FhTW0yY2hEQjdSanI0TWRZeEFUU1N4YUJ0dEJqQXI5dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcHlTYjVsZkprNVpfWmQ2SUE2QjRqQWM0bDA4M3hRTVBsS09xSEJ0ZTJlRzVkdXlSRzBOWmVNY1FsemhEc0wxTGtFZVE0WGllTWZJaENiRzdqdGxLX0YzWHpXTHRzZVJuTzRiU1oyVzhQNjlkQUpYd0RMcUpVV2MtTTFnYzVlbUpwV1FwZjhUdENma01FUEVkQ2ZlX3FuUEV5Tk9Jc1pkeWZpMnFBVEdIMFVBdE1IWXJEdlRSY2ZaVDM2c3hfUnR4RVB2WXRYLURyWFQ0bWFoV0xPcUR5akhKbGZadEhsOWxfVGJpUDhTeWFSZVhl?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
