@@ -76846,5 +76846,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-country/shaboozey-outlaw-cherie-lee-album-features-gunna-kehlani-1235596578/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/kremlin-says-russian-online-retailer-wildberries-suffered-losses-in-warehouse-attacks": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/ed-harris-dutton-ranch-taylor-sheridan-1236653026/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/gates-foundation-engaged-with-epstein-but-made-no-payments-to-him-review-finds": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSUhVOVVGNVMxOHlHY3dwMDU5bEFEeUg4QUpIcWQ1QVpTTmg5VVRTZHYtZTNQQ1ZKLXZKUnR3UVBMRUluSWxpOWZvLXlpbFc4VzN5eEJmYkJTbGxvbzhRbi1HZ0hUTGZ5SU5nanJXMmpzTGZxNmhNU1AtUHJNbnZmYg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/21/irs-chief-frank-bisignano-laughs-off-jpmorgan-spying-allegations.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemN1NGtJRVByNXBrRVd1c1ZyYlRrVkp1alBTOThVbG1MZElEVGd5NFliMGFQVG5zaGhQZVgyTWNXVkZlTy14ajhXRVVZN2FnT2N5azZMdzgzeHdRdFlxUVhSdTYzTHBJZVU0aXlKcDdiNWVaSU9OMjZLbGo1TFZhT2k1NV9GZHdVVlNkMWZGTy1BbVJuUVNteXdjZXVQTDlsZUt2M2I4OWd1bC1EZlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLTE0aVhjMlh5bnFjZ1FMZ0tNMXpxbXk5SU8zV1lhc2xPX1RUa0dPZE5lSDVpdHlVaTY5SXVZZnJ5MUxOSFgzQ3VvZXFvZno2WC1DSHVSeS0tNktIVFhtSlB0d09DUVZGZFduUGtuRjBLM2VUN3NRQnJJdkh3NVhCOVJVUHQ5TmNmWlUzUDI2dlJ6LTZOR2dmNXRvS3ZLVnJjV0kyd0VuLXlidjVYSm9UckhVMmlVVlBIVmlPQXYxVnlZUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/21/latest-news-bulletin-july-21st-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/iran-us-war-iranian-missiles-evading-defenses-to-kill-american-soldiers/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/21/us-appeals-court-overturns-ruling-that-freed-columbia-activist-mahdawi?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYk9TNWViWkYxdDBZWHpidFVKejRsNmVnT2JoSGRFQnU0X2FYQ3Jab2ZOakU3T18wSVM0Qk03Ti1vXzN3cGp4clZMbURhSGNMd2xTWnpsdEo4MUJBZzJaOTFGQzBmU3FvOXNIUjhabHp0ZUE4N2ZFenRJSDB5eUZKaFk3QUh3U1BNa05ReU5TVHl0THoxT0VSNHJ2NDN3a2phTWdJVWpjVDkzUjBJVVHSAbMBQVVfeXFMT3BhUENlcVVKTXZjc2pSaW5BN2tYSk5zejV6R3NsZWNSSW1FTUtvazBua2RNX1RHT0JtaHdlMHNud2lXNnViQko2NTlOYUlDVDUya1R1STlMZm9PY0tZZlloZHhScGhlTUxQbTdvcFFNcER3NVJRZGp4Ym80UFlYcTQwX0hmTkVtb243blJ2dzdTSllUbG1MdXVVREEtb1pHLU4yUGdvTl9Gd3NFSUgzUzYwcTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/21/firefighters-battle-major-wildfire-as-thousands-of-hectares-burn-in-central-spain": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/anthony-taylor-announces-retirement-elite-refereeing-6268756": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUko4bFJXNW5tejZ6WEg3THpkSDlVcU9BQ2taY2txdXN4Y2dEcGJEQ2pjNjJ0aElpeFBQNUxxZ2pmcGR3MUF4Tk56WXhDTGkxV0M1d3dwVVF3andwcDN5cnJ4MFFnd2NKcklRZk9JV3AwUFNmX2lVeHpndWFyZ3dicjhYbEpMd1hYQjl0Y29oMUlkY0VEbmwtOHNwY1V5d0R6UElxVExuLTl5VnhNS08tRFRB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/7/21/us-eyes-new-tariffs-as-existing-trade-duties-near-expiration?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
