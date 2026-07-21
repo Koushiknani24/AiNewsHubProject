@@ -77284,5 +77284,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/zelenskyy-fires-top-ukraine-army-commander-oleksandr-syrskyi-nationwide-protests/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1ZDWVJCT3pxMjZxMGFBNlRTRmJjMFpjbHVxMDlSYmJ2anV2RTBtRHhhS3BYWmZjSmhyVXlsdl9OS3VXRGFKUFByeE1Ld1NqV05OelZyOXdBY05MM0JWNGloeFZMMm5WZkpLMF9YOG95ZTA0VV9XVTRXSmloU25zUURReWdYZUg1bFBDRVNkWGdHVmJINm13YzQyLTFQWkpvVHRUT25wZVprQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-forums-social-media-ai-minors/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmI0OUFMQTJnOHp5aVdqbU9FSTM4NjdsMWJ2SlM2YVJvLXhDOTNDQnBSQl9PQkd5UGs3dW9oUlVSdVpNZy1CUTJvaEt2MVBCc3c3U0RkWXNjdkJLQ2NTSk1lZ1BGVUV6ZVRrSEJ3M2tickxHWll1NEItODh6REdfOVhSRk9oOXNZb1c4bnJnSlByNTBnSlpHeFFGNXJDQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/workers-dynamic-duo-studio-swaybox-unionize-1236653489/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/sony-eyes-revival-of-cinerama-dome-arclight-hollywood-1236653570/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/us-history-museum-head-says-patriotism-is-at-its-best-when-it-is-not-instructed-but-inspired": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/21/drone-shows-scorched-landscape-after-spain-wildfire?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxObm5lREhoQU5xdVMwOHduNUhHUnlTNW5jdUtCclZyOWFVeEhqTHNCRVJHWGlHV2lad1l4c0NqUVFlblpVMEtDeFAyb1VMUkEyWGFwZFdzSTZSOUJxZl9pdTFTd2d1Y3NLTFI1SEE1bUlaWGYyaTIzX3VBWmhYdWZDSGZ5RXRBZHBYNG50ckUxNVpaQmFpN1l3Uk5oYzdqNXpNV1NRYy1SZE9tTUhPeE9YdGJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTZJcEV5eVdfSm1uOXdEUHBJZTZwMUxDZXpDWm1TWnp6bThPdGdiWFVNSVFWS3NwSlRkcnNubE45eXB5cDBibWk5YUsxMWZHTV9xenZscmpBUHJ0eFhTSHJJMy02dWVtTXhVM083d0JENmpnR2xNckI5dmJub3R1c1lZcFZLallBM1JMVTdEb3BEdC02NnJPNUxZUThIeWJydjJlbFpMQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUpncHU4RERDUm5xYjdab200bE9sOUdtUUhpN0Y4dVAzSlVXSWxlN0wxc2FSYi1zNGJXQkVhM2hwdXhmNkRPamIyRWZHZllaMU9XMGgxZFdSOUJEQm84RmRVdTdvTzNmTkl4NjllR3ZZSHNKSHdwdzladnlqNlZmWkdRZHZZUUNhNzhUaDBMaXY0OE9LUDhFYURqTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3289440/millions-await-welfare-review": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-city-plus/from-the-archive-the-joys-of-furniture-shopping-at-la-lagunilla-market-in-mexico-city/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/indians-start-well-at-world-junior-squash/article71251049.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgJBVV95cUxNM2dDakViWnJ5Sm9qLTUzRnVvMGZCbHhFMDBpcmVNTlBWLTgtRnVmdTlFUC16T2dNNVlYMlREQUJJbVNpZThZNTU0cHZab291eW1DUDZkUFBtTGFoQmNmdGVqaVFIeGkyQThoeXA4ZHVUeWo4OHJtRVZYaGFuLTlCWVhuMEwzbm9HVnVFWTl5OGQxUFdpWElhMVZwSzQ5cnpodzZjeFdvdm9MYTczTW13cE5feXJ1aFlPUXRuUnd5elVrYUVQX1hVV1VZNlBoVlhfR3N6Um9uNjdoVWk5NWN4eHBqdUUteFdlY05RR3ZwVUV3MVlpSGVWUm5xYjJxdGs5NnM5QlYyQzJQMkVDREE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
