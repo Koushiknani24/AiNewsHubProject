@@ -77398,5 +77398,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-at-startup": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3FKZzF1enNkaVZWQjVVekYybnR0SlNVdWxFNmV5ZUg2MUdWaEFadTRPZTZFRXQzUHVoTmpxakJNSW5UVGk3UDVrbGk0LTFsTk1mbUY1MGR3bUczd2tfUWZaOE9SVzhjMmN0RWhDdEZFNWQxckNscWdUcmpLeERYbm9hOGEzcF9sRldNWll2ZE0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/us-officials-see-closer-ties-with-trump-ally-princes-security-firm-in-haiti-military-adviser-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/controversial-nayarit-luxury-beach-megaproject-punta-mita-halted/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-21/newborn-town-targets-global-viewers-with-ai-made-short-dramas": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/asian-imports-hit-new-tariff-down/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/anthropic-sued-for-infringing-neural-network-technology-patents": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGl2RDRBWkllR3I2ektUQ2pVbUNyVzF5OUxyZTRVYkZ5emQ3cEN2TF9jaWlBRll4ZWJFRXdKczR1dGdER3QtbkVJRE4xdkFQRXpVMlVCM21uUVo1TlBRTmdFbXhiZWdxdVdaUG9nbW5EcHlHODNZMkEwSUZyanROemFveHZxSjJES1MyM01ISUhINzd4ci1TdHBPNUtrZmdqSkNGUWNJSdIBrAFBVV95cUxQbWRwNDJxb2VCcEhwRTM4S2pYanc1V1loYk5iOU02X2VPTHpKX01oaGdLaVVGRmlsUVVHRUFmU3liNGlOZGZTaUNycGhiMlhZVXJvazhsTGlGVWUtUnVmNm1WTkZTelkwNnQxU1hrUUlNYzFIMGc2Yzh0Q3VjQ2ZmSHJ1Tnp4dXllR1hjN3h2U0VPWjFSeFN6VEI3Ymgza3NTVDlHWTltUFkzU2hy?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVUUxRmdYZTljZGc1QlJqX0gyWm1TWUlWZHB5aDA5cXlrWG5XQ3ZDU1lqSkVpcjhxMGFrN3A3cXBSMnhwT1JQX1AxbDNINUsycWFFZFJ2azZtanVydTBjVVlXR3d4ak81YkFRVVQwaks1cmw4a2ZJeFM0ako0UW52akZTMnQ3SlZfSWFfQTJDUGU5RjhqUGxObHZjbFNBTnFWVzduZU1BX2lPYmVzaUo3c1BKdlR2RFk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzhOY2FHNFU5M2daTVBxNXJBWU9nR2NpcjlMekpFYWJfdTVNV3NybEJDMFA5c0tudVhzMkdaTXRzY2hPQmx0UzdBa1BRQVNaWDNuemNsSFJrSG41eVZQYWNlOG5Qc0M0S0lvQUc4S2RNODBySW5NeXg5M2Z6WEw5alFzSDFvS3FoQl9HNDFUQXRBcnI2U2gwS0xwYVlWRUs0NnhsTzZWTzJUS0dHTG5yMGNMV3g3VzUyODJLTlUxVnY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3289705/the-neverending-fight-for-nui-beach": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2pucWtPTEI2VTJTdmlsc1EwNk81SXBVZ1M2bms2ZHdHOHpsb3l1dF9qZUQtWUhGRzlDSDN3ZlE2SEFpSmpuQmk2UWJ4RjVnOGhrblI2aGE3RHQ3clZhWS1iUDVxX2lsNkZiWVp3TVo4RDZhQVRCWlJUYUNHTERzWEIzOU9QU2Yxd0VvS3ZsRWRXWlB4WkdWc0dEYVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/business/anant-raj-board-approves-demerger-of-data-centre-cloud-services-business/article71250782.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexican-high-schoolers-mathematical-olympiad-china/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGowNGUzSm9EUjc3Qi01RlExVG9GRzIxTzcybF82elpDN0JzRUdwTDhxRElaVjBHNXdEcG1YU0g4WFVhSTBsdk0xTzU1dU9tX1BuQmtYSXJOREJSOS05U3c0TnJoMDk1RUlFbHktWEZCLVEzV2l6Z2FCY1BPOHNCcGtiR3lBamdiRkhpTnVzYS1JekNIYWNKWG1WUTZLOHFNcnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-tv-ratings-fox-telemundo-1236652686/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
