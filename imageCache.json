@@ -78856,5 +78856,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-house-approves-122b-budget-plan-with-iran-war-funding": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.yahoo.com/news/world/articles/tanker-struck-red-sea-uk-233332205.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/iran-us-war-live-updates-11th-night-attacks-ceasefire-deal-us-central-command-strait-of-hormuz-donald-trump-tehran/article71251991.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.yahoo.com/news/world/articles/thousands-tourists-evacuated-wildfire-spreads-231823359.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTmVqaTV4dzIwTkdyQ0RXMzdDWGxpVHlseXJ1LW81WVVvNGdTZG13cmJENzVnU204UnpJcVpBSFBJajFtdkhIUGtVelRtS1M2Q0d1dVFZMTZuTHo1MGZGcGk0NXdkR0F0VTU4OEdOeEM5VmRvOWVwSTJKNXJNVWtiUA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlBxRUxJZm02ZVc2ZXJ5WFNTMkowUTdvWVNPQzFuWEdFcVRTNkRUR0swMGN2UjdzZXFsQkJreFhwT1R0NlFKTXNPT3pRV1pFR0RpdEdDMGpacGRubFZfSUVOUTNybkQyZFlKbENRSF8tdGRLZ0FidFN2S2FXWjNaemRMSUJsZU9jR2d5Zm8wUDRGdFhGdkU2YWs3MTBHWk9SY1dDVHEyb1kzX0tSeXR2aA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/22/trump-administration-saudi-arabia-nuclear-deal-01008843?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQUZZTzJxNE4zOVh4b25uZTRjazlOWDlhRm5aUGhnTEdJWU5pcVBSLVlyaGRKNDhTYTF1LW8zNUsxeXYwaVNlbnEwd0pvZVNnRUpLR2d5Tjd3OE5MTzN0TkRabmo1d1JFX0pwMi1ETWdpZ3JXQVNIejZFV0NuR0phcUJ4YmlXYzRSY2pnSjJpcUFHOXFwSUNLcklral9OcnlqSlR1VkVFY1p5c1MweGJHaUhINWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/22/trumps-air-war-iran-limit-01008948?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/mexican-journalist-shot-dead-in-oaxaca-marking-fourth-such-killing-since-june": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX0NpVldFMTlYWlRFazFDV0ZtQlpnNnpYRDkzbmQxVFRHdnBvbm9oLVFfRzQ0cWpyc0I0T2luTm9ISElKUloxVGU4RHpyR2hWMXRGRmdFRlg1WjVlcDRfbzlNX3htaHdiTEZ1dXAtM0pzdVZsXzVTb3YxdXBWU0lrVlUwOW81ZF81N20wQ0VLSkFsbjFpenZDWllnN19TUkc4ZUNkZGswcHEyeGdvMmtPek9veXFlb004aHRHeDZ4WVdWUTZ5b1BqSHB6Vk85YlNoZGlnWU9SWGVGendHcFUw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGlKWUVlS0dhMldiOGtuYjlRZ1BXd1RoTDRETUdLSHpxYXZqbjByNHBOeVowX1lCS1Uwb1lKR3YwNWJVRHRNLXhOdFY5SjN1b2ZJcXQ0SDNZTmtyMFRFcTA1RjdQX0k5U04xUmpoVEQ3V0tHeUUxaHdURm1uQ1E2X1J3S2tLZFMya1h0ZlVn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3290462/full-service-of-airport-rail-link-resumes": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/mexico-mayor-valentin-lavin-killed-town-hall-temoac/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/morena-anti-corruption-2027-candidates/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHlXWkJHLTlaMWZvRWxTY3NnbFRNa09uOW5ZMk8zWlpJdHBUWE91VjlaRDN3cmJDNlB2emtScEN3SkJDRkhqblVUaTZTSHVfdFNEcG9XX3VKbGppRjB5UXhBNTYwQi11VTFaNHZvRnY0aVZrVENKSHZiZUR3Y1hPZzA0WUN2c2pFLUhLWFhQN29XeTRHY1ZKbXNycnJBQ1hJNG1iYWNjeC03SnA0X2ZOc2RqTlRjUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnlBSTM1TjNEQ295Vklrckx6WjRPdEtZcjNSQkhVa3AwRWJyM1FUalRNc0dvWEozLTRIcTFqMmhUWURFbEpoMkVwTVNVbU9LT3h4MGNSbGJ0Z01TV1p4X1pCZld5WC0tMDVraFpRdndia2VVUTA2MnlmT3Fwa3ZoeU9NVGZBRi0xVnQ2RHB1LW1WQ3J1MXNhNg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/mexico-attracting-more-tourists-who-cross-by-land-and-spend-less/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91eHM5TV9pNXYteUFyQllJdWVJazg0N202dGNCUlZfZTdpUThnbXRhTWYtNGpjeXRJV3FFVF9hOE1hSVFpbTlPRmx6dE5aQURzOVkwX0lB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE44ZDZubXdvQzlCRlZYQ3k2ZUxtbGlSUTkwelYtUjFqZU44RU0ta0hMMmdpbEg1bUJuMVEyYXljTmE0SXFVR2RuWncwcTk2YzVHVXpGM0lUSDNhOE45NTZaMm0zWjE2ekVKSHM2T0pLU1dzbE83MzdNRtIBfkFVX3lxTE9YNGdLNi14RzBCdzFaQ3lFUmJqSG9qRUlTSC13Ymw1bl82Tzg5SEdjT2ZsZXFtUzdEbVZmZUlfWi0wN0FVU3FTZU9DQVhmMXdhU1M3MzByR3E0NkxQNi1lWGxtU0JiS1N0LTJYLThXcm5YN2FnZkFwSWE0S3dvQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
