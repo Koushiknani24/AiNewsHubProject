@@ -78718,5 +78718,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/22/trump-saudi-arabia-nuclear-power.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/guadalajara-residents-supplied-with-contaminated-water-will-get-80-percent-discount-on-their-bills/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0NnVTVBcm5qX0lwb3VNV0xtbFVLWWtqM0R6T3ZsaGs1ZmhPQzE3SHlQZi1SSmdMaGRMalQ3TXNUTXl4TmJYQ0VJZ3BqakcteTBJSzI1M2o3d3NKQXhrME5IRFk1dHo1cm55RGxyMFhJRHJZUzFyUlkwRW1aeUx4eDZSSjRGRExDbUJhWE9kRDbSAZABQVVfeXFMTVhGQzVyeXh6UU1GVE1uZ0ZzbE9BS1BGekx6YzRSYU1oRHBWRzNySmhKa0pYNXBHdHloSGRaLWZxQlZJbnVWdFhySDUydER6Y1VKWEZINDFkRjZJTG55Y05SS1pMeGp2MnBCd01TQktPZXNxWkc5b0xNVzM2Vjd4ZWg0TnptM3pTeTYxMmpWbTNP?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQR01nZVpjV1lMaGlIZ1JyZkpqdVpOcXhNVWo2bnVVZ0QyX0JNUl9sS0tBeG5GUTFZQmJ4WDBXUHhBaFZMbG14SUJTMkYxVl94MDdZOV9BU2lfYWhxZlBkcGFYNUhFakpYM0F4NWw1amNpVEZndWE4U3hwRU51Y2dYQl9tZUdMbHdFSU9uM0tEQ25Tc0VlM2lrNEw1aG1xeTVnZVpyVXFxTVJYSHdLMjRSUTdrMkg5VzhIdkwzNFJRbjdqbUc2WXp2amN5ckZFak8zcVE5aHRVa0RWTVI1MGFwVVBkLVZTQWVYeXF0SW0yV2ZsSlJMWHdkbTdOSXZkWnRheTlVNm0yQ3pTRWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80VWgzbFkyR2Jtei1Nb2dNd3p5Mjk3STZvN0hrQVJVQXdWY0FZNjg1LTczdElZSUhUSTVHWDRfdEVFMGYwLXg5TXJFbGZpV2pzSHVLOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkxVRHNEai1jeXMzeVdPZVZqZmJvUjBqdTY5ZVZyWEp5bC0yWFJTWldhSlhlbFhoRmEwcFBnNkk0UWdDdHZMWFRXMk5acElxZEFSQ0otZzFQRElSMXdER1NlT0ptZUxVbTRPT3dFM25rOGtsb08yLUdXRll4SkhUZk9QejZ2RWZrb1hLcmhBYktXeEhrTTZIR3FTSTN6RUk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE90bnlNMncxY2k0TXBfbHh0dU9MZXFuemo0Q3ZTTXhObFpmd3ZGUzh3WVVfa0lDZTJOa3lxNmtfV3gyRkhtWm02bjVVdm1tRGx4M2M0MDkyYnd2NFpoZmlVY2xVV2E4UjYySG5lTlVjbFZPSTkzdWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YQkhCSEdtRHBLbXh1R3gycFhvakpsRG1MQldoVFFsSEJLZWVybG9BSXktaG1aV1dfLUVEQk1nVll1TDJSSkFfNmQ5SVdFMEl3TXB0UVd4em1wcDNFcDlLWjBDcTFxX2ZOMC1VclJhMG5veWFnSm9Ebw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/chris-rock-misty-green-trailer-rosalind-eleazar-1235597479/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/07/22/eu-gives-conditional-green-light-to-paramounts-warner-bros-discovery-deal": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVVCVndMaGRwVDB0NlFFVFp6cW9Ga1I0UXNRRjZoNVI4Nno2ZWlvbUxlMGU3WWpKdE4zaEVIbmJZUl9VVFhPUVNxWklQYlhwRFQ3b2cxNXVFdmE4cHJBcnBfWmEwRmdSMEplTGFraURqU3p2Q2NxdURNcmtEUHUwNXlzSUVrNmhyUURqTWVRbGJNRnNyXzRUaHFKOHdLQ0hZaER1WURnaWxTbG5JeWJCekVXNUU1X3Q1TlZGWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXdKMGszaUpCSEJndkI4REtvaTRqWmFHa2FNQjdPdTVFNTc3XzdUVEdINlFsTjFNXzZmMmFURnA4b0NYSkMzbGpOdmVLaE5MZnB4aWVXZDZtdDA1cXMwUDVyQnNMNkl1a2V3QVk0SXpSNElRRGpUQ3AxenN4aEJZZXRNQUJ4X2tnWWNDek9EOFp6NjZxd0ZzSVVFSkltVUloelZUY1JYRGZua0FK0gGyAUFVX3lxTE0zdVVYUlp6UkNZekdtaFBrSHg0VUNWWEVsaE0wY3dmRUk3b0lJWGlFck56Y1V2SkNXc1RESzRHd1VTQ0tOZ0lrTHhuSlRzOFN1MmdzVUlWa2NNWFlLYjhybGdLQUJ5dEx4T1BNTUdKeVBjWm84SUlYUkN5d3J2ekk1QzhpcE1mbnVtc0hqOUlRbHJhWHFWX3lrSldwU0tYV0ptMGlqRDlwRmo2UXJKcnFUZXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/22/indias-rahul-gandhi-speaks-out-after-release?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
