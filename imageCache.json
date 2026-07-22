@@ -77842,5 +77842,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/turkey-pkk-talks-is-peace-finally-possible/a-78059048?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmx1azBzR3F1UGVZRDZHNjNhV0lneXhSUE9jNDNNYzdudm9tODROVXZLZTZqdWpidUE4dmNJcE9fa2lVaVVvZjRQZ1BFNVduZUlZV2gxUFJpb01VQm9DZU9ud0ZmLVBaM2RxTnNBVHgzSlpsdUtmRjd0azh6N3FGZGh3Y21iVmpKdVNMS2lpXy1CcnNCRldNUGZfQWJfaEt6RVc3R1E2ZUlvdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVdNY0syc3Q4ZklTdU5hRHpmc1lkQV92NlZrQVJENk5tSk12dC04ZXAxdDB1cUZzM3dUQ0tsekVNTkdtME1EVVRnQUthU3hyTnBUZjBwYUpyZUlDRDhLRld5VWJndTJCQS1FQm9NQllGRkhnc2xpVm5IdS00M1ZaWWxhVXJwVlVFYmI4LXZOREx5YWg5cVRuUW5hRUFJMzlsblFMZ0hjOEtwdkVuWGI1eVhzX3JrZlNwSGJHajk0Y3FhT2pyY2JSNV9TekR6c1dBNnBR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNC1QSy1oRlo2UDBERkFYRGVBdzF6QnJ2U1dKSE1DbWd5VW9hTVNucXEtT04wdEU2d01KUkhmc2thN1QzZUJSN016RldKR24tRU1uV3d0UjRMRk1fd0NJX0hGcnhjSnQyRlVTWFk5a003YjBNdHpRcTBWZmh1bW1Ba3pHcEwyekhWUHV6UE1WOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNcU1HZUJmeWtGX1pQLXJNcmJlWkx1NjN6VFdYUS1hbkNZb3dMZUIwWWZ1b3hLSEVKY19YWWlEUXo4RVRmZGpNYTZkZGIzMFB1anhEbFVOR01IdHJUZ3Z5V3c5RWwwNVBuT1l5dUVPc1dtNTF6c1J1RGQ3ZHZhWE9sUFlZb2c1bXY2eTlBWGhBRnpvREdndlY5MmxWMExQUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DWWhqRVlFNTlKXzNxYnNHRzljMGdvbVh2bTlWRk1QRDFmMGx0S2ZNRExoUndSLThQRXhFUEtkS1lydEFpQ09IZE54dGxQU0tIS29SQmM5YkdNYVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT2p3MmR0MU9wTWNxU05sSGxwaVBieWpDaExPdWYtdkpCZWx2YlFCU040ZjFqSzViY25QRWRNV1NraGZXRF9kUHBaVXIzUEFUTEFITTNYWW5Pczk3QlhXejVXQnl1Y0s2QW81VFZSMlZ5WERTSGV0NVFhSWttaEc4V01xVDc5czF2QjY2MjdKSDJJVmtocTEweXVFbkNZWW1nbTNBTWswQ3hiM3ZlOFNTUVkzbHFXVGlXNVBjazBDeHRya2tkVnM5S0hEUTZhbWM4dEJoREJZcEdWalVZeVh2RjFsSXRxQU0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUi1vUjlpQ3dkeGdhSHFPb3RwVko2MGhoNFFVUmtXS3g0TmNpVzhZUTFFSDlvT2ppeEQ4Ti1TSnU5U1VHMUZmMl83bXVtMDNJQmZwVmNUNDhIWDlHbTZmQklGZUR0UXNuaGJHX0Y2M0t6NjV1enVLeUc0LW9EY3Exbjd4N2hSNWNtQWlOTTlZb2V0TThwaWduaFRrYTh4VDVDQkFQTTR3QXl5cnJxSXBPeU5mMnUzblJQaFlpamY2ZTcwUDQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PTlplRUtyeWVGcDJfQVhXUEVkWm9rU2R2N1JVamltLURRNlF5cjJqZ0FFS2RPZG9WblJtSFQ3ZHlQSzgyUmhSWnUwbEZONW1hT1k0cGZXalpmei04YnEyMUpBUXVEZ2d4LU5vbGtSRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/telecom-industry-estimates-huawei-ban-cost-europe-40-billion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/uks-burnham-targets-cheaper-bus-fares-in-cost-of-living-drive": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWdYQWdZdHlQMHlUaXFGUHJ4Tzh1a0NUZXU0ck1hSDZadDVWWFo1TGttWEV6LTk1RHFIT3k1ZkpwbmhyWFFEX0tDT2gyM3M5dktXT0s1dmRRZFJnY0pJZW9ZUDhQT1NtdVRuZmJ6QVlIVk9GNVdoVmVqTTRnLTN3blpBczBhbUlYUWxQRTFzMlZNb292OVNNdUJMTHVBdjJfV2RZWGQ3MnEtaWtI0gHAAUFVX3lxTFBDRjhudFdTS3pwLWpoR1U4Z3RfbTZnbEVLcjdnSWp0SmFiRlhsbmdHX1d0UzQ4dmFfZmlPVUc3RFNfSDJVSXU1azFCZEVTOEd4RGlaSjdEbnpGTmpvUk9fSGhJUTR6ZTRKeFJULTduaktlOHZzcFNoR2tlZ2dKelBwbG9KSFM3ZkMwTXVfcnpjS29GbmVjTEZsWk5Nd19aQXpDLS1FcHdkQWtVLVdiY3VaUG9iZHBzckxNWW55ZWFIMw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/22/mexico-goalkeeper-guillermo-ochoa-retires-after-22-year-career?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc0ZpN3ktR1UxbHBnTUlSOGJvazZhbXF2WWxySmkwMXdmRkRXNUFtQzBPTTRkd0h2Z2F0WHY2V1RORTRmTUJUanZaZkZ6N192OGpPRFZjbFdzVjVLWC1fMWpnb2Q1VDNCdzd5TkhGQnpTQlVOMnhzT1k3dGhIM29nX3g2bDFudU43UzVrOVpBTHBmeWk1cUVaRU5NbFpkSnM4NlktcHBZT2w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM0xmeFItNzhUczhZY05vT1FnaWtMTG14enBFdHl4RWhFV1Z2MlZtTEdtTzNJSG5aVURydTBKb1hXejU5SHdJbjVoMURpQ19xdTZvY0VMYU0zdC1XTGdUSF9NcWFnVVVOZzgxVTU2YmlLVHhrd0E3N0gweVNEN0E4VU01NGVZWXZPaWE5TnNDMi03RmNhS1NBeGlaNGcxSjUwUHVwYkNB0gGrAUFVX3lxTFAtNlIzMld0c1l3MW5nZ0ZQZF9uSlFlYThZOHdlUjY1YXZwcGRVUlZGWjZ1dXREbExJS1BYWnlkaVcybFdnY2J5SFJ1NjNvb2lpY1JGNVBDQ3JMQm5JalhFQ05kcVBvR0NVVjhYVWlNSWJCaVdYQmdDWjZjWGVrUGdCOTBVd0pSN1hjLUdWTG5FSG1RV2tmblN4Znp6ckJTSy1VQXNzd0dva2NvRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
