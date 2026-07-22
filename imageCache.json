@@ -78502,5 +78502,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-hummingbirds-lead-a-very-unhealthy-lifestyle-says-mexicos-health-ministry/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/noah-kahan-misheard-lyrics-clarification-tweet-1235597313/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-22/openai-president-says-kimi-k3-pretty-good-unsure-if-distilled": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMm13WUZvQTJHc3NuUTRxajJKZnNIUkhJb1Bad1djQzJEbndwbVYwTkxMRkh5VTBPQVBIY05GR0E3dm5nME1pRE43dk9NSnZNRjhRQzJqaTV0ZTBOMlBwQ2pqdDNRUmktV1hNNnpKekVkdWRVU3QyeHRtZF9GdjgzMENLUXFZT2g3bU9waEc1QlA3MlpHcElhRk43ZU13aG11Q2d5cHB4ajU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/greece-derail-eu-russia-sanctions-plan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/fcc-votes-bar-sales-devices-parts-chinese-firms-posing-risks-6271751": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/greer-usmca-automotive-rules-of-origin/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/jason-alexander-courtney-stodden-underage-sketch-apology-1236654228/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/hungary-ex-pm-orban-pledges-resistance-to-magyar-tyranny/a-78076217?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGltR09ZYUh1WjhudmhrNGJNRm54UUZtSXo4ZjBnam5qbVVIaENsTkk4bWZmNzV5SjJudmd6N3NnX2tTT2FfbVRUcU5FWEJ6cFZpRWxQWGZxRW51NTRuQzV1TVRYNkZPaEQyQmozeldtbGpXSmxxTDJsYlRRRTNaTUNYeHRLM0hLM3RjZ0pQVUdWNjJJOVpONUJURE8tRmd6a0lMR0RWTVIwRXRSUkhmYVFPOU1rd3M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE0waENuQlBBY3NyZU9JRnBRV3p6b2ZDM01DbVdBOVhiVldtSm1INWRnUE5MeGk2NmRTdjBLWGtOTzRZV3gtSzlVVXZVbjE2VkU0Skl5NEpPSnZDel9Pa2xLTlY2TlNJVXk0QTFBSGVHcDJCR01Y?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjlVbWFBODFERXR4bDJSTEYteXlWNk8xVFM2YTU0UDVodEp0MW80YlJyX2RpY1JwU2xvMGxhWlJqUGVrTUpFMVFESkYyMG5pLURlVzNhVENBZERqNWQxZTVnb3RlVHVxOERCRnE4bGtUYU9QbEktSGRYWXZYNjYzbkoyTnNuVzJtTXVNMDl6MG4zOWJ4VHA0RTQ5Rkd5SFU3RlE0eGNTSnAzZ9IBrwFBVV95cUxNaVN2YWhsS0h1XzBTMXJNMjBsZWR5U2piS0MyLThPYndmYnhDR25YT211V2hobFo3WWE5R0xQSmpCWDFfTlVtWTVUQnR4RUsyLVNkLU5SOENJT2I2aURWVVNHSWpxOEVVbDgyRXMtLVpqaHp3RHZkaWtYZmhTQ2xBakh2cmpTS3hRd2FvcmpaTlNqZV8yQVlZS2poVzNPV05ES2pvVWJucUcwRlY2Z05z?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/22/water-cannon-deployed-at-india-education-system-protests?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBRMWdUYldNM3B6UDFrSXpEd21GbzRtVklxWEFtVi1vclBYVHlNN3NmVVVwcnZPUlY5aHVBN19vbTE4b0VJUXJWXzU4TTBJdVc1UGVSR3BBWWRDeVZIdTYydE1JU1dLcHVIYTZSZ0NsQ29Hdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/nato-allies-agree-on-e27-billion-revamp-of-military-fuel-network/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/who-could-be-the-next-un-secretary-general/a-78052763?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/cueva-twins-dominate-zapopan-diving-cup/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/zelenskiy-speaks-to-u-s-envoys-discusses-weapons": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
