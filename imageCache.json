@@ -79852,5 +79852,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-says-saudi-nuclear-deal-off-without-israel-recognition": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/lifestyle/shopping/heated-rivalry-funko-pop-figures-1236655111/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/apple-dating-show-the-last-person-on-earth-1236655112/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE82dkFvOGx1UVcwRHJPZ1BjSWNGWktMRWRGUHV3bXZBX3dqeXJHaF9aX1dFdVlqOG5lbGNXMG5oR0RRdDg3Wmk3ME1iNV96bnlhS1BtVTB0UjJJMGpwcWxGcFpzUmswU3FHSFgwSUhjVkNkZ3M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israeli-strike-west-bank-violence-kill-five-palestinians-officials-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVjNpT2w0eFdvNlFrckc3T1RPRVdHV2dUYW9zUUt0Ym9jdWV1V3dheGRkS3EwcHVDWElrOWhhbUs0d2xyV0R5cUtkZHdEbFV2SnNidlVDbTJsU2NpVEJPZnRodXVDOHEzZFZpcFk0TWFlQUdBZjF6YTZvTDNibTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkFwVVlONXIyVndiWHFWanpURnJ3Sml5NGRfWlJfT3ZnTlI3ZjdjY2IwbmJWMU1KcnljdUdqMmhvVENwT1RDRlJfY3VtVjFxVmltZnFyQ1BpbUowWDRsTmk1RWhTamVPY0Rlcmtkbk9GTTF0TndCLUhHVWVPb0NzSV9WUGxMZlJLLUgxdlFNNG1uZ0xydEpvdTd3Mzh5RE1wbG5Fcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/sweden-eases-mining-permits-to-cut-china-minerals-reliance/a-78087394?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoeS1ZQk4tUVNTc3ZQeVNoLTdnWExEbllsVk5XVHFsdFQyc2lnZWloMC1xTUxDckNHX2RsdW5jSlJYMWd5Sk9xYW1qZnVDSC02WXlBSDRZUHJrcmdDUEY3LVhWQUQzQzdSVVRvQ3k1Tmk2M0VLTUkyQWEtSdIBjwFBVV95cUxOdWdadmlDU2pjczgzbFJfTjBlMldMdXd1WkhMV1BWZVpwcHhUVXUxLWkxYUM4OUhjSDZZaXh6MWFITnhmTFV2OGdoMUJnaURSQ210LTBHbUhyT0E4U09Wdk5VaEpKVEZzS1N6RXdRcFBFenlEd3dwYzBqeDZ0UGFWd0Y4SmR2VkgxSzlvVUp4QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjBSTXJqTWowYXRhU1Y2Qy0zX3pLb3VIa2dFLTRyMGxuaUxpeFhuR0tSS1BZQnpwMHlwemlNcVlnSUktbGszMEFpZE9NZHJzbWItdVIyQUlNRlJFT015WFlxd2xQdlRrb011RmdFRzRsREFsY2J0bm1OeHZrU25GVThrUGUteXZCeGt6clZmQkpYcGJJY1JpS1EyeUdWemNHbHRxckFZWEEwLUtVc1Fsc1hR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQclM4V2JONWFuTXYzY1IyV29PSWlsVjRFMnF4SzhxNl83UHduNTZWVTRSLThVYkZJUFZCc1FLQTRoY3RJUHE0MFdUN0ZwelhkWFlGdFRBOUxRdkNtVkpJTGNkZTE5NmZfOUJkSWtSQnFKb2Q3ZjNvZ0NGYXY3MG96LVpCS1FvVXFmMDc3aU5tZFgwaDZTRW5XdGw1QkVnOTNvSUg2aHVVRFJNRHpDbHI3c1cybmpsTlp4NEh5b0tn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/07/23/leonardo-callas-and-curie-or-europes-birds-culture-or-nature-on-new-euro-banknotes-vote-op": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/mnd-local-10-years-of-treehouses-and-farm-to-table-food-at-acre-in-los-cabos/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHZGNUJIVDM4b051ZHVfNEJYZmRlSTdLdDY5S0hLUFpCcTJFeU41bW5mMGtSbVNRNGhBdnhta3JpaFVXeGkxc1VwVmZvY19Ibm9DU0VwNWt6cWJDTm02YVJFZzV3UTZmRmpHckNTWkxGV2pCQjBqZHRDdExub2U0OGlraDNlcWFKaS14R3RDdjBRYk5mZDRoYkNfVG1tcmZybXpwZ1I4d0Z1bldT?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdDQ3VV8wcHJpLVpjOEYxMXFJd201ZWg2NDZXdlV2c3FzMjZaZHNWMm5RNGhnVktMZWF3WjBqczUta3ZsSHU2bU9oLWFPcmJ1ekw4YWk5U1FVajBud0gwUXJBaG5qRnlFUzdFWVQtUHVFVVhoVWN2dFBtbDd2SGFmWlRpUjNWZFpEbVdyZWlweE9aZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ2EzOVRrRFVCR3ZmN1M3SHFyR2lEbXVDb21vdUFnYWRkWDRoUk9vNFBvWkhyWW9PZWRIZkxBYzZHdVhvS3l0b1dJZHVRSkU2YmpSYUVwajVWU09hQjJPdV9NMlZTXzBGX3l2SzM4NTBoSG1hSDI3cUFVX3hWQ2ZHQlRJRkRwaHBHZWl3MkZ1QTVRTjU4aEI2cEJJcWJtSFZHSGpBNw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNekJiczN4dlJjRWh6MjRmdnM1UGRTWXo1NG5sRjZoNjFEWWRtX3RPMHhIYTRDTzRhOFM3Vy1jRzNqQkZXWlZGRFAwX1ZyZ1ZLN0VnWkdoSDMybVBiVUJMV19pamJ0OEtRMXdfNURFalM1bzZzVzUtYkloeG1Ic3Z5ekdZM3h4eEhORXZxTmxYVURzV01lN2ZSajNDanJ0N0JGMmp0bWQ4UVNmejVxdWhtcXduYURid2hZYkUzbTVmOHJCNGxWaW1rMVVHc2R1TW81YWZr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/mexico-canta-16000-auditions-second-edition-july-23-mananera/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40YlljWS1UaWRFaXFhUzI5YzBEQ19BTW1NOWVOUDJKbHFXWHFndjg2bTFFUGU4VTJOZTJfUUVjTHFZcVJ2YUtMTmcwOHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
