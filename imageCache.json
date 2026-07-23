@@ -79630,5 +79630,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/555-cases-pending-against-sittingformer-mps-mlas-in-kerala/article71258755.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/us-strikes-on-southern-iran-infrastructure-widen-war/a-78087402?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBuWmN2RmtwS2RwWWNITzUyeUlqRHBibzZkcjBsS2tyNEtLbVp3ZEpxbGo1VWw3TzEzREJzY0Y0dG1uMVNFd3g1MDRmeHV6SElOS0JxcFhjVjRFNng0WkVhMHlBbWZQdFlJbUNyazlrTGZ5UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/23/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX2FsUE5TZk96em9RSEtjM0RsQTVXYUVvckd1bHJDQkN3V0ktSXg0YzhURFZJdXVtWHNVRXBxbTdvdkZmdFllQXhSeER0dmNMdDYxWjhQYVZadnNDLWpfUWFmYU1FeUc4cWRJUHp0TkNlREROT0tjSkVDRzBxVng0NA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/23/latest-news-bulletin-july-23rd-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY3RhMGREek5uSUxETTRSZkFKWUx5SklNX3lHNl9jX2xBbGxodHpldTV3M2xhakhVWEdPU3FlNEtOODFfR2N1ZVphU181OURBcHpRWVh2aWZ3VlQ0VE9jRzRNcDVFNW9kalh4SURtMjBHTk5IZ2IxdmQ0SnFGbWh4M21xM3Z1V0VNQnlzTzhFMWhiV2t3RUh6Q2ZfT0kzSzJibUtJaDBic2JsbHctNkl5UHplUjDSAboBQVVfeXFMUHlZV2RxWkJOd05UT1NjaEtVT3NObktEZ1ZVV3p6XzFPbGwzWGFidldCVVdIdmtRRmstNmh3ZGwxMUkwRGdZT256MWlwSHgxcGZHdW1XOWRTNlQ1b1R3WWlDX1RuZkdISEJqUTlRNE1MbVlkcF9NdlFUNFFqdHdlMnhjazNfQ3Zkd1JMY2ktakpzV0s3VzA1eWhDRHRkOTVWVmJYUGdHemFpb3lqZFd4VUMyVGpzU3piQzl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/7/23/in-india-fear-has-switched-sides?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hTEJ4QjhoSjlNX3p2RGZiVmZZR2xremhJQkF1TExBWXZ5Q3BqQ040UTZaTGRoX0RHTUZqaDBKOUx3a2ZHOVRqOGJ2a0pzWkNjeWcwdFZXaVFpTGkyemg4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejNncWRzU0xaMVFNdTJ6SGNSbHU4X0Jfeklta3NLbEJuY1J6dG55UjhreHR0RlZvLWRlWVVMWGc0VmstY0pVOVNOSXBreldoRE9SWF9IWEVQXzYxOVlFQWp0VVZrWHVRQ0JuRHRNSVpBd3BMM3dBM3dvQTZfZUVvVmVQX3E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWF9jclFGZm0wRlMzSzhDWkROVEp3ZGxab3hIZTY2V01GbGhVVUZ5bmVLUElmWFlZV2Q1bjBlU0N1TEkxVFVaNjJDNHpKQlFHNUU3VXFNZFF0ZE1JTDg1MzZFTmhFQ1VSRU1SRGRXUGZfU3ozNEJacW1OR0xOcmMyTkkxSG5kQ0FfeTE4bTdsZlhsVVgzbVZmejg2NDF4dUpSZUZUZjNyRUZXWU1OMjBQNHF4N054UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/23/modi-adresses-indias-youths-cockroach-movement-as-protesters-hold-capital-sit-in": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/23/more-than-100-uk-millionaires-ask-new-pm-andy-burnham-to-tax-them-more?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/trump-s-refugee-policy-only-white-south-africans-welcome/a-78075039?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
