@@ -79066,5 +79066,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607230051.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/iran-us-war-live-updates-military-strike-us-central-command-strait-of-hormuz-donald-trump-netanyhau-khamenei/article71256441.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/23/yemen-houthis-claim-strikes-on-two-saudi-oil-tankers-in-red-sea": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GRjBuUTJOUnQ3MmtudENaMHZvM2w3VUhPemhTTlBIWWtfQ0xvRnZxWlpxeldBSHhLNGtTVWZVSEJZVkl3SHdzZEl1eTFVRVlNd0RtZEJGdEcxbnZ4cUlEbnljVUF6S3NDNVJ3RHZqMDhRcTR0bWo0UjVUTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZzNzQXUtdjEwZ083aW1XcjluM1RxZGhsQll2MFItYUpHR1dKY1RKdzI0MXZuNE80a3VWYzRJbmVkSE4xb1hCdUwyRW13SzRZWWZCM3haWGI3Z1JuRmwwWVc4aHo0YmlYcVAzYXJxUThUM2c1OFZVNENvOFhYdHJ5d2xvRFNMTW9iT1NsZTdEYzA3NWk1R25QblgyQ1RSS3dUbV9VUFhPcW5qR19nUl9idUcycjhKbUpCSHFiaFJZVTZaU1dKUVg4eHZPaWpSclJBOENnY0ZFbGpra0hwdWhv0gHkAUFVX3lxTE40SDJwYjdrXzVtV3B1NlZuOGxWOGQyTHZqOUdBMHlPMGt5YmcyLTFDTjJMMnRzOTFtSHpGMUlDNkFHYy1GbndSQU1STUxvLU53VXpaOWhNODdVbFdQc2NJX0xsUDM2c0tXdDlJS3ZUNHpnbk81b0lDQm9hc1V1QkY1SGJJLVFobEhNNS1INkpfODU4d0F2alI0aFJCaEFwZVNYUmNMa2FnZHRIcXhyS3Y5bXVZSGJVRjZXYVNQa21FZHJqOVJHOXg4bGdVcFZ0VWFmV2h1QXh2ZXEzR0ctdmFCR1ZKdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/23/guyana-ferry-disaster-families-demand-answers-as-around-100-feared-dead?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMkxhQ3M1NWVWeFNtLXE4bnplN1hIYmhQZ3RaemZScl85Z3IydS1JV0FkWVNjeGM1RjRZV0czTFlzc01QYWpjb2c5VWpRRkwxMWpURE9WelotS0Y0Tm5RSk5fN25IWmlYSlFhc2U0UUx0czJXQm4tWTJWQ3dlMjNXWFZLTVVjdV9sV3hqdjZCelVWRU5IVzFZSkdtZU9Rc1daNFI3dnJSSjJyV1FKbmdRRGNEczFPUnR6dklCRl81c01qTWg2YUxSM01CeTNJYWRwVmpz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3c3Q1d3lWTnFsT3lNZE5KMURnTXVPbER1VTVMZDEzTXRQeDd1SXpvNTl2Z0VCeWRHQmxOQWJoSVp5S01iSEJPZ2pmUmVpeGE0bl9HbFpR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3290519/cash-limits-for-physical-gold-bar-trades-proposed": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/23/us-announces-landmark-nuclear-deal-with-saudi-arabia": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc2w4dVd4RnR1aHA2U2Q1YmxrNTNWMjF6bk1yTFlIdWg3R3Jya25XejROVGNlOE5oZExSTW8yWXhVRkR0Um1BaXcyejlnMEFnYkFSSy1jdUsxVG9kb1dsaXg5VHl5WDBHcmVncFBGRkdPd0N6ZXpmVGRVWnFpS3pucmdn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ZmxCOHN4b0I3LUZBSHk1Wk5JV0RhMm9sdkJycFg1Tm5pdlluclFUVjllcUFkcjBGMXNzS1Z2dUNXWW9PdFcyQ05PWDBhQ0lDTUJZQTVB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/23/jailed-opposition-leader-ghannouchi-faints-in-tunisian-prison-due-to-heat?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUks4eHkwZG10MTl2UXBNZGd5QXlRNFEtdGdwVmtFd24xNnUyZ2EwdDJwbll5WUpLM0tFN2RiN0lDb2dlM2pjdFFPY3BVRTVzeVF5NWNQcnVhLUdrZjdXOWNiVThpUEtPTkxPOVpxdDZCQnozbWlKYkkzZkp6NTNzSlRndko5Q3pEdmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3290237/security-guidelines-for-smart-devices-in-pipeline": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNODJpMnNybVUtamlPZzM2ZEJDU3dEQXV3T1NSXzBQOWI2R2ljNTltbE9VYzhqWVp3eVRZdHNFYWJ5SHc3Z29BR2ZNWGNsVk1ESjlfWEllQkNEeU1qMmt5cFVGbWh4d2lBeFU3NDhISVhCRmtFLTM1WEZBNm1DU05ZNmlZdjZUbmw1SFNGNFhVVjAyRDR0ZHA3REd3ZGdjV0hh?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
