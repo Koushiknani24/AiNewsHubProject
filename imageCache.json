@@ -80668,5 +80668,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.wired.com/story/kagi-brings-back-old-school-search-one-human-made-website-at-a-time/": {
+        "image": "https://www.google.com/s2/favicons?domain=wired.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNaXpwOTRYNnlpcUlaZUYwRU5vRnZKRkEyUzhNSEtwMUpXTUFOaFFiX29CVEZxZ0tVYUs1TU5HSFVQdENTRUw0ZGdKVm4wSG4tN2hKOXBpcDFjVnVNUEY1U3c4cVExMmVYZl9hQV8zenR4OW9ISlNaMzZlN1RXclhCSW5kTUVLbTNPYmZEWTlJTEljUy1WVkZRRUdqVF9UQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHF3MnlsT09FYms1WkpqeVFXalpyc0tEQmtWRzgxLUl0U29sLWxoVXUzTzJEM3VfNU44dDNDLVdlWTFGWHRBV2RHaUpieWdpSHhIN1h6SW5NcEYwNVRnQXgtcV8waDZ6dlg1NUV6UmJQcVE3N2IwVzdEMW1JUGRpNTJwSlNjMXFoVGM0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-trade-truce-holds-despite-new-us-tariffs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ0ZnMWxnNmIxSlJ1cHJ4Q0g4NFVobUNtWU1Cc2J3UUNWSVl0b2J2bDZuUkt2d3VYb3p4RXhadWttTW5jU0VRczVkeHA1ZkZJOFpUQlJ3QVZPa2F0NkZZay1qbzU4TUFBdy1ZWVk0Vk5wdlZEdGhOY3N6LXZOTkN2U3dMTlY3dDUzUUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRDBMVkZvdVl1VnhfWVRlWHlwWU55TUFaN2pRZ2MxTXpZcWlqdF9USTAtdmdPNVRNSENXLVgzYU9VVFRDWTM3TW95X0VSUng1QUNfWmYyUVpzbFR2cUEwbWhPcFpLN09wRHN2N0N3ZGh1UUM0emptaVg3QkRzR1lOOWF6dk0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/24/germany-appoint-klopp-as-ex-liverpool-coach-sought-to-lift-world-cup-blues?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ1FVRDZROW5FOEJtTHc4RnV5ZXhhRzdlRzhGandYbTZYSFptdnVNejl5c1lZOFdMNmxCYm5JUjNIa3RrcXFDeU11NkNYSFBlNTFOV3M3VGRZb0g2dTRlN3RReWhJcWJNdEVicjRrQlZJMzc1ZlhQdkJHWGcycGdzSF9VNjk5dVBTWUZnd3JGQVFLdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFlXQ0pxSkN1bThLRE1HenJnbnhyN2YyNjctd2RLc3NtblRraG5aZE5sSjk4VGp3c0tPQWR6YTJHeklMc3I5bGJycGpFZUp3Zjd3c3M1RmtndWxHUkFJM3dFM2lId0Zlbjl3LUQ0ODFFQk9ab0RLOW1taHVEc1pHSlV5VjVWRndnR2FLQlFJV0o0YkNMaVFoU0dDaGxYNEphN1hqSA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcE5kX0xGNHo5N0RIVlR1bElxbDlUNjRmRFBZZjZ4T2RwUzk5SHB5WlpSUTB2NWJaWUV1SDY4QlVzSGd1WXFvRnh5UDNrR3hWWHozeFF3QlYxcm5VTmVQeHhGUGIwTDJBLTZ3blhuYWtybkpGbjdqSWNVRHZPZFdGMElhYWJCS1c4WVpyazZXamdodDB6dGktNUFNM0hmaFgzUG1MazRVYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTjdrbTc3MktmQ3E3YUdhQy12V3IyRjZybEFIaG1zWDJsWlZFYUxSWDNTdnE5a0MxZHJWaV9KamZ1YVhYc1dLT1d2RHduMlhsSVdpNmcyNkdlTG1vTmVMYU9ydGNoMktUaHp2SFQwVHZYR0xyQ1paN3FXSGtCSlJkclNGWFhNVjV0czQyb2lkR1VicjZOeHV0RF9wMXRZRjZNUkdMZDhrUlJVWGM1LW1GaWxsVEJ2dThQMmtnRnI1YjVJb05nT0lJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzh2V1dWTkhEbWhIeV9RbV9DRmppMTdNVFdxMXlydVRxMnNzeEMwOTZISm1wNWdNeDMwZ0hLVlFxYjF4aVl2c3U0UWp0Rk1IZlMyalVYUUI0Qi1SSzFDcjBYWllOTFhFSGVlMGZVZUk2cXBBa0RPUXRmQnBpYnJwWFREc25rTjdzemRBOEV4V2xwNml3OGxIMUxISDg1RzBkRC1hOVYtQdIBrAFBVV95cUxNZ0hfbVRLTkpNelFEeFdMaHBlRFp4SW43VWpvSVh2cTd2WlVEcE9NNkRsaHB0MklUajhOMGl0RjdSZVRrbFNfckFOSGEtNGZDdlU5dFRHdzhDOHNRS0tQOUg0Mmx4VXlFYk9LdTlYNUxxVzhtNUtHRmh6RmxQVGJ3Z3drX2gzNXdRU2c4VjhOYkFGYi0wY1hITTBGWmFLR0R5S3VRR0JNdXl2XzY4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYjEzejlNWlFQSmpqTk45aW1QQmVONjhaTWRFY1NobS1xWXRzVExpblBjVGJSZk5qOHBOcjBnV0hWMktIOVpaT0N4UEhoU1JFbEZsVjZIZldjeTZXT3VEWlVTVG5rSVR4QU16ZVprTGlsWjBCbk8xUkRlamJ2LXl0ZnQzUGxyMmRVNUNNd0FHVXE4TjJveTVld183QzRRV3p1ZVFoWndtWnJGaTFvU2l3bDdVSWpfdVdubDA5a21sSXI2TjUzZWZER3RGMWxUZEp4UXZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15N2M3Ym54N2RUUGFma3o4WVVESF9SQTFpSXJnOWVyZ3hQbnhfZWNtWXZyTzc0MWFZTXFSRGxudEtVc1dwbDhENTY0MmsxRkY3cDhHM2tnYUZRdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/24/ukrainian-drone-strike-ignites-major-blaze-at-saint-petersburg-warehouses": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/spain-declares-emergency-as-wildfires-force-thousands-of-evacuations": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/24/philippines-accuses-china-of-using-water-cannon-on-vessels-for-second-day?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZl90QmVaeGdDMFBWV2JaNkRTV29BN2tJOTIyVTdYeGdrTXoyYS1PWWthTG4tUzlkWlBpNEtiWmFUTTRBRC1VYTlhNlhCb0EwZ1NoUV9CUVRlYWZLTmdhakcwbWNTUExtYkEtUVZzN1pEUkhZRzgwZHVGYU5Lekx0bXdNNHoyWnhkcW1WXzZmejU2Wm53YTdla3RZSk9NS1p5YnFUMjBxZE9HMFJvSVk40gG0AUFVX3lxTE9aU2dWYTlsVEdubkFVTWRoSlBqZnJaYTBzWUw1THpGeGo0eXJWMmpqcnBJYTAyZ1VmajdVZTI4TVBRNU9VdmFwOWg4WjV5bHI5c0NlNU1LSll2YUJvdERRMjBkbWtVWFY3VW95WFJyc1AtbHRBWVdGYVd5ZHFIamI4S094c1l3V2hYb0U0OU02MVlLNVc0SzhnLXpEWUUtQW5YSWJkaW1DcTF3SkFKSmUzMzBGSg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
