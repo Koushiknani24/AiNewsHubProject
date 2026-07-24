@@ -80560,5 +80560,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607240111.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/from-steppe-to-sea-a-ukrainian-drone-unit-hunts-russian-ships": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/middle-east/20260724-middle-east-live-us-launches-new-strikes-on-iran-as-oil-prices-skyrocket": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMHB6MlNqOEJuZmtUZkRLNHVTTjY4VTF0aGViZU9yWlBVbV9nNVBVT1NKRGRVUDBVSWpHNTU3NTVXTnk3b0Jxb0w4M0UxWG55aUxqVi1wWk1KbkJ2OTlObUs5LWx4VllMNzBfSk5WREJseFJXS1ZqWTZZQUZraEtsd1dMbWlBVmZXZjBlQlkwejc5U2YxMjEtUWVRV0EyRXpyVmltTU1GVDV1bHhMbVUxckJKaC04V3piZzBrQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1RucmZYWlpYLTh4RnZsdlRPbzgwbjZHUUdEY0JGMFdQQkhCZ2FoNnBtdngxQWdOVFA2V0Q2MVVRaGlRT1FGbGhPQlNDcVQ3R3FFQ3VDNU9ldWVFb3ExR3JidUlTVUkwWUM3TWFMbXh6bmtrU1BtUndRM3RxRnJhOVpwNGczdUx4SUJSNGRiZkRPdFRibmZlVEo4c2dNWW5FRnBZRnlncmhLczFpS1FIQUdkOXNNX1Y4M185T21xclVyZXFCdlJXV0phVWExRHM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-24/japan-banks-with-shipping-finance-expertise-are-latest-to-merge": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607240110.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wV2hCbXc2Wm9NMmVTbU9SRTA2R1BzS1VodFZfZmdkVV9ZdXhOVjVNSkFwN1RVU1FxVmtKZ2FMWjdFQmM2VHBuYm5COEUwbTBvVGJRVFR3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3291094/thailand-raises-2026-growth-forecast-after-june-exports-beat-expectations": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWFZYeDd0LXlnTjRUZ21JMFVpQ05RS0lmWFgyekVCUDExSVRGUm8wRmNXcllsSEsxQjlfTGczYkFGdHhORDBYclRISWFLMjhoTWhHUTk2YTFKVzA2WmItaFlld1FHNVhKT1FRWDZXLVoxdFdaM3hKckhzeVd5akpPRHpKcGhlLV9z?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-24/india-s-biggest-ipo-of-2026-briefly-dips-below-offer-price": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0wySUZMUUtpalZGT0N0eXBnMlhvdm0xdTlidXA1WVE5ZXhuTU1EUnR0U3QzYTJITUhzU2hrQWNPS0EzZllxRld4cHpwOFFrdEktWmdvRERhT3BVeDNsWlE4MS1QTGRkNWVIb3lqeGhYVmlFUXBxT1FXZDFJN2xRdEEzZE9oeEVPbmczY0w2MTFvc3VuS1Q0NU05OE1XMUVaYXU5cNIBqgFBVV95cUxPTkg4aUJwRi11VHVkcDl5dVlyZ1lrekVHb0tLS0E5dVozVzJnaGxjY3V6Z1lpTElyNEFhZllKTzVjc0pTVUdsZ1ZEVDRfR1E3djVlUXFfU3pKWGhDakdCaVIyS0ZacWtaUy10RFU1bTR2aUo5NGRWVkhoRGowem9VSjgzcEZoTHJZMXF4dUxOc3dBV1pDNGxDV0RlaFJtbDBuT3JsZXJXdHF3dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUEU5am42end4XzIwRWdzZm9FaGF6UjZBbkZZUUUtUDFFWFg0OGRhU1BlOU52OEFiNkthRGUzb1pWX2R2QXNteThVa1NtSVltd0t0cTF6Yk1vQnVER2NxVkp5WGpDMEItVGVQVl9tMUdsQlJsUkFfcDZXTVVpYWVuYWZzMVlFdFVyQjBkb3AyeTNaRl9ZM2Z5cVZtOVFKbGcycUdoVlItRXNEYkRVckhhWnhKdXdpN2NaTVZiMVdCOWtsN28yM1RyZGFmRkJCTVVQMFE0bjJpc050X0poN2t5ZWVR0gHnAUFVX3lxTE5zYW90RmlwbXByTGI3Wi1HaFIwVmQ2Q0pJRVVUZGh2U1BwdkU1Tng2LVBWSGFpVXNETnQwQl95VWc3M3RZQXRIaG4xNlNDWmFqYjg3UkFJcFR6UjRLaUpicDE3R2o1b1hydDA2VU5EdEJTWmFHVElYak5VQjZUUkx0blA4dmpONWRVbXkzYzA0djZhWHRvVWpURFNXZjVYS3NmWnFtRXM4OXdoV3NVNzI2R0s4dXprUEhkWXRYUHEyMW9tS092ajlyeGFzR1R4NmExUnpVQV83eXhSZ01CUXlOc1llRlE0TQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZTdFWjVyN0F5aW1lUDMzdUI0ZnhSMm0tYkRodlN4M2JZMXFMYXBrMlhXOF8yLUpRXzRYSnZDa3pqWUNOeFBNV1ZDWl8tT2FXZ2Rqa0l1ZElMUzFRcVl3OVN5MXhKMm1NVkJBTFN0OUZmUU05V1V1S0dLV3hWcUlscTNMemFDRDRidHVmekROMG5MZUZGcVljbTVEeUZaNXM0QjNHQkxHNE05UUk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRU02SU8yNTk0T3h0UnBNX2RCaDdMdjU2UFhCSDZ2bzlaTkZCS3I2TWl6dHlJYlY2OV8xLVNBcUp5aGszc3o5ZzhjVk91SFlCRVN4QU82VXR5Q2g4Y2F6eUFwdkFRTzBFc1dhbGRHWjBVQlFZNnQ1WUVNT09zQy1aczdBcm5zMTRGUFlr0gGOAUFVX3lxTE5vODVhMmtmekZJMEpMRkx5OE95UUZBbVpfemVsSHljdUY2cTZobTNGZzd2Q2FhM3JQcmlPeU94dV9ic25YZEpqQjdrbHlNUVJ1cExna25jaFotX1BGcmNrU216bDVtR0lCNHZmRTEyMWNIVmdSbnlVWGUxUVp2aWxaNFZoN3VYVFVrUl9JQUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/24/latest-news-bulletin-july-24th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
