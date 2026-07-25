@@ -82300,5 +82300,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-police-intensify-surveillance-on-illegal-lotteries/article71266139.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-says-ukraine-killed-11-in-tourist-camp-ukraine-strikes-russian-refinery": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/u-s-aimed-to-send-envoys-to-brazil-to-question-its-electoral-system-sources": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDVOZ2Q5eHM1bHE2UGVGRDh5UG9fZUc4aUhKX041cjNGUjdNRWQwOEh2TXlQMGEwbk5ZajY4UkFkejFndDJhX0xza2tqQ0NRbzRzTVNUS2FIbXV1TDFoaGFzanFmZUxmYnFzZGhqY0tveUk2aEo3YkJxb1BkeXBqbmo4MFZWMEF0U0RYVEhsZURQS04tR3lwdDczZXBVQTVz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/25/russian-central-bank-cuts-gdp-growth-forecast-to-zero-expects-faster-inflation": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/disappointment-and-fear-as-tens-of-thousands-people-evacuate-french-wildfires": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/centre-agrees-to-release-1900-crore-crop-insurance-premium-dues-to-ap/article71266517.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVNPaXRkTVF6MzczNE1idmVzZjN5VDhmWkdjOWowamNUUk9wOURnTXE4c3RTb2hTNWxjQjZjVngyaFlYM05JLU5xRE1INUJDNU9HY25DbTlQdkFhZ3ZwWXI1RVRUOGlPa09PbHdXREp1UWh5T1VaZUZoTWNXRmZFVnBqYzlWMlBfY0ZRdERHYUR4SUdJTUliUFJRTW9nOEVlSjNzYU5OU21FVndidGFnQ2g4RGxyWUk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/24/trump-content-warnings-smithsonian-01012076?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRU5OdWoxU0I0VTVfYXJ2QjFxeGhMa0I3dnROMlI2RGpoY1dQNmRHVW9POXpQVE44RDRjNjJwWnhWV0oyamZOOHZXOWZPOHFmQk95NFdlaEhMdXJaaksweUFPR0dfUE8zQnZZTFRJRXpKY2ljX0xVMGZ6dDZZeTZodTYySmpwal94OUhZN0dtQkhzNFQ5cU9Oa2RVT2RVc1JMbnhwTzdFY1JUeTN5eWthRNIBtgFBVV95cUxNWHJuTUZjQ180eTVoeWdoaE9hOFhQb2w4a1VHcktxZE0wd09sQjA2VzhDTWdfdDhxWmhwVm81N1ljRzFGWmNqczBNSzUtZDNSR1RxaTlrWDg4d2hUU2JSMkU2QWtMaEFVYWk0SWE4dUZ2Tk1lNWY5QlRPUGFxVnpTSFp5WC1YN1otdnpXeU1TN1BaVjJmbHRjRmhnd3cxNmRRVG9MQU50VGN1aV9tekk1eDdKRDAzUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
