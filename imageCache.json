@@ -82492,5 +82492,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMW9SdDdIdGI4aHFVSW51ZnZ5bU1xNlFETG5MTDhLRWs2Z200S0NfSnN3OWVyS0lGWXFZWjQ1OHJTOF9Nem9GZWZDTXNvX2lYcG11UXdDQ1U4Ylc4YVFXWmhnLWRfTG1fWnlWN09LamlBWGxDa0cyWFI4eHRNdFNkY0FrcFl0UHRiY0Q3S0o5MGtrYVVlWG4tbzNlOUFzM3V6eHd0NndUTGF6MFdGOVRhanhaVS03R3hUZE1Ib0JzRmVnMVk0bGQ4Zmhrdl9HbE9SOElN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYnZhUlpSbGVBUFJyYzVTcHFmb0liOU1PUDh1UWE4NHpTRDBDdEliOHU5OXR2RXZ1aWpHYmNPcE84Q0hTNFl2dHhXVkJpSDZBa3lzZmxXZFltVjNGZ0RNLXRFNEQtR1NMWW42enI0YWxvSXhiWXIzOFZJS1hpSE5XT1Y5ZXJCbVEzU1hlUlR4R3dIRTUxclhhM0RsRUlRY3g4TldTSGJnbmlxSmd0NW1fWTBReFlwVDVsTTBtNHBsMXVDMlBIYjJUY2ktM0JsUC1tdTdZcEpWRE5wWTAyNGJTQ21ES1h5Z0HSAewBQVVfeXFMTTBEMXVHUDFZWHBaby1FclpTYlJudXI4SGtGc002Wm1LbmFKdzA4c0ZwQ0ZHazhFQTVSYUNxRUtXNnQ0RzMwYzhOUkJLUWVDUEtyRTFQTUhPeTdWcVFGU0xzRTRLeVplUExpSnJXRW94R1RLeWE1Ulh3ZElYcS01emtmUTI1QWVreWp1eEo5QTM3bW1tdjJLb0R0RER1WDhsVUF2Y0g0Vm14M1BicWR2Umo4amFoZWN6NU9UUC0teF8tc2tvOXVCSTUyek5JamFtdmpWd21MUXZKdjlxQ2ZHSjNhMjM5djVNakNERkQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/postcards-from-mexico-on-the-cabo-san-lucas-marina/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjY2QmphWVZmeWpwMktIQ1o2UjdTYnBzWkVpLThfOFAwRXpmY05PR2F2NTg4X3hEVDdGZUJiaENJSzVlZWRUUUVTT2lLUDFva3RsQmJ3VkxXdnNScDNERlhqRXI1MzBNeWRkdG9XaXZKczZ3M01pOGEzSzBNZkphdjR1YkNrSm1TSEUwd25ZWEFOUHctLWpYSnNuOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/vegan-vampire-tick-marthas-vineyard-1236653245/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/25/construction-worker-dies-in-accident-at-barcelonas-camp-nou-stadium?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/norris-takes-hungary-pole-mercedes-domination-ends-6278181": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
