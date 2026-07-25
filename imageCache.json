@@ -82600,5 +82600,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/ukraines-zelenskiy-russia-wants-to-bring-in-30000-north-korean-troops-to-conflict": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/tariffs-security-mexico-week-in-review-july-20/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607250233.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/collegiate-education-department-releases-list-of-129-associate-professors-for-promotion-as-principals-to-grade-ii-colleges/article71267044.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNczk5dEhlSWtKUm0xdUdtT1BBaTQ1UUdSTEFrZ1psbXVfSWlSNEpQS3hvMmFzanI1MHkydUo0aXlIeVRDT0E5cVlxdko4Yjc4UW9kZjU5SHR6SDJqODk2NnEtU1VwVGFoTnFmbmdueTF4c05zc0k1MUItdURwMll0TVdEWlBacHlDb0dNRXVRNEw0QlNJakNad1I5a29HOWRpRVU5X01WLWFLWjUxMkRVYXJMWF9hUnktXzRkbl9wSTd2cGdhMlY0cGowc28?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeGF4eXZYd0ItYmFiWDNEdHR3UkEzWF9rZFNvVmNzenpibDktMUVaNzBMTE44RmZBQjJDWW1aOXhfTnhqaWNtZHhhTzVhbkpBVnh0SEpKVi1fWFF6QkhMQURyN2kySHBVOWtwMHYwbGNIa1hOVXVyRVR2OXlGakxrTjhjOE9zVWIxVThsRHdRbE1jSGdvTm1nRXhVMmdnaEgwV1NQenI2WXNOdzV5TDQ5UEZPTm5lVnk4dk9PNllaa1RGRE9pU2pYczBzQ056M0s1UmdZdHJEemxsc2FDeTByZ0NUakpYMXlEeXVoeEE4WkItQk5XdEFkdUZWTHVvWlJCVDJPUzRR0gGLAkFVX3lxTE5XVHhpUzVYYjNiVlJ3MnZka00wakpMTV9NeDlmTFJXUjhZYVFKVU1QUGRPMkg1bVdqc0VheVVBMTZ5dEU4LTNUUDdiTHp2YWpFLUFTcHVMb1gwWjNZYnVsSEI1ZklsYjQya0IyUUlBOTB1bWs0dzZwYV9DcjI5ZHJ3RlM3eTR2bGl0RFZqNjUwUHFYUDlPbkd3T2otYlh4cEdvV05hVHQwdGJ4M3RjU3J2dFZPUGpkeDFDQURkMkpQa3kwbUtET1pyVV9KOUtrQmU1ZEsydmdJejgwNVhMbDNyUmdPZXk2N1hBdGJCZDV4S1BiaWhBbHUwVzdkQWV1UTFPRV93S1l0SmdwQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckg2dk56MHlrRmdob01PUzV1cDZfbHNDenZQaVBxRmVyTVltbHlZU2hIMDYyRzNEencyeGo2UGZNTUxHdnNTOWNwWXhsZEZkd0VCSWQzNGRoc2d2MmxIZVRQTTJfN3BTZEN1VHB4VUtOQzJ3N2NlM1NmdHJoRjA3QXc4czlZQjNlZUpiMjZVV3JnZ1c1aE85aTlqMjJKb05jZ2VpcjE2Z3FVWGdiS2kwNlJzUVVUSjcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRDRtTHltRDQ2ZjE5SThSd1FwTUNHU2RfaWd1UmZvZDFEVFg2MFRONDBjSEVrVGlaNE5SYXVlTEkyekwyS3pDZHRsMkMzUF9zcS1sZUcyNzlVOEp5cjNKVXBPOG1UUHpIbURTbVVXbU1FemlKRWVMRk9NLS1mUXNCeExybHJTWE5BWEFQUlFBTUpKWkp1UkRDMU95eXZIQUZJYzdIaFc0Q1R6UTFfamo0Q1VnNEZLSDVLWU9GQXdaODRLNFdveHhlS0dOWnhuQkVYcVdVdzhYQVdjMndERnRXMTAtWjVCM0dWaGFJTTNHd0d3R2ViejlyQVM0Q3U1WnAwdzEyd0d1MkM2ZW8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLU9OTjg0b2JyczBnVFcyRkVRUllrdlB2V2RvVGNxYmQ0S1RjbXpCZVNFZ20xd041cERFVTQ5ZzV2OW5XaFNkRGx4ZHh4ME5ieERYWGtIMkppZXVCWktENWlTd0JZNU5xdnZmSWJMZG9fWkxfa0U1aWNaY1VmeWVwVkd2T0pSaVBOSVMzNHBJSFRrb1dLbFZHc2E2c2JNck8xeVNBaWNVUWRkZS1ZN3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
