@@ -82108,5 +82108,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-saudi-arabia-houthis-attack-gulf-states-strait-of-hormuz-live-updates-july-25-2026/article71265151.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/25/nx-s1-5905377/ukraine-drone-strikes-on-wildberries-warehouses-hit-russian-sellers-consumers": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/magazine/2026/07/25/hungary-maga-trump-orban-01010018?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/drone-threat-in-russias-yekaterinburg-disrupts-wildberries-operations-and-athletics-championships": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/europe/20260725-live-france-orders-evacuations-near-bordeaux-as-wildfires-sweep-through-southwest": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmxFQTdaUHA4ZGlZRmVaV1JYajUxaGhieWp0YjBNRWlBVERJMk5CV25lUkhja3NLVFdtanp2QnFXbGN0UURlSjhOR3dBSGowRVpORGNRaEdtajdyRk5zZVdVbHkyOTFRQ2ZBdDk0Ri13cVZ2S0lCc2lwUmdqV2JDc0Nrc0J2LWRzaXdFME1kUGZ3UnNROHdBREZBb0M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/could-mesh-networks-help-overcome-authoritarians-internet-blocks/a-78055915?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Kckd0dXl5Y1pKOFRiMnhXc3M5cWxjQmZDaWZaODdNTHFHbGtQOU9ZTzZUMGRQTXVSeFpVYmVTUnI5bFcwbzZRWmVaZGdSa2c1QXpWSk96OVRtUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmVLYXB4SXJLRmlQZk5jaEo3UDlRaGpaeFhpRmNUSGRnQW80RmNjM0JuYkJGWW1PU19nREg0QzlIT1lxVUVRYzlqRFYzVGNYeEpzUENPSFRzR3ZxdDJCYTNfdUFralRLZ05tWEZ3MU9lZ2xRLTJoU256aUJtbkY0OVdsbGZRZm0xT2FfVTFZZWVTdll3bWNGckl4RkdSRTFIeGg3MVFXbnNjSFN4bUxDSzQ3UEVjVDRZYWNSSXhNZUwtVUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/101-east/2026/7/25/tuberculosis-how-drones-are-transforming-care-in-the-philippines?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/palestinians-hope-unesco-designation-halts-israeli-push-at-west-bank-site": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0hVRWsxbmxoS3ZITmxiM1FVTnRvcFBGQk8zLXpRWW9GcExHZldHWG5KUy1sUnRZZ0RtaUtyVU95akRwbmlCTGxRVzhBTDVSZnJxb3A5UHBCd0dBQWFaa1BmbUlSYkxYcVhXY1ZOb3Y4eUlBaTBxMEp0eHhuWDhhamtabWR6bFRtLWYwMkh6c2lfSXdNb2QxeVUybkhQOGNtZ2dPRg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/life/social-and-lifestyle/3291610/thai-hairdressers-lives-behind-the-scissors": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR0dDT2U0bFotLWlTUVNHdE1MalpHRTZXWFV6eFdyQXdSbGZ1MVpnVG15eUJ0alczMGttRFNoMUZUQ2xldFhrb2JHUU16Nk1fVjlSVTljY0tnQ3JpVDhuUzZqYXBTdjNXRDJUcVZVMW1EM0NpQjBQMkFRTmwxQWNpdFhMdFpoRE14YVpCMkRXUEF3WFIwbnBQakFUZkZCT0Jpa1EyWWtsY2lySEhuUEFTM3dubEl3RVQ2VmpKdGx2aFkzOFoxSHRrYUZuTmJlMzZtYXJfc3pB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/india-protests-education-cockroach-party/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/24/trump-tariffs-carve-outs-01011751?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
