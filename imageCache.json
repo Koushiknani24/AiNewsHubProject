@@ -82540,5 +82540,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/bon-iver-justin-vernon-bob-dylan-covers-set-eaux-claires-1235598818/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdkFLY1l4ajBxOFZLZnZCeDdCcW9mdmpSb1ZVaV9CcUUyNzdvX1FJa1hFcXlyYThsY3lSbVFIVzh6YWV6bHVrQ0ktaDJ3SGw0Rm5IVG5wOG1CQTZTUHZWQTFBSGFGTlhhMGFhanpRclZ5bDBaSGFhWDJGSXoxZ3E1OFFLYmUwYVQxSG5oYndHWEhSUkVhcVQxMU9vYlJ5MUlQNXk5VG1QaU5KQ0FzeFNjXzk3cTlPV1lZOVRlUjVZQmxQcWk2OUgw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/speaking-alongside-putin-kazakh-president-calls-for-freeze-of-ukraine-war": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-tutor/mnd-tutor-lechuga/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYVBLV3BJemdONnVmVERMREowODFobS1mbmMtdG1SRjUtUnpoUGVPMVpmdE5hTXhOWEcyelJQN1hRelNwSzhlRVlzREs0Smh5SndtOG5HSHhfSmJDaGxuN3A5Yy00cmdSWnM0WUpJNG51aFM2RnJ3Y3otN0FTNHg0RzNBZ2t4RHpkOEZ0U18yM0wtU2t5a1o2UWhPYWtSeTczeXBtNThFNDc5bDN4TWNkNWhnY1JOMlgxcnZRN1pncVlLM1YycVNuek9tTTBLSGpY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/25/brazils-flavio-bolsonaro-to-challenge-lula-after-winning-party-nomination": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWlQ2WWRDaWVuN1BRNzhrVE9OSUcxTGwyaks3dUtSXzhzVXhDazBTTFhZLWd3WG5IUXJHWUZLVW1IQVRJaGR4LThrcEJaRlEzQWpaMlpfeDRWa2dCT0RCWDFVdVBNZFItZ1FDS1J4U3l1NndwaWxXV296dFlPZFd6OFFwN0Y4RWJBLXFkdXE0YldKMXdTQmRPd1ZUU1M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaldIRnowMFFmQm9kaFJnWEYwZTJJWDNiYnAxaVlVMzhNa1FKeWZiaWMzbDhJTHJiWWFDbGpHTDRCNnRjU3RUeEpRWGY3ZHo1VEtxU3A3b29Yb0doRjV1Qmk4Tkp6NWZWRjlReGxmajdoZVcwTzF3WC1DS0NfUVl2ZW1sX3U2Y0xQQS1PLVlVX3dySFpvdlIxVXlxWTYyb28?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWUtxaEhkeTZLekZsbE1jdkJyVXZ3UUxYak4zZHFZWmsyQ3g2Qm1wS1ItanY2RjRDMExqUEJRb1BpQ3NTenpYYnJjdFN5cGwtU0xwR0c2bF94Q2ppSXZYVXdIQUEycjhaVlJ2SThHYXhYeFBXemQ4b3JERG9XNUY2WQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
