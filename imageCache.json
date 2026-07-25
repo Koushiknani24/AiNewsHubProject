@@ -82210,5 +82210,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/worker-dies-in-accident-at-aqua-exports-unit-in-krishna-district/article71265967.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/races/ramiel-wanganui-dandanus-and-taaqath-shine/article71266394.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/record-breaking-wildfires-burned-nearly-100000-hectares-in-france-interior-minister-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOalVIb3hSS2lwTGtBZ3RTcUw1alZ1NHpGdEdlcWxYRWg5elp4VGJjLWJMLVRzZHN5UU1QdzlzWU1uUTZsT1VYcGZWYjdOUC1Ucm5OcE1tQVNVQ1N6UzdpUkpvMzgxdGxlZmppMWx4ZC0wZG84dFNiNVNDc29EdXBRci1lYklxX0w1dmZ6bkJaUDBFMnowV09Hck5yZFJRdHRvWG9tS3VYWGppVFBMNUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living/chipotle-in-mexico-confidently-wrong-podcast/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb0RlMnZSVTdnZEtGdmRhczdqb2ZBU25kQjF0MDdBNGZ4VzMwOEpEY1hCN284ZXJ6amRHM0tHek9LSHppT2l1V0VfWUYxYlcwelQwRGV4Nmdrb2txWmpRREJvOVRyTlJ6Q3ZCT0I0anhnYkQ2UkpHYnhGQTNkOVNwNW9uR3MxbTFvd3hiaQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/lil-wayne-karol-g-linkin-park-hollywood-walk-of-fame-2027-1235598793/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDVWclVwd3lNWEhwcVlxdlJ2QVhhZWw4Q1hmNlRMZFlWc3ZPU05LTE9zSkIwRDNpcURESXRLdUhZcThmbGdNcXYtYVhab1lJUEpyeVdrU2dsZEwxQmpMdXlwb3VCM0lTU3JCeTZfa1JYdXhTSEw5MndMWUtDNEYwNklnOHhRTDFvR3dsX2pyaDdoUkZZTnhlNlVuTlZjN1FyR0VB0gGoAUFVX3lxTE90LUUtSk1BZlp3VDU1Y2syY2JGcUVIR1R1TVpCYmlFZjhYWWVQZG5FWFpZbUJFcFRaTDgwUnZ4SDZCbERhWmZJd1B3ZHY0SEMwZlJlNm5WMjlIak52OENDRzFjelk0Rmc5NWhScXd5TmdLOGUwVS1WRlh3Vkw2WHNySXE3ZzBXejJCSjdhMk9sU1IwaGVRM21BZG1pZVc3ZUhsNGJYc1ptNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmFyT0ZBaEVFVFBSRWFpR1IwUWtEWVFZYW9WaFBOaVEwSHZBS0hqQlNoWjFIc3V3cU1PMmFLU1VHdmVQZktVQjMwM0lRRjEwTDZZOG0wZFlaUk5hMzh4QURNQWlxWFJFQkJQYWRJRUJ1NzhtRTY3bFpNWC1lTFZqZmRKd1hPR3BiclVqd295ZmNyMDZzeVROVElBTXRNRjNCOERORTZMcThOTzTSAbABQVVfeXFMTWljTkNGRkhGOE9abXRWS2xWSnQ3b2Q0cjI4ZGRNMk9wcF9PLUIwb05SU3d4eXpWbXN4TDdmY1I5S3dWU3U5ck1uQktxa2VtbjNYc01qcVRCb1YtM2o5cEdYdE5LYkxUcWtqYVg3VlMxbE1zTFJUbHdwR2ZFYXVZS3o3eVJtZXoyanNXaFhDc2RXbDBMQnlFS3dPM1pMT1JMbHVyMHJBelpFTDk0ZW1BX2Y?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXFVY2RZaElKNzVsU1FNcm9MdGpHU205TTdVX0Q4TUNWaUZUWU5iR3R2STVGNXVtUEtsY1c2dTZlNUF5bnY2UmcyNHZmaGxLVUwtSnZLQnNFUjl0WG1ob3dFUkFoNEpqZWs4MUFGeDhObF82UHQ4NEJZT0FXTFBqWGU3S1BoVzJvazRoRWViWEFSczhSQ0lINVY1eHF0Z09FTEZpaU9wTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israel-kills-senior-hamas-led-police-official-in-gaza-medics-and-police-officials-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607250157.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/25/whats-behind-the-icc-investigation-into-karim-khan?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/25/un-chief-urges-global-support-for-syria-during-first-damascus-visit-since-2009": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
