@@ -82828,5 +82828,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-intelligence/the-mnd-news-quiz-of-the-week-july-25th/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQem1qY2hDb3E3S3hWZlI0czFYV2R4eHF5VVM3Q0dRLUt3ZUIteFB6LVp1WGttZkhINnJwaDlQcXhzbTFkeHdjZzZneVNIWmE4OWxHTWtVT1VfR0Nlb1dtS0kyRk0wRmlDbnQ0SWkzaTAwZ3g4LXNKSFFhazdrUDRTLXpUUW4zeF8xbGZkM2FVOTNOd3JsUmgtdG9kSjBwazh4T2FycmVidFl1VE9HTVVUTW1Mb2FkNWp1dTVlRzM0OHFEaGtkRUR5MGdDLVpzSDdxZ2dqVFEyTnh4c2kyTWFTSXVTN2NvX2NIa09jXw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdmpKSVVtSU03ajhXT0Jpd0Rmb2hQcGxYOGNXaFE5ZFRUQnZrRTk1ZnVRUVBhRlNYdFo4bVN1em1UVFFBVUpram5BNjdyOUJXa3ZPR3MxdkNZd3F6bXJ6dGE1WWtPLUx1UzBKQ0JOTzRNb256Z0dtZjRpMlJPRFg4MHU3eWNmNHhVa1JaLUhTd1Q?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/berlin-lgbtq-pride-car-crash/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSy1vRlVuWHdyTURCTzVBcmpUSlphNjNTZmp6cmlIQ09qRlByT2tJNHE0elJBVnBUdzNLVTNwTWJ5SEZyYnN0VUZObFBRWG1SUW1DMkdkTUQ0cDB5Ym5udmItb3VFUUVJUUhKeWt1RUFDMkwybmU2TjVMTTI4a2o0Y0hFTEp3X1JVdXBXdmwydjlTYU9qTGZ5THNQSF81UUZTWW56dnJxRjd5NjBYY0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/world-cup/the-mens-world-cup-is-over-now-mexicos-women-are-ready-for-their-moment/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWpmMFhaclNFT1ZQRWlLaDMwU0ItSTV2Xy1qLW52a3M0eEVXTFFvaDRDazh3M19Id0tVeVF2dkx3Wk5IQ0VZenZUWGlzTkVBUEppSG5TTDc5RWRUYW84OExTQmRvMVNvclBwRmVrMTI4QmlhQjR1OVpzT05uYTBfeWxCZHdzTkJ3alJEMnJKU3JZTWhacktrR3V6Z1dDOTdKaE50WFRLWVdwU1dPX1I0dWJydVdvZjFWZnIweFFn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/25/whats-next-for-venezuelas-path-to-recovery-from-devastating-earthquakes?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
