@@ -83974,5 +83974,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/26/nx-s1-5903172/amid-protests-in-ukraine-president-volodymyr-zelenskyy-heads-to-the-white-house": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1VfYVUxQ3FPa01HZ0ZlT1lkamc4Yllrak5QYlBjT2hHUGJ6RFQtNUpfNzB1Sl9BbGdVUTJqX3pZWkVwR1YwT1VHOXNUY1ZtRUdXajRMeE4tdGIwa3MzeWRmQlEySzJVNFF2TmQ0eExYZmtWalVBalVmX0FqZmtZYkx4N05kel90WlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/26/mourners-lay-flowers-and-candles-after-deadly-berlin-pride-attack": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/26/nx-s1-5905338/sen-tim-kaine-calls-continued-war-with-iran-a-bad-idea-and-unaffordable": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/gracie-abrams-first-number-one-album-daughter-from-hell-1235596858/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzQtektJLWJOaHpiSmV5UmZfM05lZi1pQWp3YnVVV3puaVZ6aUNjZkNISHFjR3ExeFVmOVlzQTV2TXQxZDMyWXdqaDlBejBaNXRod1ExcUpKZVh4b2I5ZmRMbC1TdnZEUTVITmFPbUo4NG94Y0pxRUQ0VTZoVnloTktIXzdDN052bXpVaWl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/christopher-street-day-attack-in-berlin-what-we-know-so-far/a-78122611?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
