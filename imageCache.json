@@ -83194,5 +83194,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/d-day-beaches-inscribed-on-unesco-world-heritage-list": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/ivory-and-tush-missing-from-eight-dead-wild-elephants-of-malayattoor-vazhachal-forests-of-kerala/article71268949.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxON2k4MFRFQjlKelNGbWZnRWpVUVNoODM0R2M5SFlxdHFFWTRONmhnNndxWlp2dU80dF9ZV1RKVVVFQkhzbURfZ3FoYVp0bVctckVtRWQyYW9rQzZ1NUU5REU1cWRzWDRER0NLNlR6QjltU2lkNFB4U3ZpRU9CUlZzSlZ4bTR2ZDVKZHFfOS0yTGhMME8zTGdnVm1MX1J2d21BV2Rnd2lXVEZXLUZiTVIwc2pqd3fSAboBQVVfeXFMUE9MU25iUlJLTHhMdHNWTGNTYk1zdmtiR1k2Nm1hVHdTTW15WmdhRlBocDAycTFJdGxWbUhUTG9hTTB5NTctNk1fSnlVUlFpTmNWaXBBUklEdDQtXzBwSGdKZ1J6ejh0aWNMc1BBMU9rT2FKQzQtRXdzb3ZoUmV0TGE0bld5aG93UzY3RGlkeFZWOVNucHlQdFFhT0ZnajVQWWJXWWNKb09jVzlwa0Y1QTVQazZuMk82QS1n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM1dVWTd2YzBpOW05Vlh3eDlFaG90YmljMnJrcXU2LXdCc3JBd3ZvQjVQbTdsQlMzam9IU291blc0NFc5X2h3S1A4SFBUbThENlkyNHhmRkMwX0djaWIzSlBlendudVRqeXZVb25Ia2tNVFZNdGRTdFlVdC16T3M5QkZSTzVENm9GLVVOWnNfZDUyWjJUcVRYV1NFbWVrS09zcXJrZ0xYbEsxM2tDdTNlMzJjVEFUd2NqU013TzdOUjNtUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/25/iran-war-gulf-alliance-01012083?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/french-firefighters-battle-to-keep-blazes-from-bordeaux": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjhqSENXLXhzM0JNYWNrRDNpWndibzFfUkdvNVdxd2pJT0V4ZXdFclF3QXpWbTN5QWpnWlFsZWpONVlOLWpnRWpRdzN6TVdrdjFTSmkydkh5MThwNFpSNzE0LVFVb0l2dEVKczhJRGQ0VW5xa2Q4M1ZrbnBPd2tBTTQxcGJCUG11RXVvNzFJQjdMWHI3dTloV3hZd25NYXB5NXZiZjR2UzdNZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3291947/typhoon-noul-hits-southern-china-700000-evacuated": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUkZidVdBelVLOUN5VlRLWTRBQUx4bTBsSmM0LVkwTjVIOHp2NTZyYV9JWTFEYzMybncxRE1uSkd3cTYzUzlEeFVXaC1JVDRIY2lNSHBYZmo1QjVZNk9BbTNVaTBfeG1IRVRRX21GTkxFZ1dYdXByUEJlOHF5NGNUVi1OSEpLLTJPWk1Iei1ha0lNNnZxWmN2dVJPc1VhS3hoY2p0QU9Tcnl1bm5MN1ZVSXJKMHdyWjdYX2VCOThYeGJqUk1CbDhCYlUxcU95XzZNbUJWUVJSUEpLSmJHMmlsTnhLM1FwTE15NE1YZFBJcnpCRzZWTWdWM2ltNkfSAYICQVVfeXFMTVVqZEdyeWhZQnd1dTRqTzN5Nk9lOEN2Q0xwc3NoM25QbVYyclphSHhrS3dLUXdzcHoxX3E2WENpZGdIbkhDanBFdG5LN3RBNE5ZV3laamo4b2hwVlRMOHlhS1d6eE9RdDFhWjNUUEtVZXRNR0I2N2lGMndCcWYwN1NhdUpNSWZUU0ZtNXF0YWsxQ29ZVkx3WjZGQXRwMW1SUjBoWHQ4c0JBLTd4UlhkbnE4RTkxVlpFem9mZGtDYWEyZjR2TGIyS29zX3RhRmVQUnNra3RIb2Vaa0tWcmJOWTlCcDQ5UHdzQWp2MGtNYl9DaXVGOWtYcFNEYWhrdkpPU0Jn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWsxaWhmQkpUcHJ0N1lUM2hOV3hKZFRxVzJwc0JrOUg2MURYSjBiN2FMcnZodlhqd1R5OXM3aGxnbnFrRkxUSWd6WGsweklwRHAzbWZidmVZQlVyZGVVdi05VUdCZlRweVdwdkM4VF95S2N6Q2c1aTZWN2VBbVNsT3BiODA4ajExdTFQbTQwUGZVaGx6ZWlVYlRwcnpNbGpxenJCM3M4QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdU9NbVdWeW1mNzA1XzUxbWdxRjYxRWxuLVRXdzR6Q0daN1ZPT3Jia2JXcHFxSDRaRUY4NndETzBCVXNkX2VQTmhmb2ctZVFGRG14RVk3a09Qb1ZOa0d2R2R1Vm04Qnhra1JjSTk0a0tJM09hS0VsMUY1Y3VnSFpsdTY1VUNEWjNzVkZXeWZERHBRT0NROUdBSFJpaGRrbW1ybTNMelhnOTRhbE90NVpEcDNvcldxWndTSThrU2dn0gHSAUFVX3lxTE5WVVVyRDlMU0l2Yzhqdllub3ZsejN0U2ZyRGNmVHhCUE80cGRFZnY0SDhWUDF4eF9mWUNSUmk0WUVRLVJLbTktTEVzOVVGUldObjgxSGx6eGhuUWk1WjItdmJiUlZZc3d4MEo0X2JFOXBvenNLUXZOUVhPSTNJc2FLTUxCbDQtcVBuckJRc3Uxbk5hQUZpX0hxTE4zSXhWVnM0TE1fY2pwaXprQjdhUElZX2k1ZTBNSEdXUlRTZXgycFpEalhtaDI0dDJCYTBvVHk3UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/attack-on-berlin-pride-parade-leaves-1-dead-16-injured/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdC1NV0I2aXEwczAtZVE4Y3FWNW1OVFRWT0k3M05xZ0d5V1FLZXNvWlJUVThTQXF4MnU0bndRMnBrV0J0b2d4ZF9FRl9CQzQxUGhxRmI5SHhYWnRkUmljVTc0ZUtCZlc3NEJtUEFreGg0U3ZOb0tQLXYtOURYLW1kdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
