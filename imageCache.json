@@ -83050,5 +83050,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-doomsday-comic-con-panel-recap-1236656358/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTExWdUdGTFVHamx0U19yNVBOcUFrZEVpNFJnRTlOTkdscW1LSkdmSlUtYmFyV2RNNFUtTTJueEZrczlXaUVyMGtPQkxiUTdobzZYVzVaZGFKdHJxcGpWal9xcDRsRm1WeEtmUnpKZ0d2ZkJ3OXZnTDM2LWI5bnY3bmZnY2NWX2M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUkyZE4wQUxlUlhWWGxxRDJTak03aEIzMDRRLXlXNkZ4eHRPa3ZfT2FhaDljX1dKbkhGLXpDTGFNVVhyd2xPSExMX09Oa0pSTDRubUNHSTlSZXRhbThiVEZ6QVJMTVNoMVZEaGhvWF9oUGt1aEU3MjdlcWhvb1VZODFqekt5NDJXNEU5UlRLSlJPYXlTU0dveEp0SFU2OVBjUDRiVHVRcmRETDDSAbABQVVfeXFMUGdmdzhfU2d0SldDbV9tdExxanozOE1iZ1VsdXp3RC0taEtDTVlKVjV5LUxIX1JHejNxeWs2eG9SRnFvWVhHSkMzVXBtX29HODk5cjZ2Vm9YWV9jdDkzU1BaM25yd01SMExOWTVnZnpYN1dSSGZudHZ2ZWFNM043OTl6U3R4OFZJNHU5c05raFBEVXdrTWtOT2FmM0VGZUkxNTdHNFA5T3c0SmhPcnFxSUY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/games-ramsay-peaty-ponders-future-after-100m-breaststroke-bronze-6278716": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
