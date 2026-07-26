@@ -82936,5 +82936,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/ryan-gosling-ghost-rider-for-marvel-studios-1236656560/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/wildfires-france-spain-madrid-bordeaux-evacuations-europe/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE00VzU5TzBXam5tcmtVYkc4NnltcXJRSHQ2dGt2WTZVd2pBb2lKWFRGUS1nQXRmMnFCUDE2b0JZRGFRRktEMjNXdGJ1NVFDWU40Rl80REwxNVRoeUYwM1VCNG5uVldmaVFMRDNrMm43Y0lvRDN5eXBn0gF3QVVfeXFMTnlmY0JsbnZtNG5wQmQ4S2ZmWDY2R2FNQlVDWldHM0Y1R0RGNVU0VnpCaUNYaUFwZzBTd18tOUJLeWZBZlBqQ3pHOWktb1FFeUhQWWZYS1N2WW5lc0RjekkyQ2dtejJGblhTb3hrNy04TExHY2dvR28?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlBrTUtjc1dHVm9WWEh2MFVQQkNFWEtaaHJ3ZHlTczE2elU2bExaUkZZb0FQNnFqdmQxMExlQXpFUjVqYU96M3VqSGprQkhmcElaaUJBcnd6bU1sSWRoYWhRY2p2ZDBVZHJycWkxZzc3SWN6eFlIazBlTGNuMW40ekJwamxzU3NFZ0RDQkFlVURFcEVTc3FJeGYyVk5haHRIMm9rbzhsN255VnFtN0F2YllNWEs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmNfZzZ0RXNJX192SUVsNjhVMnhzOGFxMktidlZWb1pEbHVhX253YnQxMjJISFlSZkNObjR2UllfTFhwTDYtczdrUXJueHNqMzd0dkFVTzNHRXhYcmZGNmtuS2F3UUx4Y1NkYU5DbHlvNU1Ja3BleTJXVnk0YU01Tk9kcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE44LWhNMno3dEtIRXJDUkVkcVFwTU94ekRnVGcwOEk2U2RLbURpVHk2cHc3UmF1dUtVaFFsbTFMRG9IU1FmWV81QjR5emVYeW96YTd3XzNmaWxrWjhSMERYcmttV2FZaVlsRTh1T0h4TWw3RUg4U3N1Ql9R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQNzl3MXNud1NjaTdubml6VFRkWnR3R1M0NGxHblQ3d09ZcEZSQTdyVkpHczhobThpTFdOaG5vQVJmYTZhVkNXem9qQkY1YlJHNlBGU0ZLTEhieFQ2cTNOcV9nUjVDS1hadGhKbmdQVmdOdkZOaVlhYnFGZk5RS0pRaWluQkxuSkVESG5vc1VzZ3MxVHA5ZzN5VUFENlJUQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXNFTU14ZkNOQ290QXpYMEkxMzg2Z3FIUG04S0w4V08tcVNpeEhRV1cxWnRiSndNTkRGQmN0SG4yRHhpbE8zZ0FiS3BwYmljVGpVSzlOZjRSZE9fLTRsNnEyUDZfMTd1cng5b0VCd2V2a00wUjJjMnBvSS1aX1NNbk80UjAyLXRiTDl1anFnZUVoRFFJSDNWNHU0a18xQWhRZXRnd1UyZnI5Q3VCYk91RU9n0gG3AUFVX3lxTFBISHVSTlBYSXhHM3lLMmE2V0pHdk5sNWdicVJqVVJsMzgtRU1pM0lRVEgzcjdHTDJEWkRtcVYxQndQZ2EyZVRreTVGOU1fVnc5dHFJaEV6TGJHSjQ3NXZZMzZNd3RoOElIRjN2cnIyaWhYRlZ4bEMwd2Z4UzN6OHk5QW01amV5QnBFbU1Ed3poZWZva2NoU202YjRBSTRNZVJMcmlpLXozcEIyNFdfdGFfZjIzZGF6MA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/prime-video-carrie-series-teaser-trailer-1236655407/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/gen-z-gets-an-a-dharmendra-pradhan-exits-cjp-dissolves-protest-with-big-victory/articleshow/132632546.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkZVhjbUF5a05EM3pTY0ZZR3BNb2hrMF9QUXZOQ25MR0x3NEVfRG5kQ01xaUl2OUlvd2NPdkxKRU05bGVZQ21lTUZDT042V2FUOUo1Mm40VkZoS3NrTG5TZWV3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ITXpwOFFlSzhORVBRNG1JNWU2YXQwRkR6RzFSbmFodVE5bzJYRFhYcEMxTElRYl9zSkh5dXIxWTlzMk1YSHBIeHJTemQxUmc3cWFJYktyMWliZnN4WXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/europe-battling-multiple-fire-fronts-threatening-major-cities-unprecedented-conditions/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/26/bolsonaros-son-begins-brazil-presidential-bid-with-netanyahu-milei-kudos?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmJBcER1NkZTemlRM3F6ZXlkWXJnZllUX0Vmc3hLN3Q1QjJhdWptUmlIN0FGeTNmRHhYNVhrWXlhMlF6QVRveVFGWmlxWkZ1bVJBRDZqOGo1aUNkRncwbmZkdy0xc3dTNHRfamdtY0NTQ2N6Q3pzZE9FbWhRZm9Kblh0SFd3QXgtdTNfR0J5OEYyalZxRDhkVk9DNF9VeDZMd1RMVnBn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTzE1bWZzMGs0bTN6T3JKdGFHTHh6UkdfSEl3NVJmSW1TaTlIbENoRWtjYzRaR0xCdVBiS1djUDU3ZFBMQ0tDQXBsREdLbFlBLVBXQnRMR2FQZHN5T012cVhpOUpVQjNhY2dSYTMxZDY4Ym9vZExCcG5DZlRwUEwxU1NwLUhEb3FIZXlZWkZQbUExS1dkbnFsTUxLdFJaVlZ6UjdzbV9COEhHNVBKdnNMaFZSbld1bXlNVG04b3JMUHEyTnJXYnFJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
