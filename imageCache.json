@@ -83578,5 +83578,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-big-second-weekend-box-office-1236656039/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/cjp-protests-delhi-police-awaits-official-nod-on-withdrawal-of-firs-against-neet-paper-leak-protesters/articleshow/132642021.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFA0SUFsSHp3WmUweVJoaUk0MjdHdERZMlhhYXA3Y040c05Sb0ptSHpWV1RZY0J5SWlrczZYLU9KbEFVdjM4M3VmTVlneHpMejVwVkNsZG9YQVBORk9BQ2dYYVVxZWxLWUdWdnlBZEotMjFfRU8xY2FTTTV2Wm5XQ0lZeEo3WC1aaU1zaGRQSGpPM0pNNkl3MnJlakZENk0tNVlj0gGoAUFVX3lxTFBBTDZ6eGNmcGc1UVcxcjRlQ1RpMTJIUGR0TmxrQ0NfUXhDeThrYTBjWl96LVlZaFJJNzl4YUFYbTJ6ZVZKaXRmcjU5bXB3NVpsY2lTVVZqYThKc2ZTN3hDcFhhOHNJdTRLX0JMTlV2aTI1YTBRaHZqQVpuV2ZHY3BFSzltTVRGbGxNZy0wY0RpZlVlYXhWX0pXNWNvMG8zcnBJQkc1M2Rocg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-guadalajara-residents-to-receive-contaminated-water-at-very-affordable-rates-state-officials-say/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/26/un-chief-calls-for-end-of-all-sanctions-on-syria-during-second-day-of-visit": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOam1waWtiTWtaVGZpNXZkR0dlRXFPM1ZxbE1fc1MwOEtIWkhReEY1NU91cFM4cUo5ck1EdTFkRENvcTBMWWpOaUFoeldlczZ2UlVrOU1nY3dhdFgwRVRGbnRaOUFITm9nTm50WVdHVkd2WXZKNHlLNHRkcGhMMlcyRFRBb0hnY2JsQ3N0dUpsYi1TZ0lCRWlLd0VPWTRWVWZQM0ltalJtNjFyN1ZYcHVZRE1OOVVYZUhXQmsyb2FQUmI4Mll1SXhyV183UHYwTDdNYUx3TTNCVnpBRnFwMEx3UVRqN1B1WHpCcEIw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/26/more-than-360000-evacuated-as-wildfires-rage-in-france-and-spain?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0lnbXhkUTJVcFY2ckdrWnV0R1ZpMjdndEZNbE5NX0Z4aUtuM3g2MVdmU01oaGUtZ09MOERyT0FfeElUTTl5LWZxUUMyalo3LS1zcTlXSlpGTVVnLVBlSG5PUWhDdkdSUDdEZ2RaZFI1c2pLaVlKbmJpcXFQYTY2SjZoMnpKUDRuQWdJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWdsZFlBQ0RZaW5RQTZGVkUxVllXUEVIZ0xFbk1hZnMtSVlnV2ZIc0ZNaVA1bVoyWVZZUzk1T3VPbnUyaTdQRTBlRV8yaUJOMlhkcXRCNFdQX1ozaElXa29Fd3pYUlltLWdXSjlzeXk4MWNYWkQtV0J3SXpMNDNHV2JOXzlGTjBUSWVmRXR0X0FxLVYzUXU1VFBDc2RFa09ZUkJKdElR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3291979/urgent-search-for-suspect-after-deadly-attack-near-berlin-pride": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/germanys-interior-minister-calls-deadly-berlin-pride-assault-islamist-terrorist-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/norris-wins-hungarian-grand-prix-mclaren-6279126": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbzhDNzQ5YUE5TmpWTWluY09YYS1SMEtmSnlyZEl5X2hVc1lNYVZJWWxLRFp2Rk9UZDE5NDBkc3h6TFQzc1pCMXNJbVRfcjVkaFRzZFEzNFhFbEpIOTYyN1RFamZKbmJ5anFoRmRXTVZ6OF9ObWFqVmlnWkdPMTFYV2F2em9sQi01LUIwbzd6MExZdGhhVDExS3hkd3hxUVBTYzQ3R1lzTGdtdmJKR2xHbWFSY1EtSldBV2VTM1JuQ0VPVDYxSFY0cnMwOS1BUGJISy1RcU5sc2ktWnp0Uk1acmVnV0xDWGRCc2pCV0R3N3ZMdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/mexicos-critically-endangered-axolotl-proves-an-international-success/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
