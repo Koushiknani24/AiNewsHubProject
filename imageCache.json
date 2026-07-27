@@ -84238,5 +84238,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/dylan-mulvaney-responds-trump-kaitlan-collins-1236656955/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/parliament-monsoon-session-july-27-2026-anti-paper-leak-bill-protesters-opposition-cockroach-janta-party/article71271308.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/machthaber-donald-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/trump-reopens-the-tariff-fight/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdENxTVZ4dF90R0xReVUzUlh1dG1JeEd5ZGdPRFRlTlltYjZWcWhQcWlmcDhGMzhrTlgxVThFSk1xR3BMOU1lU1AwSGJZV1Q4eXNRcWhWQVNzelEtSTVTRlhZWXYyOEFrU25NdFdpN2duQmh6YUcwWklXTllJZnduMzllUndPMjdpcWM5cG15NjdqZ1ZlZTB3a3NxZjJIeGJMMGR0UjhaWHRzeUsyTVRDUnJfQVc3UFdYWWl2S9IBwgFBVV95cUxPY0NMOHJKUmVxVG9IU3ZhNjZFd0FLZTBYNWFjdmQxYUFYS3phTE9rRjExVm9ibHY3TTNxZEZMUnc0UnZQeFktbl9YZWlhNjh0SDhISV9OX3JEaW85QVM4blZwYkZuaUNTX0xUVW5MdE5xcEVPYjkyTWJoMkhiNlc2Q3VKUFdDZkpmbVZSRmRoSkNlWU5aN0FVa1JBUnQ5dENFYmJaOERPdUpUQkZWYTl5N1BaWjc5SWtNSFR0NkNNXzR0dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1NsTEE4Z0tkTmpueGU0TkdyTUV3dnBPSmVFT0xrWldFd01fX2hsOFAxdjFUWVdYVVhjcklsWG1zQ1M0T0I0alR4T2s1Q19adzBIcDQxakFHTDdHWmp6YmJvNHRmREdLUlFQQnlGRHNMSFg1azBQN3dPcl9vV0M5SWlmcTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaGhpYjVlMnN0X1dMamhqUnZaU19mUk03OTN3UUJ0RXMtZ2JJUVJkZ2E1Tlg4ck9SOUgwdWdMdE8yT1BqMDl6ZU5zZHNfRzJOUDVvU0hXYm1OYTNDR0Z0S3hyS3dOUFpxY1gxNk8yYXYtRWQyN1U4T1lHUjZVdTFnenBldE9vTEtLVElzOVZUTWp5R09faVZ5OEREdXU5VmZPazFqRnhhbnhKazJybVZhSEdTMGFxQV9YeWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/red-sea-shipping-slows-after-houthi-attack-on-saudi-arabia-data-shows": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUhtWS15TnVQa3QzWFd2OHYwU2xXYlJBZUtyaEtfODRBdnZDNzRES2hKOVZNeEN5Y2Vjc1BDbVM1SDlHTzlDT0Q2Y0tVbHl0aFJBRkxxM3dZdU1Yc0RMSVpvcUxmZHF5R1RvZHJ3dU5VX2ZZM29FSUtzVDVOZ0pKVnB3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXRmYmNVYXhJUFpQX190cGtDY2VubEN3YUpma1ZhSGVmSFh2R1dmTXBFSU5CZ2dadHpKRFdFZ2RhUFRfUEUyeURCN0FRNXhldU1Oc1YtbWdrMkQyM3hVTjh0OTBfSDNKdjE3anBGQnBURzRHa2U0UnRoLThKX3BjV093SVd3eXl1ZHBSeEp6UjVqNW1iYkRrbzdyVUI2LV9rb1h3SW4tcjJOTjVGTTQ0RWRB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/how-the-eu-calculates-its-mega-tech-fines/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/27/firefighters-battle-to-contain-wildfires-still-burning-near-bordeaux?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
