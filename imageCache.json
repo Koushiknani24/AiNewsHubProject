@@ -84880,5 +84880,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/romania-slams-russia-over-weekend-drone-incursions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/chad-s-government-says-it-s-withdrawing-from-the-icc/a-78132322?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkFoc0NELVR2WFZ6b0k0cmdsazNjcERKdEZqUzVKX3Z0bDgwTVFxVjMxdE5Makg2ZkNBOHJCV21ERk54Y0hJTFhrdS1mTkQ3OUtPdGtzdW9Jck5YNUM2c18yaTlVd28yRDY2Z1FzNVNIOEo5Y3A3c29SMFBtZ1VIcGZUZUo4ZHZZQ2JkY0ZMVV9tS1owZ1FibjV2REZjbk10Ymt4VkdHeFRCZFVDbWtJZDA0YUJNX0xHY0FBYkVmZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkE5TnVYNE83bmU1d2RXb0FVbDBoeVplSmJZVUlwSnh5dlBuZUVLQzhRMXpUejVjeXpwWWpjV3VQUUNDcEZiNGtlUVJWUU9uLXA2NTBDaktZYmIwTHBzdUJvVkc5akhBd2VTWFREX1RlY2NxeEZxbUhpLW1Oc0IzWTJZdHBZd0l2Z25HaW9n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNnB2Y25ZRjZNWWhkYjc5UlZRMFp4MXBxT05MTGU5XzFPejM2MnFhSXFfYmtSeWh1MWxMdHZCYlM3aks0VVM0azJaTlBRbWJFYURDNHJoYWJ1Z0lFd1JkaGk4U1BQMXJTdnR4Z29qUXQwSVhZek5GOWhEN2VkTUgxY216akRZbWM2Ml9HWGRFQ2U0X1pvYzBLVA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjI3ZWk0U0d4NHV1WVJiTFNaQmJxcE5vUmQ4WGpkUnNyVTd5U2loTndFUlY0Q2FnNndZQjNxMUtQVEliSzZvMTViOW50aGxBWVg1cDJFN1drUHlyX1dOZUZUN0drM3o5OWRKNzJEUno1cWc4bTZRaW5xY055QTRWOGJfR3RqT0lpOFh3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/27/burnham-welcomes-zelenskyy-as-first-international-guest?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/27/latest-news-bulletin-july-27th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE81cUs1TWE5U2RIRVQwX05pcFpieXRBR2pkNXVnT1J3dkhtdkVua1F5MmoyX1o4WWkxMWpmODdnc1hxazlOcTlqRVlYdXo1akl1V0xfNjhLZXptbGpWbllaU2RhZ19MRHpaVnhmUC1pZF9WVC10dWU2T29qWUM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/john-dvorak-dead-tech-journalist-no-agenda-inside-track-1236657317/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
