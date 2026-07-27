@@ -84700,5 +84700,185 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/music-industry-news/miley-cyrus-atlantic-records-record-deal-1236657145/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/modern-teaching-methods-essential-for-quality-education-au-vc/article71273434.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/berlin-germany-pride-attack-abdul-ballout-isis/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWxLellGLXNlWGZ5Y1VXenhISHFfbGRuUGVLQnB0RDJOcU9kOThwZm5DV1M3U2ZlN2EwNThDQnloRUVobmlGZ2o3UEVFN29LbmZ2TExTR0o5cTJjNE1FQ2gzU3BsUXNLRVFBekFsc3pHelZhZlZCOW5XLWJLQmN1OVdfdC11Z0paTmxBQlZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/indian-youth-score-a-win-over-modi-with-humor-and-grit/a-78132308?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTNzlRMWtFVUNTZ08zVDJTNWxJa2R1czBQR3RuX3VXSFpiUGdpQzM4NWdHSUhLV0YtUU56cnd6ekF2UjZzLWpNZWFoVHB6clN5MGFnTF9LQ2QwcE5FQXlTQmZkcHJzQWI2SWN3ekM4N0NUWjFrRG9v?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmgtYlF1WFNPV0w1WUR2Zmhlbzl3WmVTRXFmSVAzZDdtcWxQTXlOQ1c1dHppcF9iaVFBdWN2LUtlWjFLVEhHaTd1Y2Nqa2htdzdtdXVfOFI5czNfNDh2em1icHVaZWhKUHlOdU4zLV9YdlplV2tZcWdoRm9PTTlNTXZfdDI2bFhIQU9wQmpVRHlaTlZTSlNKY2pHSjdCOXlaUFZ6WXFWZ0k4WGvSAbABQVVfeXFMTjR5N05iaWpHa21XR0RwbUhfb1VyQmtjQnU1R290MUlRSExqNXk3N1lBeTZVVmQ3VS0zOFBIMnNxcmU2RlNJLTlwR3p5OEY4bERxMlRKR21sZnJRLTlmdVZJVlU5aXFUUGxGTWFRemNSdDhuX0xMc244dGNoYktuOWZJeVZpVF9EVFhfQm04anBUOWsyNnUteGZsMm9aTExreTdTdVNUOXVTTF9PbjdreEQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSEkxbEh2b2xMdUFLSWI1N1RZbGREbEtuemhIeFgwZktRTE9EOGxvcGc2WFkySUZ6V1lmTXZYTzhvT1FkbFpvcVJDUXpJNFkzS01oZGJiaXVNQUk2ekZ5eUNBZDVxelhUejUwdHZMdDFLd3ZuakdoSWl6ekdTbGpZTHJMQ0FUNDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHV1ZsejczOVRCQ1lPWUdja3Ata1FpWUU0b0RaeDJqUjFQTXo1Z2dkZklVUGxZZVVvRjlGWlFTb2s3SUJOaURVb2pITmVhamtTZ3NIZWJTU2FCWmo2?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/burnham-hugs-zelenskyy-close-first-test-world-stage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONG5TRVhlREdpTjFWM082THZyVFBSUTNBaHBPbEZiUFJrT1I5OXJ1c2ppYU9QSko1RnBPc3hpanpqdk9PeTNzRjgxQUpKZUdIMmxFaGZwWmsxWGxDRDJQMWpjY3RPeWtrYTRGNDhRczhnMDVPUTd6bG51MDF5MWpfVlJ4UHItWWpyV2tWczBjOUtkUVpFQkpyaWhXZmIyN01TNWd3czFnTmdxMWlwcTNheGlfWG9aY2h3dmJPM05tVGRhUmNYb2dLeGFsdEk4Z1hDd3hEU2NvYzZ4cG9ob3dfTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mnd-local-dengue-cases-drop-in-jalisco-and-mexicos-first-openly-gay-mayor-is-killed-while-visiting-guadalajara/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFlNY1V5Q0F0d0NvTEFDRzhWMmVHck54Nm45TWJPdmcwek9qTWFxcmM2NmdJVkxRRzUxZ3BwTHM0SG5oZENFUXJDSHJ6cWhONEdyS2s3RGoyeFpZLWxPaGdldkhPZE1ZcEVRV19ub19fY2g0ZTZQbl82czNhM1h2SFRkSEdpZFZaQVBReXAyOVVkelY4a2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/28832-apply-for-plus-one-school-course-transfers/article71273519.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/uk-funeral-director-faces-jail-over-bodies-left-on-racks": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFpaYXYxU2tYbndlZ2IyZVhma2tpQmd4NzJKTjNPTGNTRmZJNklLblJ0WXN1WnZCcVVGZ0hGTUxvRjhjeU9TNWctRENqRGFjZm5XUk9RUVZQajFvYkducGtya1lVbmFBV2pLb0tqRGItZGFMVURnT0hKV3lpcnB4NDlfUGJmdHprZVotV1JWQXJRSFFmUlVhZjNUM0tHcnNESDRidWY4ZDBFd3p2eDlHUzNoVdIBuAFBVV95cUxOakY1Q1NnMVdzRWZyZWFIdFRQVHpLU2pMMDlFYzNHZW5CV25hdzMzMktSZXM2WVdGZmRTQ1lzYkVqX2ZNSHNmcjllTE1LRFdRX0tqR3hwT05ZR2swRW50OEJnbXR0SF9xMmJMbS1LQWZuVkM4S1JDX2F4TlY1U0k1MkxnaGxqVWZBMEUyWF9LWjJVU3NvSUhzMGJMQ1hmaVF0TWxyTGNVU25MRF9EaUlBcFlVaVlsT003?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzZxaHV3WHJHWUpPcnU0amJJQ1dYMlhsMjdoSHF3aTFtUnNMV3JFUzZsSlE0anRXTmdTamd2WlE1ZDJDYzRFTDdaNEY0ZEZoeVVySU9ad04wTXh0ZTI4bl9QazZiX3p1WllCVTFDNjYwaWhiZnUwaHFYelQ4Ukh2ZDZLZ01wekVZZUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUDlQTnlwY0pSVmNWNVd4VnlCYzM5cUczdFhhekhCaEJ2Y20xMnJoOWtPNkxhdVJaTk0yeTZDanNzVVhhVDBzb0g3cnNxaHlxcVZVWElLT0RWd2ZmdVdzSDQ4ZDk1enY4OWd6elRiZlpNb284VTlBMnhBQ295VmRBQjJPbFhFZU9TakxqemliRWV2eE50VE5MVlNTMklHU05kUTIwd1gtOUpJdFpKTTAtdlkxRzNhemdMYWc5MlctYjhrazRZSlVGVmpNWFp2UUozQ2ZVMTcxME01QVnSAeABQVVfeXFMUF9lWm1EN2EwQllXN3VSRUdlNkdTRVh5NFRRbWtGOU1DS1RzZU0xZWtraFZDRnZNa1U0X1d6ZUpOcnlXNGZHbGhLYUNaN3J5WVNwbmhUc0lLemdhRmtoSURoZ2VWMDFTakU4UmE5bkZ0MUxib0Zkdm1tSzMyczg5S29ZUy1jMnJ2OG5XakN4ckV3NnpFSVZRQzdwRi1BSUtKYVp1cFdvbE1CQV9KcUtsWm9OTjBYeUxjNzNQX0dZdjBNdktnOHk5MUJ3VEp2NjRpNHdxbWNUM1N5WkhkRkVwUXU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/ghana-s-community-service-bill-a-fix-for-the-prison-crisis/a-78104226?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlFhaFZMcnVUTEFBajMtcW5sSHpIZnVxM2Z3MVFvRU5UdEZJSFRIOWdfLXlDRkZtRkluYjJPamNVcXdHSUhNWUdpV3dNVDJKLTBVcVFmTlNBUmpYa1VRLUdGbGt6bERNcVRSNExsX0RLWHB6Mk5GSHVXX1BIM3NSczVSdkt5WHhkRXczc1l4ZG9QZ2NkSEZ5N2gxakJTSHhWUWVHeFBZcnQtLVNKazU1Y3FDdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/miley-cyrus-atlantic-records-1235598988/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxORGI4VWZFYk5BeVlIZGJlS3FwNmxhZ3VOZmxqc3oxRmxMWEdyQTJhVTdYLUVmN2RRWHZQYjJVc2liQ2R1WlV3UjhCM25WRzNnM0Z5V2thMThINkt5ZVBjYm1oTnpheE9oaXo1U3NLdy15a3JYeXVObkM1ZFZkSlAzMjljbVFocE9fNk5LRzdjaE4zWEM2cHp5U3FrMlZPRXYyekZxaTA3ZXV6MV93TF85c2IzWnhpajhVMEpWSzMwNWQ4U3Fsb3Jz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOEdQaF9sd1FDOHRhWUhBMTFvU0lDT1RkMUVpQ1pkMWNPUmJKX3pxYlkyQXFDWkNuTE01VFZuZXNWQWxUdmY1OGlZYTdadUZ6bTczODJXQVZ1aEFxa2xVdUpRdHhWZG9CWEJxLWJRZ0N3MkVaVGdmWnBHZGJWOTlIdTdEV3hMc3czS0pMSHFOaEV2NUxrVmVfdTEwelp4SE9VTXg1cVM3V0hHT2dnendVNmJ6Ul9PM2xmNFotOWw4dGlkMWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWU3RWJET3JoSTBVNlhEd3RLWFdmcFZzX0pPX3FaN2s2UFRyZnE1YVJkYjhQVTNrWEVXVGhUdUw0SXd6OXJMN3htUU12RlY4bnFRUGpSTGQxZXA2ZUNJXzJIa29TRHRtQnEtNmpyM0NsaUNlTnN5RE93OWhHM3BUT09mZUNOLXJXR2RfMThyRmxqOF9hODlSWVBpc0NyNkFocHdTMEhTZkQxekxXZTNyZEJsUEMzUnhCTVBCOTJZUC04blpQMVJlY3dDaXVudw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTy11bk81UWJnWVdhRWR0cXRBRzVfYW5WUE9CdlJIelBZdkVaR2hBVE9uTF9YakRDSElFWG95LXRDTWhvR0RLZ0hpejNKbTZuNHdjS3RwSVFCZ3k2VlBrMlRFa214MllRQVRSUkN5b1lOaTFhQzhSTF9QTkZvWVM1YzhFRi03VzI0ZUlIU242T0hkb0hlYVpGV1ppSWRGYWNwSWNjNFJHVmd2M29ic0JF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607270445.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTkJ1dWdnYnZvYk1MUlFCRXVkMF85cThtdnB3MDdITk9KZFB4VWU5cm5abWpyYUlqZFFXQUZEQ05hY0FLUlFUWktFc3N4bVplek5rb2l1cXk3ZFA2VEtVSGZoeG9Sb0tjZXBGdlVDUy0zMXoyQWpfNTdOTFVZTnoyZWhqRlE5aUE2WGI2NWQxeENSRzlzMXdJNnNfUm8xY0dnbzFFTzBsNDBKMmJRM3U2WmR3OUY5a0w2TklLMHNMQWFzbnlFRHg0UlJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaTl1NUFIMmI5N294aFNxZkdXNFhzdkd1Nm9nTHhxOU5iQ0lkOWZfbXVydTIwRkpYVkJuTGpOQnpzdVdnWDhiVjZDZnJ1U1pQR2RxMWx2aHhUWUJSR1ZkX2JKVURXakhDVlpSVUp0QTRObTdNamN0bW82NEJVLXI3M3dnLXFBSVJQRVlNS1pB0gGTAUFVX3lxTE1EMTQtb3c0THk4aTFFNkhfRWJWOXNQYTc5a2w3eVprZ3haX3BjR0p5dzNnU2EwZGp4SlMySnFKVW1FZk9UQzdzeVpjUkViOFh1UlNhajNUM1ZiVUZBcmVFNU41VDBZN1lFa01LckxMcUV1UEpSb3ZPenJ5bFBMWmkwd2loNVltWFBZcTgtOTRCTzh2RQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
