@@ -86560,5 +86560,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/jim-james-new-song-album-wowed-out-tour-dates-1235600120/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/cfe-power-outages-reduced-since-202/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMl95S3lrQkU2U1NnOVhndkIxVnhBYUlKOTJ3LVdTLW1nbUJ0OWRWWnFONXZkU1FJOVRfRlZzWGhSVFRLckh6OURlcW5IUm5XcTZibURrZHV3T2pRenliSzNrV2pvNGpjSTlzS2JHUUVoNXYtd21rV0FYZFBWVVRFWVR6ZnRNQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/28/trump-administration-bans-foreign-made-robots-and-power-gear-amid-fears-of-chinese-influence-01013995?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1NaOHV1ejN5WDlqbHVQcFJyWmhiMDNhRWV0ZGZ1b2FmR3R4TnVLWDkzQ0JOb00xX0ZfLXY3c0cxMDRuOENGR0JuTmY0eWZSTm1OelNSb0tTNlFwbTQ4QUFZMHJqYUR3UGZ3MWtjSElaUzhBbTZGdEZlSlUzU1FnR2VqSWxleDNOSDkxbDh4SkJFYXcwUHlPbmFROW9aNmxTbWRScjBKaXQ3M19PdTZ1SWNpcnZuYkdrNHB30gG7AUFVX3lxTE5fU1o4dXV6M3lYOWpsdVBwUnJaaGIwM2FFZXRkZnVvYWZHdHhOdUtYOTNDQk5vTTFfRl8tdjdzRzEwNG44Q0ZHQm5OZjR5ZlJObU56U1JvS1M2UXBtNDhBQVkwcmphRHdQZncxa2NISVpTOEFtNkZ0RmVKVTNTUWdHZWpJbGV4M05IOTFsOHhKQkVhdzBQeU9uYVE5b1o2bFNtZFJyMEppdDczX091NnVJY2lydm5iR2s0cHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/drone-attacks-kill-three-target-bus-in-russias-belgorod-region": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTXpJNEVhbGNQYTRmdTBSUmFNREp3dVBDaVZXM3JUeFNJNTdMQTFXa0o4T1hrWlZodWFXSVcwQ3JTVG5GSU5kbnYySlVsM0RrUmg3ZExiZVNmWFVpWVJjNXpmVU5rdW1jMl9SNS04cUxjT3E2ak5rXzIzOWNzcHlZelZtZ0FQOFUtN2llNVR1UjltbmRzOE1POEVwQUxQMjBCZUFqZ3dYVENTVEMtWUFNekR1WlZNQU82YmliVmY3VzdIcnZsR3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/yemens-houthis-say-they-fired-missiles-at-saudi-oil-tanker-in-red-sea": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjJfSjA5NW44LXd6ZG56VGYzWFhybVkybHlGV2Q3bjZHazdsR1hoTGh3RmpsUlc1MnJNelRQbGFKejdjbjRwYzBSWFJQYnR1SW5WbGdZbXBvNm9OZXRGUDJVLVZWTUlQZGptdlRYTjhrNUczOWdUZE1FRHFOU1czaThocDdHQVNsTG8tWg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/spains-repsol-selling-half-its-gulf-oil-project-talos-energy/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/gallery/2026/7/28/donald-trump-and-world-leaders-attend-lindsey-grahams-funeral?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/28/iran-us-strait-ofhormuz-allies-patrol-01013659?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWVFHMkNiY25tWVFUQmZ6VmtkbzB0U09TV0NYR1RtbTR5RlV0OE1wdXNrdmdMYjJ0QmxCa2hsdTAtMnlfcnFWQS03eDZ1LTlEWkZBTXh5ZUVYMGt2X3dmUkpQREtjckZ4c2pIQ2V4SnBURmsyc3lrTUxvbXI4Q0VTMlluWFZYMG50TWZKWmhEZUhjQ0JmOUJGUWJCNUkzRjg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
