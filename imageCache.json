@@ -85582,5 +85582,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/a-day-in-the-life-of-congos-overstretched-ebola-surveillance-teams": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/27/anthropic-ceo-dont-ban-cheap-ai-but-clamp-down-on-china-01013217?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/oman-presented-regional-mechanism-for-hormuz-to-iran-source-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607280028.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/culture/culture-news/lindsay-clancy-murder-trial-ex-husband-testifies-1235599495/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfYnE4bnV6RG95b19XMi04ZzV2a195dUU2bU94aHFjYnAwdWNQUVlHU2hvOFE0Qm1rV3hQclVVdy1ZaC1jbHI0elJwWV8wamVBajJydUlSaDYtQXRPcUNNbjM4emZTbDREcWpLRXNMTXJDRFNwTVkxMjhyZjVnT0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbjUteDZjOG9qRlA4RGRIRnBMNUZTWEFVa25JdklDem9yOGxMd1RLYTh3QUJ0WElTWkQ1VHBnanh1TjJfUFlJTHF6YWxjdV9Xel9UWVp4ZndUVXk5MmRtTEozdGtGa0VzSkEyMTJhSGJ2VjdWRnpGbkM0MENyd1dzWGM3MEJNUmd3aHNFbXROS2ktUDJDNjNIeWZZQTBOQTRZVElWRjQycklvandVc05Mb0h5X0Rodw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/07/28/iphone-17-pro-prices-how-europe-compares-with-the-us-and-the-world": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607280027.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3292929/civilian-killings-on-the-rise-in-myanmar": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOakZLSTZJQjdzQ29NN0hhN29ydGxKLWUwdi14Vjk2ZHFDanJjUnU4ZWhGekNvei1ITHNwbUxpRmpJaHBlWVN0X0RlOHBuTHdfVlJYOThydnNVS1hDekt3dnRFcUExbFRuanBwbmlpY2VEOGtDLTZyQ1VlbTBTcTlrWFowLU80VEVqbnFvNGFLb05KTl9qbldTMkxsYkJrQy1nQXp0RjB3SkRWQk5fNjZPcW1sNVhDbHRyenZ0VExn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDIyc1dzckZFZ0RzcVF1N0NaUHVDNzBLR3d0VUEwTjhIRHYxQktIZ2hobHlHQkh3cHdkZmJrbDh4Q21NSGcxRUVRM29rQlFkZ3ZfSG9MRWJNbzBJRzJQVXA5Mmp6cXBUZkVEa3BKMmt0WDJ2eEtGOUtSeWxOc2dfdWNMX056M29Zc05JQ1MxV2VrSjJCZFpPVkNaZ3lrTFFSNnlLOE5CZkpTd0M0elNuQmJFUi3SAboBQVVfeXFMTjgxWU81QTR1XzRFbzZ0RHJEenVKUjlwZWNRSnhpRjBXX1JxX1FCMUdldzBUVjc4RUItdnAtTWtLOVBIV1NMLU9fOUVlUXRVSnlLdW9rUmw5ajBZX1BwcnlidmIzNUVsZmVBYVFobG1iRy1yb2tRQmNIMlVqNTQ1dm40UkFSalF4U1JER3E5RGpBR0x2Ukt1cW9NaUFMTEtYdXBVYWVIT3VBRFk1MWc1ajYyenpvWDE0UFJ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlJGeUhoVTA4aTlEemlPMkJtcUJLTW1KVDFLcmhlVE5FVGhTWEJmVVl3QnNUZGNka25pTWptZHlNOXBDZXZJM0lwaEhuTW53ZlVjUFNXUzQ5c0g5VFlCTnpmQmNNNG5vdEU5VXB3OTVPS0VOeVhGT01xQzJuWHRBU0M3MWpXYnRDT3k2VjlVQmwzdGtBZXFaVjZuY1VsTGh4RHFYcjAwakJUWWZMWC10dmN2ODgyYlg3Y19IQWctLXBReDQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXZGdnBJaXVSYzcyd09vckhoMUVWNGJyNGIwZ1NXWlEyUjZERkFjcVlZZERFU3hxMWNIbEpRXzE0dUNvMU1LTkJpYUF0T3hGTlU4NS1FZjdRaDRZRURobXF2YUZiVW1pc3MzLXppQjdzMXBkbXZjYW5HWmtEaEZ5dGJ6T3dnaDRIenlvTmVqQnFkaV93NzlQbkdOMVk5M3FYdV9QN2RnWTZoRmdfMFpFX01nenpPb015OVFITTJ2QmdMeVnSAcgBQVVfeXFMTmZiaFZrZUxrT3NoamZwNFZIZWZFSHFxN1NlN183UWlmQkh6dWhBRnNKb1NLQ1FLMnMwTno3aUdhWC1YMzFfMFhCMUpFM2Jqem1aTkp0OEtTNFFTdlZSc1FHSGVsdHV2dEpZNUJYaG9sMTZOT0gyS0Rjb2lydFhvWmpqUFV6R01sZ2N4NnFKamdZSmg0R1V0Zk1oMVhTNDZVQmt3cTVtWVFVaTlaX3NnSGpEU1FhMjMxMmljNmN4NTZmN0t2cXdTZmo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeW5BYUdpczc3VW1zM08yTDZlUTQ5Yjh0ZGVyX2RQd285T0ZLMldhSU5OVmN5UXlrLVNsMFJRUHE0YU44OTRXSk1INF9Ua3ZtWGNSZkNNNHliMDdZMjR0Tll5VS1mOGJQTmtmRzBGX1JIN2Q5X2c0LUZ3SER5NFJ5TFFkRVUxTFpJYWNhU0Znc3puMjRSM3BoVUl3dmlrWHFHM1dnSFpSMThoRENMQksyNmwxLUfSAboBQVVfeXFMT3BEOXlqelNINXh3XzJUOE1lN2ZjblhsREpMekRyZVczNG5yamlyY1RZT1NxOVQ4d2hEbWJXOGlmaXFsbzEySUxOSDZtR0k3cHdWdlJpOTlGU3BUTngweHBzUmEwS2VDNHFpMXYtUmV5VldRUHNFNDc2emY0N1EtLWVqT1VWM25sV0E1Q1ItZURzTW5GbkdUbEpPdHdlM0tMMDhDSTloOVVjY1NweWo2SWRnZGVGMko0U193?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbTkxcGtTNUJZNWRNVkNPdTBzZUNZbjVCVmhQZTVpVndqRmlNSF96UXJlZlpXcHhTMDA3VE51RWxmZV80ekpYWlNEa0lQbjhNdGZ1OHNUQzBtZl9Gd2pnSzBDOUhqeWtfNVNvN2xyRUowVWJGbHU2SDhGejFrZnJGS1AzTmN0M2F0TDVqU1V2WmxFaUxia0ZlSTA2Q2lla2IybTBab05YWlp1NFJh0gGyAUFVX3lxTE5RV1Q4ZlFqMHItdmpJZ29qd3BQUXVUTmQ0R3NVMnNrLV8zYWhVMmdSUFRpZmNxQjlXdi1oTWR6TU9Bb0J3Vm5WXzFFNkpJTEZfcHBwdW9GcjFBSF8xSmF4a0R2N2Z3dkV1ZlJhSUMxd0hRcXliTUxkajhibmlnQkVmUE51NHIzVkY3d184cmk0U0Zvc1FRVkZfMWZYZHJzRm5RZkwxS0VNbVhETTI3bXVQYkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNHVuRUJWRUkyemJrUWlVU2pibzNPY2UzbjQ1d0lNaHQ3NUNGOWw1amN3U3AtMlRNcFUzZ0RibU4yRFF2WTAzZDJMZkRBaEhwRjF3ZzZDUDNlQ05VYmpTSnVQU1BvZjJraVV5dDFpQ3FqbXRRc1lNZklWV2Qwa2JGVXB3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/28/mamdani-tackles-cost-of-living-crisis-in-new-york-with-30-discounts?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
