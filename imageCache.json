@@ -87082,5 +87082,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-29/netanyahu-meets-trump-at-white-house-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/07/29/gianni-infantino-fifa-election-trump-kushner-raskin-01014651?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/how-iran-ukraine-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/2025-was-deadliest-year-for-anti-semitic-attacks-in-decades-report": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BZFRzTFBHRE5PeVJPRkZxVGhYLTBpVVhReDhsV3ZxNzlQTlZEMkxtQ0Z5SGhpNTMyTGdkclhuQ1ZvOE5DRlhhQTREV2FXUWJ5VUpwclNNMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTk1tU3oxQlRkNzlYQXdub011Q3oyOVVFZEtrejBjRHRKM2NLczFhbHRRRmt3aHNUSlJEQm5fclhoYWdPVGZyVjh1QXMzWUk1M0xLckJHNUR1X0NGLUVDTzJzUk5uaERNZ1FmbENKX1E2MDVMYzd4Rk81eDdCVXIwdElHMmNmaG5CbHJlWFBmQUpSaU80NUJ4WmdwcXN3aTVkQlQyQTI5QVp4RVQ3ZGVJSWZkNmUwSkRVNWhFTWhkQzRudV9HVHB1cm5aWUl3MFdPa014YzRzX1FINWxRWEdwU21wSExCS2Fxai1sMF9ncjRBUk1UNjVjUWwzejlTa3pvczgtZnVn0gGLAkFVX3lxTE92SjRua0xFRDEwbmZpdVRUdy1tMkxYTENYZUNjZ2k2eEdRLUxxcG9yNHdhemZRS2xzeHRYRDBsY210ZjR6ZUc1NmVONy1UYXRwTDdMUVc1cHI1NzB0ejk4U1JZa2RrRlR4bkFOYmVsSTgtYUFwYXZ4aFJxanRNZXFrbWYxb2N5RkhXTHNUeWw5NElYaEh4cC1uSDZrcy1XaVFGN3RqckZhVktCRDYyVHhidXgxNmVmNS11eGFsOHF1LV8tQWhzMmZ5U01qSlJOTVFrZEdydjJOSkNiNmpsN3ZLRVRvVER3T0dNN055bFZLV2pvaWJIaDVzSUE1NmNnSDU4SVVyS25ZN1lnSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202607290087.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLThsWHdZZjV0aW54ZG4wVkF2ZUN1TVFTVHJiN2RxQ291Nkc1S2Q1MWRqdDUyc0FQbElGaUpmU2lDYzRZOERwUkd6dzlUTVEtYVJMekY2ejNKYm54dEJGMW90a3N2aFBOLXVldy1OVHpzQmdwZFBScHp0YW1ueHlsOEUyd1lDdmVmUUlKV2QyRGo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBycGRiUnBhSzZMZFQtbTcxbEJZU05hb2tRbDRiTThlaml1NDcybW5ENjRidEJWUjI0Z3dmcTZMdWI1eGRmTEw1T2Z4aUV1M0NSYThPSzZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/astronomers-observe-companion-star-orbiting-stellar-giant-betelgeuse-6285541": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcGVqa3hNVVB4QVpLWHo4XzhCS0xLUG85cGNCWEk3cXhXd2lhengyNTl3d3RGMk9KYkxNRTdLaENZd3E1b1hnS1d2SUYzdl9XbllWcWV6WlZXRXUxTlRXMDREQlQ1YWQyOF9IZ2RjMUx4WlJvQVY4YjN1RXZfc25YVU5vSkVXQlBpRVNLZlFhMlNmdS1zdjdUV0pNa1hUdnZjaFFtYTBoaUs3bXVMbUdlRkRqY2wzcDh5aVN4TDJZRU9EaFh5SHVKa2ljTmk4LU3SAdQBQVVfeXFMTUZXY2x2VHN4bXo3LVFaUUI3cFpRRkpZeGJmRm50X0VSdUY5ei1mM191ZTBhZTkzNURGMkRpLW1wOHFnc0xwLVdFVV96Z0l2R3FiMi1Gc3Rzd2NocGxwTjRQaXFoZDljR3NYbENhUEd0ZXNEZjhhR3JKWWZmSTRtQnpSY2hyUUZPbkZTTmZRbk0xYkVOelhWX0ZrS3BkR2xyUDhMVnFhYzNoWnRid1hTOTR2S01GczZvVEl2c3pFN1hsak1lalNMaGREZi1yT2Q5aHdVVTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ3dDVFF6LVVVTmVyMzlQNmF1dzZmMDE3TWxOZW9XQUl2LUlBR0tiQlFOazF1TUI1ZjV0Q3BVZWk4WWRBVFVnZ2lybFVNNHRmWmRIajRLbWN3X016SEdGM2RPeWlKckVvakU0NEptR3hRNUloczc2MWlwR3N4dF8taEpMci01dEFHTzE4RDFDcjhCS0NCaVpHblBNbDFoUUVQZEtYSzlHc1l6ZDlWa3BlR0tGakcybWNXUWV3N3MwTDAzT2RwUVlpTXVR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1RhbHlfT0p5dC02bndJTVltOENGOVNKV3VXOC0tbkhEOEY2SEx5OGs1d3JnTDNOaVI5MXJqRUdkaUtXZ1JPSXlzWWdyX0RRVnFUUE9PNU1QZEoyRjloX05EYnlEWE5GdlNjSG40b0JRNFN0MFd6Q0RNX0tnR2FtUWNpdGxiMUM0RWJmdE5sUjhUZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/the-slovak-village-questioning-its-unesco-status/a-78141298?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0VjRFpXY1pKVjJ4WktzaWl5VEhuVzBZQXdJNV9NSE9CWFJ2cmF4eHZhZ3FZcWg1bFVMWGhPQ1F0XzNCNlM2QXV3anVpRm1aZzlyLVVqUEhpVmtkTmRHQ2Q1ZkRqQWpSa3AyTkRsaHQ1bWlxeWU1SEpqeERIQXRyMHF2UEhtNmJrbDNLZXpoMTJfOHdnU05FbjJjWTBtei1xeDJqNVVCV0ZHNFRzUEFDQWxvX3piR1NUcXREZFBCRUtfOTRIcHpGalZwaUtmRlpCWUpGaGdEdERqZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-29/zambia-s-kwacha-nears-parity-with-rand-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/29/seales-takes-five-wickets-as-west-indies-beat-pakistan-in-first-test?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/next/2026/07/29/the-eu-wants-firms-to-get-faster-access-to-innovation-from-research-labs": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
