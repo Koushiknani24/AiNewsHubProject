@@ -87892,5 +87892,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/producer-jason-cloth-indicted-100-million-ponzi-scheme-1236659480/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/29/nx-s1-5909162/the-race-is-on-for-the-next-united-nations-secretary-general": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-29/apollo-s-slok-says-fed-s-new-silence-fuels-yo-yo-bond-market": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/how-well-are-lgbtq-rights-protected-across-europe/a-78166254?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-intelligence/the-mnd-economy-index-for-may-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWnAtekUyRFczaEt6SlFsNk1wSVpwZldQU013enphc0VGMmNMYnpGTG5qSGhQRmFnT1VKdGdRenE1STI5eDdUY0RKT3VYbS11TDF3TDd2TjVSd2Q3RVBJU2RKMV9FeUZuRGNPUWRPTGkwc3Q4V2JTZmJGUFpRLTIwblF6ODU4Zkd1NVpOZkRjSmpvNVNhRXZ3VjdEekdleXlnOVdhR21YWkJPTTRxSGZVVkNUakJLZlBnZ2VrZXZ5M0R3d2dFWXN4Rm56VEwtbW85azhKRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjFua2xuR0lxdnR1U3lFQUNYanNTZFN1a3ctZnl1MEdwNnB5SDVCcEk4ZTNJOEMwSlZyXzE3ZFVxbmJOS2lpWHZzeTlqSFQ0ZVllWVZ4VDkycWRWQjhVZFNYN05ESkZXNUtUR3ZFcElHZVdXQTljSXd3WVF2eU9SMkdMZDA5MUpXcEJXVzk1MTE2SGwzd2d3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPanRnOUQzYjl6c3VncE1RaEx3NUU5MDNLVk1YdE1uLWNpZ2xGRlNnVHVsZXdySkhTQVpuRUxTWXNDa19Rd1RabnphQlBZdWdBcHlnUF9sWHlwZm9oOEJoWjdRQlJ0dnotaG1XbzJOTi13dXFqRUc0dFpOeVpvMHdyQWRlWmEwZGlEOEU1QzdDbWh0MWF5NWNnX3lBZlVUNjVvNVBQb0QwMWtDVDZmeW5hWklxWHk1SHRKendvWm5Od2FqSnA5U3lLamx6OVo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
