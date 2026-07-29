@@ -87196,5 +87196,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/29/gaza-residents-flee-before-israeli-strike-hits-mosque-area": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHdJVWZ2NmM1dDdFTUtTR1lwZXF5MHN4SE9xczZLRHBObGYwTnVibVFtczV2R3dlT1lnNTB3ODBiMzdPMl9HdTBuYUxnMHBnMi1VU1ZTQUhfZVBqekg0d2d5dFZNMktPRnlYbl8wbzM5OS16Yy1rSXY4bVc1dV9NUXpUMHZSX2JIQUdib0N3WTc0Tm9ITGdEbVF4b2tJZ3NnWUVSa0JBNF9ZdGhiUHhTMUd0Sy15VzV1VW1ZWVprUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/inside-afd/der-grose-irrtum-von-ex-afd-chef-jorg-meuthen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0d2NnZ3NWUmhHQmV6X1p1M0JLSm92SUlDWnJSYjV0LW9sQnNsZjNfbHdlTUUtclBONFNwamlUWWJjckRmMGxwYnYtZElhZTdHR2VudDJWR2x4Y1VDd2JETk96a2RfZXhzRTV0YmRB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3293425/thousands-of-fake-products-seized-in-min-buri": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTGpPSGpESEpkbWFOd25oV1RuMjgzTGctcGhfTEs3R3lEVVUzV2VOYlE3UTJOZ1FWb0Y4YUR0SzBaTHlMVnBZd052RzJhVGJIUWNaQjdRb18yOThJZ0VaTEVMZ1pMdGZrSWlUUHY0QUl1b3NoQmd1VERTa1pqM0haVW92SFBIVjYxM01KaW9qM05vYVE3R0lrbV9hYTdYY3VhbEFHUzItVThYaGZkX1hOSnhSTkI0a2FNU2p1OTl5dVllZUhKa0VwcURqWElTeE3SAeIBQVVfeXFMTWpoUXZLTmxqNlBHWUJ1WTBvTFdCSGRhVnZVWXF2Rm5VQWhQOG5IQUpmeWJacGRIb1gzakRvT1kzb0xlanNXOGhyUkpyRW0tNXBzX2k1SDRiNXVfeEFpdGJtM0w1ZmRjWklPSlloZUs3RV8zaWtJaDJOb1BVdHJkc05sNlItbDRJVk1ISzY5S0JoVzBQTHVqRW43WTk1VldHandNTGM0eWxiYVBpQXdScWxRQ3pJaVd4Y2xhYUZJRDhsdUhZY0hZcFlBQ0d0QjhKdHRhOXphWVRJcFZZM0F0eXBqUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LMWZUX08zNTFZM3I5V2s3UExxQ0FJMVctSlhFbTFtRzJuRm9BeVgyUzJza3BMWkNoU3ZYMnZXVWtrb0VlTTFxWThSdkNoYjNzSUwxbWR3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVjdRdWFKeVJaT2FyR3g5amozWlNGNDFQWFlROG83dVpfSElZaDZEN09OcEZ6Y2REb1NhM08xbXZ1MU5JNnFzSkhVUDNNdE9CWlZnSlN4V3p1b3lfSm5pcHg3SWhjbFM3OE44OXFJMU5qRkhuRklidmpyb21RUnNHU2NaVTkwdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nXzRkdm9XbzVUQTk4dDRqdXVFZ1kwcEZkQ21fOXVzWlFPbWZTeXF3UWlVUTJMYmc3X2FUUlNDeWh2NmRhSGxpUzhZNFg2SjBGT0d0czNWNjh3eVZYM2ZEeWhnSzJqakpiMWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/29/iraq-eyes-supplying-turkey-with-1-million-oil-barrels-a-day-amid-hormuz-crisis": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqVEJJUkdkcXlxTWs3X2c4dndLQ3lJUWd4dFpVb0s1dkgwX2dYUTY2dmdnNFBkUWw4djVvbFJVU2k1T0VmTjBERlFJMmU0MjllSlVDWFVTQTBuZzZh?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbkVnQ3lUMzJ1bVRENmtxUXB6bzhpZ1d5cUtNYXQwWjBqRU9rUlQwQVNEQXV1ZGI3aTAwN082UmtxN0tDdzJLMHQ1a19qNmZ6MnE5VVA5cmVTUGFMVEtyQlI1bkk3MTZYYzh6Q0h1VnUzQllnZUk3VXNOQzJaN2JjSm1oazFWU3VGcUhPd0pfc1lXSjd0YUd1eDA4cTBiQ3VmdUFEN1FDa3JIRDE5MzdVaTc2cE1VQlhuSHVlbzExc1ctQU5EQjRVdXJmdTE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
