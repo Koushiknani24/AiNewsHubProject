@@ -88120,5 +88120,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/cupertino-cbs-show-production-assistants-unionize-1236659649/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-29/wedbush-on-meta-we-re-not-seeing-its-capex-pay-off-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/kanye-west-settles-sexual-assault-lawsuit-ex-staffer-1235600754/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjaVNLQTFvSVJaU3Y1OEFWN3B0LVc0SGRORFZVQ3gtVmxvelJTYTVkZUJBUTNMT21LcnRrWnFOVzF1cWNUcFRLQ3c1QVhRWjJLWl9UbTRQSHJqZ3RDMWszS3M4NUx4c2dOUFBSV21ieVNOSzg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-29/allspring-on-chipotle-starbucks-earnings-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDkyU1ptM2xGN2M5QUJtclpSMFJtQVd4VlZJeTJKbXJPb2Q4cW1VUlZubjVoQ291MnB3T3AwT1RQcENGTmtEVHB3bUNsTzBRRjlHTjQ0dGpabWpZM3pZTGlIcjNGcGRTdDlDc2tCc01QYUxtaXpHREFvSWV6VC1Nbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hNDQ4QUZCX3JRWktXUHNub3ByQ015Z0lvMHVFdm1QZjFXemlZQ3JGM2ZyekhUWWVUa1ZVRnRoRGN0ckZHR09fRUJORDNkX05yMnRjVE94cTg0U2V5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-features/the-devils-mouth-star-kathryn-newton-interview-1236659514/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-29/goldman-co-cio-the-market-s-punishing-the-hyperscalers-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXN4TEtUWmdoRl82NEFFdGhTdDNMRzgzWHlmR3dNUXBQNURjekdVNDNQakhiZDVnZ0lFM0RyTUd2QnRzMnRoTXRINmZzSzk1MDlJV01GZ01BelpnYUU0bE1ZWXAxWGpoNWlCbmVzS1RCdHMzWm5zSC1VbUIwV0tWc2Q1TUpIdW9l?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
