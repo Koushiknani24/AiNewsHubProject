@@ -86956,5 +86956,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-29/deutsche-bank-cfo-akram-sees-trading-momentum-continue-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-29/horizons-middle-east-africa-7-29-2026-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/07/29/nx-s1-5911616/police-interview-tupac-trial": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/29/latest-news-bulletin-july-29th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbnZkWEh4OXkxazdUTzYwRVY3UXZmeEhpaWRubWpnQTUyWUVsUEw0YkgtcHpfR2xoUm1oeENCRmg5a3RrVW5CaTlNUThQR3ZkYlBkRlhkVlg3WFE3NkRIWVRPcGRtWWVpekt2ODdTM3VhN0ljZzBkbzFlSDQ2LU15TDZIM1RCNjlwbFJmYmJaUFcyM0VPV21BRndwM1NLZ0FxS1loVTlCRzFGdnlJZUtUbXcxNFdXMUtSTDVmS0ZxTXNXSmZMVFlrU19oM0JpMEhLNFd4WFJ3Qk9BdERpX2NxajZ0S2VGUFhTbG9iWmNHZ2lRbGROQzl2VXln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMXpHRFpMRmV0MVVYYW5CSDY0TE9xWnZDUWdRQ1pLbEhUTFJZQlgxUDgzYWFNanp2RkZvdE5GMFBoT2c0aTR2amxaU0piNFVuTjdjM2VOLVAzdjF3b0RZclFoaUJEeGs3UzYtcGs0RzY1Y2lZUDZOcnJtX2d3RVZIMEFkN3QyNGdic05YejdaNE43REZGYzJ6WU91WXZGZDBleUp6cWV6MG1VLW9EbVUtS1ZEWk5NQ1ZjcGdIWA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qS0oxRFdYaDVIUHoxM002RGRXZEstMkFxb0x4Mk9VUC1hZUVUdG1MNHVTY1BwVzVJdHpDdW9mWnZPeXJUMHBiOEZGeDB4ak5fdktvakNuWVQtMWRqS2Z2WVFIYTFRMy1UN3JfRVNJVzltNVlSN0ZlYnY1bURFVzg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-using-abusive-language-kiren-rijiju-hits-out-at-congress-conduct-during-ls-discussion/articleshow/132702793.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/29/japan-earthquake-shakes-kumamoto-newsroom-as-staff-shelter-under-desks": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwJBVV95cUxQekVVdTFlZ1liSzdMZFdlWlFTbHZidmluaUN2UEszczJtS1RaRi04X2hWbm96ZExIcHhIMnU0Zk9GZFNmckFUeVFZd3p4Q1g0SklmTkJJMlJDVF9IOTYyTFY0SVRTdl9pbC1UT0dibkNkU0VHcXF5YXo3YVFaNTJ2OVYyZTF1M2x4Y09neGVzT2lQRUt6M2YteFZNOUVZVVJ3Z0R6S2x6czl4Qkk4U0VhNFZBNFpselQtOVJ0ZWNDTzltN1Z4Rlo4eEk1U2ViQWJfZ1NLbXRIR0FxbTQ3aXNnR01JRFVQSmgySld2QjRrN3VpQUdZdVl3bFpCWWVLcXJiZFZPT0F4amlwTHRneFBjQURnONIBmAJBVV95cUxNZkMxZFlodWd1ZkppZ0tJMC1nTWI4bklVc2N3NVpJVHFTUEhZY1hHRGV6cVcyMHNCYWw2YjRtby13TnpkWjhueTk5RDZnTDNETkFjam1OVWhHNldkNXdnamgtcC14Snoybkt4b1FIMUg2M1NsVEVQakZNaHRTQl8wRkthNzd0dEIybnFZOEtlSU45R2IyamRkNko1ZTBvWVkybERRVmlCckt5anVCSmZfRmFPaUtSeTd0Y3VLeGY0cXNLZGs0SFhCaHhkLVd3Mm04bGtUT2hHbGs5UHVGMU53OEtLRU9SWk54b054YkN5bENBSXF5RWNIeG43b0J5RlNTYkdaX1BKdVEzZGRDOWlOR2dqNzdYOTN5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVEZRV3hBT1hsREJMMVNlM3pCcTRVMUYwZGswdzNubmttQ2VFYVVLUnJXMkVaaHlqaVVBbVpCd3M5Y0lQMTE4aHlySXVjdEY4NjVCT0VUU21VZEpJLWhmZzVSaTVaYWRSdm5fUGg3REpsaGpobGJfdnhOSm9tVnUweHdOSFl6aFlpZUhFbWhDNlk4VEE1TF9zbU5pS1VIYmtkS1QzaFVKSmt2dnVaMjNZbkNfZU00a0JxRXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/drones-attack-industrial-sites-in-russias-ryazan-wildberries-warehouse-evacuated": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-china-box-office-1236658858/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/29/us-intercepts-iranian-attack-and-launches-joint-strikes-with-saudi-arabia-against-iran-bac": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdmJPS010aFNnQnhjSFhkbUdFbXNxbENQNzJueDdrTFdzRS00dWUzb3VaeFlSanBQOEc4SFcxWndvUnV5MlVOZjJrYl9SM0hXN1FoV3ZwSFJUY0E5S2pmQW56WkI2Y3dBVVBxalktaWRpR0JBNHNZYi0ySGl3c3lJWWl2VmRZT1ByVWwyU1N6V0lzYVl0cmVPdzdrMXNWaXNrSE43QUY5MWpVV0xCaFh0bDJicmx1M1VLNW9QbUYyN3NaZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOG8tUzhyZjc2UTNpcVlkbk1zWXVKY0lRcGl2SDFiVTM3RmtMSXBLNkJFWmxkS1RFVm9VOGVSNFpuXzVsemJjM01xWk0zclFhbmMxWXM5M0ZUaXk1dnJkSUNtNjRLTzA3TEtKTFZqWmRzcGJpMjNEVlhzX0RiQnJaQXpFdmVIWXNvXzVfRWdHWTIwMnhjdEdnSG14aDJRbXprU1ZIY0tn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRk1fOEZtazV1cGtvN05vS3pCMDZfSnphMlo3and3cjVwS3kyMlB4S2JoczZWM3Y5UjdRTFowaWJlZEo2VV85UWJFV2lkcS1ONmdkTXNKR0d1UUwwZnAtMFBMcFdCSkVfS0EyTEVtMzg2WWZLYXc3S1d3RGtzNjd6NHhBRWV2bTBwT0x6dEhGSm1udERHdnItanZR0gGYAUFVX3lxTE83UkJhT2huaG8xR2tjX0FCTHVmSm1kVXJkazhzaHo5V0g1d3JkaTBBS296UlFBTkFNSU1BcjE0QmlkcW8xZjVYWVBzbEZZY180dmlRa3lPampmWWRMdGtGZHFRczM4dkR1TWV3SVlrSkZWdGxDV0plMU1lOXp1RmhEbkJNcF83Mi1xeDczQXYzcGpGMjBKR3o5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/brazilian-court-ties-players-suspension-injured-opponents-recovery-6285226": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
