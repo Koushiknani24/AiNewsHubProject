@@ -88048,5 +88048,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczQ3akxPV3lFcU9XRVByWWp0NVF5Qkl3eFo0MkNRTjVYNlhvQW5Kdkk1NWhmWnItYVBxRmVZRUsxMkVHX3QxR202UlpGRkwyZmpfaEJDTmpSWVFpb1p3bFBYcjBkem9qS0lOTm5BWFFING14YjRFM0pGRHlnZWNHTEF3bVk2WWJSVVJDanUzNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-july-30-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3293769/dialogue-offers-path-to-peace": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNREZ3QVR0TExuTFBYa1JtMk9nUzJzT2tWVkpWTG52OWZyZEVBLTJCcXBjd192OTUwZDgzeHlxTTVraGZIc1BRdjhTdTJJVGUwSEROU2VsSHJFX1JSRW9adE92X2U5UWlRdWZfNVFBQ25lNEM0VmpuUHpYUjI0T25jelA0Zzc2X2xsWGFiUERfeEVORDJ2b1B6WElZR04weW42dkNrcmFNemk0SHdjeTRPdlFOU3loVHZlYkZYTEQ2NklBQ1BmXzJwZA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rNGEyRHZHbWR5eExfbVN2VnUweDR1QTdFVExxZDNzbTJVTV9UY2ZYS1RrYnRVOEZLcVp6U0lDTXo3ZFNnMEhsSS0wV09teEtianhFRnNja1BVVUdGUXlkUmtBcC1hVlo2eFc3c2V3ZVBHUmxxYm1TeHdxTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/world-bank-president-in-mexico-with-plans-to-help-boost-economic-development/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAJBVV95cUxPMTR0aEJxNFpvbnctTTd6U0ZRR3NRR2xweHZKQnU1UTVoSW9pcWtDdHNrWi1fTkZVWG5FU3VmRlR6c2pWSENSZ3lkeWZfdG5mUTJBMmJobTNuaEE5eExvM09CM1pRRndlcEFWeWRRcjg4a19sVlJpVVRVQXl2VnhXTXBiMVRjWWlnU2E4UllraTNZQWpzc28wQi1UTGwxT1NUX21hSHo0NDJyRWQ1S0Z4eThhLUdFcHZmNE1FZjBBV1FmRnduZXUtaXpBand2dWNqMzMtOElheG4wY3ZkeXEzR2JTTGhRdmhCQzB4MmhPRl9pRXVDYzR3NHdTQWpSZU92eWNwREp0QXJ3akRRSHM2UHotNkQ3WWFvYXdhaFQzemk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/pew-research-mexicans-view-china-more-favorably-us/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
