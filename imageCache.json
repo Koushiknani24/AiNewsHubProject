@@ -87550,5 +87550,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/investors-are-bracing-for-uncertain-fed-announcement": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/iran-war-egypt-s-difficult-balancing-act/a-78162983?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pRTJaZkpBT2FCUlJHanFLd2RaUHRQRXJPYWdnc0JtZURBeDVybUQ2QTdNelRUZ3hzMWFkeWMtcnY5UXNrUWFhRC1mOGQwdnQ4UjlQNTNPTndaS3ZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNREVucFduOXllYXJERDhmWHNSeVRhdzV5Y3pKaGFGMzJhQ2FWUndacHppdlhtSTliTFh5RWo3ZkVDLUMyV0hST25SVEVNVkYweTVNdnlUWEJlM3hFS1B4X04tV0k4UmFuUVdqVENValV6c3BtNlVMdlJ1Q0hjcV9XMg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjNBelhTQTFwS0R4aTR1ZTRZMzdKNTI1UmN0aVNVVzNKQnNuTDJoMVdmeGFjdWM4Y0FaS3ZMUnJaMVd4QmhYbUlmdXRIV0JaYzBFbTZuLTlrSUE1dUx0SVJBM1VXN2NXSGQxbC1ZZHJ2MFZubzJrSkxzSjNlTExRRUFiRHRDX1dxLVFMT1kzM3p3bWYzaFhLQnlVcmVUOG9p?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWpya3lfcVNscmtuYzBsaW5ZNzdBU2R2V0ZPcDRWd3VubmdRdGY0TmRjMEhsZnl3MTlEbHB2MHR2X0lHTU1VVV9Pb1lraEJjOF9lei02aEEwMzdPcU5mR0FjSEwyU0xnTlRYUHlUclBDYWxQUDhwcGVKZWpybWdGc2tjYTBYNVFvZFpnckhzdU96elBKMXdIamNnWGR3WnIwUmRHWENaMNIBrAFBVV95cUxNOFdHZkZDbTNxT1dmRHRDRnFlWmlLa2tpMmtndmczNGxYNzdNakNoOG9lZFJrLV9KeURXVFZIMkd5OEJqY3BaTi1xRVMwdEs5YVNjT2trc0pEVlNWSEJlOEhzcE5wUmh5Unl3QVJXc3BqRmExODg5WXhsVlF1SDkzZDU2RjVhTnhxZGVGOEt4NTMtYjh5OXZJbnV3QjFLSVU3YnFRZEZuVGtBZUha?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUY2eUIxTk5FN3ZLbDkzTkhPbjFxNS1fUzFxa0lVZnZoQ1FpcGNBMEt3OFhkdHJFN0JNUlVZOXd2eFNXbkhuNDdJeFY4Rmd1MHFfSnpCYmV3QVRuenlwNGxKXzhpRXZVOFFjMjFkQnpiQWl1amZtRUJ5V0RpQnF0cFdFTEVfUFgtb0ZWM0t6OGdjRHdTMnhLcHVWVzJUU0tieGFhMk40XzJfYTRvSDFTWlVzQzJyTVZ3M2lMS0JB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGxBdlZ3a0tFS2JrQ2tEaUk5Rzl0Y29kX0NsOTRxa0Y0cWpXN0xuZVJJTnJ1YzNoNkFuZDBZT1ZFalNIejR3MHFqOXFCVk9jNzNsbGUyWHQ5YktXcFJLY1RPRGxLN0RKWERBX1E3NTVmRXJDZnZ1aWNBdFRMUnBxN1F5WUF6XzhiSHc0TGVicjRRN3V0eEVWeQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHk1d0ZUampYNnQ4OHFqSzB1V25RbXVSSnZGWGl0WS1hTEt3bGwzaThZeVZIWlV3Um43ZDJ0TDVpeEUyUFQ0TlpsbTctaG0zQ1dpNDFaSTBhNWM3Ynhob3dkd2FXRDdmQmQ3Tk95U0FTOVM2eEpwZGlLSnJ4QnVrUUF5SW9mU19xUUFUY1BCRmJMcUVhNEcza2JXcUo2UHZ0djU5NThMX2h2eURSSXNzVg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3293494/survivors-still-sought-as-japan-quake-death-toll-hits-13": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/son-in-law-grandson-of-house-owner-emerge-as-dacoity-masterminds/article71282839.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ1BydnNiOWVBeDlycGZYTUN0S2djRTM2OExDSUhEakd5eTdPdkxVNmNNVnFfOF83MkRHSVA3OFNpdHVxSklTWjY1T21nWGs0WS1SaUZQRTRzd1YtT0V6OHFiX29YS3hTQ2JHeGRNMmphdUVPMDVONnlKVDdpaEdwTl9uVlU4WHNvcDJfQTBOaEZEWkdMdkVaUEFEbDhCUGhaNGx3MEp1cDd2V3JmZjU2V09rSkkxUzN2?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/france-issues-expulsion-order-pro-kremlin-xenia-fedorova/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDFmbFNLU2tsLTRQeGR6WnFjUktFbWVlbVFvQm5HRUowMEFJZnNuMk56V2UydVpYalhHT2ZvbzJCLVJUdjg0eXF2bUxXSnNpbWdZYmg0Vm9Od2Z5TXFSdXZ3NU5nalc4RjhzSng1b1lzcHhqV1FaNFE3VG5MWFFSX1RkeFVPZ200aERTY21mdng0UURYZllITUFGWWpLY2JjNENKamxGUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
