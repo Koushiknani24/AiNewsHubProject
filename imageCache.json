@@ -89140,5 +89140,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5YjJrMm1KYmFTMmtseFpwQzkzdTNlT1JkRW94VS1fRHJsWFlJNWlpSHp0SjhxQlN1eDhPell1YWpoRjRlVWZ3WktiaGdySDhLNTdMUnlUbzZrRFU5OUZXVEh3UmU2Y1lNS1JTbWpNZmRfWVFTRnNv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/magazine/2026/07/30/trump-international-criminal-court-01015495?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BdlNaTXk0YnFVTVVXd2l0MEdzRG1Ha2tGcWpoZ0NnSHU3eVBLcWVuT2ltbGxlbWxkQmh4V1VucjlhRGQyeUhWVzVjZDFla3RFM2p3dWJsOWR1QVdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/spain-will-send-troops-to-ceuta-to-help-with-border-security/a-78177638?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/navy-sargassum-seaweed-plan-mexican-caribbean-july-30-mananera/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWU9PdFl1R0FYVXhXOFVhYTlYZF9pdF8yRk1PWjNjWEhpYVJ6cTViaF9uTHFBYkdPX25BNk1zX1B5T2pMZDA2NjBQTnlUb0owdzNZQ1NCZVhVMS1RemxIc1dDNlB4TVUwcXRwdG9zdzk3dDFFeFRORjNZdGtRN2hWQVUxWk9qZmx3Mk53SVlsQlplQ3dhOXZNdUZQdTBVTnPSAaQBQVVfeXFMTkszWllTMEJhbmJmMTJiUUlObDdhLTlVb2R3bzZrMm9BUjJSSTEwX3pRa2xZdTNwLTdYVUVjVnhXWnIwUWVNY1NJYUdGREdfR2VMb1FWSkVJSW5JLUJUSThhTHBpZVAyWWRGZDhTbGRNam5PUjRmRWNDb3psMnBNVXgwTGQwLUFDQnFEdTB4Z0tvbGR3UWpHZnYtTEVNVlFXalpBS3k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSkhRVGFZLUtVV2x4Y2h2N1ZkOVF2N0xDQTYtZl8yMVItZjN0UndtcEpXSk1qMzJZclZiUGhpYVdURGhITWJ6WlRrLTBaLVFKT1hrZElqUzhYcWZqOW9TY3lkeTFKTUhscUdhdllYdlBUdzlyekYxWnpvbmhCLS1NTUJDa1J0TnJMQzU4amwtLW4tMWlGNTJWQzRFNEFQWTY2RmfSAacBQVVfeXFMTmhQMTRIM2NKM0JRaG5oc3RjSkdBRVVkSWp0eDZkYVI0Ym54YjJvZmZWOW0wMFhOMklPLTFiWHRyZjRUc3o1VjlCWXNPRTctNEgwN0V5Y1JNU1psTm5CeGdndVYxd3VmRkt1eUxBOTlkWFNfcUg2MzFDNkt6UUxZXzh0SlpkNVdyWldYeWV2ZE00WHRnaDBOd08xTlpRYzI0QW9tNUVXTDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
