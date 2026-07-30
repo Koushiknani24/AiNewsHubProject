@@ -88198,5 +88198,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/29/zuckerberg-metas-ai-capacity-dilemma-what-to-sell-vs-what-to-keep.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-30/bradesco-bbd-approves-2-billion-capital-increase-for-digital-push": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE85bWFLTHpqbzJxT05STTlNTEpnZlVXeUdHZU9DeWhrQWZ2X2NYbVhtNElZS19vX3ZINncxY09jZFNVSDdrUlhVb2paVFpFSi1DZHJuOGwtalFqUkpiX0tWSGstc1J2R2k0Q1M0U1A0WQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1pYLXpST2JBb2VRSldFY1JVc3lFT0dBWlpFaF9ra2hPV2NlVklaMmd6TDBiUEZqc1FqbFdLeld3cjBqQk1VcmdpU0NFZVliX0paX3JmRldmT3JrYW51V0lTa2I4SHAyaW5ZU2pROXBERndCTDlTZ0lmcE9xOGwxQzRuV1lwd3Nmb1V0Q1hB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQTFrM3lZaEVfZjAybGZ0aVAyUzNFVmFkWnhEZUtRUk45WFhJa0NiSmp0YVlXbUxJRTFSMXV6b2J3bnZGaHV3cVFDVHprbnlpM3U1WEVZVGd4Y2VFMW1Dd2hNcExLMmRlMGE1UGoyODVBblhkZV9QOUFwZHZTVTlSeXRuc1FMMUFqeEdydlUybldIMEl2NXdNbU82T0ZWdjZZb2hOd3ZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/japans-price-expert-predicts-boj-shift-more-aggressive-inflation-fighting-posture-6287211": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVVBtbV9scjdMVVBlYlc0Q3ZUSEpVVlAyQnZSNGU3MDlJaVVHc1JlLXJDbGFMVERyRDFnMEZFTTBZRGs5YkljLV9HbW8wWk1wb3RCVUJEb21ienNFQjN6dlJIX2w4dDByeDBKYlVGc2ZLdkRMeURzb281SUwtdDdCVWg3X3FfYU5JaGR3YkRIZzFWb3J2VFpxREJTOXJqdDMwTzAzeF91VTA5MVEzZUVpYVl0dFB5Nm9MeWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3293599/italians-and-spanish-record-sharp-declines": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/kia-will-invest-us-649-million-to-build-evs-in-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3JOYlFiUXFyNW54dFJ4TjN3QmoyT2xYOEdORm80bWJOQXVCUXNFa2ZOUFFseVdlRUhHSGllZUZDT29ObkM2cTNaRzVwYXlPT2l6b3J1czZwel9jZlBORUl1VVdjZXk5SV9CMG5Fd2ZVUUwzeFNLb05weWw5MnVmRVgzVF9lYWQ0bldEV0lSR1VRNWN5REpnZl9oODVVTGtqM3JadmNGVUZYTjZOalViRXMyYmRaT1k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUG1Caks1VmhKQ3g4NWVNcXEyUDR0clRtUEQwVWFDMm80d0N1MnMwOGtqU0lzeS1mMTdTNmtZNW1yUjhiaE1rcFpwNVh5NkdnZkJtTHl0Q2w5NzFNLXFKcmlhQjBjalhQTlhrSXg5N2l2YVA3X205bGUyMzVodmltZWIxWlgzNmVVMDhwMHlwYkdIbndfcTUzU1ZGZkg3TFBfQmNzSjdyNkFxWUZLUEJlSGEwVjR1bUZC?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
