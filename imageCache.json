@@ -88864,5 +88864,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/uk-piddington-village-referendum-leave-uk-join-us-protest-as-housing-plan/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-30/meta-s-ai-spending-faces-wall-street-test-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-30/bargain-airfares-are-under-threat-from-ai-pricing-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-30/equinix-seeks-at-least-3-billion-from-latest-data-center-deal": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/britains-ban-on-palestine-action-group-to-be-considered-by-top-court": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-30/fed-s-warsh-rebuked-by-investors-craving-inflation-fight-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/30/thousands-of-migrants-storm-ceuta-border-from-morocco": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUzJTbTA0Z0oxb3ViOWdJeTdaZnRCdWhUal9mU0RqTVpuNk5JR0MzMXFyU19IM3lzenVOZ3o3TFJmakZSbnlrd0JMaWY3NFd3Tm9yZGFReVdpOGMzbmh0UDdiYVpHQy1idnF0Ykd6UEpOSzVGM0JKcDBYS2pEOE13OXhZY21hcFpUa2FDbEwwZUlfenUtTXVtVUk5cEVzcmxLS0V6SmtpcUlJOXozZ0HSAbMBQVVfeXFMTmF1dmlCY2ZWSkVYNUdzYU1QMUtGekgwUEVZckxpdnd2QTFmMW9ibzR3cVZva3lsd1o1WW83Q2NINVY3UUhXY0VXTngybEdTd0dXV1FxUnJsaTZNMXBmT21sSkRySktXby1lTW5QVF9VeW13M1FBS1IzVmlwdmZsLWMtV1dCZWJOeEd2VVlybFRNWWFQLTZmMDFjaTB5aGF0cm53TFlXUy11OTlXQ3RTZzRfVTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sRHR5dUdoZlNFamtVTVdFV2tOeEFRdG5nM1JRRWt1UHFwdTlNeS03QmlMU3N1Yl9yTmRYSlF6SkhGZTduU3VSVm1ydWxsUWstZktDU041VC0wTnNxTUI3MVpDdGxvRXNLRmN1azlVR1hvWkhoa29CcUlGVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/30/is-pakistan-using-indias-playbook-in-kashmir?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1c0VlU1SDllUGRDSFNSNXY3c1lyUlpXUlNZa0RoZXdiVGtnaFNFOEpBVXBiajJKOVFVbzZDY2k1VGRqZDhTOENsNFZObldpdkpLVGhmWWhsRFF5VU5qcEZaVDJYanpQWW9WVlpUNE5CcW1GOFlxMEs1Rk84elNvTWJFOTRXN0pTelp3aHBTWkctakx3ZTB4QWlnZ3Y?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/07/30/drone-footage-captures-massive-castellon-wildfire-in-eastern-spain": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/bmw-to-volkswagen-how-deep-is-germany-s-auto-industry-cull/a-78168695?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS3FwTWg2TTIyVzVlRkxHel9DU09QV3Fjam9VRUVEWjduclk0RG1sYUN5UnZia3dRRGttNHNvVVRtbWx1b2hLNXNWaUt3SzFKLU5KUGpaV09RSXNyZnh0NjhsV3FzQzZ0NjVYd2E3LVV5STRGdWRvUU54UWF6NGhQQVZwejFWQWl3TVViUzByT2tPdUh0dDV3NUo4Y24yMWZybEVUMHRtdnpBTHdRLWVueDVxX0HSAboBQVVfeXFMTnJybEpnMnRiS3VsT0JSakhkTkgxVmpVRHBSWkJCUGctdkkxcFJld1JWeFU0d3RRUXh2ejJlQlRWN0dEWjh5UUxZTHppbmE1NmV6OTk5ZFo5Ym9SZjlDbFNPNXBtTG9GcDZLSGEyOWttblVYMkdETk1SX1BoMFoyU1p4c3lKWlFKandhRUs1RTFlMEtrQzZyd3hCZXZzODBuN1VpdjJDZ05uX3lDVHFqLTBEcE00NkFvenp3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWhGVUhkcFQtZkFmQ0I2NHZNTTNzUXdDa05GcncwUHRCd3FRTDRNQ0xkcWFrcmxqMXZib3hFcWdxWG5VQjdPMlRjLTRIeFdoY2xpd2pYQjJqaFpyRWI3RlBKb1BXT2dRcXNQNU1OR1N1aUVIS2lXelFNMHNnWXhFYXlPR3l1NWpBUEFxZ2loSnVfQUdYZkJuN0cwUXVFeXp4ZVZrM3phNWg3UFFjZi16ZGxMQjI0RlJvWHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/mammoth-bones-found-on-parched-bed-of-danube-in-bulgaria": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcXZaQ1BNX0dRLVFSd0lMNV9ROUZCajRfRkZYUE1nNGZoWHJ0YmpQYlNTSzgwN3ZhNks5VjRCOHZjQ1hMdkJSYnNweGRROGd2Njk2LXEzeEJTVEZZd0xrdnpCTjJadzdlS3lLZ0Nkb0lLNlByUWZPMTJwWTMyTG9yMmI0TWdUR19LNE1oTDlXTXdlUE9lMWVPRjY4bVRKM1JtaUVuUVBVcHNpRWVwakp4dUlxXzVqUDVub0JJcEtSZmxDQjJVa3lqWHF5akxleE5PdTNxekVDNmtMTzVaYnQ2dk1vMGJMZDFT?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLWVXNVNtVE1manJEQlVjZFN3QnF6b2ptRXgwZlZta2RJc21Da0pLS204M1dTOE0taGFTWjNVcXk1UFBXMFNIcUdKdGo3ZWp4ajhZaE5Uck9uVGttemtDQnVLd21PaEdIVk1LN05Wa0hCdDg0d3J1OEE2bmozMEhiUW1uc3ZvRkYwRWg5bW51T09HR1hhRm5Rb0dvUjFMZnlkY0w0dVJxRktDR2tEemt5NUhfejBNeDZQNnd4UE9Fb3ZEVmFDNU9tem9kWDUySXFFelZoR25zM25XM0JVTU1tT0tQN0lQODJLQlNoblBn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
