@@ -89350,5 +89350,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/mexico-arrests-suspected-gang-leader-accused-of-ordering-mayors-killing": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/world-cup-mexico-gdp-q2-2026-spending/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORndhU0VhOGplYjBJNG83ZmZzVUQxOUJVOFpDU0JkVXlLa1QxeXRBLXBuS0Q3c0stUVFJNFJ1a1VlM0lhWHdWUTc2eVhLaTdJNDh3TFhCQVo2R3pPb2UtYW1IOFF6eFZZLWxiWnp0THZjNEpCYXRnUnMzUnVmMFI1Z3FGcmpKaTh0bGt6Mk9WZjl2N3I2YzM0cnVUcE9hTXhkNV80QWZFZUFTUmd1R245VDZhRXktVnhWekJTVjc3VDdBWHRQQVlsdXZpMFBYSTNKR1pKeGhRa3pIRHBG?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/saudi-sets-up-maritime-defence-alliance-to-secure-red-sea": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-30/spencer-stuart-s-citrin-on-apple-s-ceo-succession-plan-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDBaWWk1Zkw1U1FLOXN3R1hjS2ZWOFRYNjRCRkswMUhBRXI2ZllQX2J5WUgyc1pFa2xrNXBZQ1ZUN3ExRlVpcm56Z2tUSm9lZm5PZHNVU3Z5bE5vOFJMS1NtZ3VPeWgwZTdWcGNxS193S1RCM1pqcGdkelFjOGU3WWxYNlU1eUVwRzN4TEU3TzJ5V1dsVW1rdmlhY0Q5eWd5WEJwWVZ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT21NYWdoM29waURFTkx0TnBXZkhVUHZWYlB0anhxYlpCczlVdno1dkt6UVNJbzF1YUJvMDlSdjNFdUdFV0swNjl2ZWpWZ1cyVElCa2VMSExhM0ppT2lUSEZSb0xVZ1ZSTEpMcFVsSHZOWGRiTG5ubXFGZGRSdG1HanRLTDlfUC1sWDhsei1VNTNDblhMeGVfUGU4Q3F1eFpwMXNPLXhhZTBVNk9WZkpCS3lUZl9PR1ZfaEl3cg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/rain-hampers-cleanup-of-hazardous-chemical-spill-train-derailment-near-us-border/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcHZMM0NIdEU2MkJaNk8tWDRQeTV6TlFTMmVtYURMMlB0TnNrLUtEdkN2aGl2M3g4QmQzLXdVX2otMTVKdWdZcGlSd3VrSkUyUl8wT2tCNjd6d2xaWWFITVhFYjk2VENxSGNmb3plV1NHOW1naWFzbkhrcl9OQlRhYXU3ZzR4RlF3QzZjTlludkdVaWJQUHY4Q1RWMlpVYm1VRjQ0ZEtJazkxeXdxYThuX1djelhtVWw4dHlVeS0xajNwOTdHVzltbmh3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczlnWmJtaWpELVlSU0dPbW1OdzNRc1cwWUd1Q2RfMDVMS3dXR3d4cnJVUzFRZXpCNFB1UG9yZktVaGZWbkhLX1dfUzBRRGZpVGVVdHg1MXlNOThBcW93UGY0VE1FWTZUY3o4bFBWSmRpbnJNYTZWWEFtNXVXcUZaUlJqaFhCaExkbDRvSXZBMFdPRlhXS09MNzRjbTdvYk1UVjlxbmc4aDBBZ01YQ2d0Vi1qM0ptdkxZc01Vb0s4eGp4WHdsX2RNQzQ4Q25mUmZSQ0JDMnY0V05PejFMaG5OR1Fvb3dzVndMNVRHbVBJQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/us-resumes-cattle-imports-from-mexico-measures-minimize-screwworm-dangers/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
