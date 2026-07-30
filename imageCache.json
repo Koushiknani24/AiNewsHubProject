@@ -89302,5 +89302,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-in-numbers-internet-use-record/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdjBaTWpqVXBmVzJHdG8yOE5VRVpvOXhWeUFMTllHOWFyR1cwUEZQNHRYenhnT0xiNUt5RjlkbU9oMi12eVJWVy1GbzZ6OUw0ZzByTGJiX0VqTnkxWEZrMXJ6aGo3bEpIZFZYamlrME01aFNYR216ejdHY1VuWEhjUzJHUXVKV05PelQ1a2FFbHE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/european-soccer-uefa-boycott-fifa-plan-sell-stake-world-cup-investors-joshua-kushner/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/arturo-estrada-the-last-surviving-student-of-frida-kahlo-turns-101-today/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/30/prague-zoo-keeps-polar-bears-cool-with-ice-amid-heatwave?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUktBaXlmMFVFQ3JoWTVQZ2tmM0x0eDNIY1IwR3NfZVRzRnpabU5wakdWMFJIQWExeW5rWmR3LUgyVHVFeExoRVJsQ19zR3NweEdnN003NFVEdFBzSDA3TFJwc0FGQXB5SGFsRE9QRm1RNkJaMUtqVXF1TjgyUmpiMm9FMk5Ud1Q0QkhlVzhuc1dzLWIyLU9Zajlfay1ZOUtpVWNGX1F3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
