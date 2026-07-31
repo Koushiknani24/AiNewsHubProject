@@ -89530,5 +89530,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-31/egypt-unlocks-about-1-8-billion-imf-payout-after-passing-review": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/trump-announces-agreement-for-disarmament-of-hamas/article71288798.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-cyber-defence-agency-warns-hackers-are-increasingly-targeting-water-systems": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUEoxWmZxZS1KQ1plLW5iN2JqLTlwTzNkc2c3UmkwX1l4blppWm1uQ3NweUswaGZNT1BndU8zMUxBSlVaVkVnaXlNOGZUVFJVYkZkUmpMNmJtSTlyZG85blg2VEVnTmhsMlJlekxUTXk2NEZlMHVSUmtpM3ZaQXE1SnYwd2ZXUE5zdGlV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTGtkQ1pwQWw5VUVnaVE0TzNhZnRWRjlJUW5PcGFfdmFiaDdqenJYcmlEYkM4dkJxdkNOMTNfNUtKd2xUMUZhbExZbnNqQXBpZTVoajRKS1BHQ0FGY0E1NkhhREhhRW95U3haLUhKY05PSm12MHlLZ0pib1I5UjBoNjl0Vk9kZ204NHhuZF9tNWczaW5Vei14bHJmdkU4ZnBCcVIySGwtLWQwOU14QXRzUlA5MVM0WE1kQ24ydkVScVJQVjR5MGNXWGIzUzJ3MEo0eVFQUVpB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVl5UXp1ZEdTSTA3eGNFSXpSSzNacHhtQUNSUUNDd2w3aUdxNmpabVpmUDJ4WnhJam55NUFPcERTdThEVi1vcC1KYzJQRFVPX2lLN2RvaU1ialRJUlBLb21LLWhDNXROUUZyMjhSOHZ3aUdud2o3UmUtcFQtVmpnSk9GNU1BMlJzMjBUd2c1OVdRNHlScnM4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/31/london-protesters-march-through-streets-in-solidarity-with-azad-kashmir?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0lWTEF0LTNiYnQwNTItWEhwUWpzY09SZXBNTldaWjAxd09VckJVWUtDZGNoNTF3UFV3R0l4YmdmUWJFSFdQVTVxUlNmTFNNN1NGZnVCQ3M1MUJrSGFST3JWUWRCV01FbDRLNjRBb25GcElVU193TXp5dmVrUndrWm1jWEVXb1hoajZJZTZabFBzd2xOSTRnRUJTUWZHMTM2ZmNQWXc3TjNqbC1SUHF1R0JjM1J1Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-31/top-india-fund-manager-favors-banks-power-as-oil-risks-loom": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
