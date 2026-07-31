@@ -90424,5 +90424,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/cyberabad-to-develop-10-free-lefts-and-five-u-turns-to-ease-traffic-congestion/article71291677.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-31/creditsights-winnie-cisar-gives-outlook-on-tech-bonds-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/07/31/liberia-sacks-officials-after-record-cocaine-seizures-worth-336-million": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXpOeGRTaEJ5bzQ0eldfM0hpWFlCTUlsVGE4WHJhTFAtNTdwT0Y4R0tDSjBJX1lseXYxVnhDZ1FWRDRmZG05X3lFUl9JdnRBVDZEbHJma1NfdmMxbnNscm1SMmVfT0F4NXhhRGhoZlY4RlJfZDRrdXluMEJfWm1RODA2ek82a2poakpMMnRsZ0Mwd0JOQmV4SFczako3VnRzb1JXN2xCejdUdHJ3Mk5Tc0JkWnpxUXQwQzZr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWW5QTWZJY2tIV2V4NkJPc19iS184akpyWEVQTVVwRnU5OS1oWDBiaUx4VXFXd2JHV2dOcXI5Yjh6RjkxdEtteUxHRkVoc3JIUUVTNUNCOXZWcXAzSUp2ZUdfekUxWUxNdzJHMVZCZXhONDdBRHdqRHhjWFBXS3F1dGh4eDFVRHluLUU3WWdQZ1AzYmNENG9SV2dwSEtxN2lIOVJibkFuanRYWE9uMUNOWEpETlVaWjA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxON1NxTFJpQndIc0VqSDZfQWtPSGJmc1B3NFc4b3hLdlIxckl2SGFtRjFwV1poWUdBVVJDWVBHM1R4Tzhpa2ppNWxNTzZ4V0lmaFhtZGR3U3BqYkFzUXRmNUdzMHNGSlUzazFwbzdvUEVRRmRrSm9idWZjNWN5UjJMTEVQNGhpdURqS0g2YXNIOHUySkEzSW1VQThsdXFRTkpPb0YxN0oybVV3MzEydk1EOEh1R1lrV1F0SnM2MTlvZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/trump-says-us-has-not-agreed-to-ukraine-building-patriot-missiles": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPalE5OF9ZdFdocDJ1YVpZRWp3SGg5SE94WkoxQmNhdnlzY19uS3dOQ0VocXRqejBlenBxZ2wxMm83QVpXQWxjNTNBXzZHVlI5Uk4xaFM5dmVzVWsxVlkwejBPdjdPVzhablRicTVxZ0JSRGVXTmRwV09IN0laRkJUMjlZMldheTR6OWZSamJzMmY0ZVZhNXp5WFhJQXpiLTU5V2xCbGdDOW9WWTJUZlBsOHl6NWRZd3dQN0dFZE4zSHZiU1JrbEx3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcldMcW93cjFUbzJ1bkJsN2dYUU1IM1BTaG5RVk0xZ3RtLTRPQk1vYXJ4a3h3aW40T0JrRDlRMmJTQmlldi1EQmx0N3dHSDdaeEV5TUlzc0NsQW1rUk1CcHlISTFmeWlicTlQR3FRamxhVlFLeDBPdzM5R19HaU9fMHhUaWJDT2ZsdGQ4U3ZES1hyX2R6Nk9wUUFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/almost-all-ceuta-migrants-returned-morocco-spain-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/tourism-ministry-rebrands-falling-revenue-as-bold-low-value-visitor-strategy/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzlVVHhpVWswMGd1LVZPeE1xOW1ENnNnbzFtTTBlOW94QV95RkM0ckM3enJHRmc1cExGLXRxTW40LW4wTkU0b3dNdHRxWGVpNWpvZkR6WVZvS2xMcjFyVmxjX0QtUXVQb3hmb0Z6a3VILTBqSFg2RkFVWUlYY0p5WXlCbjhfNUVa?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
