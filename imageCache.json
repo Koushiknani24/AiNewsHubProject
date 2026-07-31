@@ -90616,5 +90616,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-07-31/americans-are-richer-than-ever-why-are-they-so-angry-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/": {
+        "image": "https://www.google.com/s2/favicons?domain=nasa.gov&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFJoLVZqZFZITFZZR1dvMVJIYXk1X3h5N3k2Mkl3ZnBSanYwS3BxY1ZudFNqYTdNMzk3NDN1VmFyWmU4UjY4d0NQRmk3endNeWgxREFrbm1nSzNlbFpxNnE0Y3ExTTZsQjV6emRVMmVYZHE2djM3Y2I3V0t5d1ZQSURfRWZXWlhRa3RfUV9GOHdGSnZQNUozS05Lc1B6dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84X0lOelJzZXphdFBsajlTZDZaaDM1T3dFQnZKQ1JHd1hxY29IV3JJRTNUb1duUXdjbVNkb2pWMURuY1c4U1UyUTNJdUFBVEZKRks4a0diMGVGaWZBR1dZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/harry-styles-concerts-will-boost-mexico-citys-economy-by-2-billion-pesos/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/thousands-rally-in-kyiv-demanding-ousted-defence-ministers-reinstatement": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1NkdEhtdkFHMXhZZHZVdmJvOFZuOEFCbHBlai1FMklkcTgxWXIwSUlETHlBMlBQcXhXbTVhUzNiVjlwNGRqRm56NHA4R3JMbnRzdXI3RG1pQUFfSlEtekF6QV9mU09WaHBJSU1vZldtVXVCbmlqcERsZjZJWkRpMkl1WFA5VEtBZzl2N0xjZjVDNnFicTJla3J6UWhVUGV6a3E0QXV6c3BzWTFkT3FCVWRwODRrRzFKSTVwM0ZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/humanoid-robots-trump-s-latest-china-trade-battle/a-78181288?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
