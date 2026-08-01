@@ -91078,5 +91078,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/kerala-rain-live-updates-imd-forecast-monsoon-red-orange-alert-idukki-kottayam-pathanamthitta-kannur-wayanad/article71293574.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/centre-to-sc-foreign-citizens-cant-be-deported-without-nationality-verification/articleshow/132785698.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/01/two-reported-attacks-on-tankers-near-strait-of-hormuz": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/lithuanian-embassy-in-kyiv-damaged-in-russian-missile-attack": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/eu-grapples-with-migrant-crisis-in-spains-n-africa-enclave": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHhKUXdNYWxwb09TQ0pjV2hJMjNoT3JxX20xSUJOVEVLR21iUUZmSmx4N0FzZ2wta1o1eDQ3MkQ1RHpNRFp4dU5aNXB0SVRfd0gtOUhtVWVGbWN3Um9LNDByc25WRXVqbnBhdUFXN0w0UkpxbDRPOXpFNTBGaVBaSHlmU3ROMjB4cDlod0NNWXI4NS00bzE4U19wRmRBbmNWdmfSAacBQVVfeXFMT0dTWk50R0NIYnVFWFlFMExpWndJLXNMOXRMSmhDdExITlBnZE9oQ0R0VFoxcDJ5M2VSdlp3eHBlUXd4cGUyUGhyamFGMEFwaGV0UTJBUG80RDA4UE02ZDVUdk1MZWd6cmhjQk03aVgweXhMS19IcEFqMTdGb3dvbDJuSF9ENEp0aE9BbXBSYkdQWld1NEJKNEFFWEdQd1lBZVdzN0dIU3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlNsaUdLNjRpd1ZTTU9Ca0pOZjBZbUZ2RjVzSkNvdXRMcklnYWJveURTUDhWa09oR0s2X20xQVdhYkpXMmlzbTd6azR5SlloY2Q0ekVwb0hfWVNiM1FnN0pTajB1N0lldkhWNHFJUW84cXVYU05JeExSTWFicmtTcUlGWVZsLXp4LWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVc2SDBCT2M5dkZueTZUSXdkakxJQjI2YlRzcU4yd0oxTXRXQXUwUDI4Z1NLaWFnZml2R25wRW9wNFc0OERVeVk1bm5XTFN1VUZDRlgyTnV0NVVHN3FkOUNTMjQ1SGo2RW1lT1RfaS1Tem1MbGZXUXNxWlNXVGEwWXRmVnZXbXpkeVQtUE9kZzBMTDVSUU9YNWlVNF9kWnBT?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMTJJUVBqQk5oaHZhR0duWGJUNUhxeWJEbFpCS0VSTjAwTUdKYXRzNEo5NFNZOGRkdnJoZkcxM3dnOC1IRkpHc3Y3Sk5DaVIxc09Sb0hJYk9BRy1ucXBLdWFETV9GdDJLcGJsOFI1MWR2bTZzMnV3UGtLZ2hReEdJX1F0aldGbHZfenotZ0h1MjQ2ZzZGVFhTV0UzYThPR2JKVHFzazJMclA3R1B2U0RNV3B5T2pJcXZkaXR5OXB6YWU2QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTN2VWI0QVZoN0FmRTB4c1R0OHVKZEZMbWs0ay1LZTNYREhjR2dGak9HcGhuWlRMSUptYUtXVlJOcDkyR1VVcEFnRDdHdGowV1BIUVk3R1Z0OFNwbENNRjZVVlZJT2pVNl9Sa29GZ3dlZnktdlphYmFidUlTMGtrc0ltb3F2WWVqY0ptRU5sZ3hNZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/east-asia/dogs-allowed-animal-hospital-opens-doors-japan-quake-survivors-and-their-pets-6292486": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/life/tech/3295042/google-earth-ai-feature-disabled-after-outcry": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdmZ6TnhJR1V2dG1KZEp1N3lwakpycGdscEtrOW1pVndNS3hMdVNGdFR1WTZ0ekRzS0prMldwSE43QlRoSVZ0WmVmZ2ROT210Z3BISjJ0ZmY1NUJrYVAxX2xKaFlwYkN0bTNZdVdsTGZxVFRrLVE2QnFVUjRfZXByUjlMVmxxZ0FsYWR2YUxsLWpWQWNMQkh0ZGdBa3ByQWFQUGFsYlJtSFBSaHNULXJFZXZJOXVqQURMQUxJamtYV1pyNjhDLWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE85ZTRCYTJ4dTluM3hZQzdBLWNkY3lWTWFvdGMxUE5DVTFjbW5SMnd4dFp6OWxVdHN3VlV5VGlnV1MzYlljTl9oc0FOODVVN21wZ2NxU3d5NGNRMmNwN0Uzc01abTdoWkI2X3dpRWlIa1ljbkxLYVIzd0d6MEdnMVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxONzVHSFBOaUdrTUhHUmFoSHdMM3NMcnU0X2lLRURweFhKX2YtVmRsRW5pMEhBUjRZUk1OUmxrMmZ1UF9UMXZUZXBhaGJlc2k1VXZlYWtWRFIyc1I3RU1RdWNEb3BMTUdHNnh6MGdyV1hpWlJRSm5oYWNoSDFfUmdydEc2RWpydHpsenNmX2NxcXg1bFdlV3ZtdjVwazJ6am42cEdzNGZCT09kMFVpRlFtbEFwT3BlM1JXdmhmUHBIQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNUg0Y1BnVm9iZmtSRVVNelQxUmxLSVg4WG56dWNQYXoxd1ZXdVlEc1pTNENtZHdkRl96UGhiaTlVSDh5MWNhb1FrYXY0WldPR3hsVFJTNnpwTGhJUlpMWVgycmpFT3RuUl9nTHNGanJBOGZUNTRLbUFIaHlyWE0xQWtOWnRfOTRfbWIyLTRQMkRtZG93cUFnQUFDRVZXakZTanNrakhRSzhzVk1ZbmhHVHNadnlVNGpfLU9QUnZwOEwzdnNDOEtKSjE1VkRsRm1OX3RJNU4ySWRfNlNSZXBYcGJFb2FDSGFKVkp2OUx6VTVVeUN3dHgwcVJVSTY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
