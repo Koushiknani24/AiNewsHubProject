@@ -91888,5 +91888,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/vin-diesel-fast-forever-best-script-read-decades-update-1236661494/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYjAxYWFEZHAwcERPS3ZLUm5GSTRxWUNlN29JUVpLX2ZuWG90YmpmOUI3a1BaTTdjdk5TRGxKSGlsaDV0MmdqbExpa3lQR1kwNVc5dUhsc2NGdEJGZUhuZG5nNnJacW5BdllWdk8wNk9nUC1sY3ZxNWY0S2d6VG1zek1mNTVtT096cWRDVlotcmt0eHJHaUJyenpNeVA5dnhsbHhQQkZ3Mml2WkJI0gGyAUFVX3lxTFBGdDFvV05jS3VDeXpISUl5cHdSQUdOWThGMmVuVWRYZlhrVElCNjJQNlk3UDJGYlpYNm44RmRmaVg2cGFKNy0ydXhpOTUwNlNZRV9hckNScEp4V01WeEtMcFFnVURCa3d6aVJkczFPWEg0NUU3bmk1QUo2ZEFLUW0wQ3o2M0FDSU5ScGE5bXZ3TnRxN3hvSHY5WXlhQnJSd2stTWJpMGRmaUkwd0E1RlRWSXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRDFIM3doeU9NbUcwejVaRGRvc0R2NDZ2S1ozV0E0endRd2U5WTZidDJxUm5SOThoYkFZOHdHM3RvS243dVZINGltWWxGYk5tczVocVVtR2syZ0hGNWlHN1JZNkEwYkxKS2h2OEJUajl6R19MeE5EbHhMRGtqdHVuOEczZ211VEZzb1lFZXlkRE4zQ2FrUEFWc3ZORlRBZ016aVpmOGgwVnF6QdIBrwFBVV95cUxOXzBqeEhNaWp2WWZkNk40M3NGS2RCZ2FwTGxtTEUzM0VZaVdjRDdoZ2xEZmtwakxvRkFfLTJJN0lFdUY1Ul9OTl9INkY0WkxISmwxbDJuQm5NM3J2dzgxZGN2M1RVeVJySGd6QUJobE5xSmx4akhmdjlZS2szNjVOMTd2cVl1a3Z3dGZZa184RGpHdVZCczJCTUtCRW5uLTBJVDctOUlueTBQYUt3Zm40?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOW4wZDJSVmpTQ3o2QzFNZFdsSTZ0ckZwdC1xaEdENzZjU3owRFRHeTZZQUxJanozWm84OC1KUGdfbVhyUFJXMTlmRXd0cGRTc2xRQ2xxc0VzZElJcjJnRjNoM09WM1p5X3hzVHMtVF9lWVloc0ZVZENEVWJRWjVRNW5ncHpudjFsQW5oRWVKODlFT01kcVgwNmRGZ01pRkJ4RTE5Ti1UNTBnZVVSZFhqbG9hRFh0aTVYS1VORWlaaU1sUVJpdjlBN0tIWmlaVHNYNXVpTzZzN3BvV2M3RlRRSmY0MnpHekpzcmJRcERpeFNUWE5xSWdB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/homemade-bomb-goes-off-outside-upscale-moscow-restaurant-state-officials-say/a-78205022?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcThXdndoUl9tR1JUV21vcUo0WFZMLUREc01FZjh6WXc1bncxbVRWWWNmamN4ZzhZa0wzWk80eV9BbUhTOEt6YlRnbklhOGd2RmljY05OY2ZhMnV1dWU4OVc0WDZOOWplYWV1VGRzNnR2Q3U3UnNaOVQ3dHFma1JxQ2JCLXRRSUtRZkNrMm0xX21LTlVGZmlxc2JuSk1qb2tUd0x3cS0xT3hOMTJuN2FlY3EwMlQtZnZGU2hjMGxiWnpsUWFVOUJJSE05TXd0RGY2LUItbzFwVWV2eGVxaWxRV0FNajgzamJjSmc5LU1IaGxNRmxvbFJPUEFXdGM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3295270/sadao-crossing-upgrades-to-drive-growth": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSy1WWUZtM1UwUG5oVmh2a21oYVUtVlI0Z3dDMUQ5OWR2ZGlfYjBpWjhzRXpIQWdKd05nRmtxUnZsanhGUlNMLW5oZVZidHJKbENpaDRQTEZUU0RCLTBudkFpOHBJMWRoMmlBZWFfbU9HR3NaOUdid0FVREgyWFR1eEJKUEVROVdWbEtr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
