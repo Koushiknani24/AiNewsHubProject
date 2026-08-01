@@ -90928,5 +90928,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/narendra-modi-bhogapuram-alluri-sitarama-raju-international-airport-inauguration-vizag-andhra-pradesh-karnataka-visit/article71293464.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/": {
+        "image": "https://www.google.com/s2/favicons?domain=nasa.gov&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/labour-holds-greater-manchester-mayoralty-after-counting-goes-to-second-round/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/russian-strikes-kyiv-ukraine-fatalities-injuries/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdkx1cHBkVk54UzdoRllmdW5tLU53YzN4dDJRQ0RZcFBHcHhUeDMxbVNvelBRdmpkLTFLYU5UQTVLQVRfaHVGb0tfUHRnNUhxQlRsNFpsMThDQTI1T0VFa2VRMEZka3ZzSDhtenJqSHM5VGo0Rk1zbjJhaDdUM0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjFZdzB0NzJhbE8xcmx3QzJoMHVoT1hNdnpwVkNHbnd6SXpCVGFWUk5mYkozV3gwUDBIaXQ5QUFMVEs2cWdpaHFPdlYycmE0VDM4b3VLbW1JLWZlTWNJT1pheThUNXJmM2lDQmZoTnhrZjRiVDl1TkY1NldhRjhQeDVmVnFlTC04S0Z0QkhlSlVXblRhY3Yw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95dnRjWGd6dkliTndsbzV5SXZPR2tCS2x5SjZwMHBBcy1sZl9FOFd4OUNZZWFMTUEyeVhzUE0tZzBZb2VEMTk1Q01EZUZXY2hRSzJKVTZYX2hEaXRa?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUJyOURHVDBSWlJrMDNhVUhxRkhfOGpkWVg0UTg4OVZINld2OFp6T3ZTNXRnZktMY3E0dUlnREFHLWRhdXVpdkIxV3Q4anBrVmZPbGhZaXAwLVVBZ1d4QU1jb04xQXZadE5QV2dyYjNGd3FleFlCVVJiWUlJR1pDTk5ENURLZUxQOGVFVUtfZGNYcTQ3WjE0cWZuLVI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/1/yemens-houthis-deny-plan-to-charge-ships-transiting-red-sea?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SUHBuTUpzSTc3bnVoYUFNYjdBbjJoNGE0c3M5RVk2TGR3QXpqQjZPM2k5TGV0S3M1UHFwTkxSSlNHM3JjSFBNRkQ0MlVneHhEVE1rZmV0SVpJdEVnbmd1SjR6QXY2TnFoS3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
