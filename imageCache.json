@@ -91264,5 +91264,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/08/01/business/dealbook/spacex-spectrum-battle.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-01/fed-s-credibility-test-and-j-j-s-new-bet": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0hyZlpSV2hOMW8zdU1fbG5BaDdFSS15NEFYcXBZLV9sX2RlaGZZcGNYR21LQmgtaDEwbzEzenQwS3gzVGNFTmdzRzNaS29Sa2VNWTNGVXNjc29yUVZ3SVV0dGdFdEw5NEhHSk1mdkpUTmpIaGZ1enNYQWZNWkVZX2pjTG5ZLTVJUlowNkNyS3hCTEdNU2VKM3RZUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWxoMV9kMVNuUlZHMk9SMmtZTlFwRDRfT0dVc3gtQ2FTZ19FMDVrZkw1WWtXSW1XRUtFQXIzLTlXck8ySV9abzFpWWQ2NUMydG9oUmdhMUJzMlc4SVlmdHEwOGVGN3pEUUljR0tNVGxVV3pIRldYU0k3VmFReGFCMktqendXNVczX2padkFteEUtUFdzRmdKbXFyX1hoTEZjeTc0NlF3UlFuUV9YbzVaNk1sbllwTVU2UjlOTWoycjNpT28yb3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSmdBLWF0WEhqRjhqSlFXMHg2bGNVNzYyY3dHekdHMjF2bE9MWGM3VHJNTV9TQk1EbVpfbkpxUlBmeFhDSm5odmlKM3RBNktNXzM2TTY2bnFVSjVHUEhqTWFSYVZPTGgyc2ZhbFpkbWg0SEtyVDFuR1Q4SDJTZG1DUzBKbWQxMjNiVFlmZG5MN0xjRXRJTDVCaTlpRnZaQkVHOVBwUjkxVDc5S1laODc1anI1QnJnODc4LXh6UnNRVGdfV1R4dF9Z?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd1lIQjRCdlJ1UUt5MVVmNVpITWlQSGg4TTRROHVUaXZqeWw2d0NHblNEU1VOMDlfTmFDb3lwWkpXUmlzbHNCd3FoUUlNMW8ydmNWcjRzbDFaSzg0UkVMZWYwa0xjSG9ya3FSZWR2YW5oSHlDOFV5dlRwSVcwOUh0enVqWGVBRlNlSWRPVWRWU2ZUUTRxYjN2S1FYX1ZfVlhjM09mdGdKUnpNQ1JlZ2FRalp3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/rosatom-says-its-civilian-vessel-sank-in-black-sea-after-ukrainian-drone-attack-all-crew-survived": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/ceuta-crisis-22-eu-leaders-letter-spain-pedro-sanchez-migration-policy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgJBVV95cUxObms3WXhsdk9CMlRjeENHVmU3WDdXMjZXT3JVQ1ZkbW9fSnZSWTM4b1RpX1VaRDMzeUxpVTJOQlktZ1FpS2NIVE5QWXBvN0FTLVRoYjB1WTlyckRMcmNBMlZWVnctb2l3SEljRkhFNnBVWlY3N3I4bXFUTGNzMkFIQWl2dXF4X0hMdGpzSm85UFhKT0lfd3B4eVRRSnV0aE90R1lIZ1ZBUmtaXzFrZmtOQm82RFdqdE0tbktvSVU3aF9HZEg1UjR5VzJMRzNBYmR2TW11OWR1RkZ2WHNFYURHTjN5azBVN1RuenFOUkNzU3NoeWNXa2tWNXJMRzVwc3RqeUhoQWxzZXl2UHRLUEl5eC1RTVZ3NFMwVC1BNV9HN3NHYVZxWkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbzVSSUk1ellDVS1NenFleUN2WmFJX3Yzclc1TkpNaVdZVlRvYXAza09TVnNOWFdnbTdKNUpucXlZQ1Nsc2JZcGlkenloNFhLdlVscnhRVHBGX29uUW82QXV6NU9kN3Eza3VIdGxuNk92YkhxY0Y3Q3U0S1RaNGdndWxEQWdaQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWjRsOGNuYVJDVEFlTU5LSkoxcmdsM09wdkVhZ1NaM1M0X21CTWJ1ZFBDZ3RyUFN3MmpaR1RqNHpSMHN5SUZnSlZ2bkZ6d3llbnlnZE5tNWJ0cy1tSjd0bDBBbF9KakhpUjFKVUNPSGJtSzhpVi1RZDRwN0UxSXJvZ281T0YzS3F6SVVWRXB0NE9xOFFtQzBhMmVNN0N0WEtjNl9QYXAxeHYxTnJTVVU4MWZReFZyZmpKU1VpTzFKX3l1Y1NIVnNJS0Vn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
