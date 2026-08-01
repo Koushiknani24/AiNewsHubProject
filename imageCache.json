@@ -91576,5 +91576,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/labours-bev-craig-elected-mayor-of-greater-manchester-succeeding-new-uk-pm-andy-burnham": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgJBVV95cUxObTE3ZkF5dXRVR0MwSWpucmlDWEZDREwxYTNNTzNhRkFkRURVbFVLNU9uZnRjNnRJWmVEMW13V3RKX0F6ZXJOZVU0YVpOS3RzX3ZKWDQxZUdTb2tpeDdxQ1JIODNKRThhcERSdGhuc3VXRWFkZlllcHY0X1BKN3BESFNMdHg5QXBwTXVlYlpEaXNFamEwZDhycGhBcW0ybmpsbE5vQXVDbklGRlI4RV94ZzBOSUFEVlJ1eEpMeWEwRWt2QlNoSTN6NkNzUXdzUTFtSTlHZ3N5NHgzVDJIM3FuV3NuZHZfaXpCSE5SM1laQUZ5UC1SbVlSYmx0OF9WX3BPNmVPX0NSWE9peGVnNGFocEtnLUVYUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaW5adDVScmdxS3BCRWRvbjlYNlhCWHBvYWpyRjZEZ1lSUU9WMzhlb3Y4dGxpcllWQjNtdEl4b3ZYSlFjZzZKaDdOOFR2ZkhCRUZGRDhaeWpSTHRzTnZ6MXdPTldfc0JmdkJjNmpNX1c5aFZFNWpuMTlzY3YwY0tjUjk4Qm5SS2dBdGpBVG9mTUczTjA4MzEyOHF4bGRCNnFF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2k3V0hJbGFaSGRZWGZsa2lZODBfN05aWkdXenJFSmhUbkR2VWFsejQ5WTRfRXlIMTljOGozUUdYN01HbjhIclF1RFAxSG02ZGxkV0diWFBzcUpTVDd5TGEwU0ZvU1VBZnZpa0pWdFJIV2h1MjU2YjVzTDdrRk5yY1lPTmhTTlNyazZ2aHhmNm9QQjZoRy01VzV5T24?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNWNQRjE2eWxpVUpqRGNiZHI0eGxRaEpvdngxTldYek5maGc4VUJhTG5mel9kUDlMd0kyZGRsckFWWEk3OTJUdWtMWTJrMnA0Q0Y1SHVlb1haS24zb3dOaUU0bjNLaWd1SkZnVFRQdEI2TFFwRGlJeWVBaXZzM1AzWVdCTlNoY3RlbDloLUFBM0VYbWIwRE9qWU4yalpmWW00SHhFQlVJS1FzaTMzejRVeU1ySEFibjBBVC0yUGVmd1A0YnE5bVZGTGxlSWh0c2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/nirmal-purja-climbers-search-rescue-avalanche-pakistan-broad-peak/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaVI3OC1iNW91Z21fYU1TNjZLRS04N29aRVMxUmRuYjgyNVhyWEEzc1JPUjdiVXhjVDBNa3lTbl9ZSnFCOEVodi1waC01Tjl3UW5GOGdST293WGZhU1hKMURUU0JNRFBPcFBSQzg1cEpvdkowX0F1Rk1WWGs4cUZKMmJOX3RBQjA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
