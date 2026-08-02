@@ -92962,5 +92962,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/ariana-grande-step-back-tour-ends-rep-1235602318/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb3FKQWhuRmQtem5SMDFTMG9CaE5obGtzZmNTZ050Mjd4YUdHTXFfZDRPVzBIMTFzWklUcVkySldWUDdGbm9TbUs1MWtmNG55YlowSUdvNnZDN0JCNG5pNkl3S1dqU0tIcXVQajUyQnUzeDhiQ1NZZHI5VWg5WnRjRHRrV2lTeGdqYU51V1J3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/02/helicopters-and-firefighters-fight-fast-moving-wildfire-near-athens": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRVdnbUdTVng4aGh0X0FPMFUwYnVzeXhGdjZqVFNKR1RYSmg1UWNXTzZzRU9UMkFNWmpiMW1ZNG1qVXNISUEteE9tdDM1MnhENjl4LUFGMmEySWo5Wjdjek0yUlEzOXhYb0NiRjlEWnpxN2tyc2VFejNQSV9mWFNHbHZXWUo3czYwZWlRVmNB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVjZoRUJaT1NTNDI0RkhRMnEzWXFlWGJWVm50U3pvV1NfM2RLTUxWNTVDWG9uVEtFd0wwNDlTVmdCSGM4Vm5scERMUlFBZDZESF9zMmNnSUhWM0xmRzVCODgzWHV2SkQ2cVlxNmZUQkRaLWcwWHB6S3lHVlZNTnZRSlBkSWJoWkRkZ1ZkU0EwSThNR1ByOEprNU5mbC1BbHNxZkhVZmlPLUF1RXctZzNGWnFpRlJrOHM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/2/most-americans-say-trump-has-gone-too-far-on-us-immigration-poll?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
