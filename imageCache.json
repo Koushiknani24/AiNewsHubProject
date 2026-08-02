@@ -92266,5 +92266,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/2/fifa-boss-infantinos-position-looks-unacceptable-head-of-european-league?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-soldiers-jailed-over-sde-teiman-walkout?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUMUdONXpQUlNDNU5sa2RPb044RDVlbDhaRS05NlJMTzBqSVBrczBFalNWYzVxRUxQY09iTk5qbi16RHBnVUE4dklveXFJS3hJaU5ZVjRqYWpKdmtjU3dYRnZRQi1SRzJ1cWFlb0U5UmRwcDF6bkJqT29Pdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUg2aGY5WlRDTFMxMHRjQnNFSUxmVTVKZWF2TDVUcDF1XzJnYTFZcVE3VlZVb0wtb1VJZVFXcUgzYjdqNHdWakR1Q0NCUFh5VTE3MkJiSFkwYWVFLWlxTlRwMFNkM01XVW94LWZYNndySFhrVXp6Yk1ERjMyejk3SGFRSElkWC1aWW1DbEh5LXcyWU1HeS02bEFXdWlWM1F4MURxX1FxUmM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE1UVFhfRDdIeS1pWDRxZ2NrTVhfUTJiUl8yT3pYNnAzbzdaT3RJbW0tTFNNR2xXRkNFTEMwZG1iaEQza0Z4NDBFakluSU01UHNqSlJFS3RLVlVSQkZTZWJSR2p0SGFkNW16UHA1ZUMwQlBGdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcHBkOU9JTUtidUgyRFVUQkdzS0pTOENBWHZObUVqNkZxZlNVMXNhVkJ5LWpRbTVmNDBQcm5JRjhrYVFVdzVGX1JlV0ppXzVFbW5VZVRpS2FhQXVveGZaWktnUm5FMkFuclVuR3pvYlhoMG1fOUtIXzgtQ2ptZ0w3YkFJemxHZ2hLZUVEUXBqVWNfbzNaNGswdlRsdnh0RDAyQUtqajNhNnZOQdIBrwFBVV95cUxNZFp2aG5zRzU5Y1ItSjdFUU1iUTFGX1JCUGx6X2FGUFZ0eXdHeEZ0R0xqZEFaQWZkUmFkUlRqX01WTnE0UTJTaGJ2QWxrVzI4THhaM2RneUV3NXFhZ2dsZjZ0VFJpXzVQNTZZQ2NVbndFdGJreXAwODFZc0stWXFxakFDNlViaVJwYnR1UGQ0b01HUkNWZjZUNENOaVNKSDJ1ckhBRTVNeklzX1dtWlNr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3295354/woman-courier-cleared-of-drug-smuggling-in-japan-returns-home": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXdZZDc2YXZvV1hqdjNqNUVjb011TkJpeFVDZ3RyR0kwaGxIcC01MW9PcXFzbWhxUk5qVWZGejBNbnBMd3ZIMlBlZ2lVUnB4Q1daYVF5OEQ3S25Gb2U3LVo4T2RWWHVWN1NxZ0FKNUhYWDVJVlNZYVdaZU9JTkNBY05zeDdyU2NVNndaVmlZMGpLUjhWVTk4ZXVkcVdxZVRfWjZtWEZzTktJVmdxeG1lM21GSTJ6b25Z?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOay1NUFllRDQxV0lNQjlDaEQwSDBqMEl2VkE5dFpFU3AxZXNrMjVvY25wUVNHWUtGZDBZenR2MnNac2w4N091TXRFZFdXZ19SNGlKM2c2NDdMVFZXQjB0akpsUTJUeU0xT2dRUE9DeGYzQzJpTGxNY2p4VkFmSWdvaXBWSzZvWi1SQThlSHBtVzA3aXRtZ09Bdk1KWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/donald-trump-says-he-is-cancelling-strikes-on-iran-pending-a-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
