@@ -92038,5 +92038,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/explosion-moscow-restaurant-fatalities-injuries/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/fires-on-more-than-250000-acres-of-washington-state-prompt-evacuations": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/fritz-outlasts-compatriot-nakashima-set-face-jodar-in-washington-open-final-6293401": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRDYwNWxLaHZkR0JBT1RDcDNQbnZfWFNtRGJYdnNWRDFIaVU3MVdTYmdsNml2RExyOXZnXzJiRXF3dkZLZHh6S3FDbFpoa0xMeUNPcUU1ZUhkbjFzTFIzVGFzYjktcDVZYXN4NDNzWkE3b1ZGTGVwYVB6ZTVibzFpZ2tlLWdtbWlHYVlpcmdMNHpKT1FsYWUxcGFRMXAxX1ZxR0xQZQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbTlXeUpmejZ5Q3RYNmNTeG9lUkU0WmdxNGV0c3J4WU1nVzdtSTY3SnVNSnItUS05cGhXSzhiLWhDZklBbUxpM0ZiZmp1aGVBVFZKckdBYnNWejc1bEluQ3F6N0QtVmlhN2Y4cWJCbVJZLUlkVnBibm9ObTZVcDBxQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckRfaGFCa29xN2dPU2hUOUJVcjBTWFQyRW9UeGlfd2JzaVpVLUV0XzdSQmFwOFRBTlN2dF9wXzVzN1duRVVWa29jMWYxUmV0Z1poMlU1MlZ6TjZzbS12Ym03M0NRWm1CNG9HdHB4RVlMM3dORW5CYUtDSDBhRnBmQkc2a2FDS2U2VGlCYWVUR0ZHY3g1S0JjTHlOX1JZWEZSZEs1N01JZmQxV1hvVzd3QkJyWWVZSTJF0gG-AUFVX3lxTE9TRlJmVm5vQy1UaVNfMzMtamJHS25fNXNnZUlDaUhlRWV0cGhtR0cycXVLcjFXZlZFcWdWaWpOZHRfaUlEYzhQa2t3a0Y0QXN2U2NvazRfc19ZcWJUZFVTblVQUllqc1p3aUdUeUxWMEVNTXNDeWxabDhVMXRBRUdaY3hYLTk3Vy0wVVRTVi1wUkdrV1dqRUY1aWc3VGc0VkpPamRUcXdIY1FxXzJQd1ZJUHBYYlNEUTlOS1BJVXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzhtVmhtOTVJMW1IRU5YbEZLcnJySmo0SExNY2FmUUhUV1R2ZFdQbUR6YWJ4b21kQmJ4TFBPQ0R1Nmhic3lYUWVRcjdDeG5MQlpXLTJrbFd6SnczUzlHUmN3ZWE1UWFwSUZNNmFPd0UtUlRxbFV4ZE4wakxTQi05STRTTUZoS0xa?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVZXQU9oaDRSSjhJakVsU0JGWlF2OTRvdUxyYzJCR1dwUmhpYXNKOURranZBa0hzMlNodl80dXpVTFp1dkkxNUpUWVIxNWxaZm5nM2RrQmU5d2REamJwaXE2aFlPQ1d5Tzg5cVAzNDR1aDMzeTYxNG94WlJ3LUhldXpFSENpV2FpakM2ZTlOeGRVYzZRNDB0b0ZoV29uUDNmMDVKX0d6WFA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/trump-iran-attack-framework-deal-war/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/kerr-caps-great-two-weeks-commonwealth-games-gold-home-soil-6293376": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hb0phdVFOdEVHcUpOZkZBZzRYWmwwTllkeF90Z2R2elc1d09uZnI4cWEydEZ6NVlkMmJXR0VzdVI5a2czMENLMU5PWXE3bWZ2dVQzMUlDdDlPbEc0TUl1eUhpVVhKMEJ6cFlZSmdxWXpDQ1dtLVlIa3pHcVlWUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
