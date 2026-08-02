@@ -92596,5 +92596,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/olivia-dean-sam-fender-performance-lollapalooza-2026-1235598466/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/three-held-for-allegedly-pledging-fake-gold-ornaments/article71297658.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-02/jackson-warns-us-policy-risks-caribbean-stability-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-conjoined-twins-dominate-synchronized-swimming-event-in-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/death-toll-from-migrant-rush-into-ceuta-rises-to-72": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/02/rhine-river-hits-record-low-as-drought-grips-germany": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemNzVXBTMmJhMmxJaFNvY0lYOXJyYnZyQ0JkY202bmNxZmktX1FaMG1Bekw1dGRPNWRrYXlZZXZXNjlQalpHSmJKRnZwUHFKQVRBbU5vUUtmZTBycThhT0VhdmxvSi13NFBfQWpqVFNoRC0zUTdua0Y2STJURUFfNDR0a1k1Y0J3c2ZudmEtOUF4RHJpd1JfRURCZ2Q3U2dyZ1daQk43RnJJb0k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/greek-police-arrest-suspect-over-british-womans-body-found-in-suitcase": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc09HSkFmZFI5R19xTmNtQU9HWURqNGQ3dmp0Q2FieDdCa1NWRFU4TkxPYkViSzdyc1QzZ1BTeWhRSUdxZHpVVzEwcWUtTi1GZ00tQUZsbVE4OWcybVlVNGRlNW91ZnEwekF1Vk9IQXlBdTZXNUV3TGl2R0VGSXlDTzk0bEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-intelligence/the-mnd-news-quiz-of-the-week-august-2nd-2/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS0djZWRJUHFQVUlCWnpzRUNKR0xSMEFCNWVEQ3otQVN1Y3pXZUR2R09fckFtU0ZFZHNkVlNVLXRuNjB0NU1pRDdxXy1XaDl6MmVhZUhhZTlMY2NSU1JMTm54amU3WlFsUGV5N1hleWF4R1NrTUJPclVzYmxNeG5iRXdR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNGlHWlNkRDVfWEJhYW5YbkVXUUE2QUlaMG1MM2xWTlIxX0cwT3lkNUJPUHRqN2tVZ2xvcGpsbDRkX0IxR1ZiaE10UDhWNFVBYldtMXZxZUxZMmVTX3RwWk9KdHBGRF9GZ25zVkFHTzVvc0xJWmZIcFpaUTNxZGNDUjhwajY2S3lqcjdFaVhuOVN4MWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/small-insects-big-damage-the-global-ant-trade-is-booming/a-78186729?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
