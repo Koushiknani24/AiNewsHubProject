@@ -92128,5 +92128,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBT28tZkFZZVpzQ1RmQ3VkRGkwNXB1OFVvQnRDNlZFVFd3Y2ttOTNCRDczNkZ6Y2tMa0JKVkhzUlNZX2NTOGdPT0J2STVMczFHSXliM1FvbnlmcmZWb2M5NUNvUHBCdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/manipur/nscnk-militant-arrested-in-manipurs-tamenglong/article71297242.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.yahoo.com/news/world/articles/pakistan-administered-kashmir-votes-under-054820473.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMVp2Z2JVOWVsT0JNenc3UTh3Zmo0bHQyWmNoek5odFROOTctQTU4LS0wUzllOFd0ZHlTRGRMZ0h1bU1RREdkVkhUYnVYa19qcm1mR2FmaGhJcGpsVGlCODM0bFpJdXEtYi0xOVlZOGNqZmN5RTF1THZLQzFvNk1meUFnQlFpN3o4dnkyUDB0cURVQVRQVlhGc3VZaEJ1bGFja2YxdjBmNjJMbFBCYVNDLUxnX3ZOSjhkN0l1b2NyMXp1NWd4NVVMcEM2MmpWWDkzT1dVY0J0a3Q5ak1DTEprS2dqY25pZXBVaVZTVTlQS2dSaldOaTdOYzBPNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/02/trump-says-hes-cancelling-strikes-on-iran-as-perimeters-of-a-deal-agreed": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUNSWU4tMEpKWFQ4aHhYTFp5aVpLcUhTM3N2TloxRkRrbTBucUxDQkQtWmhvbEozZ21TNHl0MzNtaWR2dFpMdDNINmRuYkJSTDVTRjRWekhpQUw0blJBeFBYRmtJZ3VWVTFHNmxRNjZ4b25ZRXVic1BqbFNGeklSaTlGWDhjN0ROTU5nNWNEMTVvdTdlSmRzUkNONDlrTWlhZ01RVk4xejlLdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3295329/alleged-gunman-took-his-own-life-after-temple-murder": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/02/latest-news-bulletin-august-2nd-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-02/south-korea-issues-heat-wave-alert-as-temperature-hits-record": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYjlLMnJqU3FUREJsRW9yb2ZTX1JaYy00WEZ1Z3VGYVQ1bU1kNm5IckpmR1FzTHhyTjFYQjhlTXZpNTdkX252RTNBMjFQTDY3RWQ2SENPbkFNZ0Q5X19fTmVJVzZRdndJZjd3RUVvSHNCNmVueEVTN0NlUjhEQzJWSGpqZUJhWFpRMWEzRmx4N21Wdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
