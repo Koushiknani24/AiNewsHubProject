@@ -93880,5 +93880,149 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/zac-brown-brand-fenway-park-milestone-free-cruises-1235602576/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/guanajuato-mexico-travel-study-abroad-mnd-intern/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-03/mark-penn-ai-won-t-replace-agencies-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-03/the-forward-guidance-canard": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/norwegian-haugset-rides-solo-victory-take-yellow-jersey-in-tour-de-france-femmes-6295926": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHNxY0lBNXJlNHBrRXBkWnJnZTViVnUzRExPX2dDUm41U2tKTzZ6OWNwMzVoSjAzVzVxcExHeWEwX1hScnRWem1ib1JSdDVpaHZqb0wxdUFfcjlXWWF4Nm1nWVZKd0s3bW5iRXFuRFRnWG5US2VnbHJrcThsOFNneTZDOHRtSG1SaEU0M0hMaGVkR1pVSzNSWjVQQ3ZIMmVxMXBF0gGoAUFVX3lxTE1hQ1dHRWppNzhfMEs0SWZpLWM2c1Rmd251RlZfMXNTR2R1ekt2UE8wOXpSUmpDLXVaTXFxSDhQVTZjWTVVRWw0RkZiWlh2S1B6LXJZVGZCcFBXakpQOWt0dl9YV3lyS3ZvOEdMalJHMmszQjBDenRDRVRpbVFoUmJibFI3WXB6TEloZjRhX25keEw5X3YzaFBmQlEyLU10VFp0dWpTV2Z2Rw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1E0WkxadHU2MXVZS1hIVFlEMlcwZVlPYzhsZE41Vk96cDAtN1hKMktRMWZ6WFVtSXY2dFYyMDhQR3lYZ3dqaU45c3NSSERSWVRad1ZPSzVQRG85Vkc3d0wybjNGMGVLc0VGS2FKRzNjMjd0c2dOTWYza2V2WDF5S3dWVTRDd2prUENPMEFod0xLM2M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUVoTFliWUcxQms0ZjQtaTUxdG9VWXVNcmZNeWc1SHpnUm1URHhwUjVHd1FWZkN4S1B1ZzBCcDJoNnNyXzJlcHd0Y2l3WWFOTXVDel9Wc0p1bHNIZUN6MFdsMFdCcWdCUlk1ZXkyVkVKazBLZk85aUc1ajRpOGJ0M3NydEhPN25yRnhvSG1qX2syMmJaSkEyTmlycDQ4SEVqci1fYU5sNFZMX3luMkhJUnRUY3BSOHhD?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaklKQ0htX1Z3WDJCdkd5SkFaczVqeFlNRlNROGRGZHdJVHJhUFphSUtCeXBaNHNKYTRsaF9tUlRweUd3LTBtbC1kSEVZczVvdk9hOUZBbFFGQW43ZmU4VmNQd1UxcVRRYmJ1ODR1Mk1RVUU4T1E4czJIc2VYTWlLQjlabDdXNE5vNHJtU255NGRiUGNTYkdYSjdFd0F5SzdIWWMycVVoTUFobkJBX3N2bmZsNGF0UmljdXM2RVhpbXYxazQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRjlKd0xDd3IxRWYxNm96VTB1RFlLYlNUQjhRc1hWRkZXOWs0NE5yUk1XT3BnYUhiWUszWWZXNTVkRjN5cDBIWUwyVFhoa1NCOHFjNTJhWDgyUTN2d2JlUVU0ZTVDTnhqcE9mOHNQZUZpXzQ3MmU2SWg4cW5aOVlGNkV1M3pad2xuVFAxN3NFMFlOcW1KSEtfcEJFQmFEcTZnVmphUjV2UWR5OVl3MGVuMERReVFNZUtDbE4wV21BN1ZsUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/3/indian-court-acquits-ex-wrestling-chief-in-sexual-harassment-case?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNelZuTkNCcWh1T09iQW9Ya190ZlllUHVBXy1MbjBEek9Ib2FxZ2duV1ljeDd5ZkR3ZnRzUkRqNzBpNFJZemtYV0hvYk5RdGVSaVdKWk9fQ3hIQlZHUmpFdVVsOEF6WlpoSmxNU2MxdmROWWREbnZja0dfc1pVai14cHdPSjYyUkdQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LMFYwVFNHcVplZ054RThYbF9VdzI2WldEYlRWcUtSbS1famNpZnQ1UnpVZ3N2blZYT1EwaG5Yem5xQ1ZBQW5CSmZQeDZ1UjFJcmxkWU1GRHFPVGJYMWlvMEpxSk0yZ3FfR280c3VEUGp5S0xlU29ad0NVZlA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0tvUkkwck1PWlg0aFNXMmI3U044cDJCaUx1cHpPakJ2UGVlTUgtOWxCX19tRHVDUWdpZ2htOWlWMkVWMkYxRXFSaWJUbFROWjlJU2xwS0gtdHJFMXpJMVhwaU9sV1NZOXJMZHVaZzJESUVlZ3JsbzNyS0M5MkFjRjBrbW01Z3RrUmN3T1lyeF9OVVZVaXh6aFJIZnkyT3RXRnNWNDRxSzN4Z2NCUkR2dThFa0EyclBhak5YV2o2UkNYQdIBxwFBVV95cUxNa3c5bktySlc2OXQ5bWZvZ2dSb09vN1JHUWxUN0xRby1vSlZCclJIUDNLNVg4cGdmel8xWWE3YUhRcVF5RzhZMXkzbDBDbWx4N2N1eEtzMXdLczlhdG16SkFfMVcxUEhrRC1sRERlR0hvZjF0M1l3NDA4NWNRWHc2TGIxWlE2LTRPRWRQSVVLN19mZTEyUG0yWWstNWZZaXRhUTV3cDFVd0dBVVNHZ0FwRFdEVUFyY1ZHRDJVdVp5b29rWms1dkFv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/03/second-hand-home-prices-in-spain-rise-162-in-a-year": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/03/madrid-breaks-tourism-record-tops-10-billion-in-international-spending-in-six-months": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG5vQ1ZmUlJ2RlNaY2JaUVY2d0NwRncwYUhQRzBFWGdCS3FPY0l3bVBBX0Z1MlFrQmVNS1VSdTg4VkszOWZhNXdmSWU3UjI1NVlLbFhmSi1FNXNPN1NCN000SVloUnNsVS04TnpnWnFnY1E3WHN1dUVwX2hxbVQxNDJJWThxUzBWWDZPLU45aXJWa0ZzQVk3Vy10a19LUTRYaVlqM25TRE5PbVA2Zm5yZjBZYlI3cHRvMlA4WHpwM2Q5RXp3THc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbEt4eWd5SmIzSnZKSElsd0JCZ1hzQk4xUEFNVXFqLUNMWTVNcTc5Q19sYm1uak1zTVF5UzFudEM3cGUxaUxtQUhxaHFrRFhSNTFmNl85NjFobVZIMkJKMDcwMEtBNDFuRjJtT2l6NHM5YVhBSFZxTWR6bmpzemp2NW5FMkRhbVRLMV94clA5X1prVGtKeHBURkd2MFJ0R3ByV05XMkpzM3o2Rkp4eU5tZG03ancxYi1XdVRLcTJzeVltWjIxdTJmd2tqaTdEcUlnSVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnNiNFJ5OHJFT0ttZXltLW5ReDZ6bW0wOThLOFd0SEhoMkd2NVFvZXY5SVJNbmJ3clFKUC1iQ3NQUmRWY1BHOVg0cGlmSTZFLWF5S2YxQ29xVUZoMkFGak9hbU9OY0x3TVV6eTZ2QjBiV0l3Z2hJTFpjRmhQYVplcg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hR2t3ODBjN2RiYXVhWEVhZlJHaFhlbUw0OU5mVjFzc2FnWU1sd05jSUNLS0FOTFBmMmMxYVdLWVRLZHFHMU81Z1l2VFhyXzJCaTZLS1Z5Qkc1NVlLM09VeE9Tcm1Db2VvR25BcVpOTy04OFBIMS1UenZTcG0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxOV3FMdEV6eVQzX2NqXzM5MVE3MXRDanRMLUNkOXVPSWpESjlFR0ZmSUsyd054WW9vQk9TSVRYZ1ptOFdmN2MzSkF1ckZLWUpNZUg3SGJCWGtsMUNrSG5BS3pabEZERUpXZDQ3eGwwU3IzM3pmS052bDZpSXBsaTNyb1hGUDI4dk91cUM0Wk0xbE81NEZXQ2lvNHVBNEFxTGNjeFAySzZfZno2aXVqdmVFN1JoSGlJdmFUNWkzMENBd3QxVjJ2eERZcGdsWmZmUjhFRXNNSmhHb3djV1VibU9waE1sTTVpLWhvTmduSXBldXVoS0trRF9xdi1UZ1BhNUlMMkZWaFFR0gGLAkFVX3lxTE5DUl9DU05PYXJpWXE5amtFQTJsb0g1dHcxLWpaR2F2LWJKVktDM01kN0NkMjB1T1o2VFY3Vkl2RVgwSzZpbUViZWZDaTRYTWlxWlBtaWNjM2hNZ2pUck9wd2QxVmQ5VWUtQzh5dWs1VjRaUGF6M2xyQ190ZVdqTl9ENEZ1T2pnRlMtbUE0QjlndUp4eGhGaEhGLXR6bXBQZjFNcU9jZVlfRXZ1NTFJVEgxM2lUYVVhN2ZqQmJZTzczVURuZ1VjaVRYRW9wdzEwMXR4TE9rRzdWZE9zT196dlFycnNyQUJWcWF0dnJISjMxeTU2c3VMN0JqRVU2T1plN0JfcnpETkpaQ0JqYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnJiZjd2ZWhMS2xHUWp6Uk1DZXlhalBscWs1SVhZOFVYM1pHRm03cGxxb2NrUElvUEd3TXIwaHEwQ0xjQUY4bng5V20tVEY1dkR3Zl9rM18wTHRGODNYdXNUZUhjY0YzTGRvTlgxQmVBQVhLaG1fVnBRVzJrY0dCdm9rUEQ5SFZZSHJKZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
