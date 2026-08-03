@@ -94156,5 +94156,149 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/denmark-targets-august-21-for-second-security-council-un-chief-poll": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/03/latest-news-bulletin-august-3rd-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/dry-danube-river-threatens-nuclear-power-in-romania-hungary/a-78223402?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/trumps-board-of-peace-reassures-israel-after-objections-on-gaza-pullout": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/sheinbaum-the-anxious-generation-mananera-monday/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNODNDYmJUWFRkYlpyUXRpM3F5RHFGeXhyNVkxNk9UNGtTQ2ZSYl85NDQtMEVHTTdvVDhhSjUxaXNkWm1Lbmo3TVFPMlU1a3pUU2VWWGIyMDBQUUJOSTMyOVJFeUh0SnZMMVBBTW1MczMxY1M5ZC0xUEZNVjZHR043ZlBGaVdXV0hURmsxc1lvQl9GUFFpS3d5SVdENjA4eGxUZUxCbA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAJBVV95cUxQc2pPaW0tSTk4QWktV3h0d0tRcDE1N0tLMU90Zk90X0JEZVlRSHJLUkRuSlRwcW1rU2F6eDdrVjlyZExZMFprVnlpUWI0bVRSM1k1YTRvUGdpTTJDemNUd015VU45VU42X0xZNjBXamxlaG56UnAwU0VaQU9xTklTZ1gtY2NqY1RkNXNhZldDTDJtZWtDdlJfLTNIUlJSQWhKWXRTOTRfQndyc1Q1T2ZrbDYtZl9WaXlLWDctLUE3LW5sREVzNDl3WVl4eXhSMGFSbXVCemVUbmNkN2tIVTZzaC1YZ1ZMU3pyRzFpNHFYR2FUZ0k1cW5RdVdfM0pJUzJqcHdqcWh1VDBteDhvS1k4ZF9KLXlLWU5q?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPanJIbWV5ZElSXzZQYkNkNkxaMzZxcDFydVY4TUtBOG02NnFOMWItazBaSkxZSmNiQzA4QThlMmlCbXg4cm9mb3RGaTM2a1lJa0dTWnJURnBKYmxTSHlJUU83aGJvS2VGcGEwckZFdUROcGlHblRxYzdWU1IzSldjWkZmYXZldUpVVENzay1GYzJJYWg1dFJ2ZEc1OHFoZkY3RjBweElYeDhUUdIBrwFBVV95cUxOd1F2OGNob3RlbzVrY3poeVQzZlBiWkplN0Zvb0JWLVI4WEtMLTgtNWQwdi1CUTFxXzU0M0I4RHNEbUdIMnhyYW14YWpOVmRsN3dpTV8tb3ZTeUx4emZtVFBOLU9JWm43eU5NSzdkRl9LMHMydWpaclE0NkNEQ2pLaVhTNVp4MHF3MTFFbjBUYmdGRlVObmVycUR4WTFERjV4RzVHeDBLZkszOGpFQW5z?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zTVZaMGVqV1ItYmg5TVY1cTBtSnJTV2FCVXU0bmU3Z0o5Y1p6VlRvNktSRXQ3dTdUN2hKOWdBenBMR09tWXFLUTMza19TRlljS3I5WENB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG9XdVJadzNoVVFjdkRGX3NnNEEtY1F4VkVaNEZCVmJtbUlMcS1OV2dBMDB3MVVRZDJaQm1QNDIwOGpWcmhuNW5pX3B1dEtycktjMy12VmFYM2xVQUJNRTkwUUE5dnBOaGNfNDNKT3Vza2FWbDZlQjhfWDU0U0NDUGVxNkhKT3Z1YlozVlBlSHZmZGZKN3lVN1YxY1N0d1RxYnpHMDU4Tl9OYWhpaUVZQV9mTVVPUjlybGpLS3llcW1MOEU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2h0bFZUc3JoX3NKVGZtMjk2MjNDdUdvMFhrTlNmaE81N1JfaGFTVlQ1enRTYURsX21IbzRacVRVakVSNFZvSWxxTUNIbnRrMWhYTm15Rm1ucTV5TndIMXB3WWhGMEw2T0cwWnF2Mkpwbl9aYmpBazVSX2hpT2gwSEd2eEJWTmNXRGxsZzRYeEo1Q21lUEdqT3lXWk5TRy00NTdNRHpTa1RBNXd40gGyAUFVX3lxTE1qbHAxVjZlZ2pMY2RsUWhuRkd3SFQzVVpoWUlwMnQ0eHNNVUZoNkhhZXlZNzcya2NOM08yWkU3VkJfQ19VUjVhOEJON2kzQ3F5VTBzaGN4RHM1ZXU4alNJb3d2Znc1LUc0b2VtN043RVVlNFBHazY5Y1dHbXYtaTFEc0VOV0FsOFhVdXFkT3Zqb2JKWXUwNkVYX2tWVkpEblA1V09QU2NEVkNidnFLXzYxRlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ25QUzV4T01ZZkdJeXZqV0dwQjhPbk1nZ255N3ZSUGZzT1hJUm9fdzJMem9WWEVsZ3VLME5JYXNaUXZLclZkNkYzLTBGbXFDQnlDU2pNc0ZNVDliRkwtVWxzRjNYUGJwMlRzNTJvRmJtRmhHaXBfZmZpTXRRMmp4MVRZWmZDYXVZZnN5NEpmeF9lN1NORW9tNDVTV24tamlZSXBZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mnd-local-a-new-art-space-opens-in-guadalajaras-historic-center-and-the-latest-effort-to-conserve-the-primavera-forest/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlpJSWlOelNBUEotNWxvdGdYR3Boamt6eUlmZFNpaFJpV1hXSnh2NWJKbmt0Y3RicndqT25QdGFTOFNkMTlsZEMtVzQ5RlhUSzVZYmVHTk9jSFBHa0tPUkNpRjdpTXlZMFp2MEs5cTdjTVZXWWktSjB1b0JkSnN5ejFHdFNDVVFNaTRoUTBhUm5zdEp1ekpNZ0xhcVB2bWRscnl2ejhYaUZZdFF5WFN4RFRNMy1UQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQS2t6YTFodzQ4blo3SHNSa0NtcnNuWldSYUNNYjdXSXJ6a1gyM1ZzS1B2NWRqdHJ6aGVvNDc0eFRWdFBtUzFjUnRtTl9kRXNuXzlsRXhpVTVwdW9obXhGcUU1UnZGYlJsOHk2T0tGc0Q2dzdqWjdURnlMS2Nzc0Z5REdTQ0pqVWE3UnBVX296RUxoSWhiVHh6bzg1RUhwYnNXekRUZmRBYXM3REFhemdqNWFUMFV2cDZQQV8teHZkTU95VTRqZzhaOHNHT2R5U2xSVHRrTjN6YTF3clU5Q05sQUc0NnNHOTViOUJ5cTBJZmMzLUI0WUlmU1BsR3NqcTNwenEteS1MZkg5RVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakVzXzZkbUVzVHZmejlKQ18yWjNVOUpzMVNNX21Ra3BkU3JEeVJnUzdCVmxzYzh6QTl4QWlmWTJjbHpscnlDaXp2TnBMZlIyeEY2U3pCV01wZGc5Y1l4bkw1RzZqLTh4TXJ0NW5fcUtoMWxqT3FLbG5fZFJOVklmdkdoSzk5Zk94WGdlT3JQZ2E5SG9jUHNuVTBlZUJsUTRhTk9KXzRiTWnSAa4BQVVfeXFMTmJQcURZWUhSMzIzY1ZvSV9aNVY0R3JUa0JiRm1keEFZQUxybVp6MlJERE9RaTJnT3c2WDdsTVRPN2pRckpIMlNmd3hCZHdkRmp0aXJsRDdvVXFZT1BVUDNFd25fNjVlaDdWSURxRFVJb1BKdUdVUUVnNnRfbFpOeTM2QjQ2bWljV1VmenpNX21FZnUzZXNscjBMaEozRzU3dnd6S1VuVUpobFdEV3FR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPampiVW0xdnhJeHdqc2NJSURhMGtLTElyS3FJRlpqZ053anJ6MXBhNkpnVTRHYVRtV2RWblp5NHVGa2pwUEQ4NGtIN1FkQkZ1ejFpd3d2elp0V2ZDbmVNRnhHUk5pQlAzSGRrWjFBRFNXWTBQb1ZQMmNWb0VQTGZ1bFZxVlhIZ0J4a19jVUNRTVZxOHlvRUdqcXVMZlcyeGkwNGdveTRR0gGrAUFVX3lxTE0zdVFFZnlGdW9FS2pHTDhUNE5qanduSTVWaURUTEh6djU4LWUxcmlfTEI5ekNGN29faFVHSnp1NGkzMjlVSWR6dUxCaHBFU2V4TS0yYURlRDkxTzlFa2RPald3ekZBT3BaZFJaeXlYblU5YkNDcFF6SFlDUTRiTFBUYndBUEU2VmVTUHR3WWp2UmxLSW9WZmt0Z1FOeXc0Yk1aZlFLeE8waVdpdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSGVlSi13MzRwNk5IaW5HeTdSUTVKN0l5aS1WNWpFc3F4cUlkTUpQdUxjQkhOOUVKNmRfZU44Nk16VV95QjZpMG9Ta1Z3UXF2bFgwdXlZMUd2bVVIWWNkcXB3YV8xenhqSklhNDVxZnBaV1hFajY2QTRlV1gzaDg4VDFuZENNWHFIWmFVVkROOTZpUnZmV3RlaG9VQWk5enJMZUxrZEJyckx4QjDSAbABQVVfeXFMTWtRZkg4ang3MVZKNHVJT1JNZXJfTzlWZlAtTVVMT0JPVGhtRENPTXNaaWJPdjVxc1YxUkRFUjR3UmlYZHpieW9XbHBVMHVoVHJuY09LdmJuek9FSVNvQkFjb3d4ZHNIM3haTWlJZ0dEUkFnOXFQV0Zzclh3V1B6R1hUc1ZfTmNRdGNfOVBtdWttM2NRM3owN2JPRnZKUi1WY0JibGdBcFV0RUd6eFBYX3M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
