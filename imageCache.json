@@ -94024,5 +94024,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/culture/culture-news/met-gala-2027-theme-john-galliano-controversy-1235602472/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/sriram-venkitaraman-got-exemptions-that-even-pt-chacko-did-not-get-muraleedharan/article71302733.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-superhero-fatigue-1236663071/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/ceuta-eu-calls-borders-a-shared-european-responsibility/a-78220701?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/politics/politics-news/pentagon-seeks-creative-ideas-win-iran-war-1235602746/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/03/white-house-finalizes-voluntary-ai-oversight-framework-01022437?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQektERUZodzkzOXlDY2NnVEhHRzF4eElSdXV3VG1Gd2Ria3FNbUdLS3VKUFhiRzhpTHVwT3k2WXJxanZRNVNQRjJEQjBsSGl5cGV5TVViTXhDMUY5WDZPRnduaE96cFQxMVgwc1FVQl9KMThMOFRlVl9VM04yOE42cVI0eGo3YUhzWGFWeUk4bw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1dfVGRjMHdDaTJYOE81Q2t4TnB3T0YweFJFbU16eFVOMDNnX211RG1IUS1qV3B4LTJ3ZnZhVjN4MWNBdkpxeVpYcWlBMklEZ1NiZjlEZ29VbkVueVZRSjZWbWkxX01ObTN0ZWZhNDVjZ2U2Tm1jT1ZPSWR6cXVIb0swZ3RkaVFwaTFXN3dBN2hWa2JGd08wVXYzWFVzYUZZbmF2RlNhdTlVbDlOUmFONw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-signs-deal-to-boost-patriot-and-thaad-missile-parts-production": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3RUUGplUHRFOElCUjBiQUNPYWgyNDM5MTlLT3ZyVEN2dDBnRk5JOGIyWkkzYWpQdjNGQ253WlZCbk9OeHNWZmo4djllSmRGQVRZbXA4eEQ0TldYMnJFOV95ZzRvODJJb2xySTA5eFNiMFJGc0VnX29MSmRBODZ0QjNuaHpxTVUxcXJXa2FXaFFvdkQtRmdnS0FnTlRWZVhTTGY4QzVrbVV5TkVic0o1UGJaVnhpa1J0SDdv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2hVcVRnM3VfSm5Kd2ROOUxyVGZZMWEtNUkzZ1VtLW5UOGQxendTMlIzMXFmR21IYnJOTlVUc0N6Z0VjcWprNlgtQjVyRk1KYUtxWWhTNnhWd2puTHpBeHdSUjRTeUlVaXdral9uYUVHeC1NNTVNMXZYZWN4TTZPVV9iYVFLb1g0WjVFcXFpczAtVlRLaXdMcURXWWxEZHZTZ1A40gGoAUFVX3lxTE4xRkNUYWJ4clFOVFJMZEVFak5Cb1hxUTUyNmJRZktnWEZRVFhpQlZqcHlOcnRYc3gwazl5aGhEN2VHTnFsak5oMmV5VS1RMXpaWUtpeDRMb3dKYlZxeHVLeDc2MzJGWkJUYjlUREVCTU9WTFQtc2FQZE9ILWJsRE4yUVpDUGFRY3o2eE5GUktwR09hNW53VUJBejVMUEctc2hNME5jNEg2aQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-03/the-nuclear-startup-betting-big-on-ai-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/sudan-army-drone-attack-on-darfur-court-kills-35/article71302722.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRDVtcy1vRzlFbnhpa1piNGVEQzhtZmZhX0JpLWNIY2E1RDBTRmNEUVpPR1dLakdISVB6S2lHY0VxVkxaOGFjQlFnUnFOc3k5MzJ4NnNONVBjblJncGZ4dk9zNmRjZnhrWGF1V0JDWVJ3WlB6WE5mckdfQlhRdXkyZHN4M3h6eWh4NERn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-viasat-internet-access/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX25wcVNmWFVSMm1UWThBSEJpd3lxVjJFU2NLdUxYNW9tbkJ1UF9ibHE3RjF4Yy1iXzUxQmhNa290al94OXZGcURYWjVwODJRdl9Nc2c5NVRrV2Y4YUU3enRDeGhPQnJxbFlQR0prRWZ5ZjE1MDdXa1A0a0JXVnlnZ3RzOXJKYU94OVZMT0dnWEFEM00y0gGaAUFVX3lxTE9ZU3BReGg5eWtWOWFUb1NiSGk4bGpHWkkzMWw5Rnc1UldrOHJDU251Sy1mUWwzS2JGUXVnT2hyVDdsZzExQU1YMTg2UHdaeXM4RzlaYWN5R00yc0pWdVlOUVNEYzFsWnYtdFQ4N05waG8yNVdVRGRSb0owMGtTSzlaZThlR1dzSFRSbjJzM2gzRjhuX3J6SGhhb2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmdTeFo4aGhNMVhIZnlrQnZDZG5lRF9XaUJGbVphSlhuXzNKY0J2Q2xlODd2V2tkblYtS3FZS2VzbFB1WkFnWGthRGxnZUlaYUVVYi1XdHdySkdGZDB0MlY2Z3ctMF9yMXA5NEpEZFZjbzA4THUwVVMyTUlqS1lmWXBLOUx3QWRyMkNqWUVFLUdYZEQxUzRQT1kyVlVyVTc1X2R2Um9Od2t1VDk1Wmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNmZ2bk96WTBBYUUwSEdCVVE5UllzVUw3aGlJWUZMdTF4X2kxdkI3a2Vmd2hKS1hlV0p6VVFUMHFGMHYyQTduOUpwNlliMDZ6WGtBN2ZQUWVtMEVKbXk1TTVnRU9EaVhyYy01emJBMFF4eXpFTjFmV2praks0LWlGNzZ1OXVYU0NPZEpUSUlXQ1c2X3BFQjFiSkJVTFpMV2RDaURicmNvTmpYUTVyYV9BaDBsRWxIbXhERV8w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/poland-appeal-pfizer-vaccine-ruling/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
