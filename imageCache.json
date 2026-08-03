@@ -93274,5 +93274,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-03/cxmt-s-1-trillion-target-gap-flags-high-stakes-in-chip-battle": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGNOeC1mckxpZUpKaWY1MXA3ekE4OXFoTXFQMS10aWkxcGVVQUNKR0MxSlVsalY2U0xYY1lWVHhKaVQzeUpZS29RdEx3LU5BME1FNlZyUFdEaWhvM21rQXB1UkhUZi1GMzBJcGlSQ3c3VDhaaC1VdDZLWUUtNENNR3BMWUN6V1g2VG9vb3o0WllxM0xnSEVMWTFUc0N6ZHdHM1ZaV2xfTjBfMHZBNHllMUtBYnREVHJYR2ZMS0hmVDZDaDJYc2xuS3R5UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3RNaEFnNGhwTVhVR3VzRFJ6SjZUQ182bGEydjR4eWhYOUpMOVlqSGdvbk9nSlN2cXN0VV85bDA5d25CNzVZanRWZzd5MV9LVXAwd3VxTmVpWG1YOGZ4b0lMVE9kbDJjZ0EzZ0ktNzlhRTVNa3UwcUlCeEs4M3VURkdrT2VCb3ZKa2pYcTJ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/2/brazils-lula-launches-fourth-term-bid-focuses-on-national-sovereignty?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWJZRGx4dlVNQ3hjUElJaWpJODlmYmdvemxtd0hKYVJuVWFybTV1SUM1cnVYR1dmQi1pYmoyb2prczh3LXg4eklnbjJ4Nmpnak9JOExlYmQwMjhrVTcxWFQ1VHhUSWYteEdKVUpUU2xydnZKNGY1UW1TdTdyU1BGc0RRZGhNNFliZEZrb3p3QTV1Q1EwTjRvc3k2enVWQ3lNdUVV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
