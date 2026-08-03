@@ -93724,5 +93724,161 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/volodymyr-zelenskyy-rustem-umerov-foreign-intelligence-service-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/six-saudi-tankers-turn-away-from-gulf-of-aden-ship-tracking-data-shows": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0htSE9LQ3ZjT0F6bHhVZE55eW44bHZXckxjcGVnc0ZhRGMyZ3pSdlhTanlzaWpuWnozbklEbDR6TXp2M0hfMDR2aEgxZjl6cXNXZVVmcTE0WEdNRkc0NDBxUGdEQlc0NkZMaHJyRFVUOFZJV0liSktjTzZIQzZNZy1GcnZWVXVIMXZpelQ2UTZlUjY2WWdPQ2VmS3BzeVI4anJF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/can-pm-modi-reconnect-with-india-s-gen-z/a-78216627?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/03/yen-us-intervention-japan-market-currency.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tNXk4M3ZfSmFZUThJcGhNMUNheVItc1U2aUQ3VkNmeERRa1lyZG56R0ZqMEh2ZE82aDd5QmU0WEQzRmZaNjNTNk82bk84aUVGaUZLa1ZXOVhGbGh4MzF4ZDdZRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbnRzSzNQLU9pYTFlcEs5UXN5VkdIQkhzR045QUlWNDhISDRHUHI1cng3VXh3dTZuR2ZFMURKMkpHR2pFSVB4VGt5NmxBLUlKaEFpSVAtS3ExWV8yZmswMEZkVlhtWlJSRFpMVEZyYWowU2JGZWw1MjFDbTFycUF4bzFNVDM0YTJyTUY2UzJqd3hhbHFtNnZfcU9JVk1kT2ZlMHE0RlVZYk51WWQzdlZ2WmJmUEpNRmphQ2YxX1NTLVFqcENwWW1La1F3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608030668.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.sciencedaily.com/releases/2026/08/260802223424.htm": {
+        "image": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/denmark-begins-extended-military-conscription-in-response-to-russia-trump": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN3pIUFhTSDluNFU0ei1iZFBvOGNPS0ZPY01kNm1iS3VkanY0S3d3NDFKVEtKZFB4ODBtM0FuUmdWbENuR0h0SmJ0dzBfNTJBc0tGVlRUZUtiQ2xHeU42Qmh3RTRVeVV6eHFjV0NjYUxWVjY5a2pvaElDM2RvbEc4dHFKdUgxc1QzeC1BSGZXa0E4cUJrT01UVGtGV1dKeFZXN1Z2OUFrRWRBX245dGxEWm5VRWY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVVng1VnlKN3Q1QVlkNkVoVjNSYVF1TkZXWmFIUU1meFVxYUFMQUZyOFFIRUJPS1d3eDF6LXBhLVROZWFzeXVvSVFTcUx5QlpkdEE0RjFlNmpSLUNPM3NxWm1OUktwZmtNNkg4UjBFeUlDQmJZWTF6bG92UmJxQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/dravidian-cricket-league-2026-launched-in-kuppam/article71301020.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU0VOVEVMWURySV9LeEEyRG9DZ05zSVY4QnRvOXUxT0VaYkJNNGxpZkYtQ0xieWFhMUtHMFpoekFUTlJ3RGRaZy1EUy1IZGI1cFJsSGVnQ3JhNnNLVEJpWHVGeTlKNWw2V1hFTEFmdmNCNG5vRk5HRFJFNFRIQkpwclVNbjJKWC1xUFRLWHB3cjZVeDIwQmVsNHZtUDdXZHBleGZYYVlRdFFEZ0k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3295847/nearly-6000-civil-servants-to-lose-jobs-after-exam-fraud": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkZraGlwUV9RdUxnQXo3UEpEckVwUGpOVzRpX05LVmJHR0pJMVZiRFdxY3hWN3V6MHlfQXBqZHFQbmg0R28tMnhkUFdzWmFEa3J4dG1wVzNXSEx3dkgwOHl5enlocXRER3BuLUxESmQ5RExBZ2F5ZTNIUk00YUFfMGtCRzZlLTVPNVF2Y0RPNG5IUmlVeVJFaEtIcU1FZFVFN0tULVFvSkU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3djVG1PVW1INTQ2WUhlN25fY0V3ZnJmanZieDlkVDlEcHZ0RmxhVTBER00wM3JSb1VYdmdtcllPRFlWQ0V1ckgwSWJfZnVFaWlNeDg5VlUxM08wQ3pFU1pzZ2szLXBJSzFBZXd0aTBZLUJXYkFkWkFDbXQ1YmZSSjN4cUxvZjR1WXczQk9mS2R5a0hMRzlzYWlmRTB4cEFDeURzdnBsTDg3R09hMlZuZWVOY9IBuAFBVV95cUxQNE1CSUNORE02Ty12cUZ6cHdKb05uVkNvSUVyUmpuU3VPOWtFTDd5SUl1d1ZMU3BZT09tSzVKVzhiYk85ODNqeGU5aDVNa2g5SWpMUDctVURINGtIaGVNY0loeG4xZTBWbW0zdVd1Rjh4dWZkbGpjWHVySE1aRm1MN1k1ZkhrRzFuTDVtLXRHcHpfUUl1aUtFSVdCMWd2S3lzZUtlMzgxZzZZTW5jS20xVlNhS3d2NzVj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/paris-court-rejects-xenia-fedorova-appeal-over-expulsion-order/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVc2aE9tRUtDd09oX2FUcm54aklBdVp3OURuY0VqenlVYXhodWl0RVIxWWt1blI0Ulc2YTg1amhSSXlhdTNZXzNqR0phd2I0cmZPaHk0TU45ek5CM1Q5b1JoaGkyS1VxaHZOMHpTMDl6UlAxSE5oSm5DZDFjc0xIS2pJZ3dFSG9neW5hRnU2UzgtTFFId3c3bjd1QlByaXE1QU8ydVF4dXFlZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/pregnant-woman-dies-after-turkey-balcony-fall-husband-held": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFNVVzF6blVOOUlEbWtMQ2g1MEJPcTlyYU9jZVJNOEZ2OHdIZ3VaeDNQcjQwT3U1SVdrMzJOLUdzX1JvWmZjVGkzMFBhTy1GT3hYVlp3dTI2UjkzU3NYRThZUG1RT24xNlFHdU83aVN2R1RnLThHTWJmR1NGRFk5bUpHTEFmQklNVURuLS1iSVR1OUN0N090SWdhaU1mVW8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2ZPMjhHZ1JDLVhBeFV5dEpzQXg5Ukswd3VLVHNzUEQyUDJyVmpkYWFMMDRvZ1ljNWJKaURseWRvNFNDNTZZMXNrZXNPYURlbnZUUEoyVFRxTlR4cEh4RmN0VlhXWW8ySUpqblIySjdqVktVMFBwcFlqemgxMWdZdmxmVkFiR0Y0aFZkUy1wMElEbE52aGRSMV81TXdZbjZzYjYyNXE3cXhmQmcwbFY4Rnpn0gHEAUFVX3lxTE9rN2tVcWxWdk9GT1I3ZGpmUzZxbTlNM0hqMzdySHdEWURqQjdjMjRySDNyQkxuMEJHakpDZWU3MU90VjJpd0w3RG5zZ0xqdmwwWHQ1d2p4djEwV1NyREJhb215LVZmMEdFaXdqNmNpV25lZVU5MjB5VkJ6Z1RtcEdzaXpHN1ptT0l5RlppaV9VaDhNdzFkbDNZTmVWdzFsSHI3aVNHSzlmRllHX0NhSVN5cHh4R2JQTUFwLWRRbzI4OEtUSno?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0FEdHNBQmhIdnFBR3RWT0RjRVB4a21XQmgzbzVrNlVzNm5CNXVSeEtfWGRUV0JmRXBLQlJPV3FDS2ljaGctN2tjOGZMSFRSejZQU2dKUGJtTmgtSjY4S3M1eC10Y3FQdDlCZjAweGhjc2RDLXo0Y21sVXFmZFZKV044WHFZbGtqN1ktbzVYTUNKeTdaTHdyWXhxbU9aekpXMTFqcEhERFM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
