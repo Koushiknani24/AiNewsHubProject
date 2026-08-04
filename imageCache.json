@@ -95404,5 +95404,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/politics/politics-news/trump-keeps-pushing-reflecting-pool-conspiracy-theory-1235603554/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/embraer-manufacturing-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-04/-inevitable-us-iran-will-see-more-volatility-maloney-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-will-do-whatever-it-takes-to-support-japan-after-yen-intervention-bessent-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-lists/djs-weigh-song-of-the-summer-2026-1235603040/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/gaza-war-mass-funeral-extended-family/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwJBVV95cUxObXdQR2E0djNsaGh4RjhzUkcyTS1YSFJkUmhqck5lS1BXX0dtbFpyOTk1QkstOWJfNmNlMUwzeDQxYTBwVWE1RmZwTGRmMWhxb3FQTXAxZDQtcS1lR2FSOWVBcXp2N3BCb1dvYW11TkpqbGJxYzZ3aDl2VnFsZ1hGbEtVd082SkNvS2Y3THpYRnZ4MVZVWnZLWlN1MEVpUExZZU1UUVpNdHRkWS1Zem9VVWNBaURMWFZSOWFBQmZTVG92eWtRZnRnRXN4Ty1na1R2YWlHNFVoR3FyUmVLUHdpSVVCdmc2U2M3QTk2b1VwYmpDckhWYnZyckhRbzJDM213aDlqRDh5UVBGajc0OVVXZWhPRlM2ZFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUctbzVYaG9PRjRBYm0tbmVKLXZRaHB0NWd2NldDWjFOQnI3TE9BTWpKSnNkQ3R6WVFWdHdfT0NVSmFpSlpwT2ZQRGhNb3hpSTg0bkdkSnQwRS16QllHOGhRY05kcEE3ZkZqVVlFSzY0VHV4RzZSbXlVaC1RWkdqMlJVb0tOU0U5cC0zaHk4SFdBSGYwRmpNajZJSzNzd1g3X1VPNg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzluWDRGekNmc2JLb1RKdEdxc1ktRlRJcU04ZUs2ZkFoWnppd0VmY2doNEhKaTZMV2tCVXBvbTA3SGg2d0NkOUtXZWxha3FKWnlsMW5qcmppektDejNGSGtEbTdNR0NKX3NHaE5Za3NoV09CdWNNRG12blhTcHc5VlpmcTdHT0V1N0N0aG5UX01GWGtySkpZUGZlSnY3T25PakhN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlV2emNUTU1QMVF5aDNLOV9mQkgxOEZpRUJ5TmRHckhmelZ5N3ZkV3NhdUs3TmoyS1IzQnpiZ2Q2VVBaNGQwNDd0YTdNZ1dxM0oyLUVVOTV5WTN5X0VQYjJnQUJfbXJuYm9rc3l1ZDdkWDJQNFZ6S1NKdGt6TU1CMWo2czhzalZtWGhpdEFDS2VNdGRJbmxFQkljRXJXZFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUlJMM3JCSU9VakUwdDNiZlNid0RseTVLUnJBalRnekVoME1fVktIaVJOWmhXbU9YT2dxb1BrTHN3bDItM0NuQzNKUENmNTFRbVc0SDBaTWtEa3Zld0xaVGJlby1FNVcxQ1NlY21qd1hoX1V4NTNfVDRYY2UzcmNncnVHVTJteURJdGdiSnh0MzYyakwt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjFmcUZzTTQ2aERvb2ZfNXR5SmlwVTZEMmV1ck92ZzQ4V2RRY3QzMjRvU2xSYUxNelBCT3FZV1JhcEJMWHMtZEZOZEtzVWN6Z2dxSzR4anUzY1pZV1JkNWxtNmJKak43dnhxNkxfcmxmRHpXN0xfamFXX3NVTVVGalhnM3ZNanZRVzVFblBQUHRiVkVXcVkzbmt1Z3lWQlF0aFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
