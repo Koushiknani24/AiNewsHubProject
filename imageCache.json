@@ -95056,5 +95056,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-04/fed-s-paulson-keeping-an-open-mind-on-interest-rates-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/world-war-ii-explosives-france-wildfire-le-porge/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/": {
+        "image": "https://www.google.com/s2/favicons?domain=technologyreview.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/04/bessent-says-there-may-be-deal-tuesday-or-wednesday-to-open-strait-of-hormuz-with-freedom-of-movement.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/04/hsbc-profit-jumps-as-bank-unveils-major-share-buyback-plan": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/french-coastguards-rescue-157-from-burning-migrant-boat-in-english-channel": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY29PVHh4SHhLZTQ0cGFJcUpNM2VRWlc5Y2JfTHhWNDZNRWJiLUdZYUZUUERHSWJ1S2hfR1BTckNHMUU5RDhxU1NMTnJtOVY3VEZOVFN3NGFYNHhnSG9YdTJoQjhEYl9ZVlNnWS1PZzBhSUlxbGV6X3YyUFNJQ0tGX0EwZklIZlNXVV9SNjRrN0tkRl8yakdHSHlzZzhrR0xvX19LUXdJeWF1YjI4QzNwd1pn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSFE5Y1E2QjgyMEt6TnVvSW9HVVZvSEVWRmYtdzc4enFSSDg4U2hDWklnYjVFQm9fa3E0RzJrUWxhNk4zZ2hZZHdhVkM1eDI4VnAzWTBqbVhnNWllMjR2RDg2NHJ0WkxmdU5kSURXSjN2TDBOSEhiVlU2NHhWQkM4WlgyNmJSd0ktbERud3NobTlmVkllN0ZyWlNR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DUzRYRV9aSmZtc2JTTTcwR3ZEUUpkSkZjdVZlLVhaOEdyLVJnNW4wNEgteDNfd2phOE9qYVQ0TlI3M1lpVXl3aGRDSi1keGFYcmpDeFZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNHJXVU9fNFhISmJUZUhBSkVLc0tHeEFuQUhlLVBiMU5zYUoyelYyaXBvcUh3Q3ZFMTR3VUh2VHppUmZWRXMwQXNzQXhkMHpPLXJ2anFRM0Jla0pOSzhEcDFrRXRydUM1ck1JRS15cHdpRXVua3M4TUdoN3lkOEVfdlQyTkpkWl82bzFKcGozOEtsRXVJSC13dUtnYUlGWFdqelBOdDdkZVd1WlFtMEwta3FlTlRvaV9fb0tKSFM3TDFQY1Y0QlpzeVVndmlNZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/likely-french-presidential-candidate-says-he-was-targeted-by-a-russian-smear-campaign/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXcwbG5adko0bTZTMnVqMGdseWpmTm1Uejc5cWZWYUJGTjRSYURlRVRYYkpIWm9ER2JGNFZWcGI1YzloeG5lbWxMTVU5QU9UZE5MSzYybng0MzFnMWxnamMyOHRVVkNTb09MS1ZZV294dkFRNFdoSTk2MEdSeTgtQkNqczdzUjJwa1JSMWVn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/4/dr-congo-ebola-outbreak-kills-more-than-1700-as-who-accelerates-trials?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3296420/chinese-activist-held-by-thailand-arrives-in-canada": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2t2cG9mckxzNFZZUGltclFTdV9UR0t4UkJHM3o2bUJOdGRMMXItd1o1Zkk2UG83dlJLS1QzVXl1QUp3SGY5MV9rcDk3NXpRWjZ4R09xTlpNMHhyeUdPeVZQTDdXdDQ3MmtKRE9GVXJGRWhxR0pOSF80NEw0RTRnSVVsRHdUaEtDUV92REN6QWNLVmwwMDIwT2NndDE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3296390/fake-thai-id-card-racket-busted-in-tak": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
