@@ -95272,5 +95272,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/04/latest-news-bulletin-august-4th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/anthropic-names-global-affairs-chief-to-tackle-ai-policy-as-trump-tensions-persist": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-04/mcdonald-s-replaces-us-boss-after-slow-growth-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/tickets/where-to-buy-outside-lands-tickets-2026-1235603004/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWFYcFNQTmRkRnF0ME84MFMxa05mTldWZnlSd2JVM0tkbzBFTEprWmhiZUxuUFB4bUsyYnMxTUtOX2kzUmVzLWlyOHVaRDNwQVFyUldxSFVzeFpkZE5CaS0wWEl6WVlEYWdOVF9kU2szamd2ejhyNHVobmN3bWdaSklsUDdPMmpsRGJySzBYZGdhSkpMQ2huVU5xYzBJUEIzVVpTT0taZ29xWWMzVDJteg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNVFnVGRLZ1NrQWF6bExla1dOT2s0QXoxZGVuWDNmYkpsa3pqMlZCU1hNZmxrdnhuZElKSnVjU3pXdk9ELW9Xb3ZjcnlGYTBmYW5OQzZ6ZDR0anJWVHpmXzNsNTRGQXh1OGVZbzB1U1dBRTFWQ0pnY0tOSFNRVThvZXZuaG1CMDh3VEdRdDdvVHV0LUNTbW9IdllyMHBiR0FmZno4VF9rekktM3N1QUkydHVTTktfa3Yx?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWstbUFMSEZFSzhwQmxUNzBjS2FHT3duRXU4UVJtU1VUVm1aUTFnWWVVOEM1WWJibGdiY1FwcDJ4bThtVnU4TURGS2x5NnFkdmQtbjFkUzN1VU5KbllxcHVoMkhnT0hTZzlzSXp0STQtY0txUXVyTGp0VENKek5HZzJ6THlMQlY2cWRkXzE0Vk9tMm5GTEZwWnlucktrRVd6S0F1Z3Fn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/south-sudan-how-climate-change-can-result-in-toxic-water/a-78193418?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/death-of-basheer-kerala-hc-grants-state-a-week-to-respond-to-plea-against-change-of-trial-court/article71305259.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnBSeDY4c3g5cGdRS1lVd2FYTzJETmpkQjc1MHpVNE1OcThkODU4WXdDMTBjWU9jMTFJWTlnbHo1enRyRFV3d2MwYy00ZUp6YnAtVU5NdjFlb3FRaDhLWVpSZWk5dHBUZEx5akJaS1ZFXzk0X251TjhESmxiVmpDTHNFbkM5clFkV2NCNHV5WUpRa1JkXzZnUmktM2FsQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-country/country-songs-hot-100-chart-make-history-1235603286/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/channel-rescue-puts-andy-burnham-border-pledge-to-focus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/record-funding-package-announced-britains-winter-athletes-6298626": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3296440/suvarnabhumi-airport-apologises-for-handling-of-chinese-fan-frenzy": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTNSMlpYc01vYXl0SENzTVVTYThoYjA1ZDlkOGtyb1djUlBfV3MxbTR6MjZXUGc4bmN5anFzRXF1UXZNMlhEeFRidDN0ejg0MnoyM3dwSlR6bTNOUy15dG9JTm9semZVYXI5QkNaUlRhNXNtaXEyQmVLYldKdHpjeVRLTEVoU1FudTdZcWZaX09aUC1wQlpxLXhxc1kwQVNGYTJpVnZESjBxYVZBQXdXQjNn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjFmUC1OVjJCS05weXNFTmhaZkRab0dwSVV1LXJ5dEp2ZVNxX0l6QVdLQTN3SUdtSS1pOVF4OEYxRzZHbUJNeXk5ZmJnUG5FVVFScEJnOEUyM3FLWWhzQk8yME1VcW42X3dPOURqRi03QlN6RnZLMGFfWW5LWUVmUDctVDR0YXRhWTAwbTJRaUdKYTNJb2NuS2hrNjRpOVdlZjBPRTVzNXhUbjRpdmRFSGdkVHlGUnpJYjRGTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kRWdHenNQSkxNWmZaSEg1S2IycmtaX3NpN0syWjZfOVQ0NHF3SE1sYVdYdHNPUmZtVzhvVjVVR3FxWnhTTFgtMnNxa0J3RzNZRmtwYmRQbmcyUmpaWFktMng5RDN0SEprbUFSZmppelBGNmNTY2VCODhUWDlhZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2VVdnczLWpWM1ozVWRRNEd4ck44MU9NdjRIMkgtZTVaTDlGT2NtWVdBX1BVMW1RZlQ3T04xUEp1RlhyaHBSTDd2QWRtVlZoYW1CbFkyRkh4UHRSTGJTemphSW9OQ01zUnoxZmtxeU5XZDVtb1dLSDVIT3U0cFZlX3lNNXpGUURxenlBLUttMUN2UlZwY18xYy1aTdIBoAFBVV95cUxQLTdpS2FoUlZZRXduZEJ5cC1kbDBLXzdYQnJ2YUFLbllrMDJpOVYwdGVkT3BVOVhpVXcyYVNxanJMNGpkSzVHV3R1VUk1Yk0yOTdoaHRlQW1NMlV6QmJtTVJBNW1xQ0xuNVFpZjZrUDJiNjJNZGQ5X3Zud0FLcUhfclp2QVE5M0R6OGFhZnlYMWxhRnNTRjBWMHJHVXJ5bDVP?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOVJoUFhZNHZlMGxCeTVmT3RuQS1NUExhUGhpZHE2c0RnWU1SQlVSbjI4WG9LMnkxRTJOdkQ4UWM0SUJCZlBDa1Vod0FUOURaM2lZZzhZcGJ2UVJKTlVZS25wN2JHSlJseUY5TU9IMktKcXB6bzQtVE1sMW5mQWR0SWJ3ZWRUd0xscnFCSnMwY0tVRW9kQzdCWkxrX19mQ2t3Y1BxNFJrODBTUHRCcU5KRVoydnQ3Q0xF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
