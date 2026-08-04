@@ -95494,5 +95494,143 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/08/04/business/stock-market-record.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbWpKeVFhVFlyMV9FX09pTEdJVFUzeGI1ajkxajlQb3FyX0gwdkM0c2VwYUpnTlVZdkJIaDVBRkxJZFBwVVJxMklaQ1dGVEFUTmU1T1dfM05KXzQteU5OSUVwdnFvTS1XaVRNZDluRGdjVklKU1FiXzRYNXFYSjgxeXdwQnY2Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/new-girl-stars-reunite-chrysalis-butterfly-ball-1236664175/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/04/who-calls-for-more-support-to-tackle-ebola-outbreak": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDVkQzNTJuWDdvdlBDa2tzRk9lTjZxc0lRYTY2ZUxNNjcyRDdLRk56NEcxb1dkM3RZOXNSdVRQdTQ4WVdpc2loUjlGWmE2Z0FubmhfUmt0TQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQlRxbDNIVk1wVFNHOXI3WU53dmVKQUpwUUNfSHJsS0FjSVpmNjFKZlhFTEJoTVNRVWl0RnRmWV9PbzlzeVEtNno0TVpQSFRCWEJ6QVFqS0dQbThibFNNU3JlZ1M2NW9TNHhmaERfX0xsVEQ0aUNGb21KbWdvWFY3X3B2ckxBSWZrbFFNV2hsN1JzX1BETEZ6VjF3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSHdXZDV5SzVyOVdKSEZ1OG90T3RtUkM3M2oxM29kdlA3Y2RFNmJGM2lyVWJVOFN1UnFDVmVpUm8yVzdydzRLMFctVFFwTjhodTFJblZXQnRRNGZyV0ZsS1h6dEctaUxfT0thaU83QnVvOGhNTk82NmF4TG1FNVZVMjI0eTVvZEVWbVc2Q283dFRWWVBFMzNnVUZ1OHBkVG1HUUdHdWQ3MWxfREFTeE1RTHBSekVSRks5aF9sY09tVDNlaGRjbkRfcVRTMDh4ZW5xdjl1ak1uNWR2eDhvWWdkVmU4TzBJWEtaeFdDc3FYR1NrXzA2QUJpUU1nSE8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaGM4VG84bk9zTV9FQnRsOHJjWU1Bc1p5aVhQOW5hUm83VmYxclRTTUw4Wk4zMm9pamo0enUzdFZzeUV3Nm5zY0FMZFdkR2ZXbUZnX2x1c2dEQjFSUmQzMmMzSDUxQUExbVppUldjQlhmT0hVbU94eGc0cDhVU2x2cjlKNlNwY1VKR3YxSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU28xQ2pvTGF1Yld2WFU3NHNQdHJaN0pPR092ZG5TM3hNS2hDNDV0QlBCRkh3QW9xdU81VmI5dzZ4WWVwV0JqVWVkbFhaMkJLRHdVNkdTSTd6SGRfNXhKeFBYUHBYdWNKZjRpbnBXRnBCeWR3MHl5TWNCYWhNSWtmQ2hMNHJUQWNiUFZrMWFpcGVUenpsNW94WGMwLUEwenRNUXdHdTIzM3BuOGtCQmIxMTJmVjhRZ9IBuwFBVV95cUxPNmU0aG9sQzJtX0FlQkJ3bkVCUVpDUDJ2SlkyeU1OSW5KTWJ4NTVoelF3NHQ5SlRlMVRubHZMczROQU02TWhlcUZ2OUh4SjRwNFhwakVvOWFHcHBmRGxEczZWNGhlVmZqLUx2a0s3cnlweUVzdUhQeE8zaUtPZ2lIS1psMTZLbDRJWVNlLWFUN25xcWgyYnNEMkVYeU1MU3g4eDl0OWVSaG5EVGVJcWtXQkVDQi1hRmNyTk9R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/politics/politics-news/john-cornyn-nothing-republicans-can-do-rein-in-trump-1235603640/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/sheinbaum-decree-transparency-government-mananera-tuesday/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWURNMnBHX2gxQTFjVHQwdFFUTGlLXzRSekNUbGY1bGVpS2lLR096VzZDM2N3d1A4cG5TYnhLTXdGWDJibDMxR1BJT3l5b0d2b0VnY3RUT3g1OXRYOE9tcUppOXIyOWZUdHBTd1VyWWZON0JaTUROczgxTXluazA1QkxXTVpHSU03aUhHcEZpY3ZNaWVjdlpBY2d4Tmt5TW8zcG4ya0Q1TnBSZVZQNExwMzRmYmFQQS1PVjd0TFY0MmxHNkU0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS3pHS3hBZFk1RUVqUE92R21Cdl8wME1BUF9zTkZ3MkhkbEVTal9RWFNaOUJnTVUzNGdOQ1hudC14R3pCclJpQ2tOSGNvZ1dPUFQ4amZUZkVuZVZOUC1iWTJTNWV0dk8zY0VSMEQzMFFZTC1oZzNvTEt1bjR3bVdDY0d0RUdrLXRWbnBzMVh2NmJRUTNjMGptN0ZZV3Y2LThjMnl0dkVnNDVCYy1mTUdNQW44SzNSeF9rVUVmSnQ0UHpsN21ZQncw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/nigerias-tinubu-approves-military-pay-rise-as-security-challenges-persist": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQU93cjJ3U013X3FuS19OTlI1RjRpcV8zSWJIaHhqQzNQQUFMUU1ua2ZkNWluY1JIWE5mR2Nkb1QwTU5ZVkVIZDVPWkxmVnlPeVF1UEhHZUxqSWNPVFFmYVdoVTVyZjdiWHlsN0tZSkV0YnEycGpnWEJ5WHlvd3JiMk5UU3AyOUxWMHNsT1h1YVdib3dsZEJIbmRDcWFGd2hLS0RZSnREM1dVZ2dyU080bzZQYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZU5wS1BlbllxSGpQaVhROTFxeHRZbVFkaHdPRzR6NXpVSmU0YW8wQ1pCOTNiVTc0V01Dd0RJcEpNa2c4UWdMaXdTWElRcEs0d3VEeWRLanEzeGM1NDBtbnd4aXdGUngxdkdERTlmWVdDSlduR2paNV9WbTlMbGVHa3dtakkxd19vQVhZSC1Xa0ZvWmRHdUdpUHlDNUpKaVEtQnhCR0lWUTlOX043dWxSRHltb3lMWC1IU185VWM3TQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTd3c0hZM1BYS2M5NXNHcERxemtBcEFPZjBrdWVERGVEUkNLTnhtSTgtX3VDbVdZd3ZzSFNiLVlQMTdMemlqVDdYUHdwaGxrMDRtUEVmeHFrb0Z2MjZYVDVfMktsc0dlczVmQThGZmdITUhVR2xXX1JHaklKV1dHbjBrTWFzNWl4WkxVcG8wSnNnWlNGOUNKZWk4VWdMV1ZpSi04Wl9HSm1ibDlNenRIMmVPcnlKQdIBuwFBVV95cUxPMVRmd25CaE9fcWpyT08zMUw3MFdhSnlrcjNkdE5LRE9yOUFjSWI4cE0yLUY0UFFJQjFNZ1VCcTRHX3pqNlMtY2FBd0dzMUJjdERDdGY1N1N4QkZMTnk2THE1SC1FWFFCb1AydVM1eERmdnNlMUptRFBFQURfOEZfUWFiUElxeEJNbVJXYkRvUjlvamdyVXVxb1VSZlo0Sl93WDZpZklib1JreTY2cm41djdRUWs0bXBpcEFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/baby-girl-received-in-ammathottil/article71306543.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgJBVV95cUxOYVplUjNhTnFTNjFuaVI2dG10M1ptQTctSVNnY1J3RWlvaG0xQUUxLVFZcjEwckRUZUF3T2tFTmkwd1paTDlSb3QxWkNKSC1JZk5wRlgtb0RULWlfQmd6a20yQjhoTXJ6a2IzbVkxRkJ2Mnk3TXJkbzF4a0xsUnJ0QlpPR0FHMlBQTEtJZzlxYkl3bWJpY3F5LVJtSndGWWJGdlhKdXJCNWtJenFqOF8wV2NaSDJjeXE1NWFTS19UWmg4QU1QQW5xaVg0M1ZOV2VnVVNYTmVBcTVFZm42bkdOLVczNWplOU1TWk9HaG5aUHZNTkFpNDdnWnhHcy1ENUgxMjBjcTB0MlN2ak0ydjFubXJxNjRRM294Y3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
