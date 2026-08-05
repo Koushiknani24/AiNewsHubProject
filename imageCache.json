@@ -96772,5 +96772,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/streaming/where-to-watch-the-shards-tv-show-online-free-streaming-1235603784/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/us-reward-for-california-born-leader-jalisco-cartel-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/germany-police-investigation-explosive-drone-leipzig-airport/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/five-star-weekend-renewed-season-2-peacock-1236664952/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/05/lucid-motors-just-delayed-its-affordable-ev-now-what/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/abbott-elementary-quinta-brunson-janine-gregory-breakup-1236664100/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-05/ares-eyes-2-billion-loan-deal-in-slow-year-for-private-credit": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/sheinbaum-murder-influencer-culiacan-mananera-wednesday/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcGloXzZsbTFGU3daN0IwYW5XU1VSX1hlSXdhMDE5bDFSa0xhTTQycDNMWVpHMHlRdGY2dk41VF80T2pydFdRWEdVaXZJUVpBc3p4cFRiMmxCc1ZDQW1xSnhLTlpoeWhvdm50MW9vR0xtc3E0bGhXSndEQXFQd21tM21Oc1EtUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcFFtRi1CemF5R0dWc1U1dGhlZ0ZEakRidTBDQVNHSmlTa2hfUTdSSkJTa1N3WndiYllyRHZyWXFOekFQNHRDQ3BJMTV4TGJ0Zm9nWWpkcWQ1RzhCQmZaSElTWS1BeXZOZS1MSER0M1FxdUNpSTFTNGJXY3BJdUQzOW1xNjFyTkRB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDZ5X0FWSUlWVWIxdE9jTXhzcmwtVjZQZzdpQWNIQ2dxbFZQbGdneTNxcU0yaHQ1eXp4RDRmRjFUcTNxa0kxU1hvQU9oUmRzSWV0dFlJaERXWUxHM3hjM3Y5M1c5VDY2TUxBLUlOeXRsYl9nb2NqS0dncFR1Uk0yb3VGMGVabzNubGJhUU1WN2hJOWtMRU5oTWlld19NRkRFNkVBcGpwdV9aQlVWQnI1MDB30gG3AUFVX3lxTE5aWlZodTc5ckFOc3JQbUtNQ2d5cG9yX0NLd3lpMnZfMlVPT1Zhbk10WjJ0cmJwb2ZITFV4MnlRUTlORmMzWHlQejJNSzVsdGJ1UWNuSkxyc2M5dU9Gc0hGcERFQ2d3QXdhNzd2T1RXcTM0NE9XbEJWOFF6MEJrTU1Pek1uZll4WGQxd1ZWWGQwaTNiVXVGckZYZFdFd1RCU2pxZVlHakpyMnFSbGFGWHhoWTJrSXdyVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTnQwZVFacVN0YklGbTRHbEFFNjhUZUxSMW1ZbG9zM2FteXI0NFFZaGZCUEpKNUlCdjkyUzN0TWxKSnZVbnRCTEFOakJ3T3pBVTVfZ1lPRlUwZk9fOXdocHRhdjdISXFWWHc5eW92VTN1bXRIaHVBSHM2NFlDN3RUdGtSWjdpdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xVDJwcEtlRHp3UDVCSmRFS1B5YVl6aEFqTEE3azRJWmtHQ1Joa3JTQ1RNSlV4MXIzRkc0NG1NTmN3NjRiMzNHVnBWX2g4bDdoWXVBQnVXcmJ0ZG1UWGFyMjJCZWgxNkdKRWFOOV9B0gFzQVVfeXFMTWIwdjBkSkNDaG1TaTVFTDlENDVTNng4Q21oN1JGa1FreExfYXBXUU1qbjJ0UUpCWkNSc19mN1kyOGlMRk90bmhXZXRYN21CUThJVllkRDIyNnotcDBENkhKSUZwcDc5Rjh5cWNlNjBBQnYzbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/us-unveils-charges-against-five-leaders-of-mexicos-cjng-cartel": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-intelligence/the-mnd-sheinbaum-index-june-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
