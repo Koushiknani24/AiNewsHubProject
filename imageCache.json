@@ -96622,5 +96622,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/hungary-paks-nuclear-plant-danube-shutdown/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/business/Industry/cohance-lifesciences-reports-4519-crore-loss-in-q1-on-lower-revenue/article71310648.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/india-s-gen-z-protest-enters-a-new-online-battle/a-78253169?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-deal/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/washington-holding-up-approval-for-france-us-ambassador-pick-over-human-rights-row/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-and-oman-reach-understanding-on-coordinates-of-route-through-hormuz-iran-ministry-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/brazilian-presidential-candidate-bolsonaro-unveils-surprise-running-mate": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3297042/new-body-to-oversee-data-centres": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90dnd6Z0NpTWFCbzRGLXBEVXh1bUpXcnREWU8xWjBnc1hDWEFpWlhRU2loem5xYS16eUIyeGViSEc4c0U5STBJdk5qX0VqeS0yX1dVakFxbkZ5dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/05/latest-news-bulletin-august-5th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/explainer-why-congos-ebola-outbreak-is-spreading-faster-than-previous-epidemics": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTVdOVG9lX0lfdXFIVzJoSUtsOGFXRFUyd0JieVh3QXBFZnI0VUVzN010aTRpTFVkNnl3T0xZaXBvLXZLaWt1TV82SnlCQmZaWjBjbzd4VWp2a2dVc1FFTmN4X01UTk1zLWgxWHJFaV9TWFJheXVmRlJHM0piVzhUZjc3YWNFdXA1SVBFejhLT09YdjA2ZTI1ZWdrcWlPZ2xfblNKMzViVjNIZi1jVWhNOWF0emItdE9CX3Q5S083cVNWSWc1cUlDM3lR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcF9yMmoyaHI2QkRMeHVscXFjMGNucFRDSi12Tkhwa0tZOTRvdXRLcXd3aHV5RGlZV1R0RmQwV2N6YUxheDdUQUdMcEdzMTJPTWRFS3BvWlVBcDFIY21Va2FsdWVMT1hNcC1HeWZLYzh2QmRXblRZT0VyTWJORUl3YjY3aUtXbFEzbzM2QTdBdElIOG9SSzFhbUlYRks2R2xtMFA1WmFDSm5pVUZVYVNoYk9VejZmbzNHZERKeWhzZTJ5X1Vja2paalJJV3V0V1R3OXZsQUMydkttM0k3VGdpX2JWY3dxemdoU0FUTnFYU1RIQXFFYWo2bG5xYkk4OTRsMEM2WTI1dmZRdkFTTnMyODV6M2JkSW9PYWdMaVBuak5ZM0RHUS1r?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/pharmacist-suspended-over-supply-of-expired-medicines-at-manugur-government-area-hospital/article71310518.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlRuRnJKMi1Nc0M4NlJjWFZJOUNfUmNSTmItdWVVNS1xNkZmMW9HTGZjeXRSSUxVaEFIQ0VqbVJ0aUM4ekpHT0o0U09WOGlYREk1ZEYzYXBrbksxMXNzVWxteXYwQl9OaW9UX0Y5QmgxZUdPMjJPa29HUG1UM0lFQlRVa01PbkhGNlFvMkN5cC0zNmZFdTUtbElRbmFJZThubEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTZ2R2lCZ3lyOXJqRVY4ZndqaWV5UWkzMzc3VEg0SjBIVzRUZF9RNGxiZlRlVEtSWVhEeFUzUjVUUzJHUFB2c3lJenRWNHlpdTN5TkZDemNxTVlpTGI1NjVlcWxSTDRwZkx0UjE2M1pPTVVYQUtsdW5wcnBDZElYN3NsMmV4dlVPdXlzS012cWhkZVhESTU1OXFkZ09FUmRwc2Myemp2S2tSVXZfdklYNThobw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/5/puerto-rican-cities-hit-with-water-rationing-measures-during-record-drought?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOanJOaU5KbDMwWl82RFNnY1NvWHpZN2pmZERmUm5OTmh0c19uYTRGS08teWVqYkozczFLZnlBYll2WW9IWHJLRWh4VG1scXVLc2lOOF9Mb3RZR1B3ckt3dUd5emc3R1BVd25MclpIeUhlSGVVeGtkZjdNTGFPNnlDSndWSVV5cTJoZG4zWDl5WQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RT201VFU5X3FETlA0SDdnaFo5UTJVQ1NPTnEzMnMyOXhXbUI2QWVoZTNMcmU5QTc4UF91cmxNbVl0UkJtbHFUZ2kzQTVNckVIbVdVNjlGdTZ0YWJ1?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmJ4UFpQenFHLXU0WU9ON0oxZm9hZTZnamhwUGpVaGFWYkxOSWNNakN3ZmtkM19vUGpLd1VWVFRUU2o2VXNjNFBoeWZISi05SmlrdExKSlhMQlVOSEQteFA2NmUySElEZFFjMUkzQllsOGhBU3pxWkpnT2t1STRONXRYTXZ0bWNRNHJyd0pFWUpuVnl3M2w3SS0xTE80ZmtTQUs1WnNaWFJlSFU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVEVvRGk5ZDktSXZfb3JKRml5Y3FZQ0FDZ2V1ZHBHdVlYbXA0VEQzMFNuY1JnRkVTaHJJOEtlVTAxSEk5UW0tTjY0dW1mUUpER2NRcVhxZlc2TGRMeVpjZTEyQWxjQWVzanFSVThad2ZpMUREM2s1UTgyRldGbkg1Z1gtU2xpMXBHaEV5MnQ3VlFLb2dlc3VrdVhYdkhQTDdWa2dOOdIBqgFBVV95cUxNRnVmcVluVEtackZJUXIyZlB4di10a1pNb2pWXy1GV3BnNENzbkZaUE9XaW83ZVFmUTczRmVfTGx3SzZCU2dMRHBmQ2s2Rl9WNzBzaTdHYjRXcW16Vzl4LThTQVhyMkZlNnhza1BKSTlockttMXV3ME5DdkNpaFNPdWxTaF8yLXpCOWVFZVZmcWF2QVZRaGhMeEFvV0xneXNsRk04dVVocVB0UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTU56a0JTQm9ZVTNaN1dtMlFVM1lKQlFkdG9MNXBsQnF3cGxVN0VlVTZERmtkV1dJbW1CSVNvUTk1M1ZVVHRQVnJxLUVCWmcxenI0U1A0dnVyUklPUEgycW9QS0ptYTFvamlScTlEN2VLY3gxd0RFVW51eHhUNjF6UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
