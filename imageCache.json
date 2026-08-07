@@ -99268,5 +99268,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/madeleine-carlisle-hired-the-atlantic-60-minutes-exit-1236669031/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/kerala-police-intensify-probe-into-loan-app-racket-targeting-american-citizens-hunt-on-for-kingpin/article71277943.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92OHdoaWNlekN0bWh5ZzZtNU95X3BuN3FHdVlmVmduSHJvRDlFeXdoVXVrZXVvcE9BLUdfX0FWN3VWMFNyT3A3NDdDeVZmdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/streaming/where-to-livestream-outside-lands-2026-online-watch-free-1235605487/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM01UdTJqelFBbEJXQUhuRm94bWpNTjFnVFVtWXhRbTliQ2s3ZnZYRGE0UXlNRXROdUR4eVRkZTk3NUZFM0Vxck5aUDJPdC01ZGt5ZWdGdUU4eTdiVWlBMEswcUtYWWFqeVFQV2l2OXcxQm9XMGVMSElkRWl2UGowUnVkWkp2YmVsR2hLYzBDa1ZCbTha?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1FQRjBzWnI0RERGVTU4Rk1aX01ZSDlkczVqdnlZZTh1Y200dWtBd1BaMkpUdElwNlVaS2tTczk1eUk3WUFDS2JoSDlUd2o3d3RjeG5FX3RhSExHNFp5S3MzUUNrNTNfYXQ2aV9NWVdQeWMxWjN5bEIxeWVnQkk0b2VNMkZfZVkwaHZ5NkFDMnk1Wnpyd0htNHIxZkROQXNZaDVhRWxMaVFsdEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
