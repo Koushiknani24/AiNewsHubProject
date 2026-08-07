@@ -99604,5 +99604,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-aug-8-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/assam/nhrc-seeks-report-on-deaths-in-assam-factory-explosion/article71280538.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/spencer-pratt-federal-film-tv-tax-incentive-1236669201/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/keen-ruffalo-sterling-point-next-big-thing-interview-1236666276/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0dWMC1SaXZZYnhVWXFfTlU4YmthWW9EMlVFSlIzaHFjbW9tM0g0MzlRQzJ2RFFKbzE1NXhhVDNrOEpMQXItbVprWkZCV2hQUXpmX0dYZ3VCWFdxZ1FvS0ZZcm9nS0tIY0FkWUdEeVFRQ2FEbGlpZk5UYXRNeHMyRGZRTllXOXRHSC1UR2RvR3FkR3FaRE9ybmdERmJ4dXdaVWJyeUl4M05XUGkzTmYzWXh3SGNNYlRlRlpYNlhNY2pJQjQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/uk-police-reopen-attempted-burglary-case-as-part-of-widdecombe-murder-probe": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmV1d2FoN1FvRUZzd0pDMkRra25ieDZuQUhraUxjR3B0M1pxcUFzQno1U2FnaGxORjdJNTJldlF1dDRFWXNTenY3eUZNQnZXS0Q4OHJMMDlBWXhCSHZNclZabU1adURjTFJ0SUEzaWNVdEJSdUYxRGR6aGZwaTl2enh1WlFXbmVSd3VRVm02VW5KTUNwQXpmOFBEV2FacTQ2N3VFek5QQThIa1M5ZnRCX2ZteW0zUjA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSG9VOThGUHJBeURiTFJMeGNod2pmUlJReDVLS1lmMV9xUWNISUt2OUhlejZDSkp5T2FpZmhvODA5bHVlMG91N3JrMWRycjA4RUR5YWVadFlaUENqYUtVNUxYR0xnMmZsR0JGcTMyQTdmNGxFdi1Lbzd0LWwxMTFkMFMzbEY0ZjNxUW1iYUIzT3ZnWmVjcTE2dkQ5dWNTaFQ3akUwUnhxMW1yRHYyeGR5U2s2bm0yS19oNjhtVlRkT2NvNFU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOERMYjhmR2VIUUtiVF9uZE1tUjdFMHZ3SUlKS2taYWhHSkJMLVBZZEg4NkxtRFJORk5qaFhsbjRaY2xMemQ4NXIxU1hXbkxMTDN0WU1IaGU3TnUwTDlqM1Z6U0Zqem8wVWJ1dkFxTko0MjFSQ2pMV05LY2taZEktaG8wazVrbldzcExqWkNXM29FOVZXM2NFS2Y0S2M5cGM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWZfdE5YNGc5ZlJZZEdpaW1ob0lQZHg1cUtrNnU0RTJGVXlKdzhVaEZpUUh3dTB6WVltdjFuWVpNeTh0UlZJWk1nQTZ1MnVSVlhubHNfUnBCQjM2a01GSGJJTUxsOGRBX0JMYm8waFNpMmUyYXJPWU1ydzdKanVsQ2hVZ1lReVFCMHprSFhuck95R0liY3EwdQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
