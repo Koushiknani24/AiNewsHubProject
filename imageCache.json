@@ -99514,5 +99514,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZS1zMDhpZE5hM2dNQTRMQS1zWVF1T3lNRklOUVVJQjEyX0RzMWlnenFCZ2RyYzlkcEN4ZG1nRVJHWTFib0ljOU9DUzFENDdGT25GZVRWbGdVVjhTWGpzY2QwN3hvaC1uSnNZSkZSTjdhUXJwYTBZS0lPb0NKV1F5WklwN1AtSTdqMjJXR1RBOVlaZm9hSlYyR0dn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXQ2VmdPTVVwQTRTWjg1M2pfX3dSM0ptTmg2TGgwN0J4MEJFODdIbm1kNFBJZ3ZxS2Vtajdoc1dCY1NHUF9JQzZ0RHI4bS1hS1UtS0Y5R1AzMGZRenRZYVVyZ1ZiR2VDVzRBcmFicXdnSThmdWtxWHdGQVVMU0w3VDdXS3Q3dUxmenU3N2JCWWUzd3lzSTMxeXRzMTd1ZWFmbW1ocVZpcDJIeEFGZ0ZSMGdBdGlaRUY3eU5mNFl3MGdacGdfck5KWUtTaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUhhNkk2U0E1aGxlSGh2emxEVnZnZWlZRnRzLVJvY29PQXp3S1VKX3ZsRnd3bWlQdmZfZmFvMFFZaDlEX2xWVG5IWmNDdTRZVXZONTd0MFFEYW1ZLXBHRkJ4dVRRUFF6V2VSdm5TZmpqWkIzdHl4bTlkWFdwTlpqcVB3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-07/once-upon-a-farm-ceo-on-outlook-boost-consumer-demand-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-dismisses-german-drone-incident-as-fabricated-provocation": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
