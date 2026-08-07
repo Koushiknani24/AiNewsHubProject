@@ -99322,5 +99322,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/chappell-roan-super-graphic-spectacular-fundraising-event-1235605626/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-07/investing-view-is-glass-more-than-half-full-kelly-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/all-blacks-win-tour-opener-in-unconvincing-fashion-6306886": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/cities/bangalore/scrap-warehouse-catches-fire-in-rt-nagar/article71318751.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWxrRjBHcDQ4S3BtcDQzQ1h4WmlHOUpPWXJrclczNWxlMElZNGt5S1E3T3dGMXV3OFRuOE5nSjZZM2dET0djQklMby15Qm5XdE9CaThhMVZMbVdzajB1aG1NUmJjV3p0bXRvUVJTVjFKMFNzSWljRkk2MHZ2RlYyNWVKWGRDRUUyMm9fOWZpTU9mQWlzUTdwNdIBngFBVV95cUxNTUZpSjBSWDhTLUpLVlZGcWpaVjFiVmNia09sUlF1N2dTQnJ3My1kbm15bTAzTW9rYWRyWWZ6QlJhb2NqV3Vjdkl4dE5jRHZzcDhvdVBfU0k0TU50YzhGbmk0LTZaV3lEeFRzUnhnRnUtRXR4bFQteTVHOHhsbkJPZUEyelc2YzZYa25WQUdpbnhpWTd6S0RQOFpPRTdFZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3NtSks0OVNVSzhTOEw0NUVBTDJEVnJWeDVNNUZDZEVBOElwemgyYU9KcnJad00wR0s0ZXpWTjVjMnA5SU5MaXgxR01ZOEp5QkxvUWU0aEpQU2FveFZqaXI3bC1laDlhX2szTFkwdTdtY2FWc1BhWUhyeEFPZVd3ZlN1bnlKdV9tc0pBWERMRVFGX1JQVTBkOHZRckNBWHllNzNMVEtRTWY1dERZaVVnSXhNR0F6MlV4eWhadTFSUldfNnlQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-07/nyc-economic-head-on-nyc-run-grocery-stores-biz-outlook-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSmRWejBDdURwdW5kU2JqNlhnS3lkQUNGS1ZmdnViZ24tbWh1RmFibTJTb0tNeGtVeWRrY2tEb1hBQ2Q3U2gtSTFPa1VEVUZCMGptMXJYRS1fY19USTNTT3VFRjU5MlZYSkJRTHlnLTdUX3VfRXBkRi0ycXB5T3E1WDF1ZFl3UnVSY0NLNHpFdXhIM0U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSk5RUml1TW9aTHgyQ0xZeVJZcmFsQ2w0MXY1bzd4TDkxVlJONW15RVFGRjIwNU5fZnA5X0F6ei16b3c4SUhWMHBRLXNQUm9LSTVhVkF4ckVHYWdrSXRxV29xbG8xUXc2MDJzNWxMb3FSR2lwMTRnbllJOHJOSFRJT3FlLWd3Vzc1Mm5fSGhKNzhmYS1IM3BPM1puSTR2SzVMZXFLaUw4bVXSAa4BQVVfeXFMTmFHRUY4cGNub3lRb2NwUjRlT2lUcXQyQ1lLQnItTFlFYkI5UzlMN1hsLXlseWRmOTdJS3ZFY2ktMkJIcVdreXc2Y1BJRV95OVVweXVUWVBzTFhPbVVkMWxpZkRfVVhhUWNjZGVTYVR0aVhYMUJiTmxwdF9rYzFxcG5JZFkzZTk2djVOX0R5MUZCREdzLWdWSThyd3V1cDdfNkVDNTBiMWpBVGNqS0Vn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUdCOTBILUFRNGF0RGtCRUxoZE1WSFA3S1kyejhxZmZBbTVvcXlCTDhxSjhMZzFySHdjdnN2OGd1OUFfUlVKSTNDbXhsUVBVQS12bzVyZ1BXUVh0YlJ6b24xUDE4dktOMmNvVXBNbVBSTGhwNWlEVlRuMS16bFl2TGlTX2tmSFBaUk1ua3FZZjF2dy1RSWZvUnVXWF93ZHZjWHdQY1drLVI4ZkU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SQV9nY3lPSXVwMjV3czc3VzlUOWRkeU5Vd2lVNjZoRHRYQXNnWVVhb1RaYUUxM19rZk5qX1NzdHp2S21mUlVBeWNHcW9Za0ZOQ2d4bGVpVmRJUGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzVfUmNRUTR2R1E4TlE3aEZmb0dORW50NTBoRS1vN1hpWHdMZnh4LUxZSmdiT0hkbmlSREV5ZVN5WWpvNlk1VXh0SG1qUnpsQ0Z5X3JOSUdGV090dXoxeC1CN2RNM09oV2xwemNUNXQxbk9pYktDZUVKc19UdlQxVl9zSGY3Z0U4NXBsWFFtTmJuYm16bGkwa2lNU3NQaU02cHBzUGVMZ0gtTVdOVGfSAbMBQVVfeXFMT0xNZjJuNHhNclJCZU9GLXNDLURCdFBVOFdhem1GUDdYSUdBYVZSaW9LX3ZBXzd6MFFvdmtaWkpSVnpkRk1FbUFaTUNuSzhPTjE0YXNkeTRIX2tIdm1BWUlWTkt5R1ZiaVE5ZlBJVXZ2aGhiNmloNmNZaVhSRWctYjlqc3NLR3BKajBxSGgxd0xBZHY0MHJRRXphd3luVnNtcXIydUs1VXVCSHNHdkdicDJweGM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
