@@ -98938,5 +98938,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-yemen-saudi-arabia-houthis-donald-trump-deadly-attacks/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/frida-kahlo-chavela-vargas-love-story/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORXVqczFuaTRSbXVvdjdackQ2X2ZKTnFMNGp4R1pxaG54UG5BaHhFdmJpV25UdlVCVF96QldwQ3A5aVhKNHd2MFAzcHVGNHJySjlMQ1VnLVNMdzRyQkVrX2VoaXZwamhKM1Bfa1AxODJfaWgwQ0RhM3NYb1VFLXBiTHBWaHpGbDA2M0lXNENaemVzc1p1M2NtSEJIZktUaXUwOVJZQk9Tc1cxa3pORU1vR01wUkZ4elZBaVFKY2lqdXNrSjdQQWE4cWlfQWxkYkxxUGZZRVh2WjhVSmpnVllNMHNvekJiaWVhdFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVFVjVm9nS01KNFJ6T0lzSW1kTE5TdlJpLXk1RTg5YmVIREIxd3lUeTJuQUlSUmh3NFBVRUg3NnBTQzZtX3cyOUlPcEJHM0NXSzRxeDFORklXZEVvX2duUGwzQlFXWFFmUEpySlNQU2lrbjJ0S1BlVG9qNHl5NXdjdDRGWlV5V3ZuZjh6Nkh6cWhoT2Y5OE94RlBOREpHVVhjQ1lsZjQzQ0tyXzVRd19TRGRLM2l3eVN1LU5vTF93Nlh4UTFaRGdqOXdyTVQ4bHNpczNvXw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnBoc1FCU2pRNl90SndWUmJMVS1lbUJyWENCQzBLRkx3UTI0aGdfcm5PQU5jZzhnYVN4RlRIbl9Ga3E0Y0VVYjZVQ3Y3S2M0M1NtdVV1ZEs3czZqTW42LVlfazRJM1BkOUVHZmdjeWROZWJDdEQxSE9OMEh1ZlFRQkpsR1I1Nk1tRWVGSmxrUnBnMnV5NnZienRMblFKRnZzeFNmVkN1RXhwNXlJTFN3U0tQSmhCOUZQUUVrRm9BQdIBxAFBVV95cUxNQktqa1VQU01scFFBWFdPTjZ6UGhTVEQxZndlbmk0Zmhndnh0cG5fa1Vza3ZGejFjTEE1aXJvVGhTVVM4T2tXNEIwVGNsNWZKc0d5WUJpdHJ3emdoUXk3Ql9pSVpFdmVuMC1uQTg0UER5eUd3bmtqbzUyTDIzWlE2VVRnTEdtb0lwSXFSWGN5dFAyRzZST1VuRzJtM0pqUkMydGNLaWh4cU5Vd1dSOXNTcl9GOUpSNWoyR3VGTW9raVg5ajRX?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/07/volkswagens-top-stakeholders-call-for-immediate-steps-to-boost-competitiveness": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQXpPLWtLc1FneGprRWw2aFBDd011VmF0UXVHMy0zbjVGVm5CY0dkT0xqZ19mOE4zd2VEenMwbE0zUnhIV3ZRdDB4SWtNX3F4bTAyWFhENGZ0MXUyRDZJV09fUER1UlN0Q3NCS050X3MxblJONHlsMkZWMkVnRjNnRWpNM0RZTGtqOTgtdDZfVmdBcElXQzFYekE5d3RGOWRGRHh6eWI1dHNGZ2IyU1pZSU5SS2Rydw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
