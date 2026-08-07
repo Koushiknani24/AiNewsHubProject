@@ -99100,5 +99100,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/local-news/youtuber-expose-lax-people-mover-1236664062/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-says-congress-wants-to-regulate-ai-industry-out-of-business": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-07/fitch-sees-chile-budget-as-key-to-halting-rising-debt-burden": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPREVEdHVSOVVYMUxBU3JhSnlZMWtCbzBaVlRyMWxwTGVmTnlFQ3NSc3JwdHV3ZlBpalRUa0VpM3NJRURGM3BMMDlpQlN0Y2JyMWxqWlJ4cUxPTTJHVXBxNWptTzhjd0tjUDB2WTU3ejJUV0plRlhfUzhISVVzZkZFVXNtcG9VUFpUc1dMOS1nMEdrNEpWUEM5dlRxY1dRZVdTTkFNeA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/my-life-with-the-walter-boys-season-three-romance-1236663388/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/us-judge-allows-deportation-protections-to-end-for-south-sudanese": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/medical-student-dies-3-days-after-being-run-over-by-2-youths/article71318452.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRWRKWnlsTWJXbm9GamY4SWNTcV92RlpEZ3VSWWlOZVRET1ZfU0J0ZkFsV1BFNVFYVG1VY1dJcmYwQlJtOWctVnZsbzAyeEZpM1JheTFNZVJ1SHpTTmJpMDVldnQ5cnJWaDFoLXlGQkNYbGlaNzF1QjE2T1NUSTRpb2pLUFl6RTJuM0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/italy-rejects-spain-border-control-ultimatum-ceuta-migrants/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-07/eu-accelerates-sovereign-satellite-plans-citing-defense-needs": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkVwQ2I2WDlkcHRGM01CSDBTSFEwNm1oMzhvV1Nsa0kxZ290V0pBX243OXNlRmdYTFM4cElla2hJVHJMZjFpZmFrclYwSF96R3BORVdkT2lBNk03ZEZia2s3UnhYb2Q0VEdnUjBRWUJaczNFMzNKLUVOdW03REk4QzZLZWhGTTFPeVVsV1piTEdueEFvbW4xSGIxUXVvMFlsdW5nM2sydWNqSS1kVEFMOTZwVdIBuAFBVV95cUxNOU5wbU1UdTNoRVhLcFJ6ckEtRUxFWXFvYkRLUml3V1Zad1lHNnFfX1NtbVloRlhlcDlORmRZYnltdzRYRmg3TVpTMF9lSzRFLUlRNW10UHYwQWtjdzVyYUVrR3pxMUItbDUxLVUtaDRreGUwYmJWam0yWUV5eVQ0RzNIRWRvakRzYkY1NVd5Y3lDbFpqTEpjdjNSNm96dDJXaldKSjRwVENfclFNT2xYWFRDYW0tS1NW?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOak5MM0FZa09kbGRveVdERTdSdUFKaE14alpqVjItY25rSFo4ZmdUNXJpRjlGWUNLS0dPTEt2WXIzcXN0amM5QnZFSFgxSHNWREdlVUhqSVRrdTRLanBPcWk5dmhOY09wY2NEZzB2NGFvdjZJLWFlUUhfNUFxeUItZXdCcWc0MFAxckNiS1AtdWd6dXVrdG9SSWRjNzVEcGFNQnRaMnVlenZLTHlGU0cydW16Sy1kWjJjcTM0MVkyblJqN3d6SlN4N3lBZU12aHhHUDJB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
