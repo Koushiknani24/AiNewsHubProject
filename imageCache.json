@@ -101494,5 +101494,29 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/four-killed-in-helicopter-crash-in-rio-de-janeiro": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2FUWW1ENTMzME5tUE5UdE5TMHAxYmJUSHd3eGJHSnJQV2JHU25jOHIwcThEcTVaX2FGWGJqUzh3dklwVk1mZ2plX3V1X3RJTjlyd0VZWFItdW55aUhjMjdtTk9hUXRteC1GRzdlTDR6VnRMbFZjLUhfR1RWQ3Jsa2lOLWt1WkJvMUc5cEVJdHFHQll4S2NrWXRQUGY0dFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRlJZOWJsSnhZZVFyWkh0UWZPa3lWTWxNWVZ4NGJPb0ZpejBmcXlHUTVUV1hBZ0tkN21tWDc5bjJtRUZYd3RzQktLcW5YenFwOEd1TkZ1RXVRcVRhLUZxRFpBNHYzMHRmU2RhODM1cWdJbVRGUV9ZbHhYZnVNOGZWUUl4NExwUWxKeEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
