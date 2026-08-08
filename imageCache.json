@@ -101416,5 +101416,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/kosovo-pm-kurti-egged-in-parliament-amid-political-crisis/a-78291171?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/races/cellini-rivayat-and-family-man-impress/article71318134.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-tutor/mnd-tutor-guanajuato/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/monica-barbaro-openai-artificial-timothee-chalamet-ballet-1236669431/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbV9UZlBzM0ZJQi1leWxyWUVUcnFCUVd4MFpMRE93TEUta1V4Vjkwb0F5dVBCRmpMLUI1VHphV2RpUWRzUW91TDFuYjJpbm8ta3RndDNWNFh1WkRWTEpaSktGc3FXbktMTUFtUHFDN3hLTDBJRGMzcUMzZE5SdV9TcTJLdlZUYWJQNUw2aGJBY1R1QmlHVFZzUDRfT2RlVTNN0gGmAUFVX3lxTE1RX0I2UHd0aGRLOHZUVzlOSktrRkRudXBCaF9iS0pzUHkyaFVVUlRtOTRaeTNNcXRPSXV0c24wWFhhWkFtdzJrYTZzQXBZa1RjdEZ3Q3Y4U3NxSWZESXlYdXFWWlZCWklaZlQxeHZLc1VhbnA4TUxLNU5Bb3NGZk1tWjZBMHNRamp4NEw4OWprVHNFQlhSbUJTYjZSUnRlSnY5SmYxakE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFhOTDlJSmZsMHNqNHNWNHRZbWVpSUp3aXppQ3Y3OG55Z2JkT1pSXzF2aVQ0YUJNX0JqSkhCODNSdGxOVTUwX3R1NEhscUtKWTc0YlpNTldvZzd0M2hXRU43N1hsNTBXeTRoNlhxNXJwT1JjSHA1UG9yX2J5MDZCZjJHR1lhcjVUS19OUEtva2thRzBRQWhLRXNacXJ3LTZkV3A3NF9Hc0YzdHczelpyeENubw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAJBVV95cUxNR1UzeXZ4am1VaWxzcEJOUDh3dHFZLWg0MjhzcDB3LWVmY0Y1VTF5RGpmaHI0emZtc1VlSC14enhrLXFGTDI4VHBzVFdLdXljZWVESU9nRWJKZlRQZTc4b19WQmlMWURTU3Z6M0I3a0pseUl0ZXd6b25XWG90QXNIZ3V4bHpJTnQzYmVzWlZfdTY4elFMeGhENmdnVlpnMDktdFdaWjRZaWh3a2VvR2lRX0pOTDlpSWV5NlhvSXFadERXY0dqcUZHYmVkOHRobldNdzUtODZXMTRWbXlWYklhZFRQcVRWb2ZmT25USU1DTTYyVlZkUTZIZjFjMGo5ZGs0TkZJckNOQlhaR0NROHctUFlSeDV5UUhaSXF0blM2WEg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU3ZpQnA1T0RDeW94RjI5QWpSRnd3X1kyZUdzZW9FM08wNzdzSW1jUEpsa3dFNU9zOF9pMUozSWg5aEZLRmZTQTI5STd6azdxa0hYa0hralg0YnZZY3JwcnlUUk0ycnctb2dIQTBhNHY5TmhWUFBvUFY1cEg4TmJpZDRObXExaDhRVTFONkx5MTFXbjJXTHBncC0xY29SRzFtM2k2RlFtN0g0dGZVdDBwODZTcWJJR1h3a2lRNElrV3NGYTNfWUV0ZnpwZFdzaTBnRU91bGpnNlJDZ9IB3wFBVV95cUxPaXhaMVNCZE1YbEZYNm9vQnl2OWhtZWd1anZ3ekpGamRhQXBlSUswS180eTU3U0hVZGM5cWFJcHB1NjJzX2VmRTc4UkFjeU5HT1hvdl9feVlNZUJqSUt1dHZJeHozS1pSbnMwYjFlUWVya3JodjRqQjA1M0FuQ0hfLUU3bk95UlphdHNVRW5vNVRvTkNqRXV2U0UxRmxoVTBzSnJPSmpaZDhxbjhTbVpYSzF4VnU1OXh6OUJiUV9QUVVvc3dsOXRUUXI4WE1QQy1FSm9PaHQ4U0lXaHdSSzRF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lObzdXM1kzcWJ4SVJLODE4YzA0MXd6RlEwTVh2MDl6R2NVSjBPd2tIbHI0TDFRSzNIbFk0VFNzY1hGMGRHOVhTN2ZoQmdtc0lsTW5YYUkzbUluN0Y0dGRQVVF2N1doNkZjTHJWbHlFVjc1QlYtVkNxNDR5eUxMd2k3dl9panBxUHk4M3VSaHdCcUVxcE80VmhicHBJTENfSndYZzNRckdWbjBoQ0ZabQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ieE9INzZYdU80R19NN244bXF4MVBzd3czdk14UmJhMm14dlh4MWtXWmduSnhDODBFWUpFdzBWcDAzTHczOEhLeVljX01KdEFicjhobHA1Mi0yYTlP?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/races/stud-poker-and-bulletproof-impress/article71318107.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
