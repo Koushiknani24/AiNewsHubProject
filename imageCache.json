@@ -101518,5 +101518,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/lifestyle/shopping/most-popular-nordstrom-anniversary-sale-items-2026-top-deals-1236669337/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMndJdTc1c3pJMVA1ZDYxb21vM3JRY3Y4REF1d3RubW9iUV9VZVFtUFhmOURCTkQyQVdfQUFjRWhUWFBIT0xXemJjZzkxOXg1NHF3aVAyWDJQMVdVSFZ3RXpTdXZtZGJ0aUxIVUhjOXVxUTd6dVVrZF9lakV6TFRQdjZNQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWQ1NDVFVFpoYnJPUzFFTkJsN3JTaHVndU9hNi1keUFPazJvZThkLVlQMEhxdmZQZGpaV0hWMk94ZklDZjlqTWZRTEhRYmJyX2FibE9DSFNoVzVJdklmcGc1ejhvUWpjd0NtVGVsb1dwaWVQQTQ5dm1fR2I4aG1SV1lhMjMzcnVqVjdLX3A2VU52dG14enNkakZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzVLT19VRXdmY1Fzb2tFMDFZTHZJdWVPdW9VdU1ELXItTWxFM2paYzhzRWVWUmlrcVBTX3JLcVU2Rms3TFZEWWNEUWc1OXZTVHo2Sl9wMFo1T1pac2twU3d6SnhyOFpRd0U1UVkwcWt0NkkxLWxyc3JZTmxseUcybmRneVBiLUYwSk1KcWJSSHctRmplN1hHU0F3TWZjb2Q0bHEzRG1BanBSZG9MOXJqb0JKN1R5R21KOFJRVmg3dXdzUlU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
