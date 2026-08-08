@@ -100534,5 +100534,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/premier-league-champions-arsenal-land-newcastles-guimaraes-6307526": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVkg5a2VIazZBdk1kRDJaNHZ0TjlFUXVVdkhZNGNJd1EwU2dKZzVlMEI4c3RjaHFhUDhTdFBfeERsa2IweTFzNm9fM0paS19oTjJTTy1LRVVqcHMyQ3pHUUQ5czdWQXg5SGMyazlxamFQanpkaklHdng4WVd0eGJUby1BRzF1R1kydWN5T1JkMV9IUmNjTFFIaU9EMUpIQm9ndDI1UWVOT3Jsb0lYUW1R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVRFa19Qd2lnWmdjR1RfTUdUYVlaeVZpNHFpbUE4XzJTV3k1eXhjVkpuUVY0NnpzejNyN29GVUQ1aUJ6SEFtcnRMLVZYZFE3akJSaEc4YXhBcV9VUVJPOEU0b25mSk00UFpJN1dUNTYwLWJYVVlSMDVHOU96V3VtZExVczhiUmlzRlI1akE2MjlYb013VU00NG1tNmFXdzRHcGxrbWdmNGExT0HSAbABQVVfeXFMTWZCVFdLM1p4R2k1U0lqTlhHaF9qUlFqVmdTT3JwLXk4a05PY2U3Nkk1NWctMWlKSFBudWNjVC0xenFlTnB2TWFkUWtFeHZQRTByRjFJMThvc2VnRGZ4NFl2clBUVW5sSzVlVHhoNUFyZnk5dElIR0lJR1ZxUU5IaW5ZelRONFJ4cGlfTTBfVTR1ODRLS040aUNRb0U0WEJfR0pDZ1RuSkt6MjVqNXlQR20?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdWJUTjNDanQwYTJWTy1NU0FscVJHRklLOFhkbkxkWk5BU2RqYVEzMXVHbkxDdGRmb0ZOR1Y2Sjg0X05zT29FTEM4T0xxdVpQQTc1RzNLYTEtRGNXVzJuMVpIQzhpRHRNR3M4NzljVzJieGtWSnZrNk15U05TcmZNWkFsbzNUbDJIbE1WakhsYlFTRFcyUjJnbFV6MW05cDBQTWdFeUV0d2FFTDZ5QVdmZlBVUDVPZ0dkbXNlaFR3bw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
