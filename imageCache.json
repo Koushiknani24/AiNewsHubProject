@@ -100966,5 +100966,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xS2ZsRmhfak9FVEczZHdPVVdWMG9YOThzTUlxUzdhNHlTUWpQTU01NnBodzhnd1N3QTIyVXdoQWxxQ1ZLamM4cE5FcTVSQzc3ZzBHRWdn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-second-weekend-1236669418/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjFnYkc0Q0V3TXdmZGdBdjhpNkZmdkJZVVZfNWR3c2FEQ21JUEUwalZ4Qk9WVWxyMVRzTFhBLVlxeU56SC1Wbkg4MkRPTktJNU1sUnVkR0xLTmFaRnpNbW55Zk9ka21FWHBMQXBGSEo0Q1dtLXlkQ3hsejFLbmtVVFNUZVJBeGo0TzlJMC1NQ04yc2tXLUV5YnZwWDhhY3VQNFBWWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/paris-orders-e-scooter-users-to-wear-helmets-reflective-gear": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-says-it-struck-vessels-and-military-facilities-supporting-ukraine-in-odesa-mykolaiv": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaVBQRXV5emM3UUFsN05GcXhNWEliUzJkQXcxblNBRE1KaVcxWVBpYjFrNmI4X01LYW1ZaDFhZGc4V2pPYXJNY05iOGVqa3dveHJ6ZTBFMXN6RXRzN0dIRDl2TzNWWU4wWWZHeTdUOU5oRjVJWExMNGdRemVaLVpBMjQ4dmhJQjd4YW42bmlUMnI5UTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
