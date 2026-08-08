@@ -101224,5 +101224,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-intelligence/the-mnd-news-quiz-of-the-week-august-8th/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYnNzNF9ZbGdhcFZDbEZVQk54YzB5Y0V6TGQyQzNCank0a2YtZThiYllJZXJVdXFaQ0JiRlIwazFuNnNManBmaDF1WXBidVhHTTRDUmFaN2lmMHBkcXNoTjlvSm44SzZQRWJJRjJUZF9xeFNqb2o5TXp0VkRMazYyeWlDZkhadU04RVpMR3dhbDE2aEdYQm9DRjA1eXhrTXM5cnc5Mk9rOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/inside-summer-house-scandal-1236668939/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRERsVlZyNkdpYVp2TTBDclZOcGtMbjlMWk5mc0k0RTJ2alF4NmplNUJNYWRmMUZ0X1JiSGQta0ZRR09wcXYzdWZqU3VpR2wxdmRDdDZSQ1NpTENfVkFlTFNPOEZLR0Z4emVLSlVieHFrZU5FNXNRMnE4R18wZlprTDZoa0ptSUJ5bWNRenVIQmJpWmRBaHNKTDExMmFqYm4ySGNwTlc3N2N1UVFUYnJxS1B3Y3o5TWtyVDZWd3F3X2hZWnR0aTl2TjF4RUYwYVgxWVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPamJEZ3A3MGVwQ2dZSXhJeVE5WGFFeThPR2hHeVRFdjBzUVJ5RkpFRGp1amNNckpyM1NQSnkyUkE2U3ZLZmxVQk9NUTRlZXNnMk80NW1hRC10bU50UnUzUl83YndJcENQcHBKN2djQkFlR1NvSkJuZURKUnpGZjlzV3Z0cFd3ay01VWw4QXBNSmFYLVVzb1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
