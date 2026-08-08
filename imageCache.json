@@ -101308,5 +101308,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/barack-obama-tan-suit-controversy-larry-david-hbo-show-1235605946/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/rajasthan/congress-rebel-leader-naresh-meena-surrenders-in-tonk-after-bail-cancellation/article71313872.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/us-senate-advances-landmark-crypto-bill-heading-august-recess-6307856": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608080079.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/katie-maloney-house-of-stassi-tv-return-affair-ariana-madix-1236669348/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/global-trends/cra-benefit-payments-august-2026-four-major-payments-are-coming-this-month-and-here-are-the-exact-dates-canadians-need-to-know-including-when-families-can-expect-their-money/articleshow/133058231.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaC1WQlBSVXVzUThseXpXMFU3ZDNRYnZvcUdNVzJUSHhGbHRULWNhNnR4WEtQa3Z2Mk52VDhCeEhWNEdXMWtWT203cjc1NXdsY3pDdUxfcXotR2JpRFBVZmF4ODVfY09rU2J2Wi1kQlF5N3AxUEtqdGNKbnU5V3ZUM3VFVlBET2hxOGlYSHE4RFFEUUowVHB3OEJzcl9XaUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEJMUHVzdDQtcHZadGNGN1JEam10LTFXT1hrSnNJTm41XzlwXzM1WmVxWkdrXzVBTzRELWVVdHFwODU5NnlVQXNlS1o2bnJvMkhaOVkyNUhGUzlOeGE5TDA4YmN1WndzdUtBeldVZzdfOFhReEFtREFocGRvR1VXR1BaRmNpQWlyeXFMdl9R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
