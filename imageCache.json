@@ -99874,5 +99874,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/west-asia-war-us-iran-deal-strait-of-hormuz-yemen-houthis-saudi-arabia-live-updates-august-8-2026/article71320445.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-08/union-workers-strike-at-bhp-s-port-hedland-iron-ore-export-hub": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/machthaber-recep-tayyip-erdogan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUJ1dVp3VWxQTkJhbnNLbkZ5VXl5NzVRaUl0cFFPRmwyYVNXVHE5TzN4S1hBVzNrcXAzeWxaUVktQXZ6WUtKbGNKOVdxVW5tVTdoWEVGN1d0MjBTc0lXbG1MS19JX2FucmJlZnhWdDRBSWJWb05KdzdWX2toX3RzYmZTa09yODMyOER3ZG5WNzI5Ulp0NTIyNWpPQkcybmNTY2hQZUp6NjU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkN5YlBOZldzeDdTRlZhRkt6bWMzeTU4Q3ltYU5mY0ZuMHd2ZkJMazVESEhvUTNrUmdWQUJtUlc1SGNrdEk0WHB0LVZSdUZtSmJsYVU0ZmVrdHV3RmhaM3U4dDVpVS0wdUp2RkVPQ1VqMFZENWt1MllzcFNGcmJ4R2NrcThyQUFIRmYycmtfVGVXMXdmaFptcHJnZ0lJTkpBd1BXMg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRS1zNHlLZzVhX3RvaDJFQUVaT2I5S3ZzZGZZRUhqT2ZPSUJCNmdiVHVDVV9kQndJUllmTmdURTAzanFCMG1Kc0Z6YWVqNmJzcEdHX3lLZ09CQ2tIRXFGLXJpRWVMaFZfNXZSY0hOVEprWUdpLVZBYUdySTJnUDQ5THJrNFJGNmo0UTkxdl9qX2tuRWdHanpHWTJJOXVVUzE2VkFIc1pRemFNUUlkRlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSTh3WV85ZndFajc1dHNURDRZaldfX01sU3JDUVU1MVNoTUhGNWpDSzhjZFdtS05NNHlHUDdhRUN5QzJtUUJpcGNLaHlicEVycnNqN0o1VmlnZzBGampJa1hCbGN1dUc1WXkwallVRkVnTE50aUM2YkladGk2cDJ5aHRDTmFKek5NOVFNYnRNd1pORk9lN3RMZk1GRDA2cV81LWlReTExNHRScEpxWnI5dThRb210Sks5QzdrTUdqZWt5Mk9XMTNGRDhCYlczZFF5R0t3QkdwZXJHb0liZ2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXlQS21xU1o2MkFQeEVneGlzYVNIZ1VBNnVzcTRHa3JhbzlHWHBNWUZSRGRxUHhMT2RsSmJCVlFteWlSakhWZGJTN2pMQmRXcXhuemoyRElleDlBUXRUZ2xLRUVuY2ZFV0laMDlsTzBucndfa3ZhNjJ3RzlSYkEzaW9jUW9BUG9BanBrVEFMSGQwZWhlTXdVaksyNkhCSUk1alE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNek5pV2xackFjUjRmVDREbnhLMnp1TnMtVVZ2Z05vaDlzc3VKSTN0N1dpWGF6Z1BfUjNKQTN1dEZUSTZLWUd1cWRFeEFOd1d1Q1FVMGpJLTZwOUdTdkN1VkpLSTc3dUllSmVCSVp1ZmhPM0tiXzZVNVNYd3RQQ3JBUUtydzV3WTh4ZHA5MlBlZzBvdk1pMlZ1OXBWamZCUC1lbVlBWnVsM2N1ZTNia2lIQndPdzZ1bHQtSjZNOG9ubzdTamVSSHZCWXBaZEdldjdlZ3I1U1JDM29HS2JZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRkdWS0M3SEwzT1FqNlR5WE9GQjlxendOSDIyWnJBR0V0cEYxdEJtdFBNbEMtSUNidWdmODIzU1lPUVZMczdTb1BlU2tpbDRWU0hMNDBZVlJEak9ibng4ZmVVcXc4TkJlYXdPelhFOTZHeHFNU3I4aFR4LXBxVkZ5MFJqeFV3bk9feGdnT2dHdjc1NDExc2hvQl9RdjlfR2plWjdHMGlULVFsUdIBrwFBVV95cUxPcER3eWdzd19lNXFrYi01TnJpNzhlOHRJVGlrZk1MYzl6Q3N0SHpTd25scDl5ZjZxUUdxVlJSRXExbmlvMmY3QkJzNWpfMDhzbVdyLVMyYVRBWTlKSXdWM05zM2dEeUVrcGg5SEFyRGZnaEhfbG5fUnJ1RExhYnFwbUNvR0V2Rll0MVhDZTgxNzBKQVpRMlJ2TTg0S1BEZy1FSzZNV283RXNtUTRaczhR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-08/canada-s-psp-is-said-to-mull-1-5-billion-sale-of-roads-in-india": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
