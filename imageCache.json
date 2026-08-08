@@ -100816,5 +100816,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/nancy-guthrie-kidnapping-can-savannah-sue-pima-county-1236664152/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/fire-in-banjara-hills-commercial-building-triggers-six-hour-operation-11-rescued/article71321388.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/british-columbia-district-declares-state-of-emergency-issues-evacuation-orders-as-wildfire-rages": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ck9KTWw4M2FDLUhYMmY3ODl3aWd0cU5TblhvenNwNTgzX0JZb0JQRHpTcWZBWTVRSjh4STJyQ1RrUWpsSlpNZTlEQV8tc2pkNm9uUXVB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTRFVS1ZZXRCaXQzNENqZUNDb1BUN21EcVdaZXYyQlBEaHg4cmlQSDBzejdYZ0dLbGU5TFh3SnlucUNRWmZPU0ZESWVLNGZmN21WeHVSUDVfeGFCOXVPa2hTQk9QX1RSeGV1clEwRmZBX2d1UlFreExYeXJsYXJlMUw3blRJY1NyTnFTX2RhZmRtVWFVaktIM0lZbk16NWVaS3pNcFU3T3ZzM20yZFhiUzFQaFJWdmxyOUHSAboBQVVfeXFMTUU0RVUtWWV0Qml0MzRDamVDQ29QVDdtRHFXWmV2MkJQRGh4OHJpUEgwc3o3WGdHS2xlOUxYd0p5bnFDUVpmT1NGREllSzRmZjdtVnh1UlA1X3hhQjl1T2toU0JPUF9UUnhldXJRMEZmQV9ndVJRa3hMWHlybGFyZTFMN25USWNTck5xU19kYWZkbVVhVWpLSDNJWW5NejVlWkt6TXBVN092czNtMmRYYlMxUGhSVnZscjlB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLU16QnQ4OHQ5aVJhN0F1S0ZpNXVQRGZjTEZKRWFQb1VrSmQ5QlNyRUJIbjZqZ0tiRkVJdjNFSXE2R3dncFBiODI4ODBTN19hcXZpU3E4dldzTlNsOHZtVEpjVHFuTXVRMW1hcmxlLWI5X3ZHeXdud2dfUHlVNU1ZRGxDajI5TDlzVkwySHZuNlQtR1ZwRWZnVjNaVEMxVVNDSFc1bGNlYXBJM0Vf0gGyAUFVX3lxTE9PZS1oSmgtVUlvQ056emlKeHlfamVXVnNVYzBnd2lDbUNTcnRtQkRvbDBMX3A3ZkNWV2trQmRJWmhBUFU2Q1lLY0RiY0ltT1J6ZDkxNkpoRHQ1SmRJbkJpeUlGQ3dTZjdIdWFnZUVvNi1oMUpfRG41QUMzVUNvZEZuWTZ6V0FuTm55WXM3MXVWWDBSYzRKNGlaU3ZhWmY1SXBWaDZfXzZ5aEF1aHhaYVpWZkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQck9QemNBcE5UWmxfRlZ2SWMxX2xjSi0yOVFGSmJWYVFMZDFOc2pzWkM5S3lZQmpVeU5qNXpxUGlIdURNY1FObWtaWTlXWlh2YW50Z3ZiUV81dnpldldGVWFBSDVpVE5qRExlMjNrc3RmMlZKTGZzQmtrTzJiWVJaZ3dZeURoejBtOVVpOGRLNWtNYUhCNUxKeFkyak5OSjMxVXRhTjBpVXdHVTBLOE5EelFEY0JiZ2swV0RlZ3Y0YnBBczA1NDVqOWQ0TdIB0AFBVV95cUxNRlhRZjVzTXJGM2k3TjVFNEZfMVZzQjY3UFNSYnVGN1hfRWw5Y1haeEhtTjBBYXY2YndHeVBaRjF4aGZmR0tuYWFEUF84OEFuQ1hMb1VVMHI3UnB6SGx3U1M1bllCM1Z4WDNRdUlUSkRhSkxFXzc1d3plbFpSa1VtUlotYkV6N3R6SjhrOWs3dTFzRndKM0tILUVIRlNCWEhka2paS3FLVGZwOHljNGRSM2VERk9NQURTcUZIMXNsanBFNG5jVEJfbnlBWG05RTdo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-08/us-munitions-strain-complicates-iran-strategy-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTN2TzExQy1CNlpWZ3M2UGNvUlo2WllDOXdZc1dBcTdfSzRyOWY1SC1zbEdNZUlneTNmdnVhZFpHdkpoNGloY0tMTjAtOHAxOUlLNlhtR3RTMFUzZVlpSzNoam9rWGw0dm9faUQ2LWxkcm5BXzcySzNDbHZ2dmg5SElKRW5CRERJUWpOamtPWFFabEtBUlExcmVyTTV5VFAtdWZsMGVlYUloc3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/politics/political-commentary/trump-hegseth-bros-iran-war-1235605732/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1M4OHVHT1hDY3NLMzVtdi1pWGk0cXAwVS1ZdDNvREdmUHFQMS1XNmJwT1dmUWVOa0VFUmJ5QThlYUIxY3N0S1B2UlFtTTZEMm85SzZEZWdlaUNMRldxTWRpcm5HVFRJY0Y5R1hZVEFla0p1VEFoM0Z2WFZNS3VMdHFXMHYyNld6b2pXMXFad19tNVNKNWxkNTJrSHNUWWdja1o3ejRfUERydnM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
