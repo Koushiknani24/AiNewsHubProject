@@ -101266,5 +101266,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelBGTGxPR3NET1lCbk9abm9fMzBjV3J0UmtUQl8zZ1JsNm96WWQ5X21sS1djVmstVmtqR3ZIZ2NXZ2ptemNORWl3dnJJeWdQdFJ6N3R0Z2NzaWx1dkhkVEpaTmwta01ycWpSa29iVnVxT0ZDclJtRWNpM3BBQkpNdl8yWnNYVjFfaEZJakktQW8zTnJ5aFlJQUdERy1vMTJzcDZQaWluVdIBrAFBVV95cUxPaFoxVUgyVkJyTVZkcWtFcGQxV1pCb01zM3N5a0Q4d093cjNyM21lUVJKQnRPbzdGbDNmaVlucjI2aEtPNU9MWFFxMU9CZDBSLTlyNzhCNE1kdkhYMUNoajYtMEdoMUJsUGlPcms2UVRpenJpSEdjRmxHSG9QOFJQWXN5YV91MGJROUN2eHFLSlZQM2RSaGhzMlVmby01bmk3dzdxU3ZzOHAxOWVC?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://Allafrica.com/stories/202608080079.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/music-features/hamish-hamilton-super-bowl-halftime-show-bad-bunny-1236668911/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/sports/hockey/we-want-to-win-asian-games-and-stand-on-world-cup-podium-india-mens-hockey-coach-craig-fulton/articleshow/133057990.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://Allafrica.com/stories/202608080045.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
