@@ -100894,5 +100894,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.sciencedaily.com/releases/2026/08/260807035145.htm": {
+        "image": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/taylor-swift-removes-august-team-trump-tiktok-video-1235605878/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/saudi-arabia-pakistan-and-turkey-sign-defense-pact-as-iran-repeats-that-hormuz-deal-is-close/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/rain-in-eight-days-nears-monthly-average-in-delhi-after-wettest-august-day-in-two-years/articleshow/133054603.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/veracruz-coffee-culture-shops/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-08/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2JCbzAwbm5RQmpyT2szbjdIYWhYcHFQNmNBUGNWbGtPRU5pTGVEeDFTQ3ZSX2NJQ1NuVDBDOXB1eGFrRlN6VnJtNXVMMXBCQXViSXdHRVlEX0RsZUxxN3NSNGQ3V3c4T1Y2aTlNUE9ZX0tsN1dZVkZ5WVpGZG5uQy0zUF9mdGVlV0NVTlVpMGVianlnd3lBRmVybngwekZJS0RuNWJxR24ycXZkM3Uzdm5aWdIBuAFBVV95cUxNWXcyZHNvdzNuclU5am94VzM2VkJaazMtX2JIQl9LWGJaOHZGckZaSzM2ZWN1Y0lYQk1VdVZJUWNfb3RiTUV0QnFGMUpKcWdQZlJ5cThXWDV4T1ZMSWRKXzlBdWp6WDZ2bUp3NXdiRllqUERUUGpfY2hFM1JXeTlEUGtXWFZzeWNZbmRlY2J5ZzEwalhUYUxFa2Q1RHdVVXZqblVnUDZYTFE2Ni1Tb3RoQW9KdmMzc0M5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSW1lTk9LMzNTMWhseU5EeERMRDZTTWNGWWxaWkdlLVAtaVBuTlh3RHNQaWx4dUhwQ0NHbGFyWkpqNElGQjJ5MVRNTGxJZnB2dGdXOUFmaEJuWTJ2em9DdUlOb1dsbEYxOU1md0liV3pSMnBTbnh6blotYVFKb0tzWldaRVVHb0R1dDYtdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
