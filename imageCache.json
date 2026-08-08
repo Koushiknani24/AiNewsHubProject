@@ -101020,5 +101020,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/olivia-wilde-wanted-the-invite-cinema-run-streaming-bribe-1236669287/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/08/latest-news-bulletin-august-8th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZm5BdHByMHFNOFFMcU0tNWtmZm5ZR1UyNDREWG5wTUdxVFpYdHhCMkJfNTVSeVVjYjd2d2ZwZTRfeU43Z1Q4SWZ0WWxwY3Zrd09lbnFrTXFxbUxtQ3g3R1ZadDl5ZnBIck5RM3hfd2xzOGV3WGlFUmE0V3MxRlplb21ybG9iREZmcnAyRk5kcjRUajBEZV9RaU1MRTNDRTk1ajNQc3ZZd1VPSDlpX2o1Y3BRY3NKUGt0STdSVUNDMGlqa3c3WjZTRVZEY0dvZWJlRDVN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/spain-starts-border-checks-on-italy-after-migrant-row": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/a-celebration-of-mexican-artist-arturo-garcia-bustos-100-years-after-his-birth/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWdxVEtfSnFjYV9zakh6bDkyQ0VaUFJEM1ZhUWxCWV84Q2tyVUgyRDRpZVdTbzNweDhtMHFBQVh4VHNFWng1b1paMTJjbzlkWjVNTkFZdjJPMEFUWDBjZ291Q0ZrNjNRWEhJcnVmTnBMekxKTXlMcUF5akV6alE3UFVQNUg3M2ZwQlRSZHVKcHNncnQxQWNoS2dpOU4xNndjaVJj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/8/lebanon-detains-former-al-assad-era-general-weighs-handing-him-to-syria?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0U2azRQbjhwWDVtZVM1ZEdGbkRBamg3czFBckNERGdnaTJWSTB3dEl0MTljRVpLaUFZTkVpN0xtVEFialVLb0NhUWw2ZGdTNEZnNEFlekFyY2pZaDF3TzBzNW11YklXcnoydFBwWHNDamYyZHZHeWNWOWhCb2JrMzBRMEt5SmU3WkN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
