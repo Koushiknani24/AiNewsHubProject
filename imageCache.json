@@ -101374,5 +101374,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/costa-rica-coffee-frog-pesticide-threats/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/turkey-urges-russia-ukraine-to-halt-black-sea-strikes": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeGtiaWRFY2Qzd2d6bWFmaXNiMHRtUS00YU9iZFVMWkNZY1JCalZDYkt3MFZ2aTFQd19CSkk1bV9zTTJBdE05bzQ5Tmk1YWVxVVgwUkJjeEQ2XzROdm92WDNzUDRKWEVBeFo2NVU0dHUzbkdzRG5ZZlQtazhyYVJTWFhybFVhMlctbm5GdS10ZjZlY3paQUFGODVlRzVuMXE0aXNPa3QwckZCdDVQZ2FjT0NKcFR0bDYwdEwxVU5sQkpzUWxSNWtn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFAybVA3dzRBU1hnc01FeGxSb0E3MjFhcjRteXBQUHZSVWJMRmF1QjNYM3ludGJFX1ZnVWkxYWlVdHhZY3c3ZmZOb0tadUMzMzJpZmV6QjZpc0ViS3pzbmdjMUg4YTZSdjA5bzE5akpn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjBrNGZWWU1Qdk03ZUVneWV1OF9NTFRaaGw3cTl0R3FMQWM4aDExWk5rS3JXOFV6QjRXRlJSUTNyQWFHWW1QdlFRQzFmcWh6dmdwZTdzUi1YQ2hNWkhiV19JTUlVaFplc1VmSEp2Sy14UXkzSUQ2ZzBGdUxkN2VKaHh1dnZBaDN4aG9HRWlySnNZNTVmTkV4cW1Ga3J2amJWMW9ZUUMxY9IBrAFBVV95cUxQSzQxajZrSnNSMjRlaTN4TnB4YndaMlFORnhFNmtSaVlhT0FWUnJjclg3SU5uX25scUFwN3k1YXF3Yk5qaVR2QWdORjg3eWM4ZlB5b1J1Uk5Hcm1rM3BjZWRtdndSbjhKWlhoeHJNMFo3WUltNkotNEdFNl81N1YzWmJvMWxkbnBOc1phNmRnLXlianRNOGhJdno3dXU3VFBkcDFwUUo4X0xnNV9m?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xUjFpc05HM1dWRFFxTzZRUmFhSklLcnBURmdMVlIxNEUyUGMxWnhZdmhZOHg4ZnZmR2ZFdk1EM1R0ZHk0UVFsVg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
