@@ -100462,5 +100462,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMURGdnBEZHJ1R19kaGpBVzdRR2JOZ1YyTFlfRk1fVldDejJEcG1iYUR4RHU2akhpazdsYXc3YU5EdW10RVVIMDdibC1CR1hCbkljWWZocG5BV1pjZXFRLW84WjlMMmtlUGk5emg3aTlsSV9zQjctMzBieDAzeFZPNWtnVnY0R3lqT01YR0dUNi1xZG5jWU9Hd0xoMXpHYnhMZU5TMkRjeXJkV2pULTJFNG1sdXBERFVGaFlUbk43US1LY1h0dndSUWRMWFhETWo1UGQwX2tn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/russia-attack-across-ukraine-kills-12-injures-over-80-overnight/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/drones-spotted-above-german-military-base-two-days-after-suspected-drone-attack": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUWhWUW1PVU05TnpLdThDWWhDZkNmcUdiUDlBbmRZcEJ1M2pWTVU3aTlqajBiSzJ1YjlzNUdYT080TURfajByOHhBSWZDT0Q4TzJaaGkycHI5cERhS3lyNEc5YkpicC1CWlFibTdnU2JGT2xtZ3A2ZjFzY2pwUllPbUhpWXd0OG56c2VsUkYtNHpJelFtSm81OWpsblcxR1I2VndaVW1ESVRQTnNsdWhRT09BZEtTV3Zfa2ROYjdwOEpnOVpUNF9uQjZkdjQ5UzgzZEV3MNIB2gFBVV95cUxQR1RheHF2b3A5NFFrZGh2QWNVR1NZT3BLaGJ3cllDblc4Y0JrWExsV09qSnFZd3NpMEhwd3Z3eHJxblRxSTctNnhjNTd1MWhWSXFOdDdTSVZwUC0ycVB2OXJMVFBZYzFDRGNiMmxYMTNUVHlsUHRBMmNYMGotbG5XM05qMjJOM0x3U1pwM2lEdXh0VW9DbW9xWGFWQ3VfTUdQWVZaM0s1anhtMkxjYWtPQl9ES2gweWttQTJGcjI2Vjd1bThvWU85MGxlYXlKVnMxaUlfekNiNmVxUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HclZ4bF9NLTVncHVwR3EwS1dLVGF2cFZodXB3aFhISjVobmRGc3lIN2VvV2ZYYVluU2ZJanBaM0w4Tk5pWkhTUmVXMzZEb3ZVZWU3eTVyMWh4Y2FqbVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX2hqWXRNMmVGbkpwYnhOVVYzcWVPTjlQc2xpS0p4dTMwV3k4LXR1Rkg4eG1fNTJJTkIxMkVIenpjbzJVTXdZUGRtbm55VDVYUFFoOFlWTXlXeVJtUl93anItTXNUMDVJWVR5VkhpZ2oxTXEzdThXUFc2Um5Xb1BhUlF5bFJRcWlYb2laZmtKVTViVnBaT2JaMExrMndVTnFvNzBsNTY4Y1V3c2pNMG5CNERkN3BwbHNlYVJ4VE5RTFhJSGhGdTFoZnF2OGJMb1dxelVyNTVIMkdTb1Ux?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/mount-etna-ash-suspends-arrivals-at-at-italys-catania-airport": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zRTZvYnZCaDIwdUtXLXRaVnQ3dk5hWGRVdW1sSUFNdXBzTk9SRlNBRUt4VU1FeXV1Z2VvSWd1T2NfZHdnTEg4ckQwRHFiSmlvcGdkeFlkeWVod2Nwby1tYlU1SjZhZHg3eVVjeFhNS2tROWNJalRZUXZtMnA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
