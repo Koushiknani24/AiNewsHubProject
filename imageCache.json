@@ -102826,5 +102826,29 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-features/documentary-spotlight-game-set-match-1236668913/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/letterboxd-responds-app-crash-users-signed-out-accounts-1236669756/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHJIQ1JLMkZjdHl3bWRsWlFvV0JHdWt2S2xvYU40dV90MDNpRHBqUWY1LS1uVGRKRnJsTko4TFhZOEJ3NHNlTzljSzQ4Mm9YN2JaQnA5R2dSak1sUDctRDd4T1dlUjZFMF9UelkyOFh1RllaMENfM2ZOcTg2bnlRZWszZ2JzeVRXLXYxVkxucHBFODlFU3BuSUFZei1LQndaY2RMZGl3ZFc5ZThCQVpvRUlVUk9idw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPenYtTGd2UlNiVFYzSkRkTUNsUWFUYVhzZGNOUm1LZzRzS2tJY1FGSURhY044eHBTWmxwbXVxNGo5YkhTTVBoOXlubURYNzJ2YmxPZndENVBROWNjYXgxMHFEdndsVGdub09jWTQ1TUlJLVd3dWNUZmk5cW15aDUxQW1tUFBiWXpaeDVraEMzM1NuRlpmUktqMTM0bV9lbkVQbUxMNDM2NVBEUEVXZ2NCU09qeGJkZ3djTV9FcS0wTE5kNl9tUzhOUnl3endSekpoUEUtRlhvdl9XdFU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
