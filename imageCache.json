@@ -102286,5 +102286,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/passage-of-ships-to-black-sea-continues-smoothly-turkish-officials-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israel-rejects-trumps-15-point-plan-for-gaza-pm-netanyahu-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVU1NERmSFZKVC1xQW5DNnlSOW9rZkxkX0QyR2dqVW5ZUWE4NkU4dTdkYnNLZmIxWkpqOUR6bGNJbFRlSEVacXVqTVQ2SmR3dUwxUzkyOEFYX3Zib25SSE1POGpVeDYxNHZlbUpKdWRIcUNPYW0yQXkxNmM2MGl1LUFmZjVBbWFVWENqdtIBkgFBVV95cUxQSzljRG01aUtFTjdDemp4OFM5T1lpbE5JOTJpSGxnX1RqWGFFQzlycDNWSEpsRTRPbkRWX2lxV2w2dXRsZl9OU3BJZDlKc2o5eDNWbTMyLVlMdmIxSl9RYzNQZGFra09DU2VmTFBlSTlhZnhCWURULUFzeGFyMFBrUXNGTHNKMkhkOVlkT2hHelVqQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/james-gray-actors-dictate-film-style-cinema-dream-locarno-1236669660/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHYwQWpKVXBnc0hVbDBOU2o1UTQ2R3ZMaXZuSGh0WXRfY21EM1MwVC1yLS0xc0VNM1U1bkpJaTJLSWpYMV9FNDlnQkY4VTBQbzl6V2tWaE12NlVoS3lld0VReVY5bVp5Uy1xT3htZkxJeTBkakd3UkVFejZsNWJROWVRUENyQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSG5BMDZpbzFXWHZ5YzdJTmhTZDJTSWFIOXk5c2tHc2VBcnNZNFJaLWFKbkNaLVJ3ZktBaDZpck1jYTN5MFQyQkFjTmpiRzhQX1BUdmpkSmhXYlg3VGZ3N19hT0FtWGpjX1hWRk1wSGVGR19hOEIzMmlucVppZmhXX0JxeXNHLVRwRXpIa1dBVDFkYXlPRE54WXhwQTBZS3FSVUVMMjg3aDBXanpKTkFITlk4TERnLXFjMG9JaC1jTmd6Tl81VDNOVEdqZ1ZEM1VGUWJFNkdoRjk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/nia-arrests-alleged-mastermind-in-illegal-explosives-case-from-keralas-manjeri/article71324648.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
