@@ -102898,5 +102898,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-names-new-head-of-top-national-security-body": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/entrepreneur-manav-sardana-buys-dlf-the-dahlias-penthouse-in-gurugram-for-record-rs-271-crore/articleshow/133074531.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/09/messi-says-farewell-to-his-father-in-hometown-rosario": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-says-us-low-keying-it-with-iran": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVWNpdUJma0oxTHlQV1QzQ2Nzbnlqb1NKT1F3amZWNlpILWVGRjZsbXNaZWZwbU1pQmtCeXpKSkNlZE1HM2FIdDZrbHJuanlrM21yZFhocDAzY3ZCYmtwLXhFS0ZaRnc0aG8zSjJqeE5NcUpLSmZTWGt0enhEUGV2VF8tRkpZMGo5ZmM3X21UNzFkMjZDSl9tX1Zsa3gtRFR3enAwZEhhQ1RldzVMYUV0MWRRZUFPcXZOZGFjemktWnpselQ4NDFnVlpfQk5wampCNTdqSVBXbElWdTZLTHRPenR4QXVEcVpOU1ROVExBM2VDT3Jha0x0TVpfc3dlZFJFa0ducS1jWEVvR25OWUQ3bVV0dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUW12djRSR21zc2FsakV1NW1UeEtaQllKVTJIQnZ1ZEtGMnJSbkZrek9SZmpkMEs3MGdDOWNrbk56bGlabmlMYjExb0tnQ3B2OHdmMHFhY1hkUFBjMnRIbWVrY0t6ZElLcUhPN2xSX19lcGdXMUNSYWNyeFpOeE5xRWpvQlh2RTFnTkRXMU5fUEt6Z2hUcW1ZTldvRGVSUEhLOVpyaUNMR2hrZExlYTBiaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2J0bUZTUDZmaGFyZHBza2I4RVlRR2pCenJQVV9NdVlxT3p6MG0zUkJOVll1WmJCZ29hQXc3WWEzaXZiQUJhUU1kV2o2MS1sSkFQelppdUtNQUk5X3hwT01rR1dEeGJkMzJZaXJOa3hOWGwxLW8tZzEwUElXM3FGbGVlNWRXR3M1eE9QUDlmaXI5a2sxcmdwMmJ5RTFsR1RaTHhBdXl6QjB1dlRaRXFMVkxQS2U0dGs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTNzQ0h6amljZGg1eWtkLXZZaENNLUxaa2lvQWRVdFNtX1N6bnBmYWFURy1JVmhONDdHdHBxOFIzclFXRk51ZjRwQ1c4dktkWUVFTnNpTUdQYVo1dmxpcGx6cXFUQl91VlVyNXdwaGVINVFwaTlOckh4RGFDNFJvcnpYQzNjem1ZM3hYUmtGbEZ3Z0dqdS01YXZ1TDJhdTZXVkxWcg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9memZjN1ZydEZxcHBYOHR5RUUzWC1pNXBDWkVjdkJOX1Y2V2F5bEpEQjJlMUozTGRreUVPUEczaXRuS0kzc0QwalU4S2ZyVVF0UlNQWXB3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
