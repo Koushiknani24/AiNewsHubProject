@@ -101674,5 +101674,23 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/cannons-in-adoor-mahalingeswara-temple-stand-guard-over-centuries-of-history/article71318046.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM091RllJSVZoT21XaGdvdHVrQVQzbU1NeEpveUZzQ0w2NW56WlpsR183MVYzWXVOeGFmLXEycVk2VEJxVXRFUF85V1p2YmYtTWRVenhsZXpBN01tYUZvdjgtei1nVkFaRDFGVk1iemdLMUk2Wjk0aUpiWk8xOWI5M1lOSTdCdWxieFFQUjZDQ1A2NllCQm5Nb1pVX25NS3V4Z3l4M1pHSUk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
