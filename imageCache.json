@@ -102040,5 +102040,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1c2YWpiU0N6ZTNodXIzR2lpYzdFcFh4MTdPZzBia0RFWWdCMWt5Wjg1djNWMGtKTC04dHFpdHVCcEdMSVhnbVhkZTBMd0xOOEFlR0tHd2xGV0F3UzFfZUpOUmVLMGVRUnlMLXhqamp3ckxrUm5YOTFud0dkdG0tWGNPd3lBc2FxZzlhdUJLZHNjdkQ4QUxYcm5GM1dnRlNQaGJqLVdxZ1NFZUw2WGI3M0R3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/spain-checks-200-italy-arrivals-in-border-controls-after-migration-row": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-09/romania-extends-reactor-output-by-nine-days-after-danube-blasts": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxONnFjQjNuZjdDUVdhNnFscHVTVi1RMTQtZkVuYUJVa2UxOWdoZU1paTZJTUE3cFZTWnpCMVFHZzNfWDU0NUlScVZvbDhjZDRKM0t1a05OWllIRm1nQW0xN21rMEtDWkc0QWw2b2lZVGQyaXhWWU1POWF4Ull3WDBxcVE1NGhQaWM3YldBUGxIYUVsSV9SOXJTY2hoNVJuQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQXNvdmZwSlhya0lyVF9BOW5weWVBQ2Q5TlhXLUNGMUJ5UXlNbUUyVkVDWHlZVWVhOERNQ25rV1M5TEs3QnB2NTVIT3hDbUtPSjNLMWx2UHVScFNmaDNjVFRzQnQ3anRRTkhtb1ZoWmNXemp5Skp5QTlIdFZoWXhtQ1JrWmhDQmpZZ1hIcklJdDhwc2NKLTlfVk5aM0p3TVJlektYamR0RWVBOUFyY2Juall1OU1LRmdrS0hyaVk2Y3FfTUVwb0VkNWdUY1NuZHhuS1Zsamd0eVlENnhVdHFmWHZyekMyc3BoS0NrRnpDck5vX1BCRmlnc3ZCTUdOUVdYeFBF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/three-killed-in-ukrainian-drone-attack-on-belgorod-russian-authorities-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/australia-jetstar-qatar-airways-planes-almost-collide-on-sydney-airport-tarmac/a-78293085?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWVEWE1GOWlDd0dvV1k5NVRTOGtJaXlpUUItcjYwYUJPRDByaEo1OHEwdFQzUU1pNFdQU0cxdk9JaE5fS2VKbDJ4WmI2MzF2VEp5Umc2QVYtdmd6WlZpUlhKWTVjd1VMUHhaQ2NyX2IydF9nUHpUZUNqNVFLb1lsaDIwRXdqQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDRyVjBzeURLWk9yNUJXWUdCTHp1LS1KZGxUWGxKWm14TThoTVduQ1o3NnAteFg2SExBY2V1ZUdXbzRCMUw2THdscGJ4dWdWOFdBVU5KLUF2eFQ0TlhWLUpENVYxbjJOaTVLZGtJMjBBZjVvVTNSZ3JoZDl2cTJacTkzZVdWX2RJaWtLVkN4a1JDSGEza1Nn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
