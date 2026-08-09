@@ -102172,5 +102172,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/roman-shipwreck-italy-sicily-ancient-jar-discovered/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-09/currency-defense-gets-makeover-as-emerging-asia-guards-reserves": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2psZVVzWDFLUWxaM0N2dTlwTXpyQUhLVXRUNzFMZ1hoWVpQQk1iUXlZQWNFRTJKeFRZSFdfOWZCU0VxenBzOExCUXJDZm9DM3FCMmpOYXc5Y1dkSHpPOUdUTDFYN09mc0d0NmV4ZEtDWEhuVDdMcjN3QWdpcmlXUy1KcGRXd1NuSmt6ZTNMX0hTanNQZF9DelRIMFQxUHJ3UUJEb3FhM3QzMFRrNnZ5ZW9n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/09/latest-news-bulletin-august-9th-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgNBVV95cUxOYTVEYnZEYzVzM1FVWG9iNWdHZXkyWjNxVFZSUDc5dWFWNXhNakNXY0VGVVJJVGNXbVJKNkFLXzNvbzlRRmdhVTMwY2RnVW5nZ3dzQ2tfb2pvSV9sbGNtRmlSWG5HYl9ZUnkweUF3ck9jNExzYTdQYUxvQk9neEFjRUZmcGpiSTJ4ZFAtb3RFT204WW96ZlpBSTJlZmVoVmVNdW9BbGgyMmUzSEtWd280NmNZSXZHMFpaOTdBc2t6UTBaQ1R5Rkt1dVNxc3JDbXljNUJpZ2xRMnJqdEF2MkpYbUZKUV9feG9TZVZIYTY0YlNBcDd2QXA5TjFnRWVsMWNPdC1KSTU5OE5LSVRoX0hJZEM1YmxMdWhQX0piS2ROQWgxeGFqUDBzNXhBYkQzbEpWS3FTdk9IaV9wTVF2cDZaV3l4VDFlLXZ6VmVJOWN4MFpaRWZ0dnEwa2QxTktLOUF3OHFxSkhPcHFuSmUxT1A5M0xrRHUwOE5tZ0xFZ1FhRFh0all3WjJYVXdDbmlzZzZqNmF0TGVR0gGbA0FVX3lxTFBTWlBWZzZxcXRhVXJHTlp0Q1RPUkg5ak1Sb0lNY1dSRjR6T3BpRkZIV0tYTzM1bjRBclJoSFJ6X2RsWHZPelBPNGdYU05iWEVEWjRrSHpyQkptbDUtcDJORndxdTI2c0U3UjBadWJGWXE1eUJTVW9PQ1hvZWI2bEFVVW12SV9NNXQ3cDdXUDBPUlhzTTlQaldqcHFmclo5dnhLVjJvZ3psTXpTZERBV01fTnlMQTFPa2F2R2ZnMEpfekNXSDRYbExvMm80Y2l3NkUzNE9MRDR0WFFwbW51enlKV1A2Z2QxeFJKWHFSUGY1bDhFTElHalFKanN5X1AzZGNtcVBCdzNqcmhBc1ZjVDEwVDhRMXZ1bGRHeVVicWZUSGNkOEhRaldzMnBnblhSTU5NNzczWTYwVXh1VzJyczlHSnBIa1NKTElld3NoMWtrZzNsTWtkUjM2Q1Q4VV81WjdhOEdwUnVraWZIRzhvVWUzXzZZNnBpV1Z4aWhiY2RMX0Q2aGd0SEpkUW83M1A0SWZmQXJhZEpHanQtRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVpaZERud0JWLWw0RVZnSWF2RldSZmlvbzlYNjRxandUckp0X0JvWmRZdm9kNVEyb2ZsNkFUSHpaSFN1MDVwdEx1dzhKelNCNnA5a1FTY0VwMjNXTms2Sm51cnhJd2M1RVFrMUhlZktpbGZPd3BFX3lKZGFWZkNEQ2NCRFF2dGFRWmJXX2xiMlQwc1drRHNLZktXRy1mbXJ0VzlyblItRHA4OHBk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uYVM5MjV4bmR6d1NlN05UVHdCeG5yU1EzbVVIZUZQTHB1RU1lU1lRMXlCTk54VjJjVkJ3eW1CSUF6UDBfQ0VCRTVhUmZkZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3298907/police-cite-multiple-factors-in-school-shooting": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUhFYTMtUXFaWmFETW95MmxHUWJHR3VsLVNOVnY1bWpVcTJIS3dOT3hTT3A5Z2doMEQxbk4xbGwwSldGcnl1b0Jqa2dJWkZMeGxXSjZSVTZzSVNVWXNwdUJ2VXNEYXpYV1B4WFFuZnIwNUlRaXJFWWZ2akxoMWs5MnlZSzVxTHhRaGM4dURJdEZqaDNrTTV1dHNPR05YcGlL?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVR2cUVKdm9kNEZ0LU1IWjcxMmNYc2htVHJGYjJWdllpRGxVdzFpakdCLV8wbjA0YVFOUmlVUmdXTHhxa3RzOUs0MDRueVE5V084b2pFM04tOG1wWnRVVFZIUU54Q2lhSnJ2THA2XzQ0ejJrWDM3YkU3VGR4TjM1bUliNExrZ1pSYnBMa2VodC1kM2xqSjBjaFlKU1VaS3hpZUU4c3BmVjU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/turkey-joins-saudi-and-pakistan-in-mecca-pact-hedge-against-us-defence-reliability": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
