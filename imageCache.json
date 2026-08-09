@@ -101782,5 +101782,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/private-schools-must-upload-fee-particulars-on-school-ed-portal/article71322406.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/lifestyle/where-to-buy-the-whitney-houston-barbie-doll-online-best-price-1235605905/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/fire-extinguished-at-aramco-refinery-in-jazan-saudi-arabia-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUZXbVF0NjIzZU93NGNhUFpXSFlaSzVST3FJVmVKV2lJRWRyMDREbGdLbU11TE9TX2Z6SlNwTVZSUEtmekFIYVJBRFp2aHdFWDhEQTNRdFJKLWFEaW5teHlDQnZ1dnJkVEJpbUYwYmdpcFpMNlFZRkZtUnlxWTUzdW1iWTdwUWlSY3dsb192Mkk4bmpwdkdYMUVYQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/iran-us-war-live-updates-uae-attacks-strait-of-hormuz-lebanon-infiltration-donald-trump-irgc-netanyahu/article71323971.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE11VnRXZ08yY25VekZMVElZTGwwZVgyUVM4bXA2Y25UcklKRjNBZ3g0WE95SXZycVRpS2FTM0FNSUlXaTRfOWVTNkJIYVFQRFRCQTR5TnNEZmZSMm5PQjJBdlpCeUxFOUVVNWRrZjVB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/nashik-hit-by-4-3-magnitude-quake-tremors-trigger-cracks-in-houses/articleshow/133061881.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmwyLW4yX3hkbjF2aWNpbmNLZWhIdTRZWV9hMDFCcmRZdkFGTFBidEtQWUJHR01Sd1JsZ0Y1aEltY2tfeHM2R1NNNk96VFA0b29zdXl4cFlOMDZRVFRXbGxwOVFfT3BSRjRtaklJbGVlZjcxVThBclg1emZSOGxOSjN3N1pLVHFXdFBnTHlJZmhGekk0QUhlUWQ0eHlMd2ZXOWVHZXBFMTZseDgtekVLeDNubU9oSmR3R2dxVS1LbkvSAcYBQVVfeXFMUERqYm5zQnVEdmc0b0tCU091ZTJGQ01Cald4UVVyWUZCdWlGMURrZ1RsYV93cXNoZjRRNTJXVUZHaU5KTlVtMmoyMUNIOFFETzI3YjZfRTE0Y3BGY0s5aFFGTkhXSTJEMmJRdEp3blBXZktxeFFtOWh1czZ4U0ZNZE54aGljT3doeHpKdlFkbk9WVlFrdU1EWHhIbVZqMnFiWkRhbGZ2RnNERUxvQll1TnEwUHI3QVkzUlFnMms0cXBiWmhuSU9B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdzVtREU4dU1vRjhldjYtSEE3Y3ZDbGNRVXVLNTJjQkZQZWUzaGVfc2tjdlJJc2xVdF9hUE1yN2F3eHU4Z2RJOVczNkhXQjFBWnZlNEx2WnJweldoVXhoVDhaOExXOUIyZVdoTXE5WWtBNGhaczk2eGk5SW03a0JNaFRjc081Zy10cFhtak9FSVdWRnZBaTg1cHo4emJIUHJDalN4a1dRYldLaW5GcjROQVh5ak5haElqS1dFdHl2Z25RZTJMazBUOHBYelppbEl3X3B6X1ZSM3E3SEc3cXN6NElFZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
