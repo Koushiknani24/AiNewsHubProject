@@ -103216,5 +103216,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmNGaUxwdTdIcTlOQ1lGUTdvREQ5bDNtekVZcGxFakhST0s2ODNaSFRWbTNnbDFHNVpLUzdDZmtmeHBwQnlwamxnYXhhMGkxTnVrdm9qOGNjbzRIeUw1Ni1nM3h5SXpLc1Zidk8tM0ZDcWxZOTIyVWphei1kdlpKcDh6SjRZMmozWXVTdkcyaW5WNERza1pFenJSWEZSSF90c0czZUZRd1A4dlZDODVEX1Jzd2JVb2xCekZWZ3BfcXJJNHNmTFVzMmc0Vngwdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/watch-real-housewives-ultimate-girls-trip-roaring-20th-free-1236669804/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/several-injured-in-holbaek-denmark-shooting/article71326146.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-09/how-david-ellison-won-over-major-movie-theaters": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2dWODJaVEZkLV9PQnlhQkNOWVZmb2RDUU1ES3BVOERsTkJseUdsNkhva1VzX0RvQTUwMU9KOHNxcmJ0MVlwcmNSOFdZc2htNXBmdmY1bjVkVk1MeWVvMTdHYjJ3U3EwZXJGemlqOFh1cTN4RFk3OWVub20weTZ3SW16QTV2ZWNFLUhXLV8zdzhjLTBLcjQzTURxWjhXSFJnYmpvd1ZRbHlyQlVOZ2YxUW9YX0l2ZThaU2hraw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3299192/putting-the-spotlight-on-an-open-secret": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
