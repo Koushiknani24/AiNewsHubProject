@@ -102562,5 +102562,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/ntr-collector-urges-students-to-develop-creative-skills-alongside-academics/article71325177.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/world-runs-on-stories-says-ksou-prasaranga-director/article71325144.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-09/inflation-data-keeps-fed-rate-hike-in-play-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-09/food-safety-fears-rattle-restaurants-and-diners-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80MTl5S3c0a1ozNGU4TWFnSjltOTBZSWhpYU5JcFFlbDVhRU1lQTV1Y2lJWkNJdlJTSXprM2VyNERXZm41dk1lNjVmcEVqVWtYRjhDWFhR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/christopher-nolan-the-odyssey-highest-grossing-ever-1236669574/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEN2Ym5pS1JvTnNNWktzZ1c3WGxidVVJOWZ6OC1XcURBckxHVnB1YTlfTlRfZVg1SHRQRm45VVo5N3FjV215X045LWMzbFBDa1RsTnNFNk5vSm1tenhuQ05SZ0pOSlhkdmVIRWJCR2paM016Vko3c01ZZGFpcklaZHZhV05Pa0NlVURxOS1JS1BfdE53STZicnVpYzI1RGRzQWNEQXhlN1lWam1lRE0tanNsRE5YV1ZCOEdwNll1LVAzUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX2hyeEcycVFQbkotY1hoNThycEdEM29yTDhkUHRob3RXeGFNX05qcEdkSE8wWWI0SW51bnVKanFYX1dEWV9NM2x2cGFnUGdSTjVyZ1ZwLVZaR1N5ZGI4VzVqd0IzMXNKQ2tHTFN4QWJ0UGdEdjBaSnlzYVV2NTA2VFlXaXE1QXFZaVJvNDdpd19wbFBwajVPTkJWN2R5cXFIaFVNd3pCUFRjUGwwZWxRT1BR0gG3AUFVX3lxTE5hY2NOb1Y5YWJKUTQxM2dBYU5sRW5CTGczRmh0U1A0aV9GbXpBaU5sMHVGa09nQWhGa2RjbFJseHhzTFlRdk04N2dkTEYxYUxVU1FvVFdLbm4wNGoxdUFVOEVwdy0zVmxNR2NOWlRDUmJBbmxTZXNxcmU3d1o5QnFvUHNIeVRueUhJYXMwdmZxT0FJS3Zoa0E0VEFkeVV3WXlFQW8wQk4zbW52cDVXSXdJeTFOeGVNUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
