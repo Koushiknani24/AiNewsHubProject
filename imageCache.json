@@ -102250,5 +102250,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogJBVV95cUxNWDcxaGxPTjc1WU1rMmsyemUzX0FsaG9GM2ItV0N3dm1uWHgyWHlad2E5ZGVnSUZkZUVYVl95NWZVY2xsczZxMnM2TjFEdVhPTGRsOGt6SUNCdzJmMjRlQkRJcGhHcUo0bmhhTTNyVVNPekgzNktianlJdEE2TmlCcHRZSEpVUTdMMGhGeTFmeWxaUllXODZIUDhLWkwyaXZqa1FhT1F2anhyWE5TdE14dXlwQ1NFMFRoSU9rSV90cUhxb1RCM0wzcEJnT19aSDZTYmFoanMwZWNVak5MallFTW5ldzAwUzJzQ2VESnZiMWI0ZVRycnpRNlpfM0lReUtkVGN2alhsbVBqdEpGdnlJOGpkcDlpUzlWdDE0eDRtUmpxZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/09/nagasaki-81st-atomic-bomb-anniversary-unnerves-proponents-of-pacifism": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/streaming/where-to-watch-the-2026-patriot-games-online-for-free-donald-trump-1235605381/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/9/fifa-decries-concerted-effort-to-undermine-infantino-as-crisis-deepens?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYmxzVmU5SUN0dmZZM1FFenE3OWJrZGpZeG5PWVYyOGVad1hnaXBqRXdfMUZ4QWhpT0ZNVUpJYjAzelBQUW82T1RKZVduYzFuSEdvUk1lM0NwTkU5VzB2dG0yLWsyMnhucWZ6WHl6OHJpc0FGY05lbU9nOExqQUttTV9tS0s1NTBoNDdiTkhJRmhNQnJZTnh0aGstX0FPc3pIdWRNY3pmYVZlQ08xeFBzYmxmajNOc2RxVlRRdUJoSWJDaG8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3298907/police-cite-multiple-factors-in-deadly-school-shooting": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
