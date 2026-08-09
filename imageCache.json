@@ -103168,5 +103168,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/yoko-ono-tribute-los-angeles-yo-la-tengo-kathleen-hanna-1235606063/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/uttar-pradesh/pushing-one-health-approach-up-priorities-early-identification-and-reporting-of-emerging-zoonotic-diseases/article71325413.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzRDY2JxSFJCbGhTdU1JNFE4akRyeXo0aG02WHZxM2RzM0ROdEM4SF9hVzJZa09zNGZicndrMF9maGkwcXd5VkM1aTdPYTFFTTJxaHRGWXNpaUVxX1ZBUjI1dnN0VTRPdHhrTV84Zlk0a2xid1lObmVNU2p5OVdyNkhVOGVCQzFyc01HcVBmclRqeTFWcEF5SWNwaUZySVpQTlZnenRSUTkyUS1ockxwM2FUNF8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-aug-10-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3299117/when-school-stops-feeling-safe": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUF5X1dDZGFNd2hxZGQ3T1dfdlZONjh1cTBKejdJYkNCRWp0MFlVa3BaWmpjc254TFZaSnpVQzdpTWRFWS0wbjIxelQwUEdsLXN4R1VhbXB4SjFxS3BfVFMzWXBuVTBLcFFrMEpwOWRmLTRHMEVhUjBoT1VINXFrdFVoTml1UUkxejRkOUhmR2FfVlA4QmRMc01kZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekNXZkJidnhsUDB6NjBIYldFRlNHb3hISk9ZdnVlbGRxcGNURV9xbEJwZ0d4NFZ1TFhlYTB0cHlTX0J3c243ZkoxYkx0ekxYcHZqZDhIdTFLOUVRMDMwblg2R0JoX1JOdnV0bnY2Ti0wWmhFZE1TYURETTFRUVNOeHJGQ3JVazQzelNncHFtRHNSYkdHQnllMnM5YmN4UjFwMTBiOEV6RUxSWjE00gGyAUFVX3lxTE1ucUsxcS1HTW03TF9vR1p5dGRVOXMzYVZGUENERmZYUGV0eWItX3YzMFVkRDlLVFl0NEVLNVNyRUZRNnVSaHVGU3E3eXNGMHpIczVCLVNQUWlFSlZsbUtnRFdxdmppQTdQV2FwWFgyYnRYbWNyUGlBTnZGYnpBbW5zVWxPUWdjdV9qbHVIQWtXOF83N0ZPTDJBVWhFanZ0MnNHQUtHR1FqWm9Jc3ZKQm9nRWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
