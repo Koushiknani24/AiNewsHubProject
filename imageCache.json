@@ -103252,5 +103252,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTllGeTd0UllBRFFrcTBvLUVwbm8xSm1tZWNCZlRVUUJ4YllwemhYWmM1ZjFlZ0RhX3pqTnVRQUR3Y3Y1V3k0ZnR0ejRDSjRuVnJHd3VWY3ktVXZzNjl5V3lsdDlseEFxTEVFRlV2TkNsSTdTNjJxNTFGSUtvSnVpQVYycjJPUzhhaERvekZsNGNRdUdMUmloTDVR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWnNFYXB1WDJabkZxOTFYcThHWmFjRzhLMHowQVA3ZWNQaU1mUDBldWd0TnRqVUpTZUJyYXB4dDh0azBBSnNtQ2dFeTFyQlFwLU1CdUJld1BQX0JPU2lJVTl3dU9CcGxUc1hCc2QwTEd1Rld0b0ZEQmtBUUQ2cnNfRENxMzNaaDMtaXdiaVVka1l3NjdOaF9qR1hRQmhGUjRaOENMUTlheFhtb3ZCOUQxOE5HYkZibEczQnpENmRZdExUMmJBaV85Ui1PRWlVOERxUFF6NEFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/netanyahu-rejects-trump-backed-gaza-peace-plan/a-78298282?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVURyNXBnMnBneWJEalU1TDBIclVLb1BYQmEySVNFT0cyWWNUdmNKTWYxRDNGNkJwaWZEdnE2UDRPeUNSUHBVS2twZHJSOUVFbXFsRmpfMVVHVWNDTmthUnhYcU5KQXIxMm5jSXJLcGlRc1EtRWNmX0hOeXJrcTROc292VHBjMnRCN1hlM0wxUjRlTldFcy1INVVxRVY3cTdEVDlnZ3c5bVk4M00tVkRKc1dtQlRqckZ3RUxITnJGYW52Vmw0YUM5bmVPUmx3QmFXcHZhY3gzdlRHd9IB3wFBVV95cUxOeFBEaVJMZEtQdjJPXzZ1OXBVVElRV0F0UGJFS256b25WMk1fM05xUkV6MWdnN1hxMzBFVmhqUkR3OTRRcmYzMjhsSlFTei0tSGduUFBERkZTeEh5RS1vODJnRnR6YVpYdFRLb3ZrTVZhM3dYOEF3YllnbmZ6MnNsYmljdzl4Q2U5NHVJT0d2TzgtQ0NhSWVsQ2pGZ01FSUU2ZS1kU2FDdGlQVmx5dE16YjU3QWhtYTNPZEl2X1BVTVBpZnBVMkVWN2luTEJ6OThCOE4xa2NlZ2JSRDg0aVpn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQVVBMk13WW1qbUY0TE9FOVNSaGpzZEtucVZTd1pzclVYTWRKWndUZzdqdnhWeUpGVHZCLXhPZjlWVjdZMmhZN05IVVFLY0pnd1FFdWx1dWtyYUZIVTNtbWdkVlZWNlZvcGdpa2p6dHhyLV9mRFN3VG5MdDhMMmJLZ096cDZCUzVITURXeGZ6TkpiaFdUSUZSc05CUU0tTjc4b25ZYy0tOVM0ZUxPNERYb2ZabzdTQi1HVXJZRXlR0gHDAUFVX3lxTE1RYmxxck52bW5VWkllSXRfVEFQcDlqWWFZNU82YXh5RFNnUHJBZ0syZ0FnaVVvdE8yRlVMT085M2ZDVFhZdmh0NlgzS29FMndWZ1pZSzBkNnpPSFhBaE8xNTJhbEdVcTRlNTM3NjQ3RTNBelRPQWFlT2hISXhsUnpQRndsN2lkbGRJZVczVnpKRUQ3bHdjSElwREZjTlBwRXNLM2JIV2pweWFyWjYyZzltSG1DNnNNUHg4N3MzNHc3Zm1sMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3299227/industrial-sector-confronts-looming-labour-crisis": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelI2QVM2ZHJGRUtzRW12a1hqcFlXNTJEVVFpRnJTRDc5SlVmeXRZVzd2MVNITGVjZjV2MWJweHcxMjdqQWhvVnBjXzdKb1FpaDNqVFFlR0hxRkhJbmRaUEdaSDZkUi1Ha3RYVTY0WTNEa1o3LUtFNHozV2RwS1dPbWwwWkgtdWxIZ1hiR0ZER2R3dUEtR1NkVTF2dUJNQ0lBUUJLaG1Ib1k0WnZVdk5tTGMtb9IBuAFBVV95cUxNMlhTcTN1UkU0emZIdWo4ZjFWWkJVWk1JRzFob016aXJWUHNUNGdSRTdldGVMd3hCQ1luR1Z1T1pSQ0tkM0V4eWlfQUVIcjRSbEdfNmd6M04ySmtwVFdpNHdLc1hhaTJldnJXZWNGQk1Kajc5MHF3bUVHZ3d6VkdzTXFyX1ItaVV3UlhUVUktbFc0ZTlzaDRmOUZNYV9GOHBJV3p1eWJwNnpsZ3VZN0ZObDh6bGVJR3J6?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
