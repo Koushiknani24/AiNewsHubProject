@@ -101926,5 +101926,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.yahoo.com/news/politics/articles/myanmar-junta-rebuffs-asean-call-070618764.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGN3STBkTXUwR3NXZDN3TzJEcjJXR29rZDFJNW1LS1V6WVdZenh1SzQtTjZTOEhtNk8wTUotSmFPN2ZqRTR6ZEhwSTZ0dDFxUEhZQkVFVFg2YVZTQzY2RzJoTFBWcVVQQjRPeUVCaHdSem1lclJYeTNTZVY3SFp6X2hRRzFDMFVxTWxlYmN0N1RqWFVZZEVZMTBSdTBNWGVwY0ZrNk9NY3pXbjYtc3RTenYxYmVZUdIBuwFBVV95cUxOZGIwWXdiTmNOSy1MMXBBWUFLd1JWS0tmUmNyWk9UNHZ4bmRuZW15TU83NDBtQkxBQU1Qa2dDN0xyS1V0QVFzWmJlSm9MN0lGTG5IZndpMjlxZGJyallKVkZSem0tV1h4X2M5M2E0bjc2Vm85V0Q3Sm5yYTBTUnh4VHBJcEV4S0JhQUJTTGJVenBwT0VzR3hMVGtsT2E3bXhaRllsY1lBWlRjVkFSWU0xeUswZnVoTGFVR3JN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWkd6T2FZNllYTzJiQ3lrQmtDQ28zbkZ2YzZ6QkVYTzVMZjdmMkhPb3AteHQtNUJCdlpHcHNBcU5WVC02SWJpR1VwZVdjaDA3MlctaHRLblpxTzg1YUtyaEhCX1VEWERWV0xSS1pXS2N2NFZMcEZXZEVQN0htb3ZzUVpYNnE0Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/ukraine-bulgaria-drone-russia-explosion-gas/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3298879/nakhon-phanom-flooded-south-on-alert": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZmJ6MUllYUZ6S0Q4M2JNZUxPMDhCQmpJcVc5cURYaHcyOXN5dk9CeWxtTDdOU09mU21wZi1XZmFNaGJCekxlazZ1dHNKZEx4THlWMWhBa3ZxZG9ubmlvcXRwbUhTREl5NXpQcVVURDQzV2w1d2tRaUxuVThYS01ZdVBSeUJqM2VPbGU0S0JZWDdoS09XV3ZJRkgxZFlyc0w1Nms4TzhSVTFMOFJ4cVhDdHpjZFhVVUZ5ODgtS2xLcHcwTlZ5SDQ2eVp3TEJjNXBETm9TVGY3RDVad210XzhQVzhyOWZQSzA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1INE9KcTdPZWo5X2VhUlpzU0FKQ29vZnhuX3JxMnRMd3U2TTBqa0RBZzEwTkI0bmlfc1VleEhVZWhTVzRlSFU5M2VXTlZ0RG85ZEpXVWNLUUNzcUhsTFZwc010dnotbEZGV2dPT0JB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
