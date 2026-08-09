@@ -103084,5 +103084,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/09/nx-s1-5923613/how-irans-axis-of-resistance-has-shaped-the-war": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSV9ZVXpuM0lJa1dvc00wS2p3Nkl6UElmbmtOUjZYVkEtcjZrdmU3aWpFU3lsUElfaEFBRV9uTmxaZWNkbmpPNS02LXpvNVVIQTdVdjdHZFExRU1jbVNuVElZMGNjOUI0TTJpc2JFNXBVT3FEckc5Y2ZEREgzVnhyMy1RYVdCajVnSGxGTjI2RWpvVzUtbWtNaTAtSEFhTFpoYVExSlp1T0tVNXJwLUJGVXRJMGc1TUlfTjdYZThjTktoMXFlUkZhTUd0UVlLYWs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/hundreds-of-firefighters-battle-blaze-in-southern-france": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3299002/govt-eyes-stronger-cyber-defences-as-data-leaks-raise-alarm": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zMzQ3ZzRQSVgxNEhrUnpSc0R6UlRRVkZzaC1LZHpyQi1xclhYSklGZ3FOX1BwS1NPcFhMOHoxZlBvTktQdkNOTzlQY05DVzlFVmtxcDVGQUZRRVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-09/aussie-yen-is-set-to-approach-three-decade-high-analysts-say": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVJ3YktkdzVuTjE5NnBtRXhReVlTNDdxZUpfOHZGTmhfVjRtd0pka2J4Nk5kR3FwNHFTWGc1aVIzX0ZteWF5dGRfdW1fdl9BVF9uRmctOGxnd1QxbzlicEpzaWlwYXVrRWFzLWFTM3VhT1AzV3llelkyUEhCWnRhblRCRHkwdW45aFA4SjZNdEkweExfNU4wMzcxWUFjcnNENm5lV2d2UFZKdFdmZ1NuNnZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-says-it-captures-two-villages-in-eastern-ukraine-kyiv-reports-frontline-battles": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
