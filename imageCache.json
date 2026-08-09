@@ -102850,5 +102850,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/bill-mahers-joke-ariana-grande-weight-real-time-1236669751/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/inaugural-los-angeles-jazz-festival-canceled-last-minute-1235606056/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/indian-us-navies-to-hold-joint-eod-exercise-in-kochi/article71325591.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/streaming/watch-real-housewives-ultimate-girls-trip-season-6-for-free-1235605435/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/maresca-delighted-semenyo-marmoush-partnership-after-man-city-beat-atletico-6308696": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmVsWmtmdVdqaFVTZmUyRUFnRTVMQmxqSTFOSnZfSGFSbjdKaXozaGhLcTQtenNwWHhQbl9PQU1YRkFWdkhLSDNBQVI3TjRucE43YldMZFY4Q18wVFhOaXJ2Y01QaEtuMm5aZVFDMVZNN3dTdFVLbWZoUnRhdXVBS3o5NUdTVGFISmpJWnY5MG1vaWxtSUg5X29JMWRpVkg1Mmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNck03UHA5dHpJaGw5Wml2MXZrT2F4OEdUNlZOdUwwMXFtMUpzbFQtaDNSekdMeWJHY2J5SkJtOVdlVmFYTkROVHFNOFM4U3N2X1dsczZWd3BpM3VFeFF6cl9zUlRJZV9maW9CQ25HMjRRbVlNR0JKdE9Hc1E1ZHJwaHJ1emZhQ0p0Z2l1ano2bFV2SVpzNU1YYnphVWlMX05BS0o1UUJyOFpLVmN4Skw3UGpGcjJYZVFtRThvYkZhR2I?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
