@@ -102346,5 +102346,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZkZvUVkzU1dBczRUYzBPcExQY3NhNG5YdU1UOF9JUktqeGRWVTc5R084TnVGQmFYejdlQmVpZ0QydTVoLTF5SmwzVGcyektXdDhRSUdZVFBFRldmT3RzUlpjSW1DTW9ucWk3Ny1LcngyTlEzajlLTXdLeU5CekIwRGJ2QXFObmpNZWxKUEt3Ylp6VjRwSU1INTRtLUUzaHFxTGV2cXBJNVpEelF2bmlFT3h4UHAybEkxNVp6YUFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/man-dies-in-suspected-tiger-attack-in-gudalur/article71324450.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-09/iran-talks-offer-little-relief-for-hormuz-shipping-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3R3Szl5QVhDVEJRNG4ybXJWc2VDTmZscm1rUS1qdnNZRXp4eFp5ZFQ5anFtb0FWVEJwUmpqUGVEQzBvbVdPZmdGQjkzWGxaYkU0dzdEWmp5bVVMaU1wUmJ3Wm9ZOEFoc1EyQ0JOZlA5U3duNXJ4VUNleG9lekFLbGk2alRSNE9yRXByLWRINTc4UWlmdDZyWHVNZXE1NjFyRkV4bTZDcWhxRnM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZlVBRlFmeDVKMERDUWtQemx1eFNPV01DazFkMXRxcE9GOXBLbkY1WnUzal81U0Z2RXRGQnhpRjJxU2UyN2pvTjRpaU9XR21tSTVUaGF2SXRlWVphSU5hVFJua1JnaUlsUTVwYTExZUF2a3RNZ2hNeFRlcmIzQ0cxWlRyTy16R3JXSG1J?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY3prWTBaQTNXQThvRndVUXhDeVRBMFhWdUFwNmV1THgxdFF1T25IOUl6V3ZFRUtrRERyaUJlUEhJVk5sdUJkakxrNk9ZOGhreklXNkVJUklnRTZjUUVsMWE1aHRoclRzeFFFcEtuRnpWbm5mM0hfa3lRcE1UUUZLYkU1UTIxWG8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/pope-leo-renews-call-for-ukraine-war-to-end": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/9/which-other-countries-could-join-the-turkiye-saudi-pakistan-defence-pact?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QWnNPWWJ6dmZaUXFTWVMxQWxLalQzNjEyRU4zU1RiYTJUQXB0ZW5yOFpyek96anNPRXlFQnAtM0dCOUJyaXJLOFQwSDlrbUxhbUQ2bmNaUVdUc3Fr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/9/us-and-iran-are-talking-past-each-other-in-indirect-negotiations?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/uae-extradites-alleged-irish-crime-gang-boss-kinahan": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
