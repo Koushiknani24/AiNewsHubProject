@@ -102106,5 +102106,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/host-of-issues-cited-as-reasons-for-road-accidents-involving-ksrtc-buses/article71321779.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/foreign-investment-in-private-hospitals-will-make-treatment-unaffordable-rjd/article71322194.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1c0pnZ2dFb1RaQnE5SEhwekMwRmZvZkFkT01YSzg3ZDJMQVhiMEZUVXZlMGJrYW5VUnJjck9pU2UyVUs4UjNvZmo5RURmOHBNbUpXRmYzRFJWQkpaQ0VBRWlBMFg3SDV5Qkdz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/germany-battling-daily-hybrid-warfare-attacks-minister-warns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/calicut-varsity-to-end-contract-of-staff-in-its-self-financing-institutions/article71322192.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE45Ui1aM3dTVXdGLTNyOW90RkxvejhoMjFOYW9BWDNuallSSGQzV01SU0s1ZjBZbFhXWG84SVlXZlNlcDYtdUE0WXlqakxHUlJVRjVlWHJ5QU85VUpxNTVodlpleWRXUDdqdkY5SVA5RFh2cEc4UFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMzZhY0Z1VVFyay1CcEtJZUlKTV81aFFNUW1iTlBCUThRcGF3VXhfZ2k1TzhodkF5NENIQzd4VXBwYmlhR1VEX1hWWGtUMy1oNnpHYTYyYkxhS29aeWlvVktTa2xjYXI2c2NiYkh3SDQ3ZDRjVWtXSUk2RW02WFJwbWJxTzcxMHpJZlVQZUFkZjRsUnE5UUw0MElNNXJodDcxMFHSAacBQVVfeXFMTzFDUlh1T3V5T0pTVFhFcThMYzg0SGplRFA3cXRlX1ZmU25iUXRaWWZwSS1zVjQya1pBRVVTMjBCaU14STVJRUdTNk15VXhsZVVmWTRVcmQtMlVJYnFRWGU1eHNkS2ZMeDRyYi01SmdfVW1KR0NibmVTRFZWZGtQU3NZUkFjcEhVdWVNeGxRLVRwZ2ZKVGx0OFVDVklQLUFLWm1tekU5RUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/09/todd-blanches-confirmation-as-attorney-general-strikes-worries-over-us-justice-independenc": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
