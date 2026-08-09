@@ -102778,5 +102778,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/vollering-seals-second-tour-de-france-femmes-title-6308671": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-reviews/destroy-all-girls-review-1236665457/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/sinner-withdraws-cincinnati-open-knee-injury-ahead-us-open-6308641": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSV9FR0cxZjVMdmFJcEc1V2Q4ekRuVmFxSWxxU1piVGFYVF8za1FwYk93ejFDVjFmSV9NQlJWMjZZX2dKS3F6b1lWakYxTW10ejFKSFFrNlBLcnNrY2NybzZpMGFmRFpNUEpBdHBaYjVtYnIyWG1LaVZOVWRNWTBWYU16Wm4xa1RWMHF2U0dR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRm94WHkyQ3FGbXBLSDhObGY2RThMOGZhTmZVeUtudzlwaU9nRUg4VjNwd3ZPc0k0dUoyVXlCWGE4SkdEMlFzbV9YUjU5LVJSNjVFNVhnRmpzSFdPR3J0ZWhWTXlrczJMWWVwQ1lVYzhyVXA5dzI2Rno5bmdnQnZtQUNjNTloUlNkcnp3cGU3Rk8yYTNKX2VsRHNaam9HdjEwQkxmYk5NT253QmptYk5NaUlrV1JBNzZ6azNrUWRKTk1nUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
