@@ -101884,5 +101884,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/world-number-one-sabalenka-suffers-toronto-setback-alexandrova-advances-6308186": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/uttar-pradesh/bsp-leader-alleges-assault-vehicle-vandalism-in-amethi/article71324136.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/meta-must-follow-indian-law-not-just-global-rules-say-government-sources-after-meity-talks/articleshow/133062680.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPanNSNlNwYWZTVllwY3daWXNBb0RmM1ZkU0lZcHBLYXNEeEFEcFVzWW5WSGdFV0g5S1U2NnBxRGctamM0RGRjUTl5dGMzMlFGMTlMZFpyZGJoMmxpdmxqbGYyQjhwNGMxSnRhTER5c2h0LW1zSUlsSUs1RnFBcldGblJMem16VUd3bjVWSUFOT0dMejg3eFVsR2pBZHZpVFc0S2NZZU02U0VGb3pBR29Bbktn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
