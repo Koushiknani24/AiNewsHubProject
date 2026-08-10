@@ -104482,5 +104482,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/10/britons-lead-spending-but-average-tourist-spend-in-portugal-falls": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQndObi1kc1lSVUtZa2V4ZGc5TXBIenkwZ2VsMG4zNWJKUnU5T2N5cGpWNy10eFB1V01LZ2c3RU14QzRqVmxvX1U1UWZ6MVNwdUEzUHgwdWNaRnZ2WnNiU1VjeTlIVTJXRzVHVkRndnBUSjZOVDFfUUN5RnhSV1A5R0FBOGFQc2g3VUZLeQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeC1FV2UwSUJ1TGdfbjNOa1B6WWJ1R1N4TFBycWJsc016ZDQwSUdzblo1SXU5a2x4cWsySkw1eV90clVKbS1Iekc0RzVTaDNzWGdvamJiT0s0NVprWUdEbmN5WUFsMHM2MlVVbTZTRnNnMFZWQlA1Rk9EM1VDLVNqbGMyZXMtRlZPZGc3Wnd3V1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-10/the-other-way-to-reduce-government-debt": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/10/latest-news-bulletin-august-10th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/8/10/we-have-no-one-palestinians-react-to-israels-rejection-of-gaza-plan?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDRjOFQ0dEpIcnRpdXRQN0QwQWtqSjVFeFF5aUhOUm5RejFIeVZ6LVItUEJmWUdoV1gzQ3lMeXJBTEJWNW5veXBVek5aYjlqQmpjdGlZajcxSEM1Z1FQU25hVUFxMkxzSG1WNmR4bTNDdEhicU4xaFY1UDh3UHhUNHhEM0lVVk8xTjRmc1ZrTUhZZ3NKS29yYUhFWkNUWUtXbEtPNkU0aU9XdnRvOUo2Mnh3cEo2X2I5ODZxcXZ30gG-AUFVX3lxTE1ZcEJUWnB2THFIcXE1S0dxUXlPQjZWbGhVUnBmRm5mY3I1NWFrWlRZR0NLX19kX3d2UWxPZE43aEl3eDFaN000MVg3UEJrYkJZYnlwQ3MzZE5NYWREUUhiMGxfZ2dOb0l1N01TeUp3YWc2c012WjhHblpRSEUtWmpRZ1BfMWRxX3U3Qms0RnhHd25CajZHdHdZS0I5bVlqLW14cW1mcWZIVXlpQzJlT3g3M1JYWUc3OGVzZUhOU2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/us-house-democrats-press-anthropic-openai-about-rogue-ai-agents-6310281": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/10/sudans-army-chief-holds-unannounced-talks-on-national-dialogue?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/uk-approves-its-second-weight-loss-pill-while-eu-access-lags/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
