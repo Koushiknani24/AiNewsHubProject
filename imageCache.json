@@ -103570,5 +103570,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/10/the-invisible-primary-inside-the-democratic-partys-shadow-campaign-for-2028": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/politics-at-sam-and-annes/what-will-burnham-do-on-ai/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/millions-of-burnt-books-show-how-war-of-endurance-is-hurting-ukraine": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/estonia-government-loses-parliament-majority-as-two-mps-defect": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nV1pzb2h5SFhmNVRWcmZOYmhrblRfNkFlZEIyb2xkNVg0TVhXTUt1Um05VWxmdTF3aUxfQVZ4R292UFhqVXIwNGJicS0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/culture/2026/08/10/comic-con-astana-brings-global-stars-and-thousands-of-cosplay-fans-to-kazakhstan": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNWx3c1hjUE1JbkdVUWtSdUl4Tl9iQzJ6Y2FpbWFnYnBzcTVKc2NNQ0FfUk1iUmI0X05lQ1ZZbHB3aXUwbUlOY0tmTzBHQzlsdTkzOWdwTldqVUF5VHNXbkxIRDd6WG45bWJ1SEJjak54WWxFNlpWNVl5LXF5MzREZVJ6UWJqTmRPakxSdy1CMEZsUUhqRVNzQkZiWUhNcGx6S1V0eWloUmNwX1l4eE04UHRDOWdYM1pjMG5yczA2TWo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdU9XWVdyYlFtdmtCS1NZRWt0VDBxYll6ZExkbXVDQTVSN0dRb0NRdUVSLWlsUHdQYWJTUzF5Nlc4N3c1OW9RdHlkMjJkc1lOelVoRjBUMVdNWG9JbW9DSTY4VDNaQVlQR0g1RXlVQ3BKRFdsWWZfNFA2X2dfdVZJRU1VZ29VWEdkNlEtcmhRRldMNmVmMUpzYXpFQXItTXJFSTJJblpxN0RHMlBLQnYzNEdsanhWaHAxei1QZA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdTBzU0FRYVR3ZmZ1MWRlSzdBYkFsWlJIN0hyaE5vb1dVOWhUT1p2V2hyckh2UU9FQi0yVG5aNkRIU1VOSkpDbG5rSkNVaUhzZVg0MjQ2S0F1WVNTNEowWmVSNkMtT1JZcWlScHNaazhjTUJmMV9lTnhXS0VSZC0ydEJoSmNLaVp2M2pjUmtnalFVd3JMQ2E5UUhiZVY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IeGJlekxlRFIzZXBhaXdKV3B1ZkFfdGRPRGY2QXJPdGFJSF9mUS1ESm4yWjFjek5MNVYwWXRBX2lLM2hvQ256WTNkLWxQQUJBdkVvLXRB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OX0pHbHNldWF0cnA5UXZVd3E5dGVTTnhqQk11YkxUXzhfbThfX0FLM01qaXE2LTJCLV8xb2J3TnBhbUU0bnFsNWIzcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-10/ai-safety-fears-grow-after-multiple-breaches-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/auto/auto-news/hyundai-targets-1-million-connected-cars-by-2027-as-software-takes-over-indias-roads/articleshow/133087853.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/10/latest-news-bulletin-august-10th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQjJjeTROcUZhaTVuZDhKTWM2czFJUHJrdklIVGQ5NTV6OW5aY2gyOUdSVFh5V3ZYSmx1d3NrWENwYmhQSERLeFRuVFFkcDRkSFJwV1FzeGh2T0VlWThKdEZMZUtPS0owTF9OcWlvZ0lnakkybDlDUlRfY1c1Vkg3VkJrQm5IdDVMTjQ1cUhGYmtUd0haQjdlTmRVSVg0bk9IdGJ0ZEFFajlBSWpXbnhROWtVc2dfQjdFcDNSOEZ4cXB0MkJOeWo4SXZraUczX2_SAdYBQVVfeXFMTnlIQjlwLXhwTW1nWnNjclh3bndURzZ1cnljZll2RF85UkdibU1zTnF0OEpKQnNKQmNhYWpvcTJmVjRhSTVIenpubFdHOHAxYXlrRWhDSkh3MUVSdjBPY3o2NVBsZDVMT0xaNkFUVUdaN3FBc1NmbXowcFNJMUVFeE45Vy1KWTRuNXJ3MVE5WWNRZXM3aWpiN0E4V19zRUpQNnJjVzFQZTRpcXprTzJsSWRGcjdaY1dFY1B1Z0Q0djVIX2IyZGxxbm90b0VLeFdmZFFXaGdoUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
