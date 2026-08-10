@@ -103774,5 +103774,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-10/australian-scandium-miner-secures-400-mln-us-investment-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-conservative-chief-epp-manfred-weber-demands-migrant-return-hubs-in-africa/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3299337/former-mp-arrested-after-pao-president-slain": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-10/inside-businessweek-s-screentime-issue": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXBfSldxNzVLRmVZa2FadkRXbUp3Nm1EVzNSeFhYWE9CNnJhRXhIaFNpd2hKVFFXd3hmeXBjZFBpUXphMFVhdWRBaDBicGhhUnBHdmpYVlZxZm8yOGxjQ0xIM3dPaFl3bnZsdjd0UFN1YXBoRmNxR1luLWZ6Zi12cGt4XzdaWHR1ZC0zNl83R2Y?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94RWNVaHpBckN0STVMSjhHNFdBb3dqQl91VGZkS1hwbmJaZzg5WHpBR2RsR0pvS1E0MjVZNXJ0UllUYlRQYkg3RnlmSjluVDczc0NYZkhn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrR19Zb0JSbHdHNjJia1JRM21iZXpRNWFaeko0alQ1cUVnQ0dQNXU1LVdrZ2FJdFJMU0JvMVktRkFNT3hsSFZDOU1xTm9LXzV4ZWNZZ0pJdlJobWszTHBKay03c2lYVTZkQ3NTUjRn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenU3eHR6MHZtSlQ2OHdHLVdkNm16X0djMXROMkx3MF9DSmkyY2JkYXd0TVl2aldibFlJSUZHU3ZxWHRFelpoTzd3X1FobmZjM3BwVGtOcVh4TUQ4TmtBTU9Oci1OWHZKRDZIeHo4Nk80N2gxYjdfY3Q4SnVqdXQ1NQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVR5TzZOblVGaldmaERTUlk2Sk5XSEhfYWNiTWMyRVhwNXdZamp5LVhBX2JKMTdxSlFlZHQ4WFc3Vk1OakI0VFlNMThrS3ZPdzB6LUxCSThSSmtvbW5ISkJYSWN3WUNDaTFUTXl1QnFoXzlCV3UtdW9CNjJodTc2VGhWTG0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSHBIU2VqX3pJSkZBRTlYXzFyQzJyZnRGT1c4SlZsZXNLbVB3ZXJlRkpicW5xMFFuZEJOWTVkaVlKd0NBUGNZUkkyYnp0eVVyNUlpRWtoTUJnODVIbHUyaDlLaTFoeTNFTlpnVV83WnA3cm1OM1NTbzB5dFgyd1FwaXd2Y0d0S1hDcEpFUGZaVkJPQzdDYkJONjlMN3dIcThqMFIwUTltNjJrX2N3a3FQZVYzS0dQRTlDV2F5cDVBU1BMdnQ5TWV3ZnVOeFJ5MzVIa1JDN0E3R0gxQdIB3wFBVV95cUxPQ3A2MmdwcDMxVnlROVJzc0t6eUQzUndWel8zTFA1ZW1vbHNrQ0pIWWZVV29oMEpZeTZIVXk2VDY1eU1IblVPdE5ZbDVzeEdGaEpCZkVEWHlmdHBUcFlSa2xlZnJHcm95aTl3VjlKVDEyV29RQzd1Y3pRRWJIOGF3bGw5UnNmZDM4Z2VIMGRWS0t3U3ZCNUNtYjJZVjhSWS1EV2NjUkFpVlE5ZzJKWXpNYUFvQ1FCd3RFdVhjRll1THNMbTlYQXE2REczbUtuejZqRzFVRE5pRzlWVzQ1Zm1F?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOejFIbU1nQS1oT2YzdlhXdDdJOXdoTlFhU3pYOTRvX2JlUEllVlRaeWQyR3JHYm12VEtaaEdEc0g2X0VmR1BsbVpuelcxTlVwY1NJS3d4cW1INWZ5MElDNXk3Q2FyWl9kQnBuUVhJMUpadEp6U3RUeHlucmU1anRfWnRsOU9PYktOdFlTQVExcjNkTmhQcWtKN09HNzVEOFBCakZDYkY2bTE0cVo4MExtTjJ1M0NNWjZwTVBRM25TV3d6aV9JdlNITFNWZ1JqZ2ZQaGJRZU9VMEFST0JrUVNzRDh2eUs3dDFSY1VsLXpwczBCbGRfcWQtZHBJQnM5Y2vSAYQCQVVfeXFMT1NMWnQxckpPbmhUQldlX3F4Mm50bjZ2OG9qaWV3OFRTdFhTS3VMV0dOTkNsVkYwdV84T0pHdU1sYnU3YlZ6ZXNZRFVjcVpPZ1JyeEpaQXVzdjE5c3Ixb0hVWXFEODZKSmJqWEwxRWpsaU5RMjM0MjhaUnYwQkxSdnRyeDZfTDAyYVpOYkZXa3ViQ1BxNk5DcUlmQnhtZDQyU09qSnBreURpNTJhOUNwaDVmZmZORm1XaDk3Qndyb21kRU5hQ3I1MGhfZUxrUVYxcDVQeHFqT0poZkRJLTJVR2RvSFF0d0VfbnpibDlJSDZlTHpwb2l4S2pRR29xVlJhOG1IU2w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
