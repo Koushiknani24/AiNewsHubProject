@@ -105190,5 +105190,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-sends-over-300-firefighters-british-columbia/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/canadians-made-overnight-drive-to-safety-as-fire-spread": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/wildfires-ravage-west-details-forecast/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUZzWnZRTWllV3ZkZWpJbnBjaE1SVTFHcTM1THpNaTlhbnlKdmxkNXB4SHFiRGRBbWVJMGdqX3Z0MzI4ek0tTkNJLTVEQzNvX09sUmFiOFdyNnVGa01QMzhiUklwMTJOT3Rtcl9PcUgwUElFQzJNTjg0YzNkRTBvOVhmMUFZZ1lEZndBWVlqN09YT2N5eTBTNzNXMnlWcWRkMUV6eG1KRW9ZdmdLcXQ0THlHQXdGNW51Y19vcQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-order-pushes-for-overhaul-of-childhood-vaccine-schedule": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2RGZURhTGZGLVZzT2o4emtlZmM1dDNpemwwNFVwdEpwZ3BJNHBrR0RGTXVfVmR0YTRadTVpUVN4MXMyNFplTHV6cEpCRTZVYzd1ZEZhTjN3bVhWMUJqR21TclRGNGVDRHd0dm05X1YzNkNaVU4wbkFMZ0FGSHRsTmVWeENrM185SUNsYWpR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3299688/govt-moves-to-make-school-safety-a-priority": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3299568/travel-subsidy-nears-launch": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVTQxQW5lX09DTXZuQS1MZHdPa3pDUkFudXp2MzlNandHU1ZZTUpJLVZSVUs5b1h1Vlh6c1dRbWdjdzdXSG44QmRjdUkwM3U1eTAxWWdqd2tuVmdzbEgxcG12MEYyY3NnUDltWk93bjhhbDZ0dnFWMWU5bTRCcXFSdkNFa3VLVElpck9kSENHUkJnODVlNHdRbWF4RmNpODRIWWQwZUtRQ25MRVNKQW8tRVhoemRMT3lDZkJjaVVxUXYzclJSUWxYbWxlakhqQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
