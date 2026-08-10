@@ -104230,5 +104230,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-us-negotiation-strait-of-hormuz/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-10/nyt-ceo-on-running-a-media-brand-in-the-age-of-ai-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-10/berkshire-ceo-abel-puts-cash-to-work-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/cities/Hyderabad/acumatica-opens-gcc-in-hyderabad-to-ramp-up-hiring/article71328610.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGVpYmM5LWsyZmdTSzdzZHVjaEJaT2tXUzFmYlVmUVJodV9FeHMxZDFSTk9FUksyZ0FaZ0JhSzVWVVJxc0lGRWF2V2VCOUItOExQZ3NUUTcxcmg1U3ZXSVV0YnZ2N2FvaVNsQzZXdm16cFZpNVZXaUtSY2NJMHN2RTBLaVdSNVlvVFVRTkdYN3l4TDZKZmpqdkZUYWZWU3VoeUd6M0ZoYzZyMjg4WmYwQzdtYXhEQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-sober-1236670111/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/moldova-president-maia-sandu-condemn-russia-drone-crash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/retail-investors-dispose-of-spacex-shares-for-first-time-on-aug-7-with-us4-5m-in-net-sales": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living/mexico-landlord-tenant-law-foreigners-guide/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/video/20260810-us-30-years-after-tupac-s-murder-trial-finally-begins": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORl8tZnVXWTRoODVTVnhxbVFGQUFwdTlFTWxZREwtSF9XTWxFeEtsTUt2dXFwSHp4dklvSDhVcGVBNm1QbWRyeGtPU1BWWlozcVlYYjhBa2szSFBKUE1DOUQ0dl9XQWxLRkRvSUR0VW9KVHVEazl5N2dIZkZqTFZHSmxSOWVzRUpReFFZQWJBSXZ2T2xtdFJJQ3phdmdIc3VrZXBfOUw4RlFkZ9IBrwFBVV95cUxPREdvc0YxZDQ0V1NBQlB5cVY3X3ZpTng1Vi1RZE9kMlNQN0VrSF9VbnNiSndNcEhacmhfMW9DN2hoWTRoWHN4Y0xqX0FkaVZQOVMxdGVKZGZfWjAyVGtWMUZmOWQyOGpSaGxVY3NudFZXSTRSZ25nRnRoSUZ0N2EweWQwSDQ0MFAxZzFSRzIxR2JTVURkclVZX21JRWRXVWl0QXdyN1Zwb1U5STdjcy1J?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYkE1UGVFTDFtUHdia1BNdlRFeGlEcVZpWlVTUzI1M0Z6VXlZYXBCT1VpWEcyUFJ5NGQ4LUNWbm5IV1JONmZ1bFA0T0liaHZieXNUc202R1JXNm1jeU90djJCSmRRSXF2UkVNZlRYNEd3VXUyUDRDUTlZTU9mY252dWYxckR6TkVwQnVxUHBRWDllODRTMGdBZ01TUGQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT3VSN1NRVGVJM3ktdExvVnhJUEhZMWtJVGgzNjJpSXh3dkRKUmZ5akprRzBuY2c0QWpzdEJhU1RnSXRNeWVORldJSVRyV0I1V2ExZWxIY3dGN29pakhPV2owMncwQUhkVmZKLUxQZDdEVzBTcGM3eWp1UmRLblVkNWxJTUFPLTh1c0VCRkVPMmN4TXd0MUlyVWVNeDJrY0lkQzNMdmlJUWZqZThIWlZrcVZKVmkzSFRJMWxyTw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWI5ejBIbGJlYkVEWGNCdUZkTHVKY1R2dEFJX3BZci1PUVNlVkRrQ05wS1ZSa2ZSeU95OXppbFNxeUsyT294eFFZdkpXMjgzUkVWMTZvXzJjMER5bTVXdERmWjRmcGVLbW53UHo1THpXNFJ1bndIWXJaMkRxeEZNeFFsY29VbG1TNk1WQ3U2QmFDSUFrb0JUaW13aWh2eTFyWnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaVBWZ2dBWG43dFhqRjVYSjdLZERZTnFSSlZFTFJEblBLLXY3Q21QZlY4NlRkTmxnTE16em1qSDFrY3NpaEowd2pncXZaNlZ2VWlZc0tib281NmVZQ1hLWVNaZkc1Z2dTaHk5TWhLV2x2VUwzeXJBdHBpa1Rsck1yQlBkN2tsZHE3U2dxMTNqaVpUTmlkWDJKSURfQnUwd0M2OFVEQ2FER2liWDA4MzV6M21DT1l3cndfWm5uaTA0amFHVDTSAcgBQVVfeXFMT2FMQjRabVRDQTB5TW9vOXpDSVVuazFyb3huSllPTkVicXJheF9zUUMyZVNIdmhlZUpCOFJHTThqaFJiTE9mMWU3WHhfQnFZN0dqek91MnFvRTlwZVFFaHYtTUcxQ0FRV0N5ZUd0WnhxSTlxWGNZM1duRG5BZDNyZXQ2UFRhcE5TZnV6amJQY2dJQTBmWV90eTNSRlVlMDRYd1RHcnVzNUZQdWxiamJJbkVueVEtS2U4N29Ea3hveTZ0X3FaZnlOSlA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/10/mark-zuckerberg-ai-power-01030904?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYU1SZWZnSDROU1d0ejZoczBPOTRZcmU0bnJyZFVvT1NSeHNXRkZ6NVhjdmpFVzlzR3p1NndraFBibHJEMTB5eFJvdTdiVlF5SzN6eFJ2S25uckZXR0h4Zk1IR1RzZW5WalNOczIzWDNmU3pvaDFuMVVoM1NzRDBBTGlqNlpIbjVEdEhVYkFGUW10T1NPc3F1SlNWWDU1c2JKWFRZcUJac3pVXzhfVXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/major-quake-rocks-colombia-and-other-countries-causing-damage-and-injuries": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbDlYcFo2dFFHazVDeEt6N3oxMXU1b3dTZUFKdVlzOUgybm5fTFJLay02cHJMVkFRZ0RrQVBsWUVUUTYwSnZvejdRdU1yakp3VkxBdmZ1bUN6Y0UxLVZ6S1dhRXRDWDUxWVRZNExsYy1kVFRkZXFuX2txNzJhdWtQNXRn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWDFldVRuUDZxaEkzU1A2WG1USVFQRW9QVG9yV2d0RUZWakNicHNpR0Q0aGctTFU4NXRFVEgxaWp5SHVXLVZ4YUNpcFpxRFpFaXNOeDgtTFQ0TnBaV3pBWXRwTklRVGFrUUhNTDlkSmM3Yy14RkJSVzJ0VWI5QzdCYmtkY09SSDFtNnluSE9kYXJobVoyZ0ZLNmROZC14Q1lDcDEwY2ctSDlUaEdVVFRMeTZjTGdSNjBQdE5UY1VBUkh2YnJDczgw0gHMAUFVX3lxTFAxQl9ReHRadDNTUGVGanF2VDF5eHZWTEc1UmFBYXVFN1ZjQVhtZm9yeEQyX0hIOVJVN2hiMEVWY2xmaXRNWmxNYnFMYXFwQ0E2dW5mTkczNFFOck5wRWlITUpfYk9GbnRhTDc5bFFGXzFJNmtPUURyYXU2QUVJZjI4SnJzWTdaaHlxSTRDSk1mQVhkdGJvZkdhdGw3TVhZQmpmemJPcG9nMHZrM3h3MEpnVG5XVHF0SWFxZWp6ZlB4UFFaMUJrZ0lGbEFNVA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjBOSG42V2xtU2xaRGItallmREpmYmpBcDZlUnRsR0ZEVEhBWm1nd1JMTGFCMGFqRXoxOTJ3Nmx5Y1l5UzdVWmhPUGVuRWp2YWxRY3F2NFRBcjJoeXo3TC04NWN6VTdQbXRId1UyalNpSmdDR0ZCV1JoQTFLaU04bFRmaktCTG9tNnhBRG8wVjY0dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/large-earthquake-hits-western-colombia-causing-damage/a-78307841?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/10/how-the-us-far-right-weaponised-inshallah-against-abdul-el-sayed?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
