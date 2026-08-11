@@ -106024,5 +106024,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/11/oil-prices-and-us-bond-yields-rise-as-trump-and-iran-trade-reparations-demands": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/parliament-monsoon-session-day-17-lok-sabha-rajya-sabha-live-updates-august-11-2026/article71330961.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/colombia-earthquake-rescue-survivors/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWxIMmI4TWxqOF9QcUFrYTR5UWUtTmVob05ESFVWZkZPZHBCci1XbE8xWmRYWVlRZkx5MHUyaUVucG1id0JORU12dUZTTEdzT1lWTEpnQ21PWHV1bUVQUThHSTJqM3RwdEkwdmtVaDhKTjNSNjhCbVIyY3A1UXJpOEhBLXo3US13QjB1UEVTM2xRdE1lZWlHaUpPaVZ5QUdxSEZmNTZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608110275.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-south-carolinas-election-to-replace-lindsey-graham?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-11/colombia-quake-levels-buildings-sparks-survivor-search-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGhOcGs4VGFOaVFkc29fcW5IZHRyMk01TWhsMWRMLUJiSUVHcnVleFZQd215RkdKVjUtZXktTG1MYkpoMXhwb3gxdlVCX1A1ME9BNktBX2dBQ1BtbjVlbUpOUFVXWG9CVzA4VF9DMHZFT3dmN1RYcThlY1poSUFTM0xXTC1haVhxdy1YdTNIbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPR2JNcm1NSDVLVmhfOF9uUmR6enJQVElYVXJXU1Zrdldwc1RJSnFrQVBwdUhPMnVwTlExZFZ5TkVyNEpMYzlQRUl1cmJRbENWTkVHWVY4ZkRKLXd4NFdtcVR3ekVJRDU4WWhkaldodG1NZEJaaktENDIwQ1F0UVREQ2U1MjNROGV1Ukhhd29HMXZQU3BGNWJnR2NQanZDaWxTdGR6S0dqbkpxNlkzYklJTmpUcXpRZjVYQS1RbGt5Y0xyZmQtSk9OY3dxYVdfVmFUSGE0cUtCUXZyajdCNjl0dE5aR193bkFoTUFGMFM0dHplZm4yUjM1cQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/11/drc-ebola-death-toll-passes-2000-amid-fastest-growing-outbreak-on-record?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWJ2WWVFNndaVlpZVzlxVll2d0ZzNVhRbXZfeDVFQ3FuNDZmNHN3VmpZMjFYRkdKSkpROVZZR0ZaNm1sUUpjOFd2aUpGN1VVUEdmSXBzU0tNUUxrYzkzRUp1enI1ZDBwRnUzelo4UlhRYV9xdnVtV1pBQk5HOVZuOTBwZlFqYi1hXzZBV3lCcE1mSzBaRnVMNVFBc2d3ZjRpMkJIQ0JTMHMwQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
