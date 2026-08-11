@@ -106096,5 +106096,143 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/health-screening-camp-held/article71332232.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/search-for-survivors-after-powerful-earthquake-in-colombia/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/11/qatar-sees-positive-signs-in-iran-oman-talks-on-reopening-hormuz": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUkhYLWd4REVPZy1BcFRXOUNWQUhPckNXTkRWbWRHOXFVT2xtcHR0NGlEZ1gyMTJBUzJneVVRSFBTUUJhRk96NnEzYzZKOElpTXpJTXJkdC1SLVlIUWZkVDd4ZW9aV0lJeDBPcFl1SUVDRXgxRnBGbkJDaktwdlZfaVplang5UzhNMGZRTjMxVDJOV19ERU9YSDktSHZnVkNyMG1DWjBvdlhORnlUazdpeHlaVXlPODZHWi1QOFZFU1YxMEtVN0hKY1ZocnBrWEVMdWxTandTMWlmOWFpOWpYYld0MW5pbXBSVU5CekJUYzA2bjRxUkliaERuOW5nSkZMazc40gGIAkFVX3lxTFBNQ0IyZ3VlcHlYVUtuV1V6bUFmUkR0SXRqWDVHeTZna19CWUpGcHJ3U2N6dXpvWHFRWGVIMF96ZjA0NUxDVzIzQldnS19PSDNJemRrX1Ewb25LMjZHeTlhRkZfaHdVUlFBbmw2TGE0TFhibW8zTW9EM3UtSl9MUVZWVWhPT3gxcHN4NURGSGxheFVBc091VDI4MlN5c2pqcUNybjZjRUc3b1VXcTFuZFB2Z1l4QWVZSHVtT3FzTVpWaDNjNWVnU0lHVWJtQVloZHNtZzVsWlN5TG5fVnBLT1l4dENZYndFYnVCX29Md0VfbVQzZ1NvSEJoMXJoUWtKVGRsQ2prYWRvbQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-11/a-dozen-ships-switch-oil-outside-hormuz-as-barrels-keep-flowing": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/latvia-migrant-tunnel-border-belarus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLXNYZ3hSSXc3eGpRZzN2SXd6MDQ1a3dtYzZveDM4NHMzcHVUZ1VscVc5c2hKVVEzSE45dmdBWXloUG9mQW9jc1g3Skg4SjhCU25NWUpUUG1xeWZWUVJJSnQwVVR5ZEhsNF9nbkNSU3Q1U25tTWdvRkdtYWRwWTVxSkRsQ3l1VWNVcDhOV2J4ZmVScVRPNW14dzlZRXdxWU10Q01XV183U1VDcnpWc09Lb2N0NU0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/races/manwar-and-blue-jet-please/article71332326.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd0YxV2pJczZzcjJmUDRBT3NhdWc5UXloWXZWbEQ2UFp6SEF6TC05Vk9nRWxvWEtwaGFFS3FxU1lxbGZnNk1kOVFQOWVCS3h4Z1Vrc3B3N1YzQ0JJT21oeGh1UGFqNDZRelpqT0R5Ml9iM2RHLWg4eDJaSXJwc3RER0ZYWE9FZ0tTQ0d0T2dQbzFBdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgJBVV95cUxOeDQ5RmIxNnN4Nkk1UWFBNHY0QWFJUGFxLV9MMmRTVUQ1Tk5XVmtmZVFoVWJueTltOFBhczZtQlNHOWc4bWZZS3lVelVJVWZUN3ZVUS1tazRQWWIzLVduRmdGVFM2ZkhDN0J2c3NKUVg5cWVhMVBiSnBRZTZKMkNkc2tlOXV0dC12NkRIRjF5QVk0TVNYR3lmVV9mZ2lHbENKUTFfSzhWdTF5UGZiX2h1ZHF4ZGs0SE51ZGt1YnlCQVJ2MllHMkJHc2RPLTJVQlU1bzVvaElhYXRYZy1zWE13dl83OFptczR4bkQ0dUN3NHVQSFpiX0NlN0tUOUNfRU85RWhWMnRBTE9YdlNyVk5abF9pUG1LS1IzeFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY3ZUZkgtdlFGSE5XR3dOeVpuMFRpM3Q0MU1xaHFpYVhHYmNXZkM0Q3MzcUVKZkdyZjlwbU9oQVFFbXNjZjNsWl9GQm1xTGxtcDNnTDFUVExwSTNXSkQxYk1NN1FUMTNJNE1TYndscktEUXNlRlZLWlFpRkJ0Y1VaUFVtMU1XYlo5UGJiYTlDdmFjXzFxdUxQcks2S0pYZGpCUWhnTdIBtwFBVV95cUxNNHFmYVhnclBmMlFqT2pmQnpoa2pTTURvb0drOVdZc2prTVozRlZOQzZ5SFRxYW5mM052dG93NXBVSjM0Z1J6ZlBGWm5pZl9fazVId3laQk8zd05iNmdMTFpOOTdGVEZSUDIxZE42MndFZ2lxa2NtYjRoeTVpS2dWTlFMeTZFY2UyNWRucjk0NGpBT1FEUFNIUlhyTDRsejBNQ2Rad2pkU0V0MXg1ZTVYb2hOUl9oeFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaV80RUFOQ0t0NUJEYnlTTUxjdWNOSlZzWEFUWlFhVlNmaUhKMEZhOXo2dDdHNHFkNUdzTTdNVlRoZkpDZWJpNnRqaHpVYXk1emNtQWQycWswQ195YnJJM3pKZ1hTR2NkZ2R3SFlzdUVHUnowZnI4LUhWU3VZME9XUWVGUFowY0FZcFFuY2ZoYm9aY3plcnVDdTZmbVfSAaIBQVVfeXFMTjItNEtxMVc0R2hPbUJ1N1gtMDlZWThHNTRhMnhyd0ZFMTFhXzZKQnRnbkthU1JBV3d5aGpUTGpwWUxUMnFZWnl6RzdyQUVEa0FVWmQwLTJLOW51ZVdfOEFBTFh3UXBGa0hlcmYwbl9nZUhKTVY3U0xXY1h6cXctQUVveVNQRGZTeWI3LWlsU0dhbkROdUxBZFhqcFVKMV83T1R3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/11/final-phase-of-voting-in-pakistan-administered-kashmir-despite-security-fe?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/11/russia-launches-massive-overnight-barrage-on-ukraine-leaving-nine-dead": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGhFZkJsSUhvZkRITE1LZXVRS0JLMzJyU2JMV2luYnB6aE1LczJPTHhEUGt4b29TUWo4NTlNNFBtMXo3bnEwRTNoUzc5QVRPX3ZLbXFacjJZSURuek1ySjlYSWxjanlXRXp0akRjbDdkc2dWWlVSOWRaMlcyb2ZERHphM0t3cnljUVhZczhLWVMweHBpdWhiQg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV3duQVp0RW53VFFYQjlaRFM0WmNEMExGbnpNYVp0dkRmekNXZm1mYU9ReExwWk94SHAtNURBQ082dWxRUDQtelVYclc2S1phYmdKYm1VajNHWVVLb3Nab0piQzVwdjdpSGZyU252djk3Yy11R3hWMzVMY0xpaUFXdm1ibFQ2SjhqaVFLUmdmY1RfSmFldjJWeGlqeEZaMFRUbnhIVE1fOGF3VlHSAbABQVVfeXFMUEZEREVlMTl2bDIzdm9oOUZYX0JBSF81WHFPdVdjQ2drdHNGRF9hdkk3VFpwQmNPZExPYnVOUERFYWs3aTRjUEhkN0d4d0psS0pWby1EajYwV3Y3Tk9RS1JqWnR3ME1jUGZmTEJKRUNSaHdKWWVGTDdFcXY0SWY0NElCYmNmOV9PQnowcVZJNkZFbVY5bC1Ba1Ntd1lsN0ZQM050dm9TYlVlOWdpelZxTVg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-11/us-stock-futures-rise-as-oil-erases-gains-on-iran-optimism": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVU9BWFRsWmhJdzBabDJkM0JGUFI0eVI0WEVjSk1NbGxqM3Jua3QtVlpaSGsycS1MUV9rNGtvajZZeUJUWXJqTjEyd3czWG96ZGhnei11Z2Y5VFd3MlFBWXBVS1hQRHNZQXJ5VjNIRDRjTERaQTZTc1pnbTMzeWNEV2FVYWk0NEtXeDhMeTJ0TkU1ZGhERC1iY1VIQk9GM1ZHNGRiYzdEcXZtYmFa?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRUFhZ2R3U3dzU2kxOVdMdWN4NWRjSU12RlY2dW5kaGl2Yk00eGZjZnhSc2FRbU9DNWVxRW91U0lFbWQxY2dXNTZxX3FxbW1zQXJlV0plbldiWXBOSlVuNHJqVV9EODVfQVI2TjFPbW1SQy1hU0RqWFpweW84QzZFcnNPRGsxcXBDd2ZkV0huU29lSmUxVG1TbWVXMmRBOTVSRWwyUnVDLUJHai1NS3FkYQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/11/what-to-watch-in-wisconsins-high-stakes-primary?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcldzVjRtWTlkZEU5RGtFT0FHTFJpS2tndXlabmRIZFhwRV9rM1R4UmVRdGFRamxxaWZYU2pjLVh1MmlHZzI2aDRobEdVa2RFcXM3bVNQa2VERUdwcXZBaG80NFBFa2dRTDhoSEdvN0x1VjBCcy1ndm5pR3c4aG9ycjF1cHlUOGJNWFdjcHlrSmpqNk1SeXRMR19Kc0M0emNhbTRHRVl3RE1DMzFoZmpZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQkFUWGJ0YzJTamsxVVJIUkFTMlMyUkhfbDVyRzZ5ZUNzeGpNckdsemdrMC1HZUdxaWNyRmI0MGM3ZjVyS1ZibTFjaG85UzdIUmRLT2N6SGNaNW5wR0ZKWXJHaTRrbmI2cnZhNl84VEllNnE4SXNZUzJhOFlxTS15X0YzNTV5Tm9tU3kxVWpEbjc0bWFyc3BwUDJBckpra0RFVTBKTEp3SlJveFlseXZ5eGFfONIBuAFBVV95cUxQTHhMamxEeFdEaG13MnN6emhPQ1laMDZ0d3ZUeHZ2VXIwaGdRWVVuM2MtU3NDbExDcThLTWRsVVlrXzRFUU9TTkdMeGNra29EblRZQmxTUHQ0MUFpQ3ZrNUNQTC1JdG1VeDlfTFJJYzFsMTBZUDhybElaX1gwa1VJbkNFTE1WR2pKM3ktWWx1a3pOTS03WlFpSWlKU0pPM2FPbGJxOWxjbTdnZFJFYXYtVWFVTTZzTWlZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
