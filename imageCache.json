@@ -106972,5 +106972,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/11/belarusian-opposition-politician-and-scientist-aliaksandr-milinkevich-dies-at-79": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-11/coreweave-took-a-step-in-the-right-direction-gil-luria-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTlRoakI3c2pYM2piaHd1SS13aExHWFRvTnR0d2JsOEY0ZUdRRUVDU1BBWTRhMlFrYXlMQTk2emY3VlFudkc5UTl1ZDVRLW9TUldscFBSV3U2ZHBZWmV2Mk0ycXQ0TnZSeG9Dc1hlWFpPZ1dab2ZqU1gxMzk1dFJCdmo0dndjYS1ldDU4QzlYUzBBU3FnYnZvZjhFYlVwNFRlVnVBbFBKSnp6NjdYOVA3NGluRm91NUhpRXUxN05fYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/zelenskiy-ukraine-has-given-us-negotiators-proposals-for-ending-the-war-with-russia": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/encounters-crocodiles-puerto-vallarta/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWFJNlo5OVBFTGNfdFRhSWc2OTVoN1h3X3VxemZ6d2NBS1h5eGNkdWVEMno1QUloLThMQ3dYWGxieWlVYVJYUzBsRHVOcm1fQy1BNGxBdlFhVURQRkVKZmkwcG96TW04TzNsNnhpOWUzbmtBQUM0LTRSOFJpZW9GdWV4Y01xYlBmMnFJaERmMVZCSzhkZWdXYUlRaEMyM09PN0tF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZERIMmFGVFp1aE9RcTczdmUxQWlMODBDWnpaWVJudTFvYzdLcWw1SFFjaFZPalJGZ1Q2YVlSTF9Cbk5CeVF2ZFo3a3daM0JKYXVIMUk5N0VxZ0RBSEFKVzV0MWtZWUQyRjlmd1JMX3YtcFppZFdzaEhvTEozX3VkOC1wd0RvSWdL?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/lionsgate-activist-investor-sale-1236671497/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/pereira-the-zombie-city-devastated-by-colombias-earthquake": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUZpWS1WaE9XT19QTmNOaTU0QkVYTEZ0NHdrNlZYTWVVdU5xalZNQTd5eXhWMlVQYWxELXBYOUlkVzlEbklPU21VOWdUVHpYQ2ROYXFfZExzSXFPVU51aVBGSHhzV3hza2R4NE5ydzF5V2Y0ZjkyY2xaeVFuUHBvRG02UVl3VGlCZlRGeEFSaG1hNnQ2M1Rpa0EwV1Q0eHE4S1lpbXYwajl0VEZYbXdF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZQ1QwVXd6SHFjanlBLWs4Rmc0YzduNEx6ZU9XTlYyLUhXcEI2SkhlX3liYVE1SU1FblpTaXJUQUJYSXNzY3hkODdTeHVVQjA5eWlfdERmMEdPWl94clk5WW9GOEJxVy0tWmxHN3pNRlZzNVhz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
