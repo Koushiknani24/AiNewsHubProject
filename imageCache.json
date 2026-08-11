@@ -105262,5 +105262,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-10/nvidia-taps-wall-street-for-500-billion-funding-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-features/taylor-swift-bad-bunny-trump-remove-tik-tok-songs-1235606235/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/border-wall-expansion-memory-porvenir-massacre/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmNtRkJsTVRhaWN0VHRrMXBlSm16TTUwSUFfTUplcnpGR2g5Z2lmdlJLRm1IZEhqLTBBNThXVzRhRlhIcUpwazlZS2gtT2JlZHYySXlKeXVTenVpbzltQ0JpUWFTNFpuR3VhSEotbldiZUswbkk2VG5MZTBmN3FrV2U1cm9sVC01bzFFUzFBUW5lTS13a3dqT3M5STBjMVhmSXpuUjNORGZpbjlHdTJxc2QxT1NhSXFSZnI1eWc3d0dUbEJoYVhLVkh4alY2dkg1YXo5aWV5Z2JNZkU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHduVlRUbzF4Z3BnazJjWlhUZlhMQjhlYU9TTF9sV2tmMG9qa0poNnp3N1o5aEFCLWxXNTljWE5TaVlpTGd0S2k3WnpGR0h5U2FiaW5XdUpjOE9lMlhmbV9yMTgwQmNxQ1N6Q2M5MktrTkZhT3JjWVJDQnVlbmFPSExxelFnYUhBNUJ5R1hwdzZzUXNwVVVkV3VRUmw3NEdKRERRZ21UbFlnd1BqQlhiRkhhQjI5VjBvVEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
