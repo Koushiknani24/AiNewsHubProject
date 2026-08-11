@@ -105760,5 +105760,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/11/australias-pm-anthony-albanese-under-fire-for-melons-gag-about-japanese-leader": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/11/nx-s1-5927084/pakistan-administered-kashmir-holds-elections-amid-calls-for-a-boycott": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/11/nx-s1-5927277/trump-signals-hes-changing-tactics-in-negotiations-with-iran": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/11/bashar-al-assad-atef-najib-sentenced-to-death-in-landmark-syria-trial?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/11/nx-s1-5883754/lebanons-poisoned-land-the-hidden-environmental-toll-of-the-israel-hezbollah-war": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/11/russia-fired-north-korean-missiles-in-attack-that-killed-six-in-zaporizhzhia-zelenskyy-say": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/services/retail/eternal-helped-you-save-time-now-it-wants-to-help-you-spend-it-district-app-india-consumer-internet-experience-economy-offline-spending/articleshow/133147450.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0dmcGIyUE9xQVNfU0Ryek5vZzJiOGtyVXVkb24zVjZCOGRsUnA4ckRsZU9kVlE0WlVKcjFUSjR5VHVPRTZtQXQzQk5lakhKS285QTNWWUZObWpTWUhIUEM3NzBqZFhqa2M3QWJJWTBvVHluc0tsX05PMUZna0RxeU1LcWZwMllrSXRhVHl1M3g?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0hubG9FU3V1dXljTFgwMnhpME9lYnBEb0hVMm5vYzFmOURYVmJGV3FIUWQ4enp1UVRLOTFab0dvZy1kVGd2d01DWV9LR0RhRm01a1lYY1ByYWNOMkQ0dWpvQnNzdTVhUXJfdjJVZjgwMGNibE5WeUM4SGJkSk1YRlMtSDF5UElfQ3V5NGd5WmtLR3BSblZGMjZNTVZhaHlkOWgtblRXcVhkN2Z50gGyAUFVX3lxTFBocjdhWEc4bTR2ZFZucEpxTW82V3EtNC1sZklTc0JUdDB4UU9PbmFBc0xPMzE0Y0dlZDJ4c3c0S2pQcEZSZ09fSVRsSWFnSnhmQ2ttY00tcGxsYVdQQ0NLdVhtcE9jYV9lTHBkeU5jYjV1M1ljMzIzOVBld3E2NFB2WHNxblhqVWVsN3h0TXQ5VDVfempFWFRKZlJtRXR1OHFFVTZvaUZOQmFBWGpsN2hqbUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/vladimir-putin-russia-used-north-korean-ballistic-missiles-lethal-attack-ukraine-zelenskyy-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3lKUnBLV3JxeG94bmVZRTJqdTh5M1N3cmZ4OEFzRm8tTjNHbG50Z2RBQmtiR1ZqNVFLcnhPNjRqeVl4enZCS2ljRnNtT05ORDYwUHpGdmZYWG1iV2RzdXVTVWljV0RYRGd2VmdSNnlEckIzRWpzaHRfUDRCR2gzSUw4MVRlcGV6UDA3aElqMmVVbVZuVUZvc0s0cUpKaUZ2?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-11/horizons-middle-east-africa-8-11-2026-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3lpdVlsMmtJZnVwSWRkNXluNTdYZ2pST1daTzR6U056QmFhNnRNYkNGVVFGZ1VVRkJWdm9CSzBuR2REX2M5T3R5dDVtcjlZTHQyUmd2YmZHWWczRmdNTkJGMTRIVTdXSGlTcEh5ZURFU0lGR3N1TGZzT1VuTHZQcC1lWHhwNnVjcTFkUEI2cEhKVEU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGtQSnEtUy0tUktVNHd1RFBxSDVLY293cDc3UjUzN184WC1DVkZmLTdPVkVMak9JTmhaVEd2bjYtbVd3RjFiaVBaZ1RRYXhDV3p0QWV0cWFfLWZWZmRBZXlLZnFpdXVFck1OaUs1OERzNnMyZXJVWnZTLXFLWk14Y2J1aW03Qk1sQklRamJ0d2xydFBmX1dYc3U0M1hpMFRHSHdlX2dnaFJQbWdFU0l30gG0AUFVX3lxTE9jNjlMNGM2Rzd4bE00R2h0Njh0SUNscXduWVVaemdVSDZqYzhaaU1mM254bDJwbU9iUHpydW40YklhZUU1ZklQQ19KcHZiQVZOUEk3YU5zSG85ZklHSGdldEwyQ092NVBQMkxaYmxqQ2hDdlhzMFhGWEJqc05tQUlfTy12ZFhmN24wS2JkYnVrcDc1c1BKajE4TFptN1FUeFhUclVjSnBEMm1CdGlPNjRiUy1IUg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbG5XNWZUV2d6aVR6MW53eUYyTlEtQjU2TWdrcFBFSmx5UFhhQmRLdFlPY09UUW5LaU84eGdfb0VKWi1rdTFHeTkxYTlmMjAycDBIMEZ5MUY1Q2R6b0c4b0hveUN0aWlKbjk5eHZrWjgtSEZnbXh5U3BHUGlmWkNpWW5RSWtKQTdtX2RROTBvdVR1YnNmR1ZZUGt4U2FwdFc2S3hzNUVQMUJWMzZLbkpoSUk2MWJqY3VEdS1RZW1mVDZhUTI0Znc1bA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNlJ5RUVGUmIzQzkwZEJoM3pIVWxydDNMcWlXbmljWlhVOUhKb2QtdTFnc3VaQVRodG9faTNUOTJKS3pMQ3B2RTl1LUlJWjhjZlJYNDBMNEJ4akY5aHBVWElVMTNmZk1aLW90a0lpYTgxYm5wcUxtS2dzSDNPcnItcFZMcWNoX1VOejI1OHR0aWt0Ry02ZGtFZURYZzVqUFFCSEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHg1SGZ0bkhEeVc2QWNHb3ZDbUJsUVRLMHZhdUxxV1dZQXlZM2lkYTJmSDZVQlFmV1EtRHFHV294N1pkbERPZXk0dHJSbWJtOUFwTHBwRERWY2xFMVJMZ1ZIM1ZLelR6QTJkUXVZVEFsRktVVUJObWhvRlQzU0t0aFc1Y2xraDkxV2J4MDQ2c3pVMm_SAZgBQVVfeXFMTVBpTHl0QWRxSHFON2dTREVVTmNjUGVRSW0yMWo1ZFpVMjlDdXhPdTJwUGl4Y1pOSHIzT3NjTHU4UXd6Vk80X3hEODF4V29tQnc1dGg2NENoZmU2ME1aUWVmZzRhZEVxbzRCQlc5RFRxX1NHTF9jdFdHczVrVXBiWXlPM0lNR19udzMtRURBYXFnSnVVWk16SFY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.yahoo.com/news/world/articles/least-14-artisanal-miners-found-080703713.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkswSWtKVWZRczhIMlNMX0U1cEdmcV80TUVWNGpaVUhPNHdwR21CYUQzOVFjZnctY0dzd3BxcWN5aFBraWpLOVh5VUo3QXN2d0FDZlluaElRZ0xEb1lqUlJYdGE5NmpLNEZWUm5Uc3B1M2laTHBOUXozMlUzZHJyOUxvdGhYYzMwUGJOWUhtRG5PQ3hJWi1sR1BNOVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
