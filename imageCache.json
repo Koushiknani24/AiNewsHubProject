@@ -106762,5 +106762,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/disney-consumer-products-joss-hastings-head-marketing-1236671163/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-11/trump-family-crypto-deal-ends-in-investor-rout-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRnY5VXU3eU9PanVBdlpjMFZheTRIcnNhVXhoQll6Q2pYS0hIcGJzcUJiWDdlUE96TXhIZGV1VjFuYURSOWRJVDhXXy1NUWV1dGo3QXYtTEdoSWRwblY4MktVclJCUktOSlpRTTFXek5KMDJ6N1VKVldKWHhCTEpwbDBydlVQNlN2YjVOZlYzQkd2OW03YURSaXRleFR5Y3JaZngyMF9uWWNVTXh5RUV5VUFNNXZvd2dGUDVsbE1BX29OeXA0bkU0UTFn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/writers-write-to-cm-against-uhsb-v-c/article71333027.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/us-company-stokes-greenland-tensions-by-unloading-drilling-gear": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUsycDRRdDRLNEpoR1d3V05NZEdldWRHNW9wSV93T2Z3dDZnT3QwbGNuWUM0RlRkNWx1N2hnMmZQTXctVW9KX05uamowU01iOTBMYTQ3YlJDdjRxY3IwN1NnSFpEd18zWjFicVMycGRMc2N5ZG93VGRQWnQ4alZ5amFTX3BQWUJTUHJtTUdHRy1lUDJvV2JtRW03RnBsQUlfQW9KeHBxSHVDQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkOEdzTVRhMVVuVUplT3QwZldSaEQyaEExZ2E5X1VJbDZTVVZyNktPUVpXRmVEVVlKUmF2NHFrbkhLS19yMzJpRDBWZHNnbFVrbDJJVjlrXzVGanBlVkQ2Q1FzYWtldHdlUUhicVpmVGNVQV85Mld4dg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOelVnTlh3VkxFUXBuMFlSUGQtb2VTMDNKNXRQbmtOalg2T3JCaUJ3ODlDaE1PSEE2TkVxaldPM1I4Q2ZtalAwZWtRdEtoV3VTLXlOdmFCcnY3bkxjQlZiaFpleTdEYWg0TGpvQ2lFSWlRUjhvVG91Rnhob3FJWUQzWE10YUdxVFlYTGNwS05ZVEVRampwY29VQlA3Sm9ET2ZuZzNqTmJQcS1ZdDMzdS0zaDhBY1NDcU9L?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/jonas-brothers-new-generation-disney-stars-camp-rock-3-1236671030/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSlh3QUpVc1pjXzFIU0hfUU5fMDAyT2JHM2VTc3dkXzFZdHgyVlJJdFNZSTNSa2NVbUlPbEdIYWZQWWpDZ0JfUHVreXA2ZWVBM2hRN2U1NHZyaktWLWFjWWVKSzFuM3NGRG1IeXhUQTdESkpFV0xfZ2NnY1VlRVpoV2UzT1h6R2R4U1ctbEM3XzY1Q3laX3FlSEg3anF1aUlZZWN0UW1CTmZhZThXR2gzOEpNWEJqS0Y5d29PdVpxSzNTbUkxOXFjdEpTX3hVM0ozTVZieko5OA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/eight-try-blitz-all-blacks-win-in-emphatic-fashion-6312901": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0hUR1NhTjZUSjNKWmFPX0p4cEY0TlVfejM2QU5qR3RzbnZNQmtsdkJnaUtveHE4TGlxTFY1QWlYWjhZWlBLcnRtbkRSa3M5LXJzU3NsaENrLTJTLUR4STJ1amhfM1o0a2FMZG5MemJDLW5RWlpLSmNnSDdBeU5JU0hMMTdUbHNVT19ndy01ZzVjazFwMFR4aXNjeXhuUEM3VElVUUNmZFhyNzFteXV3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUE1ET0RxWlFFRlhxMFJFdUJLRm9YOFF1NWJ3R21wcFBEaWdFNi0xempPZUtKcHd5ZHZYZVVpdU1MaHN2b2xWMjlmekVkZ09CWXFOVnJPQ3lEUVNWWHZlbXFOUU1iQ1pGeFFKLXJrUWdGTnRMM1JPUHMxZnlEUDVZUUNvVWxLMktCWWVEY2FOTExERnhmT1VuZDlwRXRTVnoyMGVFSUNTRmJ6WGQySExoM1BR0gG3AUFVX3lxTE1BR2h0ZWZJc0RJNExyN3dCZVJoM0prZ0tPUExQUFBnZXVqU01wakp0Vjh3R0ZYZmdRWmVsNm5pVG1ObmxuaHNBYlBxWHAxeEZtekdHUTNDT0RLeEVsNTlLM3I2Um9LR3lKS085bWRGUUFER3ZMdm5LZUhmaFhodTZLNWYwTTBfX0h5UWhsUE1YR0t5NXcwVnlteGtaQmRiR25lMUJMVk44MmpzLW45NzZtVTRFV1Nxcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOand5aE5GZ3J1XzZUUHdqLVhXLWFRZFpHU0pneUNyS2xtR25wcDNMdUNIZ1d4RkF5VTRZcFEzOWxVRnpvRzEyR2hxTU1zckt3RTJ6UENIUWtaVXBwWEpyOXBwQzA1Y3JFd1Z6Y19waEFfZ2M3eWc2NXUtYlhWM0RPY252S0ZvOElPdzEyR21ZVWZFcUZmb3NPb29HTXdLejRtTmlB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV3hwbDJKd1BtQ0RvWGdiLUJvVG5fWkVqbG1uN25qbWR2bTFFdlp1MjRtZUlSejZqNVk4c0RxR0tLRnpSSzVNU0ZOa2pEbXlLQlJLdnU5OHdsdHJWc01oOHlVZ1lJcUhHaTNycmlqZkJYS2tEM2VMRkRjaEtUQjNxbEh6Ri1OaXg3TDhkOGFHdWt6Nm1YaE9VaktEalp4aElmN3pUQVljS0wxQ0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
