@@ -107056,5 +107056,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAJBVV95cUxNaGZuWDdwRFM1d1JTZnVudXJOTndxTm54UTQyWTNnajdkSUQ3WHVGbzdtd201OUNKRUs5SXRTREp3UHIwRThHTVJ0dk9FUGg5Z3o2MldTUmtxaUNaZTBST25xZmE4SzRUYmhFeDlVc3ZldzBuWW1YeVFXUUp0R1hyQldOQjdJM05TdUEyaUpya1dFSzJ0VHhrMm1HYkh6VTF3ZGY1WTF4NDdFU1MxNV85WGF6TWEzY1M4RU9BVG00UTNDMzVFaWo3Uklna1ZhVzJTdElaeVZfU19WUjRoN1JKd2d5WXZnXy03Zk5OUFl2RmtaN2NVWGY0TnJDUDJpbExueWVGbFpyNVc0M0pV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-11/redpoint-s-brescia-on-nvidia-s-500b-funding-ai-capex-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-11/upwork-ceo-on-ai-disruption-concerns-earnings-slide-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/trump-white-house-asked-doj-to-explore-new-reflecting-pool-charges-sources-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWm5YSDhabDUtVnNWU05KNVV6cEI4RVRUc19aR245RXpWaHlZVEJpcGExdVdyRG5KenVaMVJHa2hnM244RktDTXhvX055dHoxMENjR1ZOckV2bGY4dVpzTWp4NFpIT0czVGJBSUhpeHR0MFhsLVZhWDdJZHdsTGdMZzJVdmJmNk95LXhtZjczb2tTMkNUY0lpZTFCcnBoXzFJc0lXb1RBQmRybzh1V0ZkQ2h6M0RueDBxVzZwSlVVcTRqM1hCamfSAcsBQVVfeXFMTUJXYVhWd0Q0LURUNWhBWWV3WDZ0Wld5Z1RJa1FrS0tneGwxVUN5RDZLRy1jQUNvMkJFZWRnT0dyQmxmQzdfRzZnck9MaUdXbjU0cGs4WnB5UVlzbFJ4c0EtbEpKLWlZTHJPYzVBQ1dZZ2JzbkFRSGJkajd3cm5FU0RSbTBmNEpVUWk1Z3VoaDNId2l5QzJ4ZnAtM1ltNEN1UG9NejhiUTVTRkFmeWxqYko0ZW9XcnlUd3ZJc1hBcnNPaHZNbkpldHhvYXM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczRfNktLU3lTNHRHVU5wVWNGZUNaVFRZSkdJWnVyUUY3dlA4c3BmWVlHLWwxRzM0eHkzdlIwZVhDZHpGQWROUlAwbUJXcElYMTc2TExMRGh1R0xwY210RlZrYkd5N1kxTm93OVY4WFVHR1RhZ3hrUmRlclpjLWZhbFo1TmF1c3VhNXZFd2VMQ3E3ZjJmUnQxY01HYWVILXpQQ3NablB6YkZMU0xS?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUzFvcm11R2NsWnVGRnAySFZCS1VkMjFlb0RubS1IeUNweUd1QWhwWjNKdUdqUllGMVdBNGFrSkVlV3ZsaXp5aWVSd3VWdkg5SHJKQmJ0OEJVeXdOLUc4OXZtcUNUSXppaHkxLXlxMFdNY1FRS0dTSEpFeHlYdGcwSm9TVnFZeGV6emVvdG5NT3dTaXk3Wko5T0tnS1p0bXVFX3BNXy1YRzREWkJ5cDN0NzEtYVQ2Y1l2amwxaF9FWDR3U0l0RjBz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.arabnews.com/node/2654150/middle-east": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wOG9XNk5mUm9WMlotc3hraTNLeVVocEx0UDBtTk8zcENaX0V0WEwxMlRkR25OUXRLOTVBMHJvUDZ2akh1R2lWVHdncTJEWm9YNkZwWGlB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAJBVV95cUxQOXFReElLSnJDaTh4VV85Z1NqeXlyNDVYY3laLWRwWlR2TzRDUjc1M0x0Vy1QVy1YNW1QaWtxWldWWW5iSEVyUHdGbGtCcVZXSjhFeW5wQzMxZGpBY0ZvQzJUVUdSMHA5dDZHQjVhRE1wOWNmLWJ5YTM2VlZlX1ZqazBYRFJHVjJTQ2hyVjZuYWZsZjRuTGoxdWw4TS1mQXdDMUV1TFdQd3kxWTZXNUdIWU5DaHJDZVZVUWk3cEduR21TbDNDZ1JNUzNuei1sc2dxZnZpQnJtajhycEkxNDM2bXp5V0JHYTEtMWxaVk5IOVVGQW41ZXZQVHFCcUZ5Qk9QSTA5aQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
