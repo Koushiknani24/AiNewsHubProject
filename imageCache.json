@@ -108364,5 +108364,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/aaron-sorkin-facebook-social-reckoning-zuckerberg-1236672156/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/sheinbaum-mexico-medal-haul-central-american-caribbean-games-mananera/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/business/yokohama-plans-to-expand-tyre-production-to-63-million-units/article71337868.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/man-fiancee-found-dead-hours-apart-in-kerala/article71337752.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3LVZYc2JrTkJOUEc5SFkzMHZ6UHNpajItYThYSF9PVkV5eXg3Tmo4NWJ6VTltOGFfMmp4NmRHVmpkeFNESmpwdWJXczh2MU5lRUhWRFJCODJaRWFfVlpTUW1qUWpQRWo5b1pTa09xN1dySkE0VVc1SlJvMmk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eurovision-countries-war-sensitive-geopolitical-situations-host/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/the-paper-season-2-trailer-peacock-1236672136/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOclBfbGxILWFVV1cta0RXR3pFS1FGTUNoRXdvT1F1NlZtMk1sQzhmb0hNZGFlS29UZmRQQUQtbWZCYktGTVpaOVBOX3VyLW1DeWROUWs0dk0zdmEyUHg4U3VvRzU5ZkVvd2JPTk9EcmF4R2NvWEM2TWcxT2V2MGpXeFFWbkZmSTRmNEluMDJDbXFHem5zQ1hTMF96UkRGRFFJWVNWMXVmSWpiSjg4d0xsa0RCbjZZS2NJTDJiRmN4VjhRalR2VVdOeHl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/brazil-suspends-discord-livestreams-after-teen-suicide": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/due-to-the-iran-war-iraq-is-running-out-of-money/a-78341409?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/patrick-ness-dallergut-dream-department-store-novels-disney-1236672114/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkx5clBvSU5kczl3M2l5bmpkcjREM2NEbnEzQWhkWjNYenFYXzJUYVhZOHJzenRpemhYMHgwNmdmN1gyTjg3dHZpaWJhWWFPNVNWbHl2bmxLSGF5c3RrbE9CMFIwRmwwVGl5SnJoWU5DbUZ2QmswOEx2NUhDNFVJOFJlNnJvemNfXzB4RFdYX1JHYzV4SzliemI0emNlQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxONVZZRW9rR3JVUUFiVHU0d2IyM1dzNExKbDJ3dGo5dUU5TXZsdWlucjhmdnlqQ2hIZkZFemVYSlNRemlwSGtuM0swSWVuYUZ6eGlJaklsem1CQ2p3X05UVk1DQzBxYWpqc3U3R2dJVV9GSjVZTkNqRGtMWU1OcFdlYg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israels-military-says-it-targeted-a-hamas-commander-planning-attacks-in-gaza": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/mozart-tribute-ends-on-sour-note-after-mass-figurine-theft/a-78341647?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nV0V6dkF3WURvV0JvbUJQMFVJMkRRS2hMc3d0clRSeER6QlBUdFViazU2dDJWNUQ1QnZoS3dsejhfRmFUelVXQ3lVcFlNblozVHA3OEVVam5mUU9McmJsUDNvN3dmNHo2bndNVGZQZGU5NzBtUnRz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/credible-missile-threat-led-to-secret-aircraft-switch-for-trump-source-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWlk1aXBoOEtySEdGbTJjVG9HSU1PaWdpaUlRdkQxMEpUVDFtVzQ2b3pHbEFVNXdUczUtUUNPc2c4dmtEblhKOWVJVjR2REVKekgzeGk2dnRjTkhwLWxCcDF5RzZqSXROdkJiNDNObF9ncXNqUGZwQ2hTRkJqLVZYbWxNQ2tXZHdyb0paS2EzNzhsNTRKSkh3cmFOYVR5ZkxtTnE2ZWVRUEQ2V3FXZlF6VXY5TUdlckgydWcxZWxjSXNfOUVIMUswNWdVdXV5blFXb1M5NjJCYm5mM3E2NG5kLUZncUFfWW9S?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
