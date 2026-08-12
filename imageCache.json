@@ -108820,5 +108820,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/12/nx-s1-5927347/in-west-banks-crumbling-economy-some-palestinians-turn-to-israeli-settlements-to-work": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexicos-expert-search-and-rescue-team-arrives-in-colombia-to-help-with-rescue-efforts/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trying-to-bury-the-science-us-climate-research-under-siege": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/tropical-storm-cristobal-expected-to-dissipate-this-week-nhc-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBBUWh6aTFzVkZFUGNWTG9iUWV3NlRRZlh6NFRTUnlHNGt6Tm5iZVEycjNwZUcxN3dIWjJCUERRZXBjUTI0YTZOdGZLUXlsOWtXbWFUQTZHSS1LQjE1dVozZWhrTUtVMTlVM0hhMWtQcWF1UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-12/us-regulator-denies-egan-jones-bid-to-expand-ratings-business": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/if-i-go-you-go-right-traveling-on-the-presidential-plane-without-trump": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRTVwRGt4YVRzZEUwZzh2Yk93TGhsdW1kTGluN0dva2lTM0M0aWlObTlFMmQxU1Y4NkQ1Y0hXWnoweUlfSWt0SEtwT21OS0EyekwwQjM4UlhBV3VyZVAwYlFYMDl4MHlKZkk5bWJjdDVYTURVX1ZGX0Nnb3piVjdkcERJRWpqaDk1VXQxbkNsaG5NU014WEFRV2lWQkZxOFhwUEpwMTBYUjN3cmvSAbABQVVfeXFMUFAzaV9NX21TT1pubXQ2Xzl4LTFqVXB3ck5VY3ZUal9kR1pVMTRQVEI4N0ZOOEFUNFRGNE85TmlYbWpkZ3RjY0RrOVhWRHFmXzJiYy1DdlJIcUJXaU1xVWpmeE1mUUFxZ1FKZlpyLUZ0RTRiTFk0Y2FkMWc4ZmxXSGxLaWEwWDdwSVFIVEtXVVpyZUowVkxXVDZZaVMzSTBkU0M1ZjdmLWlIWV9CbDUyUGk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
