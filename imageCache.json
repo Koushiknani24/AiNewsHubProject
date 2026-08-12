@@ -108166,5 +108166,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/opposition-slams-thiruvananthapuram-city-mayor-vvrajesh-over-claims-regarding-us-trip/article71336948.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkplZzJNbmhtbWdrOFNMdlVoSW1yeVl1RTZRUWgtUTNMd0ZDWksxQldMRHZQM2dNelF0NEN6MWR5eXZ0ZUpRbTBSVy1zdFpvc0czMzVQcjdlTEhKUldXNFZKMkxvME9ybUtUZlhvd2F3UVhIOWgwLVMzc2lFcHZ5OFdpcHBwV0xIcG1zXzFfMTQzdHpKU3hhcmVOMjZWSU02WFowS1ZES1UycDIzcFMxRl9UcUR3X2x5ZWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/there-will-no-bundh-in-belagavi-on-thursday-say-kannada-organisations/article71337496.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/12/rent-in-spain-tops-1100-for-80-m-these-are-the-priciest-and-cheapest-cities": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM25qU1FmSlVnbW9Uemp1dkNxMVB1T2d3OTA4UXBmWnREdHZBd1VqSDRac2VVVEN4bEJ5Z3FKYWNBZHktbUlEd3o0MHZvdlJGb3d0ZXl6SGw0Mk9PbFRoYVdsYnZ0dGcwRjkyZnRCZjVNOUtFeFE3VC1iSlN1cElLNlllLUZOX2NLMFNfeVVfRW1Mdjl1QUt5aGRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608120420.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/search-for-colombia-earthquake-survivors-stretches-into-third-day": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHVDLTBkbDZTOFVicmRyaXhsTkY4NVRfU3VFWlpXdDdzb0hYX3Y5WXpIZEtGOHpUQ3pRbGdtdElqWUNzeXVEeUhrQ3Z0M1BwTHRvaFlvWlpqWE53Ql9YRjFwNl9FQS1COVlScld1UHVORDZzRHEyQWw3a2lqbl94c2N6N0ppamctcUpMRkEtTjZVNXg5RndGOHpod29XLWJrQkHSAacBQVVfeXFMUGdQU2JqRHVJV3BCY3RsREZWdlBkbGw1YnpXMGZTMkV1SXpteHlyTmNiUFEweDRuWGREcktIWmtKOW95T0hydjNXTFc1UllZUGdwdmQyLUh6cWRZejdLdDNqa3o2alZlQlFmX1J2eDNoWDd4YTJiSW5iSU1ZTTZkZ3d1YlZIVDhRLUFfTXhZaUJQaEZCbTg4bGhGWkJHTEVIemh6bTlTM1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakNBZk1WeHVZd2NFMWx4QS04YWNWZDd2OTdUeGtEbGI1WHNBR3FFd3huTllRR1BUTEdJMjhBRS1JeEpoSWdUNUhsOWtpa1NRV2ZJOFZ6RXJYVmU2QkNuNEFzcUQtMXZvS0V2SDViQnRUZXFHLXd0c0UwVUFRLVRxTVc1MmhXbmtPQjc0dm40ektkVXpMdXpUVUUyRVJDYnJ6d015Ulp2M0I3Mk1sOWdYTU5Sdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ0Q2Sk8xMzBKamp5cHJIdlp5MHIzLWpMZWVFaVJXUFFGN0E0cTN5QnVMLTZtRE5lSC1xRjNzS1NEVkt4U09yVnJsWDNGZ0FXNFVtMXRDa2FRSjVoM2M3QTRJX29ia3FZYWxTOVpkNVlGM1JrdHhLUGdtQVRYTHdrSDNjZEU5QmtLT01YSjUtZFFwQTBVSmNSb0pqZ05tTzgzc2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
