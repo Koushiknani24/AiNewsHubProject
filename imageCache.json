@@ -109012,5 +109012,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/ice-plans-to-give-officers-gloves-that-can-deliver-electric-shocks": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/12/trump-intercept-truth-social-lawsuit-01035538?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/lebanon-condemns-systematic-israeli-destruction-in-south": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/malawi-meet-cameroon-in-womens-africa-cup-nations-final-6316081": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/europe-sees-total-solar-eclipse-very-grand-thing/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGR0c181ZWNDMS1nRzhRQmlvSG8zTTlaRl9XT0E0cFppVHE5bzNOMjlXN1BiNUFxM1dkcC1YaDRsRk5BNXAwZXk5OFk5T1NZaWtkaWZQUzBGRkpiU3Vlald2emI0czAwUmxLQ1lhVnNhbk1yMmNmdDBPRWNQMGhHaXh2UmdNTzd2RkExWlJnSkkxUGNNbjRGdUlqMXJxdThZSWFDMXNsX21WazRPNld0S0JR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/colombia-enters-final-phase-of-quake-search-as-toll-hits-265": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3300887/regulators-home-in-on-platform-power-players": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzliUHE4Mm1UNE1qbERoNlI4NERHS08tR1lLcXI1SjVjVG9xQjBzdDU3VC1rc19IM3RuaV9SUGZTcmd6RTk2QnZkWVRfMVZfN3BBdlFDVlNMZVpGWWZ6a3QxYWRJYW1xeU5NVFdjVnZIR3FkcGpLLWU3WURBUXhWV2FvalgybWpRa25PNjZ0cHE4ZHdnUmVhQWdtTkhZMHVval9DSlBMak16X1ZqWE9ZeEd3ejlHRGdzbE1RUkUxWkJQQ1B3OW9r?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/rajasthan/ministers-protest-in-support-of-sanitation-workers-creates-political-storm-in-rajasthan/article71337021.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTFlxX2J6bnBFalREQVhQNDRHRGFfaV9aODdWNUtmdUZFR2JHUHBOUmJtbkpEd3llSE9BaUxBM2N1dmg0aDI3dmlYNTVnRUNXTmdqcXNMbzlOUmZ1Nm9nS1NIdkRMNjdpazVlaWVZRlVCRndGV1JFTTQtWFJ4ekx2UlJtbXV2QzU1eUV2U0pfVmRuSjAtcmx0MV9LWEFzWWhObnk3blF0MFE0S1FwTFdPUTRaSDdudGh5dlV0SDR2cjRCbk9OclZFaUJaNV9IUW1mQlFsYV96ajFfNDBzc2t6RHViQ1cwUzdFbkZHTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
