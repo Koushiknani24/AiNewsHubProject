@@ -108586,5 +108586,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/nick-reiner-indicted-killings-parents-rob-michele-reiner-1236672360/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWtqYWF6NnRPQU93SVF1MnhzSTNMNmxKNnFlY0FZMUZaVVQ5MUZLWkxuZy15dVZ0ZU4yRFp0dzRaR21HRW1NcXhrMjhKalptMHNFRUIzQ1hrd1VZeHNRVHlEWUk3a05uNUZiV2Rsc3JDR3Y0bXR1NVZOSmdUVUZvSl9mekxvMGx0TjR2Y0ltT1ZhYUd3RVhsRg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-12/ceos-concerned-about-the-consumer-says-rebecca-homkes-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-12/morgan-stanley-s-weaver-warns-of-risks-in-ai-compute-bottleneck": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-12/-call-her-daddy-host-raises-money-at-500m-valuation-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/total-solar-eclipse-august-12-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/julian-fellowes-the-gilded-age-ammerica-allure-1236670571/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjN2Z3liQllvVWdLR1BCV1lXUTNFX21DUFAwOHZkYXdpZ2YxNnlVVlhwTzQ0N3RuSEhVRW54RWV6WGJMLS1OWUtmWl9NX3V5YXV1dVJqd2RPbk9JLWhQaks1dndRalRzYnk2bmlVdm1nTjR4OU5WX1FqTVdFS2s2Sld2R2RKT3oxODVMV3AyZFRPMDA2TEw4anAtdkxyalNGTzFqeEhEV3BPckxuRnFJYUFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-12/calif-ag-calls-paramount-s-threat-to-leave-blackmail-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/25-years-ohrid-agreement-is-n-macedonia-s-peace-holding/a-78340239?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZXR0cmZ5blVpcG5vWXAwbUdneUxjY3JHajJpSGpFLVlDX1NTcmxISWJqZ0JGbzM0QkhFODR4NmYtSXZROWJoODFPeXRveDBMdlpGNWN5QmM2S0I2VUtnNWJzTV9jMGQwR2FwUUVWSUlKN1l4M0RwbkhoZjc0ajV5emVfWTBrUUhPZHBCNUJLRGVORkQtUHVBWDJDQldhN1lnQVNObDN1YjdaOGRkSUk2Yzg1VUxlX1I1WWw5UHpscGlNS1FjeGl4YkVnVk1mV3hSVTM2dndyM2VaeGNhU3NLQmdwRWdJTEU3NDI0eTJuRkFhTWI0QkZpUzNhWHVIZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pSHpxdnhxeVhtVG9ONjhaNFZVMldCVXYwQzNFYkpGMlZaRWNnMk1pUGxzLWtkVDdHQUpWc2owdksyVjVyaG03LXNEYTNhS1h1U2tnbEdPVjRQQl9teS05VXRMbzRlSllYZzBvV3BSWGE5ZXVN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIaEpuMWlSME5jaHp5Zl9zMW9ia1F3cTN1QXBJTkdmTU5FZE1mTkVNSkNLSGZGNEVycV9JV0dDdVk5NURfRG9aV2xtRk16TGFzWU9TZm9HeEQzeUZEZnl6Qkl3XzZHdFIwdGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaVZpNEtrSnFTVk1idV9KMk9pa1JjbURuN2YyNld5SU9naVBxenFkSndyN3FXa2lULXkxdE5UT3MwUTBPaUpJMzNVWkNMODhPLWI1aFFKWVZMSnVMMk1YaEJhUVp4MS1hUnAxZWtfVVVGVjVCc19pRkxaRkNDRE5TUURWMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEJOcWo5Tlp5aXRYcW9LeWNOUnVVLUJzVzVNUWZlbUtqMFJ2YnlYZ1RYRWdSdXA0UzUwbWd4OVBjUTVOMmJlSXhkLW9UbmgtVmNXNGJ1VUg1MUVYOFo3VGZqaVlzdGt0aWczZ2tPVVJCUzJRc0FiSF9wRmk1S0c4RjFlTnNuMEZ2ODJqbXJlbl8tdmUxTzBVM0V4M3VSenJ3aktfWTdDVnRvY3QwMjBUdFk1N2tBQdIBuwFBVV95cUxOejZsdEZldnd5TThhc3RoVTNQSFhmY1NIeXI1alJPVXVsa2phWDlyRF8weVMtcFFyY1FOR01xX2NxcFQyYjlkQVA0S18tTzhOMGJPRk1ibHBJNk5idV9TMWh5M1p5NmNhV0NXNndkTWZXbnhJQmJUc1dFZ1Bkd3E0SG9iRDlkUmFnUjdmUnQwY2xQeFRQWV9HYUtCSnlMZG9IRFVFQVg1ZjExWGJKYVpWWWt2WGtQbGw5cWI4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR01YeHpMTlA5ZkFYbk1mcDd0b2ZiQ21xbjZ1dVBKejBNaGJEem1hRDZsUmdyUTcwYlUyVF85VGVGWGlOeEJxaFdBZVZaa3pPUFRFdUxuck5Fd2xOV3h4U2p0RThUNTI0REJ4TDdKcElqWWJmU0FIVzhaUmxpTEdTU2xtaFVaSk42ZFd0S0RZYWxiZlBFbDJ3bDZSRXBjSGM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608120566.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDJlZE1yNUhjU09nenlUSkpkblVFNVNoVTVQdE4yNkp2UjU3TW1RZlV5TG16dWR4VnI5OHE0N2Z1VG03Q0s0YVhCYkpyWTBZWWhWVkdmeUpHUHNLTTVRcE9iWDFVTjJna2x3U21zSHEtaEFvczEwbFFJS1lPZG1UcDc3bmVlRXpiNDU1Nkt2VEg3LWxBWWlsU1RvT3RLTjVEeUt0ZHRKWXA1bl9kMjlWRTFyREI1QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDdrR2tzSlZxaUhaVFdKMlZqWkJoTG1icy15c19RcWE5bUROcE9GN2RsSFZ4cjF5anh6VUQzNnRVYU1pZnJmaVd5VWZ6dHNHLWM5Q3JtWkdMcEZnWVRJYjY1RDhQeHlaMUEzbGVVQ29VSkhyYkN4N3hZY3ZNaFh0TTgxVnJPV1FC?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3JXVjY0RjdVdkkzMldJcTRKMmFBRmZ2ek1KMUc5WkZEZmlpU0hmdmttUkhjN3BTOFh3bFgxODY1aVRHYS1kVV9nb0JMZnJGdTZ1LTBDUVhTLVN2cVJDclhDVEhScVNkeWZ5UHdlNm85ekVsUEpqM3JPdTdoTFRrQ3ZTT2wyUTV0ZXpza1lwbDRHdEV1NGtjRkZBNkNvRWs2dHBzcXRLRjRLWWMxQnBR0gG0AUFVX3lxTE9JdGN4SU5fRmh0Q1BCTkZMc2tEY296QTNuZFZvM0M4alRTRXBjZ3lMVFdPOHV0d2NUdXpxaTl1WnJwWEh4bWlUeXlqUUVlRG83STM3cGctYll3N2VjWEdaOVI2SjUtMHZSR3NxTTlHbWY0THBOQjYyWEd1QjlBM3dnbjNSZTZUMUxiLTlONnZXMUhUS3lWaThFUWtVTU1nRmRrcS1TWF9JX2lkSEp2TjZVWXV0QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hdWFWazk5UWZQMlR5MFlDVS1xR2o3SnBtVWxDZ0NEZEhFLTJ4ZEFPdkJtT3lzYXlKSEIyQUJaQTR2RWR2cDg4Z2twdXhYLXQ4MkthUFh6NS14dnpOTVl6b0ktTXNjX2liMVNONUVXRWxTTzExTWFwYUkwZlF4QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxbFBqajg4VnRBdTlvbUNLQzFkYktXMGhfbG82VzEwd0pEaVhjNmkwcWtmX0hsTnF1LWNZeW9DYVRnVFlkTlpjLThTUUVuVjJ5bmRjWHpyUk0xelU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSExwLUxyZ0hPZ3lhZmwxU2xDWXVINkRIY2FNSFA5ZHJ6WVVfR2VOaER0bVBfTVRhZkdaYmlpYzY2UHZZTXJaRHA4a3hiR2paUG5kTW45ajlWcy1NWENBbl9RcFdiVWJUa01KWldCVzRIdUlqaW9EUmhnaUhYUDVXZjdtb3drZUtnektRYXRoMVhwLXlHd29CTE43a3dtVUVpVjFuMlM0Q1hVWVR4MjkyQ3FTS19QT0kxdGtocENGTW0xZFc4ZzgxZEcxaVd5WHRsU2VJWWlINXN5RjB3TC1HcEdOVUJUZ2dkZUJESkF30gHuAUFVX3lxTFBITHAtTHJnSE9neWFmbDFTbENZdUg2REhjYU1IUDlkcnpZVV9HZU5oRHRtUF9NVGFmR1piaWljNjZQdllNclpEcDhreGJHalpQbmRNbjlqOVZzLU1YQ0FuX1FwV2JVYlRrTUpaV0JXNEh1SWppb0RSaGdpSFhQNVdmN21vd2tlS2d6S1FhdGgxWHAteUd3b0JMTjdrd21VRWlWMW4yUzRDWFVZVHgyOTJDcVNLX1BPSTF0a2hwQ0ZNbTFkVzhnODFkRzFpV3lYdGxTZUlZaUg1c3lGMHdMLUdwR05VQlRnZ2RlQkRKQXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
