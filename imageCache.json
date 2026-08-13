@@ -109324,5 +109324,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/jailed-istanbul-mayor-imamoglu-joins-new-opposition-party-amid-political-turmoil": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-13/lenovo-shares-surge-19-after-revenue-beat-renews-ai-optimism": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2ttbWwyRUdwWHhpclA4QWpDUno3VGJfd2djUFh4bGpUbXNSRl81MG51WlF3MjVWWUlaRXBTUHgxaldwQlRUWWRGcVg5TER6VG1ja0hjUVNpLXQ1YWloZDBnREw2bjJVMlZnVFdsNGoxbmc2RHB6V0k5N2RUZkRkU0tKSTBLTXdKMjhINVNKTXRTdGM0MTllTTlRdF9VTk1PU0FlaVd3dnFtdk1HM3lyTEFTa29hbVg2b0pF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/13/financial-sovereignty-digital-euro-and-payment-roaming-eu-seeks-alternatives-to-us-cards": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFQ4d19mU2dyOHFJUGpDSS1yMlNVdUxXcTRWazZCeS1YYzU3Q1FtM0Q5M0c4NDV5TjJuRExiLUpFdkt2YXlaWkNLa2VkZF9SVUxfME9FZUJSM3hZc19jUjNkV1V1SGFBWkx0Ml9vUEJkc3dxSEZLZ3dlT0RUWUtsbi1qcnBXMTNYVndF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/live-blog/2026-08-13/ftse-100-live-uk-gdp-pound-gilts-trump-iran-oil-prices-hormuz-jlr-ai-stocks-what-s-moving-uk-markets-right-now-markets-today-msr3mc9u": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSS11LU9ldmJrd05YbWNTelJoWEJYcW1XUTZIZjhJSFZ0U04zX3hNN2REczdYS19KWDF2TkdnOWltZDhDUThsWmNMRDZtaWdfYmdVLUdHZnhwUG9ROW01VndNUmgzZHhMZThLQjZRR0FJNWY4NElMRFN1dWRzcUp4T19FZUl6SF8ySWpUZC0wdll0UE9KZlo0S2RSMFkxT2doSk5aX0I1RDJHNjliUVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-13/what-chandrasekaran-s-exit-means-for-tata-s-future-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlZSV240S20zdExFU2d0MVpweWxjOFNOR1NpV1Q5SER1VlJ1S1hTLUU2NV8tbDNWdnlTeGVKMjRiQnR2U2ljRE16VHBORTVVV3FpZlgxaWlMZUxsR3lpeWFQYlhBeV9ZekxnVWNDVEJzTGZqQnIyMDdzTl96SWVTaWl1VzY0NUtocnVJN2tEVVpFSllvRXFMMXBDX21OOGhpQTlMZG1PZVlDY3BFOVdadERDZ2lHOXVjLXNnR0RHNmV3anNX?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JRVB1NlM1UHRZWm1TV0pDRVpXYTdkSlBjRll2VVFSU1VoN0pfeVotSUJzbFJJWmZ3alkxN253aEFCU1lkMU9yNGRwclduNXhJcVdsLWFyQ1VvR1ZtV2VVZ2c2ODZTNllTYVhnWEwxRm5NSnJibHpkaVJqZ3JZbFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
