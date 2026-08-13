@@ -110092,5 +110092,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/suki-waterhouse-song-shuffle-loveland-1235607934/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/students-death-panel-seeks-police-report/article71341702.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/exasperated-french-firefighters-to-protest-to-pressure-government-for-more-resources/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/six-doctors-appear-as-witnesses-in-km-basheer-case/article71341954.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMW1UV1NheGJkd1ZMN2N3eEJXZzVJZGFEZG90VmFlaWVmLVAwVzdfb3k4QVVaSmYyRWJfYzlKRVprQWI5a3VIVzBCLWVrZThXT2ZGdWd3UnctUEtMbXUzRWtaN3NFdnZtMmY3Mk13cXRBY2l5WUtDdWVDOHlyVEVQaU1LVzg2OGFNQ1Y0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/museo-del-gato-mexico-city/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/germany-arrest-warrant-afd-lawmaker-maximilian-krah-unpaid-legal-fees/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/13/hungary-unveils-new-clean-up-plan-as-governemnt-takes-first-steps-to-unlocking-frozen-eu-f": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2E4V09JNVRTYnFQMmQ5QU5YYTZVNG9pRHFQZnNUUE43RzFYaFpLTjlEVVNzc2NVUkItVGFpRll4eFVQOG1GekUyS2cwOWZZTGt5SEVRMEo1NEJrXzJuRWgxM1U1Ul91VmtBMW82WmdoWUhlckxJMXlZQ3oyamliMmdYNERhRllrc25ZMW1n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2lVN3Y1SkJ4MUZCaVJnQ0NtZHU4MFFqVm5NcVRYOGVXT24wUmdWWWlsckxlQmU5M1hZMWR3Sld5Vm90UVAzWGpQZ0M1TXZCa3VrQVZIaUhmOTJ0VmtsNzJoTDIwbGFlNU1QZ1laQWZVLVFWUTV6bC1EdWY0My0yWFVrMFhVRmRkdl9yV0VDMjYxeDZvMUpR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQWJUUV9FTkR3aGt4OVA3Q2Z2ZnJyR3FQbGhVNS1KSWhzS1BDcmlXeDZUV3h2b2ZQSTVfUDNFMEVCSnYzMUlTOUlfTS1DczJjUDBlN1kxLVZWaE1UR1dFWEQ3bnNZdldydjRCNDZZNmRTdm9rREY2bWYzZjRtVURWNWdqYnVZMnVQd3VpYmlrZXFOMnla?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/politics-and-nation/china-stopped-indian-troops-from-patrolling-in-certain-border-areas-in-arunachal-rahul-gandhi/articleshow/133217306.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
