@@ -109504,5 +109504,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/swedens-right-wing-government-lags-in-poll-but-gap-narrows": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-13/hsbc-s-martins-sees-boe-on-hold-as-data-look-alright-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/parliament-monsoon-session-2026-live-august-13-2026/article71339498.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-13/ck-hutchison-profit-jumps-sharply-on-oil-retail-strength": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGdzlBY2FzOG9ual81Y1pjRE9Td0pqemR0QXh2a25zWGw0NmR1LS1aUkpBWlQzZ3Z6ZXVmYnYxTmVzYzRlLUxIbl9GUVVuWTRtSzZEY2xzbk9ySjJtZnM3eVV0T3Fhdnd2azVaamNKNHlpaV9zNXViZFM0YXZIQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/colombia-earthquake-rescue-operation-enters-final-phase/a-78345817?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608130039.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/13/how-to-stay-safe-during-an-earthquake-a-visual-guide?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmpfcUx2cmNROWktZ05rWFNTdDF2X2dQUnItdDY1VTYwcTZ4NDRqZktUQzc1SEtzaVBQdDA3TGJuUHhoSXdvTEhJeGhKUTVCbThpczNfVnNEdHdTelR6X2xyMk93cWlTZkhJNVdib1JEZnNtSlAtRjdPX080Q1JFQ2NSOWEtOE05QlNTNVRJVlNKYUZEX1R5WVhwcGNnUnBmdlFYdGRjUUZOX2xzSnhzN0ZqSnlSTzQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWtMOVFGb2Nxckd3Ym00Q1dTUDhzTFAzQkY0Y3UzNXNtYldvRVJDNFl6NDdhc3RBQTIyRkN4Y05MYUFYOWItRDZiYlpNVDVhbC0wNzJtWDFkVDJwNGJBU2FXVkZBd2FMeGVZSXJtU0RZMC05MF96RnV5Tk5vbXYzaTdqNGh3RDUtbHplRFB6Y2ZQd0xxUHc5T0xjeXptbHN6TnRhZjJCS1BBVWVs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByT3Y1d09tTEp0c0ZsT1BEemlwZWtrZ096eFlwZnhXQXVRbHVwMVA1T1BTYlc2X0xjaTJhdUtzRmZIaGV0VjZvc0NIb1ViYXdVVmVxSk0xbXMwMnoy?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-13/m-g-eyes-broader-opportunities-amid-concentration-risk-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indias-gem-and-jewellery-exports-rise-0-38-to-2-35-billion-in-july/articleshow/133205343.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/vladimir-putin-disputed-kuril-islands-visit-japan-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnVqbi1lejRYeUdSOTdWUl9yZklhVXBJQ2JRRFBoZ1Nobmhmd3RadGNITFJFTWdyaHJ3c0hMYzZqWFdSVWhtbUlYbm5xdXNsbFctWjFVN0FmZndmZXludDhzN2pfZlZNZ0IzR0sxTm1lQTlWRmQ0ZlVoOXN5MmRDSlRVM3dnTGJDYUdhVTVCWjBlYlY3QmFPR3hBajQzTGRZN3cxUzRxZjZydw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1RORmJraFdZbUZWTGJOSGRmWUdETVdRUlkzZlBraFZGUXpWMGpVMHBadTNJbXRzR0hzNnpXcnhlQmJpdEh5VHpQSHFoWHJ4YVhSMmNNd18yRXhBakVmLWZHRUxGa1EzU3RQWERZaFRRTlZ3WjdVSERGWGU3bDdFUl9EaTV4bDZFY3NaZnpydEo5aUJ0RDJkd21HempoaEU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
