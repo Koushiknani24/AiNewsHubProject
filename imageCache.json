@@ -109618,5 +109618,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-13/is-india-s-ai-power-play-grid-locked-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/beaten-venezuelans-brace-for-more-severe-power-water-cuts-as-el-nino-looms": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608130133.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/civilian-deaths-in-ukraine-hit-highest-level-since-may-2022-in-july-un": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/trump-promised-a-sex-trafficking-crackdown-his-justice-department-hasnt-delivered": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/13/latest-news-bulletin-august-13th-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkpuVG9EdGtlcWs1N1RUVG5JSjVRZ1dMZlZ0OU1XRWw3Zkd4VHdYVndNYkI0a3dWWnd2WDJKc3Z6YVhqWjRTemNuN2pWVnMxR0pTYXg1cHlEOG1CZnp3dmlPWTJpOHgyeWItZ09VZ2QtekdiNlE4X1YteGdJOE1GeWpRYnBqX1JEcVNqRXRoWFZvWFkwYzROU2RBbGlwTjlKYlFUQlJtYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxObjNOWFVlblc0UWdobXpSenRfbzA1MXQxNC1DV00xUTVlSkg3QV93SFpaSGlmVnpiRUxELU5fVWYxZGFwYUpldzJ3U29oSUQ2Rl9KZzBuTnNhVGtocFF5YXZiMGxHWjdUbEdndHZTQnVYdzZlbW5mc28wWTRCelNnTWlCRTZoV042ZjFjd09LcHZVMTZ4dEJFQXNDSjZCcWJGaHhDbVFFdkZ1WnNmMUFFRHc5WUhjQURzbVJta3YtWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3301143/thailand-seizes-more-assets-of-chinese-tycoon-chen-zhi": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/europol-data-processing-reform-privacy-risks-edps-warning/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/shein-loses-uk-copyright-lawsuit-against-rival-temu-over-photos-clothing-6317191": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
