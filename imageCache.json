@@ -109696,5 +109696,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-donald-trump-tehran-control-threatens-keep-it/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/oldenburg-festival-honors-kill-bill-stunt-legend-zoe-bell-1236672844/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-13/private-credit-markets-face-ai-debt-exposure-challenge-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/13/putin-watches-russian-navy-drills-off-russias-sakhalin-island": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZLXRudTVPcDl5RFhjeFpCY1FCTkhZbzFpb3lGVm9ZSllGZGtTMGsyWW13eF9JbExaeG1ZRDBWSGJKTTA4WnVxRHZUOV9acDVBTWNEaGN4bFNyZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG9ybWR6b3RpbDBmVUtYa1ZlMlJyOTA4bkRydzlCSnhrTGV6Rl9HbW1mS3kxbE54N3BmOXBpUmd2Nk9aMFlPdEN2S21KTk9tZEJBQl9ka3duaU1kRXhsS0hMWDU1UXRRU1pEREY4aEdta0cxaVNkSERlUDhRNGZVdHhiaExfREpYWmE2Wi1CaFppSmk2UDhFMEpmbnZidjRnVHg2c0IxS3JmbWw5M1NjZUxVakxLOXJUMThR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmdndlRxVUdyRkRlLUt5YjBRMnNqaXV2MUJ5NU5NM2lKcmJsVFIxVzh5S1M0RnpsWkVxRVNKTi1NRDRqbU9LNWx4RzNfMGtMUXE1STIxRWVHRTBiaXByYmpkOEdxbUZUNjkzUHZyZHNvTHY1ajJJSHNhdG90bDF0SG04dzJubXowdEsySUlsVzFydDJodWZvOXhfcUpmSXM3SF9Qc041cXVvbXZuV3Y4ZU5XLS0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/13/russell-westbrook-announces-nba-retirement-after-18-seasons?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEdSUVFpZEhIRGE1UmxOelBHVWFhOWU0b3ZFVHEtWUZSbHduNno0Zm9fdHVWM2E2cXdodnVlQ01IdDh2QkVaVTJUSWpUOUd6dTRZcHJMelJxdF9WdnRFem1fb3pFZ3p0U2d0UkljM1lBQVhMbmhiSWllb0ItODdrd0FqazFvOHlpMy14QlFUb0xNOFRzemh5a29lbFFTUmFWMHBzOXZnRTYxS0VLWktfNnlsQ1FScDdYMUgtMQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXhISUZDNXVZTlFMeWpOeGVEUDVsYWZKYkFQV2tmaXVSSW45SW5RZmtyeGQtaVIxMlVGdVZVNm5vemI5Rm9yMS1xMFc4Q0kzcTN4UThPTnF1anVDd1FSdWlIdEY2SWM2bkRiZ0VQQVQxOUJ4dXl2U2pIZFZOWVJyQ0NrelJvSlJsUWlpOHhxeFBSa0V6Y1BYb3dvaXQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-13/meta-faces-big-tobacco-moment-in-youth-harm-trial-brought-by-ags": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/life/social-and-lifestyle/3301088/ageing-in-place-a-home-that-matches-lifes-pace": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
