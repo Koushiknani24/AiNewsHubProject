@@ -110272,5 +110272,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/hollywood-white-wine-thrillers-1236671091/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/when-the-earth-moves-six-major-earthquakes-of-2026/a-78358208?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608130373.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-13/renting-compute-capacity-is-huge-business-cerebras-ceo-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/13/white-house-memo-cybercrime-01036176?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSk8zajNXbldwVDNSYlZBMmxmMXdoZ0NCeW9VeU1Yb3NmWGRuR21uZC1JVXc1S1lWLUhTNHZObTEtRmxkZlU2WjU0UTRuS0dhSHhvOXNsZjRhZHVKOVY3bmRkeXpPc1VaMUVUdEVkT0E5UThOSUFTOHRoUGtqRFVVNXZ5WjUxQ2FTUEtfRVgxemlwSHZ2d0VmVlpyaWFDR0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/mobland-season-2-trailer-tom-hardy-pierce-brosnan-1236672941/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdVJQczdQN1RpQnpyTU45U1FWMUlHcG1GSDZCRkNyby1aQTljSkhyZy1qbzlRbi1EMTVScV9VQ0JtTnpFQW1CYjhLc2V0eWdkSEZwZ2Q1dnl0MkZkd0x2N3pkLThaOVdJNmRoY3BPREVDMUI3Nnc2c2RBUVp0NFloNFNn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd1BWeF8xZVcySHBsOXlfRjZEUkYtZkxRRkROcUdMaTNNMnY1aGhtYVRGTzF1SnprellFTnpSS09PY3NHTzZySDZZejNoSnJTQTBHUmloWjdKbzlTYnlZWVNCaFRjc3Q2UzI4Sjgxa3M4ZmJoTXd1Z2VGWHk3dXNmMWo1OGRoQS1nSW4zaGdheXJxcUw4cENuZ0NoNUtLOFhTMGtxeG90bEFQUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/italys-curtis-betters-own-50m-backstroke-world-record-6318151": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNakIzZ215NW9RbUJ4cnFITjdpYzROMXB5U0E1TEkzLUFFUHdUelhLVUQtaF9SdVhWRS1uaUhOSnFWQ0ZKUk5NbS1wQW1UWEN5eWNSS05oX2lGU3ZzN0RlbEZIeXBBRnJqZFJEcFZjOWdTa2NoWGM0ZlZqSzNweWZQUVBpS20zcUdJTlU4MXI3YjN6YnhB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608130249.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
