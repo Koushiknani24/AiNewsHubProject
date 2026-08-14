@@ -112648,5 +112648,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.independent.co.uk/news/world/americas/drive-thrus-american-staple-fast-food-cars-b3033419.html": {
+        "image": "https://www.google.com/s2/favicons?domain=independent.co.uk&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTG1QdlBzUVI2NXhOdHlOV0IwREtxRmVJUEliemtWRnNPcFdfaDhwOE16aGRrbUVhbVlGNWtsRTItVnFIalJIVHM0cDlWRlFTUkxqc2JZSGo2X0E4cnBvbWpzeTQzdVdwa2xYWXd5ZDFabGtHMWJsSGprY1NNcW1iZmpIRDVFUW9FNE1pb0FqOUhqMTZmRXItb0M4ZFNCZjJMUDAyMFdhUmJMLTlyb3hLSjlR0gG3AUFVX3lxTFBFMWJBSUxFOHd4YlJNOS1MZUNLaEpJSXdLRnc3TnBQOTAtV1V1VWsyUE4xdHlobk94dGpZNXh3dlNqZ09LOGVfTVdXUmVEaUlQSnAyYmRXbUJIWmVsVXdiRE8yLUUtT1VBZzd0bHhCNHEwWm0xTXpYakVLeTg0RFhmM1BxRFhvdGdNT2FCMERxMkFyV1pyazcyQXU2QllRVHVhRGhMaWFqeERzYWJMcU9OaEozUFVVMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/sargassum-seaweed-mexico-drop/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-says-will-soon-declare-strait-of-hormuz-us-territory": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMXVROFJ0VUVjcVZIUkUyWjNpd2FhODUyWG1ndXdibEdWSmFmMG5odFdGUkhzbldYS244LVYtV29xZkxqS0RqcWYwS3lkZFNxWHZOZ1hJV2RHZjdvN3NHWG00RG5JMDBMemJLLWIxSm14LS1jOXdCOUNtYXpva3RXc1g2QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHZkN0ptTklKclRLVzlvUmZXYnh3ckVUNDEzaDNXRTRXalM3cExfVTJPRE54LVdWaC03bnFGRTJsbzFDS1RPNksxcWI2S0I1a3RZSzhhTWlsbHNVRjQxSmlwRlY0UWgyWWgwMHl3N053YnBCdVZCbkVZMjFlN1JDR1V1YWw5WUY3dDNmUzd1YnJvQjJT?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
