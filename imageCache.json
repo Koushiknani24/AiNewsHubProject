@@ -111694,5 +111694,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/chads-president-pardons-main-rival-and-opposition-leader-in-jail": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/tourists-beat-the-heat-with-magical-colosseum-night-tours": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaTUxZnZpV0dxQThkTWxFMHRGV2NiSmZNV2xXMXdlcDNXdURJQmJLSGlySEcxYWI0LXltWjN2c05SeWV6Mk5GXzh3VG5uWjIwS1VqNDhtX3A3SGNfZU5nSDc2dGp2a0VILVNDb1FlTnlMQ3k0aFA2Mnh5b19jWDZXUFdzOVNpMFNHTzVhWnZvNEdfTUo0SFU3ZDF4bS0yVXdwcWtXTVVBS0dkWlNoTTV1T0JsN2g1VDBvM1pwYXJhOHRwQml4M3dvWW02SXJGVkpzQTMyNEItTFhCLTlvaFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnhhRlV0d1FueXJaOElSbFByN2p0SUUxRkJQV2pOMEJvUDJXLVFmTDFnbU5pTnQxbnBGSkhMNExJeDVLNU1TUktMbHIwTmRUTkIxZjVvQTVYMUtPcElOWjZjTmxveUxJUEpWNmNoVEt2T2tnVTAzNFU4Q1BtaU9BS1g4czJvN2xzSUpVQkU1MFdkNl9FRzNHMzdoczBuZFBVcG1WS3doZmZsUzVCUm0w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0FsWFFOc2Q3SjdoX1U2akoxUUl0U0NrVnZ4a3owckQ0Zlo0TG9vV2JOSDdzM2w5S280NVNvajBtZmdpVUhNX2t2SlR3TmN5cllDdmZ3M1ZRWHhaUDQzVDUwNWpSS0RCTVVoUS1mNXU1LXE3SERpemg5MkR0SVNaU2pqUXQxN2tjZTRHck1UcXBXY1phVFRNamlsbnl0Vm15OTF3bkhQQ0kzVzF4a213bnc3Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/count-binface-celebrates-fantastic-finale-to-british-polls-showdown": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVVXVNQUlUNmoyRlNza284eGk5NUhrNEowS3RPR1FjQ0YxR0lwM2tnSlB0Mnh2Z25ITi12b1RUQmxNdnZweGlxbGFXRmFSM2Y2YUppcjRQRFdqNnpOODJPeXNfOXgtUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbmdlRWtNRnNTRTZqMmNQTTlkM0s2ajlFME12YUR4Y042UkxnbGJWNlpjdUhsMWphZXdsYXFsbmREQVQ1ZnM0Q2tKRUIxU0dzRWU4UmprNUVNcVBYem1EeG9SclBVTGhpWmx0aGc1UGxENFhqdjJ3OFFqRVU3RGQ1akhyVFp4aHd5R3lmanJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYUtlQm1OaWxqMGdyMzhfWFlaaVkwVTg2czdwVjF3OGlYVmRlQlZSX0RCQ053X2ZweEFyRmFXM2ZYc2o1NDBpbHRGaS1NdVgxZU9wV3R3MzJyQVJsNXdLUm1mN2YxQ3JmUnkxWnl1a2FYX0ozbHg0ZThTREF0dXdaQnc2Z1dDblpBdktJQno5R2hTQnNpS2tBNmxGMHBLTk11MTR1d2Z3WWlxajVoU3ZGbTlrQ01YV3UzeE5kU0o3RmhNVWg2cHNHLXlYVjRDQVNnd3RpMXdCNFBOYXpWcjdtLXBzeDVwalZsZFY4WWNB0gHzAUFVX3lxTE1YTEVvZjRIcG8zdGF6YWprcXlGZDNxaTdIWm5wd1JzWlVuYzdnRExtckxFdjQ4dGhrZ2djZDlZZzFfekprLTNWRVhDbXlhajQyM3RxSW9rMVZ1cG13MUd0di1zeHFIbkpLc2praVFGXzBxSlJ3OXUzTmZlN252OXNpLThKZ19venJwb0t6OUdFSXE0VDAyS1dCcW5ERkdWQjRSTkxXa3ZBNzVjdmt4SHdqVGF6VnFzTGJMMzlSYThjTEI3OF92NWdiclhKX3d6Q1laWjJ2SDk2NTlwdElsNldwRjVLcTdsN190VXBFaE5sb01jdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxObEhnX0xTOHFuOUtNOWRrRVJrUUVTVWRoUU1mSFdZdUdqZ3NRdkVUclpNMkE1dnVkNUNZX2xZNmotV214RHEtbFc1UEp3b3ZTXzFhUGdkamx5cTlDY0RGU1J4cUlGTTZ4bUdNTTJaTXNuSHpRdGVBYjRJaG5PblpncW14Vmc0OVdnUHdSM0hQcDV2NThuNW5WX0pta0NBLXJtSV9MLVh30gGrAUFVX3lxTE5odlg2YVA4VTVrUHJJOXpLQXFNOURQeTZ5QTFmeURlN0diNUM5REs2RWptdWl0TFAtdnUxb3loc3hfQjZBVXBiT0RwRDhsUFRXbVZNeG5RRmhBVzViNE90TmlLcmNnTkNUejI2ZF9DZklaWG10c3BMZDlPaE9jOGRjOENsY202Q3plM0ZRUGRTSDAyNkNrbUV6ZjVIVDBrYWkwSG5STG9kVEQ5MA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPckZlNXl2WnpFQzhWOVFVV0RoVjJMX21NVDVxZlMtVXFoRXBsZzZGZXVEVDNjYjlobi1Nanh5VDd4RndxYWM3OWUzN2FMUG5HY0pxWkFhNVZBQmJpQUJtMmpsZHo1bENNYjdpVzNHSFh1UzR0QlpJblRqQTlETUNuZG5jR1BrWEk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/life/social-and-lifestyle/3301695/your-weekly-horoscope-for-aug-1420": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
