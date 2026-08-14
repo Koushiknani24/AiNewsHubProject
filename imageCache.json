@@ -111106,5 +111106,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/14/white-house-says-its-losing-19b-26b-a-year-in-revenue-as-countries-dodge-tariffs": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPamRYMThjLVFjMG0zY2tfcnF5UmxoVzA1a3Q0aGMweWNGdjhHM0QzRzRSbGlFSmFJSGVSeV9KNTdZcjBZSTJEUEdiVG1RWk5XMmY0bVdSalN6NzBocS1aeVUxN1dmU2ZMMElOcDZnc0pPUU1CLXl6VEtscDF6a2cybF9xRFVOZmpZX2NDaFA4MkZSeFVwdnpJTm9iZE90WUtLck5mejV5ZHV3YTJud21OcWFrQWJYRFcxQ2YzNmtuUTVydmhxLVBLUTdfbkg2QzJkaFhDcDdwYzhjU2R4TzNpNXRYOXJYbURXbFhkclBjYmpLTTZQVXfSAfwBQVVfeXFMT1QyVFRWWVJKZHAzYnpXU1JIY2RGUDVXZy0tQW51a0NrQktQX3NMZTl4dVd5b0F2b3FieTlVaC1qVmMteWdfWEZ1aWI1dXVsbkFacXpRbmk4WWd6dVdyQ21UY0lCWWRpeVZNMTF5bHd1VTN3SzJsakVOc1pBZFZkb0dBWk5kaHhWTjVhcTRPSkM0LUpEbzBiZ3NpdnBqOEthMTF6YVZGcUtZV2pXc1JWU2lrZDNDN1dMeExadVRpSE1ycHVMaUhCbVdlSGl5ZGR4VnlJSzg2d2NvMXltV25QQnUyUWVVNVZlTlNTdEtLUHQ5RTd3bHpPeldSTVla?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-14/em-assets-buoyed-by-easing-us-rate-worries-gains-in-ai-leaders": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/machthaber-wolodymyr-selenskyj/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQem5NN3dXREFuR3F1YmR6UGZ3Y05uZGxfVFdOMmxDdE1DekEzVUUwTjUwUFI5YWhHTm9tMmN2a1ZXZ2gwSzcteG85MlNna1BvLVhQNUdaa1M2VUtrYVdFRXJlS09vdEctOFB1LUpwZHQzOEc2ZkY2V0E0Wm5fY2J0Uk5Oa3p0ekh2Sy14cXJsVGhvaE5IejlSbElZd2M5aWZyT0t2Rlo3bVhGaWNCOVHSAbMBQVVfeXFMT05jRkpzcEVyYUJUTXVfNDQyUTVGNXlMX3kyVFc3UDZPWExiRTMtQzJ2Y3BETG9rWE4tRTBmTk90emJMbjY3Y0REUTlSTUVjb1czYlo1amVjUlpNNTI5aGhtQkdfUXB4enVqdVBpU0lSalJUV1BabXp6alVDUnd5UTBrM2tFTnNRSVBHODlla1ZXOTA1dGctUjQwck5vc05VZHlYcVBhdFlDWEN4el9VSi1yX0U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-14/why-a-costly-us-bond-sale-is-a-warning-to-bessent-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/week-ender-archives-can-europe-quit-american-big-tech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxQY2c5NGRneGR0UGRrcEdvRW9ZNGZKQVkxV3lnR2h6Y0lBeTRjSi0wVkdiWkNoeEhKMGh0TVFxSjhBUE1TV1NZVXZPM1FYeU1FVWhfVHluTlFIMHhOLUJSNktibGNvamdreEdKemxsb21GemZSTmhnUXdlLUU2SGc0cmdtWk1VVDNYZ1ZNdk5EX05aVENXRGx0UzI2ekkwLWtHUUE3N1dZMHd3NHI0ZW5GTWFCbWNVdEpvVmROLWl5b0xYNFN5M2xiU1BkWUtnNmluaG54c1JTVlFHMTgxaEdPVHE3aTM0R3g4ZEV6NmQ2M25FMnRTZ2drWVhmd0Fhcll0ZklrSVljNWZzRGRuQnQw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWWhBTzdCQlR2YTZHdjJCYXRqVHcxc1k4UTNUcDNZTDh6QThLNmRiU0xmeFowNGI2cVNadGNTd3N0WEVycWU3bU9YQWNmemxsMDUwVGR6U2dfSFBVVlpsR0NMSjg1X0NEYTFpRXVmLWJvSmwzRGRjR0Zjd0ZvNDRaSVNTc2swYUxzYkd2RVF4TllNZUlfaVdmcVJCcHhLdU5IODgxS21lSWtKbDFuMUJhVDVB0gG3AUFVX3lxTFBqNGN2a1dFWHhzclhkbkpPQm9GN0VscVRrb1RoXzQxUHVFRlpMSlRkN2ZzTTJYR25wMUhSX0gwZkpKaklYbV80TTVnYUFWWjJTRkxPa2tTeHMwdHJvck5EazMzc3JOSWpJd01jVlcxX3ZWOE1wMjJISUk5NzlhVVhKRU5Ja3JHWGRqSjM4NGRsRUt1ZDRtZ0twWUVpeU9veDdTTVg3RnZsU0FDVVpQSEtYWGFaellRdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
