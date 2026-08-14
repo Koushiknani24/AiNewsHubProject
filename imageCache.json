@@ -112420,5 +112420,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/lee-sung-jin-beef-season-two-emmys-1236672641/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/stuart-fails-to-save-the-universe-renewed-season-2-hbo-max-1236673911/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/mexicos-currency-breaks-the-17-to-the-dollar-barrier-in-return-of-the-super-peso/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LOVF6a1I4WlJPMkoxeEx4MnNqMmFrVWhKb1hTT2pHaUFDZkl1aDI3QVFsNnl5UklYWWxWejZNSndqUHZYbWkxSXFweWpvQmZ4RE9rQkNHWHZmN3h4Q2E3RWk2UENPbTFwRDFGM1NjU2VXSDRrUXA5aGJ5S3I?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG9ZZUpjbWhLV0NaMnJxeTFEVWZjczAxTml4dkVtLWRrU2ZaU254cEp5SFJuVi15enlEbjNfdzBoQlYtaUhHMFJ5aVdydExtLWJURnpmVkdPZVV1NkZTLU9BLTBNajlKY1dhWjgzYWNXb2ZaNXFyRjlYTDJxX0lLb0RoQ3VaNGczbVl2YUxDWF82VTJHOGxXQnktMi1BdFJkcklqYm1jVjF5ajJ4SktQVGNzS1Y1VnhSMmp2SlBYQTl0R0lRcFlPQU9QeDdCUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcFlvaXlXQkUxeGVNcjNZdUxKNXZBYnNBN3U2N1dCWGc4MkhaY0VRQTdqbnZVakRQUmdfMEpjaDdUTWhObVhBZ0JINmlGNURHZEJMMXRSdFdwWHo1UkRCWGxobjBvVDBhelRObUhkTUtoNmdpYmF3cWxrbHltZ24wOS1wYmVSMFZGdFdIR05PTTJsRWpI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/kathie-hoops-dead-paramount-executive-residuals-1236669143/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqdDZ2NWlnb0M2Sk9zYXRfc0RZOWFPSWsyOFhBZ2VrOF85V1Bod1VlaXlreURvbkp6TnYzRG9qOGtlWDROaC1xNDBoczAxQ05oXzJzSUQ5MHpPRWt1TXduYUZGR0xvcUxvWEJWb3lIMDJDZDMt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
