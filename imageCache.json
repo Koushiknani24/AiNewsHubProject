@@ -112888,5 +112888,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMUZ6NldMcVdRRXNJWlZqSUJfeUU2WWlMeW9PQnozdjYwbTd0a0hNMUtJOGlvbTNLR3pTd29NVEJzM2NlMm9UMGMyY0k0N2JJWHVfLV8yNTBnM1lFbjNUVng4TnFRb3dQZTJXV3BoMk04YkJkRmhSMXdKRWVpQ3lTRHA1M3pHLW5nWnhOdXRKX0FjOFNnMThSY1dJRFNWU19vZlU0T283MmFNanByX2IwaWE2UGJVdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-14/antitrust-lawyer-on-nfl-streaming-cost-concerns-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFlEcmVkZ2hwSTVQZ1pwVm8zN25QaFozOVZvekN2S1laSzBjUHZuU3Q4RDlMV1B5M3MxSGhsb2RsYWlrODVGQklKckdhdjl3R3p3WkpvaW5NaU40ckZCeDJUVzZzbTdaeGRxM0h4RUdBU0NTcnRkdGpnSXBHODcxQVVBZ1NmdFFOSXhEc1NDTGg3TkhCTlZGOHJTbGhRVllIWjBVME930gGrAUFVX3lxTE5rWnZta2hiMHJWV3RBUVJyc3Nva1FnSWxxN2I1S2hWcE5ZcTdrQUhLanZURFExdmIydVNCRVVwWG9pU0hUS2VDaW5QR1RuOGFGb2pXcWloUU42dWdIb0hCTVlzTURkMUp5LXJ3U0hLQ1dYMFBOYnNEVlBtZXM1NEpDLUZkcUFiZHNNa2JmWWRyaExvOXZ1aS1jMVBHdVlEVlVjTFZHOF8zZGxCZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTmZFYXhNeUxkbzZmQTBvMkVsNDBSemFqUFpxZ3MtSDhXSThKbW1Jb1h6Zlc2RWUyVzJQRW9TOUd3SDFENFlELUwxb1c4bDFyZmlla0ZVMlM5QmlfRDFFWU8teTVPUlBJR3BFMjM0eU54eHNreF9nQnJSRXFVMEJCbWJydUdLVGt1bWtXcVp5VS1UTG0xbmJEVjJPQmhXbHd2RFdSd2F1Y2NaeFlOY3F6QlB6SHNqZnRHWnF4OW5DYU1YYlJWM09FUFN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXJsLTlZdF92NHhDNnU4Q1VkSVo5djFnUGx4aGstaHJObGdiM2ZvVUNoWVVqWEtGZEZLWVFfdHFVVWZHT25VaUZVNGVXT2pvVkxhdTNILWZnYm1NeTJHcGp4UUdURmI4dl81QzJhRWxuZkNSYVZlZ2tnUjRWZVNVMWtrUWdlNEhYd2xwR2VYTlNQbHRJUjRKT1FLREpBV2xXT0tKVkFETmFjNmJZX1p5aGk3WQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
