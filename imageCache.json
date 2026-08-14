@@ -111784,5 +111784,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/abc-nbc-more-nba-games-blow-hollywood-1236673576/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWXNKR2ppUXBQVk01d1dwZlhVREZMU0h3Y2Q5eHoyRlhUYlA0Y2pjRnhIVDBjaVlXaXgzc0xHNjZfMWE5Q3dncmJjOVdoMkFBbFNwVDZIM01UYkJQNjBQd09KcEdVT3B3Umx5cGEwOHhmaXQwSnQyU2U4SF9lQWNiOWszbjNZM3lTWVhoZ1BiRnJ0MDBGQ0J4dVh6dl81VEozVWpjaWlaNzZMSlppV0xaTl9FTExINVk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/teen-girl-found-dead-in-kochi-after-being-allegedly-scolded-over-phone-use/article71345487.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/14/russia-jails-man-over-spying-for-poland-one-day-after-warsaw-foils-assassination-plot": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/can-a-massive-madonna-help-slow-secularization-in-poland/a-78369179?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWTNHUjNuWGhLSGhBR0JKaTFXd3ZBbWg5NmNwemxocGk5OGgzSHItVDBsWUc3RXlHSGdXUk9LN0FlSEYwUS01bXNVYk1zb3pNWE9rTnJqX3gyTUoxTV9kNVNOajV5THl2aVMwcVU4NjJFUkRlLWpyYTlIWksxVTVsSGhzZ1A0R2VLZHllUWxjZGFaVWNpWWRxWC1tdFp0bWMtR19meHIyTUxHWi1pM3g2UFpRbWgxakpybDJZRnBUcmlsRV9MSW10VTlQYkY4cUHSAc8BQVVfeXFMT1kzR1IzblhoS0hoQUdCSmkxV3d2QW1oOTZjcHpsaHBpOThoM0hyLVQwbFlHN0V5R0hnV1JPSzdBZUhGMFEtNW1zVWJNc296TVhPa05yal94Mk1KMU1fZDVTTmo1eUx5dmlTMHFVODYyRVJEZS1qcmE5SFpLMVU1bEhoc2dQNEdlS2R5ZVFsY2RhWlVjaVlkcVgtbXRadG1jLUdfZnhyMk1MR1otaTN4NlBaUW1oMWpKcmwyWUZwVHJpbEVfTEltdFU5UGJGOHFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-14/french-top-court-blocks-macron-social-media-ban-for-young-teens": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdk1KX250aDU4T3E3RHFZM0x0VlNjNk5CQlVZRnRKNXEyRW1GLWpSemNvSFZKWWphek9tTlE4dWlmTlBNU3FrTV9VajN0NWdHaDhQVkJ3bEhpa3hSVmtneklVd0l3cEstendDWllXcGVNeThfQ0ZuNlNkLWY1TERQNHd3emJTYkJkcnNR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uV29nZjBDeTJuRFBRcHFYaDRHcTZaS0hHMThnWkJfczQwTFlLVnFCeE5qcVRqZTREYjRVMTFHc01xQ0xmRU5VbldCZ3UzaFB1eTBtMGpodUhqdXlWMVp4NEZBYmh0MFkyR3dWb0hTbml6ZGozSzZMdkxQWmZjUnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1YtMkY3a2x5NU53ZF9QR09kWER5eWJKZkp6alZPWEdNOW8wUkJ5QTRxTE9Gdkp5YklEbDlzcy0xRzBxQ3NfeWV1cGZtdzNZV1NLOUxxc09Fb3E3RThUNDdzaGFtaHVVVkFxSW5YXzNzTFlFU1hQdm9SOTl6UDdyWEFrUXFEcDlWbDJkWHRfTkFCVDRZTWE4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFk1N2RTTzR5aUhyUmxBRUcwMG94S1RqaVV5RTJMdm9oVXdnd0lkTGFiT2RQeHlZc3RsMF84ME52NVZSSThoT3lNWGxvVHdRUW9kVjBUVkFaLW04dEIzTU8wOG9Ea000MkxjRlNlZGt0VVVYNGZkampGTWlieG05Q1pVUTNSN0M5ZDFPd2JOLUdxNXZJNWxzMHBfZURMc2NzYlBsSWZHNVZvdnM3MDlieXJkUGZqa2RQbXJkQWhPVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/14/fuel-prices-study-says-there-is-no-profiteering-by-operators": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOE4xWDNRUFVBam16TEoteHItdjhCQ2VRWGRxdHlRZHdKYzRaaHpNX2pzdWtVZ3d6VVl5X2ctMS1DMXB1Ri0yanQ1MGJRajJtT1owQ3ZrbEZJWnhodXFLR1N0RjVDcmVNVEk1TzlyNHFZVzA1cmJLQU9uR1VRbnI0dlVkNzQ5cGFWWDZGU1NoNmxFMW9id0ZQb0l3MzVVTlVqMTl4YtIBqgFBVV95cUxNaDNwQWpQYVg5X0FiV21QU0VBcmhnMUFhMkEyT3lDVUlSdGhwdGNjY1l4d0x5cXNfY00xQkY3V1JGTGNzQzEyMjVvckdfR3Zta2twdEZuLTRjSlFUbDUwMElLYjVXMXJ6Q1V5SHZacFFpOUMyTUV2NHFEOVJqMVNsNVctY2J0U2pLZHQ3Uk1jeWRvdkFVeG5EQmFQRXBKT0w2NEtzNENmVi11QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0pHVF9zZENoN1g3VllfYXN4UnEzdHkwelZtemhzMzl6Wi1hc1lmTWtMUEEwUXFNdkdDdEpSRFRZNlM4WUpFTUVMNEg2V2x4QThnV0RjUGIzU19SSk9YMjdSU18wVnJoZmF4eGpZcDZuWFNPX0x6UmtWeVJCNjhnNUc0eHhhVDFrN0tybzBlbnAwdTVqZmVmRk9OcmI1Ukk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3301712/french-family-rescued-after-night-adrift-off-samui": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX3lqRndjdVVrRUc2a0JoSWVfcENmdXhyR0pmVEVIVC1vcFRxa3NKTGozZGpUYjFiUkZkY3ZUdjZucXZrUGp3NGZobHVPZzdYaENMZXpUa3JRaE5pNVNfSHFVN0VEOWJVaHlsXzRVSndWc3pGWExsSzBoMWZvTjhCTU5wOUhzQWVRNWd3NTNOdlA2c25uMDNQS2ZTRU8tYjRlcnotT2FfWmVvMWZPZmR3ZjNTTE1tZlZFZ0xadUVSZzlqdko5UHE1WFZ3bGHSAcwBQVVfeXFMUF95akZ3Y3VVa0VHNmtCaEllX3BDZnV4ckdKZlRFSFQtb3BUcWtzSkxqM2RqVGIxYlJGZGN2VHY2bnF2a1BqdzRmaGx1T2c3WGhDTGV6VGtyUWhOaTVTX0hxVTdFRDliVWh5bF80VUp3VnN6RlhMbEswaDFmb044Qk1OcDlIc0FlUTVndzUzTnZQNnNubjAzUEtmU0VPLWI0ZXJ6LU9hX1plbzFmT2Zkd2YzU0xNbWZWRWdMWnVFUmc5anZKOVBxNVhWd2xh?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmRqVWN3ZUVWS0NEVW4xNWlGbU53cWg5YTlwUy0zblZNc3VuamwwUzdJMk5vVnNQaWgyaEEzT2Z6eWpVb1pGYWlyQlVrN2dGY3pmNnlqTDVTd25hVTk5RnVaU2tydzd4TXl6cTlIS2lELXVKckI3VklaMUtnOEZhc05pWl9kTzBPemxYVXJwbWZxY2JpZ3BB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3FOdUc3b3hILWtfUHotSkN3UWpubWZhdEdGR25RYU90bExSdjFkLUM2dmE3emh5QllFcGxUa0E4dlh6d1dNZzd4MmhDc0VCTVhZTXZTeXFQUWxoZVYyaWhaaE4xU1lsVGNaWERfUi1tQlVVY2tjcmZqYjQ4T0RfR1Rjc1hOcVdUcGVHamxiX2lfa2RvNFRBR2tMcUZmU1R5VzF4WUs0RWRkd9IBrwFBVV95cUxQcHBNaEZmSW54UklpWmFNdUtPZnYwdERXcFNFVnlGdkNralhYelV5QUxQYjB1QWtral8zWkl1TU00a3VEbUFZUlIxam1mWF9zRXl1VHFZWXNWZW9qcGowcGRtejJHQUdGdUJvdHFuOXdmMVJESEdINzVLZkw3RnJGTWpzNTAybXNnS3lhRWc0MDFqR0NtZjdNRlk2eHBMNlViMEw5dmdvZ1VZajEzRlhr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/berlin-theatre-scraps-pool-event-for-black-children-citing-racist-agitation": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN1Z2Sm96LU1TSUlmX0dRTldvbUtpcWxNZTQ0VjZsZ3pSdjNLS3JFNG9CaTdOcURIcV8tMUtWckZMQkJ5SVBVOERmQzFwd0RFMzNicGw4Z0ppTFNmaG9sUVk4SDRZZVJ1VkM1Qm5CQTFUSXdQN2w5c2NlX3NDVGhzVVJZTVpTNkdlRFFpVm5hS0RHV2JmQkVsRGNkbl9CRWR3MnoxTNIBqgFBVV95cUxNZHNkaTRJNnF5RU1Ua1d1VFRLZEVyb245dnVPSU9Fei1Jb01jYVFVSHRseVBNc0wzMEtxWHNHUlVlUDJfVnhQMXdCQnlNSUNCS1AzZklidlRpYVVHYkI0cHpveUhxU3AxdFZGemNmenFEM3V2VWFhbzBxQnlsY1ZOMkQ2MUtRWWc2MEhkUDJWaDRMY2E4T3NqSi1nU013TGdpM0ZXb2EyNl9ZQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
