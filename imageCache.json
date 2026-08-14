@@ -112246,5 +112246,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/lanterns-kyle-chandler-hal-jordan-ryan-reynolds-green-lantern-1236673492/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-14/odd-lots-how-el-ninos-actually-work-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2JKbWVWeko0WHVvY2ViNU1IdnNMR0RxOVZ5cG1iY0FBX01JRmxIVWFiXy1wZFFGSGNmZF9UemFFLTVHcW5UbDVWRHA5OXJnWHJteC1OeFVsUWtVS2FXSUFUM2ZHSEM1bVNFb0gwd2I1ZXcyeTR3cVA3eEs1WjJEcXNhYzZWNGZYUnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMko5TjBobmlzdEZoZzZQc3A5dnJ0M0tDMk01cC1zREJ5bVRxY0Z6aUlzeEQ0cXlFMkZzWGZPRjBGX2tWUXk2OHpybG1fc3RHeHBHVWRsN3YwRFN6ZlBNOTk1S1hkcWVhOVJDT2RDRE5TWjIyQ1pqNk1VYTllNGpneFRla0NyWHFmZ0JJOTAtbTFha3FsQ2llcVdpRXhUTU9MVlVHOVdvclBRa2s?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/luigi-mangione-admits-shooting-health-care-ceo": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/food/traditional-mexican-drinks-beyond-tequila/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-14/gold-has-been-in-bull-market-for-25-years-wilson-says-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-14/braskem-optimistic-on-talks-with-creditors-as-deadline-looms": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2R2V3dFcXZRdExzcEtwY2tUdFBDLUhKQXRoZGExT3VGT3JWanlnVnNuVFJqMWpnUG5obWlXMXBrdFEtd3lobUdiUzIwSzNPRjBLVDJkSmlqbEFhS3RNR1kwNkJ1Tm4tUUVNSmsyaS1SY2M1TnJ3YU9qT21VSE83dFFGMllJSFhi?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCNEVOME80cngzZ1R1ZnZtOXhjMnltV3VaOTJNbWp6dklVczBLS0ZmR1pVZWl2VnQzNkhvSVB0WmI5eXJXVnNDLVE3VWpobmR4ajJUVDF6TC14bU5CM3lYbGdWX3dOZlZvNjhObzV2NnMyb0hPN25pVFhRWXNVSFU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/le-conseil-constitutionnel-censure-la-loi-interdisant-les-reseaux-sociaux-aux-mineurs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSWdRenp6R1ZqX0JMLTFwb05JVm5iU2duM0Q5ZGZndDFNVFFQQ2tvZTdkNFhjZ3ZTQlZYaXZwdk5WQmt1MkJ6STc2aXdMdzZYNEZrQXZNRnM1bEdCNXdSSl9scGlia3B1R2N0c0w0a0ZQQ3lzZ1JTVFo2OGllYy1ReWpHRmR0cWswTEJtM0I3akFlck9Ta29ZSHR4d0pKVndVYzVrTWkxSV9ycEVwMjVwVVpJcFR6VVROMG9mY3JxQ2dwRXpua0tjXzRpazlQRXZJ0gG2AUFVX3lxTE1iZFdBbGpIUmdVcERUY0cxVER0QUltT2tPSDFFOW55QmRBYWFYUjV1M3hCN3FWUnhMWEFXdTRDVlhNWjVFSHhCdGVOZkxSaTNTbHVOVXBlRWNwOWc1bUJ2SEhhU2R4a0pJWmlLbXhwMHB3OUdJZ1Flc1pEOFBEUHhudE9VNE5SS2d5YU9jLUFnOHdlNjk4c08zLS10TFRhTFBBbTJvTTVzZi1pT0Nod1lrb2E1dHlB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2dpYm5kTmc2Rlg4b2FoLXhpWXpRTWdmOFdFaGNiTUFsWU44Rl9EUHpZTGZKM3VCUHBncHJPbnE5X2lOLXNZSHR1UnVKYzRfZGlWdnA0WFpTazd6dnRwOWtwWkZWWWxoc1lGTk1BWWFvVndqeVhOYjdpdWpkSlNUZ0ZMb2h3OXZVX2JGNUtYRHZadV8xajBPQUtlekl4WWtjbF9DY0ZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMGV4QW9CZ3VlQ1ktRHhPdC1JRU9wMjVNRXZNYjdSVzU2YUV2LXprR0RLUWF5ZGxIS3NpRXJMYUpCcS1JV3c5MXp3MWFxYWZLMHNnckx2SVBHT0dHWm5QaFBJNjZiTUJKSmdzZGN0NjVoTXBUZlJQMFFaV09ZeXhJMjhCMkh6UjNDb19qYVh0RWhYWVcxMWQ1eXZubk5JcmtqZFNrY1BvLUVOXzZYOFhyTWx6cDQ0VU03NlRYX3g4cGk0QTRSQ1N3UEhMVi1yREExRE9SSHdGMTdvcERzaGpiREx1TFJjeHRBeXY3cHQyMWhoQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
