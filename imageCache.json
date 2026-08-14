@@ -111256,5 +111256,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/14/wildfire-forces-evacuation-of-1000-as-flames-sweep-croatias-coast": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608140048.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY2hvYjRzRmJCWndHNFJZOEhhaUtUSDNvbWJKRE11bjhvSFJNS1EwY3NZVk1CLWZFTXJRRGVWNVpKbUVwMmRTM215ZzNjdzZ1TmlNTVhrc1ZxOWZ4cS1DeDBkN0Jka0laNVZzekxHdHhYYngtZXUzNzc3VGhOMVFSenpRWmJvMTg3a0xOcG0xS2RaVm1GZFhJT0ZaTVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/nigel-farages-critics-despite-clacton-victory-count-binface/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFlnbHFuaHl3SkxKc1lLZ1k5MGZhY0ZLX2VNWmUwWGx4WjhhcC14SGF0ajNHS0hJOHlfMnF1b0doT25GT1k2VVhRYmhrMGFJeFNWVjN1V0JfLWZsT1JLSldSZElVN1dRbGFlNHlkOW5IWjB3SHoxRmQ0eUs0X1VIZWVCWDdlSGJ5c1JvSjAxQkM0WTNwejhqUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlYxMmY0S1lhc2RMZ1JYeWJqSjJwbG1EaURBQURJVUdSMVdrZTZuVVZId05ubEhHWVRSQ3dMc2oxMXhYeDJaYkR1UlNXd1IteWNlSkNSV3dkR2h2YXZJeEVJV3NHQm94b0hzRUhSb3Z6bWdnckJHdGgzQnQ1dlFza2tCRFdhSmZnNmR4a2RyQ2JkU3lIaEM5RTl2NU4xci1ZUDkyMUktUklneEZGYmxaXzB4UlY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UeHlUbUNIelZnZ3FKZlFzQTdhN2hPeElvVHJESldwdWJsWWI4aEY0c3lDWF84TUYxenFsY0pBUW0yRzBXdzUzQWlTNkZSZEZtZVoxVElB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1RsbUtMSUxsbnlDRV9kOElMeUZ5QURmWV9HSC1vR3VwLXBZTGxFYzVzZFBydnZpT3NuSjhnazNmclY0X2ZPaWRtcG9nZE5jY3NmMEZhSkVMSF8zTzNaWWIzMXBHTm84TllTRm16bS1hVG9NVkxYSlRkTGhfZllDR2Q5eW9xYXVVbnE4QkhrU3U1cThzWE1jTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd0VFd0s2WndBUklETXhBU2RKZG9ncGk3QkxVNVRlRjdBd3FKNjh4MGpjYU9MYzgwZ2w5U3NzcGxMSXNSajhNWk5vVlM1c2hzeEZvT2c1TllSaVVLZFRVbVVTVWFmb0pFcEhrbW1RNDJ2LW1aa3QyckgyUzVZbTRuZmhNNEFFbnNydnlSZXpqbklvUWMwODlFbUN5NTVaNHBWdEY0b05hTUUybEJmY3FNMzB0UjNxV0xIM0lJWktlcmVpWnJqS08yNXFPRlM5OWJwaUJwUndsWS1wNkp3QlBfU1BLQldpdHJsekE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608140037.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0VlBPQkJjU2ZLLWZzUHF6Vlp6dmFob1RXME92cW13MVI3WThfSmV6QUI2eU1xWExIYzZtV3IzSmVOMWJWRkZJbU1RRGV3UXdzMjJnNVV3SnJVTWp4aVltOWNNYU9XSGItRzJCb3FqaGJYV2lVYmJoT0pPMk1ZZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/etna-eruption-extends-closure-of-sicilys-catania-airport-until-saturday": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/14/farage-wins-uk-by-election-to-return-to-parliament": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalBvXzl6UFlKWUlWdWpYZmo0TmF0eVNQejlSNFJPMjdmREMyd2d6UUo2djQybVVMWnlCY05FUWlhRkpNd01MZGJMeFhRMkZlbUZab0NzUzZyaUh6TlVseThfaDBVZFlLRENxbmFZdnhxbFlJaEtQeUlGaUZhcGgya2dRbWpYcHpIem0tb3RWWmdObDNLc1hVUnFlMVpaeDQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-14/summer-markets-make-stocks-happy-3-minutes-mliv-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0JwTURxTHFzdzRJeS1pZ3BGal9odHF6Z1BUdUNFdk82cjVLVmc0WlNLRVZrSDdNdnFUWnpGRlZqZU0zVlYxVjdWeXNCTHlla2dBWkZwenR4NHA1S1dlb1VIOHd3eXQtdzBsbVAwMGlVYnpqWHQyU2dRNWpqX2l6aS1MTnZXNVNaTkRTZ1hkXzZCY1htb0hRSUZoY3pDNDNLUXNhUUVlNkZQUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPX1h0c0t1SXhjeWk0ams3TU8tYjZKRFprZVBMYU1WNllQcVNORW1kdUVSeXdRTURjVWlJMXpEelVwM2E5OEhvX01zTm9tRHJFTWd5WktZQzRid2t4Ym1adk5tZ0dYNnJZLTc2OFRhMmw2b09mWEc0by13NURmTEEzeTdwZ0NncDB1aGlmcVpHaTMtanJ6ZnRySElUVzFyUFktR3ozcHl5MjhYelVkZGt3T2tyc0ZBSmxzZzNaSXhPN28zXzNHRkM1LTJ3QmpaanVTclJPMjBKdlJOaWpja2xQN1ctZDJiVTR3NGF0V0xGTlBpSkxvaVNzNWhkY0JId1YzSS16MVc0eHhIMFpCOHN6QVpDNEZEOFZpZmljSHFKRVdRSUZmbnpzTHdwYXNmMGFxelZCYjBuWjF6RUNZN0JHWmFEWU9EMk5IbVkyOEE0cTc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/france-evacuates-525-as-another-wildfire-hits-southwestern-pine-woods": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608140033.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
