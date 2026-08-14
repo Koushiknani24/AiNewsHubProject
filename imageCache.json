@@ -112588,5 +112588,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-lists/elvis-presley-his-10-best-country-songs-199979/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-14/berkshire-boosts-delta-alphabet-stakes-as-abel-taps-cash-pile": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFRObExtcjU2U0h6bGlGbE0wZHJoaEFFSlpjVWNHSlp6NVRGMk1mWnFqbW9TSDI5WEMzN21KN04wbjdsZ044eEVINkQtTk4tY09YZGVvU09XbkRfVS1fNlJFeWpYeXI3Q0w5MW1XdFctVHc4dUFMWF9STEpIQ3piNlhQeW1aY050aF9KdWRTblhXWGVBWGttWUM4WmFEU1lXdUFnejhCN2hESTFYTER2VFMwSG9UeFNUVXJtZTJpZ1Frdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-14/gen-z-moves-money-from-stocks-to-sports-bets-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/14/migrant-charity-sos-mediterranee-says-11-bodies-spotted-in-sea-off-libyas-coast": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/jason-arday-ex-cambridge-professor-found-dead-reports/a-78377633?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUXRRWmZEUXdsbGt0NzZSLUVMVGVMeG9vTHlvdGVYX1UyVm5kaGt5ZTF2cFl1Zkg3Y0h6VlJJMVlRc1BXYkN3bnY3clV0ZVJPQzhrQkZIVnFZWnR5ZVdGMl9rYWYtLU4za0MwSTFBN0EydkNObV9FUnJGblU3cnQyWElqVTYyVHh2TnIySlZrZ2c1NF9uRkxzWFdITF9zajZXRENsLWhjNllJM2lraHlJRGZJcUhiSno1VHpRbDZBUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/andres-manuel-lopez-beltran-amlos-son-stipped-of-us-visa/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
