@@ -112054,5 +112054,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/ulbs-introduce-aadhaar-based-authentication-for-accessing-citizen-services/article71346231.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/culture/culture-news/luigi-mangione-pleads-guilty-federal-unitedhealthcare-case-1235585905/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/14/croatia-wildfire-near-omis-injures-residents-and-disrupts-holiday-travel": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUtYdGpQbzlLTThLU3pyZHhUa3hZWl9qamhGZndHM2Z0dnRuQW93WnBaR1M4OUxwaXFISHh2Q2h4d3RodVg4TkU5ZU9mUjdZeEZzSEdPMnN3SjdIemNpZzBLNFpReXM1blplTkppWE4zZzl4YWRvSFVXVUM1aEpxanRKY3VJRHB2TGdPX2JDR2ZucVhocG9iY3duR3FoSlE2T2w4enFESmk0Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/lifestyle/hbo-max-free-trial-hack-1234714729/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/aircraft-carrier-uss-george-washington-uss-lincoln-iran-middle-east/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxObFVKVnhkZlRhSkxoOHV3MWpzRjUwUzVpT2szaDNheDB2b1hoLWxnTW1XTFhPTXY5OTJuQlFLMVl0RDc1Q1lQTk0zQ29TWlRJZzB5Tlp2VEdWcnlsVUlUM3lkeUhZZVhOZUxaSWp4dTlneWhFSVNrdk4tVnhGZ2did3lkMmJobUJ2RFNZR2pCQXE5TlRtMkVPUg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/presidents-medal-for-rajahmundry-central-prison-superintendent/article71346192.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3FPMVN2ZVhZWDROX05CWnFCWVJTcjl5VWVGall4NG1sQ0dNWC1ON1Z4ejYwa0FXZnZkNUtsU1dxTzZrSmdqNVlCR0RvcWRzcEEycUZlRlBCaXU1aTZhdjhyUUQ2bTR6VFRuM2xNOXFHN0x3S2pZQVNMUDN1OWJBTmhOaTRLakljUE5rNEdPVURGQkxCbkd1SlFlYUJoNFdNM25hSGhZSDF5OEVhMlRyVkltOUpCSXdZNmtr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdUNzQlgtY2puekJsMnpBanVZakZOQk5XSVB1bWFTLWZJVXpoU0JWV2FsdVl0bkdHX0ptNHBUNmVPYUNCTDhldlBZdTc3UmRUSEhnRVFrZ1JwWDlsVnpPTjVkdl90WVFFSGRkeURtR2I3RURZRE9wVUZ6N1FNMnREWEZpNnZjNVFZajFsYUlZcTRYS2VldUNBcmVaQXhKajg2dnBuem1xVThpNXVrVk5GQzNKcXZVUDRSTF9YYU9fR2F0aXZYZ3BmUnEzUUw2MTBjS25TYTlicEJPUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/woman-charged-over-vandalism-of-washingtons-world-war-two-memorial-prosecutor-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/us-threatens-eu-over-transatlantic-green-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQdlc2aTk1end0VGljbDJaMmJYcXFkYm9Bd1hDM0dWb1lPVVhtbWNtdHI0UTV1dEtqUTc1WnktekRJRG5tczY3bFRIMElMOERnSzd0ZlcxOV9xUk5Ld2RrZnhERXBMbnVwRWRrWmtkcUh5WXU5bkJnalMwaUJ2UkFQZ3VLSGtQNzJGWlJTZmFfanJLMEtnUHpkTVpHeWtfZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
