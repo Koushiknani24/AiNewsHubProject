@@ -111496,5 +111496,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-14/humanoid-robots-will-become-useful-deepmind-s-parada-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-14/beaten-down-ocado-shares-show-signs-of-revival-with-45-rally": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkNoblJJT2dwOFlHV0RGRktWUE05M2ttZmNBYlAwNFpEQ09ob0lhVHFRVDhZUGN0WVhuaUxOc0RJdmpidW1GQWpoLU5jdjZ6Y0QwazV4bjB5RmV0ZldsWmNOczRwVkZOdjNGdG81RFZ5Zkt3MkpPNlh2T0xkdW1RZG5rbkNuNUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/14/colombia-earthquake-dog-rescued-alive-as-72-hour-window-closes": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608140082.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3301700/staterun-school-in-loei-thailand-suspends-classes-after-student-allegedly-threatens-shooting": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWjBiSDFjaWplQm9wSGRKUnZjanlLdVZXUnNHYlFVQW1BTlU3TmxLLWN1WUw0WDEtRmVpTU9sQmxjSHEtNHBIcDZ2SGRFNjdia3lrOXBVaGdHOEtwcmRDSWZYNmVjVzRQaUhRV2FrN192YzhHYUd3RHJ3WllLdVpUT2dKRnJlWDBDVjZEYUxIS3E1NnV4TzgzRlZncU5pcXlTc0tpUFFLQU5CajFtMTBROGVscFZOSWo4X0xPOEpEYlVjRnI5ekFpbVFJV0tDWHIzTW5hV3BNZVBRTUpEV1hyLVBTS2fSAeoBQVVfeXFMTnp0d3VOa3lOWEoxUHF5Z0Fsakl6d2JGd0N1S3JBckNOZm5Ja3JlY3dBSnAzZWhoY3cxWkhOY29NVFpMMEl0ZGlQWFRYWko3a0dOcEVDZmE0b2dmZC1jOFlzci1XZXNqM2tYMEY2dDJ2akI3bE8tWTEwRmhBVkVVLVVZaGk0akp1LXdVS0d2WjM0elNFQV92WmYzdWRMbjVxQXkxYjUzVW12aUx1YnJOckxyakpQN3Z1T2VqZ0xTTmVST2VnUDhjTzRrczJaSjNlSHdZMGlYZGVzRnp6dmJ3T3ItdlJER21NS1dn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMkhULWlqcVdNR1F2MHBSU3k4WjljanVHTjhCRnVxNFgtc0VtVUtvQjJWV3pHc2o1M05xWUpMbkNxTmEtUXM2U0J6bDFqSlBCTndVdVFfMnVwRl9GdUVoNFk4c2tXNTBWemxqR0w5SjAxdmhJblM0ZzVOYUFpSmcyaHh4MmdiQ1pob2Y1d1ZrbV9mTVkxSlJVcDE1bHhYWjE1Vjk3ZGVJMjI4RnA5UzRGdA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQm8tWDJnakllMVFHT3h0WTB3VWtNTnlEb25VNld5ZlMzeE95NjZFM1J0WVkxZUlPQzZPNVctcjRSRUw0b3pNSWtLMTRFWHBzUzZ3V3RhaEJvOWIzYzAzLXpPSDFhQ0VMQlVrbzRTdkpxc1RhcEtlZzQwTS1yNmJDNjNIUThYaWVJY1hnWDh4SmpKdmoxODA5WVBvd2Zxall6N1RwUTQ5RlI5emMtd2tXczZIdFBjTU0w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/14/iran-claims-trillion-dollar-pollution-damage-as-gulf-oil-spills-spread": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFBVZU15c0VoVkxZSlVSaUhpVEFYWVo4al9pOVFBbHo3X0hwQWdVeWpUVE9heHh5TzhsWGRLMUZKazBGY21meUFjNVBDRXlPNFd5TmFuSDYxWURXdFJIcy0tOTd6NGREaVJ6Y1ptak1nR1dseUVCYUNRd3VRYnN0QlNHeHVkWDBFVFZGdHVTVEpLVXVfSVFwcEtLejVNNml3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWHp6cVBiYjJTemZUUTBpWEJiMXI1V0FWQ3ZOY29COHcyU1ptNzNTbkt5SkVvUG9FeHhpaDI5b0lhZEJPZ1dMQmdXY1czbVJVUmcyLXpCMHFLVUR1VFlRWE9oLUJZVEhxQWp3QnNIWkZxRXhvRmtMaHFzeEpUX1FWQUlFekowVGUyN0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUEZETjFlN1NjNEdWdjBwdXpxb2FxVU5jUi16LVQ5Ui0wZXB2QmJKaTB4akdMVFlTTnRrZDJCVnh4OEIxQ0hpaU1tQ0dQUnBFZlFRc2V2ckJKZ1BzdXFxQlpmUDVEWVBvcTBrRGVwWEZUR0dFdFJkcEU3NmZielBJVEJNbHVHa0hVcm1xSkw4UW54Y0NSdXliTkhxVTF6NThiaGtGSVlCRzhZSTVDV1RpemtNckVjVGVhS0lHUTcxd2ozdVZqVzNEVDR6QWFXblVkckFZYnR1djhBR2ZBTGxUb2RzZ192YzdYMDMyVXV0bzcxNnpSWFVmUTRGVkbSAYICQVVfeXFMTzh2SEk1THhUSXdwZm5pR3NQcVVDZ3VKVV9UUmxZNjRaelVHaURlandORlpNSk81Z3d3LV9hdGFwZlc5T3AzeVJTSG1CNkxBOFdJUk5HMDF6bU9hcjluNHNrUFZxT2dVRldpb3RsdGZNUDYwX3FHaGFuSVdpdWdOaUg5MTAxTjJCVV94MGg0SjFEaDdvWFFCZXhRcVZlLURPbXhYYkVZMmU2VTZnUlpjdjVwbjJvRWZjWUM3bHJDUjJHN3hRM0VKaTU2T25IXzBCellWZU85bkRoOHFwYWRNRF9iSDRGRHlNTzR3SjhyUS1RYzZadXFIOWJqNlNURVBXUXVR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
