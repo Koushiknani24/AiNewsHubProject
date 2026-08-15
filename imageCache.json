@@ -114652,5 +114652,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/tiktok-comment-all-her-fault-motherhood-tv-1236672638/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/independence-day-celebrations-held-in-vellore-nearby-districts/article71350023.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/frankie-valli-not-retired-brother-bobby-apologizes-1235609548/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHJuNzAtUG1fcGFIR0NCR2pxOWIwUl9LcVpjanQ1ZlQtSGZUQVBBVzBMc1BHU0ZLUTlZNkt6QmdkNjdmaGIzUTVtR1VJN0hQMnNNSnlIbTctMEZZaklFV2twX1YzT1dMdFVwLWtOMGMyU0tzWVQwWGh1bTVxa1ZXQV96aTl1R19ZbjBJeWE0MEx6eDVxUWZOZG1qMGp1V2ZBeTZCV1YwLXMwTS1xSlNmZS1uUUFkdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/dudley-moore-author-1236671092/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
