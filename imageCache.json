@@ -114550,5 +114550,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9veW5XNEJEa2toa0x0d3M4WEdyTGRsa3B3MFNkX21yNmViTks1aEJld2ktcnA3UXRhSGdPbFNQQ3Z4XzdETTNHTHh2S2lrMV82OHVTOTFKSjJwLWswVktfNXpOMXkwcnR3VXRLWHBUdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/woman-rescued-from-rubble-of-colombia-quake-dies": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/ap-genco-prioritises-24x7-power-supply-for-agri-farmers/article71350013.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFQxXy14SFNzNXNkMk82WERNbW9MWU5Hd1VIM3AzY3hLX1hTZGFhb2lReUJPejhTNzFjM0tIYmRaVmJpd0xKVzZWTXJWbzFYYWNKOFpSWEJTekdqdzl3ekFWZVBrOWZwNTluVHVuLUNleWw5aDFuLUhjWkx6R3kyYVNsSE9fVHlEMktzSmpWVGk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
