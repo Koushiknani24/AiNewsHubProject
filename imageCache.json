@@ -114832,5 +114832,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/lala-now-a-hurricane-dumps-heavy-rain-on-hawaii": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/selena-gomez-wondermind-lawsuit-meritless-motion-to-dismiss-1235609673/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxONjQxM2xJRU13LVJtdEpyODdzU2M1eDBxYURReUFEUlFKdlJKZWVGZkZmaXdwMUZRaUZ1Z3BSTVJjRWFuMnIySXRES29DcGxfUm4xa1phT3VabmxMVTJCOUt3YzY3R3R6MHBrLVAteDVac0hhQWdVS1hkQ1VPSlJDb2dMSC1OaGM1S1FQR2d3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Jd3gxYWZmU3ptT0p1T2xIM3lUaWJGT0ExTHJHMC1MVUpuQTBmOFVra0tnUGZCeE1UN3Y1TWZrVS1PMG0zUmVDTm5nTjdNcHM1X2REZDAyWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/hopes-fade-in-colombia-as-more-bodies-recovered-days-after-powerful-quake": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
