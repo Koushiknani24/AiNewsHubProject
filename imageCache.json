@@ -113020,5 +113020,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/814-the-takeout-with-major-garrett/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SVU05S3ZQMlFXc01UaHE0SUdFck1PRnRDVWFISUFQNFIxeTIzcHR0WmtEeHpJMjJseUhHWG90bXUyenBISVdqRWtTMm5ISGttVnNnRk9jd2ZYdHVnQlpNSFc3ZE1NX0JSR2xTWXNTTVhLakNk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3FWczB5WlFQZUpLU1VJcW9vYTZNTklSWmcteDZUNVp1TWZmNTJlMlYzekZxTHRSRE42LV9oY0FTX0lPaTlkWnV2OWVDSGJmem5iR2FxU1F6Z3dSX082ckpOWkRxdER0Mm02VXNqS3ZBNlFEZElpMll5NW5CelVNUlc4SlNHRnFNLVRDcmViN1pCRE1RTWgw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMXBxREg3bWFsR3pibzJqRFY3VlRyTXRuTUpNNXU3ZzhUaEpfc0R2djhMaVlMaW1NVVlmQ1BCS2IyMldCNkdMdXF1QVl2eUcyci1QN0FUMmlYOEU1Mm1KLXJWUVBKX2w5VmJHVlJHNWhRdEVtYVphU3U2N3ZxdTQ3N282cDlRbEd5aGpBMDZhNFZ2TTBrTVByeHluWnFNeDF5R2JoNVRvMlB6bExLeS1ZNHVlM2RoUW05SUFmSDFMUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-tuesday-agm-faces-uncertainty-as-sdtt-flags-lack-of-quorum/articleshow/133249914.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NR2hnRlh2SjZib2c2WWNMcUJqYXJVR05EajZPby1iSmZDVFdkR1dNa1NMeTRIb21kOEpfVE84ajZLT0ZNSXRHN1c3TVZOSE1IRXBRQXRxZFdfVThhZzhnSDA2dzjSAWpBVV95cUxPNk44TXUtdlI1bk5SZTZZZUl6Q2xSdXJmOXpqcWl4akZiWkxxMHZYQzhxc0ZEd3ctOEdUWlpJemlTZF9tY0xONXN4Ujk5eUcyY09TeGRaOHdTOWNZZzZxaWN2d1ZKdVJWaEN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3301850/gun-prizes-for-village-leaders-axed": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
