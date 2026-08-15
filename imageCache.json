@@ -113536,5 +113536,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXN0amxXeTVhSnZSWUdGc29mcFBDeG41SHNaVW1BSkJlc3JNOW5WRlZmWW1SRFM5V1pybkhwc29CMVFKS2UwQVBMUG5DMUVVSTNNX2Zud3MyU1lwQV9zN0lTdEtyZ285SHFpamdHYU9XbDNKci1MZUUtZ3o4RUk3aFBMYmZDTndLWU5uN3VKYV9rTUlQWTlFYlRnazJtbHPSAaQBQVVfeXFMT2NPVExXcVR1elh1Z29HY0V2SHlzdHRYNVNXVVQ5c3k3STQ4THBrbVprYUtxcTFZSE9ORVRIeVAxZU5VQXFtUjRuR0Zuekg4c1ZveVhaWTY5Z3JpS3JfS2FvclliZ0otNGNNX3ZwZmtxMjRPbTV0X3N6TTZpNDVsMGROZlEwLXcyTmZvYUVLSDgyMk5LSVp0YWVhMzdrM1cxTnNDWEg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/lebanon-state-media-says-israeli-strike-on-south-kills-7": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israeli-strike-kills-seven-in-south-lebanon-state-news-reports": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/14/bbc-subpoena-donald-trump-family-01038107?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/is-activism-hurting-sociology-sociologists-are-torn": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608150002.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaWZ3YXZmNTF3N19mQUtrLVduNjFfTGFYb09ILUhBRV84aFk5QWZ2TVlkVFktMktyNWtZUXV1TlBDTFRFdUhXTWFHQWdJQ3dsbVcxRWE5aGdER3QzMC1QcDlqRUJYTm5qZmZ1Q0FfSnphNGdZazFxOUVtV3VzY3BOWkVWQkhJeXNRWF9pbnY1UTRHR2kwQzBFNlp1SWtwcUZ3ZThpYk9McmtSQThvRHBxeHVaSTQxVFZrUjBIXzhDeENWUmxIQ25kRjVOQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-15/xi-urges-shift-to-prevention-in-disaster-management-xinhua-says": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608150001.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
