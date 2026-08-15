@@ -113950,5 +113950,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-15/in-the-inflation-ballpark": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-15/iran-sanctions-could-put-china-oil-trade-in-focus-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTGFieGI1NW1QX2NQTUpCNjlrSmlyQWVNVnUzLXl0WG02SlliYm1ibVYyZmx5ZG00N0txQlFneV80X01tX19EXzdsby1ONzY4VlZzNEdYV1VXRmRGa1E5Wk9CdGhZdTlPcDVJMzFXRzgtOF9PeGNBYUJOUkRxWHc4aDl5eDhhTllKY2xQSzRHV2EzZzhuczItUTBQR0Rxek5FTDJuRmxhSnJ6cXBpR2dpRE1zOFVHRXZUTEFma0VGcldKOUJJSlRkclNhNEl4RzRUUVdieVFGanRmMU1MYlpra19ZRW5UOVhSelHSAe8BQVVfeXFMTXd6N0dyRXNLUG1TX1VDc3g5R2d2bUZZRUVlTndPeG5rRVpIcGtNblAzNHJKelE2Y1NKUk5GdjB5WG9jWEowZm1MRjJZVnFINTUzdUJYWDZPV0tsRDRuNngwaHhWdW5pZFlBbzhRdmFGWHR5Z0Z2MWFDVU5VaEY0NFo5SDdHVUxodUtLQThYMmNwbVRPZFhRY0ZrbThYRkJ5b1BZckt6aExLVU1YRzAySFN2QW9SY3hiQktQemZwdnR2Z2pQRENSbVpQUHZaWXVFVkdQRmUxUGhWRTEtV2lGYTBhRlVMUUlYTkxqUk9tTDQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
