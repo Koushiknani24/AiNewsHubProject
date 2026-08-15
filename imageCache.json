@@ -114256,5 +114256,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-15/colombia-quake-tests-new-president-days-into-term-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-features/george-mackay-rosy-mcewen-mission-paul-wright-edinburgh-1236670925/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkZIQ254YnF1VlJBMm9iOE1zZWREVGVacjRXZFNfZFZ2bmlJeHBoTFdoRWc2R09Ba19qWHAxZmlMNG9qWnQ3S2ZfUWk4dFFqTUlDMnU2OThkU2x2TW8yaThpTmJIWndNVGlRbzJGWVBLSk5TSVN5dFlBQVVmbVNVdGNhNjBNcnZmUnNJdkc2WE9nRGhCTndBV1VQRnF4bEtsVE41TEVjQXg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0R6Q0VSMkdIeHFmTk1ybGtLVjVzQXYtUDZpTm5kdFF3V0lFaGhJdHdobk1iNXVoSnJ1MTBIX0hRazFoLTVYZnJJTmVhX0UwUTA1dmVzY2Vka19JdmtxTnNqMVdHQ1l6czMwbzlqaGhObHFMblZUNFVpVVVycnAxbTFSd3FmaER2ZkJ6S0o5SjZWQjZYeUN5alVYa2NiTmRMY0RhSUY5U1NsQdIBrwFBVV95cUxNVE04QlRBTktPdE81bUpOdEQ3c0hDMnJyRGVINFZQaUtsUHJ2QkxiSm5rcHB4eGhXWUFHdDNzZHdDb0ZBbzJqV2dtSjBMdVlHN2ZjdS15cXQ0eWcyelN6MlJONTRIbTRUV3oxU2ZCbldXYkN3aG9UbkExWUl5LUt0UVdiNmY1X3ZLMmhYdUhSdlVoZ0VObHZTdG9sUWNjTEx2dko5dnV5U2E1aG9jdG40?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T1pObWFEcjlUbml5M01PQTU1SGRNOWlBc2tvcmtrQVFqTXdMcFEwZE00THltVGdrZVRJNHcwdFJ3MHFWdHVucGNXdjFHTEh6RTY1Vi1KMVBsaUxMRjQ2Qk5YVks4NFNmMkZJOFhtS1Z1Vmhl?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-15/drone-swarms-push-ai-deeper-into-modern-warfare-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
