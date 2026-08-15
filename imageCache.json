@@ -113092,5 +113092,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/disney-reveals-lilo-stitch-2-will-angel-1236672809/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/lisa-kudrow-mira-sorvino-romy-and-michele-2-d23-1236673702/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVW5ySVhfdVBoWDZhRjhKUE0yejZtUDJDU0JJODhlaHZqbTVNUWU1Sm1TZU40c3FUSzJyUzh2UkJSNHBqdkxhbG0wNk5kRXRMcXpBT3RsT3N1TFM3dXpvekkteEdVbmtuQnJiODQ0Wm9ISGVtamswUkFQTVFiY0JXOVVLMEFjSkRFdGp0ZnUtbWp2NlN0YmNRVjNubw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/india-80th-independence-day-2026-live-updates-on-august-15-pm-modi-speech-red-fort/article71348349.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3FFZGItbWhxdExhU0o5Q19YeEJ6U3c4azVDQlFkdWJCQVVUZzV0UHJMcjFWS3pqNTAxMG03MFByOE1ZdXFJRVJTbGFpbzlQV0Z6LWZKM0J2RmZjNTAzZlFqQllTQkNZOEtfY2pOelo2M0VIZ0xJT1g1dS1FRHFFbWNfSkRHeHYtY3o4RmY4MlNEMzZabE5YYk4zZm5Ia1hzQUtEMQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/15/mysterious-elephant-deaths-in-kenya-leave-experts-searching-for-answers": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlFBT095RUJVUHhnRW5VOE5YNC1TTEhIWVdiLU55V00wSmR2SFVYU2x3NDE2aldCcDNyWWMwOUVONnhHcXY4MHkwY3FoLVNaRnk1clRuWkJKbENIT2dENGNjczl6cDgySHBwd0tMYjZPYUU4dzFUOUowSDlhbFRKNTQwU2stYUVKR1U0ek9PYjNMeDFfNmdQa190eE1GbmY1QW0zZk1yYzAwTGtvWWEtX2QyOE9sZnVDS2NyTEo2dzUtQ0FCU1hLaFZPNEFfTWlDbGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-takes-risky-bet-on-private-pirates-to-combat-cybercrime": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
