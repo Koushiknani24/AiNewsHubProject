@@ -113806,5 +113806,29 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.sciencedaily.com/releases/2026/08/260814011039.htm": {
+        "image": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trumps-2024-grocery-photo-op-now-haunts-republicans-in-the-midterms": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRHVMV1VTWFdVZkRrM01tUlM3OVRpU3E2SWNVRXBYWVVYNW9JaUM4RGZNSm5sUVJjSHgxVmktOVUwUjlBdzkzV0l2dUZGRkk3Zzk5ZU5Ub2NGR2d5Yk03VjZnZzc2TExrZEFMbUpJbTRPZjBlb3dyd1FJc0dWdEd5eUUwWUVfVnNodDBpT0Q1ajk0VjlPZUdWMGdpYVhjUTdSTlp6enJIMndSc3B0ZzRmelJxZDZXcFIybUFNRG1ranFmNlk2Mnd0LXpPQjI3OXV4bGJuaS1KS09GSXUyNzV2T3RLblZ6TmphcUpNWS1ZdXTSAfYBQVVfeXFMT0l2RGFuZjRMTlBSaS02Y2h0ZkNlVHRsamF3dGRRRGtKX2tKR2tVMjRTaS1udjlnY216SGE4R3lBRmliV0h1WlhreUdrQ0hjU01uR3czMWt6RmhSYUFqaEhtQUg4T1RmYzFMOUt1eTZOaUg1a25lODFyREMxeUlZcWd4RVBUMTgwQTdaWXFRVktiaDBWWnFzSGhSdVloNjRUUjRrZGd4SG9aU2tpVDJyZGNWV0hsVkFQZkd5YUZPQkk4VHJhb2VyT282b0RLRWhCU3Y2SFlKSm05RUwtTWxVTkl0STloOUpkTFU1bVhzanZ1V3luemFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
