@@ -114424,5 +114424,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxObGZmNlZWSG5fREdJSVY3azFnQl9xcEptV1FzRW1VbW9xaWxEQmdfR3EtYzZwbkxwUGtmRHNyNTV2Q2s5VDQwZUtyaUxrcnpBSUFLMzZzZ0p1WVFlcXdraWVjZjVrSXVjR2FWUnoyeEdXNGdyRUtSS042YVpfM0s1bDZ4MWlNdVJyWlJyVk5n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHQ1MmxXNk9rM3R5azhPWWk5bjYtbVE5cDNOMzl6ZVlyMHk2ZjctcWVnVFBxeFl0ZUwtOXFZbEtfUWJNZlBfejJ5T3FiaEIwdDAtWW5GM0R0UEsyeVBwck9oRjJXV1lVbWd0elBWNXpPRzYta2Jaa1c0MkVhVklla3hOUnJxZTJBaEFQU2xzUTVLZXhfUDRRTGdGVEx3bDlZTFdIUWZBMl8wWGRCVFVnck5lcklvbDRM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/palestinians-in-qusra-say-they-have-faced-militant-settler-attacks-for-months": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/business/Industry/nclat-upholds-insolvency-proceedings-against-nyka-steel-guarantor-over-uco-bank-dues/article71350456.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
