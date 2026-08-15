@@ -113278,5 +113278,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/frozen-3-royal-wedding-between-anna-and-kristoff-1236671593/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkRHaElteF9LeHpqcFFKRldiVVpDVXVrQjA0Vk5YMmxnZ1M3dFAycUpUSWY0WEFXVnN0bXJtcDVTdDR4a0c2OXpGb0Z2LW15c1RzVndCN3dmekdCb0FJWnE4VXBIR1dEOV9TbkZXX2FrTFN4TkJFUHQ2elRMMDBHTUYzVFhzdnpTUTVCdGdoV3k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BcGhhXzczcHI1MURtZzRVU1dXSVYwUlprMjd1VVo5T2xzLTNzeVh2THB0dkxCTTd5c3ZVcGxFdzFnR3RJbWlOdngtdnJZTFhVb25Sbi02aEM2VHEtNTZhVDBXdnNFS3RfNUwxaU1lNVFTRFdRWU1yYXBCa1JOcGM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYW5Ndm9oV2Zkbm53eVhsbHpQYnBfMkE2UmsyNHhLSnhyOUowMnJSbVdKcmpzV0pfbUgtZ19JTUNwb3V3MmxhNjFqRU41bUJqN05nYkpGeGstMUppaE5OOWp0RXI5dkJaTU84NXV3akNwZUloZURaTmtGU0JkNTFtTFlxUlBRRnNJbVV1OTBRemV2MGxhWlp3SzlwYk5rOGhQVFdDbW5FWTN2S2NoeXBUNmRITHVObnExaXd2SU5YLXdOcUxQNXgxNVNlZTVNZm40cDdkRTRzLTViQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-doctor-doom-1236673352/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/ahsoka-season-2-brings-the-force-first-trailer-1236672980/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
