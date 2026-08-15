@@ -114952,5 +114952,17 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-tutor/mnd-tutor-unam/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-aug-16-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
