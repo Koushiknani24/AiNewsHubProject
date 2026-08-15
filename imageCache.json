@@ -114124,5 +114124,29 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-15/strong-earnings-keep-pnc-s-agati-bullish-on-stocks-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-awards-winners-monica-bellucci-hong-sang-soo-1236673771/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTzhVQTNmMlQ1bUEwbmhhTTQ3dENzVnFydXdZc21PWGpSUXYwQmFHQVFnNktBelBCRi1xcm5uaXBuWWtWUHVES1hDaDdlQmhxcUpKRjNTMUR2QkxlTW1xZ0RwMVF6ellVZmxLaFVGOEYwenlPdkZ0d1NiU3J0THBjUW1xRllMTkNPUENYMU03MXYzdlVXVXlGcTFsalVwbFZJNmMtOElzSUVhWEs1VGM1bXdNcWxkemx6YzhpeHZBcHh3dV91Qi1vYlUwSEVDUUJqcDNB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/races/horse-racing/article71349768.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
