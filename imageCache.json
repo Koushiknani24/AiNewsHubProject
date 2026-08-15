@@ -113368,5 +113368,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/8/15/chk-small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-15/modi-maps-india-s-growth-push-with-youth-focus-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNUnFMRExLSjVkTElZbDR3LXo4TXY4Rm8xMlZWR1VfUE9LVjkzd2RJZzVUM1FHdktGUEdIalNpN1VoTThneFoxTzdidUtMVGJsMnJTcDhOMTFhS3BaTkc3ckxFVFA0aURlTjdJY1p6SV9UOFVoSV9valhaRF96d0VaaktabExRX3Q2cUt0QVZvckJFRWMtbnE2Q0psdmRnY1ZjNF8zd1NCSHRwd05ISjJlWWx0cjBZLU1kRXNzcEJnWmFkbUY0VUppbmFxZ3cxZ015REtrTFdzbnR3ZFRGd2V0OUFlUjFLb0UzXzNXYVVvNXJ6WDA4czhhWkRMeWJGRnJGcUJ3U2o3cVNBUDFWT3dibEdPZ0hmVElpZmhFSGp0OUUzMm83UGFqam04aVBfVVZYcWdLT1NtOFNFSlFUZjg5VF9pSXlNYmxsaE1adnJ6d0pMQXgxaU41ckd0bnpHa3RmeVlVTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3302172/powerful-earthquake-kills-at-least-20-in-indonesia": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTWtqWEswZmlyVHRDTEdPZk5ZNjZQOFgtQXdYSEctWHE1WUh6MDZwZWdQTEtiZkV4TlY4d0s2R0NJakpSZjNwV3NUSEpsVTZUOWR5R1hXeVlTVHB3QWJYSmJ6N0Z3VnJxMnI0OWZ6UUZiZ1QxVl9yS1NFOURrNk1LWjA0aE8xelVHUlMyYjBtRFA0NUhrdm5rN3A4YUU3SklzREhLY0lzYnhPNlhpaFE4QkZYc25BNm5oOW5qMVFhOXlpQ3psVnpUSDRBNDc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
