@@ -113770,5 +113770,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLUFidWJDWUVZdVZNTGRBV2RHaTRZWG5uekQzY25vc3BQZ1RNQTdMRWNzTnFQMFpCY0FrVmxMOGNXcEpGOTRTTVR3Y2FZNWZ5VGYxMGhlMDJ0Rmc5cU1KMG9JcHBCdW9oaTdrSVVyWVp5TmpxTFFrbjhaVVpMN1FaTG9UTklub0w5QlM1MUZnUWVzNzlBWFVNWThjM1l1ZXc0R0ZKbm1XQWxObk1JaGVyRjF3ZUpnZ05oN2lFSXEwOXJHRGJZWENLNmJSbmVDdkRSM2daeFRTaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTDBhWUZDR25TQjFLeWQ1dW9pZ2JlTmJidS1OX3Vmb3RmdHpEbHdUbW1BSEZQYmo5dzZOYVZiTHRzLXVSd0Z4QVhxMXY5Z0owS1FLaGFMSUxfQl9QV0VzNENQeFVmRldidXdUVUFfVTEwcXNZc3NDQkRsVG0zZ0pXY0wxOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONXVsZXZvODJPcldwNEtxaVVqSnRGMnpzWThfUmczb1VyQmptNmFKYW44S0IxcE9zdUo5VnY1ZzJOMU9QaFdNZEFUNUR5Z2JsMTVnVldURHMySFB3WEl5bFE3QUNuNXFkWkpmV2hqSllLbW8wU2FMaTlrWnc0N0FXOGYxaHpYaUhxWGYydUtEbE5CTUx5SmMyR3VKTHZHd2VlTmZnSnhLb2MtXzNxbHF6WHNrclBvYkg3LTNCRGRCN3RlOTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMnlLSFVFX2tFVkM4Z2hhN0RabkpWOWNfZEhqQ2lWcnlXWFAtUDdjeGxyc0NFR0tCZkZ6UkZGY1BqTkFoV0dFdmlfR0FfZmxJY1FsX1N0TDdBWXVCaXJ5RG0xbF9UMFN4ZVllbjlYRS10QjAxMVQwRmdwV01zREN5NWNHVWtxTHQzdEk3VGZaaTZDa2tZcFF1NTg4TnJ2a2hFY05wcUlqU2JzZkhmQnVPWEh1TkNmLURxdGJIQWJvYVhfMmd0OUhybEdPbVc4R3k2TjhIekI1ZjV6OVM5NFBJUlh3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
