@@ -114874,5 +114874,29 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/colombias-leader-asks-trump-to-suspend-tariffs-over-quake": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/cbs-news-matt-gutman-accused-harassment-abc-news-1236674408/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUXdrUzhlbjdTeVVBSU5SdElsemVrNkU0NEFkRnN0TUJQSXotbnVNWXZQdXoxSkp6Q0RmdnhWOGY4Zl8yZWVNRHM5X2lWNVR0VlIzTWNlWXpYSERudHkxTU85NEFkNG5FcmJKLW5Bc3pIS2VfN0RfRXgtUGRjZXhKa1RGM3FqOThiZHNiRlI1VjLSAZYBQVVfeXFMT3dIZVRLX2ZFVURCcld6M1ZCT3IxazhWeFoxdlMxSl8tMTZsQXZrSDFYbDlKRFJXQk9nOExxc085ME55TkRpVGUxQkdQVGF6anlSY3Q0TTlENTlNOE8wSV9jOVV2YnR5VlZJaGJERV9NT0w2cmhhVVo3S1lJVzFFS0dqd2tzOVVMWGlHclBlbUhGMDlFS1V3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
