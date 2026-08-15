@@ -114292,5 +114292,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUVRSDN0Mkd5bnBKbEFnLURWVjV2MEs0VEZCZzM4NXR1WGJ1b3ZraDJYWUxkenk3d2NsWHBYNUFfY3lGTTRNdElNczRIT09vbFVyMFg3Y3c0cXpiQXNBd0p0QjRKRXVtZXJaM2FMbzNkVDF1UFliaXJYOVZybmJHd2w5UmF6MkI1a1RsR0VUOVBES2xILTFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHlGbXBuRDlhNGV0cXFBZGszMWNocmEydlBtbnBMRTd0T1Z2OFc4OFRsbEFEZXVuckt6RVhKWEZsbk1LQ0I0Sk1xbHdVTU16akhOckNqcW9hR3l4ZFUtdUlqQkRrSkxzWFJLeTZ6b0ltN09TZGhnWE9jUTBsSEpKcjVBRDZ3OUEwTDRJUzZmbnc5VFMxX242YzJB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/jason-arday-ex-cambridge-professor-found-dead-weeks-after-plagiarism-scandal/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-15/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSnFRTW9hNnQ3RFZaazhZZnNmY1hGRU1HY00wSkZKbUwzMlVVU05rU2N5b1kxdnA3cHEtX3Qya3puRDNGQlZ5M1RRVUZWZ0xPU0FEUlJ2dFNDZ01sZENIcGh3c3ZsX21IUElLT1VKbWN3LU53WnJpUGRyWHJUQnZhOXJpZDNZRDJjMFNjX0pINA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00Z2hZbVoxNndTWE92Nk40RTVFR3gwUVZaZ2RERWpKMzg0VDR6ejh6YmMycnpPS2IwaWgtdTBaU1Z0TE5vOE5QNzJkbGhaZmVDYmFLd2E4cw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TUWoxWm5kRUpFd25JWE42U0JXeWJuMlNsaWdNc2ZIdU5DdUM3NER6a2hBcGpqX3FTcWsyOUZMQlVNYU4tRGtMSkJkQWVhRkdNLXhibXM1YUxQQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
