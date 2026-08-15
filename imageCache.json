@@ -113320,5 +113320,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/bengaluru-news/anti-rowdy-squad-to-be-set-up-in-bengaluru-cm-dk-shivakumar-makes-several-announcements-for-bangalore-including-ai-university/articleshow/133256510.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/services/advertising/india-changes-two-decade-old-rule-to-make-you-watch-more-advertisements-during-tv-shows/articleshow/133256441.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82ZGlYY2RRS2ZmN3gxalFxYkpDbU1sc2ZSUi00dXZOUTJFMXFNV2M5RFNRYlppUzJLanA2QXV1RVZOZGpOUE9kNzNQN0d3TEVOYkJRaXNTcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xalVrS0tDR1ZSU2loLXVEWXRpbmlJcl9BbkkzZl9MRWNSWml3UENLNkZja0RwMGdsX2l4YTRCRV9sYU9faUhCR3BZZVF0Ti0tZXpRYkhhYlI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXpMcFdSN3prUUJWRTB2ckZWWnhTWmJTR1daNUlzYUdNV1dCcVMyS2xJSmltZXhMQXJCMDZVdEFZa0NNT3BydEl0ZzdWZHlfbkRLcFN2SEVTQVZITm5TckctaGlLbjE2TUJEbEI2N2t4bVFHLThLXzVMamhVSTk5WUdqZmV3RXBZVWlNSk9sYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb1pBS3hQR0RDSXJHQlhOLXQ0dGxqekk3YXBYV2U5SUt4emtfQWJCdlNPYk5HT1BRUXpGdEM2R3psaUxxNE1SYVBWOGNkYjhsdDdhY0ZoYmMyUzFhekR1dVZHcmo1ai1nTlFiNV9pWnEya2JacVhMdl9jcDM5RW12am9lOFlQVVNQTV9ia2xWdUM0YmFvSUdra1JIUWw1cGlvVEEwNTBhSkJvZzVWel9Kd2hURUZHQ3pEaGhsTHJKeXYwSmRIRWlFYTZvWEtHUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
