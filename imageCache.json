@@ -114592,5 +114592,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/devadula-phase-vi-will-be-completed-by-dec-2028-to-benefit-tungaturthi-uttam-kumar-reddy/article71349515.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/fssai-makes-u-turn-revokes-order-against-enrica-products/article71350141.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-intelligence/the-mnd-news-quiz-of-the-week-august-15th/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeHU3dFpoMnZLaG8xekdTbDhNdzVGcVozZ084YlVvLUZENFgzZUVkdmJtNnh2WE5SRkJpdUJWcFJ5MGdFQkc3dDdsVEFYcFM1R2dYS3lTVDBCdllNZjA5MkN3Y291c05wM0MwYzNrV0hkYVpLS0I0SEZFT0Y0NzJVN0c4aWpWRTZ3ZEh1dDYtdHdoRXFJbjgwdDJiUjF1dFlCREhoS2NlWHdWSC1HbTl0QtIBtgFBVV95cUxNWE5FLXV4THFkWjlmS2gyUlZvQkNRZklta2JSU0FVcVdwejZTMk1BM284alRmTU9rS3RfMmZPeHhUR3NZaXU2ZzBDMmIwWHo2UktreWkzcnJqTDYwR3AxSGJJT29aZ2ZMaWpFZEtOTTJzZXBtbHEwUW5SZGZTeThhMWs0elRMZkhVbUMxQ1loWXliWkRhS1FFR25zS2dWZXhtcjBCNTFMX3M2dlFKNzVYM1hnVXMwQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWRoWDR3V2loWnRHTS1JVkhlNFhrMkk5eDJNZ0xqQkNIRVdMdDAzbW9vX1dIRi1CcHd6RDN5RmFyc3pteVpEaWhfd21pSWRycGZIV2U2V25QRUgzYmVVUHg0SFNpNWZIUVhGSGdJRmtFR05EMkIxQVJPbWQ1Uzd6TEQ5TGFpaWhrdE5jWGF6RUwya1JXUGtLS09pRUE2VkxGSlpIYQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc1hSbFRzZlpISUk0X1AzVW9FdGdFOUJmVDk4U09RRHJJY1QtY2twN0U2YW1PeVlQMVNwTXlqdWRfTVVDNVZzVE1NQVdpU3BFX2xhOGEzWldqdktFdkdRcjZvQ2hHeWJ6VlBWdmI0M0lwZmRoZkhlYXhjQ1V4eFF0VGpzUHJaSUhFY2VFWU1qV203NnlmVGVDemg3SzF3TlYyMmkxSVpESl9PZWMwWC1QVUZmTThtdFNNNndMYlFJVzY0YldZUGZMOUFKR2g?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexicos-week-in-review-disaster-diplomacy-peso/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/dave-marsh-music-critic-biographer-dead-obit-1235609648/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
