@@ -114964,5 +114964,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/digital/disney-epic-games-star-wars-theme-park-ride-fortnite-1236674132/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdzY0WVpJRDlBWU4yVmQxRlphTTBNVVEtQk45d0VpRzBXLTJ3WXNMT0hrZHJnY1ZUa2gzZ2dNV2w5MnFnc0pXS3owNk5mNDlKWFdPVm5TRXZFUlpJS2tvRjNCazBDZmxndUxDMFpZYUs4YmdwakZnZHVzX0tvR0lqdXdacm9XejVKR3pOT3NNVG42M3E2ZXRpWGVNMWdQWl96em9XV3ZNNXJYWFBGOXIzdWpXLVM0RlhSUkdZdmJ3Sllvdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWJqaGY5UGg5Nzhhd1BFNUlvSzNwRTZJWXVRZDlpOGhEWGRPMHoteW55WFFKWTJzQ1pRVUwwb0NDN18tMkViVXViQnY1RGtiVDEwa1Q3WHlEWWlKUHdnOVJfTXZoVjJMNlRFbmppT2VVOXNsLVNLOTZnckJJMEgtWnJSOVZNM1BOR2VfUtIBjAFBVV95cUxNM3BYekVnYTJwQW9lVkZHaXB1Xy1VYzdNTFZpcEVsMktKWmthQzMtNFBaQ1BRbUJMck0taHdQUTlmRXphN1hRMllnUXhtVXNCMlFyN2EyQ2stN29kUWxXc0NSdkRjdEVsTmpRMkxGTXJsOTY5THRDdjIxY0s1X0pKUnNWWnFkTGcxS1FTVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
