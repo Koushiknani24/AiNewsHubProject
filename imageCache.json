@@ -114352,5 +114352,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/72-inter-state-tourist-buses-booked-in-ernakulam-for-tax-evasion/article71350125.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.independent.co.uk/news/world/americas/tropical-storm-lala-hawaii-big-island-hurricane-warning-b3033638.html": {
+        "image": "https://www.google.com/s2/favicons?domain=independent.co.uk&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/strike-by-furious-easyjet-cabin-crew-over-repeated-schedule-changes-sees-100-french-flights": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXd5RnVuVzAzOFJoSTZDVlh6RFlCSEFDT0tlbWpfdDlDZzZWc3BYdmhMenVhVC1qTXhtdHJrWU5mZGF5V2FqMFhyS0VTOGh3cllEQ1d1ZnY3bl9pR2JoRk96Q3NzMjVUTnZSMjlla01mQXJJcFIzRkxWQ0d4QWJIUmptUjVqdEY4VEpxWVpWUkFKblFlTXBDbjdiZndLRFBuY2NuTk9BQUZ3OHkwVnpPUDNmNHB3U3Q4UHpTcXRrTnRVV2Y1elE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/politics/politics-features/trump-belgium-diamond-ring-tariff-democrats-1235609526/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/yemens-mocha-port-halts-operations-after-houthi-attacks-port-director-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/iran-us-war-west-asia-conflict-donald-trump-strait-of-hormuz-rising-oil-prices-live-updates-august-15-2026/article71348347.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/chacahua-lagoon-mexico-climate-change/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGFJaEk1Q0ZYc3pYN19PU3lMUFJ2czlkbVA2Njc4QlhsX3I3cmNlUm1VNU5VZE82SFY5X1hKeUhwVllWOFVjdHpVVGRJQ20zTmJIVFFoV2dWaWlIUFp6VTB5Q1BFRW10Qlp4R0FIWHlnRUR5YUEyb1EwNllkbVFlcWIxR1JFT0NqSURVXzJUZmdBTW80VUZXOWIteVhfTVZk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
