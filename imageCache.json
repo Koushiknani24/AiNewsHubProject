@@ -113740,5 +113740,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/summer-campaign-has-led-to-capture-of-19-settlements-in-southeast-ukraine-russia-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLU5SM1pjY0RlRjNZUEw3VDc2YUNNUmpoRlhWWkZFNC1LTWdSVXFFZzZnenNseS1ZbHI3dGVmdUVic0x3dzllWjI1UGpUTjRGZUpucGxlR1lrS2xMVl8wbFlERjQ4OTFJZ3ZtcFZ6dVdsRlZZTHQyM0s4QThqZGhpWnhrcEwyUnZzLVEzd3JVZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/14/trump-world-liberty-bank-charter-crypto-01038464?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/psg-sign-spain-forward-torres-barcelona-6321286": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTGhsV3plQjJ1d3ptcHBLLWx0cEI1MG5aUFFIZlc5dTJTY3hEd3NBeHNLUzc2Ty1YVkpOVGxrV1pOZDA4NUVhMl9VLW0tTC1nU3N3NW1yWll0S0RPTnF4MFhrdFdVMzFQd3QzeDY4VmZYR0pkZHEtWnB1emluTGxGMzAyUlhNaC1hcThrNVhFWUxpOGJvN204NXdaMjhqaFk1TnJ5SEhZLVliMDTSAbABQVVfeXFMTnBJcUhGWGVTenhuLTFjc3c2Y3p3T212RkNpX011SmJ3bFdULXAxZWxfMXIxVjczUHpHck4yV3pNNXExWEZ3NXp1R0dFdXMxZE14V0hrVUtUSTFrUmdxX2R5c3F1dW9FZGs2SEFuV0dkZTdMT0lQS1dJOUcxZnFLYVRQTHBwak1kZTRkOWg2S05oT1Q0dTUyUWNNeVgwNEVRSjROZWpJa1h6OEY1YWxza0c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
