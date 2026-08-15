@@ -113188,5 +113188,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/kieran-culkin-to-star-in-animated-movie-clay-1236673989/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/zootopia-3-in-the-works-disney-1236671631/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/ryan-gosling-first-footage-star-wars-starfighter-d23-1236671420/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/new-updates/pm-modis-2026-independence-day-speech-shortest-in-4-years-second-overall-how-it-compares-with-past-addresses/articleshow/133255686.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/independence-day-2026-from-hundis-to-upi-india-payments-banking-digital-transactions-journey/articleshow/133255203.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/politics-and-nation/omar-abdullah-slams-pakistan-says-indus-water-treaty-sucked-blood-of-jk-people/articleshow/133255660.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.yahoo.com/news/world/articles/powerful-earthquake-kills-two-indonesias-041828628.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEVCbFdhazZDRFpDbGhaenZNWjJEenp3blFueFN6QXJVYmhCT3dXUHd4R0JOYy1JcmcxRUtfMGZsQlM5YUY2bnRzaktDSlBjajg1YXlmbExNbThBRmxrZXVYUHBRRXQ0QnlrMVB4MWVYZ2dySURBN0NZZUpqaExrcVMwQXhVWW9uc240Z0NoYkg5Ulh4Z0tnRThRY2ExWEVqbTl3N2JuTWk0NVc5MmJr0gGvAUFVX3lxTE14RUJsV2FrNkNEWkNsaFp6dk1aMkR6enduUW54U3pBclViaEJPd1dQd3hHQk5jLUlyZzFFS18wZmxCUzlhRjZudHNqS0NKUGNqODVheWZsTE1tOEFGbGtldVhQcFFFdDRCeWsxUHgxZVhnZ3JJREE3Q1llSmpoTGtxUzBBeFVZb25zbjRnQ2hiSDlSWHhnS2dFOFFjYTFYRWptOXc3Ym5NaTQ1VzkyYms?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjJvZHo0aWtxSmEwYjh5a0ZJdjNrOW5yY0dZTGZoYUE4dkltTXlmMVp5WjM4ZDM3bW03RzZ5OUlySmFTWDB3Uk1sSHpKcTZjUHplTnZxbzVGcFdxdFJpRy1xZ0gzNGd3ZklBLXptd0pCVGZxU0ZDNlJJc2hVeFRpbWM2QU9QXzQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONVFYUVRYVXlReWNFWlUtRXZ1NFdHQi1JTWk0S01PaWd5WWRWRktXUmpzUjRuM1lRTjZtcTlaUmhpNERNNzRxT1VRbU9COFlUanBPcDc1UE1jWmpWRXdjT09OZWdBN25COUJhQjRzS1NtczhRUHIxbmkzN1dJd2h1RVF4MklubFBuZ0xIVmdLbkkzYjg0YnU5U2ZiZ3VjckRMM19kc2dVQXVjaGtwOVJtVXd0dlN2MUx6LVB1V01pTHE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHhfZHpScm9NckJWa3loSHNWSjNNVEhFOF85SW0xekZQZnRaNFUwSjJtOU9qTHh2bk4yOFhRQUM2NklMTzBPUDNIZzl2Qk5naUY0Y2VuV01lLXhXNmhQVGhyaWRCWWkzZnY1dXdTdnItbkNVcGd6NFphaTFuN2ZhVTFTUXp4eGczZkNCdmxqM3k0aGQ2NEJYdlV0cHdQaDFKUWZmQTRxN0pGNlM4ekdGRmFRVXFwZDJqN0M5c3d1eGV4RjRyX0xUSUkwOFpHRDRPSFVmRkRpMjBoY2pT0gHiAUFVX3lxTFB3X3Z0NmdDNlRvNURPbVQ4dER1TXhEUnNYQ19hWm82Z29WTldoclJXTG9zeDBGT0RUWDBzZThGNnU2V0xVUGFPbEY4UU5vTzR4bUxpanJjd2p5dUNvQWJfUnZDNVhzWmVyaGRNdk5VcUNBR0FOYmJybjJEWmxuaXNiZkdJYTlFb2hfQTNTTmtRTUlFVXpTV0R0UHZwV19vSzJCOUZxVG9BS3hMVHJTSUZtbk1lLVp2SF9GMTNrZWxPYUUyTnpJTVJVeEo0RFg2ZHBSSFdWR25TblRKRnFjSzc0dUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-15/china-protests-japan-pm-defense-minister-s-yasukuni-actions": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZE91Y0lBNmVmSUhDcW9qVWhZeWdHM2hNWl9sakVydTN1dGdGZWIweXNydE5VUF9vUGdhVTI3Zld1MWJhMUhab0VhSFAzaDNRblV4UUs4RlVSYml3TmJkUmFYODQyYWp4ZmpXTHJPQmE3aks5RXk1U19rUjlSMFNHdml6VVdwM3ZXZUdfRDBsMlRLbTB1Rkt4b1B5NG1uR2VvNnFIUU1xTGJkYm9WTThyMFJB0gHGAUFVX3lxTE96cHNHMFVTUy1zNU1SUW02RGYtT2s4MThJbUZzY1o1cG9WdnlBSUJoa001OFhSSm1yTnp0SGR0Q3JRYUNRTkJKOU5IWjMwZ0I1R0hTV0RMZVVMVVVPOGNHQmV3SWlodHNldm8zdjI3VWs0NXJyYXRNLWw2azYyR0ZCU3h2RkRVb3l6T3NKUmNXZElGQUxsUE5HclJ0emFsaFg2VWpXeW5jV2RocUlOWXd4WTRBNms3RW5lRzV1a003ajA2OUZUUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
