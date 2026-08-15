@@ -113602,5 +113602,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1RGSWN2UURWdzdtcGlLc1EzWXl6cWJLQnEzdXJDVERvaEU5WUh0Wkpib1hQNnBHTU9pZVV5SnlLY0c4S21hSUg3NGVpWEx5enZ5T1dRRU5wYmdXRkhZbk1USERVLXpJbUZ6czBySzdDRGdvN0xCb3RMYWswTVEwX2NTMkZpNFVuMGNyaDV0ZEM0R0c0TjNDZXByZEw2ZzV50gGmAUFVX3lxTE4wSEh2ZzliNXNnU1dYT2xNc2piWWV6RThhZ1hkRkgwMzdlLWxKd25jS3RKSnBTUzVOWHpUbUVLeE4xRWtDYURpSk9QN2pmWEQydnlLOThWc1M4TDBxOFNnaHlJYTlXcVZuS0F6Y3NmS3Q3SVRibjFoNWRzVXZQeTZtQzVKd3Rpby16VFItd1BMSDA2UXNjOHFrWlg2V3RZS0liTVpFRWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZTU0S0JrWlNlTDNzY1FzZmhDTTVybWtVZ1hNSnBlQkdoczdIdThZazE1OGY4YzhTT3JYUzcyYTBwU0hqY2lwSTJGbllDOGxDWnZIWUJUeUJNTUFyT3hWSms5NktvZms0d2FhNHo0ZlB4QTdvUGlEa1dBTXZrQ3ZrOENma0Y1alBXRGYwUkNiU0pKbFpVWjcxTW5mMFVPOHJtOWZVZlA1RUEyODNmVjJkMTZQNEFNd0NaXzJJSS1fdlAtVjhqLVR4Q2hVbDlaTHdB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMThZcG1UY3R5WENUZWJDZENEOHFoVTdtcjJlS18xVkFncHZlM1JjLVB2emNlUEZVV3VqNU1fM2JDOXlOUGpjbXBWUFRxVEVDWlhINzlRUWxrU1AzY2VQaHM0eHRYc1BVazVtVThPMElkdnVSNFdfcjA1M0dNQTN6YURYV3d1OHZrQ1Rrc0VOV2hlQ29BTWpEUWxEUjgxV1V5Q3c0a253Vy0yOC1vak1j?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/viennese-woman-sues-city-over-discriminatory-toilet-fees": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
