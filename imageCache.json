@@ -115264,5 +115264,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/europes-heatwaves-expose-insurance-gap-as-business-losses-mount": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.yahoo.com/news/world/articles/drone-shot-down-romanian-airspace-054823947.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWm5kWjZXTGRKZktkYzRja1FOMVlJMDNpX3dsa3VvT0JTLVpmY1Y2WkpEeGNUVEhYNndDa0puRllmQnpSTlBoZEh4SjhHaERpQWxfYjJ2WVM3LThxaENrZDByekFlTWR6LUNiMkNzbGMwdk9NRTVaZnVZWm1YM2J5THRUS0EtR3BlVkFfcEV4YVVGcjJTV3liTWtSMTJZeHczLVEwWDNaV2swOEJ1NC1J0gG0AUFVX3lxTE5PQmhjVi1fcURXbTJYNzZVc2hvWXFMc0ljWTk5NUVFV1phSnJ3Q3U2RWo4clhMU2tFRTd5RV9FV2NFX0tIWFVGMjluenc2WTV0QU9BV1ZkVGluUFFXNEx4dW04SXRSeVRZLUZ6S0ZFNmNyQUprdFFBUmhFZ0Y5YUI5dW1ONTBrWHotUnYwOGo1dmVpcGc3dUwwalNOUFRWZ2JCNnJKMFZza2RoX0d4d09QSTVXdA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVZfZGdsUHdOUkVRSUZkekhQbEVSMEx1ak92RmhfWFB3ZmtkSzhaejMtU3ZnX2tWdVdyQy0zRXpIVXJJVFlMSXAydTdCRi1DV0w3ZDdvcVZ2YmZZOXJnT0ExSElIdWJFZ2JoTnNXZV9WV2tPT0JvUnlsOUtVb0dkSEZnWTNKWTFOYU0yV3lMMHFsT2FtR3hoUkVOZWYxYzQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3RUcnJJR1Z5YjBLQ25HSzRlRUNQckRVNmNLVU5uRWg4VngxTmNMQVhjempsaVlrWFBCbFRvc29oR1hzX3hKQ09TSmZpYWo2WnZzN2JTaWxVZFRyM0M5Wmhod25mYzZ1c3FOaGdOc2NwdFRjbHo0WlByZFY2QVczZDVMTjVxM3FvRlhNejdIdmExcm5yTFZZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
