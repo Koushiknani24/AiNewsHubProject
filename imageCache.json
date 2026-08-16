@@ -115192,5 +115192,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-16/china-plans-to-speed-up-new-energy-recycling-waste-rules-cctv": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/disneys-experiences-tomorrowland-figment-refresh-d23-1236673154/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LaVdlRzRkdjBiU1U3SWJGV09rZks5Y1doWU9hakxGTDdIMjV6eENweEx2WXp3X1Njc0xtVUZHb0lQUUg2UjJlRkxzM2dwdEQ2NkhTVzZ6cWFVZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHZHMTZZcTcwVVZTNUxfTVNtU0NjUnhweE04Nmg2b1F3UldoTDlfRlFyME5uRkxTOWlrWHJjMHl2NzZ5TThyMW50Y25wNmY3X2FxOTdUaXNOUThsVmJoSXBkWjVWYzlBVHgwWGV3ZE9EM3RfU1Y1ZThtY3JEM0VfVzVFNW9hdUx0RGZtOWNoTHdhZjRlR0RwUGFia0Ryd9IBowFBVV95cUxPWGxwTUpZdnFDOHZhVUhyc0xKWUMwUnVVbzk4VUJ2OG5FOEdUSURiZzdQdGJHTjhFcEF0RUdNT3NBLURwcktPVndnN01wMEw1aUNzWXd5WG92aEoxckpQaDhheFhCSGJHdkxjUXpBWkhnWkpuVmUyVUlkN3F4Ul8zemJEeTFRSUI1dGZBQjhyZGZPdFJnY1c3dW1qZ3kzVXgySDE0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYWVhZk9GaDFUT1BoZUdUckFOUzVteURFS2hCNUdYOE84YXdmeWxfWVlaWGhMd0IwZ3pWSHF4dkNDbXJTVm5qejZNSjl3cmJnTWFWa0d5YWJLQmlfcFN1RklZQ1VzM2wwRDY3T1JPUUZIaDhEMXJTX3pSZkdnamNBZXJLM3NRM1RRMW1hOF9oaGRqQUZUVjFyWFZkZng2Y3hUelFvbDZMNHZMYTBiQjBFTGRVMzZkM3NqUURlNXhVNnRrWkZqb0RhT2QwWGxfMDhISHoyUTVoUjhadw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/makhachev-edges-garry-retain-ufc-welterweight-title-6322096": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/global-trends/trumps-2024-grocery-photo-op-now-haunts-republicans-in-the-midterms/articleshow/133269953.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
