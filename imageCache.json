@@ -116902,5 +116902,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHZGS3M4RTRsdzZncUN6NGRtZDdrYTdUUTVTM21oQkhIdW14LWh3TkZKWXdicGJidUlrNUtaWkNvYzBtZFdSc1dsYlZzMU1sazhxeVE1dDJUMC1UQ01oU3pxSjVvcW1xYWNmel9oSkhhX1g3d3JRdXZfaXJHcXRpNVdTdm9rdWpWdXl5RzdDYVJ5TjZ1elZQbkpZc9IBoAFBVV95cUxQaXJ0WFhzcTk5dHlFN3d2Ull0aTFJbFMwZDZwdWhzNUFMbHVqSjJHRjEwU2VWYVpucExiQU93RW1HTEVRNGV3SkNBX3dHaTZfVHd6c2lLQmVRbEJIRllxcFFzRnV5VU9kZXNsSTdvcjl2QlVBVkRjY1lNcE1YVVZNVHpnT01FSGU3NmdrRDRNNnYxZEUxSy1pbTJaUE5pN3Jx?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2VxdGhDd00tWTVEUXByYmlmYjhadklvdjdYVXVRN1BPUHBCdmNNVnpBOXRiWWQ3bDZoTmhQVmxJMjhFbmRabk1TOEt5NUlvUVM2TWdpdk9iX084Zi1BQmxENnoyQ2laZkFrLWc3Y3BDRGtGc0Z5dUFERU1Jb3h4MlpCTXhsVHdpSWJ5dHBHVTUtbVNWTmNkdlJ0NzZBNHdWUGRj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82MzUzNERjNjFCZHg5N2JjRldWSHA4VUFJUEhiMFFocE1pZVdYcnlPM29tQzc4Qnc0RGczUWw0UEVmSGFOMmlRS1JHaktWLVJkMlFiU1h3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92dTNPZVhuZjNpMGd5RGtGVHE2eTQyQlVHeE1lbUxraXV5WU1WV0phdjNOYkoxOGxESkxYTXBGM3ZWTjZvaFNYNHRDZUhjTFgyTmozNXlNWG1NQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
