@@ -115648,5 +115648,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/nato-fighter-jet-shoots-down-drone-romania-ukraine/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSUhHRXRLeEtLZFB0UmZ1dGFkaFRwM0hNaXJENkIxbGJEcHBqREJGR25rY2NxcjVvVlh1U0ZOb0dacjM3OFZyU2trY2Viel9jOEJsSlBhNVFCYWlhZ2lpU3RSOG1zbVZkTUloMWo5TmdBNldSSlY1RG9OYy1oYWpuWlduaVMtclMySEsyZE1ac3hQM01MdWUzV0J1LWppNkpxVXctb1A1WEwtbW1kRUhCNUxZeEd0WklMeS1jNmlmNXJCQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa1AzQ0Y5SU9kd3liSGo1NVJHVDNQRS1fM2gxRGM2MmFmLW1wQzBmQUhSUXpiY0NWYkJjV0JBaURObGhyOGp0X3l1M013X2N4dWkxN21GeEpXeHlfS1RsMVB4QkNiOEY0SmhKR3JjUjVRTy15cng0eWsyeW5vRm5SQ3lEMDNVNDJPRl93LTNZU3Q5ekdnek1pdXdYRTl0eW5CeGJQSWZwVEdsbVVQX0lxSkpWZ05VaGZaU1hz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-executes-man-convicted-of-running-over-police-during-january-protests": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2hnSUdGbXItWkJ0UzljN05pV3NYeWRvVGJoZVdKck5IOUl4UVE3b2NyWEZsUnczZUl4T1JmUXhKS0Jpb1VjdmE5RndLbHRlQ01DaktFclVrT0Y1NW84UnpNR0s5dC1TajF4QXNtVVV4SXBwOWtTeUROSVZ1VGo4b1Blc1BPM1J5c2RycWlHdmJHYzlLV3hKNWR5SHdIaFR1YzNrZm1ncU5WdGwyeVpsb3pnTGFJN0F3cjF5WFVvQ3VsQ1Zf?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3lWQ2k3NWxXV1ZXWG5hUjhON0FzV0xGWmxmRC1YTEtFM0htWGZ3M3l4eDRGa244aTA2TGdrTmt5WDVtcFhQQ2pVZkNoNjU0eGZsQzlHOF92VmZoeTZ1dGk0NUdiazJJVTV5akNDbkRmRXZMOUs5NkJOaUk5ZDQ0VW1WNnUxRlZKZ3duRnFkbHlzZFZfcy1BdDFBeDZ4UlcxTmxEcWluWUJQWVA3aTQ5eGdYYzV1NlU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhaWpvZmdSdC1Gd2lTS0p3ejBHU1Y3dlg2bDFvRWhmOU9fZ1dZUjhSeFMwYi02Q1VRWkFtbkNHWVprX0o0YnJJSGdMQ3dKbzdGRV9IX2JKdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
