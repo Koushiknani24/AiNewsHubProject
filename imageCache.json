@@ -116500,5 +116500,29 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/more-than-100000-without-power-in-hawaii-as-lala-downgraded-to-tropical-storm": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/calls-for-uk-inquiry-into-hounding-of-ex-cambridge-academic": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/the-pitt-showrunner-pressure-season-two-1236670578/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkFmWldVY2ozVU1kemhsVWRncXM1VGxGNGh1SlFTN3UzSmIwREYtUEpWd3Y4RzhUdl9zZ3VDblhzck5nWXV3c3NmZXNxZmk0bGZrdWROT1pBZkVwU0FHa281QkczbkJybGtKd2cwNjRBaE9SZm5lSVdCc3ZSZExkUUNmOENWS0tUb0JqRXcxUXNidw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
