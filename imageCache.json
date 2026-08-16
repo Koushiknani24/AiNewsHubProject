@@ -116608,5 +116608,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/jay-weinberg-legally-barred-collaborating-musicians-1235609752/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/16/andy-burnham-anthony-albanese-relationship-rugby-01038843?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/sam-mendes-beatles-biopic-recreates-abbey-road-album-cover-1236674685/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/16/australia-social-media-ban-explained-01038852?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/16/anthony-albanese-paul-keating-china-trump-01038854?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSndaa3IwMU5Ga05UcFloeWtZSHFaS2JqdDUwdDhPeUIwd1ZRbV8wd2Job3RRdHFtSkhMeG80bkhUbkl1TTAwRXV4LUxGOWV3Q3RQNzl1LWdaaHAyZ1hpRTFmejI5b2d2QzQzOHVXWTZYZlNFRGxpZkVWSy1OeXlDbHhXbkxkQjkydFBnSGhYTGpydzVlOVhv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM21kV2E5NldVSmFkYTQyZ2E1bVNfc3ZxTm1aWThReEU1MU5ubW9Xb21tV0NxR0FZZ0NiS1NCRktNQmxHaXFRM3NvdmwwNmhSTUVMcVJMNExqb2ktU2p2UTVfcFVyRUlEQTFHbENkVW41NjFyYUZrYjllOHdWVFBvZ1BRSHRKb1lGUTRINkRoWnlESGVHRkgxY21pdEZBbC1yNUtmTjQ4RFdVelRnZTI00gG0AUFVX3lxTE01YUtrZldkeVhHektrcTJhcVpFSTItbnRtVFRZTmlIbE4wSHlWV1VDRHF5R0xTbDg3bzRzTk9lWjNTcDlvR0twWjBIVDhIcFZJbGJBUEpXZmhXZXR1ZnFPUzZPdGJSMHV2LVVvWlBrd1VSakpRR0ZETy0zX21XRUJhc1piWW04VnBZTWVGb2F0X3dzTUpRS0pILWgzQzN6NUR0aWhZYzdtVUkyQVl1cTRRYVhuQg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnpmNGJ1SUlmQW9fMkcwb2NGZUpxb01xRlBRRE5TaklvYm9IQ2RiXzBoZjhlUzZBOUFHZ2lqY2VMLVd6b2lMQ0lJc1pFcXY0S0VBZzRnZnhScVFaZlcyYV9KbGQwbDB2eUlLZnNkYnpUaEtNN3p1Z2tyeDZPd2VBVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LMzFXUFJQOWpodm92TVRKbUJWWmRFblpCOGxQOFhEWTYyQVFGVHd0UndTSDJMdW9WWXNwblZZdzJueTBKNHZBQkFmNXE3bDRfUlBOOFQtNWcyUlMxMUFF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
