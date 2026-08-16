@@ -115156,5 +115156,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOblUwZTB3Q2V0QW5oTjlXdEIyb3R5SWtlZTZTLVNSa1ZNeWlIaUJiRHJmRDFpcGlZaFY0N1RIZXFLRW92WnZvZU54dDhDYU9WenJ0SVozbC1JOGt6S1hTV1pvdFFpUU4wNXZXbkQ0TnMxMk1fVk1nODU5TlFORU9KRjNOVUl3TWhPcWwwOEVSZ0FIcFh0eFptUUlqWk9kdnlET3NYcHN2d0s4LXJJVEM0dFNTNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTEs4Si04Q3pSUDJJcUZ2dlk0QVdvREI0UnlFRTkwT1U3eFFyRjF3YVMyVHF1NWRfdDlaNTZ1SkdLR2FMMG1EcEhYdDNVM2pVLVROSHZLc0FvclZYTmEtWWNocHZCLUFUeTBOb3JkUnVyMVNfRFNoTUVickZuVzVRZU5iNm82ODJwbHNMSXBIV3BUX3ZucUQ1YUx5RDE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZnZfWXlONFVBSXFjMEpwZ1ZaT0E0ZTk5VF83NmREN2RBeUZFNVJ0c2huUTN3VUsydUFiZ29MOWY2UDl2dVFYTUQ1bUVxbTV4ajNZeEFUUVJJVEJLa0hHQzZFTy1zREZDTjhDenI2LXNHd3B0ZERIRVhyMEV2ZEIzTTQ5eW85MHdMUWMtdW12ZXJPam5PZjFhWTZWcXpLcDR4SlVOZ3ZtYmtwMzNia1NZLWE4SF96aDFGd1lacnpNaVNVOVZPU1Y0MGdZSGx4UFhaQjYtUjNrMDdodDQzb1lmZk1LLTlobmhubHZjaWM2R1I?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/asher-smith-equals-european-medal-record-hunt-completes-golden-treble-6322076": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
