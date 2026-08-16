@@ -116524,5 +116524,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/dtf-st-louis-creator-plans-movies-1236672644/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVpXMTd2ay1vYmd2Zm9ydE93eXE4bEx0aXE5QUliSS1LU08ya1B0My11OEdzUF9TMkE1cG5LLVhteEhxMmhyWDd3VGtsMDEzemw1eENDRUFialV5b19IVTdoOTg3WmtyWFFrVTVIZ3lZQ216c2xhTTNHbU1CblhjOWdYczJ5VU5zYktXQ0J4b3lEbTVEUFNzQm9VVVZ2S3JJZkF5amN6VHNKNllIMlo2TU130gG3AUFVX3lxTE01V0pVRXhKM1B3WDN1bnlHbmhtSHUzdG9JV0hXWU4zTXVZdW9tZlBmZG1HYmdJbXJockxBbG9jbm9lMjZWcUtTcFQ5MFNsOUNLYjA4QUpqQkdac1B2d2tYLWhsRUxkWFU1alVtemVKMFdjLXJjcENBVUtzbnF1SGhXdmRqcHlnMU01NG52WmJuR3hKNVd4WE9OTEFheGppenlkbFdRMGx4NEZ0YUU5RkJjSmRjRTNzSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/man-held-for-fatally-attacking-his-father-in-law-in-tiruvannamalai/article71352799.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVmtLbElIN29uMnI4Q2dxb0QxRFg1QXU5WG9idjlCSk9TOWc5VmMwV1hKZVoxWE4wQWgza19Ob1ZfR0hwZjRkbkRMVzFicm5La2tDdldRUWQ1MVhXQzhLSHBzdHhtV0V3eURPMFdJTm5VdzRLblBSWG5CaE9vdkdPcldCNVZkS0tKMkFhSzBGb2d5NFduYUd6VHcwa3luLXZULURfcldHaFR3WGlRMHU2b3dTT3kxM2NGUWtBTThueEl3STMtSnpr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
