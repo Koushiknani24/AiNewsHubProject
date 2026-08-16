@@ -117028,5 +117028,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpZ1BZR3hCOThFb2JyYUxqeEl3cnMyeV9qZzBVZnpveDdLbkpHR0h2Qk9ieXpJWmdScUVsdWVrXzdkM1doM1VlX2ZDblA1ZE5DMDlRa3dfUFBQcW15YllYa3NQTFo1T3BZY1NRSEpzdTdJLXM0NXZqVmhhY3I?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-16/gold-steady-near-4-400-as-traders-weigh-us-data-and-rate-path": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/16/trump-hegseth-joint-military-drills-south-korea-01038949?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd21KS2xQcXVlUjVJbkpxeFRiVlVXU1Jxd3FxekNfV1Vab01xd2luRHR3M0ZGd1UzMFNza2NpaElXRWt5NnJWX3J5YkpWMVZQZ2M3a1VxUzFnZEdKdVIyd0Y0Y0ZtMk53eklZRlRqMmpTN3hsSzRKZmR4U25xVWp5UjhCRE9DYU5velo0RkVmN3VuczUzMnM3Y25wcG5HYU5jbDdHX0Y5aF9lbUJ6ZG01amVoazcyUlhkeEtaV1g4UTZkbzIwYktqNThZVGZTM0pS?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3RPcGlIdXQ3RU5USnlMN0tyQUxyT2c4NW1zekhhV0xubm9tTmhHLWE0c2RxTFdNWXJueVF4TXA5ODJDNFRhQTdCQllnaU51cTlCc0pqaHZNbmxIbnhxR01MNVZEOWdtaU90cWZjUU9RYlBITDBhMWdiNllIcGFoMHJXQWdlN0lQdWZ5dVVNT00wR0px?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
