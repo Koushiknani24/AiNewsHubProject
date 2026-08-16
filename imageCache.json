@@ -115768,5 +115768,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/16/taliban-mark-five-year-anniversary-of-regaining-power-in-afghanistan": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/iranian-parliament-votes-to-further-criminalise-interviews-with-hostile-media": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEhldGJVQUFYMHktSTB4QlA0WnIwRlRLVVR0eGhGemJfdk9wLTBsWDZZQmZBbmx2U2s0YzgwUHFzeUVTeWlVN2ZsV0ZmUFAzMk9DdjYwYS1HN2dMdl9CUmE5cmtXd05JcjBWdHVSUXFvb2FQQjEwUU9jNmVQNkdhbm5MdkNLRWU5Q0FKV2xqRXYtVTNSZHpXR2x2alozVDlBa3AtNVdmdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
