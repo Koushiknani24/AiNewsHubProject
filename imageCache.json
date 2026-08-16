@@ -115936,5 +115936,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/cpim-stages-black-day-protest-over-closure-of-vizag-airport/article71352616.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/keltron-receives-self-certification-rights-for-three-defence-products/article71350438.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/andy-beshear-kentucky-governor-face-the-nation-transcript-08-16-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-16/longevity-boom-reaches-america-s-pets-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israel-strikes-lebanon-as-end-of-us-iran-ceasefire-looms": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/gallery-photos-of-the-week-081626/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHR6eFR6MllqOTVUdnV5TzdsYmUtc3Flejd4SFk2MjRoMDF6Y0NPbmN3amlwbEl4N1I1SDNGaWw3b2lMX2tvTUV3ZVd0QTBFd2tSOW9uVjBTWFB5ckdxWHhmRUU3eW9kUmZzY0hQU0xPOGlPZVlHWW1sY2RpY3J5WjNR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/races/incredible-luck-excels/article71353091.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjlsaDB2ZFg4dEZaOWVCZUpCODJONE5FOEhDNzhGUWk1Z1czME80N0hmTFJWeHBhQkZyMndZNVdLMlVwZFpFcXpvWUxMUXVObE96WjZScGQzMVZaMUVPSElPMjJremlfS0xYazU3c3VZRnNhM2xyTnR0WDNubVZqcGRPWWE4SHZxX1NRMW1sbGdwdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zSnIwMkdPZmlpNVZWa1Y5a045OElaU0txeEZmMjk1bk8zQWwwYkhzN1RBTmUyT0tjaTFSZXhSRGFRMjgwamRJZkh4M2piMUZRNzN5dGNB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
