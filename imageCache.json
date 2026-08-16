@@ -115498,5 +115498,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV3hkRFFwb1N0U3lDYS1JeTNBdUprTlZ0SHYySk83VGFRUzhCZ3A1UFB5aVZudGRZU25uRjNHcVNwX2JQaHk5SEgwNUl4b2NQS3lZS0hOaGYzdExaQm9WX2lMNUdRNHQ3QmJ2a21HT29VQWFacnYtNHFGcS1pSHVCbkhXc3hkaGhybkNkRmZvVTZET29YTTdUVU5BNzJhNDByTmtzcjZnSXhXSmZGSHhQTXJEWDFlbTlLU1Z0LVYxWVBQNnRYb1RsRFR30gHPAUFVX3lxTE8tNmU2ZEtab1lXbFQ1UnZRcEZnc3JCZWZMVlJnbnBVbHZtN1ZnTTFJMlJON1FEbmZmRkRzblgyZ1RBNnZxQ20xczBxQzY3cVJvQzR3XzIzVkw0WXFGY3FGX1JaWGs0Wk9Bb1gyaHFxaDlnWHplTHhnaVJDSlgxcFdoQmZMbmp1Y3Z6ME10N0M0Wkpqbmh1Z1U2RFFIZVhEeGR4OURBUmpkbHFfTjNIeUxuYmhCZjBkTjI4eGRvYjk1M2FLUmk2ZVNteVIyUWpvaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3302657/police-stakeout-illegal-racers-with-a-roadside-bbq": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWGRvNHN2cEV2dEoyWWV0X0Z0UndwbVVFUzJfUUQ2Q0xRWnVGVE5ydjgtN0FEMUNGR0M2cUt3VG1rejJPVzFVSXVESGsyZTJEVmF0RERYeVA0SnpKZmFlNXUtZ19CLU9FbzZrZXF5Um91U3NaLXhFRDBrbTVHUmhIaXQ4bzhfVEhMbVBTa3M5QmdlZFBSamZETmhhODRyQkpWQUgtb2tNSWTSAa4BQVVfeXFMTUtYd21hR3B0TnhfTzJ1WThJZmJxOXZQd2JqbWxlVHBFdXk5OEg1ajNueFNEd1ltRGVnZHdZUUt5WTREbmxjOUdvbWZ0RldWcHJQaTNGZ3cxT0tpMVdNN0kyVGNwbTBqd19keVBqSzg1N0FZMXRIVld5YU8zZkNMSUtWTE04eElBM3hKWGE5cmV1LUVTR0p2amVKd09WUERBTzF6UUZ2SFBtZ2VOajZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigJBVV95cUxNd1ZsYzVrUEFjOGEwaXdacThpSmdNTWlhUThUNG9QbXE4MEg0eGdGVU9pMWpYbl9XMkJFLWJ0RDBfelNVTGZCV1lUOE14bng1Y2JTanlvQXVycW9HeUdLUEVHOTlfS2VYbmgzdEtZU3VtV3FIN2RIS2pVeWdnN3pqUXBocUcyRTYxQWx1YnZxcUpLVXYyMHhzOXZXcUpOSU1yS3V0UTJGVFNMTFZ2bEZEZFJBQzNFcjlXeEk4ZVNMTGxfYjUtSjRGcE0zNEVqVzA1bjJPV0tzaTJudkNKVmM2TUEwMW55Q0JYaWdUdEVvRVFIbExVUldIR0RVcEFlczdSRzNFMktkYlYtUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSm1BVHNOZEk2UjMxUTgwQ1AxeVZwZEtwTndjdzQ3UDdBbnNfMEdyWkZwclJkRk84bk1xbm12OHhQSGlKdkFKYkl3c0xwM3ZEMzhSMkpBZW14RUFMWS1jTEtpdGFTcC1QZWF3N3lzcFQzUmZDSktZY2o4cF9KNTRMRE9Hbi1JNjE3a2xpaElFZVB3U240U3VrMVFuRF8wRXQ1VmdYZFRYMTlGRmVBeW5wc3VRWElsUVNRQXUzcUF3eWU2Zi1sMlF6QU9CSHJPMU5ZeHJXdFh2R1lMbE9ocW1GTmhSM1RHb3JXRV9wcy1TSmFyVXMtSHktaFk3VWVxNkFsSlZmelhCenE4ellCOFVwQWNLZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUU2ZW92a052bkNCcFQzNHdBRlNadnNMdThKUm50bDJ0YnFoQ3RWanEtWU5SUmYtT2tySEJNUW9Nam5QOHlfcVdtUGoyb2Q2aWNYcTViNWRSVmdqMVAzeEQ3LVVObG1vTXgwWmZueFc2d0hDRGNpT1ltOFJFU0N0TWVWbzN0WVp3YzBKT2ZtSmZTc2hFNGk1RlRPRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
