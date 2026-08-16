@@ -116410,5 +116410,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/nick-reiner-blocked-trust-fund-murder-defense-rob-michele-1235609744/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/in-spains-ceuta-hundreds-of-migrants-stage-protest-and-demand-asylum": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GSy01eU9vdWF3M1BVWWJQQlRNel9QMFhWaGdHakdhczBkQ01QY003eTl4Zm9WRnRLQWFQLXJucTVWbzBVbDFzcld0OGtvQVJiXzliNFJyVmgtU3BBekE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3302677/europe-wildfires-latest-developments": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTY3dDRkdkdJYmJScldzdGhmbVBJa1Q1RC1VTHNHMkF1XzJSNzRfM0dXZkVsRjdKZXRuSER3T21mZG5IV1ZENzlaeV82bk4yUThRNHRSbUlENjlTVG9ZYU5yazdpS3Yyd19iZlRCOFNuWmhUaXB3UmVGSUhsRWtUOEpyQS1RUlRfRzI0V1Y1VndvTk9tODBaOG9TR3IwNGJrNXZOVF9tazBUcUXSAbABQVVfeXFMUHF2SnduRkhPQldUVXpEVF8xTUV3MEp3UmhEVWRLeGxCNGJzOUVRajV0WFZSUFprZ0Rvc2p4QjMxeVh4VjZNVThCcHQtSXpQZ19IWHNKS2Q0anFwd3BuNGpjNzFPbkJ2aENBSjJwd0tkZVVtQ3ZTelQzYzYtWDdiWFRMdlUtc2pIS2dwTy02cE5LamFZNEktSWVEYXczV3Bna3Z6Ukg3QngwNXl3WHM1M3Y?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
