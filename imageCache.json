@@ -115246,5 +115246,23 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/africa-s-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVJEZzNHQnZ3dTZNclJ2SEFXWlc3MEhlLVBOQWVzZVJQRER2aW52NWR2dHZKOWs5aE1TOEpGX29MVXhpUHNCQS1qRzlqMlMxdXNyUGlOUjItT3VpTGdaWGNMM1M2N2VPZGxtdHRlRW1lU3l0VlpuWVp0N1htbUlNdzRqRVpWTmQwZHFPUTI5bElQNjdvRWlj0gGcAUFVX3lxTE1RWUpra3RUeHpKM0YzWjlmNUhNcmFlM2NpODVBVnZMb1FMUFZ5dEFLOU0wTmxxMk8zdThrNWVjWEZTSGhyYVdxbVRLTFBQanJrbzFCQzZJcHM3SXJCY0dXMVFWdEN5RlJNb1EzV2JFRVdYZnE5aC1LdEIwd3dHNmNjRVZaU25veThLSko1OVRoQzFHUVJoOGRuVFFlag?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
