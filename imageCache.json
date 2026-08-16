@@ -116194,5 +116194,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/081626-sunday-morning/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/seven-tamil-nadu-fishermen-taken-into-custody-near-krishnaparnam-port/article71353367.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608160008.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608160007.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608160006.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-16/fed-s-internal-rate-debate-faces-new-scrutiny-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR3g1MjVQQUJRRzRUR3FmMmZ2QVUyVzE2M09MR2tBdVc5RHc5NHp1a3VhR05UYjhJWGpWQzhtb0RGSm1PQjVhNTdINmFRTEFUalpid0xsV1M5dWxaZzJMbFQ0X1JwNUQxZUVwRWY3QW9BQzdLYUxkcW5YQVFISldfSVkyeUhYcEd5RDFaRTM0ZEZHSVo0ZjYyWkh2azVKeGVZTnRDSm9aNDl2NHA0NGJVYkJnLUJkc3RXeExoUzh4VmhpcDg4dGd2MzRQMklfYnNOcC1YNlNmbkdNX2xYYmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.arabnews.com/node/2654151/middle-east": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
