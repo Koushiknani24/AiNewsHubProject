@@ -116836,5 +116836,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNeHNMcXVja2dkUjZrLWJoa1hDUEcxc1gzNjd1Z3RucVdVWWFReHpVYU9IYWw3Tk9TdEoya0NxajdyTnRMdF9LZ1BLOWVldVJzbDdvZXYwWjY5eFk1Tm5UMFlVTFNKX3hmcm15ekY1OFcxQ1I2U0ZjenJSOWlBMmVNZzRVbnZFWkZBQTJaaXhxZkkzbWtnQjlHMkZfVnVGTGlFT2wtVWJNbC11UVBsTmxCMlJhLWsxR1NCUHI1UXVmZ2xYTWpJNExkcUZwYm5SLTNXWUhfX21nOFRLQVcxSVFVcmowVWRNUjE1WnVzSTkxTlF2d0Y0NGpxVWdRTkxVWHBKQjM4cGxjalpTMnIxa2F4M1lxa1JVdFJKemktc3JtdlVzVFFxVzNlRG9JbTRYWEFoT3dPNU12RTVyeDU2Tklld1pTMTI4UjJ1NHBBbFBZQjF6QVF3ZlpBX3Zn0gHaAkFVX3lxTE14c0xxdWNrZ2RSNmstYmhrWENQRzFzWDM2N3VndG5xV1VZYVF4elVhT0hhbDdOT1N0SjJrQ3FqN3JOdEx0X0tnUEs5ZWV1UnNsN29ldjBaNjl4WTVOblQwWVVMU0pfeGZybXl6RjU4VzFDUjZTRmN6clI5aUEyZU1nNFVudkVaRkFBMlppeHFmSTNta2dCOUcyRl9WdUZMaUVPbC1VYk1sLXVRUGxObEIyUmEtazFHU0JQcjVRdWZnbFhNakk0TGRxRnBiblItM1dZSF9fbWc4VEtBVzFJUVVyajBVZE1SMTVadXNJOTFOUXZ3RjQ0anFVZ1FOTFVYcEpCMzhwbGNqWlMycjFrYXgzWXFrUlV0Ukp6aS1zcm12VXNUUXFXM2VEb0ltNFhYQWhPd081TXZFNXJ4NTZOSWV3WlMxMjhSMnU0cEFsUFlCMXpBUXdmWkFfdmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/digital/alex-cooper-departing-talent-agency-uta-1236674749/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
