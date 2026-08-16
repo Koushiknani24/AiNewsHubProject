@@ -115354,5 +115354,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVjB3RjZ6YWsxTDA2Y1RGTDUxamVPdWxyVWE0dWtVazdaSnZILTY5ckY0dXZiN3BHd25hSjBJR3FQRjRtQk8wQzcxSmxiU1BQb0FMWm5fZHpBcUpHS2x4REZPYVZkWndWRVUtTXViZjJLY3dGZjlkZWZnX1Z3ay1UUUM0R2p5cEx3ODhZdlFZMlg0VWtfcEZxQmZUQllsaWly?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/too-much-music-doc-film-ghana-kiki-gyan-locarno-open-doors-1236673554/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-says-qatar-delaying-probe-into-fate-of-iranian-pilots-tasnim-news-agency": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/two-women-killed-in-floods-in-spain": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WdjdraWJFUG1BNDFla2VZeDF3bTlHMDZlcW1sbHJIWDdhNEItLVlMa1RPSlVpSGl5QURfYnpsV1E2VnM2ODNGQnhMaFR0QWlFSmhoUHo0SW1xNUM40gFiQVVfeXFMT0dQTnkxZGpJTktQSHgwZUtjalBEMWc5MlZYVkVhOTVzLXJUWVlKU2F1RUlaMEJsb3VVbXNYNGc1Vm1jZ0FrVnc3WGRzNHlfZWk0VjQzM3dfVGZZZ0xKS3ZUbkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
