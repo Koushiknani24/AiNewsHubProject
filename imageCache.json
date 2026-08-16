@@ -115102,5 +115102,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdUh3TE4yMHFROVVwZThIbUhma0E4c2xXUEUtZVUxbzNpUW14cmRGRy1xbzlvQjJGNlJ4SlN6LUZjSVZiTWZuSnV6TVNVeU83WEhSRnhDYkJRSUNwaGdLdGR5X1JmcllxQW44RUNTOW5qUW82T3hJQ2h4WE0za3V1UjFmSEdYQUdXZHNBQ0dTb2lydV9MNUQ3T3NrV0NoUlFrcU1hWDZrRVNLa3ZvVHNOWkNaOThkdzhNRmFuNFR5QnJZeWh2amlfSGNCR2JxQTZDS3dYbERWVEpidmNGbmVXSg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZUlsVjFaOWh6T0hoNVlvWUZRRkdWRTdkRHM3S05UbjZ0ektvandBTktibU1hcHEtdlNrWDV6TTVzcG1waEhwZDlGeUVxOUtNdFJ3cURUMC0xMG1XNnVhVlVPaFF5cjJUaUlKYnBhWUsxR2hoVk5pc283WFlSbnhtelNkZnNRSkJpOTQyZnFfcGs1NnI4OVRKUlcwa3BuN0NmYzFhOHpPLXRNeURUUHRkVmE0SG1zekdaV1p0eFYtU0JIUnJlTlJMR0ppbkd4WkFMX1ROcXk5bnVsenpqSTBkRnkxOTZMSUpGVVpONHFBTmNsVjRyZ0xxekJTSUo0Z9IBgwJBVV95cUxQTG52S3Y3akZwTWIzSEpBaTBzYW9UdmlRcXVGM1JrelE1VTc2UEd2OWsxSFZCdkpoV21reEtTRUhMNXJXangzZnoyLW01WkFTTkg4a3lYcEZrWHVGSllFaFlqdUQ4VGJKTjNzMDlrV3dBU2hKellCbDBlb29ReGpNcHpwX0pVWnJzU0pPWG50TzBaV2doRklFeXhRTnU4UkRFZHI0ZUdycGxoRUNOdWZPd01XS1l2VUlDM3huY2I2YlBUbjMzYzdwVkVSdnpSSE13dnJhWEZRY3FjdjhTUWdEMWh4OFVZSVZIV3VnRkltZXAwRk82cDl3dHZrYmxPV0ROZ1Zr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
