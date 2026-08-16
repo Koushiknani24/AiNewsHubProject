@@ -115900,5 +115900,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/unions-welcome-telangana-governments-autorickshaw-retrofitment-scheme/article71352794.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/12-dead-poland-bus-accident-hungary/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOGc2OU1jdU1ORmFQYkdrSWJhanVPTlhTU0xzV2xmRGwxazBoRjdmRDhlLWdWQnYxdWRSdm5wQ0FRTVRlVUJGQ3owRDd5QkNrbjVOMXNNZTNBb0pycTdYODRJQXZzbDBiR0llOFlWVXV5LUhhUks0RHR2MGtuN3M5bGZUaUV2Sk90NlRaSklHWU5VN3JQTzg3UVZCYXVqNEhCWmRmT0R6dlNGb05KaXFZTUxnT2dCck41ajdHV3RTMUtJSUszS0cxY05HdkFabUJUc0ZvVjJmUTNid2dUU1lWNzM4bDFjRDZpdUZpRnpUc9IB9AFBVV95cUxOMUdscWZiWXR1X3FBNkttMjdHejYydlpoZW03REI3cFc1WVBtZks2ZlNTU0ZUT1VHdEprNDd1NWRhLVRFOTlkcUZsbF8tUG9mbU9KT2E1WW1uMFNXOU0xQ2VQUV91ckt1MHBXakx3UUY1bVRwYk15aG1yM0otZ1FCT2JjZU51NTVMQThLT0NGMXZmRGxUZGNNX2VxSG1aemcxeTNBNWFRcnQ0aTRvNjRQdU41MnNzeTUxTy1haVpZRG13dG1qNFdxN2gxVE5nWExDU3k2bEwtT1FVNEM2d3hyQ0tFZGUzbGVVRWttZC0zY1U0ZVpT?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/man-arrested-suspicion-fraud-after-security-operation-disrupts-european-championships-6322341": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
