@@ -119458,5 +119458,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-17/petrobras-mulls-improving-braskem-credit-terms-amid-debt-talks": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/politics-news/hayden-panettiere-ukraine-war-klitschko-daughter-1236675629/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/17/us-israel-create-working-groups-for-gaza-disarmament-01039713?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/jeanie-buss-family-lakers-stake-bob-iger-joshua-kushner-1236675698/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZkFuRmpSR2pSTElrMi1VbFdOekYxQzBKYXJVWWRXdWRaSkVzOF9HNTlCU3poMzZ5dDZyakF4M1FtOXFNWkhMaHpJQ1lGdnZKQkU3SmxOajk1NmxjN3hqTnVKUUtCekk1N2VEYzNlb29ZZTQ4Y3h2d0JTd3BXNHFNdXNfajhvQzhlM2lWN0dR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcFlpZzd0a2o1QTVOUi1Ma3R3SFI3U3JZWExUc2s4ZVdOWFFfck5JcDhyVlBMWE9qbzhOc294WDE0UWJnUGRVZ2FMQWdraU5NQ0NXSk42Y0dPUGRNLUF4Wks1U2RFWEE0T0c2dG95TVBmUjR1enJyLVFDNUVwV05Ld1JVOXAtTVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
