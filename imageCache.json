@@ -117904,5 +117904,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-17/us-consumer-resilience-starting-to-show-cracks-rbc-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/latvia-pm-andris-kulbergs-7b-eu-funding-over-russia-costs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aLU1GUzYwOVBhRndXOXlkZ050Q0hGaU1WRHlzZlc4djNVSkluOERtSnlKOVFvMFZsN0pjbktabG9yR1hkVEsxYlZscTFtVEgtRGRCaVln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3303127/proxy-companies-probe-expands-into-northeast": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzk0SUFkUi1QV0FJQzlTc29pa3F4UE9YbWVTc2VqWm04bTFmQjFuX2t2S0NxalAtdFZxdXhLeVZOeThPSDNUYUxGRmpKYUNfcDU5cl9TY21Gbno4VTRWUkdNU0lxTDc1U1AxZXkzaTc4UllobGM0YXA1Qm5nQkF1RDhTdlRJbGZmUWtxbC1oNDAtY0pfVmVuMzh4dUNqZmhBUWRxTHM5Qlh6V3pGRGNrUENyZFdDc2xvTWxGb3lZUnpLcXVwLTJFZFdFYmwwSWE5a1FUS0ZzTjVkRld6?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2s5YWF6T2ViWDVUSTFEMmlmWC1tUnJiRHdPamRJLW1XLXJ0ang0QS15SllOOThiM1RScFRyOGp6OXZ2WjVacmFWUng2ZkxGdDFhWW90Nkh0dk5nVW1VQ3pUZ2JkU3pMNEtVS21wbmhNNzMzY3M1STVINkw0TkZsbjFqUUJHZi1razhoTy1BOWw1czBkeEFtM3RxaEZNZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
