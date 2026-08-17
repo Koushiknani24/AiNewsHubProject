@@ -117724,5 +117724,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/17/ferraris-first-ev-sells-for-record-40-million-at-auction": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-17/ai-is-driving-up-treasury-yields-it-just-touches-everything": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/iran-says-two-french-embassy-employees-barred-from-returning": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelNueHpxNXhRbE0zX0FvREFPZzRqd05CNjFKVllNaUs1SDAxbExzM1JPNHhEd3lBVDdVd3g0TFNjLV9GUVdqanFLaEY0UkxGTjQ3V0YtOWNXVHVoTEZkY0UtcXgxanF2YktFemU0cEhDUkZ0WUpRdzlzZHJDT2hFSnpPU05OdTdrbEJYVHlEM25LR2hkaVhFNXlyUU1Hd3BTWHZHSlg2alVEX0VCZEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ISTBpMmtFWVNlXzdPdWpxZHQ1OUhRY1FWU2NoTjRyaEx0eTNVeExOekNCdHllWGhJa1cwWVg5M09MX2JIT2lKRnBCY1N2V2t0QUxyOEFMZEFuV09nei0zdVRCTmVpNXk5RThaaTFld0VYeXJGeW05Q19kR3llQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWktySHlESVE0RWVtdDFXQmFJcE03MU5TQ091TVI0cTRwcndCV1RDLWtoV01LNk9WdmctTW5fNHkwS2NSQ001c1Rfakl3dFhKdzdSeTgxVTlYY2ZSbEhrXy03ZEdZTEJCbmljNEYxUE9oWDVsZ0l4Z2ltNjNnMGJLbnV4Wld6c3NVbVNuRWp4LTV6Nnl1cG1ucGFTdnY5SkllaGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ29aaE5XTXhDVzFDN1VMYWNMOUhMQncycFZ0M1FxS0ZmSWYxamdLZURUV3Z5OHFhMVJmN2M3NXlacUEtTkNQTnlOazRjN29wVXY4Y3V0WWd2WW1qSEotSTZaMVZQMlMtVE5GNTBXWnNDamJxdmFXelRBczNOUXNPY0RXTWZGNFZXYmtuenJ0dkEwcHlxQUg1RzdnUUMxWUUzYURQUFk3eDRoMFRJQnBIRw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
