@@ -117418,5 +117418,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-17/maniatis-oman-spill-cleanup-may-cost-usd-200-500m-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608170144.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tM1ltWmgtTmJtWHFMQ3BaUkppdE1oT0pzODZ6UlhEV3lCVGM3Z3Ezc2o0X3RYZjVfdHlvYVQ0LTdpSHJMa3pHTDE3VnVWemRSNm00TjNTQXZPYjhYOUk4dWl2ZEJ3eHVwakpWcF9JVElPVzZSWEZZaA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/17/thousands-in-indonesia-await-aid-after-quake-kills-53-overshadowing-independence-day": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUzQwQ0NNSEJ3Z25qNHRuMS1BdnZicmZjTU5CampXMzBXNEVUekhNWTdZX1BOSVFnVTFEdzctWUgxOHFsUXNxdmszVGNqVmlYWGJ5dTdNaDQ1M0pUdlZXbmxYTExmQS1sNW9QSjJQV1ZsZXpTeGU2ZlN0VlIxSXR1RmtWQTFnaFNBaUhVcEtwdVp2NE1Pdl9YbktsZzZ6QkJoTl9CUWZ1QXM4TENCMDBBRWx6anBxeEc3UjFENTZtSUV5QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS25fVlNDak1EMXVwd3prSEtJa2FBSmQwN2p2VXREbTJYWngtTjB0ZWI4clVYUlJrVDdIb2JrX3FtYU0tRTFTRGJCd0VmdTlXcWhMcjZTMk1EUHFQMnJIVkVWLXdxbk5ONTdpQ2N0WWJqNnUxUnQ3X1hMS1lYV3FaQ2pmTG5oX3JPTHhfNmJZdEx1M0FKelNISlE4OHpIbUQ1bWU5YzhNUU5MZXVu?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
