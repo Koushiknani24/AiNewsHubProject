@@ -117058,5 +117058,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/17/cnbc-daily-open-trump-iran-oil-hormuz-china-berkshire-anthropic.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-to-sell-gaming-arm-for-1-5-billion-in-boost-to-ai-pivot": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-donald-trump-live-updates-on-august-17-2026/article71354691.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/liechtenstein-changes-its-law-to-allow-women-to-ascend-the-throne": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-17/trump-says-he-s-curtailing-drills-with-south-korea-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUg5aHhQMXdXTG1NTWZWaF90d2dFdExTWWRDaE14c0J3OTNmRWZmT3F0Z1liUktMWk1rMWhpTk55a0Q3eDBRb1A0MkJxS1pNbHFCQnd6a2wwUThoeVdPendEVmJCNnFublMtczBJcHZiTkdrMU1zZ3RKbmI0SWdiM3Bkakk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUVJPS2RxU0Vmc3hhSWdpRS1RZ2J1eWxqbHFhLUtiSGE3TGVuV1otcUZiSTRyYUFuc1pQZGE0bmJHQXpCcUpNb0t2R2tEd1dSa2FSZU94OEdydm5jTUlMMHBPbjM0MEp0UjlUNlhsY1BqNTZYckh1N2tDUjRzN1F2RjZySXpUTXo1QWhZbkFLTFVoR3ZHRFJubi1pVmJaOW5pNVdidXcwRDZwMlZ10gGyAUFVX3lxTFAta2t0OTlUcWZyQk16dGFXTU1wbVBUaDNqT0xkUnZmTXM4RlUtaURRS1V0aVBvUThuOFF1Z2VTVFdZNGdFZmJ6SW9aTVU1NWdCd3QzaTAwdXBnd3B4ajJJelNob2pZaEJRbU9iMWRuMDdkVkNlWkU1bXlZdHJLaXN5M1pZa3dLaEthU3hCRWVPYVNqei1sanF3bFN6aXRfV1BydFFfWDdLZ2dtXzl5dWFKMlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/europe-endures-fifth-heat-wave-summer-drought/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3A3LTh3X1VlX0RrTDV6VnZiZ2xnQzVXT2ZWRTBBXzhZZ1ItSE1EN2pGeDRHX2F2R2daWHJkckk3XzluNEI4aHhoTEg2SVViNWUzWVFWZDlKcC0ydjlzdGp1c0JzMHJGZmVCYlRWZWZEVXk4eFJacXdQSWtzTFZlRGRWOEQweFR1b2otaEhLZVJ4SEFiRkNEMTVVMGt6OUJFempacDlnV0RTR2F6UzVpaXlR0gG3AUFVX3lxTE10bUxwLWpUR2h5a2V1VDBEVE1waFRpWlNQUlpmbDdqM2J3cFd6OE5GOUc1STFNVTBkOXVvWHFyM1c4RDk4amlSenVFWDczZTFmT1I3WU5DR25KZ0dEbFNaMkdxdnZVUjZaOUVpdEN6dG9OVGl1WWtnRVdMdXV3c3ZiOWVzd2otZ2ItQl8zcVZKb0xIWGpKNm54WTNnbVJuWFM3ajMtS3dfMmFkQ1FCVVpiNzBhYmxNRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/mamdani-speaks-mandarin-to-promote-broadway-and-gets-good-reviews": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmdhR3dJN1QwUDZ2QnI4ODZDdF84VFRCN0RPcmJjanh5SlB3SWpGNFdBREh1SkN5YVoxNlYybFF1eHFMVlFGbmgweHhqS1hiVGVxMS1oWnVCbjc1VXBtWHpYckRuNzBNczFIOVNQNTFBWkhGVk9RZnJCcXV4OWl4TE1jd2pkR21SS3BhY2F6el9aM0xjekY5MUlPSzNYYzhSRjVDT0Z1WVRCei1z?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
