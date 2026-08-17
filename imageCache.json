@@ -118738,5 +118738,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVlZ2cTh6eHFQREl4QTlHSDg5RnU2U0czWUlWTWZWVUEtQ2o5M0ljN0F2SzNOc05HdTR1SEJ4MWxCaDNQOUJuZGUyUXVCVF96b3FBUkJiUTQ2QXR3cTRFbzdqZ1NvbEZoN1dMeHZGZFYxaEZLdHNoOHBfYlZPZ1I0WU1nc3pHMkEyLWlEcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWXVIMzluT05NeGJuNk5KSURPN0V5eGJBX25VeWk4SjM4RUhmU1JsNW9EQnViYWpoWDhKWDFuQ19vMjdheEtQa1NEcGsxRExyZV9KVVgyY25FNWRlLWZiMTZ1aFRGbG1nTWNiZjNfMkNIa0U5QjVRSlQ1RUJzbFBTTkFMa004dzVVTHBTdnZGRmNHa3FVcjQ1dUFuMFNremdkdmZTemZUVmN0bk8yYWNhSA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/imf-staff-to-visit-senegal-for-more-programme-talks": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/betting-on-us-midterm-election-reaches-169-million-surpassing-2024-congressional-total": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWW12SklRWUpfaFl6bDIwUGlibU5hNEd3TTA5anEzNzJhRG1BdjY0d3lwWG5rellWNWZPTjJrRXJnWm4ta3BqOHZKZEZRMmtQOWp0aklSZXdBbGFmRDRuM3oxNW1EUG5NeHp1WER0MFprMk5BRHdyTUpfd3J3ZXhxOHgzVkpGYk1mMjFfVTZpRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
