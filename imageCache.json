@@ -118876,5 +118876,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0o3amtJdlNTb29WZnUxdllSLUhseTJQT09kV1V3MktIQXlvQndNNDVzX2tibmhORXJBMU9mQjQtWjIwUTVyeHFoNHlnMDJ6VUZaZHByY1FLaDhwVktwZjJ6U01heDh6dk5TMk1JZ3VwSDUtOFlfc2lEbnhFMUhGSlZuUy05d2M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/food/cdmx-pan-dulce-intangible-cultural-heritage/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/17/us-supreme-court-again-rejects-trumps-request-to-overturn-sex-assault-judgement": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/trump-approval-falls-to-33-lowest-of-his-presidency-reuters/ipsos-poll-finds": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjlSZUdDUDVRVlFRa3pKTFdaVVlIbl8zVzRWYmpiZ0RVeHdCc3JURVE2c2Q0VzkxUTFPOTB3UWZrdWhCYmpCcE0tNG44Nk5BdTZDUEdmSjZYbG1uSUhZUUtqYjVXSmlzVmZRcHZmREVWd3RSOVY2QVpOT0VZTlQ1TmJ2NmtVeGZfNm1nWFp0alNraDdUTzBPNDZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CTDM3UElzd3BtX3RTaEs1WmJyVVd3STA5cjZqM3NjeWsyZ2FnQlRwMnQtdXFJNktFYXBMaGNOdnVxc3FPTk92cklsaEVHUWZtOEdlaWlKRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/us-hiker-killed-by-lightning-on-sicilys-mount-etna": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yUEFCaDhxTDRqaG4wQTFWX1BOYThxWmJQQ3lkYmltNGwzLVdnWHk2b0V3eGdaRVNPZjdTajlBd1JFRXl6RTB1MVVIcmNPa19BTDZfdm5GX3ZobTBwZWxqdHhCRWQ2dE1mbDRHWFFnT1IxNk5Z?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/mexico-social-media-ban-mananera-monday/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-17/bedrock-brings-autonomous-driving-to-construction-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2JzX2M5aU1PZHgxRzFQN19PZlZmRDlrZGNSYUtkaGN6eE9mVDJuZ3p3OEFrZ2NyYUprT0RQdVJYcVRDbmg0cURHM0RqNEFoWDRIMjVkbWROU01CckZNZm8zUjMzSW9xSmhCc3VhR3dETVltRDhOVWJ6Zm9xNU52WlpPT0xkYndkN1p2UVFqUl9jWjBmQmRjUTBjT245ZG1TMmRwLWdHcHp6bkV4dWpBeE4wMzktdHlWSGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX3NGUUFsZXNaaVh4Q2RHTGI5ME9HQVUwbVIzTVJJU3lXVWtFYzdpZVZHYkxpSTM1cElOMUJqVEVTTXRLS0h1RTY2UjhHU2dNREpJUFdtOWkzaFAyQlhzY3l3Y1VVakF1OGRuY2pSNzJrM1pFZkVkOEpzWmNaeVFYWXR1cGtRNnQxNlZBR3VPaTZvUUhKcGI3RmlGMnEwSXptUUdiODFNMVlHQkRCMWhJbzgwcGwtTHVmNDBYTUdR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
