@@ -118678,5 +118678,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/190-mld-aluva-water-treatment-plant-gets-technical-sanction/article71357272.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/katie-martin-kelley-moves-from-warner-bros-to-netflix-1236675138/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/miami-vice-85-whitney-peak-joins-michael-b-jordan-1236675149/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-death-book-interviews-traumatic-past-1236675101/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/traffic-advisory-issued-for-statue-unveiling-of-sarvai-papanna-goud-near-ntr-marg/article71357213.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/17/tokyo-festival-turns-streets-into-a-giant-water-fight": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOEFCQzFIYmFtZURMbnZkeGZiQ3EyaXZKSEN1ZkViN2F2WDVhZmllSFU4enJNOEpjRDZUOG9mQkpDTW1meVUwdFdTMm9VWjhvM1NtZWZfT2lHU19TajBJSm0wb0VZdVpPektxbjNhci1YMFY2RXdfYkxNZHJ6SXpPUkFoQl93YVZZSGdqcjYtQks4YW5LQTRJODZNNnZYQTlvLW1iX1gxdHlnR3FpbTktRXZvY2fSAbsBQVVfeXFMT0wtc3kxWm15UVZINDZZNHNWN0tfOEZ1RzdWTjB0R2ZjMWlmUVRCUGI5MVQzRVFhVVhzdmd5R0FLZXNUQlZPOVRTV2dZNHY5bTZ6YTdjaTFQNmpjZVJ6Y1dtbEQwYzFpMXQyUG1hQWdKek5PSnY2RFB3V09xWmpmT1VqX1B5cE1DeHN5MkoxRVdWYkJFT096VUt3TDBFUXl2TXdNeHpfaVU5amtDRnJZem0xR19ybUtZemtVNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd3Y0Z0tKWld6a1JidC0xdWtsRHVMMGE5Y3llMHNOUnhTcDEyWS1teWNUenFvTmlVcUhwc0VSdTJZTEJfTEpBQ3k2ZUZYSElkZnRrdDBNeUxwMlJNb0FDa3Nqc0kzcEd1NFZMbTZfY1c5aEVOMF9hTmNmUlFIY0U4R2JWSm0ydFNMM0tzeGFjWVBUVXI1cS02OEl6Nm44LWFQZDF6bVRZTGhGMXZZTkg0NlJkWElvMFhQN3RN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
