@@ -117298,5 +117298,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/world-news/the-long-boat-to-school-gets-longer-as-iran-war-drives-up-the-price-of-fuel/articleshow/133286467.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/books/hayden-panettiere-memoir-this-is-me-a-reckoning-buy-online-1235566261/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/11-rescued-as-fire-breaks-out-at-four-storey-hotel-in-mumbais-kandivali/articleshow/133286231.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hd2xZMGFvUG9jN1RxVW0weG5PTG9pTS1UTFQzbHJJN2tmNHllTDFra1hxYnVrMU8tV3RrYW9wNF9kdG9YMnhTMGVoRzRFdDl2MW9CNndfUXRHMXdEcDVvVFdKOFYwZGFQUHVNaUh4a25JTmdiaDdYaU0yaU8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/maguire-hopes-big-asset-rashford-stays-manchester-united-6323146": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlVtOGdQNm9rUVpZTVNoTXRidDhHbHFTSUJzNHF1b0J1emFsMWhmOFhSSGxkbXdlSldjWkpkMnVXbVZSLTdkSGQ3MkNDLXU2X3A1VEh1N0NSbWdrYk9ycU9tbDJ3bHM4UVp6Y0t6RWdLbG9jYlFPZllqX0V3X2V4SUpn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRlgyR3Y4N2x3aVZETjZFWEtkaUlRcXF0NzFrdjBwLWY0ZlROYXBNUGFyZGR5YlNZSVhHdHN5ZkxkWkQ5eHBfOXZPMXR3eVBhdzFrc2dQeEpDVlYxSXJHNXJZYUdtdjFuRmN4THFQcmp1azdHM0xDM2ZHYndvQThoMG0tM2FFWWJXRFllTjZRLXFEa0drOFYxYmdzOUhqdE9hUFVibmRud0s0Tm5FcEdXUw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
