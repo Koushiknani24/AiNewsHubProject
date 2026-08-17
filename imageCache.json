@@ -119356,5 +119356,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/lanterns-kyle-chandler-and-aaron-pierre-death-1236675601/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-17/facebook-instagram-under-scrutiny-in-meta-social-media-addiction-trial": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-aug-18-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3303430/thai-growth-prospects-receive-major-upgrade": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/lifestyle/shop-little-people-gilmore-girls-set-online-best-sites-1235610255/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLXFvQVk3UFpTR1ZPRHVWV1FoNl9UZEYydkxTdmtUWDB0V0dnUEsyY2ZCc19wcGNnazBnNWI0NWFFem1YYjQxOXBZeDVUeUxiNzNQbE5SRk9JNHhRRXJMajNfLVYzNVpsNENQbDRlbk9uY0tXT3ZKcnhpUklCMHJqZGMwdnluQmNTMXJZRF8xcDctYm5OajExUm1Pc2R5VmhPWXNLUlNHN1V0c0NQeGdyNVBRbjZOVnl3YkVQNUx2clg3TjBrSFZjUw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
