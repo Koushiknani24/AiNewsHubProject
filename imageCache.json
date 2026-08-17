@@ -117784,5 +117784,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-news-now-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2ZxMkVNQy0xYTJFREF0NDd1OThOeWJnblQ5dGZvZFdYbV95MlFwNDFkb1o5MUlrOC1MYm5zWVNrcHlocWl5ZS0ySDlyYVFnbWZRTG8yN1c0S0ZFSmRlU0tPbUV2SFNqTUJwUHotVVh1ck83WmJGbGhkTjFmM3RPRTlnTTBaaldzbFJyWGttVnNLNjdOd0RUWVRxbzY2MXFnRXhNdjRCXzdLZ9IBvwFBVV95cUxQaUE1emJkaXFyby0zOFdHSXJRM1Z3M0NTbWJ2dm5SNEtTbFR3Ui1yYy1MV1ljOHRxWjdwX1A2NjdYdkxjVGs2WnZWTjRYU2lQQVB6dUpSU05FQ2J4NHdwY3p1UVFtX3p4bEd1M01xMGVmWFpzY0RSZkVKbVdXNkE3TElnT3IxS212bnpWYXBNT3lrQ2o0WUlOZGdoVUVUbEtpVlBpX2wzNHI0YlVfeThrNEJ5a3E0Z0NQcjdyZm5tSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiaFYwd2FOZjR0MlZ2djF2LTJobFpQNDBqR25CbV9PSDZyNDAtLTlndVlFUkZfcDNadU1ZSlJTZ3I1amdsZHlENzRwa0FsaVhNb1l1WWwxWkF0ZC1EcnZGaWhSeDlUY3dUMWVWOXA1MkJPaEdZYmg4WldhZnpmUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YeU1mcTBjZGJFbTlBM191SklPdzBBVTdfekM0NEloYk5KeWlTU2NneG96YXJhWC1IS3VrWTg3T1NWMkI2MlFia0ZVR1ZEMFBoT1NLcTBZZDlNdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
