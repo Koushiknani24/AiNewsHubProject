@@ -118294,5 +118294,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-17/why-jane-street-lost-15-billion-in-july-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/kia-handles-226-million-passengers-in-first-six-months-of-2026/article71356715.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-17/shein-is-said-to-target-up-to-27-billion-valuation-in-hk-ipo": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAJBVV95cUxPWnlNRWtlanlfQTNuQkR4LUxXRUFMOVVNemtxYzFLekZ0Y0NPem1VaUhFRHBnNldqRWpWaG5WWXJaY3ZFXzh1WmFVUS00YnNwYm1STzhESlY5LTlNOHhEbTVaNkVqb0otNXJGVUVfUFZrXzNkaTdTdXAzT0ZUcXNhSTVkMjRnckRaYV9nUVZscUhiWkFGUXMzZmxQRzBnZGRxZVlKZGRpcFEtVHdEb0RhZEtuUVdPX0pMQW1WRDVPTnZVUENWNmdaVVZFSzJxbGRJbFoyYnhDS0J2ZHJNV3p2aEYwYmNqWG5pRmFRYnFXcmNGN1IzaERhN3JwejViT2d5V3UwVkhOcGRBOTdzRWtYZg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/norway-world-s-top-wealth-fund-flags-stock-market-risks/a-78351371?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-features/alia-shawkat-the-wrong-girls-actors-dont-work-female-filmmakers-1236673953/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWZSQ3B2Mk1ma09laE12akYyVnRhYW9lUnRiVG9jc1djSVZTOEZkcVRvaV9yaXBpVHZoTDBnXzhKSHJBM0QtQXNqSVFQblhrR2FUS1k1eWtLUGkxQUpsQWdueWc4Y1NIdzRRa3pHQW9fZHgxbHlXT1FmcVR1c2d2RDZ5WnpHQ1VLeWJyaTZVNnBQeFZzVlFJc1lwTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
