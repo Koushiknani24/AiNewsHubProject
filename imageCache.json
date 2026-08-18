@@ -120838,5 +120838,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/hungarian-prosecutors-seek-detention-of-polish-bus-driver-in-fatal-crash": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/global-bonds-slump-sends-borrowing-costs-soaring-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2pMMVA5bDk5ODI4bFlDVU9TVEl5TzZOMUxMX2N0QkZab1JPS1A1Y1VGSmR3VmdvV1U5ZE9UeWdCYlZDUnNCYUdvVU8zWjhER25hUkxUODZieUJoUmhuTkwxN0NYS1lmaDdlQ0MwTGRqaXN4clZaMEVTOV9jV01UUE5rN1dNQWxwdnIzTE9md2FNa19sX180TENRRXpPU19hdE4waVhqSFBYSFnSAbABQVVfeXFMT01pQlBXYVVQUURMaVY0VWpYS3licTdfVHhDWVJrSFV2WUIwT1QzbGthRjhBanFtXzBKcG9UZV9tMkJKSGZHUU15RV9XYVlTUW9tOU15S0M0NzctQ2dwM01YU1RTbnF2blpjN1ZqUlFEdElGT011TzNrNzdtMkJMaVBiU1EyYUJHREtNc2I1MU5UaFdEdEwxMF91RUZFQ184ekUyR2s2UDdEV0FWQlNPa2o?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15MTFpTDNaRF9aS0NBWW1Kcm0yWmFIdWlUb0RBQ19ieVpZU3N4LTk2WHVHRExWR2hUaV83NUIxYmxHUdIBkgFBVV95cUxPU1d0OVA2YlFMVENDckFrYWNKTDBqVG9rWmRQV2g5VUQtSmZKc1dTeUgwTXVPUEdRNk5iSVliLVRaclZUcE9WRUZpZFVSXzJvZ0pqUGtTbF92N1A0RWR1bXl3LTZHUHBMNTl2aG9ORGxWRDJ2a211ZUpVZDZsZkl5Vmlva0tpMzY0S3o2TnlDTlR5UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVHRMeUpqY0NYVnVoSTRDcVNuWUVjZVQ2OGI4Y3QtNXMtWk41dnRJd0RkRzVGbVRkT3NTdUY1NG12X0JDUzVQTHpnQlFSNEpyTXhaSEZ0b2Nyek1OR0FkN20yMjlURmFpa0Ryd2xFVUt1OXMtbi1JcDUtTl9GeTRBLUljcm9iRGhfdDJpTzhlOWhtaTE2YVZv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/british-pm-says-he-is-not-embarrassed-by-hoax-messages-with-fake-trump-aide": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
