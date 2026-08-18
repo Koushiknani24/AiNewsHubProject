@@ -120016,5 +120016,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ieUQ0YkdQLXd3VGNOMnM0MF9lYUFyQ3llWk9uNVBmS0U1YU1yR25NYlBYZEFkVldrX0NxS3ZCQmRKaW02blBuMFl2cE1aNW1UcDlydzd3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/former-australia-batter-warner-convicted-fined-drink-driving-6325241": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGhXMTlTY2J5eWRwOWd0UlJLODVjWjV0X1l3ZnQydWFoa2JhUlcwRFVIRmJ3akI5eDdTaXdFcjliY19yUlgyekR3VDBfSmszV3laOTVfQ1RjcHZPSkxmMHhRYVpnLWZmWTJaMi1tQTBGLUdjc2NiaWlmVXFobWdOX09QelFrZkR1bDJzOWtUMVU3ZE9nVGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiM292RmVlU3pfWUxndXBmMk4wV05GOFNibEdWb3pKR2MzSmd6UGQ4elhLdk1VLXgxbVIyeTRuNTc0NlU3RlM0Rk1VWHdUSjlVSlJ2N0gzQURjdVo4REVqOS1WbXlQVy1GVTNLR0ItWEFETEZDSlVGUmNNRkVQZ1k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0lWYUx5RXk2aHVtRVdxWER5bHBKbnloRkUwN09aSENnYVI4WndnRUVUdk9NVzBJcWc4dTJyRS1UOU1EbWllSFJYSEtSbzBXYXd3MDM3RlU1VW1aQUx6SkJTblZfVGcyVDJmWWdNbHRrb0hlU1Q4bW1hRk5ibUVHcnZ4U1pJN012MFBlT1J2SnZISFVXV1g0WXBLS25SSy1oWmNYOUw5NEE4X1lQSmtidHJRYnkzQU5Y?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/live-blog/2026-08-18/ftse-100-live-jobs-data-bonds-trump-iran-oil-prices-hormuz-ai-stocks-pound-what-s-moving-uk-markets-right-now-markets-today-msy8oopb": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamE2b1AwZElFRmtHYWpEUVNpbENEWmFadHdSWDBtYW5nZ3huUUpZcUtRb3M4eGdueDFnYjBGZlBDM254cHhkSEFwTmJvd1VPTGJYdTRIQzJ2T09MNndlTE9HZGZhRkpFTUFCTjJvbzJUTFZtX3dQbVlkNmxOM1h4bnUwY1JsTVZTMVVSVlNKb25TQnhZTG8xckUtX29SYWhwMGRIRTBrNkFUSlBYNC1XQmZYVnB1VGxy?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/china-axing-microsoft-windows-from-state-agencies-ahead-of-plan": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
