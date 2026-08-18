@@ -121624,5 +121624,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/08/18/us/outshine-recall-glass-frozen-fruit-treat.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/streaming/where-to-watch-sterling-point-free-online-1235610948/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-death-charles-esten-nashville-coincidence-1236676365/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/haryana/57-year-old-patient-dies-2-days-after-rape-in-haryana-hospital/article71362258.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/18/turkish-politician-melih-meric-stabbed?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgJBVV95cUxPVnkydnVMbjlSRzNzMGNLRTlEMjRNaWxmOFZQZDljZndzVGtjUG9va2RIMDVJS1JsRU56UGVpZkJXSU5nSGI3SFJ5aHVoOUFMWGhFR0V2ZUFKV2FQQ0lkRjRJbDgxMG1YamkwOGRIUVk5eDd1TnVNZnZkOHFOczRVb3o4SVlydFhxWmdhODRFUVBTVmw1NVJ6ZGh5S29BZmVnWl9qYmFONU9sQUozZU1la0VQTFVVTEdVa1cwUFkyRDViMFoyUmVDQWpiaTQtWkpKSG40WlRVbi04aGdzZ2Z3SDg2RnF5a2U0S3E5WWE1M3NPVzVIVUMyZjhITVZ3MzBPaE5xQUVJMGUteFpDZE1XcENZaUZUTy1YRTloZkZDYlhINFZ1Q0stRVV1MEFEZ9IBswJBVV95cUxQYWVnZHVjYVg4ZnY4cFRrR0NNSl9nMlFkZW9qSXJ5aDM0bC1qVjVkalBLSm9XRGt6dThOWlhWTDdxbmZScW14SVdrZXl2aE1UTTFrZDg5TGhrXzlMOGZpYmMyc25VanRPeVRwdUx3UHlTWWZMbG9ncUpLbUltMlFMcDRXNTZTN09EUHlITi12WjEtVnFNa1ZWalZ2LWFPdUxJM1g0aUJxbTNnb09GSi0taEg5X2RTM2ZaOXgwSjVlTEw5bnMyLWhvSnRyekdicUVYZEdzTE53aEktLTN1RXhjUGFZNFhMVWJUbFBGZFFVRDZyM0VHVi0tSmU5ellsSDJYUzdZTGhyckpzMUd5UEU0d1B4YUVVMkdjamJneVh2QzRHN2tyMEI5NzN1dEVrZU00eTV3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vSUxrUno5VVNWbTdFZ0hMRkxUeVYxY2s4NnIyUkV4WFJMYnFDNXIzVGdYMm92NzFoemRxRUZyRlA3d3VrYXFjTUtFMGhscE90NmRRNjZKYTc2OUhpYVBEdUVSWXBQUmN4bkpZaGxPQnNQTTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/18/us-seeks-to-revive-criminal-case-against-kilmar-abrego-garcia?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
