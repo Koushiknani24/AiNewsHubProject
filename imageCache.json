@@ -121168,5 +121168,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/bill-rasmussen-espn-co-founder-1236676072/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/stocks-take-hit-as-bond-selloff-saps-risk-appetite-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Uc2RqcFdkRVF4N0RXc3FBd0p6enMyMDBxTnJabjBscTRmTnpnUlUtNTZWNDFTeHBKWjlvWERSa1l6dnk3LXFwSlF1V0pmbnl0Wkk4SVBoc2E3aUJmZC1lUWVsaVN2aEp6c3JCNTRTRk1KRzlZRi02a2J3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ04tNjdsMkZwVk10bmhDVHYxWXJldDctQ2RMb2pabHZ4R2Y0Wi01ak05RTRVOUwzbWh1MFRUbU5zZUl2ZzlKVmdObV8zbkhaMkhpTmh0STFwSGVRUjFuMEIzZXh2Y1hqY2xPNUxxYU1CYnBhdjJFZmtxQVFmRlRmYk83UUFyMTBmUHE5NTFRYWlTdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/ukraine-russia-war-drone-attack-moscow-warns-uk-price-supplying-drones/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/woody-harrelson-rob-reiner-sarajevo-film-festival-1236676042/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQndfT05GZk5fdEhKMkxzckU0eGlnMm52Mm5XZ2t6b294Ym0zbVFBSlQyTGNQV3JfZzlDSmN0WGRFVVpxSmJvaGs1bVJJbHZSc0tzWUZjeS03TWRxMUJRNV9ZbE5XZURsLWtwcWZlbXh1Q2lUVzR5WWVuVUM3RXJqbm5YRncxQlFDeVVGRy1Ra3NBdFdoUzF4SmlLZ1ZBLUVtRmRZbXB3NGV4a3lral8tZE4waHZmaGduQmNDOWV3UVU3TTZtMXl5dUlPNnBNVzFodDdON085cllkSkVYNHRjemtjNDRVMzV3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRGREVjM4VlAxV1A4UUpDU2dLTjByTkpmbUJaamdMMUVDdHdmbnFVODRheDFyZ1dWRDVZRC15dDZyd1c5M3ZfNkFHX3dLclRVMERnMzJUNWx2bEdtRTQwZjhpMWJDNnFrLXQwZV9nMmt3QmdSM2dDWVBJSTVzTkg3cHpwdndQNmNHYU9NdXBPLXRaT0YyNGZ6VDBWLXliU25ISi1uXzgtUlVPLWt1UVRSSWNncm1UUnZrWGFSUmMzOXNsR3hmWlR5NjlISHViXzVTZkdsWDN3WlZFUkwzd1JvV3VEYlNXd9IB6wFBVV95cUxOdFlKeEVZc0p0ZzJ3b3FwaW5OeDlCSkhPd1lKZmYyWm9tM25KYmUtazlKVXpuMVFtSzA0eDNnWUU5T0h1amtwWTFLalhJWWF4R21adTIwZlFpbnlIZnctcmhpSkZQTXlqdkdBbzdLMTI5SDNWRVRfVjI0em9UWC1nMExHQmhxeE5Gd3VtTzBRV0ZHdjZmZllmNmtvVVNlVmptd01nOEZsbkYtN09jUWR5elZxTkR0Wmd0OUpQWXBjUUtaX080TzRFWW1PSzNVdHdJSFRCT3BsREJxTEwtaU4zamFTUzJzdWNZSFJj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/vizag-man-with-rare-kikuchifujimoto-disease-treated-at-kims/article71360212.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFZVVjgwc2dvbnNVMzYwNXBnQ1MwTFZuZHJGc2Rxb0JQTGF5VHVfTUdYYVY4ZWVMd2RiY0JCQmFwU3NvdDFjZGtYWURNZlNRVnhtYTBoZnJjdEltYkFBbl81eDNNQTVrSXRsanBHeS1mRWswU0ZpMy15MEI0cWphY1BhYzl3eWtvNVc3TDNJVlZMNEpMMHJkXzFydUhzSkhHWmNnVWFVM3V1dGlkekxzMVJyb1g?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
