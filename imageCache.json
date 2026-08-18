@@ -121234,5 +121234,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/afghanistan-only-5-of-labor-market-are-women-under-taliban/a-78415895?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/gehen-der-ukraine-die-schutzschilde-aus-mit-nico-lange/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/18/champagne-harvest-starts-early-in-france-as-heatwave-speeds-ripening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbWJ5cS1fQmF5MW5CRGNYTUZ2WDVBUW1IUzhkWVFnUlBIVmt6a0ZQYkJvaTQyRUx6NTc5MkNKaE9QVmVLTzNycjhkbWU5RWZQcUMwdDNhUmJ3NXNQR1pYdS1DaW5HUkNIZDlvelJwUjMtWFdkeXN5cWItWUtKMVY2cXMyNW9YSUJMRXJxVmw2cldVVU42VTJYNw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/8/18/disney-sues-us-regulator-claiming-political-retaliation-over-abc-stations?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0gzRGtVQTBwVi14UEtsR010eXJiLW9DTmJzR0ttTmVucmluMlB0VzhOUTEwN1J1Q3pmSmUwcjJEaGxWZ1puQnN1ZVlJOHp3NUJNeVVFZGZFc0JmZXBobWdnTEdZWms4WVdKQXQwOEtJYlhNZHUybVl2N0lFakJDa0RhMS1mbnlFRjBpY3h6M1ZKSVdpZnh6TC1abkNpNGZhN0ZkZERaeXgzRGs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
