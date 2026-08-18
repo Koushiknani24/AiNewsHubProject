@@ -121900,5 +121900,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/revolution-s-hall-on-investing-in-the-defense-sector-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/australia-s-stock-market-seen-as-ai-haven-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/leaning-into-ai-helps-vc-founders-david-hall-says-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/18/trump-south-korea-military-security-01040890?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/disney-abc-sue-fcc-over-threats-broadcast-licenses-6326021": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3pkZThyZXNILUxPWmJlYXowR0F3clotOTNhOXlncUM4OTJrVWowYlF5ZzFTbXBDVlVFeVpIXzgtU1NfS2xnRW1kVVBzM2UtOGRRZ0R6a0ZuZGhxWkl2b1NxUG56bU1CNmhFQk1yT1R6Qk5QcE5IMGp4SlZlcThQRTNfNEZVSUxjcDBvTXJjRTFCUXJ3UG5wUkVYdUVOdlNRVVZJRdIBqgFBVV95cUxNaVczV25XbXRnN0wzZHpFWGctazgxQXk2bWpCUUxOSDdmcGw5R3VkSU5Zb0doRVVFbEFiaXpWNTl5V0lzWEd6Ny1HdFdrSTFENU5IMUZoZVUyY2R2ZkFtSERZNTJCT3FiXzJyeDlRR2oxWjhoS3BScnU4MUFjT0xlQ2ZZV1c3Zjh5N2pnSnF1U3dFN1FDS1FPbklsT1hYZlZZdy1kbDUxOHc4dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM3dsR3RHSV9fU1d1SkVjZ3VGRDlEWldUVEZxQUx1OTdTcmlWeHBKMTlnR25ySFg2ajlSWDd3VEZCeC1qcGRvT1BZQW1ONTdEa2tScW56Ym5vVEdoRmdZZlZhajVVRUk2R0p1eERvLWhlQUhTbzJTMEVxVjVlRU50emo5Y2F0SmhvVWZWSlRVVXQtQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/unions-advocacy-groups-sue-to-overturn-us-visa-rule-for-foreign-students-journalists": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/navy-ieds-explosives-bust-sinaloa/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/gold-falls-as-traders-weigh-us-inflation-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWcnFVbWRNTG1xNmlBeUxIdGZKcWpjcGo0ZXE3TG96dnBSWXYycV83TEVrMG9qcndNWEI4b0Ywa0p4dDVmZnZBT1ZNVXE5aHRZcERNSlluU3NfeVo5YV9kNFJQaTZjNXhVNEN1TWxtRWRzQW05?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWxBVl9PbXBCX2lxeWpJVTg5UFZMSjRVUEstV3FibTRobkZkTXJ6X3JSTGFFTloxdzZoa29acl9SNzYwdHJ3ZDhxUEVTLURhSWV3UUFVcGxWLWxuWGV5NkZJS0s4bF9oRjZoLXNGYmkzOVRZQzhxZDF0cVpqUHhVRjln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaE1lQ0VsRVJncmxLd18zQnlhQ0xXWlJlQUdES1J1RlB1WEhKdjlqRTNYMkw3UmxjQzRLUXFyQzhBT0xULURMcmQ2RVRUQUg2UDQ1VEVPemhRQW8wUDJvWHpTdnRyQ2ZGUEVOUkZjVXNSSzFBTDdqU1pLOTBxODNldUxtTWhqcmpwWllwdXhZUkg2SlY3Y2pMVnNnRS14VXc4ZS1NMjJmSEpKYkFFVUtfVUNzWkVhbTJUc0l0OHZ3Z2VhSk9D?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
