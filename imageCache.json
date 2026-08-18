@@ -121294,5 +121294,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/culture/culture-features/chanty-beluga-meme-instagram-tiktok-1235610943/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/k-tet-government-to-seek-legal-opinion-on-filing-curative-petition-in-sc/article71361787.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/no-toilets-no-shelter-little-protection-in-ceuta-dw-finds-thousands-of-minors-living-alone-on-the-streets/a-78416604?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-vd-satheesan-accuses-cpim-of-orchestrating-vilification-campaign-against-udf-government/article71360692.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608180631.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQmRhSlZZYkZ3ZEtIbmFtSXFVb0wyWmI5OEN3RWJvcnllZlh3M01sWjEyeUlSTEp6eEJ3Sml4Q0FzUHdVSlVmVXpGOVZ4cmFRSk83bDdEQ09tajhOb3FscUoxVGtVWEFkTGFiZ3J5UHhkQ2w0eThER1pJcmpocndrdk5wUjUyYTNYcWlnMjVKdFlrYzA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03VlI5TUhTZnZnX05UZUhYT2VXeFVJeDlLV1dKTTFPMl83bFVZM29sLWFqQWhJM0wyYjVVUjNGTW1Gc2FMWUphWGZUbUR5UUJ6dHlnRUhvNEF2MkQ3cnBEUVB4UDR1Zmd5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdloxUXo3OXpPWk9pRlEzX291elRDd0g4Q0tOdWdLOURQck93ejRjYlZCR0pQNWZVczJESEM1QXVONUR0Rk05U2xTaG1fU3ZWdmFreXdRWVRuVExtLXNrWEUzU2xwQ0RvODg5S1k3QmRWMm9RdndBdzVvN2dIc3RmWEpmTy1qdjZWSUNYVWFEeE5lb0U3T05wOHJiNWNJRWtvUTMzUEU3aGkxblBGeTcxV3lkYlfSAboBQVVfeXFMUHlPcFJBQm9KY0JWUFcxam53UURiRFhDRHpxbF9scVpyREd0Z0I3ZzdOMk4wNzFiVGJ0OXhlNklGcGNlVFNONEl6aVdTbE1rZklud21Qb28yTEl0aHdKOHVzWGNhblpld05zTHowQ2pHUXFHT2I4ZWlVSkxKaDRDOTBBcGZMaVdQQW5qR0NLM0FXSkpjZUVqVVhjOUNpai1YN1pjLVh2TGVZX21iQkVfOG1xSDRGQUd5YmlB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
