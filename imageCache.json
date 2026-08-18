@@ -122032,5 +122032,29 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/cc-music-factory-lawsuit-trademark-1235611284/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjBrMnVwVFhJWjZPNTBHS3lNYTVTZTJDaW9HR2hFdHZlaW9ibWl1ZFJBdWxuUUROMTRZWjNnLWlZTHdPbzBPNTJRdzBJNmxyTG53alZWVm1VNXVlSlJBZzJVYmMwdTNJTTY4RnNlRXg5TXY4YUh3Z1MzOW5uWUpBbFBlcW4xQnNXQzRaNldUWVZnSHU1M3NDUllQTXpFVnlLb3pTVDEyS3R6R1dQR1VxaA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/japan-s-earnings-surprise-analysts-to-fuel-bets-for-broad-rally": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
