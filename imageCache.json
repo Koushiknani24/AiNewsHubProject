@@ -121786,5 +121786,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/power-broker-frances-katzen-on-pending-home-sales-slide-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/higgsfield-ceo-on-intel-backing-5-4-billion-valuation-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-plans-to-give-ceo-extra-voting-power-information-says": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/paul-pollard-dead-bound-for-glory-heavens-gate-camera-1236676485/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/michael-latt-legacy-fund-leading-with-love-grantees-2026-1236672496/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fNFQwN2lXVzFtd3AtNUNrUVBUTno1MkNWR0ZWVi1DVVZJcVJOR2E0MjBpYlR0SHRJVWpNYVRyamxHMjlibVdEN1hiT1BBVWNtbmtUNU5aUXB5UndKRmlmeXJwZ1dhTVU3aDN4VjF4dWYyRUs2OFlR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOblNOS0NNTFBuS21TOVFyQUJRWGQ0YzV4M1dWVTF4SzdrSDkyazZUVmVUMFl5SHhuZ29iVDFIdGtyb1RSWmc3bm5pUERUUlFidDQ2ck8zRWVKaVE0UFQ5WXlhT25iajFPVE1NYUpJaEtsWWRlcE82QXBiRnoyZFprZ2NaYzFpc3VqNDlYQUs5cnlhV2ZKNFlULU42RW1UOW05M0VzZGNod2tMOExWZjVBYXpfbEJzNncwaE9wU0dCUkZuNFF5MHNOZ1BwMEt4U1FScGgxY1VneGRUMEo1U1Zqakw4STF2M2VfRENmc3VUOHpCcmZXQzlQdXFIOFbSAYICQVVfeXFMTXh6aG1ZX2hDNFJ6OEhxUllOQ3lSeUlqTE5id2ZQWUZvZGdFTG9LTEYzM09OaDBzbW5OZVdBUTN2M3d2anBrMkhqT1dXXzRFbms3UlY0S3Rfblg4Z1djQ1k2Q3NlQ3lib3o1U0FlOEpqQjF6WndBZEF2YlZjMFdnSHZITUZMNkRKYlZ4MUVJZHRHSVRKekFzRFNsN1ZsS2RzdlE5MW9EUEhfSldqN1F5X2x5NFFWd0E0akdYaDF5cm54N2VweGJ5VmNrY0ZwaklnMVl3ck41VEJ1UGYtenZaeE10Z3BMelN4REdCbE04RXJqQjJEaW9KYUtSRnVDLXd4Z1NB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/how-espn-founder-bill-rasmussen-changed-tv-forever-1236676304/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95eGhJRXZqdTAyWnhKVlBDZ1hvUms5eFZIN0lPTU5Nd0JTUXFMX3dGMWRKbHNYZjc0OFA0SHJNSS1zNnJPbTNyN2hGMlJGMVNaYXg2ZjlB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
