@@ -119818,5 +119818,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVdGT0RsZzJyLS1VbXV4R1R2THV2SGxtdk1oWUZMMU5BRVZwZ1Q2ejBhQTloWEhCa0NJSlZOY3VrcmlqOW52SVlYN2kyUVlwVXpCdDFfVlpiQ2NLaDV1Unp5QzJBSDZfclZ4MFJLVURzWE15MW8tbmY3clgxdG9rWmhBTGR5QzdwMU9qSnByUmMxM3BCOXd3aHQzVHlJWllOd0NlaERIdU0zTHhxSmRlLXhXemdaUXMzV3ZveTNHeG1zcmVBaDVnM1BNck9NVHM0Z3BuVFNXeHU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRWVhdXROZUNLR2s3c1hsSndoWkdUaUk1TGk0TDdzVWx6UlZDd1c1LUZBTmhZeEQ2WjdJNFZ6bHB1ei1CLW5MbjBlZF9oZlk1RjlIajdLN2ZLOGxENFZESGtqeTQxRE9jTm45M1BTSjN0R212WWEtUVdtaHJCdEhxb05iSUpROC1ZTlpKcTV6Z2xjVURoa1pvbW82dklfUm85bHBnbGRyeXg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/myanmars-leader-to-meet-putin-on-first-moscow-trip-as-president": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/congo-ebola-outbreak-financial-oversight-takes-priority-as-distrust-grows": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcWF5eE0wUDRGTkpqNi1WOUVQUXdaRVdNeE41dFVwQ1NYbzV6NkJIUUcza1FxUGRHWEdJSmdJb0FzR1hQTG0wY2h1enhPdU9FUVQ2RXBDVzlyd1VDRkx5Y3FrcmdWYlVTb1QtN29xQUVwdE5WVjlSck83RW9DTVVHTzJoQWpRTS1yaTA2TWhrTFFQNjJmQWthWE5QTWJDNk9OV1NIQWJ1ck10U0hZcHFXTlFONmcwVnJQT2ZFamVQMnlXUjV2aHpfWjkyMW4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ2FQX3hiYm9rbXJWbkJ0R2x3X3d1cE1jOXhacHZXU2NLbGpPM0s0VF9oV2tkaTd2UGJmY0dNTjUtYjdwYVR2OFllQUhiejRXemxiRnhMTUItVWItY292WWNMUEp0NzNyUF9kcHhHdTBrOUd2aTU3MWp3OHRhcHpnbktLT21zUV83YVlZTnVvdXoyMFI1X19NbG1zUndMUUxFM2kyNVhBb29XeVNaRTJQWTNOelVfbjViS3FXazF5Yw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/18/opening-statements-begin-in-long-awaited-trial-almost-30-years-after-hip-hop-star-tupac-sh": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/8/18/tens-of-thousands-mourn-jason-arday-in-london-blaming-press-for-his-death?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3303655/some-gun-dealers-have-switched-businesses-to-survive": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTFXSV9rUVhYazFQMk9fRmtacS16ZFdLUHRuUkdyYklCNkRuc3F6RGJKSXFGdGJkS0l6V2tSZldvMkVGb0dSWDZHa0Z2dHlKVXYwblVyTF91Z3VKOG4xWWk5M2t5LXRudFRGTnduMkY0dDVCTGx2Ri0tLXRGekthV29PN3R0OFFEVkVzeUZ3ZVd5RzIwNTdiMnBCLWNXbjFUZXRjeFdIQVNSR19uX2x6R2dDN2Q2MUww?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/chinese-companies-slow-fx-sales-in-july-as-yuan-support-fades": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
