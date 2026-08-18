@@ -120214,5 +120214,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/supreme-court-hearing-on-police-brutality-on-delhi-neet-protests-cjp/article71359468.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/fontaines-dc-new-album-song-dopamine-chamber-marianne-1235610335/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/shakira-colombia-earthquake-university-schools-rebuilding-1235610631/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/swedish-opposition-holds-big-lead-ahead-of-september-vote-poll-shows": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/india-weighs-sugar-import-duty-cut-to-curb-record-local-prices": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SWm5HVXV6bWZSVjJLOExCeThubk5qWG1jbGZkd1o2RWxwMlAzTC1ub3VzaktHSFpCWGNkY3llTkg3WjB1TE5GcFp5bXhRdnZjcjI0WDNHTmRsV3JYME5ybzh4WUJnYjFzYTVsSWtmUTBDU0kyUllkMlNfX0VnY00?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGFVSmJKaF9lMFFSdVQ1TjRyaTlUcFFsVkpNY2dCeHFSYTMzTVdmUVRVTFd2SW5LM0pKSmhvR1dUTnVsM195MHpzTWNZMENqY0dKUlBIWGJwT28xd3pTUVhYZEtON0dxa1FDZC0xT0NyMXhiRVJxckJFZEVLeXI0NVUxVk5IdU81bFNfcWNEeUVaUVotTWZYT3RmWEhfblM5RS1VOG91RW0zTC1xME5hYQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/18/los-angeles-lakers-jeanie-buss-contesting-familys-vote-to-sell-to-kushner-iger?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/uae-economy-on-the-brink-or-bouncing-back/a-78402980?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
