@@ -120598,5 +120598,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWdyVmhJQUN3emVlQlpVVUdxSWFXSk96QXY4SDhZVDlHaFBKbzU0czV3dGJKZzJZeVVSZG1VdGgxZzZpRG0zZW83MVlDd2dHSzRKblAtX3RvRWtZS2UzQ0JmbFdHUDRsRlQzUlZBRFZvQ3NHY0ZtcDVyQ3U5OS1QWXRhTzdwTFR5RE5zV3J1YmM3dzhua3RYbEo5c1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/pimco-s-stracke-says-wealth-firms-running-shy-of-private-credit": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFpJc1ZaZ2puRjhzQnBKcjM5MjNvVFJfbm1DNTNCbFF0cXpxOXVCU0VHUTNTMnBHb0VYS1V6RGNUeGVCWUxKQkw0U1JBaV9rLW1CejBYNHY1NGE2a1MtUGlBZktad1hoeWFubnBwVk90LW1IZ2Rhc2FkaUR3U2s5TGljbU9QNV9I?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhb3ZzR0JOSzR4XzFkQVZOalJlc3A2LTQ2LTdfaERwUEhXQVQyTmZvWDVlLUNFaTNZRk9hUnVjWWFYUTBFN0dzdzNiYzdaY3hKMXJ4QloyRjh4V2Zl?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/978229/fish-tank-tech": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxORnFZc1d0aHJpLWZXd1hjT0h2NWtaMUVUc2JxZkZldW9vbUxWMWx1NjNxV1ZZMGkwMTl0OGtjVkJ4R0x3c19IVTNsZVFVWFJrOHlMbFJnNHBhNE5tbk5vNEFuT2JwX1ZzXzNLekhWX1FEQTA4ZGVZWlJCRmR6TTI4VXJ6TTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYno2NDNsRHc4RldlUHc4bWtHQk5KejVjTlFmQllkZjNqY1BRbnZFa0lGTV9IODBxS1lDMy1EN1gwWVlsZktKX1ozVjNsbWxKeWx1RlJMeVZPMXBFY0hTR0lkVGZ1RlhVeU1VVjdHZGwzdndEcC1IRkd6Rkt5aFM5NGZaem5pVjJfVXZfa1d6emxySVN5ck9wcndwTE5HcDFaaFdNTw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAJBVV95cUxQekVCR2FJcjIzQmVlNFhxV0tIMEZscXNfQjNLX2VEczEyS2NjbndjVEtnUVlJSklGSExiTzlJdTFHdDFjT0pfaGNlVkRyT2FRYWJYWFlGNVhRVC12NkZHcTN1aWFDbzVNWlExaVdNYjdFUHZVeXBMZHg3SklCUEpQdkU3V1pqLTd3Nl8xeFM3Y055cGpJR1c5SkxyZDl5bVBIR29CN0t2X2lpNFJlOE9XbFdsMWlzbUw2TjNDQWJSdGFyTThxV2xHbmV5TElRUExoS2p4ZlgtSkdsb1duNEp2WEIyVlpidEktV1djX1NMUlNCRERCVFFyY0paQTZBRkRl?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
