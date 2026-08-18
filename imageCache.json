@@ -120664,5 +120664,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/new-tremors-jolt-spains-granada-injuring-three-and-damaging-some-buildings": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1YwdXhQa2ZuM09FeTMwZU13ME84d2lUWDh2U1FpS0E5UkFfWWtkcUYydndmUGxjMmtxcUdoQ3lRbl85TTJjNHRvcnVSYjN1a0FpOFJIY3hUUV9jNVRHbTdGbFNLeG0wWDQ4aG9nNVQ3Y0paSjBjeXNVNEJhVnBad0VrdFYyQ0sxeFZqOU5TYkgxWXdQVmtxS0JlQnpzVXNrNGtxWWNkYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/18/bond-yields-government-us10y-treasury-note-iran.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/18/treasury-yields-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzNOV1RtV21mVUd4cFlqQmM0eno1OFZrakphMHF0VEFDd0tZVWlMZGx0TVhYekZhejZsOFVPTFdodHpwbWtsNWlMZkxzNklORlM3bnQtVjJ2dXVaYk42YUw2bE1BZFZuQzFyN2xyQjVrT3lzTEk5NU1FT3UtMGNham9nYnFRa1JuYUl1djJvSWJrZE5LNXhSbEl3Z3R4RzBqV0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjVET3RCOHJYMkZ0XzhPNzdvaWFNTFItcWswZUhqajNILS02MDY2NXNseTRPdXhhQkNINXVBWkt4cFBheDZLX0tlYkNOYmpPYzNXUnZRZE5kOGp3cmt5S3hLM1JvLTBCT3RHOG1SemtvVUlFdi1xeEFvdF9hOFNqWl9TOTJYMktzS0tnT0lXYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/france-probe-russia-disinformation-campaigns-2027-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckduVUNpOERRaHNpYk5sTU1WM2hacUpoSlFDb0ppMmhSR3VuV0pVQ3pLX05MaG8zaHltODV4cndJcEZSamF5Wi01ZU9nTVpKcUVLaUVpNlpxcWt2enhyRHhLOVptX3hMV0JOb0oycW1zWFkxNHVsY3NDX3h6YmJOa1ZkaFoxMHVkRV9yZy10ZFB2aU1MeW9vdkthX2p0WjBfSHB6Snd6enU3UERi?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdjlDZGNZTmFEakZjZjRXVmItdUZKSlRNa1F6SFpROUxpSkRlUzVyYURIWHA0dUttN09KUzZIWWxZcEx1OXFZdFdnLTNIdE9zbEhxckpkX0QxaGhQRXZCNzZzYkZXSFFKT3ZIck1Fc0JxUGNzTzltX0x2bFJIbEREdW9sQkd3elBmQVdYT3NTcHplNXVwdVdsRHZsNlNzOWxYT2FTTjZsQXNpUThqVGo0UjJn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608180344.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-18/us-shale-s-metamorphosis-is-a-lesson-for-big-tech": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9PcnNSS2ZQQmxoOFNldmdkQ0RWTmwtVEFQdGl5bkJTcnBoUWR6TUJjS0lnSXFTeG5qU1JZRFNiS2tnTGw0R040YkVYUHFDZHkzdzFmMnpEUmFpanRPR045cmNlYXhPbEZnN0JvZ0pRaHhvY2JHQWJiNHRtNlBIbWVKRnFCaDlnSmc1T3VaRExIVEFsRGw5QWJzMjZzZ2RxZzRWQ3JLTlcwRFpCQXdqeFh6eThGZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
