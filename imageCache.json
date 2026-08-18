@@ -121432,5 +121432,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/trump-overhaul-prompts-dulles-board-to-seek-14-billion-in-bonds": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/cinemark-paramount-1236676229/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/boeing-lockheed-space-venture-inks-1-5-billion-private-bonds": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/five-grain-ships-struck-near-russian-black-sea-ports": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/visakhapatnam-collector-directs-officials-to-expedite-sir-notice-hearing-process/article71361383.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-features/magnus-ferrell-son-of-will-ferrell-vma-what-we-know-1235610958/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/tiktok-is-exploring-feature-to-send-money-over-direct-messages": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/bilateral-security-cooperation-fugitives-us/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/18/nigeria-hospital-collapses-after-rain-washed-away-its-foundations?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVEF1REJ4VlIteVJOUS1hVEppZzNadkVkVTVicGJrWXphNGxmcVZGQlNNTHhvTGttWUUzRGgtWW9kTVJ2T284OWo0RXRoME1yWEpfWGN3cG5FYXBwU0VDdDdOT2hzWDVYZVpyOHpscWR2ZW9oNk9ON1ZRSEwtaWJUX3dvOHpieWVqRWF1cDFEVm9PcFR5dXhoQlh1TlFxWGFUN2JaRlphSENKMk1FUXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMDgzNm9Eb09Oc0JreVJHUUtjSmgyUzFjZ1hiS2EzNy14TmZ2cXVkRWVFWmd2cWlQcUdqVGpTay1qd2R6N2lfLU55ek1rOHpBU1RVN3k0Zl90NkdyRC1SZjV6eEp1OElFckpJZmU1aTJmaEc5eUl0eU1pSFRVU281al9vcUN1am1TdFFRV2xZVkxSb2dPY2JHeTlmNHBuNDFVTzJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
