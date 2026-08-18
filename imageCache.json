@@ -122128,5 +122128,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/jbs-seeks-rest-of-pilgrim-s-pride-stake-in-1-2-billion-deal": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/jacob-whiteduck-lavoie-sterling-point-interview-1236676550/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-officials-ignored-their-own-university-investigators-lawyer-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaFRuQVJwTjduYjlyVmpNc0ZKeGNMRl9VNzJ6eHhBUjJ2ckFyUnN3WFlQVUNPQ2V0NWY5Q3F5ZlQ3NHZkMHcyR2dMMloxZ3FUR0tkM0R6NzFpQXdpRWFkcWJwMlJuZDZBZDBWSTRWN0Z2MmVOVEJ0V21JQlY1VFUtbElFT2pMOTN3UGZrd2xR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/sports/colimas-pouleth-carbajal-swims-english-channel/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnlfNlhXN0hPbENYcWlMcDh2aFlkLWQ1WGJWQVlIRTFEUEo1WC02enIydUE0VnFsSENWam5VY1EtMXAyVno3RHpCZlQ1RFR5R0FpTmFxYzdxWjBEUk1feFJRMEl0QVFPUTF4UXQ1bjNseWxvemdpZmJDMXJrczIxTG0wVVltVjVDaFF4QWl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZU95UGx3clZoR3V6QnZWRHdObjE2ekgyOGtjUEczVlNRN1p0S1VPYjlCRTc3UlR2VEIxc2ZTQ2JMMThxY2NKa0NKSkU1QXZEaWtDcmlXV3RCY2U5c1ZvNWR6MnJBWVhkeHVsSHQ1TFhwYW94T0I4UGdLX3hYakVGeG9zS29acUlhWGtUbnFYOHdsZXZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
