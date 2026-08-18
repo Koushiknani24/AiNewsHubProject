@@ -120076,5 +120076,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/ashley-boosts-his-real-estate-empire-with-harvey-nichols-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/18/mount-etna-erupts-a-day-after-us-tourist-killed-by-lightning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFQtcEhHeTRwbTBEUHJCX1g4cGk4dGxGRXY4enNhWVpuZUxJc01fY2YtOC1HTloySGhTd1N1TVhZLTY5UUo5OE04LWx6OUpJNHZXQlM2alhscEExSDNiX0NrZUh0THNiZkF0NFJJWlZSMjN3ZkNOVlNVVGdwWHRWMnFlME1BM25PN1pZbnVITGFUMkU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeFNEVEs5RGt0eGdpRzhOOTJFeGVVWTgzY0dXcW81aDZRLXM2U2pkUnI3czFzN09peXp3N3NySnRHT0ZDaFZOZ3JtVG4xb1pjeFJpanVpRlJROEgwSEdJNERFdWh2WG5iM09zYWdsV0JQLUdJQTQ4VHJHY1pxUFJSaGU1TkRnNjgwLUcyWFpNYlpMclVqN0xJWHhTLWZPdHE5djRKaF9oWHJhZllHaWJyUEFLQzBUeUxTUmhxSXBZZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOczYweHdkVGFWYXVZRjliQks2eFl1MF95Y3h1TzNXU1NTcUNvcDR3MWxxd085VTk4TkNpeFBHaGVtdzV0ZnRXUlVUX1NxYk1hM0JmWGZ5Nm5ZanN0QmtETnNic1gwbzlldWFET3d3LUdpbWNQZjd3RlF1UFl4aXhMa3h4UE1jUTRGRHdwaVpLUWRLMjBIc0JfcDItX3B4U01IS3FzUTJLZjloWTNBaDM1UEttdk5WOGZKTnhsQVlkTHQ5VDJ3NFl4enM1ZmFYNjNrQXpuRnlBdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbFlFTXVMcUx0VHZxVjlsaWFDYy1xRFc3TUljdzF1UEZZNVpzZ3pMVXBBbS1ud3ZLcF9uZzZoM2ZMRktpamtSZTV4NVE3TzFOSnlnWHpTWWw5VWJVNkM4eUhuVXJSQW90cUw3TlNGSXkySUlSVk5XTGIwSGVLeElCNldTTV9LNFNrZm8zWHg4QV81bExBMHhuY1hJTEhvLWpZX1VUWk5USUQ2SVpseUh6NER3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc3lhY0laMlEtd0F1anhpMnZ6ZGhuTXc0Umk3YVg0OE9Pb1c2LUVvYzJObVJNc0ZSczZrbkZLMS02c0FDbWJ6cnd6aVFOQkF1VTBaVDY5YUpfQmp3bkYzMkxRNnBsU3IydzE0SHhwZTc2U2lnVmVOSENXZG1lUjctTmVodlJtVnJLSWdmVkx5MkstVjdVOVdEcEJoUURMb0U4RWJxaXU1d0VIVHdReFVZZWhtWDBibTdKQnpnUHBESkM4NWZPNElBb0p1OFB2X0ZCV2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEctb0JOX1RxMG5SQ0xzU09LVXprZ2I2TGU4T0k1cGEwdHhNVjdCTDROb1M2VmFLdVZXUmVXZGxMSzE3aWU2TF9TQ2NjdlMtekdpVVpzZzNmYmNIeEt5aldvcFBfSlc5eVZFNl9CNDByVEJrcDB5V1FNaHgtVkhuTnFjQWxTa3drdS1SVVhpc2pOdFJ3cnlYOFVreUF4akNXaHpSNGM3ZVh2NmpIM254SDl5c3dGZncwVlZOTHNQNnM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
