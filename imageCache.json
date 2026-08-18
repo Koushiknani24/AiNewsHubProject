@@ -121684,5 +121684,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/18/there-no-breaking-point-problem-with-trumps-plan-teconomically-strangle-iran-01040781?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/ripple-s-brokerage-arm-taps-private-placement-bond-market": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/watch-rosie-odonnell-host-jimmy-kimmel-live-streaming-free-1236676309/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/long-term-debt-costs-soar-to-highest-in-decades-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/music-news/frank-beard-dead-zz-top-drummer-1236676370/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVNEcmxuNDhfbWJsNWppYWhYcFdqcW1fQWpvaTJZTjZVZVJHT3IxM3oySGtqRzJxV1htcU5KUUJMR2RsVlVBWjdyS2cyZG9LNEd2TWdWdFo1ektoTGEtci1TdmRwX29HQWwxbDFjRTRqSFlDdUdxSkJHQ2ZpSkFTYV82YzZQa3VURHNJZVpUbTFGdHJrRlBWTFJ4bWZ4NmNQLTI1bDZNRTJDdEFyeHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/france-to-expel-two-iranian-diplomats-in-coming-days-foreign-minister-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/stocks-fall-as-global-bonds-stay-elevated-closing-bell-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/18/us-oil-producers-production-deals-venezuela-01040437?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-mother-lesley-vogel-1235611092/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/doj-unseals-new-charges-against-17-hackers-in-iran-backed-campaign": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/spanish-police-confiscate-mexican-axolotls/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/guanajuato-don-quixote-paul-smart-film/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/18/icc-hits-back-after-us-announces-fresh-sanctions-on-senior-court-figures": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlpXd200SmxUVHpDQmhwT2RVQnZDbDhVTEM1ZWgxQ1FJdk1CcVBQZmNZTEpYTFVsQVNBWEdZZW5IMlZySEVJaldoQWJNeDFNb2dlazhiUjJpM1k1bGxJdi1EbmJwVEpza0RtcjFmc1dkMmYzdDVfOEQ3TW9XR0tISXU5SzE5WllEQ2NiNGxDbjFyUTR0UGROMWtJRWxrbXFPV0lWU0RQZ9IBrAFBVV95cUxPaG5HY3FQTEtGMkkyU09zOEMybk8waU5nTHlXZXU5S1lxSloxcGRKRURpV3BJSnV1Sjh6T0hhcHJCR25jMy1tc2ZfcG1rWm80elNLVVpoakJIVlY1a1FoYWQtM3k1NnBlUTNfZUN3UTE3YUNwOUhZQW1OY2hsNTQ0TlVzeW83T2tEdk9hLVAxVGRBZWxhSnhwZWpKa0ttOXYzTU9zbXd2RWhZZF95?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
