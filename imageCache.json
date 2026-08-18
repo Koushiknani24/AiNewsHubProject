@@ -119968,5 +119968,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-18/zonszein-gaza-peace-plan-hinges-on-concessions-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzZlV1RxdGNRcXoweTJwOFdxbkJVdFJsTTB5QVJXUjBFX2M4QmZnZHlBMTFTSTBpUGc3UXVFWkVKTEN1cWpnRVgxdDgyVW9DOUh3MElWOWxucHgxekdmaC14WWdOeU92b2JfUTUwbUhJSTZzM21kUThkdzZrUk9hbmxwcjlEbEU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/climate-damage-the-next-hit-to-europes-public-finances": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVNCZmd0SVNZZGhnRS1PR284aURzU3RfNGxxYlNEX2dqaDlza3BSSkpiRUJOemZFaHVuOGFTVEozWGZOVTNwQm5tOGw2dTRlMGt5TFowWlV4VWE5d19WaTFmY3RFajFtLVJya0NVeEJId29rVGN0MHlvMWlkRHoydEpTMVYtRlZxTHh4ZVNJakhpQWl5RENhWFJpRTRhN3NBX3RvYU1ZR0E0dWs5QWtNLWxZSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/18/zambias-hakainde-hichilema-wins-re-election-with-60-of-vote-officials-say": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-18/nse-said-to-seek-up-to-55-billion-valuation-in-record-india-ipo": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
