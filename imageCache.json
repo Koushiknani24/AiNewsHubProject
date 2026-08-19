@@ -123670,5 +123670,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/solange-knowles-tribute-hayden-panettiere-bring-it-on-1236677008/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/i-was-constantly-playing-catch-up-lakshya/article71365747.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeldIeWQzZWFZUnp4RTNqNF9XUktDa1EyNC1HQ1lxek5BdkZGQlRxN2RWZE9HeXgyV1pYOHJkQzZJUmRkUEUyc21JQnQ1cVo5Nm8xc1V3NUNpR080ZnlCU0pnR2RnT3Nua0hDYkxOTkwxUFRJTHNNXzhuZUo4ZU1jWnpuUmMwYl8zeUZhM3RkZWU0MUVnYm1qUTdIOXNKUkxFZzlsSjF4eDdFZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSHNDeDdMR3VSUFVlZDJUVHpzLUZuVnlpZ0t6bGN5Q1hJZ09tdmtxRHlBWmc5a201emhBWl9ONlIzVnRPT05aOHBHWTcwckJwSkZQLWdoMFB1elBPaUJuWGxBMm5RVFJxRmRQRkRBVUZjUGdPY0xZTnF1WkcyZGxVNVdB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XQ0dlYnVqNHBDYnJGcnQwVTE3NEVZVHBmVWhYcFBJUWxET05mLTZlY2NsSWpwNERuTXFUeFZXZVVReUVOR1k1VDBKbmZKZmV0N2tTWlJKSXkweTVS?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/19/treasury-buy-back-debt-bond-market-pain-01041461?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/california-schemin-trailer-james-mcavoy-directorial-debut-1236676347/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
