@@ -124540,5 +124540,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608190631.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/19/trump-backed-down-from-50-percent-tariffs-on-canada-its-not-a-taco-01042377?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/graphics/2026-us-china-ai-race/": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2E5RGFmNkd2djJJbldtOXU4WmZ4UTM4TGFxN2JYWWNSYS13UzYzd28tVUJMLTVyQkJVMkxvRUZPUEs1NzBkRHFxTUs1N2lFTmE5Zy1oX0RMRGVjd0I5a2dvY3g5N1djYVhvdW16Szh0ZUplYkg4U2lxZUdIUXZXa0FQTHpCeUNhYXFLVzNHek4wM1NJeU9ya1UzUzlGNnZIbWh6YmVSWmFSQlBtT1ZiYnpGSTM1SUhhazZDV1VkNU1kNkZjU0U1QURITnpOdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/ramp-co-ceo-on-44b-valuation-1b-saved-ai-spending-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTy1zQVp1RjJMNThrS0ZJOUpqSXB3MkJoQ2dwMUZBSTZaMDMyeVFrNTZVa29Td2h0dzk0TmVVWUE4OFBNSFItNURXNVRJblhOa3pxMllZZ0E4RnB2MnJoeE1UaE5TaDRkOWk0MkxyR0IzbXlXbW8tWUxMR2ktNDR0OVVyd1V6SzhkQ192b1Fn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGZjd3ZZZjAzS180VFEycXljN2czNWswQXNUeUlaX051ZXJ4YWVjWWhReHAtdFhldGFYNGlnZ19KUVdpVjB0NVV5NHJ1NVlFX1ZPcFB4cFowcWlWX2VFV18zRjk3Z2xhZjNvbGFlczQ5SHl3Y3A3eFBMSWtVLVJxNTExa2tncFJJMWVQOFVQYVZnX1pTNExPdzNOVm5zYk1tVmg5SDU3cTdXcGRFb2RQbA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdkRYYThQUTZaZV9oeWlVeE9UTUwwdGVzTFdfSWF1OXNFNGhaY09aZS1BZXBYM2pjYjNJM0F6MWEwRnJsRk5JZ1lNX2ptNU5OMEV4Y1FTOXNRa0RaenZGZTBld0luVkcwdjZVdWlvZFVIOXR4dFVmSUUtMk1kQ2ZFaVlfelpiSFpteGFGbUNEcFJUOVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXVUdEl3MktPREpnQ1BlLWdRa3NrSFJaSkQzMnRabzQ5UHVYRHBmVU95dXVQT0IxdEdFREVFNVVlUFZyTWg0T20yWjRRRmRfb2s4QnhNM3lSMjV5dDZyQS03NFpBc3U4N2FfT2FkVXJYT2JxYnZHNi1PUjRUV0luMTBsZElhRlFIZGtsbGNJYmlSbnlNeDV2VEFKMDM2YmJZZ2gzMVowQjhrdk0tQnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYXVhZzhkNEFtcHpRTDFrbW9PYVZiOEV6UHRWSlFWamU3ZlJIN1VoN3hfQXV2ci1HN0ZwQ3pBWmZsVVBwTnc4aG40WXpiSVd0cTVKR1JrZHloYUlBUy0wbnZ3Y2xvWWVSeFRXdm9UVDdsVWRJdXNKZFB6WTJRRS16Vzg4enlFdjg0OGFSdm1UWWJ6Mklob0g5WVVyT0Z4cjRWOHRDeg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
