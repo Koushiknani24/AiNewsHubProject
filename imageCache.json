@@ -122488,5 +122488,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/india-s-exports-to-us-hold-firm-after-a-year-of-trump-s-tariffs": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcno3djJNY0V5T29ub0pxZUU0dDFWc2JBejNtUndwWjRpSVdQR2pKQm5Ta0hlUFp1QXRtNDdYbmdQZ2FHWWczOXJPZnRBUFBkMFkzLXBqQThqT0JJUGFRN2VqSm9lNHA5aHJlY210UzFGMXRjVENEaU1KcXExdkpmWFFkQWgtd2VfRkt5UFNFRGRPeW9wM1MwYTdFSVA0eFk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/19/us-and-south-korean-militaries-agree-to-shorten-drills-days-after-trump-ordered-reduction-": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/fesharaki-oil-s-real-story-lies-in-products-not-crude-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelMzdUVfT1BWQWVrZjUxOFFLQm9rZlFUejlsQUUwbXd3MWFDSlV5UUZqNTVoalR3dDZIREIzTF81N3h2VTJuQi1ZTV9IZV9IckE1ZjZibEF2ak1mRDFSeENMazAycjFWd2dTWndKR1F4dFp6TkV1cmYyWC1qSE1mRjBVc2JjYzdTY0tQRWVXYzFkTHNnTlhiRlhmM2hKczk5aDVRZ3NoQ1NId1RoaDdvekJB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWDltakpSYnpMQTlmZ1N0SVhqZnUyUmRGNlV4TThzbld0QTAzaFE1b2NPN0tIb2RDaUJkS0hySmtjTW5RTjA2eHl0b1NIaVpZTHN3NmVKSG01T05rQUl6MFRFeS1yRVFScU9aNEJMdG5RTFdzZmJwUmVLd0txeXlrU3JNaXN1ajhISEtZeUdsSlAwR1NLUUJKNFNNM2lNY2pSd0F3a3QwTGZaLU0yV1JCdg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/attacks-on-aid-workers-hit-record-high-in-2025-un-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/lg-ai-research-s-lee-on-the-importance-of-sovereign-ai-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43UzlnemlmZUZnNkV0LXREWnNZYjVIWGx1MG5mT1Q5d3hiVDVrSFBmcmlHNFlTMDZzNExMUXloRUxvVjdLVmVnVHNNUklJVUNsMnM2dk5R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
