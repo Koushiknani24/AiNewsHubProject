@@ -122890,5 +122890,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/france-expels-2-iranian-diplomats-in-escalating-row-with-tehran/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/19/first-jellyfish-museum-in-the-us-opens-in-pompano-beach": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/egypt-bond-risk-at-2014-low-shows-decade-of-debt-distress-easing": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/19/nx-s1-5931946/australia-and-new-zealand-send-over-240-firefighters-to-help-battle-u-s-wildfires": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQlpiMUN1cGdQNk12aDhsNU1uZ1N4aEFDd3JfSXozRlFiS2trZUM4WnhwQjdPTVhCZHdhM2VXV2FJNG5jZVd0VVRGeDVXYmtqTWNGbjc4c1FkZXhpUGw2U25jaEtEZnRGeW1JZE91V290OXZQRFN0ZldCTV9qcGZMRjFmYnFrN1VzTkE3NHIzMVBGZGtXUXJXT2NYRVM5Wm9MQkdfaU9jbU1QdERsbDhBVmF3RVVUNTdndWNSYW9OMlBjNnNoS1RUZEtmdnIxYnFzcThHNzNVeXBydENDVDNHX0p5cG01RHg1eUd6N2FnTzk3eXAzeFB5eXNXbEs5M0ltWXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/turkey-slams-israels-untenable-claims-after-strikes-on-syrian-base": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYkpPV29LX0p3NlhITEpZUWZ6ZHlBUUs1M3hvUHo5UUZaM21pSDVkeGZTYk5WNVNWZ3ZCMkJtY0JkcjJJMF9hNnQxc2NTU1ZscXBTbWxCMVpLczFocEJZRmdQcUZvT1BVRkltSlJTRjVwRDlSbnk4WHZMX0lqcy1JOGN0NlZUbm1iTG94bWtNcExlRmFoQXlFbHhGcDJDVGd0M2l4OXNtQ0Y3d0hTb2E4eGdaRjd4SU1SRFcwdUxCRWJFOW83ZHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUt3ZXRqcFBvNklzRHVsMU8xNU83UHNjaEVlVHpmSmxwNTluY1B4ZTNZS1BPaFFnZE5mcnNGMXU5NGFscm5vMWFDOFVpQVVPM3dhbHROcVFtcGM4VFVfbGJaUFBSb0dZTGt2blFCT1JleUtmOHpNODJSckR2d1UxV0tSRGtUWTc3ZVV3ZTBXYTJia1ZlRHJDS0Q3RzRDdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa09mb18xWmdkNmw0WGVpUnVkbHdRTXZDX2hmM1hOVjJWbThPRGp0d0ZKVFRQLVFHLXE3TUg2MzEtaWFZV3J5ZTBhUWlabUpVa2NsOWNURDRrZnl0LVFMMUROTGlHaVoyYzh3MzNkam0xTkdJUVVMUTAtQXZWMXREeUVCOG1hWVlmdTdYZUZYaWd4OTB4RUcxVWc4Uno4ZS1iV1ExcGIxSjJlNms0bjhJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZEx6S0RLakV1ODJqOWNNT3VpOEVOajZHa1VmRkZhTnpvZjJ0UDVyX2RlYTdCN1NWZ0VEamwyTUIwVmRxVkhHOTVTSE5KLU9GTHNVVkdKTFh6ZDJEVWVTNEU4VnVIdTBIaUlZNl9PaGd1M1pxcVNXQ2Z6OVA1cUR1NUVCbTBjYjhRQTlYcEJ3RFFWX3F3bGQyWS1hbFYzdnFH0gGmAUFVX3lxTE9IcUgxdmlaampOUVQyMnQ5TVlfVFRvdF92V0NiODBCM3dscmxyQjFNYUJyNkdka2tuTmg5UEhZUEVZR2U5bGJyVzhjaVZqdmNMdXZ3MzZkTGw5N3JwdDVBUXdNWWlpVWNaNDVVWW41RlJPOUszdGpYaEVLdTlBc05icnJpTE1hMzRxNXJ1N1dyTjJXMVFyTUdscGU5dnBZUUhFc1J6Qnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHE0bnplUllrRlRBUDdza3dUWWE0am5TT3ZpNGFVYVFPanU5ek1UaDNEdUZUTmJBNWJBUFRvSWMyYU9BanJTMWdRS0FEbFdXTVd0SGNBbUM2WXF5S3EtdEhib1ZVYldMQWJyZHgwUTFkQ2p0VXM3bWhjaEZDdEg1cjRMLUdqQ25YSXlELWlaZ3l5WGxJV1BUeTFnNzhqWkE2UU9TUTZERDF2RXg3NWtKZlp0Vm9OMWcxME01Z3FMZW9WRy1W0gHMAUFVX3lxTFBvRElVTC1fZzF1c0lVaks5VXVuLWxxalpjQmFEY1VlNk1fSXJuMDFjc2dpVUxydm9UbzNDX1ZXUF9SeFEyQmZPRXNnMUljWC0tdFBDZWFHR20zYnZTa3NDZk40TDA0R0lVN3V6NTk5U2lwS0V4ZUg0S2tVVGtkY1AwTTZVWXhfUmpqeHZ4TnpXYl9sRm1CeFA3OUNUa0YxOXBqcjRMbldwdWZRX01qYklhaGFoLU9pN0VtdDkwVUl1SVhEb1NhYy1Zb29YZQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
