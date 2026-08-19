@@ -122404,5 +122404,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/motif-technologies-ceo-on-business-strategy-ai-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/in-911-breakdown-hundreds-of-calls-failed-to-reach-bronx-operators": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/18/trump-hits-pause-on-new-canada-tariffs-01041402?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/rebellions-cfo-preparing-for-ipo-in-korea-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSVzRzV0pmSjNzeUhGdzV4Y0E5TkpLU3QzaWlSeXZkbl9qLWtTUVdTaGVtbnpDT0Faa0F3RVZDUU16R2pfRWtiTFR2QTlmWGVEVU55a0RhLXpWLUZuMEVHb0pRR3Q4c1lQSGhDdjJHYXNlcFh0aWxLeXc2MFFyQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWUFWeWppQ1NrZF8teDd1LUk0RjlLM2JPZmVJb1MtM1UwX3ZKWU1ya3pvQzd3THFWVGg1OTdBZFd5bjVodElmMFMwMC1Cb1RaeGp1OU4tZm12Tl9sYXJfYzFPQXJJMWs0XzgyYjM4bVltdFZvcnQwc3J6V1hlcnNIcEo0clJSc0d5aVhjZXJDaHBNR2VhcEg3V2c4OVhhb3I4aGgxSW9IT1Y1SjdrcWRLYjdNUTdfTHFHb05HdGxUZUo0SVZvcmhRemcwRjludWR2UEIzVTRLalkzeWth?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-says-us-and-canada-strike-deal-temporarily-pauses-tariffs": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV0IyY2FNUGRTY3VvWTlGam9KVUJLSDdHOGYycVpwMndXUmg0eGlWSXlJdWhHMzhPNFc5V0ZFeGRzRFFqa0k3ZGt4cm1ia2kxSHUxTGQ3VkltOV9iNnpEWjE1RHZ4bFRlWE53TElZWXJKRU5vclRFODZnRmxQTzlDNE5McUVMeXYyUlNOVE1zcUlvN2VscGg1RXFrNE44eWlEMHI0TU1hU2prdnR4MW0zRDR6blYxak1uM0pWU1h3UTM0bS02RmNRSFM3SnlkWklBYUZtN1JJVWJoYzFOc3ZNcWRhUlg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WSzY5SDhNaG5RV0VXZmNwa2oxdUVHS2F0MXB2RHRIOWctSkNvNUVrRk9xaXJuaEZCV2JINE44aVdqUlRja3F5U1J4Mk9LN1NkNDVJYm1IbmpaUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTkNHdG5tOS1BRUFkVmV5Qk1OTnI5empNZ042NTVUamxXT0dpRGlCeEo3cF9McVZaUnpnV0JWTlI5ckNab0dhdHMzY0JSNWE1X0J3cnMxSmJQWjAxc2swWVEtcVRIZlI3SlFfX0Q0M2pUV29hM1lieENVRnVJZ0VzYzEzeDV1RUhLOTdMX1VKWTZLbksxTHAwOEs5T01BN0tFRXZxLWY4RXlIYS00NzcwcUpReUtPTTdjNnAtTlVBdEZGSWU1dmJNcFlvSXlvblU2aVRpeGVKV3l5TElkOUdpdFRaSm1SVlFYVDhoYUtoSnRyWFNZbU00TFBFNTk3ODJyelJ2OFpLY9IBjAJBVV95cUxQcUlfLV9pTkNSS3lCWXRVMTNrSHZPNlNTYU5McGcwa1ZZZnhteEgwV3dod1pESE9tR2JwbzNMQzMyWjJWNEZQc1NIUWFWYkttX2lqUlhMT1hmRzRMUnFCeUZELWJEUEJEQWFUazVjNDdhWEM3Y0xwVWF6LXQxYVhlQW9Kc3F3Ny1sLWFreUp3Qmdadl96MXRZR2NOdmFIckxzSEpNbkt3em12YzFjRy1hb2ZQOUJOTGRRZ1NWTlVtLVBGWEdYVzdiYTZYMC1sYXNfbW41MVJySEtIM1M2LVhuQUhzNmcycFp5OHJDQkQ1VmxHc2JTQ3RrbGRzU3M0OGp6dm9lUEIySUxDbWd2?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/india-stock-closing-auction-turmoil-clouds-bse-s-growth-outlook": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRWNvZUFDY0ZxTUxqSGticHRlV2J1ZUw2RmNaTWdwWjNPdmFab2tNQWdWNnE5TFNneV8wLThRSHdjNTVIcWxYOVZjZUk2d1VXTUtOdXphall3SUxsLXNxWkxGM3FwX2haM080Q2I5cmREeTlYbGVCMWN3X19wV09wLWljbFk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/19/trial-begins-that-could-force-meta-to-change-facebook-and-instagram?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
