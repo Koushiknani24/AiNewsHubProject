@@ -122968,5 +122968,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3E3QzVIal93R3RMUW4zbldTbWc5aGZicVZUbVhnb0ZzcEJ4Mm95MVJZTVhFdzR4V0w0clcwWUFfV1Bxek00QjV6UXZJYjJmbHZlNHF0SE1ObDdmblY0YXZGN19WdkR1YW5yLXB5azczQ241b1B5OUlfVEs4R0lNbmxPM01abFBmYW8wQlpld05VbEF5YUNUVGJB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxQM1NlM1hmeFF5S3B2ejIxX2poWk1aZlRUY05EZFNGVndJZzV6emc5cjl0aTJMZmZacTUydEVFYlkxMDVsTGozb1JwMFA5YjFWT0ZPYVk4ZzFQUlFTazFrS2V4NmxQWE5kLWRJeDVFTlRxM0ZPdkpQWEgtYXhHX2djc3VWN3U5V0FCeUdMSml0TENKSmNwT1VKcHZROGJMcGRoNTl6Y0RRR2ZMV041VUp1STdtaExNX3l0bjItbzdzVDRyV0VNUnVaVGpkam1jZVhtZVJzbTNqMWkwLTJYVDRPTzNmcTN3THRZMU5ONFVSdHlTOC1weDVkYm5td1R1WXdXNUZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xSjRHSU1NaVE5eVJuSG5UcEpna1VCdDNWRzMwN2w5eDBtMmU5dWRiWTVYS3lFMFdUb0E3SHAzVHM4Z0lkT0FnM242RHBkZ3NWekp4UjVxdEprTjBNY0Foa09jd2ZWMmRETmJPSDZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSExWV1hETlJnS25mVms5dFEwM1VucTVJWDJOZEs1bmxGeVlXbVphNmRRTy02eVhiZkNBa25EaWhQMXcxeDdHNG0yYUZ4N0hseVRXY3ZQc0E1bk82YVBsV3RJUHVGMDdFSjBHcVdmaXlsUm10clhJbi1Wd1ZlQzZKY0h3N3FsTVYxd1RjQ2k0ZzZVdDJ5dy1yb0lIYUJpZW95aVB5eUFJR2YtQl9JcFUwOXp3RlMwM3oybVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/magazine/2026/08/19/bill-clinton-80-birthday-life-01030323?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/south-korea-says-donald-trump-blindsided-seoul-military-drill-cuts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-2026-fatih-akin-ghost-song-opening-film-1236676846/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
