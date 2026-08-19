@@ -123136,5 +123136,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/australia-erin-patterson-mushroom-murder-appeal/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/aftershocks-rattle-spains-granada-overnight": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/russias-pivot-to-asia-takes-a-turn-as-it-prioritises-ties-with-isolated-regimes-over-bigger": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UWTI4Sk80SThFa1BZY0J0OGJBRlpod1ZsU21uMFRRZ0pHOVQwdXQ3bTZqX2lhR1BtY2ltRjRhMm9FWXZEelBDc3BwMUEwZHhTckhBMnR3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/france-mep-raphael-glucksmann-announce-president-run/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3304442/migrant-child-registration-probe-expands-nationwide": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2I2dVFnVTd4MHlBNjBZd2tOOG0zTkFVTzVZbUdxcEdkMkNxQmNtMGxiLUVDS1A3LVlnVVFncnM4SG9SOXVLUmhlOHRpeXNaa3lzSUVIRlh3eHQzVENZVHZTM0liQ1NLRmNtYVFsRVdMMFBac1N1dFUzVnpfbFg4U0RYWWY1MVpadi1vc21NUHI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/19/russians-pull-billions-from-banks-fearing-kremlin-will-seize-savings-for-war": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNenl2d0VOSTJsU2J6aEhRZ2p5WHlDZ19yTGEwOThadEdKZGJRZW5kTWpFVVhtOWZVUTIyWk1oZ2lNa0Ixa2RrTGFuTG1JWU1FNTNYdGJLVlI4d2JXTHF2TUNPU2lDRHJ1LVpvSVV1TThlUEwwSml1S3JRSTZEekxfZEpPZXlXTHpGalVpYmRqTlZYRHFjT3JpX1hZN25ObFVIbmdIVFpfbm5JVTN5RVdYZVFxSlBZQUVKLS15ZGE1MXFLSlpjS1Y5Z0Y2RDU0XzNpWWV2Vy1fLVVwM2Zidmx3Q2ln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
