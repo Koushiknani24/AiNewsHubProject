@@ -124954,5 +124954,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/19/trump-south-korea-snub-region-scrambling-01042987?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xVFNSRk14WG52LXE3MUlwcUJzQWFIUU8xbXVFQ0o5OGU5U0d4MlUxajFxZmZ4LVU2ZmlYZXBieVdQUjZONzlDRmhKc1NQZEdnRmZ2cHdIb0E1UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeWEzMWdYajhDWGhCeVBBVGY3VWdCbkFzOG9JZGQ2RVZNMnpBdEhKQWJMeWlRbk9LRUIwT180dzh1cWNsTjROdGd5RnUydlFtYU9DbVNsMkJiTzV3bkxzOEJuaVNqcnUyUDNrdVMwY3hkQlRhdC1hZGlIYUtGcE11Yll3ZVpfbllPMFFJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/dea-joins-investigation-hayden-panettiere-death-1236677456/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/gold-holds-near-4-500-as-us-treasury-buyback-sends-yields-lower": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxORzdhZXdtUVg2M0gxUnE5R0l1SVFKZ25hd084djZkcHpMbzQ1a19qc2c2a0dFWjQxVE5vSXNxWTY5d1VjaUlVSUVySUdrbVlvbmZ0SWl1MTlKRU1ZaWVGZE8zN052UmdOZ3QxWi1meFZ2RDJ5N2FsTmVIOUtfUWlFWWRHSjc0ZkVmWW9fTnd2OXctVkxpOC1EcGN3VzJTcmdrS25ndG1NdDJIOU5weUp5YjV5YzlTZkdwV1k4LXNnZU9uTlZlT1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd1otanVnUVIyUzE0SW5fSE1qQ2RMeEt6WU8tcFFrTUVsSF9ydzFMTDhQOFFjdDdxVU9HV0wwc0RqY3NtUk1pVzFaUXZOMXM4clhFTmdISzhuMHktRmlDQkVwWWhTZm1WR2JnSUJRV3pzelEtUjNPZjZxcmFxcXhHXzd2VGN0RTViNGEwblk4eDFZaVZrcEJHSXNONnBEWG5LUmFxelhudw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
