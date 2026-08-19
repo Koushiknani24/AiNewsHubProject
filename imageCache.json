@@ -123364,5 +123364,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-kim-jong-kwans-the-table-day-and-night-opening-film-1236676903/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608190428.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/what-s-next-after-chatgpt-this-ai-pioneer-has-a-plan-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/pakistan-could-ex-pm-imran-khan-make-a-new-deal/a-78429070?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israel-opens-criminal-probes-over-killings-of-hind-rajab-and-gaza-rescue-workers-military-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1bWhhbUlnUzktMktLLVZOYUVLQWtqQlRVdVZDSkg4MGhLY29XcWxsVk5RWm1rdWlCYXdGSC0tQ05JYlRtbVJEMjdqeTZfVkpNdHhFMFNxZ2dNSU9IZW52TG5EN01jdFlxTmpCckhn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/19/bodies-of-two-belgian-climbers-found-in-swiss-alps-34-years-after-disappearance": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZzQwb1J1Nl9ocjZ5WFdLV0VLVEJxckNKbHVlbG5nQUE5czRhZFRKS2cyWDZMVkdNeHlJQVViQ0JGSzZDOUdxUEl2UE0yc1I3UDZLQWhJQk9CcG9LY2t4Y2lKanF5RmhwRjBudjVDelFSMnFOYlN6c0RUaVFpaGV3WkUxRWRfcV81UnlNZmlEMHdvQnRTNGdHclQtZW9QR2hWeGU1VjNXLWVJZm0zYVM4cTdNdVpyNmF5dDdaWEp6bzFST3hWNWpKTjJpV1hMeXZyZy0teHJHREFoT3RnSXRvZUhCSld4VGV2Z3FrOQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/19/iran-executed-at-least-900-people-since-january-rights-group-says": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWVPcnBGMGkwRlRFZGRuRWxwa25fdHZMU09YMlNpVXFLUXJzX2Z6UG9NdUo1cXVRLWlLUWNNVXRmTVBHNTFSRkJ5OHVLSGhKRzQtWWM1aG9iRzlaTnpYN1cybmdITnNuQldBQ1BRc0h0LVZNUWxtNUZYc0RoSkdTMlVBM1VqUUJ4U29IcFZNd0dxT1dmTGdadzVYLXBXbkRh?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/8/19/chinas-unitree-soars-in-market-debut-as-investors-bet-on-humanoid-robots?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
