@@ -124036,5 +124036,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/ai-costs-meet-britain-s-inflation-problem-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/student-attacked-after-reporting-drug-use-at-thodupuzha-institute/article71365894.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-warns-siemens-devices-can-be-hacked-amid-fears-iran-is-breaching-water-plants": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/anthropic-pre-ipo-credit-facility-to-rise-over-10b-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-accuses-naidu-of-deceiving-bcs-on-reservation-quota/article71365267.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/unitree-robotics-surges-in-shanghai-debut-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc1dpazMxQWhmWFZyVUhIQXNzM1V4M2F5d2hqR3ZaWTV6LWZRNnBSb3dYd1BKWXBEalJXSUdQVFFZVkZxUl9wc0dCYlFCVlVDMXc0S1ltVHptbnh0NUh2OC01czRfaDlPVXR5V2VCVlBLZnlPSnRKY0h2YmdXcmlfQ0VfU2pBdS1IbDRPYXgydmlWenE2NUxfT01ZZkQ3eXNleVk2Q1FMdGVoZXY5ZW9yM9IBtgFBVV95cUxQNXhLbDEzN3MtYlZnMmtxanBvN2lZVGVvbE4tSHVvNjNKTmFQMXdSY2RnTzM5clViVnZCVldZcENsMElwZ1dFcUJjNS1mS0RhN3EtRkFaSEZtN2FRU0FoSGJwdFNFRG9PNWRkU1BNXzlRdDZzTDc0VXhOYXNLMXRLclVrdHhoQ0kzMFNwZXV0QTlBU2tZYmFkam5hai1SNk95OVRXNXFjbjNkTTlLamRhbDlEeG5UQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSzNTUUI1TGo3NmR4SXVRVEJaUVJ6ZUhrZHRpZXFkV2YyUGxNMnNkOHV3SEZ1dXlvQ0I4SVZ1QTJwS3hIaEl4eGZUQ0ltUjB0TE9aaGwxV1BQdC1wRUplYVNWUXozVG56R2ZsamRwNi1VTFM1WnFGSF9UenhacnhLeEZDY215OXlvMGREWkRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
