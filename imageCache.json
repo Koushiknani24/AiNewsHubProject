@@ -124744,5 +124744,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnA2MnprdC01ZXZreGxyR1pZYl9rTnVReTZ0S2ZiZ3FMcGtabktucW5nT011Vm9aZnNZbHBpX0FkenktVXJnWkluOGJYaThYMHJPcXlwN2F2T3J0dXBaX1VyVXRQU2pESWtEZmo4eDRPTzg5U1JuSmZOLWJuNjFwLXZ5NUJzMk5nb1l0ZWNVOTAzSk9hWnhSZ1J2UGlWRVNBYjJkaHJpbEYyQkdtR1VEYg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRkhwMVhsSEVrT3R4VkxZNnk1Z0lhbG9vWGMyVWFSYnRYNDdPaEptRHdhVHo2YTFLRUNwSkMtSFVYeVEwVnR6Tjc1RlJLTzlFNEh4anplTFA3MkpoY2VWZ3RvR1B0YnJDZUJJNjlpZXI2QVlvQWFKZ3lZTVVZLXpyeXdxbmh0YVYyNHNOZ1JWaTQ4dlZaY3JIUlViSVhveEpkd0Y3Vw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/latest-oil-market-news-and-analysis-for-aug-19": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFhkMHdadzhkcEQyWmQ4ZkZQTXR2YXREWkFfTFBFWndUY1NuX1A4RjFNcHFCaS13RHlaQjJ0VzVCSng4M2dfUHVYQWJZUV85MXZiT2EyaVFSRTdzRVZRY1BKZTlPS05UQzQyRjFmQm5jS3pKQ1FoOURpRVpEOUdtaWtuM1VpV0RVaXRLd0hLSmg5YS1BRXFSNVVMWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
