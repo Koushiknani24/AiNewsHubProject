@@ -122176,5 +122176,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/ukraine-launches-nearly-800-drones-into-russia-targets-moscow/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWFJRUXZvZmpLSG4zMUJSOGJjSkZQNnRVMGZzSVZVeGZXbVNLa3FzSlhmZWhBUk9zaUJOZG5zZXE1Tk1aVFBSUjZRbFV0c1ctcFNiNDZzOGVjS1VqUlhGSHFkcUlOVmZnekJVb1V6M09kcE81U3Nyem8zbU05QUJnSUhCZGlvYVY2QVVJT3RFZ2U3TWhkZ1RiNWthUjVOajNvV2sybFM1cl95akRuZy1nUThYd3p0ZHBMbk54bHB5dVl1cm5kZGYwUTR2RGNXeDliWHk3c0JVdmZiYlIxZnBMblV5ZEZuSDNrTG5yMHBxOHZ1YVBEZ0U2VHpBYzdxbnBaTVZZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/trump-takes-hard-line-as-hormuz-tensions-mark-new-normal-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/banking/finance/banking/top-10-private-banks-cut-over-10000-jobs-in-fy26-as-ai-reshapes-hiring/articleshow/133330763.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/harvard-to-pay-68-million-to-settle-lawsuits-over-theft-of-body-parts": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMG8xLU9pNE8yYnlERUJkNll6VnFkWTZLaEszaVNydGViM25oWHBJNWtuWHVpWjZ4X0d5am5pckV0OHkzZTlTOWxxT1pMX3hmVDFtbHRNd19HMDBrUDlxSzNvcXZtMjJWbDFsZk1Kcnp0OHNZa2RaWWZZbXFCQldIUmxtQU1nWDhvTmtPS2lSREZ2NHh5WV9pQmpzX2JsRllR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
