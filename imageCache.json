@@ -122686,5 +122686,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/19/where-are-portugals-priciest-homes-cascais-leads-with-prices-of-435-million": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSkdYWVlvTmtzY1o0RDVCNmFRVEh6dGw2elg1RXRzbk9vREJaVWdZX2w3bjZmZFdtNEk4T1MyNERrb0ZtWjQ0UVBnclo1RlY4QmpNRWdqZC13U0hpREd2cVljaDFRWFVZU05nbm4wb2lzdTQtejRBd2lZR0NkNlIwMnI5anhwTTYzanVIMTRhS3MwUHhwcEJIMl9mbTczb0VPcXdJTEg3UkNQM05sazdQeTZpb3ZFWVZMUDNtNWhUdUJqX1FLUWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcnQwbThobVdKWlJuc0tRd2pBc2NPczQwSTFLNnU2SUFZYnJXMHAzNDN5QnJjaWZnQndoXzZ3RnA1TnFRQldPcFhfLW5zMGRlbXV6UEVUQmFod0V1Q3p2czdKbDMycC0tMnltblkxbHBtblFhY1drTk9JdnBQOTZodWJSMFV0MHluRFZST2h6Nmo5UUJicGJ3ZTk1ZGNMWVdLMWxPUV9oQTN4LTU2ZkU2c2FJcC00eTJ1?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trumps-war-on-tariff-evasion-could-turn-into-a-battle-over-global-manufacturing": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608190138.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fR1lNM2lVdG9Kak5IZkdlRWgzQzNVUHVrRU85ZUZ5MzJNX2hkcktWdkt6aW9jMmhjRDhEbUxnQktEbHQxXzFMbGQyT2xtYTJmQ2E0VDU0NTRBOHpuRjNCQW0xZmlVWENybGgzVGd3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcS1Ja1VLdlEzZUhzYzdvMWdHdXZXeU5EWnhKLW91LWZ5VGdkak9wdjJ5Wk82Mno0bGpTaUtjaHRTOGpOdUtqdUJOSERTUE9KbmllSXJ2bGhkWk5CSUMxc0JVQWQ0R3UwOUR6LVFhS3BaMTlmNkNFNWktZ2V6NTJNQ3lHR19BNXQwTnc4UHJ6d0VTcDBNVExqck9xTE8wa0FNRFJLUk1UV3RKcDhmeXlWVWt6Y2R0SW5BbzNSWVcweTFHR3l3QUtIeHprc2U0UklNODB4bGczVmRfWFl5X3NhTXJDbU1CYmNrVURF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLUJjTTEtTzh1UV9XRFhLNDV6REp2am1wNmJFYmNUcHYySUZOd3lwb05qNG5qa0JEd1hjcTdYU3VxbF9vb1R6ZGRYSm16aG5nZ1huV1p4OVFjOUdyZGdGTWoyYzVTVlpPNmFuOVdvLWIxWmh5Z2FXX0tIMEsxeUlYcGN4bmpSZUVJanhJTXZaZGlGbFVPd1B1RnBwUTBtQmhmZUx6d3AxV1laQXZydzJKSGtxa2h0SkNmel9GaXcwVENGMnlqcm1UT2F0TFZaNzJQazdJZFNIVWVWcWI20gHiAUFVX3lxTE9IN0MzdERsX096TWJXUzgxNmczRmlTTXRIN0g3RWtkVzVIWlNHNkdDc2VlSHpLZ2FpaTNYSHR4akhBbURjaDUzZW53cDQwQmQtMndKUldNMDNwNnNJajN0MEJxQ3NfQ21oR1ZhOE0tbWlpT1FLTkN1TmJra3BocFAxVV9wck9BTEg4bGdNQm9XajQ2ZDA4cVpYTHUxa2c0dUVZcmN4QUFvLUphaGt4Ukljbkk0aV80anNubTZrcXJQTEdCQXhvYy1VbkZCejNpa0h0ZnhFWUw5dE96dUdMUjZIWlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVWZNWUZjTEhLYUI4VEU2UlVVMlFpRm91SUFvRkJLU3NhVGRQZVpoekFoVE5MdlRyLXN6czZBRXM5VDVBLXo2UVloajhYdEVZdVdUQTlYckVOaS12TFZGa01DYlg0SENuLUUtdEVjQXdaYmtpcUowalhoQmszYXh2MlphREdoaVZjMDdwT3BBcGxRdVBSR2hUOFI3alR6OVhhT3Z4SzJPamNjQjIydm4ySFBGU2k4X2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3304387/flash-floods-and-landslides-warnings-for-northern-provinces": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/19/australia-mushroom-killer-erin-pattersons-lawyers-point-to-jury-irregularities-at-appeal": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHBtekJyZU9aX0R1ZXF2ei1GY2x2YW5UZWFWQm1lNkthOGhtUUh2LVBudHJNTXBFbHJuRnA5empjTUpYLTlTVDE4bmF3RDFWVzc4b1ZQeTR1ZEw4MklhazhzaDdlSE10ZThvRlFiUEtmNVlEQ3hqREZwN1Ytam5RdXlWeVNpM0dmWGlNM1lsQWRPQ2E1ZXhya1ZUY3Z5NzRtTUdBbjRzaFNNeHd5WWZhQ1dR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
