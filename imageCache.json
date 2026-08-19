@@ -122554,5 +122554,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608190091.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/as-campaigns-begin-in-nigeria-tinubus-re-election-bid-puts-his-party-on-trial": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/carry-traders-pivot-to-swiss-franc-after-yen-volatility-spikes": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/": {
+        "image": "https://www.google.com/s2/favicons?domain=nasa.gov&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/19/trump-says-last-minute-deal-reached-with-canada-to-delay-50-us-tariffs-on-imports-from-ott": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTWpEMGJhLXNDbWNhZHhpbXoyenkyQVJqSnJ1aE1QaHBVRzF4MnFUTFFQNUE5cldZNHg3LWJXTGYyZklRS3hNendIUnNQZnE2MVNfX3NZeTUyQ1d0MW41TERIOTN0ci1sQWpoR0liMmZTT25OVTdIU1hPaVNSV0VnN2c2VWJGUlRHdEo5cWIwUFNCQ05PQ19UMTBxWXVYaXh5bll4cUVKRkppOHF3Mk5zZlRMYUxxVERsSUtGaXBKcnM0LUxpRWkxa1gwN19jaG1tS2xtUC1NcDl1dlcyMTdQVmVscWZtZEVKR3pFYzloYk5RR1U4endaSU52UGV4V0pVVzBzUm1NTGQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtOXVqLTRRdlRkQ1YzLVNNb00zRDVVNnhUSExlWEhQRnBzTEFjMi1pRGNhV1F1X3l1UGMyMnIybU5xZjVCQ1N5MU9YSGVWYjdHRTdfNG5mNnpBTHpVQU5UT1V6Ym81TUg5T09yUHJFX3l4T2VIQTY0LW1Scmx0RVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/in-drought-stricken-france-tankers-supply-drinking-water/a-78420016?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/unitree-ipo-why-investors-are-betting-big-on-china-s-humanoid-robots": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWNXMVVxaTdZV0QzTTJvY3M0dXM3SUxjN1BjMS00bzRTX3NVem52MWxSdURyc1k1aUttcVFuMXpjREp5S3c0b1p3dEU3c3ZTUF9kcmw5YkhZMy1BZk56aU8tWW90ZWFCdU1rUFMzM3JQbHBUQVB2YU5IRVlnc0NhN3VDMjU2dlM2eXlJUmVDWGc5c3RPVDlsQWJGQ2JTR0l0V2stS0w3M1U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/attacks-on-aid-workers-hit-record-high-in-2025-un-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DTWFxTENXVl9Gdk1vNWJneTVmeXZsSjltWjBPM2ZRWlR2djhQY1RNVGkyblVTY1M1Uy14dmZxYm13VHU3bUtoSUJkbGRzZmg0cGhOeWMwVTNjVWxkU3pveW1oT3dWSWZJc0ln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
