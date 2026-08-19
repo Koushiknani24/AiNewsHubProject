@@ -123592,5 +123592,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/action-against-sfi-leader-in-calicut-varsity-snowballs-into-controversy/article71365390.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/lerner-give-bull-market-benefit-of-the-doubt": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-moves-to-ease-subsidy-rules-for-small-media/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/suspected-sabotage-attack-fails-to-disrupt-milrem-deliveries-to-ukraine": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-leaders-back-icc-president-tomoko-akane-after-us-sanctions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-19/sdc-capital-is-said-to-consider-1-billion-singapore-reit-ipo": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/india-cockroach-movement-takes-aim-at-government-schools/a-78431291?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigJBVV95cUxQT01wX1cyM0RYWVJHU3pfbzUyLVhnTnpnUU1fdjFnY1V3ODljTTlyTVlVcWYzb29STkQ4OU9TR29hYUlDN3R1SkNCTUYxTWMtTU96NWYzaGkwZUYwY2d6Y1doS0FXZ0tJb2ZXMDI5WjBrQV9mMXJlXzFBcXlxVHVIYVMzWTRLcEdBRG42LXdXTENBdnZEVDYtQjZZR2U0VVRtT201TXYxSFYxaUtEWFJha0lmNEU4RTRtbTRMRFQ5NUxqc2tVWi0yVFVya3lDQmFsWUNmdmFUTjUwY2xYZzdlaXVrNDBtN2NjMHFncGNZZlROWUxxR0lIdzdIemdGSGthQUV6OHMyRmF2QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52Vm5SNlVvMGNzcDRtOFRGNXFXa0pCS3RkZGlsX2E2eE83Q3Z1MWVoY21MM3F6VXg2bDFhSVQ0YkI2RmpBU0FxMkhmOVRWSi1qaG9XYVpaRmdNdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ05LS3NWZ1pVTk9rU0pycTcxVnhPU2U2VE0zbnlKdWhZX0doQTAxSkZsTTlkRkVZd0ZnSFpUQ1QxMG1qblpMdnNGNHFzcHpFTU5ZY3EzYXBINUMxSmVOdDVrbC1aLWdwMWVXa3FWdThOYllkN3JMakxRTGJBZU9nMFJCZjNCc09rQmstdncwX0dxWUJEMW5UZmJmcUpJZG9ycWNhSVdTMUY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/cricket/chennai-to-host-duleep-trophy-final-from-sept-6/article71365751.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkRwWHpvZGViNHNOXzRLUVFWNk9UdWxvbW1jeUJ3aXlhbkxwcnNIeF95eGI3cmJsZ1hNNDJYaVlPdTE3R01iSndzOEpORXhIaE1MQ2lsVXh0Q3JJQVpnQ2Q4UllKTUJUNk9GNEpvNWd6eHZGZnNQSUxPWjdiOTJYZHN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/19/seven-dead-after-tourist-helicopter-crashes-in-northern-kenya": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
