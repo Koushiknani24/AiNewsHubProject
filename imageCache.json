@@ -124492,5 +124492,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/ex-meta-executive-says-ceo-mark-zuckerberg-put-growth-before-child-safety": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/breakthrough-mrna-cancer-drug-curbs-melanoma-in-large-trial": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jbksxN0h2UkM4aHh1UHQ2c0J1dTI2VGtlN0UxQ1lKQkV1a3BUdnB2MGNXQ1kzbEFLUjZQR3dqYnlZcGVYdGZrQkNWaTU2SHkzTERMOTVvbnpOSFkyLTROVEFXcUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2I5VUo0cWlLNnZ2Vnp6dlMwcnFsc2R4ZElfZFdFN3VQYTE1MnFhc242TEQzb1BmU1duV0NnSWRuSzBVajN0d3VIMkVuMG9rSmYtNFd6MF81cjJRWThVYjRXamFfWGpFTlNvbGpKUFpEWXpXQWJqTkxLRld1NzBUQnc2dnhpU0N5NDF6N25QV3J2bFA1cW9TdE9lWHduTGRmV0RoV0pESF9SNEJEZWJtelIxaXZUUXNKajBB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS2tmMjRQYVk2MXZObEhXb2Q3UFdwNGJYelJ0NzRZa2E1VFN5YXppTDdyOUU1Q1drQ3FxRGR3dF9TOEpjbEZGS3ljM1FhM09aYmhtRUdHdGRNR05yQmNFMWdtT0ppX2tMTldzbDBLaEwteHNrVkZaX0k4YVU0d053dUR1SXRVVWMzNXdIa21hN056Tk5kYnhiZTdPWm95RUZnRFFSV2YxczhtbXpmTFctUG5GeGJQQnozYlIxVFJZSkotSWpUMDgzSG9qbXhqOTRkWDN6bUNjSWxwaUJVVFhn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-19/mark-walter-explores-selling-stake-in-chelsea-fc-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
