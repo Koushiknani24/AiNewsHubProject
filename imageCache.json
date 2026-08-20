@@ -125878,5 +125878,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-20/moonshot-zai-close-to-openai-and-anthropic-model-performance": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY1dFUWExUWptS0RRY1RzekljdGZEb0pLLXRpMmdnblVNLTVvajduMDF4ZE0ySmVLNFBRMDlEYjAxc1hGdUQzV2RUaEVURFAxbThsbUlKWTFwMEFMeHp2eTdLSXkxMTk0cGgtSmFIOGRzLVJTc25mUU5aWG5jbmhvT1lpeHhjRWY1SVNLUzFEV01nREhG?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbWl0YXZINUxkT2QxNzI3MWVYeUhUVnRLd0dPckFNS3VMcHR4RUJBZFlXX3ZTRjEtNXBPRjNXbW83OEc0Rmp6bk51cDEwczc2aS1KZjlxdGxvbnJCWHBia3FmckZYM0pDUGhRWVdhNDdoNzFrNEF2N29qcU55dFd6WmI0WkFqQlYtT0g4dXhhVWRMRk53bDRXalpGclVyNE5ZZ1NVVlZQdWRnZFFucXBTajFibVpOR3BKS2xDaGF2a0hTdVFXMzZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaHBIYTc5cTVpQy1HX2JSMlByMlpSbjFVZlBJRGVEbEgyWEhwWF9DdXhWNUJrYnR2c3dTNW1WNVU5NEtUOElWYWo5bGRXNU0yT0lCWU1lQjdjZ3JFcl9ONHNadWdzVVUtT3FJTDBDNG1kTVdVYjBNdWxnU2d0QWxiekFqaHNMbERVdFBUdmxNRjlkX3dMY0pmRzhrcXpka0RqRmdiR1F0ZFBaenpFd3dxREhRdDJUZFBDU1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHBPenlWbEpDLWpVdzNScTJPanI1Ry1jYjRoNW45bGxQZ0VMY3U1OG1JZkI5XzVyQnhMdUZKTmV0NDk0WnJQcW5ZdW1wMEMwNUxDbDViLWVsa25MazdjSGNpaURqM1BGbEwwZ3ZKem1UcmtMYWVBX3F2X1k5eVhHOTN6Sjd6X0k1STRtRW9ERkRYT0pVRGtOczlfUFNuUUZHUFRF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-20/garmin-cirqa-smart-band-review-how-200-fitness-tracker-compares-to-whoop": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQlprQmFibGgzeVRia1dhTFc0ZHJhcVVyc1VTT0xibVFNT1dQU0ZIX3UtR0ZKQVBIVTNLSWM2NXNIUzJ4TS1PNmJ1U1p4aHphN0lIYkVtX0lxV0t4VUxiU1hMMnJwZmF5NDJyd3hVZmVwRHllXzBCblhGUF9JVkIxZE5PTlNlTFhXTEN1V0xFS04zcHZYc2VIOFJjeGF2N0lFVW96MFp3NHY1N1N1d2hBWFEyaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-20/jack-ma-backed-ant-s-profit-flattened-after-ai-expansion-costs": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEVUdmY5YUpuaFJKQ0g2MGdLTUZsX0lmc3FERjZlRTNVSGRyR2ZyQUpBZGN3RHNIWExlajJpS3VOMVZOQTl4VWxFelp4dnBwbzdEQkRrdVpZMEJjUkc1clZKMEVPX20tNUh1TUhYZERPcHdSa1RtZ1ZuelIta0hOWHMxUGFqZGlXdUR1c2Rock1UOHRXZFhOd29YclpnTEMzT3ZyNEtLWTnSAa4BQVVfeXFMUDJXVzY5dHRmMVcwS2RXRFNqbDVsUkFhMHpPRDdPd2pYYVZJZ293dUtXNU85M3BNR2pQaVNQa3I5MVY0eE5HS2JVZGFwM2J5eS1OVHBubTI5bEZZa2o5ZDBjUWdOeEF4b295NTc3XzNhUjNDUkZIaDN1Qy1FN2dhbDF6WWxweUhRUm00bVUxS3Ywd1F5M052cVViQ3NCX1MtNzJVVWkzVnAzZnZFbEJ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
