@@ -125092,5 +125092,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-20/india-s-new-listings-sparkle-in-a-promising-sign-for-ipo-bound-nse": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/trump-warns-of-economic-consequences-for-any-country-that-supports-iran": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/global-trends/trump-announces-first-ever-republican-midterm-convention-in-dallas-calls-it-greatest-rally-of-them-all/articleshow/133362014.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-20/aia-cfo-on-1h26-results-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/what-to-know-about-melanoma-one-of-the-deadliest-forms-of-skin-cancer": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS1E1T2xhMFgzdGpSMHh6VHdVN0pkZGdFSTRmMnpENWtGMERrUkk3Yi1QUkxhdGxpRFJURE9mODVSd0ZzVHd6Tndma3dPXzBkbW1DUC1lVmxCQlIxZmQxUkFxdUtlR1BTVF9haS02cml5dU1NeVcxaEtkLUIxTEkzbjZwYlZzNkZLSG9obkliOVNaRnhuNzZqMkQ4Q29XOGJ4UnZVWkR3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-20/evolution-mining-ceo-on-fy-results-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-says-will-meet-north-koreas-kim-later-this-year1": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMVVkOUZjSjdlMTl3YWRSejEzNWVWQ3pQQUV0YVRpNWFvUmg5Y01PdUNHcEdXdUZTQWVtQlprMTJtT2l6b185UFA2LUg0RldEOUNOaHVHNlZBZWV3VXEzS1JTNm85Z0IwY25lN3l5NGNreTYzN2dYUVI0VlZrT0hCT1Q1RnI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/politics-news/alex-vindman-larry-david-curse-angie-nixon-florida-primary-1236677481/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeTNKUmJTa1E4SEFtVGs3N0h0NUEzelRQWGJETHVCMzVKQnNMUS1UejVESlRnR2N3NnpFX3hYY2Z3bHgxSlhSbk9BeGtYU282YmVnT3h1TFRudFdXMTFMODAzYjItSGpkNVZLZ3RBTVlxWUN4Z0plYms5VFhDQ196bW9yTWVSMkREcC10di01RHpjLW51MlpfbWZuTl9XQnM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/19/ecb-unveils-new-banknote-designs-with-a-defiant-message-dont-count-cash-out-yet": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pcjZYcFYtc0xNbXBKMUV6eWFJaEEycW9LUmVlMVk4cEFTOVk0cTRsa3laak8wS2w2U24xR2QtS1NFMlJHd09BRktONllmT1IxZ0RCZG1aUmFSZW1DMmFqV2MzOUloUWZlYWE5NlBRaTQyN0hMWVAwejZ1UUFxdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
