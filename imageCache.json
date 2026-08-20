@@ -125632,5 +125632,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608200231.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/sponsored-content/laying-the-groundwork-for-ai-powered-cybersecurity/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/francois-fillon-suspended-highest-french-honor-fake-jobs-scandal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHd5eWtxWEVfZ08wemtOZHM0NVh3Nm5DOHdlVXluUGZFTUlXUEFIV2RXQ2thbTFwd29mTlNQV0h2TEY1V3d5aThfWHBoTk9EdzA2dEJDNE1zNk0zZTl2d2pGb29ZVlJOeHUtRVltU2dScXhHX2pEMkhScGx5RF9YeTFaT3h2bm1fNG54V2pYalhObHg4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-20/nick-bostrom-on-what-happens-if-ai-solves-all-of-our-problems": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/business/evergrandes-rise-and-fall-a-timeline-of-chinas-property-crisis/articleshow/133369620.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/volodymyr-zelenskyy-vladimir-putin-russia-overnight-attack-ukraine-killing-13/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0t3Zk5ka0dqZEV4b2ZzYnlaN2o2ZDVHMzg2bUZVU3VkYnd0Y1FfUTJucWlVYlZ2MW9rdlZFMGZqM21ENDE4Wl9hS2xYZEVwMnR4US1XYnJxWDA3eHJHWlBFdzJmZVJMVUFmRHdtazVNQnFjVzVJMEZzR05kOHAyNUVJcGZDcEpEM3RZV3FKYVc0SlRQbEEzMnVyQXNGa05Ja2JJ0gGoAUFVX3lxTFBrbi0zZlJGVmx1ckdzMlhJNUV4NGRrbG1EZGxtdlRVZkhqWGFRazZMNmQtOWVsTDRBLUttalpoLXYwNTJiMHc4UXBDNFlUMkNvMG5vcWJPWXVQTkdpcTVGMzV4MFhwRGhkQXh3LUtDd3JodmIwWVdYbU9MdC1VMzBYZFVXUFRmRXBXZVhTekVhaDB0M29jc3hCN2tlTU1GLTVuUHBLNDFYNw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/audio/2026-08-20/odd-lots-what-happens-if-ai-solves-every-problem-podcast": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE45c3B0MzVkQnB4aFVoN2xYLU1IT01ydUJvU0FqWTdhTktXMkt6dmgzV0VuU2JaQ0gzc1ZvdGE1ZDBTZEVNYUJWOXU0NC12NnN3UjZsTUNHcjFzaHpKRlZObGF0RGRrM2dVWTUyRWRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.arabnews.com/node/2654134/corporate-and-sponsored-content": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
