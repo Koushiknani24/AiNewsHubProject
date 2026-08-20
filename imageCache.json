@@ -126340,5 +126340,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/athletics/athletics/article71369604.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/cracks-leaks-found-in-kozhikode-corporation-buildings-shrc-orders-action-on-unsafe-structures/article71369391.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-20/markets-are-in-la-la-land-state-street-s-heinel-says-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/italy-albania-migrant-detention-hubs-undermine-human-rights-amnesty/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRVh2YTNYTnQteEZyUjBvWjRTWXVtbnRsV2NQdUgxWndneEo3bnpKWU9CZ0dMZnlMWkwxMFhyWFhVR0lNV1QwRGtmNVJHdEZkamhPTTcwOWRSbGNDSlJHUHpOZzNzNXQ1S0p3VjUySGxnQzVIZjdkaFFpV2ZTcXUzeW9yM2Y0MEV3LUd3MUlFa28tWDRFaTNBTHNEOEVvZHJpWTFN0gGoAUFVX3lxTE5iXy1PejhBUGtyWVZuSUUtOXNWNTRZLUZYWlNEcDFUdnQtOGdBNkdCdVBrS0NpTmIySzFQSFp1WE1pUHRVSmRRQUc0bEt1d0prRWo5a2pkdnRLckoxRU5JZVkxQUI2VFQ3YTd2aElQVDhtTGpZYVNRVjNnbEhRYUQzbmhlYTFnWXJjaHZuYW9YaXRLdDF4RXNDaEFHOEg0ZWhGVTZyT2hidA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFRllmQTRnUUJ2Qk9iUUF0LU9jU0dQRjdSaGUyTlVkMFg0eXFvdVVmMGhHN3pncnFxLU5XYTlaQVFqa1FFNEwzUkRyVlhQdWhPV2V3TVEydTFUdFFNYnBKcEVUQzF5TE9TSjNtV19B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNVk0dUdtVDZ2QU95NmpfcWxkRzFBX1h4X0wtampRV25mcGw2RHhSZG9WZ1Fwd1FLeGQ2a1pldjhXM2pVbmdNb2NNemlRRm1YalB3Rmc3ZlpXeDZHMnluRnI2SlBYZ2JzMDFIc09xS0J6bzZxRVU2Y0xmZ2xpZ1ZqOXQtTTJWVFYtLVZVeVREZGwyTFlHWklycnltLWxma1Jsdkd5Q3dveVprckVwTVNlZGtwSU5wa1A2UG1fVENDR3IxMU9FSTFvVmEzUjFLYWk5ZkxKOTNwTGoxRHdWaG5tYTVxWHhENk5CRGFKVzVLc1BhbjZLMUIxRDZET1BESEpmS0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/races/age-of-reason-and-don-julio-please/article71369506.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
