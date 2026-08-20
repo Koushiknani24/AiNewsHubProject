@@ -126862,5 +126862,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0FGOG5CbmFfS1E1djQzSDFjNkllTHV3cko1QmRSTldfWGZzaEVkY0kyTU41NlpGeUZJVXRHZzhrclhqWC14SDBtYkgwMnltSVcycmNjUmdpQnVuV1otMFZJWl9RaGp2QnRsbG5RMU1uVG83YUJXeDB3NFF4alVKUVJHYWRxVmE0bk1RYUxWd2FoLWV6NXFiOXZmblhRcW5QdUFJcXZEV2FBeWZXT0kxN2NZRmpCZWM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/us-army-ending-drone-battalion-ukraine/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/yungblud-crowdsurfs-wheelchair-performing-broken-leg-1235612019/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUR3cTMzNU44Tkc5QVo2T1JEdU1UWjRGaVJOUGtWTFlMay1fcUljT3FnUzdRRGxNZS16NkMtTzVzekVHT1lEOG1WeTFOREYyMHRLS1hHR0pFNFJqNGNkV1JnSmtLb00yWTJYTU5wYnU0V1ZKSl9RNmlKM18wMGtJekF2aWxrOTV5ODZCUk14TFFqaG1aVUVXcm9XNzhydDZjZnB4OXpB0gGrAUFVX3lxTE5TbElqX1RuQ29KcU5pSkYzMF9hakpyS0dXYlhMeHVHZU1FRTRZdk9GdEJadTRYOWQ2TnZWQTk3Yno0MUdNUmotU2d1ZktHTVVINnNhZlNxMjZkcnkycUhTMVpGcmR3WFU0RzVjeGs5dVRZenNscVpPay0tZTFjU0oyMkhBal8yWElSREJoRjkyVXZwdVphalU2WEpubEI0MFZZTWFNY08xdkJjdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-20/us-housing-affordability-gauge-worsens-for-first-time-since-2023": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjZZa1RTWF9YVWdZYk5yNzF4UzlicklWdlFVR1hJa0pYVXVvYVFlcldqVzJfd1NiaEJycVpLNzhDUkZFY1ZiNzBVdXVaRnVkOTVmdE1KMUhObDRfdDRkVXlvNVBIR0dEOEdndjdHNzRSVFFUdk5RUmcyTUlSWWNiWlE2SDVMdjM1dzVKb25QYk1mOGZRQWxuNVpKYmVkSVlrWGdRLV9JUWJzYjZseUN1Mw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/u-s-targets-hezbollah-with-fresh-sanctions-emphasizes-ties-to-iranian-government": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
