@@ -126736,5 +126736,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/fbi-raids-democrat-swalwells-home-in-sexual-misconduct-investigation-source-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-box-office-deadpool-wolverine-r-rated-reynolds-1236677775/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/drought-in-germany-and-europe-are-driving-up-costs/a-78447266?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/sterling-point-renewed-season-2-prime-video-1236677755/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2ppXzJJOTNZTTNjM0NSZDBKSUlNLTF4alRiN2EwWjNzaGhVckZYeGl5eTNVc1dMQmhWQWtPdzYxd2lLX3B6QXVYeWRxZU1leVRxaG1CTXlEUDFNSnhabzg1UmRzbjdoYy1nSmR0N3dxOURhX1FUTTRncFFGekNocllYSGdxWmtV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/ousted-ukrainian-defence-ministers-gamble-against-zelenskiy-backfires-as-protests-end": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/mep-manon-aubry-says-extremely-rare-viper-bite-was-unlucky/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/culture/culture-features/freefall-reckoning-for-boeing-netflix-john-barnett-1235611988/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGtyaDNsV1RrMTlIMV9zdUtDVHB4dVcxSU4wdzRRRHhiQWtBSXd3dDlVWXNCamZKd2d4R2ZKWHh3U2gtV3UyNDRERXVwcjVPX09RRmpQRHMwakFwMHR1ZXhxOW9qcGs1VktYV1dneTFvbDV2OEl2a0RSVHc2My01ZXJFcElIT3dLZ29HLWtqVU9UOHMtbTJVNVZFZ2Q5dWVMajFkYWRKNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/cities/Hyderabad/sc-bench-sets-aside-slp-against-telangana-high-court-judgment-on-margadarsi-financiers/article71370523.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVmRFOEl2VEhFQkp2dllvT1ZQNWVTMXBMZDkya1l6LWdqOUVsTk1jTFltNkdMWW5aV1pxUzJmbndGcDNQMjRBTks2akFBN18yY3lMQjJMbDRnVWJwWDlHWkZDSmlaSGZBYjZneG12WHBDdFhEdmNrQ2owTDNuU1FHbnVRV0hNUXhHdUNyRWtCbWtJZC15cHRYSzJyTThWWGdraE9yVkNfZ3VfckpNS0dhOFFUY1M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/margie-claus-melissa-mccarthy-animated-release-cast-1236677747/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa3hnbzBhWlNmQk9seXpDZXI5ZlE4N1UtTmRiTzNjaG9aNzRvOFU5R21QRXNIT3Z6a1ljV0V6WHBvdlNzZXRONmJzZV9KcmJNMExqaVhPaG5kODRmUjRfOXI5ZjhNNVRlQ1NxYjFUelV0VmtVcFVBZk9vUlZlV2pfS3ZjbXZhM2cxMWdMc1dQZnB2VndEVzhtc1FZNnY1NWVDNGlDYllvMWZVN1FyUF9SZE9odw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
