@@ -127042,5 +127042,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/20/nx-s1-5937954/sources-methods": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/pegula-downs-anisimova-advance-cincinnati-open-semi-finals-6332031": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/woman-charged-with-planning-isis-inspired-attack-on-new-york-state-capitol-building": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/serbia-to-hold-snap-elections-on-oct-18-or-25-president-vucic-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-20/de-olho-nas-eleicoes-no-brasil-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-20/moody-s-urges-tougher-treatment-for-private-credit-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd01fWFRfT0JvOEc0MThCTzY5U1ZEaTZKalVlZjk2Zmh3aXJBaVhWZ1hPakFLNHZwV2doVzFmNC1KVFp1T2tXZEh6UWxmS2FZSEJSVk5MODFETEwyU3RfUnNYRjZBeXVBM3ZmN3EzZ1hpc3ZneTdfRHhIN0RoNEJPYXJIWGpEcTdSWW9YLXBB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-20/openai-meta-seek-help-to-combat-data-center-pr-problem": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BTXZZZDZMSUNFeUJMdnJYME9ENkFBSXJER1pTamQ4U1dZelZKVjZhT1pyZ0Noc1llUG43eXNONnBFRmxSakkwLU1aVjBLQ1EteHFGYmtnbzFBVk56RlpNYTVlWHlQOE5aMGVB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN21MeWROT2VKeGp6LVBxbUtweEdIWTMtbEczN3dJbUVrbFp3NUpOb3FIbDRtUC1ydGlvSTFsQ3VtU0VoVW5idHBhVXRJS2ZuVV9LU3BwQzdYSXNDbGVWWllZamd3dmo1QV9aUUpROE9ocXlNM0pUOFdkcUJlWGdDUFQtRExUMGY4aE94U3c0SzBaQ3hOeVZqN1IyTzhLallHQTRxMDdIVXgyZ3h6QmdOWFJVSjM2R1RWWExDTkduMl8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/indycar-takes-washington-streets-landmark-freedom-250-6331996": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQak5qUDVzM0Z3X1M2WFpaOFB3RmM1QlZxYVFqTkhlUzhCZ1Z3eUdaWUFuWVB0RzBGczdubzJsZ1NtRE51VlotcjNGQy1oS3d6YzREdk1VVGVCOTltSlBEdWNpQno3YjNTSHZTNzF2a0pyWDB5RWlkTFlFemMtbDRDUXhvZGFzYVhFTzUwX3UxNWhwX0llbmdlUGZCNk5VMTFad1VSMEJPZUcycXY20gGyAUFVX3lxTFA3anJvaEdickhvSm1RM2twb1lQMllmVmVCZGVHVkttUkl1Nk9oTDFCVmhpVld6Y0lnSjgwcW8tOWVVMjRIZWhuX1FhVXdSVTFjTTJmdkJqU0ZqUkRycHViSlVNWFlmaXRhYm0ta3RyWXdwZkZXX0VnTWJ0ampQQ1dtXzBNdGNIa1lDQm9GNEgyeXFYcmZyQ1RCUkVyQU1ORXdRaHFSbDQ0a1ZXNXpoemdkWGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGQwUFdxNTg1RnVlaXRpc0dYdmJMbmUxZHJ3TWxzWUtGeHlzNGEyQnRsNkotbWJUWkYxbTkxdWkwSE1BSENxYkI1bVBNdGFzYTNCenU2c3V4cG9yTVJqS2NOazJpalVuWmE2Y1Z2UWpXQ0VwLWpzVDRiQVFXLVVTVGVEWDBnT0ZOV3JuR1l0MjJLdFZDcW1kbE5fMmE3bHBMcnY0bnZrRmo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
