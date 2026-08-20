@@ -126190,5 +126190,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/science/982661/nasa-katalyst-swift-rescue-mission-failure-update": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-economic-threat-defeat/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/20/drought-on-serbias-sava-river-reveals-long-lost-wwii-shipwreck": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-20/us-weekly-jobless-claims-edge-lower-to-206-000-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/chelsea-freeman-the-team-1236677166/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/poland-arrests-man-over-alleged-plot-to-assassinate-ukrainian-arms-industry-official": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/bangladesh-lawmakers-elect-bnp-s-alamgir-as-president/a-78438534?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUh6R2MtXzZlLV9NaTY5dHFrbDB1SXFpbHUwYWNKbk9Ya3NrcldGY3NaWlZSSEgxNnVZazY2UTZhOHl0bW9ZQklueWY0SHlLa2pYWFByX2FIRVJsUkloWlhqelcxR1JFRzlDTVdkNktUT1gzOW5tX2hlcjUzaGhJb090Z1ZmNVdZamE0d0RLOHJnV1NjemNiWkZOaXpPRnN1TGNFVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaWhuVjM4aThnT3RxS083NXMyV1B2bjd1MERPcTBIcEVKd0FaUURZS19DdzdCNG5fXzhuSkUwUmFYUHVpNFZNRVZmVUNERC1jX25wOGNLU2hIaS1zVFNPMWpLMnNkeHJPdF9JUnI5MEZPOXNIeFhIdEotX3Z4anJjazdSOU5LTE02ek5SeV81QkFjMTRrdndNYVV2al9naVhz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/netflix-monster-lizzie-borden-story-trailer-charlie-hunnam-1236677512/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX2szdlZvNl9lUzdtUXhPMVNkQnlKdWRUS1Z6RVNjb3dxXzM3ZzlUdjRMSEpVN2FfMVg5aThhQ3hSN25wNjZpSGZJX0pkbWlpblB2eXZTQ09HeFNXcUlCdDdRaW1ZM3VrX1JINERZTTRmQ3dGMElGTlVNbFJTelFuNGtCaDFweGhtZTBDNFJVc0J1Q1FiMU45ME4wbVpGZWdSaHExdUVVZzhsQ3EyMlF6alBnaTJGR0RGV0pRTUxYdlczXzMxVDl2VnFfZFk4RHJTcEdQQ1dLRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/kremlin-on-kanye-west-ye-no-plans-for-russia-vladimir-putin-meeting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWEpBM2M5M3U4X1Z5MFJLV0pMdy1ZS3FyeE9HYl9sZFpuSDlKWWVSVVpDY1VKVmtfbDhpaXVPU0tDVUZpWlFRQllmaEJkNjY3ZTNfOFlyMWE1WG1SUXM0eHlMMVdBbmZLNzNwZjltUTRURnhXWUg0UEl4T2FUUWE4YTVHS0xJZV9WUWl0STU1bzFYeVp5TV9CTXpZT1FNc0hQZG0zV3ZNLWxlMU9PU2p2TGFZY3pQWGMtTFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNTU4a1Fmd21zYWRsMlFhS2k4RHRBVm9TclJPaW52bnZ0VW4tMGp6emlZd2g0T3EzUUFpeHVOWnNIS2E4MURzb0N6M2RCTTlmLXc4elp0ckg5MERCWGJWdF80b2JySzF4YWJ4QzhJUEdRMDhNMEdqVy1LX3hkNi1jMEF6UWhfM2U1TkdKUWJ6WFF4TDhlQ2xIbUQyWUFrb09UREtLV3RveUw1X2t5SUtuMlRmamtEeDc1eUhfaXh4T0lfdmg1R2xZdm9xWTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zdVdHMjl2MWlUMHdfd3VTNDJaaEdOV2pRS0RwZU9EZnk3U1VJU2hBOTV1NC1WUm1TRFVMRXpLTTRFc2tLdEc1eGJ4d1V0RFRBWTh1NUotV3hYQS1YWEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608200444.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVERiV3g3VUdXeklPcjZQR2dTdE1PaENaNi1IUXNVYmNjbWxZYXRRUVRqNVVsazZMXzlrLUNVaTZmaWFEVUdkTzduVTNzWHpTOV8wVXUyOGlrbllaU2w0elYzX09PUmlQOUVUZ24tOVY3dnlnQ1NoaWVXcUVZWWJFLURnLU0zYl9pUnZ0NjFVSTZhTWVv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608200441.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEY4NEpQWEJPek9Gd2NfbnNqdnhhQXFCM0hsVWhwR0JmOVpaOTFkOHA5WGlLdFE2TEhiTjNyV2lMT3B6TVZBY0draVJsSUFVWnVKbjQwNmhQaFV0T05qQk5tYy1MNm14WG82N2EzY3Y2QTM4ZUdKeC1DQkdla0VRQTk3ckVmSXdHZTZra2c5NHlBNFp2dWxBaDZibXNNLUNnYkMwLVFENi0ycGU3WENTT3ZPdVNleDd1eHBzTjdtUWhVZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/in-iran-contact-with-foreigners-could-soon-be-a-crime/a-78443425?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
