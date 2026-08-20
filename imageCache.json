@@ -127426,5 +127426,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-death-neutrogena-backlash-1235612441/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/lanterns-damon-lindelof-adaptations-1236677970/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVE5fT2o0VmlQZU1KenRrT0ZHc1FpR1I5YnpDVmdSQUpTNk0zb2NlSnVpczE5OFBXclItMl9KRl83czM0MldvdnIyaHRQWTZYMVd0c1JQbzJSTE9ycy1GN21DYmZFdnZNZ0tJMlRvOGpnQ0Y4TkFJcDJGMW5JRHUzYjJzb3JhNDl4R3pHMUVTMkxPcmJuRktpOXctSEpyTEVHWV83VjQwYU9RZGlxTzlDX0Y3ellBSkJHSjZQUy1wdEVuSExLM1dWR3JoanFtamd4bFFJM1hrSWJaa1ZuLW9FNzZXV2M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3305139/ai-push-spurs-privacy-fears": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
