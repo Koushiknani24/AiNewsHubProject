@@ -127294,5 +127294,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-features/madonna-queen-of-the-vmas-1235611721/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-july-20-26-2026-1236678107/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/i-heard-you-missed-me-melania-trump-jokes-about-month-out-of-spotlight": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-20/j-j-snack-foods-ceo-on-snack-nostalgia-turnaround-plans-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-set-to-add-citigroup-to-top-ipo-banks-on-mega-listing": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUtYWXU2QnZleTJpWVpDU1JNY3doT19mV2w3RTVBQVdRdkZDR3NOV3VxY3FZNnFQR1F3SzdUbHRlSGdjSTEtSlpVa0FOVkV1NlVDQk12dFh4Y1J6YVNDcDR0S1hXTFhMWldmaHpWazQ5SU9hUzgzWmNXVExfR1ZOODhFQllJZVpxdW9yTmtfMGkwODJwcUFoUXJITFBJNk5QSFZKd3F1dUROOTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNanpZLTNSbi1SNXZsUlh4ZXFjUWh3QWkwUFFsYmJuX3ZReWJOWUpNUUd1dFpCRTd2SEZqdGtza1ZmaG5OeVRxa0gwdHJoTUEyTDM1N2dnNnVTOFMxXzRiLW9lY0VuTDhOWGE4VzFIdF81U3RoR052S0hyVUVrdldsdjd6OUdTMmZGVnFlYmUweGYyc3NtVkZ4cXR3QTRPLVB3ZWtB0gGoAUFVX3lxTFBkOVBtcVVuQVFRanFnX2doSlJxeWgxRDRvMGhtNmxYRWx3azhNMVZsQmVKeHU1MXFRTHNHaXZVU0d1elpQaThleUMzUlFkclJ6WGdac3BCYmdzVGFBZTBPcnNKRnZUM1ZiNXJ0MWZZUExNd3Q1ZVBuak9rdVNZMWtEbkJKT3VrR3BMdlgtdTlXeGpPU2FEU1k3Wl9MWGY0RjVwQmtSdXNZWg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXM0ZGNMTkZjUHIxVExxSXByUU13YkNoWDJHa1VHcXlvMzMyZUZ1Q0FyV08tbDZGQVFPSnJPOG9BT19oSjROYzNDbU1henJmbVZmVDNEM09PR1dFdGcxOVBDcWh1YUtOY29uWFhNNnMxUzNsbmJhaV96WTBTYmItRHlRSzhRdzBwQ2lienROT2ZwUXZmdzhOOUtR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/lanterns-premiere-ratings-hbo-max-1236678072/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZjAzUFRIYW52UFB1MUlWNVM0WFNLSVg1MENoWHVyRzJub1VJWFpYaUFIY0FJeE1GNlB4dnNNeVppRURNTkQzcmJsNHNzem5sOGwtR214R0hTSjQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
