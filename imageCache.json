@@ -125500,5 +125500,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-20/arayssi-israel-view-syria-as-turkey-s-proxy-in-mideast-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bbci.co.uk&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-20/sk-hynix-reaches-tentative-deal-with-union-on-wages-yonhap-says": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hanpvYjY0ZjhDbFlEYnVLd0xvX1BicXdEOGxnNFNOSm5IaTZ3YXdPOHF0Ql96NERQeHdWbjdMampaRUpuWWJPdlFYZFhPRGc1MVQwTDU4UzBZN1Ff?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeU15TkViQnpDcGt5ZFd5bldCNlVaY01tc3BEcHlSTzN0NUlwdFo1X3ZJcThOcG5mcFJ4VkNqQnRiX2FhVF9xVnhOT1J4aHUzMVB0S0Y2MWFGaWlWaDdFOTNBLVZORnh0N0hLcFBxd3VHR0NwWVJhVzZFc29yQTBmZ185Y05rbXR4enBJR013aGtVVnJYMnRMbU1pRDNYZlRDbTlGenUtNldGY3FBU2c3Mg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608200203.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczZaTUliTy1YaDQzQ3ZjcEVMUVFuRHRaUGhOWkNYMFo0eGk3bklqZWtEaWh2QnNKYXpMUU1yWXRvaUZBdHlodFpTNXNTbFB1RnFyRlN5T3B6a1BEbHNZMlJVYjNpWEFKM1I4M0xZYTJnc3VCZ2c1MVZvZEpPam9iSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzQyS1lMZTFFT0w2ei1kZG5TeFVYYmxfX1BDcnFPRHdaV2pyMHhSR3lWck5YSm1fN2RaUFFRbUFsWjhfdktnaGZpQkcxWU15NXZEV09ZdmhGS3hOU2NUdzB4M014cXpZTjVSZk5mZXJVY0k0UF9zbW5hTHdZRWF0cDNFN1JsUTd6NHh3U1M5UTVCbEIxakJwYVhkRmVkQ1dzbFItV2lRamtnTzBjZ2I1dFNvS3hHSk1ZbmtPX2FtYTk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMGJ6M0dycE9uZmNZa3RiamoxYkMyODB0Y3dxSmFFOXZQREdOZE9EOEhab004MUl2WERBUUF3Wi1QZlcyQU5CTU51cGVXYTdIV0xIX25fTG5ic0RLSnBaenZCUFZ0V3Z4XzlXTjdjZ25PNGVqR1NGY2Z6dXlCNVhYXzBWb041MmN0eklsLXppeXllYkJkZ0Rr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608200176.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
