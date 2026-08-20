@@ -126130,5 +126130,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeURpRGplZUpfNmpxUERacjlvWlZkVmhBekxMb0Q1OEJ5WFZxdTZ1b1U2RUxvcHZ6d2hTemo5T0VOelpfZmtCSC1ka0Nlc0ZlSEVMQzBldllFU0ZSNUlEYXBLZWtDUkN0WlN0WHRDemp5RXlIOHNDMTJHWlUzWW5XRU9fcWQxUUFISzRHVkZvdDcxdVdac3V4QVplRm5hX1I1a3lUMHFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/romania-destroys-marine-drone-near-neptun-deep-gas-project-minister-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.sciencedaily.com/releases/2026/08/260820002443.htm": {
+        "image": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/american-student-vietnam-raped-pressure-drop-case/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-envoy-huckabee-tells-israeli-settlers-not-to-take-palestinian-americans-land": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/kremlin-says-ousted-ukrainian-ministers-call-for-elections-shows-splits-in-kyiv": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/20/icc-separates-taliban-probe-from-us-case-as-afghan-womens-fate-stays-uncertain": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeGhTQUU1ZnBZWVlwMTkzbnpON2ZNZ25ZLUUzLThMWHQyY0htaUNyUE1IMndpd3U3WnoyRHE2TDNOZGtkZ1hla285ZjZ2ZG85bjJsWkptMHU1VHBaclRiVndEb09lYklLY2RqY05PU2NhNENuMzAwMEpid1FPMGN0UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
