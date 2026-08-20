@@ -125572,5 +125572,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/qatar-still-not-satisfied-asia-chief-over-infantino-letter-6330611": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-20/ukraine-s-grain-shipments-are-at-a-virtual-halt-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-20/bessent-gets-short-term-bond-market-win-3-minutes-mliv-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/evergrande-founder-hui-ka-yan-sentenced-to-life-in-prison/a-78439153?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMksxN3VPWEVwa2ZZYmNWMTVneTU2RTloanZ5UDJnTGYwajUxLTkwbTU1VzJRVjZNSzFnWW1oeW02QmRYUXlYcG4tcDRGOV9QNGcwVXBwdWYweFBRNUh3cUJRbzRlSFdLVmU5UmRaaU1Yc0JoNnJ5dW4zMkVrMEVhNFF6MA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608200208.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSDh4dHFybURBWWpScWhiZ0lnSllIbkxTTWRfb0F1Z3J6OWxBT04zZ0lRWXdrOG5heDdBUEVjdUo1VW91WFpRakoyM0pMb3JpaGJtaUtTVC1UT1dNamowaDNHNzJBMmhENUpBUW51eERxck5qV1psd3ZxSUh5V2dUaWNETkQtS0ZEWkp1bGx5LUVKWFRPVTNuVjB2MFdXOV80QUEwaWtOVWY5NC1jbFdrU3ZTR3dtalJwSVJvM0NLS3hMZ1FrQUhJQTMwa2dHb1JsMkhrN2p4Rjl1b1hrZnE3YUNsQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
