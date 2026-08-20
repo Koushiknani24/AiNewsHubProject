@@ -127522,5 +127522,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/uss-abraham-lincoln-leaves-middle-east-deployment/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/us-army-phases-out-new-drone-battalion-despite-being-far-behind-drone-race/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/doj-seeks-to-question-fbi-officials-tied-to-search-of-trump-mar-a-lago-estate-sources-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ1NJQ3ZDcmNER0JZTWg2U0hTLUo5ang1SFFsXzNXRlc0U0UxRTNSN1JzUjVya0J5UmV5bk8xX1MxaWFzT2FXN0lBSzZDc0l5Q0VXaEM0Y04yZ3RIMnNYUlA1WGFYbDJQZ0FwZ3c5V3c3eUNURVBpeDRqcXBmT2E4TTR2aUh3LS0zNDhWMTJkUmFRbXlpb0lZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOTVUR1o0VFhnQVlfX05pVnVqSVkwT2dYR2xGNkNrdk9uWjJtU291dGtZZEkxOWdLdVo2UWVWLUc4a0d6MnRNRmVtaGU0TmdNODVaNUZsMWlKaTk5UEY3eExTUTRPTlNmTl9sWThReTBtM3FRdlJIM3FQMF9wSFlQbzZnY3p6Y2tqVjBHcHNxLXdpMzVySjM2T080S1d6M3NqWldKeU5HVDRyZWV1NGVZNTc0U2RNS3ht?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGViZ2w0cXVmUjBqbEFKeEFsdUY1YWNiWlBobmpkejVKWng5N3lINFFZOGdNQ2JzaV90bXBFQVpLaWVDRXZOMmQtOXA0d09XNEZmdExMbFFPZGNsaTc3QUVKQktwOU5DNnliZ0dDdVFNaGdsUVNyOWdHRkh1VFBjQkNfUklTZTRZMzhDb05xaHZUNGdURlZxSUJBZ3RCVHZtbThfaFRObk1SM0VYX3ZZS09jelpvOGMzSVktZDNocEpKOVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
