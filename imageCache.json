@@ -125716,5 +125716,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96YkJiWElHTW5zZ1lYVDdtS0I4UFlxbDZ1LUdJYWI2cFptMVFwbFlKZTI1THd1aWNUVHRRalB2czZ2X3EydlRLNTRUWEhldVpUZDl0N3R3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWEzbG92SUJIVG1IVC1ndmtmXzRuUmJmVjZGMkxsM05STlBEMDVWekZHTGFXMml3akVQX29rU3BXQ2lHbGkyZjZ4SmZKdllIaGZ4TEcwdzB2c1lKSmJmbjZKa09TaW92SzVmV203S3ZmUFBJSUc1TXBkcUxqRDNQLTM5OE1DbWhuUFZLb29QdlctMjBjNFY3RDh3TDVrZy1rQ1F1dGV4QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnFMMkZ3bEx6MWtNU2gxd2xnR0pWaUV0R1B5QWNmZjdEdmZ6RFRNazBSZWllYnI4V2R5Y3p2QmV0c2tmQl9OaXpHcUdvZnNDX3pZUW9ZTFlRbmItUmFwV1plZ1g3R2RMZFhjRXplamZsS3hjOWVROXVGR2dGTlJZT25vWmZjSnJwdWhFeWtGZGVpVm5FY2w0Qw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUTdIMHBkRUdvQTJlTnRScDVIelIyY05Zb3Y1SWVMREhCUjFMZ2tncnRrMzVGeENxMlFvb0hlSC1ZNnU1NmdsS2Ezal9Jd3ZmbmVzT1J0TTA2b1Z2cFpreUtPZm9qLTRaQS1tdlU0WGdmNFdMamdseUNna1d6UHhWRFRkLUp3dDNlaXR4RTIzSjhtaVNGSE1zRklR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYXk3bTJ0MVFqZWwwNWxRUmFUTkl2dlBwcnRxSXZuY2piaGFvUDc3Wk51Vld3Q0JKZDg3Y21qRl9ZNmNMd0lETGpYRkRhRlJUaTluTXlOVFFGa25jMXh0M3lYY09ZdGtKWU9UdlNtMHhWVERaZjBRMV82cW1JSnYwcXpVdFdKZ3dZZGV2b2h2bkVIZmk4U1hnTl9ROS01MG5kWi04QzRHYzlMclRSZ0hUYURhSXNobFhMYUlZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVW0yWUQ4TVBCaTAtZ21EeTZ5azFZblNGWEFSUG5CWnFBT1I1ZGJUR0l4Wktadjl1VFQ4Z25WOTdDY3NCNHRQeUUtUUhzYUU3VTNDMnBkQmJUUlFieVVRSldHVWtnM0JsdFJzeUFiWjUyV0VLZWxxRHp4YUROM0xMVFZfYzhwODBjaXlkMm82R1hYRjE5bmRsUjNlNjJoWlpNUm4xbEFZWG1sSWFPMW8yZlN2RTZ1VE1obHV0eVRRVUkyQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608200234.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0JJTHFRdnBGd3l3Y1B6YndvUk1LVnY3QmJOUEVvX2FodHJ5OVBPYkkzSXJMcDZfWEs0Y1NManhacVRtQ1IxVWt1WVNrUDdXVkt3ZV9zMTJUWVZjZW13VkozY1NCZ2pueEhuamItZ3FDNVRpdDl3QW5jZjVkYUJHTk1kSW5uclJfYmtURUw5VE5NSHJNU2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/life/arts-and-entertainment/3305030/architects-fight-to-save-historic-dorm-in-chiang-mai": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/20/russia-runs-out-of-petrol-at-seven-in-10-stations-as-fuel-crisis-worsens": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/pilot-killed-after-small-plane-and-police-helicopter-collide-in-pennsylvania": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMVI2RFRMN1BXWGlSWldzalpnRmhnY3J0NzJHejhLeWZLMnZ0bXQ3bXB5dkJDV09RMk9jZE5BMXltWC1Jd0piSk1YcThPYS1uaHBEWGl4b2xIV2Noa1o1OHpWMGRKb2prSjJuaUJVei1tMnFZTVUwcGNEYU5lRHlKRjF3dFpzaTNUbXBpTWtsN1ZTZGRpbllmRHhRVWo1TGZTUEFXckNnY0dIM2MtUWhfcU1HbGV2S0JTTk9RcmN2R2ZfbXQ0Ni1UaF9oZUh2alpmUldlRFQ2TTZSZEpKQ1BzT00yWVpCeE1TZy0tdmxXRS1kUHoyODQ0dDhIR1JocmFjOHd5clh1LU02dEFiRS16NtIBlgJBVV95cUxOMzI4cVktdndwRFpCYk1hcFFpZmNMOUZNVnotNGNkVk9mT25Nckk4M0RFVGlXeXBoY1NEdTY5MS01YUw5bFlSb09leS1fMDhKVUtsZXNma09wTWFnNjByZUxMSzdRWGZJNm44RHVJZGswd0FEQlA5dk1zSEszWjdRWWJscGxjd1h1MEU1azB6TGRlZE1QTHBnVGRFeGJQR2hSQjd3RnZHLVR6U0s3ZmtTMXR6UU5Mc2p1Y3M2VUYyX3h6dVJvaUtUbUpEYmg4eEEwSFRkLVNLUTdmcG9UdkJuYTFnRUN0OVNNY0Nidi11VjVLZkJsVlRsRk1DbWtRZ0tlNlZFUmgzUXh6N3NGcHJ2S0VHTi1Cdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTlhWR0YzTnZXemtKY3E2aGFXRlM0cXNhQ1IxQWthdVZMbF9fT19OVmJSV0E3REhCVDJYUlhFQ3czTzFHbnRmdVI4RW1DVjcxS0xhWktUOGdseDg1a1BfdUlzRV82UnRwOE04TV9IYTFvdUdPNk5mVWtSaHJrT0VRN1p0TEo2UV9mSlpzUUJ2WXNMYTBx?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hLTVtSkgzTERYQm9oZ0hJamFzMGNqb3lBdXZmLS1ya2pad3kweExRVi00ekFsMG5zMzNZbC1TWnlJOGRQNmRZd0lBU1lBczU2MXZiMlQzVGdnQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
