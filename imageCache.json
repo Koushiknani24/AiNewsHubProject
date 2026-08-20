@@ -125818,5 +125818,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-20/treasury-buyback-gives-gold-another-lease-of-life-ubs-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-names-european-writers-for-script-engine-program-1236677587/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/congos-m23-rebels-introduce-new-movement-restrictions-over-ebola-concerns": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUQxWWRpWlF6M243dmdDZ2ZVY3JLSTRnSmoyenlFdENFWGpyZkNiZThCcWhOYm45ZV9FdENsNDRhSldxd01aNU1mcEZSU3ZnZjBuSkZ1RWJ0cHp3MXZEcWh1SzYxZlVwaGlHMDd0UHh6RWpVVHRiMFdpUldCQ09zVE04czBQcjlGWTh1TTVJa1RqWi1RMHh6cTRsdDR5UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/life/arts-and-entertainment/3305035/coronary-artery-disease-killed-actor-ray-macdonald": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/san-sebastian-closing-film-le-faux-soir-media-nazi-belgium-1236677581/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10NXpxUDd6UnRUMjB4X2k3SnljQ0VYNjJCb1VUaUpJTmV3SlFPdWszMDZVWWdzUkduVEpBWk9zSGNseW56M2JWOXEtRjV6WVlxMlVTc0N4bVRKdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQczdMbGR3em55OUpTMk9sNWdBSUVpTnRwb05UUFlNcTNITTVUQjIwc2M2TjE5YTJMaTM5WEtYMnBjTTFacVR5TDhtQnZaSVdneUd6bnRxTmpqU04zMXBQc2ZaYjF2enA4WjNNM1VaR3ZIZlhpSkNKQmdzRlBKSDVLcXRiQnpETF9PM2pLQw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
