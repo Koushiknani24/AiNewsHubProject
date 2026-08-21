@@ -129364,5 +129364,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/watch-911-reunited-docuseries-national-geographic-streaming-1236678545/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-21/chief-justice-lets-trump-keep-building-ballroom-for-now-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/mexico-us-deport-mexicans-guatemala-august-21-mananera/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkEwUkpXa3dINkxhdnQ0MDhjcjNQYlZ2MWlSemRYQktCRDdCejdxSk9fOTJOVkladHgwWmZMZWFESE9UNmpYaDF3YzUxQXFVbmhWWFR6YVRvUmgxdVJJal9kaE5UQmw2WUE4Tm41XzltRGRmSHBtVWswLVJfVFZmMGk2SjYyempkNE1EZ2s4eFU2Nk9BQk9jX0hkMWdPWnNpRU52cXRsX0k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhORjBDdHdHZXJOTEZMMzQwUVRmb01ETjI4MjV1eXRiVGdFRThZSnFpcjk0dHZ5NEZDOXZCNzhZMTlqVmNGcDhoZENxZ2d3X2VGakpGaU1pSXRSNkZOQzVxT1JRcG1rR3dfOEhmTnNBX2d3LUF5dlZTOERxQzdvT1Z5V0dDV00tU2JBbFNXN2NSakJxOUJOc043UFh0MEFhaVpmMnRhM0VIblk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT294RU1jM1U3eUVqSGRHVEdPaWhuMkFqc21KYVBrUDVUb0RFcDRIOEhPaUVVbXhvWjNPSGlLYktLSWxJemFyd1BBOEZTREFlSDJ1SkcxaEpZQjRtQkxYN3hWVE9iUFZ5T2lGdU1sTldmYVpIZU1xQ1dPOUNxUjB4ZHB5dGxLRkhjY2R6UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/palm-royale-fight-scene-1236676616/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNE1IUlIwWmF4a2xvbTlLczVUSlVyaE10WGZUTlQ1WEZPby05ZVJVVGVXUnROX2ZSek9ZWW5iQXZuQTM3Z2xiMkhRQ2w4VUxEWXNDMm9ralh1d3VJdXBJX0s4RXloZGktNGE4MF90cDNlb05GeS0wRlZXcTFDaHBjMjZqZTFMM2xmVHdxdlZPWjhSVThzZ1FDeHBfb0M3QlJiNzFsSUdfTFptaS1oeC1mTkJUOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPazRUck5pY1dILUdMcDZ0WXVWbURZXzNrRmdXbVFLZ3BZaW54YzJOc3c2RkdqMGNuSTlYSEltV2ZvSUVreVVWVl9RdWJCQmRyaTEtQ2ItdGZRNE1MOGlvZlJ0UTVQOUtJcW55QVlYanpnT0ZDOTVWWGZjTGg5VHFnSjhNRmg2aG1KeE1vZzVRXzhxUUg5V25WQXoydUFDZURpZC1rTmVxamZvcWNlVHhhcWF4MTZHc2V6Q0hNS2RkbFRncEF4bWZCX2Y1RGlSc0ZDS0RQLTRLSWdCT19N?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
