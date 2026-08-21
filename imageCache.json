@@ -128596,5 +128596,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hY1lvM29rcThwbzUxTnlJY2pCSEt4cnRzel9abEhkZkVYS2RXRWNVano1bGtnLWotMUw1czhNWjk2akZKRWNKNjMwcGFTclZ2bW1zSS1QcUdmV1pZTmxEUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/21/irans-president-calls-for-end-to-war-from-position-of-power-as-us-ups-pressure": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-21/fed-is-not-entire-story-for-long-end-bonds-td-s-brooks-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/norways-king-herald-to-remain-in-hospital-cancels-engagements": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDhSY0Z6bGJGNjk5Um9yX09ZaVF6b0FCRXpCSDdsQ0hHNWxHRUhCTFg3aUFzQTUtdDJiN0VkUUw0OS1DaGd4UjJnUTVCalNYelB1dkVHdlhxWHVqenhvSVZzOUdXTkhnRFJjcjdRc1BZVnZkd0Q0TlkwMWpTSkpST0k3eWViZFV0aTNKMW5UaS0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/21/china-rejects-us-claim-that-myanmar-analyst-wrongfully-detained?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXVOMFIzRVdpMUdZN3FGUHF6bV9qT0kyeUZPSTVzOFJ5MzRZVGxmNVRJbzdZSjRNQy0zSGV5a04tM3JaZXlmajhGbi1RXzR5Nk92NE1yVXlyWXJ5WG9vUFI2dVBFQ2JaQUM0VkpNTGhlbHRFcEQ2aEItTnFyd1VvdlNiQWNrRm1Xa3dWdVhwUjJJbFI1emfSAZYBQVVfeXFMTXF5aEM1S2lLV3FkMl92UmxFMDRQSU5ady1OY19VU1RMbmdvaUJIRjJ2Yk0zUFRRYUV1R0tsa1BQZV9Kb0EyZllZR2htbEctSlZ1UkhMOFdnNDY4TVg3c29aRG9lOVREWmc1NzEtQU1OMEcweUxrelhpdjNqaGhFSW5aMlZfNFNNLUVvdlZKb2xkZlViVnRn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/irans-president-says-time-to-end-war-while-tehran-is-in-position-of-strength": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN0x0MUFDZmYzU1pkem1qRVp0TVo2eWN1MGtYYVBhWDNHX1ZpU3FFMGpBZ0tQMjZBUGlKcUJFTjFlWi03SGxJZkRGQlVuT2R2aURadzRITjhmSEdKVng4amVQQ25XQk03OXRJR19raDZQMEJMYzgxREdieXUtdUFXSWFSTF82UmYzY01rbHc3WjJOTE4z?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSU9nV3cyeDRWaHlhcm9BTlByQnl5RHh6MV8wY01nWDBZaXVKY3dCMnFCLU1HbFEzOWVEb3h3dkhJZDRWd3lmSnZFcnZKcGxyY2dXeEdOSzNsd0c3Uzc1eFJGRElKU2dtcDhEUXZaLVd2RFZwVkFNUmVwc3ZTUjd0VE9mME5NQ1YyN1QtVw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNW1WQU8wX1dXTUlhUFZNWWdvNmwybWdmR1hNcGFiRFkzQ2t2U3ExNV9HRHR3bHViRHZPcnBWRi1WbXF4eUVkTWZsQ1hWSU5hYV9TRVV4NWx3UERndW9RVktaN2ZnX04zNFVNOVFjQ0hiOEtOMW9fM0p3VEV4Y3hhWHA2MEVVaE9rSkhwdnFFbzJWZllYRmdPaXJNTnVrbGg2ZFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2pXdldmbVh3NVpwaFZ1MXhHZDFObHE0S1h6ZWZLQ0hMZFpULUNubmJYbXA4X3FQbWx4T29rV1VnTGFfVGNvQlFlQWR4UXRSSW9JcDdNWUg1STgzNXllQ0FBcU5RUkhlUTFnWGtDMDRxMDZWQU1qbnFKMHY0aGd0Q3hIM0k0REpMVVI3VTcyN0wtTW5UbVFZQTNtam81ZnFuc0FTdUFJWGNKLTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
