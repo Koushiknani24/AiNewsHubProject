@@ -128200,5 +128200,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/08/21/business/investing-bond-market-stocks-funds.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/china-eu-foreign-subsidies-regulation-link-trade-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVTg5M3FrR0dUeG8zRkdkaGpTSDlRcWpFUjRSMUFkV0RWWnhBbEVISkNWczJyckJtQ2JYajJtdVp3SGhVSk1mU1FpWXJOVkJVTUc5UVd6SmI5Q0VwY2prMFpHdVFqOGlkR094cWwwZHhIX1d0bHB0RUdPdk9qNm9CVTRodDFmam1wRFdwY0ZkZkZacGZRZEYwdFBZLWtYTW1INXZUREFtTTlzUVY3NEZtZHQ2cGFkakE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yTWY3b1o0anBMUVU3RzFiMU45QmFkMWlTb05uR2kxU3pZeEZWU192SUlpRjB3UnduajBYT1k5RmpKc1gycmVfUXpTZFFWLXEzdUJXV3JlYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV21WRWoxUlJ4elpxaF9vY29kbmsyaEVhaXF5d2JZVEtWVkhsVEUyVnkzS3dBSTByVUdaYjVxNGNRSFlheU1ueFZtMmFFZ0plOUF0aTM0RjVIQlE4bG1ib3c2dDVXMjNrZHFidjlxa2ExTkRzTC1lZDdILXF0anRJT3FzLVMzdS1RdUFvZWswcVB0SjBiTktJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
