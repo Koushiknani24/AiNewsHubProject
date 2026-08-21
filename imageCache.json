@@ -128260,5 +128260,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/21/iran-executes-foreign-national-over-alleged-involvement-in-january-protests": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/21/first-20-migrants-deported-from-us-arrives-in-liberia-under-new-entirely-humanitarian-deal": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSER0X1kyYzlMTjFCalVKaUh0cUZuN09YXzlKemdSYm9rVEFxSVlCeXQ1dG1Jc19WbFlyRDN2Y0MydGlMSElHRWRrdFZjOW0tTUtUTFV1aTRaLWhzNmtfMGxpbmkzUnJYNm5jWElZWTlzZmhUVnlNb0dnSFpodWYyanVhSnZsQkYwV1FFcEItbnE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcFhpQkxvOHk5Qk1zS25sckFOVjJBRnZMblRlRzFCSHFpWWlMQS16MGdFdEdkZHYxbnhqMS1qYWdkN1FsREFhYjNGSnBtWDNkWWI5R0xnX0xoYTYzejJweGtvNldHNUQ3THRER0dvYXJrZTVLb3FPQ1hMRmJkU3pkeWRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
