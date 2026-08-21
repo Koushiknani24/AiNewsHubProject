@@ -129718,5 +129718,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-21/liquid-death-ceo-on-viral-ai-data-center-ad-ipo-odds-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/21/nx-s1-5939814/big-tech-companies-will-have-to-pay-to-publish-australian-news-content-under-new-laws": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmdhRFVTbWVHZzIwTWw3ak1rLTllNUZleG9KUlRlMlRsQlZpSzZlWmtCU2txZ2VnQ285eWpNWnJFVDNzR3QySDUzaTV1WDVwQ0VlMEFWdWRsWUhVRmdzSVRIN2VDYUstZUI1UlJoVUlPTXMtM0x4SXJPVkxDRkk3azlTZFpSN3BEQVdqQjZucE9FdWFxMDJjUFdOY3dsUjA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmtXS01YWG5DUVk4eTdlaEktZE0zYmNOSG1wMVZORUduSWc2NnVZaG9tUjY1d3RNWU9QWDEwTTZiWDlzWmJVcGdqUVFWZThrMVFncGVROV9OM2FYQ21rYXo2RVpUdUpDVEhaMkdpc18wYUYwTDRVMXBnYzFaTzhjZVVuRUpNTjhQOExnR0xnUWhjQlhz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaUNiVklEZHFxUk5MTjZPSVpiUFk2RkZBQ2ZhM0s4TF9PTF9hNlNXUGJTazMzY3FnNzdtbFJzSkFDQldraW9BbTRtbldxS2JkeWJ1R2doYUdQV3pfbTlhNEkxYkhxbmdSTlYyZnFRaTdQVm5ESXpmaWVCckJzMlU3aEZzRkNiRnh0UjVWd2FSWElnVGkwZUoyV1ZTMmY2Mi1KczI0a2c3aGJTZUhhZ3VZdzBrdmRVSHIw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
