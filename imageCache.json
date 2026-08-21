@@ -128806,5 +128806,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/mysuru-dasara-food-mela-at-maharajas-college-grounds-from-oct-11-to-25/article71374225.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/40-years-after-the-lake-nyos-disaster-in-cameroon/a-78459694?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWVJRFJzamR2TllWMXE1a0VUWm0wR1pGcW1pTEZ0V0xyLVhZVVEzWkdhTFZ5WWdSdm1QOTdfTm9yWGlxUndRVHJXREVqUnRJRVFzQzJqZU8xMVNzYk9hRmdGcHd6YmthUVJRaHdWSXFMd0dyZk5rVlF3VlZycXBSaGJrYWltUTdHeHF0bVdiTEpvRWV1MExyVWh1Nzd2V1VXX0Rtem1sZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/myanmar-military-strike-kills-14-people-at-a-buddhist-monastery-opposition-group-says/article71374207.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/search-continues-for-missing-fishermen-minister-atchannaidu/article71373749.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOTBjcWZRbzB1MW0xN294Z2VGbFdlcVlvaWdlZUkwRl94MVNoODFYbVpIOGdrT0c0Y0pvMHZqVmNNcE54dG5WMmNOTm1SYzdkRndvNGZVX0lBSXlXRFlsMVpHQTRlT04xemNIamtydmdlaEdmRmstNnBFeU9GVlAyQXB4eWNvUGVRcm52WnRTbjRDUGptYVRzRDBXaF9VR3FuU3I0ZDV6bTBiQzZoT3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-21/broadcom-seeking-more-than-60b-in-latest-ai-debt-deal-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QRjBBdnkxZlh3QWlmTjc2RTFHZ2RWUnFZTVlmOTVFY09SQzJ6cFdOa20tT0NrcmkzT3pIRG5HdERXQ3Etck1qcmVYUExRdTh4YW15VXVtdTY3WC1xb1o0WEIyVzZCaW1VdVZYMHBB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-bajio/moving-mexico-queretaro-renewal/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVmhWWk5Ga1pTc2tKQmZ5SE54S1NHMTRsekxPTENjQVR2eXBVY19WQmpBOVNLTWx6Zno4Tk1pN05BaXJJNkNBSllMdDVTMG92ZjMzd19ySVdhUnEzcUZDVHl6ckl0WDNGNjgxUEdpcUpzdXlsOElXQ2xEblVOTS1xeWl3aGZxU0RqQlVkTFI0MmdPeUVhRWFnTkhiQ2ZQdEsyZjZjd1pLYzNIbkNtaC1oSWlMTWRQSUJ5c0FrdjV2Y0JnTm5Qd2d4b2VEd1g1VFNXYjk4NU9UWG90RWZjTmQ1eTBJeWtUV0dDX1HSAe8BQVVfeXFMTVlUR3hjQl9MQndDZmNfbThaTFBoV2w0RmRVSXJvSlRYcTJfQjJWN3RUWXI2bWRlREF5TnBPd2xhS0QtamFWUE1MMnNvQmREZDJ5cG52UGdYZVdPakJZeWp6bmp3aUZubFd4ZlRVWFVWbTMtRldURlF1bUNtX3RtSUJTVFpBNUFXR3NMcV9Rek5kTm01MmhKdzJ0YzB5bkgxeTlrWlpXZUwzZVMteHRqRHVxT091WXZwanIwcmNORy0wekFnakJ5bHpGU25xT1lYM0g3ZDg4cmNwcmcxZ1E4aFlkdW1Md080UWFqMlZyeDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/21/portugals-pension-surplus-is-an-illusion-new-report-warns": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZjYtUTJ3Nmg3OUJPbHhvYnNvSDNzYm91M0ZIRVRBYnBpaTlPNzg1ZWdCZFNCZXpORExoTjZaVmlBbmFaUWgtNzdvUXJldEMxdEdrRkVoNzM1U0R4TjNFckRfU0hCRXk2X1g0ZFVPdk9MZmNYS0Q5SVNPSlBPV3B0SV8wd1V3ck5meHJtRm8xYS1ES25fX2tKTld2aUVjUkdZcUIwRldkeWI5cHY1SmstWFAzMUo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmNzU2k4cDBzS3hNTTB5THFIbkZxZUpFQWhENGRCOVVzVWZQM01tanFGMUR1MXQ1bmFhTVBjdHZyT19IVVE0d1RpVDhDR1R3QmN1R2xYQ2ppdk1aYWRsQ280YTljTTdmUkFYS2x6U3BYay14TVJaT09uTGY2YlV2UEFFbU9TTHM2S2NxUHBtSG02TVNWSGNHSDMyb2NhSHhDcmZZNlVFZV94b0c4QWN5ejBNeVVPLXBVWF91V1dTMXNJY1VRQ2N5TENhVWZCdjNi?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
