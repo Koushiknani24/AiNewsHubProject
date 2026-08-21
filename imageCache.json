@@ -127774,5 +127774,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-21/india-economic-growth-may-beat-rbi-s-6-7-forecast-gupta-says": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-21/pnj-s-diamond-operations-cleared-by-police-in-wider-vietnam-gem-smuggling-probe": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/magazine/2026/08/21/andy-burnham-manchester-10-north-01043333?cid=apn&utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjBtVk9CNk1iMmpCRFd0TzdGOVcwNGVSLTh6dERSM0R6eENJaW5oZy0xaEJSR2J4LUM1NTI1VHNfN2p2azZDNk05OUF4MzhHeHNnWWUyZmxXZF9nRjFxRUZaYWRnT1djYjRjWFNuRzZnbWRCTi1JVENxcGtQRXBQaWxBaG5iVXVhM1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWEza0pINHNEZUJTWDFKUmxoeXVGajhwRFRBQUE4V240U1JYTnlNSWpZYnJqUm5wQ01KRDFJcTZpWkF6bVp6Z19mc0JlNWY1ODdYWm1SUmRBU0xtckRRQl9majdXNWdQRnNDMGtYMXZCak1kZEhjc3dtRTdBYkdsSERxcFBNNFQ5NTg4aW1CWm01c3M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-21/ai-spending-splurge-boosts-danfoss-s-bet-on-data-center-cooling": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-21/boc-aviation-s-townend-on-navigating-costs-fuel-growth-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcVNRelR3TlJRWUxwV01fbDhUblFza29oMkhKRWV4aGluYmwta0lobVNlbjRSZ0dmM0s0SGdDcGVod3VwTldvMVJHTUxKZzl0VVpOelgwV3dwX0RINUdVaTNzOWUzQkNSTHJXeVVDVWo4X1kwN29FTEdndzZIbmZOejN5d0lBYWdycld6dTlCV3U1R3ZrMDRGejFtUjRVNlFMQkdrUnVTSS1XeHdlai1mY3BBdTFzUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-economic-sanctions-strait-of-hormuz-ceasefire-deal/article71372035.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
