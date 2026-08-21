@@ -128296,5 +128296,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/rahul-gandhi-delhi-dharna-congress-cjp-protest-pellet-gun/article71372891.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/21/russia-conducts-missile-tests-on-disputed-islands-as-japan-protests-drills": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/21/monte-dei-paschi-details-of-bid-for-banco-bpm-and-banca-generali": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VlZXTlNmNDhnWXNsSkVfaDVMQ0IxVks0Um9ZbjR2MVdXT1FWTlZGa3NpZFlocktLb1NCdUpPeWZTSmNPRTFXQmxqYVF0Uk5YZUFvN21XSzVCZ1Awc3VBRjFLeVlNYTJIY3piQVEwTUxjT2E4bnNUVW9TZWtEdkU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/williams-boss-was-concerned-sainz-and-albon-might-both-leave-6333281": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwJBVV95cUxQRk9nYjkyeUgwZE9DbGtCMHdUNnV5c3pNNDNXTmNVQ3JwRzVRcmUyUlRyZmlVQjV6SEhKa2p4MW9CS2tldDAwZjZtV2c5ZU1NNmtmeUVCS2JRNERqWWx1MEVrMDZqSU9TZC1pTW9VWl9pZWhaRW5GUVlxQktFdnVKLWtHcUdxZk5CODVhLV84QkNtbldiVUFyYXp6aWxydmZWQk5mOEs1NHFYNG9xNlktbWNkU0FOM0preDdsdGRmM2pxcnZQTkRJZV9pVHZhdUxMU2NUbUxUUEZuZTJqQzVFUkhaSWxvZHpEa1Q3ZnNtWFFxQkp0dVJLVnVaR1dESmlPbmFZU1Rxc0VNUXZKRDRvVFRFVTBXTzVEYlM1bXhIOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/us-sanctioned-icc-head-akane-warns-against-demise-of-international-rule-of-law": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/21/latest-news-bulletin-august-21st-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
