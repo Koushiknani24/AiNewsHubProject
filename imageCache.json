@@ -129154,5 +129154,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-21/can-the-treasury-fix-the-us-debt-crisis-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/france-issues-warning-over-thousands-of-substandard-condoms/a-78462877?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-wladimir-klitschko-message-birthday-1236678444/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/norris-still-believes-he-can-retain-his-f1-title-6333991": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHoxN25TZjVwelYtWVlSYmFpNlB1VlVNWFA0d2RVdmU5YmJoOThUem1MQ1NUREJEekVFVkNZWmJ2MkszLTRzZkZGWTFWVlNycGQ3eWRPQ2N4d2d1eHR2d3FWSW5hMXBIcDRDTjJTMXBKMnEyTW5fS3ZITU5TOHpCR3R4cnZubWxJMGt5V1huSWt1SHcwVFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUpFQXFhem1wZjg4aGlLY0Y5UlpYZHpNeC1XaUVRcFhtVDE3anNjUmxDR3BNTDloelg2bFl1dEQ2NDY5SnhIOFJQUHJKbkxYTjNnRm9FVU9tOGxZZUlTdHp1aHlKdnhtZklBMTc4aU5lTHlrUkJqRk9uWHVfTlhEc0xxTGU5V0xhTjFBaFBGSWRfUWhVTUQ0YUswb0cxYWVEVmY2bmYwel82ZW5taVk0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnhGTDZNVDQzZDBWQkU2NkdaZllRbVZBZUtKOXZFa3JtZ3d3bmFsQzR6VWpxeWlHZ0JWX2pmbjZLaEtJbndRRVloM0tqLVB0NFVDRmdjS0UxQjdsQ3NzLWVwUE5FSmlLMVZLQ0xFOWZBUGtheFM4M1c4NjYweTl2NTQ0TWd3aFRnTHhVMzRwb0FWMUpmdnk2b0lxTS01cHBTRUY1bjlTUXJwUzFOd1R3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEJ6NTZzZFFaeTNFckd3S0x3cWNnRk55bFFwQzA5VEwxcHJMYUs5THpndkVEdV83eTJwT3hXZ3dPX0kwQXhnLTFGdEFCUHpuYTJ2YV9HNHZiVmNwS1VUeW1iTFgzOUZteHBqNU83YWE4T3ZRWnJMRGdiX0NjYi1RcF9XMi0zOGdXcWFzc1BjUFVWWHViTjJYazluNm9oNWQ0VWNDcFBn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
