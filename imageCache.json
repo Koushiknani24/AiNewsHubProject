@@ -128530,5 +128530,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/haiti-deportees-us-ends-tps-protection/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/poll-ai-age-group-weath-future-technology/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/duplantis-swaps-pole-microphone-anthem-world-athletics-ultimate-6333421": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/friedrich-merz-germany-conservative-mayor-far-right-afd-donation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVktSzVTOVh3bVVoR0VkX0pHUVFRRzVHMGJla2ZCMXJtbE1naTlrVTk1d0FCVHBVZ2czd2FfMElIUmtSaG1EQ2xFME9WNy03eEE4Nkt2bzU0a1ZNTnBaS3FWTlFZTnhpTGJhQ3RMclltQUQxSEpLZjFFMkwxcFg0RWx2ZjJHdzlmczEtWFd1TE04bVUxWWRR0gGcAUFVX3lxTE5uMExiYlVQbHlTcTQyanRNSlZDSXlLcU9raGhQYlpjVUxVT2xJTVBwY3hOUkZvSDVHcXZ5djJsTmFxcWt4cmZXWXRFVDdsd2NfZ2l2ZXFESEt4QzNvdXhfNUFJZVdxSl9xXzZXWkxCN3NDbjl4cXliVzI3YXpxbFpVT0NtMm1HTnhSRWtkYy14ekhtbXQyMXdtYVM3TQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0RnV0ppaGN6bjJ2OURFOERIeUNOSXpFUlljYUsybFlraHFyVDRoWlR3SnRtNHJ4ZGwzNFJnSkZhODNXWS1tS052d0NFNTExbmFMWWpPUElqT0VTdzE3RnZSeVd4c1J2MjZ6RERWd3gzcHJGRFlCMHpKd0RfX21oMDIzS3hxMXBNMHI1U043TjJyME13bW9BRkhWSmUzblNYMWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSnNGYUg1ZHhxcXJ1RVlyVVN4N0VOak9iTDBXblJ5M2RyNjVHbDIwMVduTXpzZ215VkJGRTBKdW9oRUZGQ1kwNnc4cDYtZGlkUE9PNVMtZ2xRejVkMDZBRmJsRXdzOU5sTjJCU2N2eEQ5d0lMOURZMHdSTVFZRFQ4SEYxZjlNQmFSN3JZeUlhbTY5by1tbl9tcC1ITlVFSE1OY1VpRGx5akFkeDVnYlNOd2dJVzVwLUNmUHA2RVVwYTRwU0d2QWY0Wkd0MmtVS1BXZFFrX2pMekc2TWxrX0FpWFBMTk9JcmU3OUJyRA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/21/ebola-outbreak-in-democratic-republic-of-the-congo-growing-exponentially-un-warns": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNndpTU15LWxTYTExWEdOYy0zSV9LSEVUeUE2R3haWXh6RWRmMTFrQVY2TTg4bmhYQVFIVThHdXlVaGVCMTFHNXdaektyMWY1ZUdCbHR6U3d5UjA0emt1X1pNbEJzcEJYdHNFRDhoOWRrTXh5cU15WVp4YmJ1VnVWM3NpVE9HN0ctUjdfbDJUcWhDVjJHWDgtZ0dTRkg5b01HNDlEOVU0TmFKZnRDek9wRnhKd3cyQkdjaUF0eA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
