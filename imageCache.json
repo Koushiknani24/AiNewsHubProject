@@ -129526,5 +129526,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-21/us-yields-soar-ai-pushback-playing-politics-roundtable-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-21/hedge-funds-cut-bearish-bets-on-european-diesel-to-two-year-low": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGdTckdpWk5Mck5NckxzT2hYZnpJZHQ5OTluR0Z1emc2a05DcjhaUUNIRE9BMzlLaUtQOENkSkhWY05ESlJWR3o0cE9wNHJ0NjlkTm12cExNdTZGWVoySXR0QkxjaU5JWDU4MDRXUUt2VjltTEtfcGxpdDh2WUNVanJyYXZodVdvaVJCc1FVQk5DbDRXNUNidVJTNTgzWDRkNWxjbXZNeGJWVUhCV2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2N0RWxaSU5KSXdiN0ZnRkRDWGlCLW0tT1c4SDZhOXdGQlJiN2RtUHJFd20wTlpValRyVXhta3JOMkp2bzFFdVJhekV6LWx2Q1ZFeU1yVmNsQm1oSzNDRmNQWDAwYXh2Qll0M1hldG9XSHNEYUh6YVYzVjFvWFVPanhXQWRxdXMtRXVoanBieTY2SXl5V3pfSF9nOVk1Vk1h?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/werro-wins-in-lausanne-tebogo-wanyonyi-lay-down-markers-budapest-6334186": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TMDV4Q2s0QVVHMXFPY2w4RjUxY0Juakx6aGs4NUh0WloyV0lkUElnMkdUUEhUV1ZCNFQ3YUxfYXRTY3Z3b2JCVVJwdTZpSDFhMGplRVplZUhTNUtmbC14dnF3TlZQbzIwbU51YmliSmczdXNaZm1n0gF8QVVfeXFMTXlQWDhxZW1wNDI5b2hyTFFGLXh5M2h5YVdaanoyTmw5R0cyRkZvcG5Nd2ZMUUNGa3NMczF0dFN0cThNU1M1R0dCbFlEajhWb1BiVU14bldkdllIQm1xNDY3RWRiYjdFRVhyelctcklYUldpMkplT29kUW9kNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX2o0TFlYNWF0S1VZZXpITnlDbkI3akNheUtVejZBVHliS2FiRGdDMV9jQkhZOFNIQjVDTENqdGRWV0VhVGpvZjJjaDJlZkNTOTJzR1dJV05sQ3AwRGh6ZFdqeHdvRm1PTzluTDlUMURSMWxqMzYzcWt2SkUtSzJxOGJ1MGQ1VlpUdTNLWFZzMnJNQ1p5QktTWjZqUk1Hc1NxZkwwendn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
