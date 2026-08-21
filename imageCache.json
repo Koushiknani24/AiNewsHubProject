@@ -127564,5 +127564,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUV0QTVJenlmbHpzXzA3MDNVOFJzamNER29nMVREWXdWbWdIR1BER3JuczRHTjNjdW5UQm5XWkt5OG1FREVLZzd0WnRxYVgydkdjU1RxVzZYam81X1d1VFVOMl9rQ09tVi1YeXk3ZVRRRVBWNjBDblhUWWtZRmZ2b2N1ZWltUm1wV1ZBRlA5MDMyd0JoV0tMN2Ytbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/sheinbaum-carney-trade-usmca-tariff-call/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/trump-former-fixer-michael-cohen-have-warm-interview-at-political-low-point-for-president": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkU5eFR5TTU1cU02MkRBZDNBUF8xVk5FYXBPNDBlLU9vQzhuTFhhWFV0Q0xGblhoTk5RR2dtOVU1UjBvRDZ4cVU5UnZUQTk3NGVIWmRkMlhBa0FCMTlTNUhYamtsV29vNUZxRHVUbmt6aXF2YWhVX1lQY0h4ZE5JeVo4ZU1udjlHclNrelFMNURNMXhLblllTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3305344/uob-advises-investors-to-bet-on-ai-hedge-with-gold": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSm5WMU0zaWxTM29DeUhUeXd4TDFIekd6aFRQM1FDVmJ3dThnMk1pX1pJQmZRTXpQelNDSDZLTHNMTkJFWll4cmtWcGk0ZFVqT1AwNmVYYXNjSDQtNkhLVTdYQ0k4OUxYSThyemNPWXRiSjFWVHNZalZOd1R2M2k3Tg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcTQtX0NfR2VReFgxQmhLNkxpTzZWeWRKQ3YxbXRlTmFWT05EcnRIalJ3cnoydHRHTzBtWWxVeTBtaEd1V0M4OTFPWXJWcGlRTm5TbUluZGYyUld6bE5LWFBfOTJOLUc1LVlrcXVYcmhvOWNucWRhWFA0a0JMZ1BqRUFsRUdxbmhpUlp2VFljTTVSWkk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1pHLUtXTFg2Z1otclJOVHRRdFRXTkZSTE9oSm1lZmZNVzJjUlRVSFNwdDdTc3JFR2pHalJScmRyTXBMZlpLRDlGNHF0US0zUnRNZ3Z5WDEzRVpaZGZiVGplR1VieGppOHkzbEM5S09MZ25KQnJyZ2djZWhxU2pGY1E4NHJMRm1vU0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORXRFSUI1eTZtUldvYXM2emE2bUZIQ3gyZ2d5SGxVU1NrSFJSSFYyRUM5RzZjVl9kMjVDVlRyVU9WeWZaUHlPRGlqQ3F6dkxnS0VrN0xaMkY4S2RqeU1rd3VPS3M0bEZjUVNfWWpIM1hNcHhhRDl1U1JWdlJDLVY0SlE3YWFCMXNvYzdzS0VqSER2MTV4VjROQzFENXB2cDJVc0pPdENPWElGWDMyQWo0VjRsd01ybUIxWkw2Nl9CcUxFbzBOcFNCVElZUWJ1eDBBVmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/china-switzerland-agree-to-new-trade-deal-scrapping-most-levies": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3JsUVRZdmFZOHM5d2xMZGpaYWhzMTc4aExZODFtUmEwOFRwWnpWN1pUc0w4V1h6aDhPeXJ5a3JrdUJ0YjJic1Z0R1pGSlpBUjRidXFmc3ZnMlRNVTFXWWtmYXNZVGplc1VPWVNyX0FOOEJrcWpLdjlwTDZGQ3NWWG5ETGM3ejVXcDRoRFdSQlViSGhtb19JaWNLVXFTOVJYVF81SWlaYTV1dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
