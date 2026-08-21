@@ -128680,5 +128680,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/ed-conducts-searches-at-seven-locations-in-hyderabad-kadapa-in-vivekananda-reddy-murder-case/article71373586.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608210477.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/chase-stokes-outer-banks-finale-goodbye-interview-1236677412/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/france-dodgy-condom-problem-fraud-watchdog/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/politics-and-nation/rahul-gandhi-ends-over-six-hour-dharna-after-fir-registered-over-youths-pellet-injuries/articleshow/133406102.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/iran-war-harsher-punishment-law-contact-foreign-entities-media/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE16X2c2WHJrclZoQ1k4OFJIU3I2QkNPWmRWcDNGMFIxLWtRM3FHbGg1S3VtMDVjSXpLS0NmalFVaDlpajFUN21MazlIejJKWG1rVGx2T180VFoweFlxTmtYODZCcmNTZjJ5c19ETlJn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHNhemg2UFRGY0JkaG9qeV9Hc2s5Nnl2T3AzcDBYSElhUGJIajZUZ3NqMVZROTNQMm9nOHgwSWhoN09Za1EzN0NnMHdVQ3RWUE1wM1RmdHQwMnFhTlM4M3dUMVVnQW5CNG1ZU2RHSmlDQXo1M1J6UjFtWWNJUnE2aHlYWTVoa2toMmpIMTgwOXg3YVJpUzFPc19oRkxXRlRMVWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTE4Q28yLTdZR2x2cjRLWTZVUnE4LVRGYTJ5WEdZdFh6NlBYNXBoY3ZCRTNuTV9pV1dhYjhFWG53SW5ZWjFjb0xUdkpoWnhnVHNrUG43RElZa3NvWmxsd1Jjc3RQUHhGZnhCWENDQXRPUkRndjI2QVNyYjlqTHJ4a0R4NFdhbU0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGlqU2dNSTRUM0J3dWhOcnZteXlGdVVRM0dNMEpTUlBMVjllZ1Buakhha2JtQzBLQjlwR1ZRNHlYTWNGc2d5Y3VFWXpjSjNtRFZoSHBaa2dXOXZwcjF4cEhzNGJSU0d5a0tjdUstS2hELVdRZm9rODZnLXVBNGFXd0U5NTNyUlMwR0RwTHE0aDhXWWpVbzJZOURDZ3gxYnYzUWZwVjhkdW9yQdIBrwFBVV95cUxQUlVqUi1GQlRNRkY1bzhvb1ZpV0dpd21lMjU5Z2V2c0xVemxGamJrX0F1VjNyS2hsMDZBYU9vVW5udzVRNkd1OElLYVl2SUJZMmlUTGYyMlhSY2xOT2kxMmI1ZUZQWFBvUFRrNXJRZk9JSWtXcnBERXdsN3hMSHdhMC0zRFJFbTBxb0lJbFZUd08wdXR3c1g4dk5vTlNTdm5IOEx6VjdwV2NpbFNFOTlv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/21/syrians-who-came-home-after-al-assads-fall-find-a-complicated-reality": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608210475.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFFUT2hMZFc4S0NjdGVwVkpHQ09PRldpaU84bGgyY24wX19POGtxLVBiUURpNWMwWVlnQzBZUjJKNU5WN2VNVEYtNUVJdFFCaUdKSWxpSG5ZQ3Y4MEVha0Q2MXpHcWsyM09EejQtUERfUEdlRk5QWHU0NXdQaFpyS1JzMEtDWHZHakN0aDk3RFY2MmJ1el9nZk5Pemo3TGh6X1HSAa8BQVVfeXFMT1hGSWNpOGU4RGtrWnhXZHR6VVlnU215X1VzMXdYSi1aUGtzamRnU3NVZUgtSUFnRmhobGxQdXVEUk5PYlpueG80amd6SHV2Tkh1RDY2MzZzeC0xb2dkb0NFTVYwSlpmNjVVakR3SE0xX0F3elBuR0xvdTV2cHpWYm1kUWRVTVN5T1QzQWxScnZRaGI0YjhCUndCV1A1em1GYXVwckdMRVNEcVFTNUZZbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3305615/600-rai-of-illegal-durian-plantations-to-be-cleared-in-trat": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ21taUcxdFRuYmtVVWdiQ1d5bEdvaGxPamdjd19HSE1QVG1HQUo2NE9aWUlWczJpYVg4d2hSN2RPWFhCUnZ1X3JfV2NUc2NsS0FNbEZiNW9RWGxIMW1KUmw4Z0x2R25OWjJrUy0yUXdsVGFxOEszUDNNNlRCdHNjdHduVnJkTEdXT0dCNEh0RkZ3WWE3YTlKYXhhQ0duRFVyZXUxVERHZzk5UdIBrwFBVV95cUxOd0I0bUxETkczVmlENm5iNDVXVWxZV0RKb2JNODhIbllVeHJndGthQk5FVzJMaVdwMDU4ci0tdlhrUUtOLVBLS1lLMGVWZU4zNVhsVng0dEFHRkVlM2h6NVBtX3F0OW42eUk4eFpxdGJWbE1UVVdZbWFIOXF3c3pNNEFkT09kblFJY19fQzNRbUk0QU1GOEhfM3pnUWU1MlJyS1RaRGJVdWwydFJKLXJj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmtUZFNHbUpEQmpmZVpiOElzY3N1ZjRJdkpsc3IyV3R4SGZhbW1jVXk4UHJJT05VVzFzWFhvM21CVk5weEJOWDJhcDVWeGJLTHVqT042LVVleTlITnc5QXlzZmdCZHluWGdoOVdmRVJBTGNPNS1GOHZBNWZVcVREWWZVclhudTFRSUlhd2t4WkUzUDN4aV9LSGVTU3VFNllZTFFEem5TUdIBrAFBVV95cUxQMUtEVFNGejFyNEhUQXJLQTlPMkQyN2xUWEJQa05rdi1oekFNeGN4WVRDS1FURDBObi1CTXQ3cEJGRGhzeVB4THdwOTJCUWh0QVJnV0RFaGVHRjJ2MEtWX002aTd2eEI1MVdhcmhELTROb2JVMERQSlgweDd3RkRTcjBhcE8tRlFxNnpxUk5GeTdZLUcwblZHUkFPVDduQnBvWFdPUzBOUkg3YnMz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
