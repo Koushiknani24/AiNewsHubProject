@@ -127960,5 +127960,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/morocco-migrants-caught-between-ceuta-dreams-and-reality/a-78443537?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcXlEM1hQbzYxZWZ1dUhMb1E2UldyX3FqUE90VjFHZDAwcXlfbTA4bmI1U0hPeHdiVFhzY2JCZEwyelpfSWN1VzZUdmFabEwtSDUxRDVBRm9hanY2RFQzYWNnSDB3UUdPNlFzV3BqanNRQjhtUzNxaWw0ZkdodU15NDU1R05sWDBXT0toQ0ZJSGFTdGxoX2J1S0huVE1oak5vbUNKaC1aTnZBdEcwbGtaTU40VU4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0swS2VYREtteEZDVnlKLUV4RDdoMUkwdDF1NC1zSUdhaVg2ZGN2LUhoSF9DTzRnV1VRMTZiX0VSNEJMM0kwcWpDX2RmTnlfOVM5YXZMTUFJOUFSTXBwbWVmVEc1WVJWdWh6WDlzc0RRR0NTNEdyZUUydHphRlUtQjVIeE91emxhSzlmWENfT0hxaXhhQUNJcnZnUGRUZjBJVnNSSjFyNkJNMVdPdk5zNkdKYWpFMFnSAbwBQVVfeXFMTTJjallXbTNUWFlGUm9pOVhuVmc0Wk9oQVdJV19MRXdBZjdsQ09SZmNiUDhUMDljaE92ejdocXZIZFNFY1lpcWxmeDhVSVhNT1ozX0Zma1VlMmtXcVhiUWNGUy1XcklubnljUTNkUGdhbTVYWENFbkF4eXA3SmllVEJMZDVvQW4tMlN0Sk5JaVNtR3dyNS1YUTZ5TFJOaUtycXBucHk5bWdkVTcxWmhnSkNOUnVVT3FudGpaRmU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/21/panama-canal-to-reduce-shipping-as-el-nino-fuels-drought-in-lakes-that-feed-waterway": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3305575/thailand-to-resume-direct-flights-to-new-zealand-triple-trade-to-boost-ties": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWENuLTZRck5yNXRURW5QekNZZ1VJWmtTVV8zSmJ6SWxPd0NIYWlmWWdQdERDZlk3UVJnQnY2Q1J6LXZ3b0d0RV94MGtyZXU0cWtVUDhHZ1NxYVdONDdwSVVzVXdLekM4ZXlFUjNFY2JkVUxGY2JHUGNGUTRDb3dNWTBvOHlUNlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-21/korean-chipmakers-cash-payout-plans-may-drive-won-rally-further": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/zambian-police-summon-opposition-leader-for-questioning": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
