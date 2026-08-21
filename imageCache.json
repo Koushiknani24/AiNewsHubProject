@@ -128362,5 +128362,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-21/everybody-s-business-are-we-headed-for-stagflation": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/teen-pleads-guilty-over-arson-attack-on-iran-international-offices-in-london": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgJBVV95cUxOYk9URXIzSmYySGRvNERsdDdtaFNPQnpUb1FYUnNKb0ZVLVkwQXFFTjVSdk90cjZIRXozTzhNWVpudjNzakQwUkQ0WF96LW5WdTRZY0M4NnFjOGVsTTh5MnRoNWJXQTlsSEUwVE9reF9SemFNbmdRV3hXUURtdWRUSk5oSU1zeWJSZnlSMTU0aTRmNUlldEdMTFEwdEZyTEtkVV90UWswRGRHVXNnX2NfbndaY0UzXzI3ZmZKbXhXS2VLYTFFb2VnUG45NU1GVGtncEVUX2dJYUEtV3dPTF81RnROZXlaMkx2NVZ4UDlBMi1LYy0xdkljbFBJWllJSWtWNkJZWllRYU5uMGtZcnfSAZMCQVVfeXFMUE5IQVNJSHB1UVJWR01UY25teGl1cWxuOHRJWjVEWUZtbHBuLUR5YlZSR1c0R2otZjdGR3E0UWMxRnU4U2FLTkdEblpXYmVkNEdhMUcxTGl1bVZHUThSUUdkWkpFUGZKT1BHbFNYLVhaejY5dDBQQXJVcWtKOGF4a0lTUTZBb08yRDl4YzUxZEZya3FISllzTzc5TVJUVXVNY1pUYWIyM3N1bG5KUi14YmRUWi0zaGkzbkk3WjhxWDJyaWpyRUVDclBTRFllR2paZTF6QmJENUd1RTA3MTN3S0hGYUhqMERZeV9nXzdMLTlhS3VQTFRab3NCQ1Zkdm45UTJXZUV0OEJscUx6ZGhlR1JVNEU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSXl2dHhCb2VrU1pTMmZQX0Iwd3N5OFlDYzJZYWFSZWFuRndWekM1bk1sOEJ2WF92ZmZSM0xYb2xMNTlZZ3d6SzdiZ3VmazFOS05oNlhBR2o2bXVLWWNHWUVrcUJRakpFOHFEVEgtbzd2Wi1pSkE5NnRvcmo1TWlnOWFsaTdxSFFFb1Y2eG9WUmZ5dWJnbERTWlBHM2Y4VThYM3dNb3ZwTHZqMkVickFmNXl1LWMtNTZwaFBFV0ZUaTk5c18tZmpfbzNidERCNWE1TGJ5S1o2TTZ4cjg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/japan-executes-man-pachinko-parlor-killings/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTjlvNDJSc3NYbFB4QTlxelRzTmVVVEpNQjNuMXFKa0NNM1h6X0hHcXJYTUN5YjNmQ2VfNXhvMF9hZWxHeWdEYVlWVjhCazNZWkV3Z08tQk5GWk1YdTljeldtOEtaZU1ZN3J6NXBsRDBoVXpuX0NkT3g0alFTaTJueUtlbGxZNFN3TW4zSHh3TdIBlAFBVV95cUxONGNRd0RwcTJuckVfX0lPN24yS2NSSmZZQ0J5WXFrN3NpVlV4TlFBd1cza3FaRFM3NDh0cEhENHIwUGdKN2E3MjFTZFRWRS1sc0V2QzNUSGNWd3E4OE43akY3NUdLSXNrZHlmY2t6Wk9hS0pXSWI1ajlOWm9QLXVzRHdHQ1ZIMG9BN21QUVppMGlYMXZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWh3Y0hXYjNqVjR4cmtZSkJHM2JKUHN6VlNSRUlud0F6d1ZxdmNHcnY2ZGduUkM1andFbGJhdmxiX2VvbmtxZldwS0thSkNrNGxrM2xpZEFmbGt0TGJ2R2lYMTlrT0tnUnRuRmtMYnBmWUw4MGttTF9YMFN3WURNb2Y0MmpQVTlxMjRhN2ljMHlrWGdSX0dySlkyZDRObWVjNVJzRA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOblktOEkzck5fSzdFanhyYmJhTGdaTExXaE1zcWNOMXh1ZFVNZU5EYkpjVjlaN2hXdldGaVhwaW9rUHhWZjZtY01XTXZxbW5JX1FvQmtxSFQ3UjVwdTl5N25wQUs1WHZuWXh1WDExWl83OXRIUHVaWlBDLW9TV1FtdkM3ZmJkSnR1dGRGeHpDTmYzMjVaRC1tSWZHdnRWMnlZSWhVMmRON0lZYjFm0gGyAUFVX3lxTE00VEJTWUJnZHFFZEVWazRjY0UwNVR4QW9wSWQzeEtqS0t5TTZ4cG9TNElsZk1fcjg2LW41QmJHZEdSNVZ1ZjdVNy1JeVB6LVAzN2NDeXk2UHlQSFRkQmFBZVloeHlBcVZwYXpFZGpTS3gzLUtJLVM2UmlYSE9qQlJYTnhMamRnYk5uQUxfS1lsTzJMR2JqSnNqd2xTc0lrNGJCZmZzaGJlLXpzc1poMUt3dkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
