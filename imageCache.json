@@ -127642,5 +127642,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/warum-sich-der-glaube-an-das-land-lohnt-mit-justus-geilhufe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/week-ender-archives-is-china-the-abusive-partner-the-eu-just-cant-quit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-holds-rare-missile-test-near-islands-claimed-by-japan": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-international-traffic-plunges-36-as-war-airspace-curbs-hit-overseas-operations/articleshow/133391381.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-21/johor-nets-1-2-billion-in-investment-bids-after-singapore-visit": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/nancy-kissinger-wife-of-former-us-secretary-of-state-dies-at-92": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRlZ2d25Ucl9qX0RxYnRUTEF0c2xzeXZwSkgwQk1qTl9LSVVDTzVUMUYxV1FUbFdCTUhyclJPMzcwdVJFay12VGtYb2gyY3pIY2xTR1htUTZpOXNSM2lnZHRBZ3NkYU5RQnV5MlhBV0E4dXFOQm9kOGNWaTY4RTQ2WkpEb0NQOTllZ2dab2dRT1FuUm1WclZqYUgzUVFmbW1sbmJObjNaVlk5T0R0Zmo0V2EwZk9FTHJ5S1NhQm5kTl8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hNjV5azVPQzUtbUtPZkQ4bGdIOC1PUjBxUDlLZU51dnN3VEQwbE5wMVh3VjNiTjliLTNGZGJDSGx1TmdBbk5nY0FNV3RXT3BDLVJzYURR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/key-european-leaders-demand-israel-halt-west-bank-settlement-project": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/liberia-first-group-third-country-deportees-from-u-s/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZElmZ09EVndWNzNVVDYyQnVfTU40VmRWU2dwLTJWM3EwZzhfVnI1MU1paFJVa1NUWDJER3ViTXIyREFMTXVrZ3RrOFZkaElNOGtfZFlwRFlSbjN4aFh3UGhCNVE1Zm15c1BFNS1CXzVnY3lBcWxHNVJYcGpKSTM5eVJWYmtPcktmRnA4ZDBUMnJyRk91TmFwRE51aVlBbUxVUUN3Um1vOEpyVkk5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
