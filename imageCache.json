@@ -129076,5 +129076,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aY1RQU2Zid1hfLXpHZV9obDR2X2d1Z3RKNzJRUkpTZkRya3VtZUFwX0xxZXlJME9QdnNBOUtQNFNlMVJoMDZucmp3bVdkSklsZGxGSGZjNG1oZDRUQmVfVE5vWmVHNlVoV2dxXzNOdjl5d0ZqSWo1N0Jnaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/israel-faces-backlash-over-gaza-aid-strike-probe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/airbus-backs-down-on-return-to-office-after-protests-sources-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/iran-vows-devastating-response-as-us-threatens-toughest-ever-economic-hit/article71374981.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/mexican-governor-accused-by-us-of-cartel-ties-returns-to-office": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/music-news/bonnaroo-2027-not-happening-1236678422/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQnNMeW5KUG5rVVFRd0NLUkJlbjc0WTNBZ0I5TmNTblBheGcwUUJVZmZOd3d4YnBWb3pmV3lxb25xcjc2NnQ0TFdod29LZGRVNC1DOWNkTmhyMTVfVkVpaUUzSTRhZU9BaVdudjB2cmlsS2NXdFZ2dnE3ZWU5cFRaLU10alN6eWlBTEFIWkdDdlpzTEJZZ256X01RcDFodnRPT2JCd1dXX3JRQnJ4NFN3ajh4eFg5V1JxeVVDU25sQ25LVWtVcjRsNGxSMlpoTHlrRW9taA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0FHeUE4dWRSYWhKU3JlTk56SzU2V2VtSmt6RFZpQWgtUG10RWVBTmJVd0NTNmlBMHVUNUZMRm94ZU95Xy1qQi1Da1ctdFR1SkVIenR4ZkFDMVk0SGxWRExsNS1xYWplb0hzQzJZOHoyb1RqRWd6djhnczZJOFJNeTF5LVA5bHBudmJYSmRqRGhUX2RoNWZVaUh2Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/turkey-to-seek-interpol-notice-for-netanyahu-in-gaza-flotilla-case": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
