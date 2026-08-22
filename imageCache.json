@@ -132064,5 +132064,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/bunny-levine-dead-gilmore-girls-shameless-thelma-actress-1236679105/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzdVVVF2UDBMZFBWZXloLTFzUnBKTlpQUTlIZU0tcHBfVWF6blpiT1FIUXZzeGtUV212b3QxZFl3Nmo1MGhETEVfcXpnZ0hOdXdELUh5UEJVT1ExaURmNXZ4dWIyS29Cd1pSX2dfYlpHcXpJUk9OZEhzOGlhc0lOTnJ4Q2V2NTNxNTNFMXhjSExidmVCUHpFRXl1aU5fcG51XzZXUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/auto/cars-uvs/indian-car-buyers-face-difficult-choices-as-automakers-offer-hundreds-of-variants-across-price-points/articleshow/133429270.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/climbers-walkers-flock-to-forest-outside-paris-after-wildfire-closure": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVFFObTVPU2ppaS1WWGRNWjJmQV91UFZQNlBodTlkNUxLTEZRM0thVlBQZFZiUUdQQ29zSHd6LWZXNnB6cDFlYjRGZG90TkI0Y3dpdnNWXzE3Vk1TMFJoam5LS2xhblNXaUgzMWNTNDFkcDZNN2VRSWhMNVh0Y1Y5YVM4S0IzR1lfeF9RVDRPU0oxUm9oS0JQekJXX3JIYklHNjBHRExSNERwbGhYTk82Y0w3VHc2a0F0RVVIcW10NDZCUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFdqVktrVmFsQ09keFFUalBaQVBlbkVLSlo1dEM1MExpaURaNkw4bmlTSFpfbGJpcjN1T3R4Z2dpUTNzQWlwc3hUNFhQTlhidTlOZ0ZWZGRleXp0YUdXRmdFS1hXVUY5X0t5d3c2eVdUQ2dFRi1ZRlZ0QUlwdS1UbWZnQ2h6TWhnRmZQSmlSUmZJaGRVaUM2Nk8yM1REOHF6SmpfbU1Wa05rN19nNUpOSE9sdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
