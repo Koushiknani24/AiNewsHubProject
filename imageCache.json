@@ -131554,5 +131554,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/canada-to-impose-retaliatory-tariffs-across-a-raft-of-us-sectors-pm-carney-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/jaiveeremerges-sole-leader-in-the-open-event/article71378821.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbHJycFNYNTV1bERIY3p6cmdZc0Jjb1JHM01XbU9yWnF4NVF4bnNUNHY1VHo4bXgyZWNnUHNjMmtXeDdyVGxMWGlKSWpPMm1PelotU2NMZG5za3g5ckszWVZRaHJvRjlzTllSSFA2NlBvSGJhT21ZMDVGNlY2em44eHhvRnJXUXBTbnhhZml5Tm9rMjJwdXk5UTVXdjZ1dWJScFcxOVB2SXdYNnJjR1AwOEFjczJ4cHN3R0NCQ1BGazdScWNYcTVtR3NDSkV3dF9val9KVnQ1eFRnQ3Zv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDUxZHc5NW41dTZ6WnFqSzJBUmRwSnd5VjF5QlJPQ1R2NVZxTVBqd0h2cXpvTjBQLTY1c0dsczZ6bDRiTUs5TXpFWmhEQm5NdV95c1NIZHFDaUlXVFVLVDJVeTZoRWZVMDZjVkhrZElFQU0ydl9xcEJIQkJIYklneW1YdkF0MWVkODBhQnZEeUR0d0RDNk1BREtjRXNZZktmdkJVemF2Vi1OYzlhVTdrb0JR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Kam8wUzBnbm9NT3lVYWFjNFhIS1hXaEhlWVVtTkF6SEtVeXk4WXhEZjFTcWdUaXZxQS1RZFYyOFcyZFNocVVVdWhrT3EtbnUtdzBWdUswZ2VDX1FmX1MwTHQybXZDSE82YzFJb185UXRUZlFkeHRlZGFKcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
