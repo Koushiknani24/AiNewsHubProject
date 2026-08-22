@@ -132028,5 +132028,23 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/mourinho-decries-alleged-bullying-vinicius-after-reals-win-espanyol-6335376": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU045VVFGTHhUelBIcmh2cEExS2FTY25WT1d0V25iMHp2NEZTa3g5bkNmNmJFU1FTcEdQOFpiZlA2M21tNjlGMEFQcDhGVHRMSnRuWmRNLUhzZWN4Zjd0NmNpY0Y3VWp6LURETFM1V21kUGwzZTNuMW5MTEpaV2lEMXZTMktjZzF2V1JDR1FQdG4yUk5La3pnWWg0dUVlSWdraUIwbWpMbHdxdmgzU0RQMUlsWHgtUmszbkNrcHJDMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaFBjWFVwMV8xLXVQeG91cDJHNGlJV2RIdDNibXREUGRsdEhlQ1dvdzJPd1ZqdVVESDZ2VmRUR09Dbm00bWdlUjVBUXN2VElFRnFFVTc2OXNWR3NGdVlqY013Zmh1ZnE4RTMtd3REdEk1R3lVckhreldkdE8teTZvdHo5UEFuenNWcVVKZFZmdkd0M2N1X3BrOQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
