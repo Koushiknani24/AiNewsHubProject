@@ -131932,5 +131932,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/wins-lens-and-lyon-opening-ligue-1-weekend-6335346": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTBLbDZLTVJiWmNOdzM1TE80Sk9uM0x2Q0RNNjZyQ2NpWFYyMUMxUVI4bW9mQU83OTctWWE4Q3JkMGtMN1k4UFlPX2U0ZXVMVUpyalNTYlQzQkZZemtYVzBjTUNPWkRqQ25jRjdMMkxkUXZrbzQ4WURPYlVaUWl6YjdR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMEFSUi1RLVVOMTMwbldGekFPb2xSaE9wZVhkbGw0NmxYcGc5dGRXU1RaUkI0MWYzUmZJb0NNcVBvUlMtSFdxU1BEdXZ1eVRMQWdick5MOEVJb3pXQ2FRY0xKUXVwbUtSNVB2Si1fX21TQkMtQjVoUmVaeEc5T3FVVjBmMkM4bFRVcml4LUt5Q1BXbzNqbkRyN19n0gGfAUFVX3lxTFByMG9hUlJwdFNaQjFVYmpKekxWbTNiXzltM3d1dzBOcjJEdmlJbGpUREF4ejZRckYwdTBxaFhPWTFVQWFrYkRtLUVyYjJETVBBc0xxUkwxeVJnVzNKRmpfcG11WGdhdWEtZ1ZyRmRnNk1UckhGMVp6ZTY2MDRROTc5U2tjcU81MVdCY2JQZUQ3RTBIekRnRUNyVldWVDhvZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
