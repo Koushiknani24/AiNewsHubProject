@@ -131992,5 +131992,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-aug-23-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTFWZUNMSEtWX3ZFREQwakZYQkRnM1dwMDFSb1l4cTF5eXpjd3FtUFdSa3RUMk5YQUl5Tmg0ZkVFTGNLcUZ4dUVHZllkUHVwN2NOdElCNzdYbzM0OFhMcHZxcVoxcHBmNFdwNFQ0a3o5WUZTNEg3eWZQYnByVXFaTWxkakJxVk5Dd1J5WDdDY3E1cGdXcUMwcFM2MnJ4eTd2aXpTWG5VRzZqUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXh4WGJxM1FndVNTWFVtSXFxbGl4cmNwNUFqdEFYWC1fdWtJelZvTnVkNW9FcXAwaURkUHNSMEpOcmFNbE9aVlZmTFRyUE5EODNQZzYta3p1SUNxX2JOTUdsa0dHVGI5WG9xelBVdjBUY0dORFhPNk10aFk2T2RWQk9IQTlMMms0dlFkb2NRSmM5bEN6QUpsRnlYVnJ4aFZTNTQ1OG5KaVA1RGd4bFpjTlljSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608220070.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVFJVUdFaGpvM1pobHlDbWRfRHdDcGFTUklnOThNZzFqM2p2SWVHWUdLMHBaMVA0UGxhbVBySVRtRDNfZDdXcU1oVkdJdjhOMUNIZ1V4T3lyS2FfYTNBWERadDJWS292U29KdUhjZkxvdDFEbnFTak9USGNyMjBLVW1xVlRvNUs3LVlZQw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
