@@ -131146,5 +131146,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/markapuram-police-arrest-man-linked-to-two-murder-cases/article71378030.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-22/sanctions-target-iran-s-weakened-regional-network-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/assam-cab-operators-suspend-blockade-against-meghalaya-vehicles/articleshow/133426017.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcVBTNXlKdWJQbHB1N0NFY0c5TDhqaFJBQmJlZ1FqRFN2S3FwMkFJZVFadDVDelJZT2V2LTBrS0l3OUxZbl9fbW5Cc0JzSUNMZ2dINmMtbFBTeVdFUTBqaDVlQ2dhNmE2ZXNsZmJFdVBndEhiQnJzbm9RNGw1WnRaZkVCd094eW5RbmxjbzFLbWJqQ0U5eHlnbW5QdGpDVDRIRU9tRw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/ac-mechanic-booked-for-engaging-with-instagram-reels-of-pakistan-based-gangsters-and-sharing-content-on-social-media-accounts/article71377477.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWUtnVERJWGdNWF9wWlM2QTRBc1EyS2VUeE9DTjB6S2oxRnJMQ3lfRm1DR0lpcTdub1BWbVFnRi1sWFJpUUtybmJ4LWlaZXB6ZkFPUngyZHYyckNqZEFVMVlQNDg3Mk1YSEVCbko2RE9SNGV1VDlpUldFSWNrYlg4dV9KWklhcHltWmVNdFgxb2pvVWRMaHJmTHg5UkI5Q3ZIYnZQaXdObXNZYWEzdnFaSjhB0gG3AUFVX3lxTE9SdGhLZ0hhYWlsdElJeUotNGpzVmZWUUJ6OWtFQ05TYXdlWW1uVWJnVF9GdWJtMjl5bFlqWGlNUUx0YVhKTkgya0VyM2VNSWk1ZndxYmZFbXplTVViZVZQR3Q3SkxmQWhqU1FINGh5V0pkY1FKSFJWcHZVcWQtcDJSYW1mbWFSb0RiZXNzQjg0Wk55NU5aY09aWWJmVTUtN2VrQnE5NXhERFJUZGRMWTREbXAzbGZIQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-22/small-dogs-big-demand-as-dachshund-popularity-takes-off-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.sciencedaily.com/releases/2026/08/260821012238.htm": {
+        "image": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
