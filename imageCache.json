@@ -131488,5 +131488,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/music-news/janie-bradford-dead-money-thats-what-i-want-songwriter-1236679050/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/king-gizzard-and-the-lizard-wizard-max-weinberg-queens-show-1235613346/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGxoWlRCdEhhbXVzX1NSbVhBdEt5WUJaa2VpalJkcUptMUdubExVQ0Q1cnJlNHdTdmJfYTFfMnNMUGk4bm13U2lQdEJFS2VxeXhZam85UmxiZC1JaXNBZVVObUpZYUxPMlo2eG9iVUktbnMydUJCZXY2YTJqUUR1aUFJd1J0S1Q1WkVwMk1QQ2x0dFQ0czdrbWtEaXJyZzh6VXJVdnBiY9IBrAFBVV95cUxOc1BRS1BpY0ljV2V2dGZJbjUzVmdjRDdkWEhoNkZQRTc0TDlQWFVyNEY5TFJGd1JKT0d6TWk4alV1UmZTd1hUQzJMenNVbUJ4SDlxMnJXdlpwd01IV1BtVmNDWTR6ZG5HWFBTV3hOWEY3STdnMEtVVWREdEYwbm1MZDZzaTUxcVYxWHp6ejBJOHlIUzB1VDBpRkZzQnFGVFV2emhTdkJJRnpuTnRi?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/egypt-teenager-abdelkarim-pushing-barca-place-after-prolific-pre-season-6335101": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkp0M1p5Qkg1V2dTN2p3YThfY0JDdURkWEkydEZfTE1rc0JOMFhEZ3dveGlFLTQwSmRjRV9GOFloMmZOODM0MTlXdWk1XzZmMUVjdWw3YUNDeVVKVXR1Rkk1SjhPdkN4dHBwbEZJcXVtZjFiOG1BZUgtQTA2WHNIX3ljN0M0bG9XUGdXc0szZW1xUzFUVEZab09jNFVHQ3NnbGx2WWVrOWpTZDVMVkFkb19n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQkN2aUEwWnVoallLZGExRmJXVjVJMDlFZVB6OUgzbmdxVlVxNF9xV2I1Z1l2OXFZQjlMamp1N0pTaC01d2FYRGFpanRoZ1hYTUNmMThZVWQ4QVpZVVl3NU45NVdfUEtHWERoZENJbFZXSEkzekoyenVKZ1JrSzBDWUdIUHgwV0pXdkZ4ZnI4OERfTjQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/cmc-performs-rare-roboticsurgery/article71377533.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEgtZE5lOE9MMDNrd1ZGbDdaTExiSGlkZXYxeGRmendheUZNQk93eGI5Wm8tOEpGXzdGbWRzNU1TTGxKS1NpNjdRZDRpWTNKQTNxS1J6S3BLVmloRERCMEVnSm1MUTBsVmhDVTlFRU9nRWVoaVViYmdxRlFqaUl6WnFpb1NEVUUyZE92Mmx2bGc2VjRSZ3VYNEFSRWdkcThhVHZmd1d3MnRCd1FaRUdTTkotWGtUcnhYdEIwV1p1ME15d9IBxwFBVV95cUxNRXlvcGZZZWdTWTlHMm4wZmtrTTJaU2J3aEpzQ0QwYVpkanhSdmVaWmN1aEI0UGZiaDlNTTVaOVB3WkpWeDlaM05JT0xCT00zOVRRa3pUd25XMlVjNzZGXzIwbXhheko0b0lIWDI1dHJZRGJYQTEtb19aazRfc3RKWmdOVmJwVDZuT2hCa2htbDhVTFJMZ3hEc0R5dWNlZDdrbGJ0ckNDcmZxZTk0bm1rOHlNS2dKX3pET2FLSFdTME1zeG5BQzAw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
