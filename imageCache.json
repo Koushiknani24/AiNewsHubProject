@@ -131890,5 +131890,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/growing-confrontation-between-israel-and-turkey-could-reshape-middle-east": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/tottenhams-expensive-rebuild-begins-familiar-collapse-6335316": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNUJLQTVsbEx1MXd0dmk4WkVodXQ1WnNTLWFpLU1zQjd5UUFFTFJzaFNSRmtvNnp2Nzd2bE5oWG1RX0R6TG43SHpYdjdxRVNHRTJEdTJuMEI0Y05YbEstVDBSVnlFRUpydUZqa1BJb0RWbUk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-week-in-review-august-2026-security-cooperation-tariffs/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPTjB2dUtJTHMzUVo4RFV5MmgyeVFKT3Q2RThIZzNEUFduYnNvdHl6ckhCWUQyaTVDaDRIYnYtdldMVU82OXAwZWo4ekpzODZTZ2dsUFhNX1B0R0R5Um52MVoxc3pkYndEemlFZjBPajlra3ZBZ0I1a1J0WFM2MVYxVFRGckQ2M1dKWkJRT3U3cWpyekE5OGhVTEZiNU5Edw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/bayern-battle-past-dortmund-2-1-win-german-supercup-6335301": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
