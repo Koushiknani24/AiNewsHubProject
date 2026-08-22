@@ -131434,5 +131434,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/gunmen-abduct-over-60-worshippers-from-nigeria-mosque-police-say/article71378686.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/france-agrees-to-accelerate-air-defence-deliveries-to-ukraine-zelenskiy-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kWmZKWkE5MzBpWjBoazBEeGEyZkltMEY3bnVVZ3drS01RcEZXLTJQWm9DNWpGNk5lSF94eVRkU3hJS2hRQjduRklHUUc0aGloQzVSNDJiVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaDRzdlFEUVB5SzZzMXBrb21SNWhfa0RxeXVYcWcyMFBxekF6enB5VTNGSDcwRkFsS1lfT1BPYkJaZkx2eTFESG9jRWRPUDZYZXloMlU4WlJHSkJ5bG53em01SHRKcmgzQ29HbzY0ekFYdmJ2Z2FMR25DazU1Z1Zrbi1rekVOQTBaVlY5bkpmWEVZMjN3NDJaUkEzdkk5WnhwRzFNbVZXUHZpdVE4QTlMTmRMRk5XakJDaGFjSFRHN1EzRm9zbnZwOGhadlZJb1RtN1NEWmRVNWN0RkNZME9nd1VGcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmJYUkFlUEFnamxkMUxnTFRuNWFMVy0yano0algyMnFuRTdOVWR2NVBIWHlkbnVpU2tIeERPbmFpNlh5ZGUzaTdXRVVnQ1FuOEQwRHFQQXJXVmhhcjBCNHVDUDdkcUZDclBmcjlteEhTNUU2elBQbk1MM2dPWFhHNnRNSTd3SDdlNHZwMzQ1QTlKdXNoZElLQV96SVF1ODhkckFHdU1iV1RYVnhfeWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/tamberi-backs-up-european-gold-diamond-league-win-6335086": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
