@@ -130342,5 +130342,29 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/jharkhand/jharkhand-ramgarh-steel-plant-fire-workers-killed-injuries-august-22-2026/article71376658.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/2-injured-in-stabbing-at-canadas-edmonton-gurdwara-suspect-in-custody/article71376640.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlIxaXpFbXlaRDljTHFEdkFOcGdIMGk0d2tuTDF5aGZFbWNqUnFhUlpHTnlYUjJKY3BYZXkyRXpxT2owc1Z4UDlxbHc5cF9NQlFNOUl3Wk1WOUhLeUZZZ3dPVVl2ZTA5LU5TY0RDMWlVNHBZRUJqbzZnYUVEQ0tqTzBIaVJNUElPUWhGNXk4ZURCUmZfV0dEOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
