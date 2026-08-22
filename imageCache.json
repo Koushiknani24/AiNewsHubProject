@@ -130198,5 +130198,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-canada-trade-talks-collapse-triggering-50-trump-tariffs": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXJicWNvNlVhUFZsYjd3QXBXbnQ1MzRGYXNCM2tkUnhLWFVaNnVxYjR4dThzMEpyUVQ3SjJOcUNKYm8xR0NGMG80d3gzdW95OUxSb3dZXzI2NWpoZEpYamxIQ2dQajFvMi1udTNjYmpVQVIxWkhGazRrYy1tTTQ1c3hmVDBoVHNmbXd3QmZ0TXpIeEZ6dUpjZm1n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/world-news/us-military-moves-15-million-barrels-through-hormuz-amid-standoff-with-iran/articleshow/133417233.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzlmQUtHcmJ4dVhSTmI2elUzVk1UaUtsYldfYmF4LUR0X2NRYjEwaExjU3Q5RG5SQkpZcVBkRDZSVUdKYWg1Nm02RXRfRVRrMUtyYVBxYTJnWFVfSDlpei1DUGQzN2hYZ01ZU1hmbWcydUFJbEtCcjVQTlphaDFiYlJuN0xpZDA5ckZaQlY5c1VBamhOVnBiTXhoY2hQdzJxcHltdWI3Z1BVWWxBTXhFNW5fT2JNcDAyLUJYRjhBS1F4X3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS2FtZDhpY2NXdFpDeFVlWEd5RVFtUVZfeDBjcGhsNU5TajFHREJHV0tpRHJJYWIzQ2M2aW5weVREWEp1TkhaSXRQV2NEdXRPaHBrYWRzYmRzWUlGWnNGbFJxQkRZTXM0dDZSWnRXTzBBVmZ2U0ZNQlI1NDBXbkpmMkVYOXp5YU05RlB1R3ExaEk3QmVSQnZMWV82V25CM1dMeEpoaUlVZm5kMGVldFM5Ql9pNDlFWnpMZDhGc1lMY2VWYllmTXNuUjBjc21fYU9wVlVB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR2ZBVWh0U1d3ZDdXWm9JUEs2UTk4Nk9vaW5SajRPZlRMUktsSjlHTlJ0OG1PUkUxUXFBa05iRV9ucUtsZlJhWVV4bkJlVXlxS0k2amNScmY1S05JVFNyRWFNYmo3YnZYU0Y5dDNSZDByQU01b0ZTaF92R0hyWXhxc084dk15M0gyU3pmcWdZbno?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjF3cEV1NHZ2cktyX1R1MHdVRWl1VlQ0NVd5TE5SZEdGSXVaMEwyaUYwZzdobzk2M2pPRVRvX1ZuSHNsYl9iRU9hVWluYTdUNy1TM2IyRmVYZ2YwWkV3dC0zenp6Tm91UVQ3VzJSWG9KZnljRmNHTWZVbjh5aHhRNWJCTWx2Y0hZbWp2N2NuUTBXNzhhbHFaNDBsTHRYbm9SWmtIVEZQLThPNi14dThQMTQ4cmZXaHFBY0o4Y1pn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/in-us-rare-earths-extracted-from-coal-mine-wastewater": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRlNKUzVBVllOYjRpQkNjcnN1RURyejVXUWxNblNlZEpuNnUzdHRPQ05hanp2NG9tYS1BTHdqbUhzU0VpNEZBeGNhVHhUcEpudDBtdzExV3BBMV96VTg5OWwtR0UzYV9neEFzbk1hUWdaQndCZ2F6dVM2d2NVR1FQQ2ZvaTZvc3hhc0FsdVNmalY2ZWNMMEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
