@@ -131326,5 +131326,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OZHM4OFo4OEhvRE5iUmpOSi15U2NqaEQ0OGFWazktZkRIVXVHVkMwbnE4eHBJYXIxNlk2bjlmYkZvaDRzM3R3TnQ1VlBBaF82RUVWSWxOTVUtUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/global-trends/trump-urges-court-to-reject-bbcs-bid-to-secure-records-from-his-family-in-defamation-case/articleshow/133427074.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeVhBYUpJYVJJZHBteGhxQTZTTElScnh4SFJOWGNpYm4xaGtOejJiWE81M0tmWWtTWkpiT0NaaTN4eTlaUjlUVGxqQ1J4aGRxSTAxcUNtUkFpcG1Yb2l0R0pSUlh6WVh1TE50aENja21lb1pSOHM3UGx3UGJsdzFlV1hLZ2w4TUh0OTMxb1RpalFtNTJvSmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/cities/chennai/india-on-the-cusp-of-redefining-mental-healthcare-experts/article71378301.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
