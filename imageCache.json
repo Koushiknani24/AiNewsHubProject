@@ -130468,5 +130468,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-may-expand-manufacturing-in-india-beyond-iphones/articleshow/133419717.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmx2LWh6MEF3ZEd0emlGZ2JVUW9PS09wWVdIVUlvakl5eEEtdHpKazhBcm1IZXJsRUNaVTh2c0JoMS1XQlNXMmNlWVNWa2tXNnNPV1R1YnJ4bUZGY0REZWxHVHc2NkF3TXM4NS1qczUxM29jMGRvbDh5QnZMZ3RIeFk4TVRGQzE5MHVXNW91UmdUMlZWTmNvNGhfLW51eFEtMFNudjdRZ3hYaEgtVjA4dWNtRjVIOW5rYlpyZg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://sports.yahoo.com/articles/former-world-champion-boxer-zolani-065320820.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/gold-fraud-traders-in-kozhikode-flay-continued-delay-in-arrest-of-suspect/article71376849.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/world-news/iran-grants-permission-for-iraqi-oil-tankers-to-pass-through-strait-of-hormuz/articleshow/133419663.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/ukraine-russia-war-mall/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEVHMUpldHhvZVJQWGZLSGk4RWFIZWxzcWJPV2VnY1RENXQtYkVwYmtoanBHMkRnczRleFcySm4wYW5WWEpqNG1EOGk3WU53OFI3TnpLUTM3djkyNmJPMDFrUlRxM0xubFZxRTJGbEFLVTgwMXZLcVNuZGl2cWZLVG5Xb0twckluYnBpaVUyQ0ZDRHpFWmNMempGRlVLMjFlMWxIQ1Vxa1BDb2M1OFZMQXVRaXRNNzNyVXVZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/opinion/opinion/3306104/selfishness-isnt-a-problem-in-thailand-it-is-the-problem": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
