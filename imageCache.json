@@ -130366,5 +130366,29 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTThJMktxQXEzUHc3SGlBMDg0STI5R3lFMHo3Z0FTcnhzcVBBSW1iWVpaejRyY1QwckxmbEc0QUdLYTl2RDUxbHZkY3hJTHg0Z1BYU3MzZDhXZVhvS2pSYmZESkk1dzdvZS1JeG1lckFYV00wU21ZNWRnSDc0S0lMbThmSFFLc0FtNlB1Z3JIQnZ2dHNWcXJVVDNTTnJDSWdxT2ozOEZ2dmJ1UEpSWTlNdGVyMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFNESXRySWUxOGVYTEczSm92Z05nNndWM2ZLazQ1bjJjdVVKR0NpRE92MS1ka2VwTDVDdXVtazZGcDBVTVNKTzJGdmRnQy16WFNkVUsyR3g1eFMtQWlnbDQyWk9KaDZFTFpGQVRyRDZMUDRaSjZHalRqZ3VmUzRKMjU0cVBjaWxGZkVvTWY5NFhKTzJ2U3MtWklLa1ZhUFJtZjFtRm5HVFZndlUyaGpYdjIzR25xNExTdEYzc1FlNjUwNkdPdnFJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
