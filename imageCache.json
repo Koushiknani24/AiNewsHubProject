@@ -131794,5 +131794,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/lavanyam-2026-to-kick-start-on-august-24/article71377447.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-previews-jackson-hole-symposium-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/health-dept-kochi-corporation-to-conduct-inspections-at-water-bottling-units/article71378085.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYnFkYU5aMXdnZm96bk5XVXN2TGZCNDFaS21PY2xoZjBsVHRCVloxQ1c3bWwxODFNWVh4cDBwVzRmd0ZlejhSSFZOMjRsRVRibVQ4ZFoteFhCQVdFdG5zLTZ5WjYydTFKTGRkcjliSnVBV3kyU3BqVkhIcGRVR3ZjdV90Q0N6X3lwTEdqbGM0OFJEZUlldDJPMlZIUGgzUWtOcGFjazlydnhjTkZITFFfRXpsNlRmYkN6TVZQU2ZZR2pDUHFNS2pFOU5vUURCbGNjazloTG1XQdIB3gFBVV95cUxPWXZ3dTFmZkNiYmVUanpjVEY1WUpCZnpuWGl3emx3ZXA1MmlMY3ZNdWJIOHZrR1Z2Zko4c2pMQzIyQ1JYRHBVM2JhZVdqeldvajdldTJ0VTVnV0ZXUHFHY1RwNS1aeEg4Zk8wb3hTTGdhRE5laVFVZkY0WXFRVlJBcE4zX1hHdUItQ1pWc21JSXBfamhGQkRiOTlhTzFnTW9XSTMydXUyTUdTQ3FSSDVkaHZhNDN6Nzh5bGFTWDZrQ3J3Z1lIamR1c0gtVm93SENLSmIydjdzd0puVGRELUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdG5xYTcwNDFiWmkzdm9iNmpDN2tIUlBPTmVMME1nYm9ZYk1zX2JUdnlya0EyRjRhSUM5VHdZLVZZZEU4bi02XzAwSTRCN3AwaGgtc1FaWHBjX3Rmc2NCRmZ1Q2VFZllkNXlkczczQmZDQ3dSdzFyYVRKZUkzcVVPS1loR2NrNW4zaFVIdUdOZ3hGYmVReXNKeUFJQlhENFFtRlZkUmhvV2o1WTEtbjI3N0FQNDI2dnBjbzY2UXozLXRpWXNZR19uZFpB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
