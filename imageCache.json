@@ -131686,5 +131686,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israel-strikes-southern-syria-damascus-condemns-attack": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcTdVcmd2NGVxa1VfZWNzNDJkX3dnTlBzdnQwSU1IeGhpOFYxV1JtcTF6VGZoYjc4UzJDZTBjRTgwSjNBcHV1WWVBTTNNSkR6WE1oWWFfUXBOMWdRcndnQUU2ZEFnV1JxS3lQTkpDZnI1WEpjT3l3c3I2ekl5SFMxQWZOUjh2T0doWVRLZGs4SVpESGtpTDJpSUpISUpnTDNGaW9ELXM2UV8zeU45QkRvel84SzczbDhJcEhuVXJqaXQwcjBGSFFaai1SUEMwMzNaSFdTd0hsRmppLUtRaEJobFBEWTRySWhmT21vOVNPQ2k5dnJHTEdITHdOY0FUeHZxRjVlVWgzTWpfT2c0UTFxMg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/ipswich-earn-cathartic-win-mark-premier-league-return-6335231": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/antonelli-says-dutch-weekend-has-been-good-wake-up-call-6335216": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgJBVV95cUxONkI1anoxYmpRY2lNWXVTQVEyWWdWYjFacksxRlRaN0htQWVYVnpsNDBfLUdScEJ4QVRfYzA4aGRoSktjZk1WMGRLRU1oRXdoN3pSb05nc2hYUjI3N2lWRUFBMWhXRW4yaUY3UmJVS1lIQWhTVXVVZzhvbXZhZWxpQ1RhYzdFSkZmYkZQdUdzdVNrSDk2TFpsQ1BsbkxXNEU2UGZGRGF0RXBZQUtHaTAta05DbWtHTTl4bk9iZ0RweTB6ZU5DSHdQT1pRbFdPczA4WWI4enZFSzhpX19YaWpRRXpHMmxtSTM4dFlUTFg3Q1VWaFc2X1RVQ0FKaE92M0pFclM2SXAyaHNGUVdrbzlrSm1xMERyRWtmZHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
