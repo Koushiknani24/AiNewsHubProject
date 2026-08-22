@@ -130546,5 +130546,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSXp3cmZVbDFIck5aQ054RUo0eGM1MnA3ZzVLYnFyTFJhajJxMlh4bWp0dmV1MkV2VzV1SXJjX00tS3ROc2w0aU5BQVFLQkdLcXgyenBZMEtyNEVzZVpyV3hsd0llaWd6ZWFZTVluOTlyb1YyaDdMS1lDVWtDQlFKVXliUHoyT0l1RC0xRlVaY0RJeklLdFhYTkFUVkE0VjNnSHY4djVNTUFDc00taGFfaUc4NkswQnFRZTFUanczd0RMSGtGRDZCUFhGX1NpWmNCbVhnY3ZhS2ZsYVRDMFpDX3c4cmY5OXdSNzVmNzFJVmF3U3ZreEJJaUE5NWNhMEJX?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-grants-permission-for-a-number-of-iraqi-oil-tankers-to-pass-through-hormuz": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/engineers-family-death-pact-accussed-sk-sadhik-khan-arrested-in-uttar-pradesh/article71376946.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0VROHRjMW55OTRpSkRhQXA0LWk1VWVaQy1oNjlXbEJqQUdSOGJLNE5sN19HcHY3RHVibzFjclZNenB0Nk1IQ2JmWDR0ekpLUTM4U1dFM0pvV0ZValpMNlJobzNrLXU5cGtBeG0wLWl0YzhtbkE5Tk5pbjlBRFBUc0dzUjJWTlNnTUJORTlxNzNCSy15UEZ1WXhkX0w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbkg5dHZzZXI0RWdYeWxrYkZIeVp6UDhuR0FKYWl5T3hXV1duM3NIQnhLTmd1dG0zS3JBdHkxTDFNY3BTZi1hVEdkNUIxem5SWGdrR2JCZEZWaGpBTmw1R09POUxraFVvaUU4WngxZU9KV2VqOXNrYTJ0TjUyMm9WeEZEbEJKbEdGQVowMnJpaUh1ei0wNEUyT2lXZERUU05oRkHSAacBQVVfeXFMTWtYVUg0VW94b09IaTBsQ0pFc1B1WjA5UzQ3eUtZZXV6QWQ1VGEyaFl2QzlvVS1laUl3aE9QQVBDUmR3WlR0c19rb0U5RUxKVnFvYlpiZjZzVk44RXo3Uk1LTHRnenZ4c0duRWZPbVZtVmJURW5XbXlFX0ZBQkJKM29MWlhxbkJUS2pobXVMcWlXOUo0NjRFdzNTMDZKQkd1aGlJQ205N1U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-to-star-as-motor-race-takes-to-streets-of-us-capital": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
