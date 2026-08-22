@@ -130864,5 +130864,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-22/investing-in-ai-for-more-jobs-less-pay": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/22/edf-authorised-to-prepare-site-for-two-new-nuclear-reactors-at-gravelines-plant": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-22/the-ai-spending-spree-comes-with-a-catch-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-22/supreme-court-keeps-trump-ballroom-work-going-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/us-golfers-and-coolcations-push-up-scottish-vacation-prices": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFRlbkMwOUNhd3hTaUQxbEl1SzhScncxdlR4N0I4SkgyVW9CNDZIT2k3Vmd1dWV4eXAwZ0hYbWtiMGIyXzZqM2VlQk8zN2paamhpMEVrOUxBdmVISlNTV2NYX0R0RjQtNEN6dkZWZ3l4eHZlTkQ3aV9sRlhhaThVSDlMZEx1NE5SWXJINGdLWDR2eVNwWXZ2b0NNTXU3SG13VmZ2SnNaTHBEQm11aG0zb1ZoUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUpHSzVFU2ZTNXZoRGw0MVZQVnRLR2lDdU9UeUdveVBZTzhzSm04UHdBUGZ1SUJsczZ6UGlESGpsZW1lZ1ZUV0ktWDU0RHkzVVBfOHk0dnJTV2lXeGpEQlFKYzZIdVBaeFlocm16NDdtaEdxd05ROGtlM2RCOV92U0NyUGUzVFZ2MFp0b0J3ZkRNM3VEMlRCRWdFV0dRck1IREFsa1dRMXYxdUFIU1NMM2F3NTg3MjdZdEVELXUydm1hRS1xbDZ6Rg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHY1SWtLUGc3d1huS2pBWnI0TXMxUlhKbUZQQlRyc3VVaTdWM0hobVhKLU5jVGpNcFdsc2pMc0hwbFRRTE4tNEx5RE5PUE85QmVmS2JpRUJsdk94ajNXcXZhaGN1WHRMNkprNlM3di1WZm1fYVdGV2hyc3I3OEM2enQ3ZllYUlBaWHdDMGo3ZUtBbW1nb0xsbWxDdkxSQmpjZzhmbFRIQlN4SG44ZzVKUw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
