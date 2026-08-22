@@ -130792,5 +130792,23 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/style/official-disney-adult-halloween-costumes-2026-prices-ideas-1235611886/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYW42dk9TbW9jNTdJcl9BX1VxckRCcjdySnp6Y2dLV1NwdlpMdlpQTktadmYxZWNUZEdGMHp3ajNMUzNQd25VYWtISFJ4ZG9SVlJfQlpIRnEyZ2tOcURoLU9VYTE5R0ZtNXE1Q0ZDV2U5TkNTTmZHTmxBM1hHMzJCdkZETTd1WUc2cDJ0VXROZXIzNXgxOWwyNV9jcUhpRWtBMDlON1lQSENmZFFqV19QLUp3QzNHd2w1MlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
