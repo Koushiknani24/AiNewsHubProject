@@ -133690,5 +133690,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3dhSlN1T1ZfMHl3Y1BSSjJwMEdLQVN2OFFMRUhwb2p6MWtwX0ZpZmd4VlZKV1NlTDFEdnZRMFQ3cDg2a2hpOHB0SFNrN1Y4RldoVHhaNkFsdUFSSm5KOFB3LWE1TGJVbW1YS0NqblVOZ2dEcnZQTlgya3JNZVFVUDRHRkJlX2hfMWFlSG85cXdTRjJGa2tBNTFIdGdILU9iT09ybXNFM2J0MXVPQmhfQw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUZHWmowbmtrTWRTWUxwejhwNGZUTm4wbjRjM2p3a24xQWpiSmxYUXRFdGNfRlZNZ2VWTWV6U0lpblVQR0FMQnAtTHZ1NXJIMHFERUJYY2ZuS2wxMW9VUjJtbU9RdWhxTEE0QnpURHhYLS1NTHBtejlMV0pWUkpsd3djRnR3WG9vZWJkWjQxLXExT2xNWG1DSnF3OWRpM2FH0gGmAUFVX3lxTE44bkFfcGNueTRmU0U4WDIzZ2M1aTdNSEVMaHMxaGFER0ZzQ0xabmFsT2p1eXo2cG9GYi1tc0xXbXVpNkFaV0ZiY2paelN1X3VDYzlXSHMzN1NSOGRNeUlCZHFoQ3ZzeW40UHFsTnNieUt5czZrSXpxQTBTM2o0U25DTUlvU2pZejdXR3g0VEJpV2ZlTzlqX3Q3cGR4YXJ0bVEtSG1KVkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GRDRyQURIUjRyYmdhVm03Z0dCNW15Z0IzOGo5bEN3ejZ5LUtFbHBkQzdpQmtRektxa2pOd3BWTFUzMkdxM2lrdS1BNzRzRVhHa1BMRmpB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
