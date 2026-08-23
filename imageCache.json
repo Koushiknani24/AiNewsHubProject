@@ -133888,5 +133888,35 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/syria-israel-hold-us-mediated-talks-to-ease-tensions-syria-news-agency-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d1c4OWlSWlZrWXItWHh3bnFLMWc5NlhhRTUtNjg3c2lBOWp5U09nbk9KN1dSXzF6WmotNDVMMTY5MTBxZENxSXQ5dTZ3ZUZmTnJ2a19XMFZ5YnN5ckp4dlU5VjRid2k2LWt0c1hMeGZ0ZUFWNlp1Rg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2JzSzV2M19uOU5aN2ZJSVlQTjBuM0VIR1pMYVJocnpabzhnekRpb3hRRnJZRFpoa29RY2t6WnhYX2JtdzlObjY1WGhINkViMGZ3cFZicE9LaEdPeVRlRlotTzZzVk1oUDFEek1wLUE1Rl9zWUViRHdiU3pRS0xWT1ZmZmJCMjktdTJ6Rk0yQ1RnV1NZNlU5QWREOVpEZXFDYVBCNVJzbkdYWWtxdDRaVTIzYm1xZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIekhCTHJrOUg4Qnl3clAxeFp4OUtQUGpCajFkRlA0RnlSTTE3NVIyenJGWHBETXkwbTl1MUc4dkxfWTdvZzBHT3ZnODV3YWN5X2FsLTFn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkVDWm1ubjRXVjE1VGJoaVNaM0pPNFg4WS1NQjk4NElENXdYNS1sQTlCSDF5NFM5MVAzUnEzblhZTXMyZlI3a1lPbmtPSjV5eXNGbXZLS3NpdldOcjJsMktoeTg0eThtbG9vVEI4ekdwc29jZmpiN3B3WDhHajQtdE9mWG4wYlhsOUNPMVZLRjNTcUd2dUxNWTRTUDhILTd6Z0FJMFBWVDZpOHo4SXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
