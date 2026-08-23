@@ -132610,5 +132610,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/man-injured-in-drug-linked-brussels-shooting-after-attack-on-police-station/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcE1FWi0tWjhHUmloeTVlZlN4d0R6dU42SDN1OVBYcDZxOU96TXZjb2F5MzdObWVrdkMxQ2NyR3IyYURHcFRwRi03UGdNN29MMHZLczJ1MjJORGpyUXBoY3d3WHc5a2dkUzk0MW8xcXVTelJJN1A0cTJIX1JWTlczLThQZ01wSGhyZ0FzdzRGM2VrU29FRjc1dlpnc3R1Q2R4SDljUg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQWhKMUl5SF9pVjE3TmxXVnNhT0lUdzZDT3FRck9JM25ySXJCNEZPTnc3S3c3OFd5N2VxUXB3V3NPX2FMcEZ3MXdUWi1CaUdTaTFjcldzTjgwVXlJQjJVUUhjYWlGa285MXlDUVJFWTdVQk11UjlsUjEtYzZKQVRBLTFSM3JTcDZVc1d6VGNTSnJKTzVQa3o2QkZ5NWJGMzhnb3hwUUNVVWNhb3B1RWxDbVliVl9GUndtRDgxaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/ukraine-election-war-russia-zelenskyy/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTlZUZXk5QjBmRlJpcS01T3VUbEp1bXMtSDRVQUE3NXdib3Z4VUVYamM3eW1vRUdGSVhrTk54VnAyMkZfT0NwbUwzZ2tQTXlfcnpjSGxQRUlEbFFkbUl6d3U3LXUyVkdjSTJHQ1FsOGV2VnNKUWJja3RWNkV5c2hJVGxnbGRVUmJwbWxtdm9ZTVRTXzF5VzlPeUo5bklaVU0wenFOaTNpVTlPSWo3YkZ3RkRQNzNnVmxYR1hMSHZlMm83U1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
