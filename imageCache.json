@@ -133654,5 +133654,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/zelensky-says-ukraine-not-behind-nord-stream-blasts-cooperating-with-probe": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-caps-summer-of-us-250th-birthday-at-indycar-race-through-washington": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/abandon-incinerator-project-in-kodungaiyur-say-north-chennai-residents/article71381678.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgJBVV95cUxNR2lydmJpdWptVTI4YUVUZ0NUckN1U3VyZHZ5cGxQNW1iNVZ6MmE4eGEwemV3YVUwM0VTY1c0QUJmS1BnQ1ExRk1KeWs0X043SWU5SzhkaEFkSkZUVlhrRGFDNW1fU3VrMDQtX0g0ci1kcTBUdUdEMk1RNlpkLUd6M1ZhdzNTamZWZmFhQVpnalVMWi16bkVOX0tQaHVxY0UxOTBvWFpnUWg1Q1NsQUNwcjZyNTR3dzEzY3NNVXk0QmhSbTdfN3pFcTFyNm1kUFlkRjhQWWZHeS1KaE1lSjdZSmpyckFiN1oyQ3FOSHJ1WWZEVzZvSjB0akwzQlZPM2RxY0hLY0ppcm9icFd4MHdGTVVDZGZYQdIBjwJBVV95cUxNWF9wLVlBcUtJa1RKd0o5UTZxUUlKOUliWEtTTllMRFNNOUxjck44NTBnT1ZIVERUSXUzZUJnX2tpRTJEUEJSYU5FeTR1TFRzSzdncDdzekFBUzZFWm1Ja2pYN1c3b09yUXVkQjUwbXFkYmd3eDNhNlZiUzBJMmdyVEVtdmsweE5zcWJkekhPRmJ6TVd0N1N4MlNHTHF0djEyTjVzT3RtQXhWUVR1cXJ4dy0tRFZEdVlJSHhEY3otb3Z6MjRndUg2S1RwWnZUamdGaHFnMnJyT3M0RzBYOW5sNS1CNDdqMFRvTjZMVVllQUhmUmRkODR6T1VzV2hLTUhFSnBVbmx5UHRwQjZROFl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-23/us-long-bonds-risk-deeper-selloff-without-clear-warsh-guidance": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
