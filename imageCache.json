@@ -132322,5 +132322,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/defence/coast-guard-deploys-3-ships-to-find-22-missing-crew-off-paradip/articleshow/133434477.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/mexican-governor-facing-us-drug-charges-says-leaving-office/a-78473557?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMFY4Ym9yeVR3cnpXVlR2MEpmMnI2M0RyMTdkaWZyVC1BYzI2dFczdHFpNFd3azlod1VNWUVBN2Q3UDlocVhVSGxzT245RHJ1NGxMT1o2blZBTUZ3VktYWnBDbEdXNDFyS2FMb3hNeVRzRndFVFhWNG80Z0pZcTFwNUJVTVRDWGJ0WFJ2dEtzTGh0bXhZRndQU210SjJNSXh6MXJlQW16azhKZndvM0hkVlp1TjHSAboBQVVfeXFMTTQ2S3hjQ1pVdFVKUnNlLWZYV2lzWXRuVlZ3SjVtUTdVV2ZveFhYR00yVzV5RXVsVUg1V0p5dF9XMnVGak9vbzZJT21qXzVzLVF5TWNlSVlVUmZvbFBjYVVPVEVHdFVWRHRzM19TZDVNaGhNUUFmODZYQTREa3RMQkJUd1NyaENLWTRRd1FjUGg4R1NaOTJrcWtna2tKZWxSMG5TdmlES21hQ19hX2hUVHlNQUV6VHpDWV9R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFE4a09nTmVlMHVCVVc0YkcyZDNMY0g2T2dhOHhVUXBjWHpIcWxKMUQwblJ2Zzl5TkZ4WGlmZjdybGhUSEEtcTFCazVVNzc5XzNVVS1qOE16M2F2VW1yWnI3TWJFZVJHaVE0QXBKMk1vdGxGMFF5NlBVdjZST1gxSlNPdERSd0dnc1RaZXJGSDJzZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45bDBRdGFBLW9SU3pTV3JLa1pjRWFGX0VXUmt3SElPNzBSVGZmZ0pjS1d3TllkREN5WXVRS3d2MzhjVkhUZEZUWFRjVm1PZnE1WEx3clg2TXlkUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
