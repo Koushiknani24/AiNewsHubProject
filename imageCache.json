@@ -132790,5 +132790,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/23/south-africas-former-boxing-champion-tete-shot-dead-outside-home?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAJBVV95cUxPdEdNY21OazRkYVpNYkI2SzFoTkZQSXFnLWxsZWpZX1dDM2J0em94TUpFbi03MFpza0haa3V0U1pTalpiLUwzU0JQbXNoY0EwaExVeWl6RVpFb3gtSDU5a0VFWktSenRoWkFPazRyU3JDa05vYlBKeGw3ak1RS2ZkUE9PNk9ySkRlVDVFeWFlbU5qa3VqQy1CeU1pRGpUdjM3SHo0djAzWEh1RUpoZEY5dS1WV0N1d0tseUx4bmp2SzRtRGtuZlRVZk1pWGxGcnZ2dHptZGdhRnlhZDhjbktnSkl1V1Z4ZTFOX3Z2NVNoU0RveHJWODc5ZEtMblBPOFJvRnFadkpRTklieFcwZ2ozc2VhZl90NVZvX083Yg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/23/far-right-provocateur-jake-lang-arrested-after-minneapolis-riot?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-navy-unveils-advanced-air-to-air-missile-with-300-mile-range": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaMTJSVWJ2bURMQmoySkRwTWJGZVk5emZ4WEJ4Z0xIUjdRMFNZdFhMVFc1M3U0OEFFQmFBQnI2NWlrWGRwN0ZpeWcwcTk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
