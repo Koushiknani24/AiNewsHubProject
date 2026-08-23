@@ -133918,5 +133918,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-23/burnham-enters-world-stage-with-debut-foreign-trip-to-ukraine": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-23/uk-fintech-funding-drops-to-lowest-level-in-at-least-a-decade": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3306915/the-value-test": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-homebuyers-left-cold-by-prices-in-far-flung-tech-hub": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1l6RGZlbFFPa2FpaFFNbUowbmMxSFNjSllRd0VUMk9wRWhBUDBqY3lscjJUeDJlNkFKYzVlc3dGOHNQb3lPQXZlUzdiTW5XQnZnaDF2UzlUeEF0S0Y0QnNjeHRlQm5zS1pPRUpUQ28zNm5aSy1vUURRcURSMnFwLUk3OVBuRzZZZm1LZW0tUHFsR1k1Vk93OHVVcWZ2Qi1Hbk1Yd1NYZGR6aXVMTWNSal9WMW1KNkZLNmlqbjhmUjB5T2hwZmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFUxWEM0NzJoTll5SjVDdzBmZy1oeDZlTlUwTWZ3TUZBOW1ubHRMOE1fTHZMVElaUTdHTmxOQk16ZGJmR1huM2c4WTlPbGpsWDZYRThSUHRrZ0pqeU90NTVtNUVhaDJNLVl1Wlo2RXVwdWI0Tk5oUlNwd2pSUS1MU2lRcTdURnpzYzQ4cDlKTmZDZVZzYW5Yal80b3JuN3NrS2c1RzhUNGQ2ZkVsOFp0bUlnbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
