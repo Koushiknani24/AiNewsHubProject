@@ -133546,5 +133546,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/mehmet-oz-cms-administrator-face-the-nation-transcript-08-23-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWnhsTnl0ODN1bUQ2c1c0X1pYOXV2THZSOF8yWHhsT21kYzZ5dmVfeTdfVW9PRVZZcktfWGNObS1KUnJCcG5sR041Zld5RnNqMHB1SWFoYXRFS1IzQXFVSlBSRnczcm1zak9ENGpmR2dpUlBwM0hCaDVGZVgwQkxiOE1mcVJ5MHhQTW1vSGdVMmg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/opinion/editorial/core-concerns-on-the-indian-economy-the-road-ahead/article71381278.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaDdNejNyUTdnSHJES2V5a3lGckpQNTMtZnl5RV9ob2ZwUlBSeEp4LTU1aDZ3TjVwZmxteUlwWlBrM1NiNE1LNXhyODFsSGhEWFljQl9DLUllNkZ3SGFlZmZzaGpEUG1IZWNRb1h2X2EyZGtXSVp4aTBEZUpWMXBkVGF2YnkwazhoOFZkbzhYSXFYSzRvYnFZQnhFX2dvdUhZM2t2dmlfV3U3OHprQ21FYS15c3kwQ1FrYlhCbzd6WjdqZl92bnpKdXVTZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/uk-assisted-dying-bill-labour-looking-australia-inspiration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbUJ5RGVlVVlJYmdPT1lPTFZ6UjY5ajRWQmhNbWRiQzk1d0ZSTzdmVi11d2xCQkFCdmpvcnZwLVJBTE05aWRZbDdMVEdMX2E1SlFZUkszTTc2YmJQZnRVU0pyTHl4SDA1TkNzN0JWTE00SXNOalhRWkJtcUVmMzE3NWRVZHJ5WXNOcXJRUzJ5V1RHNnBwTENxb19NUUhUcXMzQ1E5bG8zVnc5MnRvdWJ1ekYxd2VJclR5UUx6bnNjc05xY1hKUUZHczZQdHpZZlNJYWpGZdIB2gFBVV95cUxPMFc2cllZd1B6QU1FeFlTTktza21SZ3pzQ3QtMzFIRUNnWmsyRVQtT1VSZnJ5ZE5hOEV6NUU4V2QxYXRYaHlkaWExVHYyT1N3YjcwRkJEVXl5V2wxdExNODJGVy1RWHNrWjVYa25GWFlIWE8yeU5HTkZvYXRjYWtRT3d1OEl1dkcwZC1wU0J2MEc1MnNVWHpHVk83RFF4RjQ4ZFVkLU1VUFdBZ0FVZ2tfVDlOdHZsNDM2cF9TOWJjMzlIX0R6M0IzNm0wR2VPYnNSMXJIUmthUWFuQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/opinion/editorial/triple-test-adrift-on-the-ruling-on-definition-of-industry/article71381252.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxONWJGNjUySkcwcFJYeW9QRkxCOUNrR3VlS0ZQNGVGTFg0Rm4yWVVsU0M5MTdvUnBCVE9Hb25IZ3liVnlHQVVvZVlSck9EckJjMkszaTc3WlR4R25QaFR4MnBCbzFsbzZxZ19fSGpmZVE0VHN2QkRiUTlHc3loX24ybVVPNlg4SzNJc0paOVdjTkRQS3lydXpmeXJDck5ra2picVF4NVlnNHVkbEhGQndQdTdhQ2lwakN1WmlCUw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkpKWF9QdFYtWFp3RU43eWxsTHVlTEhqX195VjRPcWtUWWgtVjBiYndRNmFhVjVfT0g5TnplUHNFN2NhYWxVX1lwbmtnTEpjTVJtRXpVR19id1hkYTJ0NWdIcFduQmtSX1h4SnpWMVNoaEZnZDRSNmdBYTJjaEpLcGFZNzFwOXl0UHlFWTlDa05ERWpOR0FNZUVJQnlPQndDU1REdtIBqgFBVV95cUxNSGxxenB2a0ZyT0Q1RkdKTlJMdVVmbmdaNGM5bkJnTnV4VDdyMnhkdDJuVHlYRVhrMS1EZmRCX0xVWEtkQWxFUnczdERiQ0ZRRHNreFBmUnBMRUgzZXg4SHJfcTItMnZGUXB5VG9DSUhSN3UxOXQyUUpUOWpydThNaEVLdEpXRE5zU2ViTm1WNmVXcDMtUXgzSjJ2Y0tiVVZMMk9XSU5BUDk4dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
