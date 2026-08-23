@@ -133864,5 +133864,29 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-aug-24-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSm1nbmxGSno3bmtLMmxQZWJwTjZfWVFJcndQbDR5UGVNc19kdlU2eDFKZkQyYjNZMkJzU0c3bWNrTHVTeFZ2bVFwajlkSDNFUlZwME82SmFnUXVHNVl4LThOWXBUVW9mWmgxRWs2eVU2WndULTVYa1dPRTdPOURvN2pSVGJkWFVLbTBJaXVlaGJIU0M5QmktMWh5YzhnU0Z1SUg1VGlvQzRUZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-23/shein-seeks-up-to-1-8-billion-in-long-awaited-hong-kong-ipo": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/special-reports/3306780/early-release-saga-stings": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
