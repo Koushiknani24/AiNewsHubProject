@@ -132472,5 +132472,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/23/indian-coast-guard-launches-search-and-rescue-operation-after-cargo-vessel-sinks-in-bay-of": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/mystery-ai-model-ox-alpha-draws-developers-with-free-access": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-23/humanoid-robot-beats-usain-bolt-s-100m-world-record-in-beijing": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM2l0TkVhd0hvOGE5elhpY09EVkRlQWhGWGlMeGxCTzZteFhKRnR3cHllUHRhbUxVVk15RGtZN21NVWVXR0k2dl9MMXNLWURyNkJadmFZWW8zTlI2ZnkzekZhY0NrWlNsVW9Jb20weFVJaGg2Nkt5TVZhTGdiekpIVTdEdGJkY3ZjdVlSLU8tOWZrbVctZ2pQMDdKN1FrNW1iLVUxbGRWamEtaDRVWHFJeDdNUEZfNmdQX2dHVjBDeFFiN2dr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoWmgyT0l1R0RTN2xyTlNYNjBGZzVaMEdYNG5TcVZCa3puOV9XS0tZUTZOb1Z4MjZoc2NjOGhRMExkSDY1S1lDUjZGOEdUb3RMSHZoV0RKMVNSX3Q1bEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
