@@ -133750,5 +133750,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/23/nx-s1-5938119/a-ukrainian-baker-has-been-watching-war-unfold-from-his-cafe": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEJEQ29kb2JycjZJdUNqTUFDTy1zbmdRM0VxSnozeGNDTllnMFRjd0lqZGdjWkhTUjdjM2tEdmtQT1dRQU5Pc3hZaWpQaEdCbndyTVZjSEZyU0NFQ2tfQlEwTGpKczBNZGpfY1hFblZWM2ZVcjhmOEF4bE10NUpVbzRQYTk5UURycXBNSW9mc3JmMzBEaE1FSlNMYnU3MWJFckZlbGtNUlZpQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/torres-double-rescues-point-psg-rennes-in-ligue-1-opener-6336501": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrdGVDWkZZTU1zblFQTnBheFM2ZHNGVTdUR3ljQXBINEh6cTlpTmFCVkxoeXlZYTdlWE5ROTZSMlVnSVZJZWRSdkRUaUJYSEZxYWhDVmk3WGxlRm03Wjlxb1VoWDhkNUx4bWlzNTRpQkE5SUF4MjJtWU1Ec0dEQnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/owner-of-swiss-bar-in-deadly-blaze-held-for-domestic-abuse-report-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/us-canada-trade-talks-fell-apart-over-fine-print-envoy-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0NtTXU4SXZ4YzlyTVphOTZwV1JETnlkVTRUYlBzNFJYN201ZEZoMlY0Yl84YWMzc3RGZ013S0poNV9QdEhzOU5VcGpKY2FKNHh1bmkxMXlaa1VKMUEwcmpUaWZlVW9UVkt4eXZuZlg0dUZheWZhSU1ISER5OXBfSWJvZTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
