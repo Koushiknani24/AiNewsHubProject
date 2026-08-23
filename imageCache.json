@@ -132658,5 +132658,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/gujarat/gujarat-hooch-tragedy-toll-rises-to-13-as-two-more-die-during-treatment/article71380572.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/is-the-us-seeing-a-turning-point-in-obesity-rates/a-78436782?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/23/59-magnitude-earthquake-strikes-japan-injuring-at-least-37": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPal9tajVCZkMtZk53aVRqTHgxekJidHRQTVJmc3VrVF85QjhwbXFWN29ReDZLazREUkFsWndYdlFsa2c0dmlxWlNaQVlKYV80ajJoa1paaEVIWkpoN1gwVUI3UXJWS2RTLUVBellMcHFGS0lQM1M0bkJvVDAzLU9NMUJPZlM1YkQ4RTMxaFlrc0oxUEctUGNwVmdYSGtFeHBydEFQSHRB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjg1LTQ4c0cwVEVEcTlQQ3NLQjJvLVlOUzFBZ0FRNTdPNmNwNElZUkhQVVE2U2lralhCMndxSzhmU0NXcWZYbm9aNHlxbEtud28tc3U2SFJ4djhoQ1F1WWRiaXhhR1RkNlpfaVJnSlBELWRLR3g2azBjVm9tUUNPUEViOExCNFVONk9iRlRuc0dOd1hndWFLRWVvYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/23/where-water-conflicts-pose-the-biggest-threat-in-2026?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcXNMVGh3NUpNUllXT3gtUTRZWFkwMXNXcE9tdlVCX0tYeWhUQU1BZ2JXNHJObDNtc0tIS29hZGlpODl6d1dLeUE5WmZwdElqcU1ORmoyUC1mMGJHbEMtcGJ0YzNxb2xhcEV3Y05tR0wzWWdHbWNPNDUtZlJ4RjFRSV9obENESnRsRXlSbi1PdE81eWlUTGstaVJMUXRPTDRiY1VNdkMyaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kS0ZJdjE3aGh4dFU4eVU5cVB5cy03UENMVDgtWEZHZ1pGaG80RU5NdWxDWlVFWHczcGh6d1Z2cUVjUVJmeUdaM19JbjFKckNObGdta05DajZka3JFS0dNVEpJU2IyaGl2cWRycDVZZm16bnprcC1R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
