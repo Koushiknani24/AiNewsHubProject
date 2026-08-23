@@ -133726,5 +133726,29 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israel-warns-hamas-over-kite-launches-from-gaza": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/23/uzbekistan-and-azerbaijan-deepen-alliance-with-1bn-trade-target-and-stronger-trans-caspian": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdkdkY2FWdnV4WW1MUUNJdGxjX1VFU3FnSDRjeThTbDYxXzBzSmxac0YweFBjeUlJZUNXYXowa25qc2tIVHhmeVdobUVGSktDN3dSSGlka1cxZmYyQWw5NlVTVzZJa2cxSkJRNUp0b19wU3B0UHNYeDRFbUtUNElJdjNzRFlhWm03ellsbkZjRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN2xfVDJjR0E1ZG9SdmtDRWlLSms4V0gzRm52UkJkeE5ZanZvREpCbXoyb19VbHpKRGd1VXlIUVQ3NHQwWmRxQ2NFQUtidkhEUWQ4a2IxRUdoZXByQzNPTkpwSTlfeThDaWxTeEdaRVBVOEZJTHBLM2tTeklaSnl1bkt6Y1BuTGhMTURLdDdaMW9aYkNqNHZwekItV200NDFxMjBHNjlRTTM0VS1fVVVSaUhaek9NTEViZ25NYXFDQTQtT2k3bHZwdjctblNqR1RhU1p5TXhLMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
