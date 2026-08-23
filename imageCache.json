@@ -132424,5 +132424,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVctOXRuV3ZiQUFXZGNxbnRIMTdnMHB6RktMNHEwTjBXVkc0ZkJsNTd0aHZxb1g3X2xBWGFNU041NHRJM1dxSjhZclBfdzJwZmNpOV9RN3R4SU1hWXh1UGJyZkZDZWdDazNwWFQtTTY5ZXUwM2V6dVVvdmlFUEJqVllWZmp1Zi1hZTBzT3pQQm9rRl90MW84aC1fSTRXMEMzMFZTTFNaeTFQRVcxd2JxWTJYR2p0b0FXRG5hUGZWd1I?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/23/canadian-pm-carney-says-new-us-tariffs-are-designed-to-hurt-us-and-divide-us": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGx4VzN4VXotNXh3MmxRd19SWTR3azFucGVXZFI4TmhJSTVkYnNYSVRVbVJ1c0RXZ0xFWEgxR2hUb0ZlZ2dFaFZoVkdONEF4bFBmek1DSWFidDl3LWFQdkFZUVVLbWVLRFQ0al9lSThfN2F2NTg0M1ZhdU13ZjFKbUNqSGtxVzdtWHhmMnhMMElDdlJQY09rZzZVNUJpVW5FeWR0bjBUMmxCc0w0b0N1QklWUFhzN3Q1cnpQXzBCZkNPUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/dozens-of-attacks-in-thailands-restive-south/article71380258.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
