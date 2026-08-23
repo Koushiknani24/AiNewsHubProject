@@ -133084,5 +133084,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/vizag-commemorates-154th-birth-anniversary-of-prakasam-pantulu/article71381267.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/middle-east-influence-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-participate-actively-in-sports-alongside-academics/article71381361.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-23/data-center-expansion-tests-voter-patience-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZTlCZjNzUDFCUEFLbGFTQ3RNQlA0SXVmMWpIT08ta1Q2ZU5UTG5IV0cwdDd3aTRYQmNISjNVYjY4WTZmU1N6TlhjT0FFM0lINF9rcGlXRGF0azd0ZVh1ZTlkTXZKNUF2VXE1YTkyeWRvR2lPUWFEeGwtSDlsOTFwcFF0cXUzenduYWJDZk9kNVlkYWxaWkRBcQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/tunisia-coast-guard-recovers-eight-bodies-of-migrants-whose-boat-sank": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/gallery-photos-of-the-week-aug-23-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxOa1pVNGhlVDkzdlN3bU9pa0FBSzBkcExDbW9ydWFKLWFEWDRpYVhDVVpXbTJodF9YWWkxRmlLMTF1bDUwYWpaOEtwZnV2TEhicEpKTXhHUmRsQTB2UGlRQ2Nic2JudlI0UWRydTFDVkxiTll1Q3Q0TkIyN0dxMzJ6VHlSRHgyN0syZnZ6dnZfUmFtOW1tSDAyNm5qZlRnczJ1aGRhRC1yXzFFakxXbzYwemhJNmVCMzF5RFlsY2RtbGk0Qnc4RG8wM3dMcTBTNGU4cXNiZmJCNEJWRFg5YWZpV2p2c1c3YXkwMEpDNnhoMnNjTlduVGs0Y2ZvRE9mbU1DUnowNjRn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN05rMHJiNDdGYUNrWjQtOWgwWXVCN1JaVm10bjl4WVdYd242SkhjZnc3eVhCOXVNOXhWT1ozZFB0aDZMWWRSMEE1d2hGa3AxdEo5blp5UHJudExtUmh2VmRUTzFCOU1JTG0yN05SLUktSlZONjU0ZzhmcEExMElFTXFKMjNVWkRTRm9Va1JTOEFoSG1XZ0syc21yaEM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUHJSd2x2c2w1d1VSQWVHNl9QakhncnpOYWR3QmZPMXZ5NjFfNzRFWVRwUDhVTWJZcHZJeHdVaFpLcURDWmxjeVZiNmZGSFkyMXdPYjMzWmxHa0x3M3NDTEtROVM5Tmw5TVpZWk9MdUdVMXBSZWlVbThHRi1oYkQ4MjNtSGRWSDNjVWlZRm9VNVNnLXUwaHRpX25fQU5xY29wTTV2MktsOXVzaUtSTEhzaUVBQVFaTDhp?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
