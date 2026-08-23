@@ -132754,5 +132754,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/8/23/how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDc4MkZ1TE9GSWNyc1hvaExWQ2FpdHZKVENqdkc5c1RGbmp0aWwzUkJXZHBvYkxvMmtWN3hUcHpZVFljVGlkOXRJSlVhRTRpSzJ2Wl9vTDlVaHRMbmdLTnBiYVFScktGSEZyRGFQa1hWWlJWRk9hVHI4TlY4U0pjcDVnN1J0ZWVGYXljNXBn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPME5CcmNuOU5KZ1lBN2RSMlpBclcyU0xvOUxsWThsV0xITnZ2cWVZRGRidUFVVWpyRE1wU2dBMkdEN1V6NTE0ZXc0ZXpHWkd1OW1ISlZfbGNLWHJ6akpQQkFNQUxBR1JlTGVMNEEzb0VYS3UwNkRKRHBjN054RjhqUVdKSlUwZEFIZDJZTTl4RldIdEFCMTU3cllCQ0hqdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/norway-to-give-over-9-billion-to-ukraine-in-2027": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWF6QXRGc2lYY1JwU2djeW0tcUQyYmwxMVRZWm91ZGtfYmtoUG15Qk9CY1gxRjdXT2YtYTV2QWltQlE2elVPSmxmdGQtYUJjVlBBMndwRVpXVXdwX3JXRW5PR2hoRnV2YmdUai1IVVlXUGxnWE11TXhtTWJPX1hKcVd1bnhCWXpuSC1PRmdRYzlqdXl6ZjdUZWdLMThIYVFzejZjZUhNUTNBeGdsbjlTX3VZdkRFdHpsNVk1UWpHVmRjd9IBxwFBVV95cUxNZHIxeUR2em5tZTRMOEphVWdVdlFYVWRNUUVicmE0bjhOVVB3NWlVcFppM0hfWHo5UnVmXzlZQTBJTm5SczBoQlJ3SXFwemJJc2wtLS1acGtKb2RjamhId1ZtVk9TWmNOTkRVcmJZc2dHd3ZGMEFEcmhXX1VISWxEcWNwdmNvX2VYd2hVNFVaWk1jMEJiSzhPZkpjbFZSNi1WdE1DbFRZTi1NS3lOMVVhWEFhaTRXeFEzYWRkcXpoRmJMNnZueGRn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
