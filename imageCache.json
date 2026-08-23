@@ -132514,5 +132514,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdTZLeWlfaWdUUG1QckluNFdWV0luSEZXdWhXM2pJbm52bFQ5MVJIbHZUM0VtclBqSklpbUdOZ0wtLVpycEVOUDNLNmdIblFBemZQczVaZUJGcTlOWXdoMWZNdUNxVFZvYVhXM05lQ3VKUHkzRHEzNjBpVkw1aVg1YWpkNkQ5NlJNZ1NxMFZrWjVzN3BJc244VVJ2RHFhb2pfMW9CNDQyUHdFd1JQVldHM3dZVFZJRWp1TFBBdHpScncwZUoxZnROT2R0N2pXbXI3RDB2VHNOTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-executes-man-accused-of-aiding-us-israel-in-anti-govt-protests": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/transportation/railways/dmrc-becomes-first-indian-metro-organisation-to-secure-iso-550012024-certification/articleshow/133436247.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russian-online-retailer-ozon-warehouse-in-orenburg-region-hit-in-drone-attack-governor-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/syria-foreign-minister-sees-israel-security-talks-resuming-despite-no-trust": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/no-rush-for-bangladesh-pms-india-visit-national-interest-priority-minister/articleshow/133436093.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVm9MT3EtQXA5VXBNYmFRYTJFZHUtWU5qa3FTa3ZxYTRHYWlsQ1hYZFp3eDJIVTYtdmVnSUxlTlhLUVNmZHRWUU84clluY21mcVJMVEdOaHVYNVZVLTlwVThhTnJtZjg5elNJNUVxRFVwd0lQb0VFS1VwQ01fR183T0VRRXBZNEg5U2NrZ3hpUmdPX3NJYkNSWkRTSzg2dFlKX1FCZUMyWGlwbWo5WHFZRGg1a2FxUnM0VXFOb09tTW90Z3VMZDYtN1BKY2JuNUlrcmp0WW02dUZyQThGSThV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-23/europe-s-luxury-giants-discern-green-shoots-in-key-china-market": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
