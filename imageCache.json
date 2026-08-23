@@ -133840,5 +133840,29 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUF4MXFjc082Z3dWa2hKT2Q4UkFUYS1vS1kxNzNwU3RxRkhqdDllV1Y2cWZRN3JMUmZua0FSajcyN00xN1hjenB0MHJ2Q3VHVHItZWZ0R2lrcmtvOU5abW1YQVFna0M1Ni1FUlRjUk9vRzkzQS1qcFNUcWNnQUZNQUFlVTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living/life-lessons-mexico-living-abroad/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-23/lessons-from-hollywood-s-best-year-since-2019": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa0dmbWRzUFhoMjhHOU54a2JoQTFfMDN3ODVsakpTVmNaTUM1eEhScDJhdEVTeEpjWVdZZGRrQ3AxRmdTSFNLTFFRNl9taU8zTkNVMXdHMmstYWwzYU1ibURhM3AzaTZHcElCU0ZxRGp6VUEtdDVCZXRRdFlIcFlUNk1BcUhtSGNBYmxqR01TOWVHNzhQTzZESWxlYnRIUnU4YVpXWlRadDNBYjdTazJVX1dFbHY5RUNUY1RyVHRR0gHDAUFVX3lxTE5ZMkk3VzJhUUhBMkVKUXhubnpEeFVxaDk4MkFSV1ZPZFo3eUYyUDB5NWFwSUt1b1c1X1BXNlJER2RtZWVFY1RCQ3pVWkdxQjNQTVlGLTk0bmtaUVZWSXlrOTVDUUNCYW5xa3BWU2ZRd0ZCWHdMOGVOb090cXRrWUQ1aWpJLW5Jb1J2Rnh1MFNUR2FxbDEzLWg5Y3NlRGRlSWt2bjR3bXROUU9yZmU1RjQ0R2hMSW0xSnBKbGNyOEpwdWJCSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
