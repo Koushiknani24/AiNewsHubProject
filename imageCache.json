@@ -134836,5 +134836,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkxfZF9JWU5xcUdrb09QY245YXllUlpNNkhFNjd4YktkdkZqYmlaeFpGX3JmeGlYeVJrMFpoeFJWMkJKZnVUeWlzZjBqWWlzV010VFl1Y1UxWjdLUzJQTk5DNjdLbFFaUnhDOERyRXUtaWtTSGJRSFhHNlFfUS1URnZqX3gtbzk0VFczWVZSNlByMXlJN25wdDlCNkgwbnk0dk8zVDFBaGtGTUExdEdYV2daRnlnNHBYZUtxVS00Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608240356.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRUhYdEVwYjFseWF5RE0yODVTOFFjRW5obTdiaTUyWE44QUt5dnQ0a3hKSUNnNmFPNU5YTUl4QlRRMEkyREFWQ3Nabm5wMHVxTGczb1pIVmtKUU9WS1ZDSVNmVzFfR3BBUThsd3oxZzdVbWgyODFtM192dnY1bk91UjJEX3JCamM4RHc3S1F1T0RvN3I0Yl80QmVfUXN6bHdhdVdTTTl5R191SHozenJPd3poSXhqNllGVXU5VmlmdTNLLVJo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/24/no-place-like-halkidiki-travellers-vote-of-confidence-as-tourist-profile-shifts": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/french-far-left-leader-melenchon-seen-reaching-presidential-runoff-poll-shows": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-price-hike-bullish-overall-for-tech-dan-ives-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmctUUZwSmxYVEsyRjNLdDU5MHZKeGVNU3hzakpwTHV1WHZuWktLQ2wtS3l6dnNNRDZrNjZRUGFmVHdFeDQ4c01YdlMyVG5TV2dzczRtTHBkNkxubUlySnNPaFNtdDRnaUx0SlZEVmhVMWhYZEhBN2NDZlRNYTFKMVYyMnBZWlN4U0tVWFFoNkhqM2xVZElocXFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR2M5UXJyU2UwN2FyODJuRlhrNWU3MmdEYU5RYTJpY2VHUmdoQUtxRURPLWRNU190VnQ4cnVWeTdrc212d2JYa25LNDQ4UHd2cUVuN1dYM3pXcnlQeWwwQk9rcWVWVGxtSGd3OS1NcVpKdXZMeE5RLTZmS3JCRE1wRVVEcVFPN1BHdklMaHpwR2ZSdk5vZTd2VFI1ZEI3YmdUdDZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3307073/police-armed-attack-drill-sends-temple-monks-fleeing": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWFfamYyLU1ZcGViQUxueG0zeVh2aXFUSEdMaU1BNUppYVF1SklPazc1ZFRjeWxUcmJIdG5DSUFqQkhsSjhMQUdkbG9WOE01MXFlcWpkdXY3amN3cEhtams4Unc3cE1NZkpyN1NKNk1PMU9LRUZuYlNQZTRiVUp0bHRUZ0RSX01VOWl1RXh3Rll4bGZ5MzV4aVNhbkUyRDFxektJRTUzNEpYZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2lvMVdMbE94YjAyVkNxdFZ4TE1tdWhuVzFFZ19Vay15ZjVUOVB6QnYxOVdNd0R0M1JyWTM5MkNlRlZ4ZlVvQUFmSUcxQUtxTEI2c2FJcER5eUtQV1AxRElRanNxbVZocjN4Q2pzejN3OEVZWXhTdVRXV0NiREhXMzBJUzJYclFHanZfdEVUemRMTlZDM0dxVmhuQk1tTlRKcXJsX0Y4cW85cGt6X25zY1BLTDloWV95NUo1N21CcWU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOdTZJWU9rWmEtdGN3VG9mOFp0RjROZmJxMWxwbU5hZ1hLOHQ0N1ZQQ2c1V3RNeUszaVRSdld3dk4yeVBpazVza2hpTFZvMkp1Y3p1bGs0RWMzVkNlTHhadUtERjI5bWhfTlgzNVdKTmVmWWt0cUZmLVFzaDZfNjNxN095bjE5NTNjdnFHLXFlQ0dHSDE3Y3dtMk1POXd5NlNxVGJ1WTd6SDhsZlBKWVQxTDVWX19mREZxV3lpb3pXWUJVRkZtZGRWSWJSUWZBR1BMVmNvTWtIZmgya3JDRnVqV1pFelFyYlZaTkx6Unk5WXVRZWdpYm5KVE9KWTE0OFVFallfNktWY19yb0VkUk8zemNVbUZ6U2lnQ0FwNS1xV1hBUy1Fd19FbnctbnpFNHJaRTJETndtZldlUmVhWTgyU1IzVVp6WV9MWUxiT0ZGUzRIdUlaYlVuWURxdkxtTDR30gHmAkFVX3lxTE9PZ1hMaTJHNUd1QV9OQ2NDOWszUDZDY1AzNDkyOGNRbl82RGtpVi1KeDlDTE44RU1va3R2Z2d3VDVUbnNfQklVUXl6UGpDRmEtZHh0TXc5WE1QY3JxNHdlbU40Ylp5LTlKYktBZ0RXOHFFTnJJTm41WnRwZGxZanRUOHdGR0FDTm1HSjNvR2YyM0M1QkY2d0xpWU5Md2QxUnhwbnRlLVFEbUdwLUljRkNKc1UwNE5aQ3E3U2RoZ2Q0X1ZjcWhHeWZxaWgxNXgtMkpaQmk5N2JLamoyeGRZa2tKTXo4WHYwT1BuRmRHQnd2SWN1TmhQbzB3RHFTYkM0aG1qVkpnNnRRamZZemZjazBQeG52ZkJQT0Y2bExTOVBNYkR6a3RLYWdZZFhNcV9NNUt3QnhRUXlfV1ZOb3hndnJBc2xtZFJfT29RajJLZXpTN2duLWhZNnJacHQ5TmxLMFdGUERMR3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-puerto-vallarta-crocodiles-request-civil-restraint-propose-designated-zones-for-humans/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
