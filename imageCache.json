@@ -134116,5 +134116,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-24/why-the-fed-s-warsh-has-no-good-options-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcWlQOExpWGxTaTl4QkVQalp0bWJiMHhsb2tacFc0RTN1Y3lkU0Y0YXozWGozVlhKa1pxS1VqRDZqQUNyZ0pFWjFWUU1NYlExQWo0VEhuOGU0SXhxWXJXdVN1U0daaWtWUVd3TDRpRHdQaC1RUGZQeXNGQmUtTGlLclRGZGJUZlhPYUZhVTFvdWM1OU0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/after-wildberries-ukraine-launches-drone-campaign-on-russias-ozon": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bemo0MXh2aU56U0xrRU1IcjZwTkJvMEVPOXBDR2wzOU13UG9ud1ZwbHlRaEwtckdaRXhEUnpfOVBKSDB2Q0JnY2duclBxTm01NlJhM2M5VUZtUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc2JpMDhpVk1LcllTcGZIa2dINzNHOFJwcDcxWW9WblllT2RBeU1OMWdGZ1NEVVZwMmh0WUpGTkRHa2NYMlpLQmFuWm9zbFlrWVRwYVRpQ0V0cGZ4Y0xEdGpkVkxCT2tiTkpNLTRncGhDaWJtYXZWM3A5NC1VMWF1dWhWUGZmNXFLNnd1bWFZZGNPa01oc2hTVUs0WUVkYXQ5RXVsYWNYOC1meGk3TXJ1SjFvcG1zSElLdDZtWU5hbGZ2X0gyUDdneGo1TlcyQjktZlJwYWFsSnJPSE95eGx6aE1KXzI4YkZZRjg4VlotN0tuM2ZR0gGIAkFVX3lxTFBRZ2pVeHdHelpIeHZQUE94LWtXeEtMei05Q2RnNV9mUmlnaXN0elVQMWgtMVQtNmhGOU1vUVlxS2tYcnVOcDk5VU9rQVFqM0puemw5aDR0bVBYMU9aXzIxSnF3ZGV3TnFKeEVfR1AwTTg2cmZaY3QyaTJnZWdORnlGSk5nV1JabnJhc1FtaDY0X1JrNTZYVXVNSVBoTE5LcXVGU3RwRzZuczhkVEd5M1dPR0Z0OWFSU2UzTlVQak51VGFXeW5VWTBvVnQybVlKclk2OUFGWjdBakVZZ2JDZE51ckVxWHU1NVFFVk1DQ2RhU0RCN29Jc0RZaHg5ZnNZbTA0Z200UzlXQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YNnVKSEp6ek0wcEstXzk2Q2pFd2F6czBBYzdMVGlEWFVPbnp0bFdLZXJ3UUFrendEQVg4dHNRZGI3bUQwM1JIQlhIV2E2MS1zZU9VQXFnVlZUOVExMkxIa09fU3VJNDQ4ZDNEeGt3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTGRYTlZzeGpKMVQwRDIydnYwZkFTd2pqR1ZZbkxuZmtLaTRQOXdfaU1renh6b0NyaWEybTJxQTVNZU9yZDc2Q2hsb2N1T29BUF9qN1laNXdnYm5LaDZCSnJPVWg5MVFTd0RfY3BCOURYdV9QWEFraWtJczNtbUo4OENVUzFfQ3pfZ1JoN1ZEV2ctOEpKUHNrbHEzclRqOXh6VDdkR09va1FhTVV2RTFyN0V5LUdGLVduYlIxcThMUnl0ajNBXy1ROHlKaVQwM3RacGwyUnNYdnZ0bWoxaXh1ZVVLa3UzczdkamN6dVBVZGM3ZXhoZHRKM0dZNmJrLXFaRWI1Sjk1ZGlOZi1aNTZ5SDJkZFFlZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZF9DRTJIdGxGcnR5a3NrQ2wwTU9EcmYyQkpMbTM3QUdhWjVIb2M1eER5c2pPb01pTEFBb19rTUl3RGxMdHQ4d3RhVC1JS2FSd29mOW42QnpRbmRBMFNrS3JWOGZqNEQwUU9vWFFuUVF1RXF2U3ZyRWR4bkdMdWpmNXh0ZE9hWjU5eGJjMDlaeWdidFIxNlA2VElhaHBjbWMzM3NZcjYyMTNjYjRGLVMxZVFZZ3N2bGFKMHJULVJzd2o5NktEYWhvODNwSVUzQVp4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/five-dead-at-rural-oregon-home-in-suspected-multiple-homicide": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/24/ebola-cases-in-drc-top-5515-as-pope-leo-urges-global-action-to-save-lives?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
