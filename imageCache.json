@@ -135802,5 +135802,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-24/-true-etf-innovation-happening-at-neos-goldman-s-lake-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/24/us-launches-operation-economic-outcast-as-washington-targets-irans-enablers": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-removes-syria-from-terrorism-sponsor-list-lifting-major-investment-obstacle": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNXltb0NlSW9HS25ZUEJkZmFyY05hblo2WlFyU2JweE1MRGlUMVdhUkphdTVjNE9USDdZNTU2WjNHY0QxMmJVRWI3SEY5dndkdkNyeDlZcDRmTGZkdVBCcjZCTUhYaDdoc0xqS0tUaUdsUzg3dlBRVExYR0dNSkJXYm5icDZ6eUdWR2hlZjNSQXhfWFRVTE9pR2pDYkdLWTJoei16NDQ0bFA0cG5udUZwVExsMzhJTlRmbHpzX3A1eDhMOHU4bjdSbHBuWW5kS1hKd3ZtaWJlVEhkVWUxcV96ZlRmYnVfb1ZkVE5ZcWlpLVZCR2xaRk9FZA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTzhCNHl5dWJ2ODQyMjBRX2V1RUUtQnlQY0xrVmtEOFRwTEk0VlMwNmFyUkI5NFlvd2pFdEpORFQ4Qi1xckNXeG1uME5JTk1tdktsSDBDNHo4ZXRTVENSY29JRWNMdkxzQzdnRm0weGFzcERCV0l2Y3pQTVkzaXZjdFBUWVQ4UdIBiwFBVV95cUxNajJTNU1wcExfNXpiUDliTFVycGlFbk9TT2tFdWdZbFdZdThxRmZob1ZsVVRycnFObFFqTHRZenVlcXdYWGlOZzVyLWZoZF8waGRYUFVVeGxvck5yS1k4WlFfRzRsZEZEMlZkSi1QYnJGd2FUa2RlcV9qSFpkN0JGQmpObFpPQmpFWTJn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZWRzSFJLWWpab1JjV0tMRlpoRDl5NS1ZLVhnUkFSaUxSNXZTYmhxbVFrRnFZcmM2ZkRvNFZrcU44YXNlUENKM2d3b2RUZVBNbmJWUGY5eVgybW1DUl82VENEbFlpNFJoS3ltYlJiLU52aUpYc3JhZ0lqY1B0cmk2TTFmeHJ3S0xkbUN2QjNTYmg2UW9sU3Q4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/india-overtakes-china-in-premium-intercontinental-demand-lufthansa-exec-long-haul-growth/articleshow/133476856.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trumps-approval-holds-at-record-low-as-us-support-for-iran-war-falls-reuters-ipsos-poll-finds": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-latin/bad-bunny-final-show-debi-tirar-mas-fotos-puerto-rico-1235613889/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV1hjbmhCNUNoZkotTEdBSGNOb0Q0UUpDRzJUQ3RDTXBGVWZ1dUM0SFkxY0I4OVFBY0R6Y2trMXpuSTJKOHRTYV9lbnBwMXRUQ2dJYnlpa1h6QlhLSWRyeG9oVEVaS2JraUNJNUFKamJ5c3pBMVVMVFBYUGgzZDlhbjltUkZ5dXlTQlJvMUkwY2VIR0tueld5cmhrRmpfdlZhT2ZBVG1lM3RyN21ablp3NDJ3R2hLeE9Sa0R3TWl4ZENRMXlzVDcyM0R5a2k4ckhGc0pCUg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
