@@ -136330,5 +136330,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-24/sammons-distances-itself-from-guggenheim-in-call-with-lenders": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/trade-war-words-intensifies-between-us-canada/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/uttar-pradesh/youth-morcha-storms-dm-office-highlighting-critical-gaps-in-schools-questions-fir-on-activist/article71385555.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/sheins-stock-market-listing-will-not-mask-sustainability-challenges-6338771": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2QyaDlQSVRUNDBFeXhFZXlVTFR3STVUREZwemVPQkNBTW03WTdrSENucmlpdGNDX202N3Z6UFdiSHZaMEFSOWhqRll2cEVBZHFmY0JWa2x4amhyc2ZsOXJuZkxOc2dxMGl5dVNDM2hVOEJEc1NqWE56clRTMUp3OTAyTHZ0bzJtOXpfTjdFbGFxNmd1M1hrc0pwSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91TGNiaGJhb2FmVHZlR20zLWRHRjZQTk5hLTN6R2E3NW0yM2NVUlAxNk1yY3V5bFVUd2JkaG5kMzlBcDRoR19sRlpQeUxPOFZmUWhZNXJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWnc3U3pSY245LVd6M3VUY0Jya0dER0J5NjZVLUJCSTVrRktWVDNZZU5tQnhsdmNrX0tmNG5UR3FkY2JPNnJGR0hwNnNhZXAwNDhsNml5djBFQmNWMHk5REctckZZQTQ2MUtoc3ZGcWZZYUc3czVybmhnSHVweTBsS2NfbVFrRGF6LWVVQnNGYUY2M2RiT1JpSHNEeVZVOEFrbjVqSkk1eng0Qkpid1ZFM2loUFF3Vy1HcUZUSzVhZFZRZXZy?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EOWVTd0VyOGVETXU2NVRFZnQ1cEdfWjNzTzVfLUxCaFdWUDEtZjlJRkZ4V2pHMVBDcXVRTkI2OE5WcDNMX0ZBUHQzNWxSMGFxY1VFMGdZdUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SLVhNZWJtSWs5SlFCREVaelhTdzR3VTVWVks3bGZaMVBEMHA3eHczclBaVWxNUFpvZkt4czB4U2FQNjhkQ19rWS1QWEIxYm9pMmRBRnFGU2ZFWlo0Ri11RG1rY1A1QU13RWVULU1OWUhGZXVDSkduQ2hjVDF5Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
