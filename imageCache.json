@@ -134272,5 +134272,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/24/kazakhstans-new-ruling-party-projected-to-win-elections": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/worlds-oldest-person-celebrates-117th-birthday-with-family-and-friends-in-britain": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/kerala-forest-officer-booked-over-alleged-misbehaviour-with-women-on-train/article71383183.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaFhHVWtpV2pWazNIRUlETWtYMnRaZHo3d0hMd0NTT1pyV25qNVU4QXlfcG5ZU3U2cmpOVWxmT2wySUx3OWVTWHpSalJUNjhWYXRDbWNZdjlhbXBfalZvVUVHUm9pMDBGRkNvN0VQX05HRHgzSTMwYlBFNUE4dDdlMDFEV3NCNDZVMWFqSkZTTzJEWi1Scm52WXkxZnJyd1JHVW93WUdMU01lVVhiRnp4ZmZaMDF3Vmg3WjF0Z2ZWUndFTlJMT1VQMDVTRWhiV0tnam82RVQ4bWdrOFJ2RG5CZFBFWDdkcWZ4eDBWRWg1djNQNEpkZkRkQWt2LTZIems5eGdrRWVCTmRmTEhzd2h5bA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/last-week-tonight-john-oliver-sean-duffy-reality-show-1236679486/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmppVnpWU2JSMDMtQi1iMmhMaGNuN1VDaUdfYi13YlhGUnJKYUhEek85cmlZX3VDOUw1R0ZVWDBTRk5XQzdKdW4wUUdxY2pYS3BudHJ0QTMzeTlRYmt6dTJWdjFYQ193NEs1NzAxYktnbkdIQkdSZ3VqcmRaUmp0S1UzSUxpSUloSWJwT0xZb3VacWVRRmFfZkxHem5obl9IT1hUTE1vSUVQUTBNeXBfcmZjdXh2SjJhcWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lTm1WNEo5X3g3QnF6UU1kekc5STJsUnhYMEU1M2lDb3NHV1gzeUhHcDRyQTEzSnpPUWxTNW5VcVNGU1ZvOGh0OHlvZWFxeVNOUzFBVE9R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT19RSENRek1nblJFOEZXNnFfQWE3TlEtUTQwcUZWZVFFVnpzLWRPNDl2eHlra0p5bkZjVi15bUxDQjdZZW05OUVzQkY1SS1RVnZOVlh4OXZvajdiYW9KWFZjd3NaRXNLWHdkRnhEaE9RYmxldG1CLURmOWx5RnNtMjNWX1kwRUkxZVp6cHdtdGRpUVZfQW9qNVNvMjh1MkpCQ2dLei1PZXV2SEtESng40gG0AUFVX3lxTE93UVpCaWpoR0FoU1ZybERpdDdodmpPRWgyaC1iUHBMdzZUcXV4dXZMelVkbGpIY3RnY0RCUVhDRWoxSkt3dmJpYVFOUl9yUFpfX0tSM3VYX1FfV21pbDVIRDhvS1RzUDZydEk4c2s1dzlYekVCc3FhUDJJdVhMdEtxcXplWE5XUlE4cDNmTjlRQTVUbzQ0bHpGZmVJWEVjbWtjV0JLZlFpSXdrY3Y1TXVTbThyUg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/24/climbers-escape-rockfall-crossing-death-pass-on-mont-blanc?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-24/alibaba-ymtc-fundraising-hits-china-tech-stocks-on-supply-woes": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
