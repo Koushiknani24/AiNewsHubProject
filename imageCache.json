@@ -136150,5 +136150,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/hodgkinson-withdraws-zurich-diamond-league-says-body-not-ready-6338706": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/fonseca-pulls-out-us-open-injured-6338701": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON0JwZkZvN2lzSk9UQ3JoVmx0VVowZTRhZkRlaUtqdktUWldZbVNBd1hFNGtQT1c2NUdORE9PYjVrdzA4d2FUVUdjUVZBTHZ0M214ZW5vekFjTGxYSkRPU0JvVUhHZ0djT2lOVmJWUktNU0RzSFZ2LWNFWGprRUNJUFZZM3dFM0RwSkpFUkFYeHY4bEl0dlZPNGtucVdGcDFNcW9Bc1lTdkxaRHRJTjR2Tk03M3FFZDBCMzJfSExMZ2pfRFk0SlkxME1RdmU2Y1dR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkFsd3htRzFPUTQ1eDNZZkh3R0VINWtrWnJKaGtlRjAtRHFac1ZVbFlpRDRNRW1zTjlHcUwyb0dhYUxQTUVHSENFdndobWJsOHRGczRUUzZjVklKNnRhMUV0Nmhkc0UtU01KdExIMGh0VGZYcG9FMDAwSTByNzhtUmx2V3J0MXV1Ulp0dVRQMG1ySDBHMWZod0lzam9kcXBUaFcxczBkN3ZJd05LdXZsOTFYNnBaT1czRS1Fak50NkU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3307179/judges-query-jail-sentences": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-plans-to-revoke-tourism-and-business-visas-of-up-to-200000-foreigners-ap-reports": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
