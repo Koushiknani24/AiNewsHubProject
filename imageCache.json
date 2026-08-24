@@ -134542,5 +134542,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/24/why-is-uk-football-club-hiring-booming-with-data-analyst-roles-surging": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/i-plant-my-hand-in-the-garden-film-trailer-2026-venice-days-1236676841/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/audio/2026-08-24/odd-lots-dangote-could-reshape-the-african-economy-podcast": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.yahoo.com/news/politics/articles/political-amnesty-law-takes-effect-075252857.html": {
+        "image": "https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-24/the-nigerian-industrial-behemoth-that-could-reshape-the-african-economy": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmtYOWdFelJCY21fWnBSSGZ3YlY5ajI5dHREZklJbDhKZnhCeWdZd0ZubUpHRHRVTHRibGg4SUdVNEpScDJXUjQwZ0ppbzNZSWZNczY4RDFoVzhUbEJhWkFVeHpvR1B5czZPdkJrNUwyQkJ3RUZidlRaaGdpbHphOURvN3hEX2tjZU5IemY4S0c1WXp3YmFhR3dRWXFsR3FsallFYVBwcmMxZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3307039/far-south-violence-continues-but-reduced": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1JyV3NjMURUeWxidHpqTmRMbGJBbUwxb3NJSWZFOGRsRnV2NWo3S2hyVVFOVlptNWt2cUoybTlIM0lwbk9hUUxnRjlBQlVkaWRnN1FzZ0xnajA3ellCV3FUUFYzWjJSclp6Qlo3NGEyWXNwa3lBWFJ3QnFIUnJleVlBOEdhcU50YW5QeFlzd1BxeXJWeDNOOU1MUWhCNmJGMXAwRU5aLU5XT00zQ1VEYzllWnpoTElYOG9ISUhwMDJOYThxZG1wTmNsUUNLMEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/shelley-fabares-donna-reid-show-coach-obituary-1235613698/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFFkSGRIOGVqZ0oxV3I4TmZTU2RJd3QwMmdEU3I5QTNFb3dQcDVkd2lDdHhXVTE4UUtHclFPR2FwVTdDeFREcjI3aVVmVFFrTkNsUDRCQkRvUW1taktTNGxNUTFFZnJFWDUzVmRnQUhhVnl6NWFxSl85SWJub0hudFE1enpKM2xpZ01McUkzT0dqSFBMbWZaMkJEdG9xSG1jMjhNVUNqZmZMSC0xOEU0V3I2VmJEaUUzdXdxby00Yw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY1RRMmNKdXJ4ajZraWNVNXpHZEJtVlMwZFo4cmJBMVRpaGJNWlJpYlh6aWw4OVVrdzhzbjRpNGkxY2ZfVkNlaE16QnhSZEV3MDBwWlNhODhkNEhqYmZ5VXJIZXBwZ3hnNW1vV2hwdHp5NnhYTGdIWUMtdE55U19neHBEVzRMeUl2Y3BtMzhLTWtvUlU5M0x0Z3dpLXg4eUJxQjctMnhRODZTSVMxUTRjMTZBWHRaa1N0TzFzaEMya2RRcDB3aFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/politics-at-sam-and-annes/sam-and-annes-guide-to-the-term-ahead/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/psg-coach-warns-players-need-compete-out-their-comfort-zone-6337306": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
