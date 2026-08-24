@@ -134350,5 +134350,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608240084.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-24/siow-ad-ports-minority-investors-needn-t-be-upset-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5UM3FpTktzX3FaLTFUN2ZFaHNOQ3hTTEstckJfUS1JQlRSOHFXNnlRZ3BMSXNuRVlJSzJXZEdlV1JlQXU4a1FNZGpyTjFqZXJhZmd4Qm1ONTJFQlI0MGt1SXNtcFJvRVEyUjlHdlB0Sk5HSEtvRDdvTHpvM3hvcXh3TUpOSER0VGczeDNEaUlwWG8xeEpzcUhNcktaSFdnWURtS1hR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/injuries-reported-after-coach-carrying-school-children-crashes-in-netherlands": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbk8tblg2R3hKclNVUnllbWljNlRPWUlmYU5nVlhPQ20zTXZuMFZiVTVfRDg1S3E2M0poYno4ZGxLUkNoall6V3l0T3NkSDQ4MUYzbUFIS2g3bVFYV0tXRnc0U0RLNVIxS2dVTV9qeW5SdHA1SFVpSEJLWkthUk9fdUt6NVpyc0wtTjhOODV2N3hlTEN1NVY0aXRzSDU3QjVoM3M1YVdRcE9lemt6N2E2bzF0YjE2V01RbzJxLUliQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608240068.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80cUlrREVNQU5SazdlZWhKWVduS3lIdGx6c0Q3MnVWNTVjN1VvUUdIbXNUTzV3bFVURWhuMnRpUEZmVHJZV0hyZmtqMU9WRzl4WjdWNWZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EUXhiQkdzeVpmMDJqaERfOXBSQXVaWFhHNUhGc3RUSGktZk1LRTh4aDVSdTBZdlpkb21mZS1YLVRNUHpNbjFrTDNyVk50Q2dZTkVvdnpuOFN3WWxBa25qVnc3dkxZczRON2p1SDRSOGNUTnpqRUdmZXY0Y29LN00?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWGJlWExZOWJkc3RUOHRWSHRTYmxzLUwxOUdiakQzTzRWbXdmLWFLb25CWkxzNFdTUy1sNzh3YnM0Mi14eVVjVEJOTl9SVTdMY1pabGZNclFWSy1xWWxYUEd6VmU3aFN6cVVwR1ZLaWY2UE9MSFZKUzl2SWt2N09sWWFFTXZSS2VlNE1xWUdkSGkxSFNleHJja01sZGdGbmJMOHBfaThZWmNFQjdvNEQyaFNWU2pkZFZ4dlJjWU5ZWU53a01nVE9XQXZ1Z2lVRjBXM0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeS15RWZpVVZIZnB4TER6d1VQWVVIS3Q3VG5UNGZtRENDckpLejc2MFMxMnluOEpSX0dXWHJTVVNjSml2dk9ROU1mSTV2Mm1TNWlpbzdHcWR5N29HMDd0czZEUWdmUF9IV19xcEZTVjd1Q2dJOFYxZEFHYnpDY3ZBaW9LRkF2LTVKMzM0WUpSSGR4dERvZzRibUJYeGpSZzZ5TmdsYVBjSGJiS1plZUttV3ZR0gG6AUFVX3lxTE1UTzZCX3hSYnVnNXZmbHk2aXZoVllXaHpfRFRmckZheDBUUllZTWFjSkNXWHdLd2dyU2F4WmwwS0xtaWlVOTVFc3RQR3dvSElneE85OWNqQmFUVVh2c0lFdldjVER6VzNVaS15cGp0MzFYak5QcVJndDVCeTlZOTE1R0J6RW9XTzVhVVptZFFKS0NGQW9EZElPOWRnR3RPNklzSnphQjVlR3BzSEVLczNZcXVUQmJoR1gxdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWkdjRzBRQ2ZjR2twd3F4ZjUtV3pnWGl6dXRfenJTUEVxQ0I1RHZJVGZkeGxWZ2hXdjR5MDFGMmx5Zmp3RC1PcmNfeWp3djUxMWtKUHRrZ3hyU3VYZjlaNk9IWXNGX0lxWER3ZXl0aDZ3WkkyS0V4ZEY0QU42Y3V0Ql9xem5nVmw4WHNpeVRzanZiQms2Wmo3U29OSkpONzZraThuNS05TDRUbHE3azgwME9xM1I1RWFsZ09GQ1FYRkphQ3VyUWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVDJrMGpVZ2pqRjFvZmdPOEJiT25hYl9CQXpIa0RXZEltQ2tKV2JuN1lHaFdUSy1pOVFEZGxIQ1h0VHJDeVRIRmN1d1EyaC1LZDJDRmEzY3VuWUlEMmhhOURxTk1SMzFoczgySVdDRzdpRVpUVWJXcU5DMm1teUxqd2N4Qm1Najl6UlBSRVhYZjFwMExZMXpzNmYwWU05TlcxaUdzbGhQY0tUeGlWYXpvSE1EUzhtZjdQekxhbXl1U3QySVk5TmpncEFkVFNSZGFMWmtvSC1sZ1Q1OThSckE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/norway-will-drill-in-arctic-regardless-of-eus-position-says-energy-minister": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZF9DRTJIdGxGcnR5a3NrQ2wwTU9EcmYyQkpMbTM3QUdhWjVIb2M1eER5c2pPb01pTEFBb19rTUl3RGxMdHQ4d3RhVC1JS2FSd29mOW42QnpRbmRBMFNrS3JWOGZqNEQwUU9vWFFuUVF1RXF2U3ZyRWR4bkdMdWpmNXh0ZE9hWjU5eGJjMDlaeWdidFIxNlA2VElhaHBjbWMzM3NZcjYyMTNjYjRGLVMxZVFZZ3N2bGFKMHJULVJzd2o5NktEYWhvODNwSVUzQVp40gHQAUFVX3lxTE1ud2FTd0cxeFZWNFdKNV8wbHQzaEFQVFpOWVN0ZFRNQnoxalJtQlZOZm9samU1NHdFdmVVV1ZtVXRETW9JS2o3NzV5SU5DLXBvb2kzdXdkOFNScXRXUWJqdWxMMEd3dUM0bnFFQ1RFajFhZV8xWmtzbFE0UHFkZ2IwVkNPRlQyVVIyTVI3NHlDUUVDOFRPSHljcXNzWEpFR2JxRTk4XzVqejhFZ2dSSHZFaXc2MjBNUzVmUTJhaDE1MUhFSmEyX2tJaWdIR2Y2OWw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
