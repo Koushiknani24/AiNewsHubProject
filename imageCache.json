@@ -135298,5 +135298,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/furious-finale-new-girl-reunion-liz-meriwether-interview-1236677882/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/explainer-what-are-irans-options-to-escalate-further-in-face-of-us-economic-threats": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/spain-ceuta-migration-crisis-pedro-sanchez-national-security-council/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR3YtVnBaS0p1ZjNFYm1QNmlFMUZCMGxzdTNfckpJckItUDloX0J4NEhtWTNNWXhoZDlfWXZYb2ZIeEpxOENhZWxsZlJ6ZXVFdF9ZMXNZQTY4Znl5OUFuLWdsdUM2Nmcyanl2azJ6SWMxLWZidmNBWUd4YjRVa09vaURYZTRFVG9EOExMdnNMeGpfbzJVRmRQT2JjdlRla1ctNDhscVdjMlRjd3g1ck5wOXBwNm1hc0ZGSURQM3FfTDU0MllxcWczN3JNNXR5bWxaWWhTR1NzTmNHdGU1cmpQVXAwWTExZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/ukraine-e23-billion-defense-funding-gap-russia-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/empire-state-building-climbers-kiss-outside-court-after-viral-proposal": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1pMdXRIY2IyYTFBWUR4U21xQ21vT0hxVFNMOE5WdzRQYkFCa0hjdmY3ZVdQeUpEUHhGVEZUcnF0dE92MG1ydHFJdTNEWDJwRFJUY1Y5S19rdlRJMjFhLWlDdTZWeUJfYWZhNzBpMTI5ejlOaFBPbnJLcGZLQ1RieWphVFVmRmZOb2RLdmFIZTJCY0l6TkZF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSnkzS0diX295UHFENGJLT0JQdnNrTzVVbVpMSzlONWdYZ2NEZ056bU5PRHZUSm5BUUxFTW9ldzhyTV9qUWF1clV0T1FHR2FNejhPQTA4b0ZvZlhRdGJ6WG9lNjF6NnkyUkRJNmEyNi1ScFdCUkxKOEVFNDFqcl8xem9iVkRJSmthY25zaFowYlllN3E1NGMwZEc2dlpESmRfLXfSAacBQVVfeXFMTnJKWjdvSDNMWTFLMy1OdUpBY09DakI4bmplYzJpbXVoN1pxanBWRUNVM2hBX0JYNWkwZnFzNWdSY2dNWDBQM0FjbXdBSzJXUDZYb1JreThOZzlldkV3WVRJNXBjVTFYRmhWR0xBRTFLbk1vVXVnTjVtSVRINlhWQ0ZmQVAwV01iWDVqOUxfRGtWcTAtaFNHUEVlMHRnRjk2WnpQN2ptQkk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWFhyLTlPcnZLV2NSVDA2LWk2cjB5OVdlZ09SdzQ2d1ZDdHdpLWQ2ZVVBSTJFamVVeHVNR1hpa0RpcVJPUVZNUkN2Y3pIekhQYWhldVJza1RLdnFEZlNrdTNoOGl0VXJHZmpGUUtWYW8zeXhpUHVocTZodzFsSXF6U2F3ZnBqVFFp?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/reggie-watts-comedy-bang-bang-theme-song-removed-1235612315/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnJ3eU9oWVFyV3VkMC1RT1JiYm8tcVBiMXJkdkR1Zi0tZ3hlZTR4M3A2TVM1U2RzdFJUUXVSTjhYLS1DTEVFcHQwd2FhUkVGdzJVeGk2enRTTjhQaUpIOW9wUUpzSW5JbkdZWjluZlB2ZGtRNld3RmhvV3J0MDBYbTZrd2VBSUNqS2U1bmZRbnAtTEl4ZDlTcU5wWkFxMS10aTlHSjVB0gGrAUFVX3lxTE52aHJucmkxZU1TMW5JZE5QNVNNNkRQclZfWnNsQkpmMTNNNTNuREFBRUVZX0FvVE1YTU05M2ZmU0g0OTlwTjRmMTMyUjYxNmdwWWxySks4ODJ3ZnQwTmVIX21vUXBOQ29GSERsSjlpOTdBanBwdXYzYjQwb2w1dnAybjl5Vi1kNjJicS1DTHRCLW5rRG12NDRFWUR4eDRYYUxNQmNwNjcwQlc0aw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/mexico-president-says-sinaloa-governors-brief-return-to-office-was-not-appropriate": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/when-frequent-family-visits-start-to-look-like-us-residency-a-legal-primer/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EZE5ZckZXeFRzdmdKV1dNaFNwWHlYOVZFak52QXdQX0JKQnFqRkh2ekRQSjBJR1pDVHlGbmlCM2JSTXFuOFBpUXB1Y2pDa2t4cWJ6SFJB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/iran-protest-victim-they-were-shooting-to-kill/a-78486217?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/24/greta-thunberg-joins-10000-climate-marchers-in-stockholm": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
