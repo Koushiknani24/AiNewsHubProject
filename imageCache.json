@@ -134056,5 +134056,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/germany-afd-saxony-anhalt-ulrich-siegmund-government/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/uk-immigration-database-identical-twins/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0dEa2Z4enVDdXlZZHBWR205UGFtandjWm9sWUF0bDJkcXBoYWFJRHdpajZ6cFhzYmZHaHRzc2E2ckJyYmxtVXlPR1ZxdVJZZGNtXzBMU3ozUVlnNDFYVXBTX2piS2FibFJwWXVRelc4Zjl6V2FGTUlFY3lObkNsT2RmYTFEY0dOZkdWYm9ULTFnX3k5MTlVME1naF9UMk9DbjgxMk5XWFhVM0wwM3RqNTZiWGd0VHfSAbwBQVVfeXFMTW9SRzJsN0RzUHJJS2ItMFcyaXkwMlRBSzJzZm5GN0FSUDBjanZnYk5fdWoyRXVsNUR1aE5MV1lIcFMzYXBYTEJlNDlaOS04NHZxTjZ6Um9ORmVTaHBwSW1GRlRtZnRoN3dhTHAyMl9naVItRE5wUzRaX1JyUXRLYnVsTjUwZWk0aU9wWjkxcXA1YmxjWWVBU2FTNXBIS0lMcmRjenI1WTk0dVI4NXZHQmZQSVBqWEU0dHNNemg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/ukraine-widens-its-targets-and-its-tolerance-for-civilian-casualties/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUdZcFhDOTNLaXBYTXhESUt3a0lVWHlpN2RmNUpvbVYwRnFyQVhyYkpEaWk5a1oyeTBFSXFzUGVSNVRWWVhTSW9JbngzSkt1RmJzcjBRTkg4NmFZMU5XYkdvcEdiczh6ZWpUMVlhamN3WmdRSjMxcXNKQkRkbUh0RzdFZEhqOEJqd1RCS0VsZUR0Wk9jbG80SXozZFFhNmhZeGZCbmFTeEdpSzE1eWt3Y2VBampidGpaVzlEX0Jzbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNTVPdjdmMk03Z052TmlMWE9xQ1d2UHZJbDdxU0ozSkZYZFpMclZkbHA5WDFqT3g3VFNwbTdqX0xjSGlHOHAwU0IzWl9XdERxb2JSLWxNbXZzajV6cVJUZms0Q0dyTkp1NmxSWjhGeVg0aVZUSnRnaEdMbVk2bnZBSE0tRjlKRjVOVzg3T25jZ2ZVMVhvRDRYcE5KbU0ta3p4MnF5SUE2bXBmZWFia1d2aG9paDk3UzFfVUw0RUpnaElnQkY4cFNrbE1IdUljdDFxbEg1ZVI1UEFYU0tSM1E0OC1GbGl3Q29KaDNGc19PSERjcVRyU2V6RWtLaHZKRDNKM3liUWpqQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGV5eWlaaHlIcTRxbDF4VTlldnVSZlA1OGN3LUh5SDFiNmM3elNTeTMySENkanpvakYxZm9TWFdsbGxPWDhHNnlSM1JXXzBnUGc1ZzM3eXFXeEc4bVJDNXJCSDVnVFBhLVAtdDZlTWlMWHZBaVM1RzlyUDRyZ3hZMHpleE93NzkzS3VFSnk4Zl9PdnpjOHNiR1BlcW5KTTNENUlSQ0NENHd5Z9IBsgFBVV95cUxNWjgwUDlOalNGWmlZQVFqRGVDQU1yelRNQk5ZVVpBenhZVFVGSDdMRzc5TkxVUERrNkhxdVlMOG9FM3c5VkpmV0JnV3N2ZGFtY0ZHWlg2c2IwNHJfN3A2dWZhVTdXS25IV19JZmowbFFMUV9QeGRTTVR1WlFlVFJZRjNtSjU1MGdBb3hFenBoTEp3Sk91RmFiYzMzV1plc0R1aGZrOEF5YkFQdEhmdTJGRWN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVR6WDVGa1pXVWw0aFNTbHNTcjZjeEZpS2dUYjZKdjlCcHB2VElmTFU2Vl90RTNPbWg2akxvdF8xcUV2S01JR1N3M0c2T1ZmeHM5V3BrUExMbE16dWRHSWw0QlBoYmFMVUxXUlNzT2lMYXJYNVZ0a1JHUW0xRjc3c1JOVWJlTGxSMGFiLXFVTUgtbWstY1ZHTm02a2N4UklmX0pyaG9uVlFDMVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
