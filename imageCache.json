@@ -134926,5 +134926,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/jaishankar-meets-putin-in-moscow-discusses-bilateral-ties-and-global-developments/articleshow/133464285.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/france-tv-star-lea-salame-step-down-partner-raphael-glucksmann-president-bid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-24/hormuz-oil-flows-are-going-strong-as-war-drags-on": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608240440.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/ceasefire-monitors-deploy-in-eastern-congo-under-qatari-peace-deal": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/global-trends/labor-day-2026-when-is-the-federal-holiday-what-day-is-it-why-is-it-celebrated-and-what-is-the-history-behind-the-first-monday-in-september/articleshow/133463772.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/afd-turns-vespa-of-east-germany-into-election-campaign-vehicle": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/tunisian-hospital-receives-19-bodies-after-migrant-boat-sinks": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPendXcVcwTm1xcXdwR1MxaHNPRzVCaUV1TjJhMjJidUVnbF9HbFRRT1hwRDdqd3lrajFuQ0hNRzV3V3B6V0Z3WmVDMnhPeDJURzdoZlRid3ktOWhQRk95VEtCdlhZdlQwRzhkclZBM3VQYjZ0VkFDOFZ0SG5ocEtFYnV3Y2ZxbkhPWHVtREV2RjlTdmRoaktOWm1GR0FOS01LT3V6TQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/zolani-tete-murder-champion-boxer-killed-south-africa-arrests/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/gallery/2026/8/24/photos-towering-landfill-collapse-kills-30-in-guineas-capital-conakry?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZjRPSV8teUp6LXQ1Z2hBU2VGMkE4bTdNYWlEc0ZnUXk1Z3FOYTkwMVAta2RnU3RydVptVUdISnFic1JvWkZ6SVRqNjl6N2d2LVUyS0pDbVRYV3hZRk1TZkZTMVM0VjR6akxpZnhRdG9IWmY2TjZYblVLeWNsTnZBbGRLOExCdUFCMHUxbUFNSVdIVWdTXy13OA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/24/tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-us-city-of-reno": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
