@@ -133990,5 +133990,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/macron-hosts-saudi-crown-prince-for-visit-ranging-from-esports-to-mideast": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1JYaEVEdGZQajdrdnp3dkFrdUdMOGNfRkhXRFJfMm15LW5EdUlLaThHNGdLUk1RM3lwLW5Sem42NVNQVmJ4US1hNG1GU3pwSmhsS0FjZ21XNWxtZTdjRnZaRG5sS1pBU0ZndDhORmNTYW9DampFcFB2S0wtMTRpSDh1Y0g2LTJtTkhFWEpRb2NjcGRMS3hCVUp6dDAwUW4yeFo5QlFZd0JySnNhYUV6bVJDTWN1SkVWQkFn0gG7AUFVX3lxTE1LUlhoRUR0ZlBqN2t2end2QWt1R0w4Y19GSFdEUl8ybXktbkR1SUtpOEc0Z0tSTVEzeXAtblJ6bjY1U1BWYnhRLWE0bUZTenBKaGxLQWNnbVc1bG1lN2NGdlpEbmxLWkFTRmd0OE5GY1Nhb0NqakVwUHZLTC0xNGlIOHVjSDYtMm1OSEVYSlFvY2NwZExLeEJVSnp0MDBRbjJ4WjlCUVl3QnJKc2FhRXptUkNNY3VKRVZCQWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/norwegian-king-haralds-health-has-deteriorated-palace": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAJBVV95cUxONmVscmh3aTJTYVVMTlZCVFAtZEZuWURLQnBtX0tOemNnZGc1cWw5RFB4elZ0dEsxMWtURFBYRUVlS183bDdJTnBIRERLajNtSmV2MjI5NUNXcEJpMnAtXzRVLXNzbkwxQ1Y1bkpyZ1k2TEgzcXhwUlJPXzM4UXVJb0p5YlVhelRDbGdrYVVuMWVSbnpmMHJmTjNESEVmQnNfZ0c3NkFNS3diM0toeXhBZ2c5Zm5mTzg2ejd5Q2VHdE9CakdCcjkwc2Y0amVUNUFLeEYxZEF3dmloN3F5ejFZR2p3RElmTFhsQi1nUVkyTEJEU2ItQUtnQ3BCbzRQN2xZZDBUZlhDc09jaE4yaW1DdGNXeUZkZnlWckdWbA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-23/gold-holds-near-three-month-high-as-debasement-trade-returns": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1E2RHU2RDQ2bS1uTThLSExCb3FnMlhiZzlQWXNjT1BhaWpOTmNDZlBRSDhTR1JBdXVBYmdNeWptWTJTZXZZS3Juckc4b1YwMFdPY3VkN2Y2U2RJSkZ1dDBvZWF2QTc0LVN5M2lPVEVuQ1I3RTNWMkJTaE9iTWlXYWRIbXpYaUdUbXMwTmphX3h3THFMWDVUSFdYbXlqM2VTSUVWWVpSaEgwYnFDRWk1SWhYZWgyRnhVZHhfbTdBRWEzX1dMVnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3306825/tat-targets-taiwan-and-korea-for-tourism-inflows": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHBlQ0JTcUNLc3ZDc1VlMFZCS3V0azJSa1h3NEU0TXFWVjhUTjA4UVZlSHVZS0dtM3pXTkNRUnF0ZUV6Y2N6Y0o1cW44VEUtdVl2bTlQMEFSR1RwWEJVd1NZZG5lQUo1U1Zqa1Q0U1B3TGxYVTA0eWJxV1RWUF81RDBFS3FQTDFuWERMYVAzVHRLVktpeDVYbjR3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaVZMN3BpVzJpNE1DTGhWMml3OEd3bnpJaFBGZnFsVml4eXVWeXBGNFhzdG5LWW9aZndHVEFveUJfbGtXY3F6eExtU19xd0RhSlZVdHUtV1hpWEZ6UmJWZ2lweGh1YUx5a2RZMzlhZ1dfTXFwUVE5NlYzOS1ydlJzTXktODNha3B0ZUJmcjFuU1ZsRXE1UjNsRGZNUFA0d0JZYWZheWdQbXR5QmF1QVFTYlF2Q1AtX1FUSDhVaHN3N0RGaEpxdHBZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
