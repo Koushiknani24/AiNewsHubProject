@@ -138616,5 +138616,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/nigel-farage-wants-to-scrap-gdpr-for-the-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/spain-plans-new-stricter-data-centres-rules-sources-say-6340946": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ud2Nqc3ZPX3hlaWtTenRXUWdXSUxuWmo3VXdqYl9RNjc5QlJzY0RZNm5LZGNBajA5V2hxRnVLNWRNZUo2WXpyOGlrdEx3a290a0xCbUd0Qm40MHZpcW44cGFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/uttar-pradesh/village-in-rae-bareli-tense-after-mud-smeared-on-ambedkars-statue/article71389654.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZm1OSVhaUE1oeS1kN0dkMUhfeDlFaTMtTzh4bFpPRGhoU0JxRkwyamhVeU81V3gtempCOVNERURvQXlaTDJBallVZVhtWlpJdmVfY2tKSnM4NXFvTVlzb2lQclhLSDZacnUyaWxIZHIwZHpqZENsUHJ0aHhROW8xRHkyT1pUUlM2eGxpNXJ6WFBJREhGUTAyNURseHVJaF9EcTdwQndVa0prRVhnQkdn0gG0AUFVX3lxTFBWVDBDckJ2bDN3UlFLTlJzbUpvaVpLVGlnSUhkR1NhRF9XV0k1Um16Y1dtT3lfMVZJU0hyWVpzZVdLXzRZcE5zZ1d1bi1WbnVKRVdsaUhGNTRfcWF2Wk45di0yWWV3blVMcF9GQVppalNpVENJU2NlLWk3OXpmcEZRLVlrM29pYXJjSjRGaDJ5dVFmWnc4eW01aEQzZ1diNUp6UlBoN2hlaVd2djZkWC0xSG9YdA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/25/lankford-zelenskyy-ukraine-sanctions-russia-01049829?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/can-new-us-sanctions-cripple-iran-s-shadow-economy/a-78494630?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
