@@ -138166,5 +138166,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/hayden-panettiere-rep-slams-death-rumors-investigation-1235614741/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/25/ghislaine-maxwell-conviction-challenge-01049268?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/cia-director-john-ratcliffe-russia-secret-trip/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOUx1aVJ4VXU2dVFXcnNqTlYtOTNPNnlsMzA0aks2QzV4d1BVNzNpTG1RbkJqYmNyZ0JyRUZycDV6NGhRREJ0ejdzN0ltMjZlT1h4ZHNGc2tnV2J5SGJMandxOFcwRFh5Vk1wYUkzREtWMld6aC0xUmEzOGFaR05hT3RnVkY0Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdFZ0elg1dlBPUE9iVzNqalBiXzZGYzVybHRXU2VBbWhhQk5uTFBhcTRVU2tVUnpzLXBhbWh4bzFXUTFqUm01Wkd3N3laS0ZmRDRmTnBwQms0RGdUVEpFLTJkTmluYmJXbGprZFNGZjljUF8wbGNiVk5Zb2Q2ZjdQUUZaXzV3RjlteWZfdHlSVkRqZVdsSml5UnVhbUlCVU1ZdVZsdUxFbzhOR3Vvc0pyOUZR0gG3AUFVX3lxTE50bDZZVGwtOHhQbG0xYWJyUi13RW8wdjFPWS1LeW82bVdWZTlmNGpNTTFDTGRVdmhiUHVXR0xGY3MtQ1NBSGY2QzJTYlBpWlM2MVdVYUdCdFJxRHZlaDhKY05WSVM4NVJ2Wjg4aC1xdDdETFdXanI1SENpczN6WlNkZUNTQUd0NmQxSWJXVWVHUFMyWWhud0M3WTlSZ21FZjNDcTZJSjdQaXgxb1cyWlRVODBONTBNYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
