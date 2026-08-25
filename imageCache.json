@@ -137338,5 +137338,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-25/the-us-s-economic-d-day-for-iran-doesn-t-live-up-to-bessent-s-hype": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-25/market-looking-for-powell-type-guidance-henry-allen-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFF5YWZGMEtkTkwxaUlLS1RDTE5lYjluSWQ0TlNIeUpMNlJ5T2NLMi1yY1VYN21qWk1IM1hEMXp2c2xSblN5YnhjSjJBT183aHhMdEZGVTdoM2Zsb05sTkdtWElNUHIzeWh6Rml6bzZxcHdyaDdOSlRrVEZDN2V4Mlp0S1YxZTJpQnhwNllzdU5OOHFYckpPRjY2NjNqNnhUZUtQRmpINmJleFNOS3FRWkpvWGFvcjN2SFhEaE1BZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/25/is-aipacs-political-standing-declining-in-the-us?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/nasas-5b-cosmic-eye-takes-aim-at-the-universes-darkest-secrets": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnI2MnlMRnpkLUdHN0U2Q2VMUWNhbWNvRUl0cnhNLWFoa2dQWDliUUJLWnVhOHdBQzZHRkR2V0tTa2JnN0FXNXpHMEFvX0VqU0JiMVZobVBEYTNTOHRXU1VhZ0otN2VRS29JejBxVmI4ZXZjLTcyWkh6THVpRDQzNWlTMFYzU1ozemMxTGl6SE8tb0xkeU03eGxWTF9taTlSbFBJZXZ1VWpCaVl2bVFmZg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/08/25/business/piano-teacher-performer-retirement.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZFI1elBhOHlUaENMX3hPMGhLVDdXT2E5eU1PTHF6eG5lV1pZU0IzOVQwNlg5bXdfeFR6TWR4MHVhTW9OM01aeGR0R3NaZnoxTTg1T0REeDR5U0dGby1QQ1A4SWRUTUYzYVMtTXlVVzU2c2M3WTNSUkc0ZllBUE1nWjVFT1hJYS1NVThzbEFfSWNvSWR5YUdiZE93?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/25/india-faces-criticism-from-un-discrimination-watchdog?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
