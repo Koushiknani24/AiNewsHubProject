@@ -136720,5 +136720,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/cities/mumbai/threat-to-constitutional-freedoms-civil-society-groups-oppose-maharashtra-freedom-of-religion-act-2026/article71386021.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jVUo2V0RrX3J2Tms5Z055VDBPRHVPR2JKd0xzUFpYYVNfVmVLMnE0bFJwdTAxRktGYmtYSmpaOWl2a3ZJWEhETFd4RDhsLWxwTHRmWTN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSmUzVGt1SzhkNFppekdmZU9GNW5mVWxENmJjMzZQQU1BaTJiWUFWX0hkcFEtbXdiU0l1MWRVbUFGMFVYN3R6dGNIT3p5NHZwVmM0VHpiTnplaTdzdllCNVJ4XzFVMW15b1d0c21TZXJwZjBYQldsZ0p2emVwcDdsVFVVcW44ZVYyS3ozZDVqenRkYW1waUJkRVRjaEhHMmZhN0doS0hnQVhuSXJjUVVxRk5DUlU3RmZFRjl0WnJJb0dzZUZKMXNlaEQwaFNnMVByVF9QUHViVUNUWG9EaTFMdjNYRjN1cWUtdWFub1dSMkdNUXljOC1OMnUxbktieFBxTFVFa3hZUGQyV1FnMnNFdUFqOXJkT3BQMEY4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0ZHemlTY0VtcUlSeTRKVzh1Uk1ManhvZ01lajVEY0tRTHdKbU55MEJFWFQ2d0VXdFBfei1GazhUby1jZEdReUZfOXBPT1FjY2gwYURMcC15c2dIdE00TlNhOXJpVDVRNmNiT2l2UmtaX1A0c1lzVTlSS19jTl96S0JJRktlZFZPdzBsNjkxNDN4SncwS0l5TjAwX3haU3BZN3liSTE1cTk1UnM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0MtNmFOTnJXZFRvS0RwdG9FLVAzRmNTZkZ3cllLaG43ME5zNWlvRER1YkU2LWI3Yjl5cGZRdE5aYjJ6SG1XSVlCVXVFOUxkOHRLem1wRnNlR3pqcWtxOXZNN1Y4Vm1pMENRMUhjc0lVQ19PUk41em44NUVPVTBxUU0zVWtpVWM0TS1NTFdZeUM0UjJIZWln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
