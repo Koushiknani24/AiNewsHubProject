@@ -137032,5 +137032,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/ridley-scott-the-dog-stars-first-reactions-jacob-elordi-1236680464/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihANBVV95cUxNOEZ5YmlUS1JwVjhTNXAtOTV2Wk1pS3JuTU5fQkFxS3ZDU1ZPclc3akJYOXZCU2VJOFVIdGZUUFlNdzh3UXRQN2hWcUw4XzZxbFoyZkVIM0FaWlhCS2RsM2UwYXdDUERhVERkQ1l4WW5ETWdrUmpkdjVtdDhPZkdrdEZPRm5hSVVWdTlsQk5fRFFQR0lLTGRWTmFwSTU1YlFkZ0lQV1djTEgzdXk4VlhmV0owT3E4el9zTGs3dlFWWjdmOUZNUUg5VjVxZkc5MjJfMUg5QXRqVURHX2FQa1RXbVMzSWU1Y3haUV9jYTI0Rks5Y19jU2dwUjVITkNYcHF6N29CVjJuTlIxOVZhemRMTE85OEw3aTNuc3pNUTY4eFVvSGNncEI3VXVUSUtSeXpkZVhiWUhGVFhfMG92Y1czODV5QXUzOTJHVl9OQnU3bFNjbzBUVkVoc1huSDRWaGJuXzB0SFlCLWZBNXEyVzdSc1ZWTzFCMENxX1V6a3NiMk1pSGRh?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/25/armenia-announces-historic-intention-to-apply-for-eu-membership": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608250184.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-25/ben-rosen-tech-pioneer-who-saw-potential-in-apple-dies-at-93": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UblhGbXhqbDg5WnNTa0xZZ2lUN21YaEZXT1hDOXA5S1VjUnBLbUl4c0hoVU1qckhZNmozbE5xMG5rZzQ1aWJ5UE1aOWhIeWJXcDVyejRB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/25/nx-s1-5942903/morning-news-brief": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnpTb3NZTk1tUjNTNGNZQ0o1X0VrN2RHTnZGd1ZLZzE0VWVmQVMtck9lUlZBNUJzdXo1UlBUTUhTSTI3d0NJWjJXS1pkamJKNGxBRUxTNXJUV3VMMGJRRWRYTHNJZC0xOVFYT1Jodi01bFBPTmo0bzF5M1Nra0N2eV95WHJTaWpGcG5VOW5EMFVyOTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/25/indonesian-muslims-brave-choking-smoke-to-pray-for-rain-as-country-battles-wildfires": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
