@@ -137260,5 +137260,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608250339.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-25/northam-platinum-soars-after-approach-by-rival-producer": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/will-tougher-us-sanctions-disrupt-iran-s-shadow-economy/a-78494630?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israeli-lawmaker-under-army-escort-smashes-palestinian-memorial": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/saint-gilles-mayor-jean-spinette-brussels-gun-violence/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3307720/palestine-flag-in-phuket-shop-angers-israelis": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamxoRkRTejIxTkJRT2pURlBTVFVJUjFQemsyYzVLRUdIOXloLXJOMnRVazJUWGJ2Y2FibndmRDVoTjA5TnZtU0xVWGVveDlLUm8xOXJJSjRqelRFZEJZSTdocmcydTNObU96eGU2eDlSWDN3TGhOS0V6cDFQOVk3TFdWTE1Bb0gwTjJfSUtnOVpackwxTG9ScElnSXplQ09HYVZtRjljMNIBrAFBVV95cUxQZ0MwMzBLR05hS1JiOFk4T1UtR2ZuTy1Zc2JibDk3VXFVdTdZenYybXc4MHpfZGdWQ25FRUllTVhpTnlTWGVhTDZPQTRuSUdaWHdsSmJyMjc5QTdqM1VpOTBsOHF5LVp2a1I2WUl6bm1icGtyUFF5YWJVLVBXTWpIcnJrNFk1Z0psYi1yS1NISjl1MmFwUjdTcmFja1g2ZWluVTBHYnBnXzkxS0tm?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/25/latest-news-bulletin-august-25th-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQzM1S3FVbmV3Q2FFc000ZlFUMDFwSVNkZTYzRGZEXzVzQXN1QW1HbF96Q09jbXJTaDBZX25jTDRHb3dlU2RpRk5FdTliZ3c0eXdvQWVJcFcwM0pXcU5TS2c2QVdPUFN2c1JzZ2VBUlhoQURoRkV6czQ1UF92U3pvd2hNSndDT3hJRGFhNV9tYkF4TGZqTHNhX1M2SnZsMTJOUUFacnhFOHl3bHZEUER2dTYwWVJTMjJrdTdqcWMyYjhOM000cmlMenNrMNIB0AFBVV95cUxNWjRJZENUakN5Y3l3WV9KOFREOGpXbVlVc0RPVXBoc0NCb2tDMkxPSUlTdjNldUtlaWw1NVQ0MGdhOVp2eTR6WGtjRkpCckZCcG1WdkU5cTRMLUZoZEQ2U2N6Tmxmak50b0NoSlc3N0NZZjdFMUtmMmgwX1RMdkFISGRWMm1RRkhnSTl1WGFpS0VkeWppeGtSN1JFbTYxVkZNbzRwcHp4ZFI0UFZVcUNnQ2hIUTRZMFF4T29hVURHVXQ3S1FkY3pQMFpVdlA5YWRI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZXFCYlFiY1pPLXlzdExZbS1uWUxDMnpidzBWcERkWkVxaWhPZi1CUDk2amtMdGdCUXBvaWwtdWZfcXhuLVY0dlUwNFoxMmZxY1MwSmJFZFhjTm5xWFc1aHdZV3M2VlFuZEtwX2JXZGpLV0Zvald4RVRSQXJmYXNuQ09waktBNnpxdm5vVGtIODlMdXhkNmlCZGdXM3VxQl9Gby1USURpaGxmMlFjZTZUdUtiZ2xWTEhvMnY3MDkwQUVha0tYamFPbkxZRjdRZk8zVFJNdGRFaTVObUtYTHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-prepares-to-send-diplomats-back-to-middle-east-embassies-after-iran-war-evacuations-nyt-reports": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
