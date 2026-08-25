@@ -138418,5 +138418,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/dolly-parton-tributes-mourn-kacey-musgraves-1235614843/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-25/cbdc-s-wrong-way-to-fight-the-dollar-levin-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/gift-guide/dolly-parton-fan-merch-august-2026-shop-online-1235614826/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/global-trends/cia-director-john-ratcliffe-on-secret-moscow-visit-reports/articleshow/133523695.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/newsletters/canberra-playbook/2026/08/25/australia-confronts-its-missile-shortfall-01022132?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/syrias-kurdish-led-sdf-dissolves-as-part-of-integration-with-damascus": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-25/openai-data-center-executive-chris-malone-departs-the-ai-startup": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjNZSl94UEFPZ2tOSHBYOU5tR1RqTjM4bmRBR2pXeHdFWk9hRWFJZ09oenpQb2FuUENDN3VxNXlwZnhjOXY1UE10SlJ1YWU3b0plTG5aZWtzcDl3Si01T0pneWctU1BMTzlTMTNJTmhDUnJWZ1RLc2o5UzdER0xybnNEXzNYdTRCR3QxT2JzWk5vcng1bDAycnJfVEFlVElKLUhuN1daWjlBVHZRaTRJcXRob1M4dVB5ejFSdGFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/train-eurotunnel-britain-europe-every-fifteen-minutes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
