@@ -138790,5 +138790,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU1FV292bzJFcGIzMmhTTzkyNjNZdHIzcW0zNHFWMnVtSWpOa3l6d3d6WG52WndQNlFuUlRGOVFYM2s4cnQ5c05HS3lVb09jeHR6VXAzRzF0Ti1GbEN0akNrRmotOEdJWnpGM1F2Q2ZiQkJFYXJFemstcl92bGhNVF8zdHlmMGVZbU1aTHRJa29wYkU2bHRvaHBIb1ZDX1pxY3NzMGxQZ0Jfb3dQQ0tYbVRtWU5uUk5wTm5V?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-25/korean-ai-startup-wrtn-raises-funds-at-870-million-value-to-fund-global-growth": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-aug-26-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQUdzVlhHaE1FY2lPbGQ4dTZ4bVQ1ZkN5RjlWeDFGd0E0YmFIbVl6dW1LdUtRZ0FzUzRqc3lCT2xVbHZEZ0t1LTlfLVYzeW9ERjEyNFc1cE1yQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/uttar-pradesh/village-in-raebareli-tense-after-mud-smeared-on-ambedkars-statue/article71389654.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/": {
+        "image": "https://www.google.com/s2/favicons?domain=nasa.gov&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAJBVV95cUxPd1daei1aaWpVUlFvRmFPUHJjMnBSd0ZmcHV6eWViWjFSTkdVR3BmTzJSUHBNcE1WUnhWWE1IRDZ3UFFJREtZVUxEVmVUVFk5SDdyTkxGUkVkN3lvdWV1aTAtNFFKLW5sNlgxd0NWVDdfbENyODRaQ0V1WTR1T2l2RVgxdXdydlZSTmNpWjJqVy01UUxSV05rc2JNMWZyODJJcDNBUWM1QzhhZnJiRWJEdWlHelQ2aWJQZzZWMlUxWm9kV1BRR0xOTC02LWtnWDg3SXoxUGtrSFJsamNKbmpKbU1Ka19aRDVpMUhiUGtxQVFVQm03NkttamxtNkU2c3g1MW9vcA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3307880/2-exdla-chiefs-in-crosshairs": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/lask-end-celtics-champions-league-hopes-astonishing-comeback-6341026": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
