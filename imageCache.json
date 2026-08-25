@@ -136576,5 +136576,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-25/how-korea-s-10-billion-k-pop-industry-is-turning-to-ai-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/kabinettsklausur-altes-ritual-neue-probleme/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81UWcxQm1LSlMzSzdReXhpQ3VxUktlWlh1QTVLLThJVEduc1lWYVk1LWktNFhONkFTOEM0WG1CeGg5ZDczRlB2cmU1dGgyVzR4bFdIMTZTWnZPQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/wife-of-active-duty-us-army-sergeant-is-deported": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/netanyahu-got-his-iran-war-but-maybe-not-his-desired-result": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDAySzNVMXRLbDFWQXYyVFlWREZGOGFWTFRtYXlwb2JBSXpVdkNJVEJaRUdfVHpoclVHWnphYVRzLVZtZFVGSEVWS3g5U0ViNmlHSUstckVKZ1REbV9BY3RvanBFQ3ZyaktPVzRZVjl0VEtMTWJkZkw4akpyekIyOGN0NFNEc1hTYkVTWjgyQVdHTkJXS3F6NUxjRDZkeGJCMkpRVXBKb25LeUNfTnAwSDI2a2Y1V1doYVRTdEpOaEFyUVVnMmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSHlOQlMxR00wSWpZWFZna2dQTjFyWUtJempFd0FEZjkwVmdqYWc2RjBtRk96WmtPMkFzenZvdnhTSWxkVUhWU2lGbGVQMnNZamdzaTZkVGhHcERUa1FuOXdWNE5GMVFHM3NWUmswSHBsYVlxR2JLT2taNVJBeTlwNTVnVjlsOUNydmc1bi1IaXgtZ1ps?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zT0gwQ084VVNaZ09JZnJrZUhwWUVPSVVtUGpkY0kzYWVyejlNRjh6RVlSZkhMNTRfT3NXNG9feWJEY3c2ZjhCTXRXN3VrS2ZJMGhYcGlibTJFQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/amazon-swiggy-instamart-bigbasket-food-licences-suspended-in-karnataka-over-datura-listings-on-platforms/articleshow/133488363.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
