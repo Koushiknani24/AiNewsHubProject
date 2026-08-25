@@ -136654,5 +136654,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSFU3V1lCZWgyZXp2aTczUTlpNUNRb3h6S1U1bkZIZGk3bms5SmFpbnhxVzhpb3FhVl9VUVhwU1BWREk3dUlfLWhYaVl1anlYX0lRT1ZKcGc1aUhCUXNIMEx2TWpqazJ6U3BvbmJDRkx5RGVYRlVuWUZTdWR5NEZWa21JdDNIRlpPX1Q1WDNWY2tncXFHYWlQenYzWXctZWQ4UXlpS01yRHVUVmFTUHA5Rkk2OFExZC1aUDFLNkVxZmFfanE4ZlJ5cUtMTXdnTGxvbG5uRGxyZEVQczhm?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/six-months-of-war-20-dead-in-68-incidents-near-hormuz-imo-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRGZYaHN3NVlKYkJsTzZwZEQ4czR3NGxQTzNoZW1tcXVYcXdUN0hYYUhzZEppczlMZEk2eUYwc2RsSlVVQW94OUhLTzdDN2o3Mnc4WV8xYnpJU21odDBEOVBVOVlsdGFzS1VYSGY3WGZRVlc3NndTOFVvRHh3anZXeHVkM1ZabDl4UHVMWHBBcUdpUE9yMHYwVXNnX2l5XzgwdS10cWdEc1FyRWxIVm15SDBIUEY3NEp2WGZNZXJMVUZoU2UyMXJjWlZENC16cVRMXzkwVGQ5RFhVdHBzMjI0eWhwbzJzOUxyQmQ3YVY3N1VpcnJISjF3dDRHZjVqSWVSa2fSAYgCQVVfeXFMTkR3MXFXU2wtSFAwLW43eXhNRXJnM2xkREt1Q2QyZjBpTzZsWm1GRHBDbDJjZ3FMa3ptTXdSLVZscFpqbkgwX2dScWRtMEtfOU5vbzRfNGFyZG1FQnhoWFVpLXl5WWtQZlE5YWx4UEZ3SVQtQ1JSQmxyc1ZZZVplVVpTX1ZyVkNNZGZlTWJ5SVQtcjFTeUZ1YnhwdU9XcFRHaUE0bzJBWGNMRzR4bkJubEJod1BnMGt4STU0Y2tuWG5rNy1UekF4clRPLW1YX2RiTE1LaTFoYXhMcl9wc0s1NmpYSXctU0k2alMzTzZTdTBTcXg2Q0F3VlQwd1BQN3pLSFJXeTVMZUgt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/costa-tours-the-capitals-while-merz-rallies-the-penny-pinchers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/25/moving-to-the-countryside-for-a-home-young-people-flee-city-housing-costs": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ncHNscWtxLWZ2dWFPU05nTVhtd0d6ZGdxLXhWallEQS1tOU5hVWNTSXEwdUVWUER0dG0xSjRBRDJyOTdoUnlBekk4akJXNTRrSnN2VXdHckEtM044RGFLdDJESEJKcUg4b3BCdTZzWC16U1poVk5lbWNfS3lnZkU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2RObllaa0sxTHE2czEtbHhUWm90VncxeExHZkgwcDNlSzRTdUpCUXhpNVJrWWdtNktnR1ZFbnJVOWxjOXd3NjFLTUlBRGlIWHBMUDJBUmRzT3d3SXRBWlc3bVdNek5qWmdLWjlmS0Nfb3dhUGYyUFZFRUtSTXlPYkRqZnRoQU11VlpjWldaZnVJcHJFZEtRcWRoVXJXMFdqaW5RNXI0emx5cTRHQ3ZZNHRCcVV3UDVfNEFPbnk3RWlmSUh6NXBxR1RmeUxLazVQVm0yU3N2RTRSWUtH?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWVBfd2xod2FfTms2eDc3bkMwNkYzNk9wQUJ3LTRhcHNIdWtWbnVIcXRSV1AwbENuWmlURnU0Tl9jLVVxQnVVRXYyRllmN2ZPUGNGcWEtTHJkTVFyd085RlVHRkhDRWRnZUtLbmJHREwwaVFzM2xOMUVELUJOeVdOLTIzYTRQM2dIdkE3OWNjUnZLLURfNk5vRjJKM2o2NlRzT1dTaFU4TlVqWjhlZlZyc2ZyVGJzV3lLYV9NdWdlc9IB0gFBVV95cUxOdTBfQ0c3SFdLNUxmYUVyYTdkUEVvNTNkSXdXZGlZUV9jaVhYVjZ3a214MU53LVVmTmhqTS03cUJ5YjNwc3FxVXA1bGIwbGozUTBOekFDaU5tSExqUi1aTTJneGlkdS1VRnU2bEMxYjgtZlF2bnlxV1I1QXhlVk54TVdWb1ZpY2hXZ3NjTWtFVmVsbkZSc3hMZGgyY2VRVFl1eHotcHJuS1dUUUZZU0JSQjZCNkNjeHZjanplYTd5NVRza1BhSEZkNDgyMlk4WXNPaUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zOGZTYlNsbWl6bDN1amYyUnU4SDRPVTBDNlZiZkkwN1hnT2k1TG9UWnZIQXltU3dnT19abVA3WnJzMXVHZnVfbmVnVV9FTlREM0RaUTlVMzBSN3pSQkt6c0QyUDY2UmtWWXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/25/trump-administration-plans-to-revoke-200000-visas-of-asylum-seekers": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
