@@ -136390,5 +136390,41 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/how-the-french-language-contributed-to-the-us-canada-trade-war": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/how-robot-games-going-beijing/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/isaac-del-toro-wins-tour-germany/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTW92UWxlY0JheG9xQTVOWnE4cUlkLW1Wb0M4RGwxcy0wWjVDYkRTNE94VXE4WWR6N0VzWjB0Y1hjOHJzQzdZS280cFJsdUs5Vzl4QlZpZWRsaERCTG9sVjRuMFRwYS15N3VKRmkwZXFjYzlKUlhCaVdDc1lUaTRtRnlYeEdJY055TFpEWjllRTZHMldXR0NZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVRkZkhXT01waW1QYmdlSzR5VmZpLVVCZDB5N2h3RFlBVFZObEhJaGxPQVZBQ1hGUThjSkx5RERUT08tTURTMjVfYkhmZ3pFTVJHYmFqb0pZVTdqYkhkcFE0dkRjcTFnMXJwdV9hUHBlSUdWMlp4WXpMUktveW05YzBLNDk1U3g0Nnp2bUVOMk5jUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/britain-france-pledge-stronger-support-as-ukraine-marks-independence-day": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
