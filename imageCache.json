@@ -136846,5 +136846,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-25/how-the-world-adapted-to-the-strait-of-hormuz-crisis-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2NMYkFLLTdnb0xoamJGOXRBNGk0NlgtNXp6MjcyOHkyU0FJbzgxM1BubmlubmJzcGRfcEhadlpLT2VWTFNMd0lhWFBfaDctS1FDV080LVQ5a1hucjd6UHdTS2kzMEp1VHc2a0FvaGFlZERnYjRjMW9mQkJkdFVOeEVvdmFHOWdhdTdmTXlnUkRBWjFXcjdr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608250151.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BdlByMmdoU0NwWlRDSG5jaTN5dGI0VlRmQUNScXZobVFueWM4dVZPT2luZW1iMVlsc1ZVMXBiUk5zVWllMjZxNDNkQVc0d2EzRE9RV3cwVWdRZnM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/25/new-colombian-president-orders-immigration-raids-vowing-deporations-of-migrants-without-le": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUG8wc1BhVVN0ZjZEcTgtS2FTRkRIdXlrWXZrWGJ3alNlWnA2a2Nud1dPNkJVa2oxNzJ5RmVPdWp0WnFmUHNlaU01MndGbHowX1Atd3o1Ulh0ZDFLalhPUUduYm5raTlPVTRiSmtUeGM5aTVzTXZ4MHpHZUk0WWRKbmhIRTFTVGl1dHhodWNMbGV0Z2hJWkZIalBYaTR1LUFrNzVkVG50YlAzS3hjaEUtR0syQ183NHp1YW9scGRreTdUR3Q2RHRKd0JUODVpb0VOTUthQm1sWTZ2RVQ1VjktY2RKZlVuYzVzSTVz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-25/japan-s-only-high-speed-trader-dharmacapital-moves-to-singapore": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/australia-court-finds-dating-site-eharmony-misled-users-over-subscription-terms-6339331": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3307630/convenience-store-bombed-in-deep-south-as-two-suspects-arrested": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/25/london-and-paris-landmarks-light-up-for-ukraines-independence-day": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
