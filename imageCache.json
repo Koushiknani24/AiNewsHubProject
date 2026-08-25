@@ -137182,5 +137182,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/peru-to-welcome-pope-leo-with-hymn-honoring-slain-nun": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/25/what-the-new-us-sanctions-on-iran-mean-for-european-businesses": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/sky-anthony-boyle-connor-swindells-show-charmer-anti-romcom-1236679704/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/new-nasa-telescope-probe-dark-energy-dark-matter-and-exoplanets-6339861": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0xjOU5UZG4yTkwyS1lSbmpNd0xaNUVHb2tEMEkwYjl5X0NPemZUc2l3Ry1IckIybHVzRlBiUFBCT2lfbzNqU0NGay1VZkZsbWlZcVRFMDVXSkJ1czZDRkdGQmlQMjVxYXdmRkp5MHdDeTJqS2pVaGZfcXJfTDJad2Njd1VwWF9rX2ZwZkU0enZjdGRYR3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDkwbm1VSWQ1Qk96aDA1dzU5V1JBM1VIbERRbTM2d2lGS2NPbV9uZ3RSYkhCdDZtZGdXZWlBc0w1R3JuWWUtdzhhUFVsR0pPNVRoVEI3TVBFdVJwVEdnR3M3Q1d5NFd4Z3UwTGdqb0dLaUhfc0EwRl8yVlFKaWVnOVVIQ3lTZ215QjVNVEViQUhCY0xEWkNrQzQtZldCZ1JCLXBjNWc4SlpCMGR5bmJ6eGNLUdIBuAFBVV95cUxQTEkwVEZfSWo4YTdCamRzTkd6cnBpQnIyS0RqQnZycVVqQ0tGQ2VVRV9ESGF4WGwweVNaLVBjNGlQcU51SHlJNjhTVzJ1NDZYd0JtLWxCS3laa2tsbVVTM2xlQzd4eU5iM3VhWE1pdHVtZ1p3Y29PemoxRjVMUUw5bXZ6eVcwcFhmcVF0YzM0Wkc4VE5SbjU2YWxfT2wxV0p6MXFuZGxVLU9MRFpDRVJrNkJLTHBnV3lN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608250221.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWVZab3lYZ2hhdlVKc0JDSTR2ZDdPMFphWjlfSW9wM3VkSENvMnZPVmplTEs2UVAzSkpub2dsWmgzZHA3WUQ5LXhzbFVTb1RSM1FlMzFjMnNjZGZjemtiWFdhaWJORU8tWG9NN0lldkU5blB6UnJUcFhfZlJ6WXUwT2pzQ2tjdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/leipzig-airport-explosive-drones-friedrich-merz-germany-security-threat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/exclusive-ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-6339836": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMV85LVRrVkwxLXlVUGFDdzdpWFJuMEI3ZWNIU2oxZGRiWU9SN3lfSk1kSFBIMVJmOVkyX3RFWU4yZUZrRnFONjljSnk3dXBGM0ttcDRzN0VJOGlMek9UQ0QwYUc0TzFlX2NUSmdZRVkySlJSWnV0T2dBWlZ4NEJVRWt3REdPM3N3SXdERXZGU0x5Ri0wblMzV2kydks?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
