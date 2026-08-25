@@ -138742,5 +138742,53 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/music-news/trump-dolly-parton-death-flags-fly-half-staff-1236681335/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN29kZkg1Q05EQ09rTHRnWHI1R3h0RlJXWW91ZjVRZTYwdzB2dEJkQlNuZmswRzFXNVFuNTJNZkNSZ3BkdVl3eGRxRkdGeXN1MEF2SE5NcTF6UnRsS1FaeTk1aVJmZndvQkxRZElXejNPLWZvQ1BTVWNzRC1Kc1MyVThqYWJXeFFNSmJTekEyUXNDbGJ5X21seGxxQlplcXBqVVFXR29ZSm55d1RhMUZj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-pictures/dolly-parton-life-in-pictures-1235614917/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQkFaTWJKUDBpeENLZ2JGdVQtdmdMdDlnZmpnbTBoSjJqUVNGNzN3Rl9YVDZyVl9mdlZsVmhBY0JrTHh4akZodzdMTkpoS2x6WU5IckM3amtPc0J3LW0xZmk0Q0tnQktTWE5iYlJfSnkycU0tMXdreDJxVHlsdDVHSXp4MGVrUC1vLTFmdUd0TUhlNHVHX0VUUXU2YWFMcFQtdGVqOXNNblB3ZmNPZUZtd205Z2p3RDdRWVRVakRjYVpDQTB1RDQwQWhoajNGVUJneUxPcmU5RWlHc0x6Skg2UzZJRTdncGhxM1pKX3pIczNMS2pNM2J1alFyZmI3MzQ4alItWi1NVk5uc21vN2d4Yw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/snoop-dogg-biopic-finds-its-tupac-shakur-camron-jones-1236681345/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalpzMzNmX1hFZXpIZ184RWcxdHp3SUgzZFU1V0lLTjg2dTVtVk91X2xKNC13SDZYNmhkZUJ4SUs4RnloWnZMTEo2dmtwaUVwVDV4dHVsdEFjY1Y0b1lXOUMzSUEzSzRRMW0xNVdGM2Q3eUJqem5DVmhsbXdHV3dqYUFFVXJXOHhrWnhUZWFGN2RKWUw1M2t3X1ZsR0JmNXluRm5nT0cwVEx4Vnl5eWJsc0xDbkxiamvSAbwBQVVfeXFMTnFrSFdDc19BMzlDRHN4b1JOVkVFRlBWajdZd1RkYzBCODNPOWZkU0QtRjB4NjdaUFI4UTc5SzVJd3FTT3JtcTROaXc1QU1KRmo4QXNxSTdaVXF0R0I4ODlNbUNCS04yMzg5b2lyci02YnRSajhEc0tMSl9lMXo5R3AwVjlEY3FXYVVFeVBIYW1qVi1aVmExcW1zYVFUREdic3VDd2gzQldqZXM3OVFZTEpMZnMyVTB5eVM1RF8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/first-semester-fdi-mexicos-highest-ever/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
