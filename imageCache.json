@@ -140566,5 +140566,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/expect-more-violent-hostile-action-after-leipzig-drone-attack-french-intelligence-boss-warns/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/france-gabriel-attal-stephane-sejourne-relationship-2027-presidential-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/ridley-scott-alien-covenant-michael-fassbender-1236682050/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/26/rescuers-search-for-hundreds-missing-in-nepal-tibet-flash-floods?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOejU1cWlSdHhGcEtWVy1Qdk4xLVpPbWMxMk5yV1lrdThRTlpWejBubDRuS2Flb05rc1BwaTM1OUN6eGtydFAxS1VVYXJBMFMzUmVpa3RHVG9RZ3FOb0pmVThlUXJHckF4WHU3VW54ZmFCWnQ4dzdybXNsakR2REE1bWF5SUZXSmpHbzJFM0V4MHRHUkVzamFaWlBlaWdJM3NWcjVHci0tUDdmcmZ5NDdENVp5bU03dFZpX1ZhQVA2LWljZlBpYUNBYldBNG9nM0NpamNWUA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWVg0Um5GWVJsalB0a29aWHVhNnJaekU5bkoyM1BsdmZxT2JvZVlrdERGOXJNak1laFdrVEdXTzRBMFZ0SnVieHV3VWVxUjg1YnVfRHdxWTRmczFKRVFIX0Z3b2RNNHFfLXBTN3gtMWltbV9TbExJSkUyTHV5RDVNY1dyVjJvX1FtMWhQSnNzWkMxX2pZRnVzWHdGRmN0Nmd2UVkxejlkczZxWXdia29vMVM1UW9wZnJLV2NFY3NXV05aOVRidnNpczdkZGNGOFFEWC1YbV9aNGh4Wjd1ZEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3308428/dozens-dead-in-catastrophic-nepaltibet-floods": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-dolly-parton-tribute-1236680929/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/26/latest-news-bulletin-august-26th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHE0QlBuZ1I3SHZQRExtQTl3elI2cGJjd3FRdk1sR2MxOG1BTjlUUHJUbTFLMlZhb2V0RmwtQ3BJSEFlWWd2ckUyRkZRUmFMXzRRNWExSDhoeDdTcEJDRHgweGVXMUJmQUVjOWh1NlVHRmpuWXpQZ1J1SFdMQlQ0SWNkbXRkVzhVLXFCdzlUcmotR05KcGJKLWM5Y2NDSkVpWFl3emk4d1hhdFp4RG4wakNmcGNyQ29y?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWZiUFZqM2pSUlNEQmtJVEllRGF1a04tVG43Q0s2ZDYzME5GRlNsVEdaaW9ScDFDZFhyWElFbEVtQ1JGamZsMDRoaDhtRTJaQUNKaVh0VlpLYTBCVVRHUGtiWEZMdFBTTzBMdU5lV2tVUU11SUxubVVPcTNZVzRDM0Z4TGdDVVp4M085bXdmT1ZiV0Jvcjg3OC1QY0tYT1MtT0pxX3hIa0RZMFRLTTVuMElMY1I0VmFSY2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/26/syria-removed-which-countries-are-still-on-the-us-terror-list-and-why?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLXFLSDA5VTJyVUlKdjRJTExrSUV2Vk8wYTkwZXRhWHEwOEdVM1J3Ykl6clM4S0hteWFYU0t1ZE9wSzdHZVUwckRzWEJNSWVkWGZMUDBNQjZZcHM4dU1rR2V2aUZGNU5FV1hXVVJiWF9ELURDTUkzWGt2eFNEMWxkYWUxTWhOSkRCT2hZRXRiU1dsdU8xT1FnVVUySjFpMU1ldm5UTmd1S0NiazZWdVFxWEs4OENjNDUzVlc4VVJoUm5mMHF5Ync?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQnlvc1V2dUhMUl9aNnVObWljR3pJbjE1R0R5WElNZVBLWG5lbVdJSGRXSHlURTUwUnBnNjlpNzkteDdVVjNWWDlBNnVMY0hPTUpOc2Q2VmVZRHNYNkZ6cWtQU0NVRVNZU3BLSFN4OXpEcDdrb3BCcF9rWW1wZE9XX0pwMk5POUpkU1h4cmhrZGhxYTduMHNmeG94aWFjbWZZWndBTnVibHJmaXl4bERIRGZ4ZDIxNnFDLXRyaVVTbEVNUjFZMHZv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQXzlxVF9ldVhwOXZJcHFpdlpzZXFsaXZVZFQ0bFg2M1BQRDR1WGFWZ1dZeklWR0hydUtON3I0UFBOc2tCNUFzTFVhenlXZ1B2akx1WjZkemZhOTVOb2E5cUduVXVJZmwtb29oSm1IX1Q0Z05OMlBleXBDcEg1bTVCN3R1dHRDRmFZNUsxTFg0Q3J6WkI1WUhpdkg3UUhQRkM0MzMwOUtneFR3MnlvTUhVVFZFT2dMWnZVOGfSAb8BQVVfeXFMTnFwLWl4ZGQ0WTEwdkljTTUwZGg0eklvcXlfcFBOQnhpdExRdDZxdGR5dGpndWk5UXdRZmR3aGt6c3BBaHl4WnlYdXdSczN4Z2F0Mno5QjRVQ05YRGhHVjFIRGhqc0FSZTFrYWhoWWFUTl9vRThNZUJ0cVhuY0N3VWxXZG1MWjhhWEpRVnRsdFlpdENHbGRwZ1k0NHZyZUw2UUk0YW5sRjVuVk1LQ0FseGpTZmNHYkN5ODNLRlRlY1k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEtEbHJ1YkpPb01sVlVIR0stSW8tcXR3cnhWbmxJR2NkSk9VLXZocWMyMGxmWW5jallUalhVZEZKUm1xMnBOYm91YjVQWlRWMFBSaXQ1cnJKMlRCVzlJSXZTM190RDFfQTNKcUZBeE0wUTgzM1JzY3BTcUVxTW9mQzIxUjlya3R4Wk9qdkpYS2ZWbnI0UUhhS0FQOHJ4cVpkdlVLQkFPdG15bkU1Zms0MDhB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQekMydDVMV0YxNzVxUUlBd2tta0hvZ21aYi1lVUZ4S3VYUF8zaFllWDR4TlIzaW5vU1N2Y1ZTUkdRV2NjMkpSaVlRSTNlNTdoZTZReUpiSWt0NkFTRXdnOThsUmpjLU9Mck9DYzJIZDBkTVp2dWk3WmZ6cXFITWtPMVA3aXZqMG1uM084eWJabFk1Q1BMTUVXeHJIZlp3azdPVnVjWlFBalBDeDVBTDNqRGF3NkRGbGxheGk0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
