@@ -140794,5 +140794,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-26/nvidia-s-sales-forecast-fails-to-meet-loftiest-estimates-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMjY1ZXpKSzZNS3F5NG1mVXE2aE1vMXhsbm5ic0xQM0ZqeV85Zlg5QTFWdXBrMUVZc0EyLTdkQTQtaWU0NHBXXy1DcFVtQ0lLX2tId1dPelRqazIydlU5OER2REZuUC1JWFN0akM4NXlPcENkZ0pvOUlKX3BxbU9wYkpmTkZhMHdaR3NNVTkyRHFXRGRORzJ0UlhWUkx6ZlVVZktyeU1pSlkzREI1VDVEdUE4QzNFcjdC?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/14-tower-tourist-project-yucatan-coast-halted-environmental-grounds/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-nfl-films-offseason-hard-knocks-comes-back-1236682583/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/mbappe-hat-trick-powers-real-madrid-past-real-sociedad-6343646": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFFySkZLVUMtbDJsNnRjNVdkc3J3aVZjbnZ6Y0pyVjNtWFZYdHh2ZnVPZHNoenIwN0lIYmtUb0NVanpjdVY4TlVxNTh5MGRzTUhKbWttTkFZN2taVkNoV19SOUU4VXdtRFdqZ0x6TjdyLUJOaDJVT0w1ZXlJYVhYQkJoRGUzbld4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/26/la-tomatina-2026-thousands-turn-spanish-town-red-in-annual-tomato-fight": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFRoN3hocXc5U25tUUp5UGFMOEdpQVFzb25pZk5sbE1Wd184UE9OT2NoV1hnNk1WMHdZZnV6MTAwUTUtQzhnTGhQcDNaRGtNLUZrRTdETlhzbFVrT2xIVDFKOW55eXN0SjdGSV9vbTNkTGQtUklDbjBxdDV6ZTZOc0s1MDZpSE5QWDIyWHlodS0wU1lONWdPZ0t6RFlrbzQtSlR4MFV2NXgxS3BlNUE3SFFpWEZyR0NPR1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSHhBcGZxcG5Oam9EdXJqYXBBcFp3dW1jbFNxOGE0cVV3MVoyY0ZhU0sxNzR6Uk93RTFPWFhqRzh0dktLQnRoeG5lVGNLNld2WTU2N3AzRUttUGRNN0RYc1VOUnktc0RfZE13c20tYlBxdXRNU0Q1SDRSa0UwZTNibHEwX24?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZ2NYaHc0NUdpc1R2WnZVc3V2SzZIaWEwRElpMC01MG1Ed282dkhXVml1YUxJTjVnREdraDFfaFlCWGZrbXhKMk9yemxGWi00OVlTTndzc3NsTnR1elJoaG5QSzZyQWhVcjRZTjZJNDJQcGV1STl2MmlUbW5kVDU2blpxemFZRkhld0xQdzZON3FLU1B5cmU1REt1VnVtUnVHbzc0aV93RXBMUmFFUkpPMUhqTE1ObmRoY1JMYl80ckZpTFFPSGhWdmoxbDhscjFkWmQ4NWhqdWl1bjlYdHRyams2ekJPVms3VmFaZHBLMTh5aVoyQ21jNWFNd0NQaXJTc21rVWg0RjVrVEpUdzE1TGE4U1I3YnFT0gGeAkFVX3lxTFBycTIyVGk4djBTWUgxaUd0WlA3RjdDRE00c0lWV0FUSWRYME1jdDByWkVxQ3NpTUZmU1NUaGhvczEwLUhKZzNoOTNaRXBFWTF1TmRRZTlpQ1hsRkw5QkJMbUxLVFFwdk5pZ1RZN3VYZTdKTnNKZmZrY1QycVJPaDRxUlNIX0YyTVlVZlMwNk1lV0VGM2ZBSFpxSll3YWZxT2Q1NHdidm5yenJkeTM4dkI1WFNYSHgxR3BmUjdIaExidVZvVUdnYjZTUWduVjlzSVYzNVhpT1U5WU5WNlllZkNzLU5zVVROUnNydllJZGdGdmQtelRDUjVvWEZhNTdST21DTU9DMFhoVTNBUnJPOV9KUTllckJIWFNycHBFR3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUVMyTE5ocDdldjgtcFdSaW8yT2gyRkhobUhuNjA2YmhMd3VWTzE3RmZhSzNNYUt5d0xybEVrM1NwMDhMbEw2UENNRE85OFdhaVdhbEZGZFhqcm5WUmFHQU1SVXhoVEtOU0lNSVZkdUhtUFZCYmJxRXY5d3F4VElXM0pUMGltcS1BTFZ4WFFxb0lOVDlWT1NXNjZUcnY0bWJJQkwzZTE4NHJFZ0hTYmJKSE9IYUxYX0h2Z2hibWpMMno3YVl3NUxUM09GOXA5SXgwSlJaOFhNYTJNM1dtZERmbg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/french-security-chief-sees-new-threats-after-leipzig-drone-attack": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSm9CZDhmOTdLU0I0SzZWVTM1UzRyclRUUVJsQldIQVlmcnEyNUUtdnhZeUl1Zjl5Sy00TFlrRWZjWFo0ZHQwRzVrWE9relBUbS1ubDR5aU5QTVFibGVuNTVMQVE2ZkwwdWcxTzBYU09VV0hfMjViM2pvTUtCZ2lCeENmU3BLcXk3N1g4S1F2N0JJNllCYWJrUnZLYUtRUFBkSWpoTUxQYmdWUEgyd1RzeU530gG3AUFVX3lxTFBhQzVmMzFIU1p6R0ZyTW4weUtYa0RWbkVpQWpBSXQzbll1ejhpTmJaZnRGMTlsNFhERjJXWkhrV1d4eGMtQ0M5Snk1N21BYUgtdzE3RE5GSHdFTXFYS1JUSE5xVVFRY0pqRFg1d0J4ZC1ZR1JBejEtOEZlMmlIUVBPMFZCTHQtWmstZmlDaWVGQUZhY2lJWEgtOGJGNERmSlNDaXpwSlVKZlVGMmhSV1VwM1g3WEpkbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXBLSFBUWmxscWNka3FmNzZJblU3LUhMTHpiQi1OR1htLWlUWXdGZU9CZTJBUGFXZ29WQWd2dllLTHhmcHNsN2xZT1p2eGRrRW9mZTNTQU9wQzRJZGVzRVRDa01CMXpLZmhIN1QydWtIMklLMWg0Z0dBSVJQcktsd1RvakU3ZHlFeVVlZkZsRHJUT2Y2c2JrVXVZODlBb3A4OHBJQ1VlQzhIajN6aHZoUzhKNkVWN2tkMG5pSTRn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeFhyNjFOLW5mSzZtUWJNYTRoUEFlQjU0MlY2RVQyOXgzREtXdDJERWdNc2xHWUVvajFYb0RtcVRJTENUQ2QtMlB0cGhIWndIanBNVmVTZExUUU5yUTduMmNfNzZRWXFNb093UlJUTVYzYWlud3V1LWhnNlIyVTFKaUx3Z0x4RDlNN0tTNDd2Y3hEanp2Q29KcmhLaElURzRxLUx1aEIxQk9hZ042NGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-new-olinia-carga-ev-will-excel-at-moving-tiny-cargo-miniscule-distances-officials-confirm/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/26/us-police-arrest-driver-transporting-guillotine-in-truck-in-washington": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/26/nigeria-launches-hunt-for-hundreds-of-kidnapped-mosque-worshippers?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
