@@ -140320,5 +140320,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/lifestyle/arts/rupert-grint-harry-potter-and-the-cursed-child-1236681941/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/king-charles-and-queen-camilla-to-carry-out-tour-of-caribbean-nations": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/26/meta-kids-safety-features-settlement-01050418?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVF2bV9ERXRjeWRnM3JoSExVZ2NXeEo2SFdsRmlnY21RZ0NLLVhsdXAxQlhlNTBJZE9mQ0JBMlVwcUE2R0c2MF9LakV3MTVoWGRhU09aQzJMWFJjeFV4ckRNRm01YlFLT2lMXzEzMkZSSG9MZkVEbGhBQ0FaRUdoLWdRVklhM21rTk0wVVVXdk9UZGtDdExfODlmZlU3WDZlVXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/slovak-government-proposes-banning-social-networks-until-age-of-16": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQU1mMmZ4VDFsZXR6QjJkMHhaRHZ3ZWROZnZkLVRQLUhkUWdjWkVMcXBxRnZYRUdTUHh2ZlhtRHFxVkpCSHJqVkI4U0FTOWs4V3hRMmtVVHNmZUNqd2xaQktPY2FqeFRwc0lFbi05UUpLU3QwU2E4cDA1NVFiQ2VhWWIzd0c0aS1XLTVGeGVMNVpVOC1WdXdpaXphTUhDajBQX1I4SFVNQl81SGhSbXJmTk4zUFAzcjJ5LW9QMWNoSWJOZExIZlJEcjZyQ3ZIZXZhYWpqVzAxSXJocnhDUWpjZ3pNbnZqeVZ6RUthczZFeTg2SG5XWDc4OU9jZmFtTjBKcndpVjE2d1doN2NSQ0tFdm1ZcXhzaWs5eHdmMFNMNU1oRVA1dmJtMFRsT2NPdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGNKVXhpdnNGZTRiUGtXT0dpdTZMMHFmZnd5XzlsUDE5S3p0R0F6U2RIWGNjTDJKZHpxS1ZiTVEtYXk2RDVWMGwyTjRFX3lDb1N0ejM3SllTLUJfTVdmZEhZQ0U1eFM2WlA1Nkp0dVBqU3BjaTIyOWZtbUJpdmtRckNVRTFIWFRqMFdHLWZ2OHd3Rmt0cC1pSjZTeU9RVkVtSVl0NmJrdHo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaGJBZUIyWjJCdjZRT1RMZjZUOWQ0SExQQ0VzSy1TOFBMSmxUN21vYTZXd01PdE9nOFRSY2Z6MjJhdXFGNFZGSWVSRjljUWduaUdaaGFkRFpuMENiS2lzdjFMTXhMcktqQUNqbVM1aDgxWG5FY21lWl9ZTk82Tk5QbTlLZHk4cXZRejV4NHZRQUtGNHpicVMyUnlxa0ZIMTdsN1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-bajio/san-miguel-community-roundup-august/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHFNT01fRlVLRHpWbVhCaGNmMWxxTS1ZOVlHLTRRQ0pkSGxxTGpEZVVHcE5qcnMtdkR1Q1N5bU1UdVVBd1RMa3Y3Z0VGNFdmV2dST3VaS3dYMi0ydmwyWmlpRE9HRVphRDJPUnB1RS0ySnlMUHdJWVhPLTQwVXVnT1dkYkRaMjMyN1pLZmxGZndpeF9oakdyci1ldHhheXlHZ09WaEp4SE40YXpHTmQ0VmZSUnR5clk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/could-syria-become-the-focus-of-an-israeli-turkish-conflict/a-78507781?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/meta-settles-in-us-states-lawsuit-on-teen-user-addiction/a-78512157?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQT001dnhPcEtuVUFNSXVuVzZ5c3FFWm8tUFJxeGxvdzVfaENXLWc0VGJiNU45enMyQWRETkdzS3RiaXpiMTBiWl9yQlE0Y0FBVDgxZFhkRTZqRDNjdGJnbDBPbFFERGxJTDJuRjVDOHV2bkVsOVFfcVMyRGNXNmJRYTduVGRGVi00LVJQUi1WZ3I3NTg1VE5xOVU4eEx5VkpiMlJ5QkU5WGN4MVFjSVhTR0dET0d6MV82QWNfdERKME9HbWRzcXR5U2xqS1YyTHIxSUYwbmU5TFZuVFA5UlFHQm4tMVhDNFAyZUh3eHJnNkNxZHBUbnFOT1JoRFgwcnZZeDlGa2txQ3RjMXFZTkpGanpYX1RubTNsemJsNVdMcUJiSlR4S05vZnVwbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/26/hundreds-missing-as-flash-floods-tear-through-nepal": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGJuSHVEbVMwc0ZIMVJiMFJuU0lqSUFwekVXLVRxRGRWT2Zfd3VqMjQ3OWd4Y1VvWEcyM2hRalZvRlloM1MzZVg2TEFiVkJsYm5aQmVobTdFV21BR05yTkR4Vk5HNk9NZE9SRnA3ZHhvTjVGS01mcWpnazdaVGJYUy13ZHYxVnJLeWdZZQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
