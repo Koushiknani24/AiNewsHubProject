@@ -140008,5 +140008,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/nepal-floods-live-updates-august-26-2026-several-missing-dead/article71392492.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-08-26/global-fuel-markets-have-little-margin-for-error": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDBqOEh2R1VNOC1qcjhDVDM1QmJ2eXNWMzI0WjVhOFgxMDZPZkZJRXE3Rnhmb3h2M25iTVExeXBCcXo3WE9yZUpmSm91SEwxUDNvSUl5YUZaWm53RTlnUVhXamo3TURyTFFBbGk4OXNGV0lWWF9LbjVkajdGbVdsTGVXTHBxMWFoWHV3UklLRG1qTDM1QVpj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-26/pimco-points-to-low-volatility-in-healthy-bond-market-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/india-assam-tea-industry-faces-climate-driven-labor-crisis/a-78506414?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/prince-harry-and-family-due-back-in-uk-as-they-return-from-us-bbc-reports": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/26/the-data-centre-trap-trumps-ai-ambition-puts-republicans-on-the-defensive": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdVVwYWtFZzllQjJBZUxpdktVakF1YS01TjJtSVZLa0NkUXQwaFZwTGU5OUd2amRMSFJTNHF5OHFHNmpSZUpLZ2lxR0hJcFlESWZIcG9sd3c2OHRZUV9PWkNuQloteC1jaFVvM2tLNmFoYUtPQU9STFg5NTBqNG1wdFYxOGJaa3FLeFhZQVpOLTEzUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNckszRFhBQmwwTHVwaUpndS1DdG9tbi00MmJ5eVpVVGRhX1dZRllfWXo4N1RPVEptaHB1SjJBdDY1WDA3LWtfVHpGcjNWUjJfNXFUVmhIZGxXV1pQUHdpZmN1XzB1QUhyTHVEWDhRelpBdGFqMlBaUlZDSXdkU2J3V0VEcDJiclFWSGdZdjRYWmk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmF0OWxqMEc0aVVsMkdDS2JCa0tqbnBIalRJaTMzZE1aeFVvOERnVDhWcmFsbXRXaWNDbl9qbTdTQlBqV29xTWlXOG55dzdlZ094SzFSRFBWOVdweWotNThHMTFaaFl0b2Y4dW04M0tZdFk5dWdfeVhTWktObjJNelpJZ3c5ZFh4ZktMM3g1NlcwYUlsQjk0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/26/nepal-flash-floods-kill-eight-at-china-border-and-cause-major-casualties-in-tibet": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
