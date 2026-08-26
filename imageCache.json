@@ -139594,5 +139594,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/26/haze-from-el-nino-fuelled-wildfires-threatens-health-of-millions-in-indonesia-ministry-war": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/26/more-than-50-kidnapped-as-violent-gang-attack-in-haiti-leaves-at-least-47-dead": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQblpwVHE1Ti16aXQ5M1VCSzE0SC1XNlVPM1Y1LVFSaVhmcHNiSVVzbE5Ub0ZNa0tSVWVBVk53ZFg4VnRGU0FMdFdHN0pxN1ktakQteGFRWDJzNzV1ODR5M05oQ0JGdGxLNkdGN1phdWxzbV9IQ2FaRXJYRl85RFNaa0NpUnVrLS1DLUdkNFRVSlVYZWJCUksxWFdXS3J0dFgtQ0pXYWRaeEd3dllHR3FVR09OclFYTzBIc2hOSWpnUFlfX0ZjUEx1b2VjWmdnTklN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxORFRBRy04UWxZeDRqeFB4a2o4UzROWUxSalZ0S3BCeDJzSjVHaG0ySDRjQzduYjhNY1NVR0Z5Zm9DcjFXbXVGZmhiRGoycmdGQ2RoRV91Q0JlT1N2aDh0T3BVQjRxSmo0RDNUdGZpbDNldFVsVTVpME5ZZlVYcE9YSw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-26/blackrock-s-li-says-nvidia-has-earnings-pricing-power-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/bill-gates-alarmed-by-ai-has-policy-ideas-he-wants-to-discuss-with-chinas-xi-jinping": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/swedish-prosecutors-hold-second-man-over-deadly-school-attack": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/26/man-uniteds-fernandes-citys-shaw-named-pfa-players-of-the-year?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb3V2Vkw0bXhyNGZtMEk5WmZxMEUxM09GbUF0LWlsLWJxSlNqMTV2VDdFMC1ZTU4zekxqNkFUSDhqcm5WUVZDd0trZWlSenB0d2V4MGc5a21raUZGS2VMa0x0Y1Q3TFp4Z0oxdDIzZm9jOXN2NEEwRVVUZ3BJakpDcnlOeHFPZmlaSUh0OEMwWU5Vd3M5cnI1LWlubVZ3ZjdHMHFsOE5Bb01GeXFTczloeHRQek5PREVCVWI4am1IZGs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkhpWV9NSlYzZWc2TkUzNTFTNTNIUFZUUGtpdVdRMzZZdlh3eEtBV002QzFOdktqMlVQU1A2NnRhNnBfNXRsd0toN3gwazVOOWNyTVRWdWV3VFBKdm45UXVVbVdMNWcxSUZ2Vk95VVhnMVN4NERfZXg1NzQtc0h6TDFYc2M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUlrNTVmczZHa1JQSUZMNFR6SDN1SUpZYWF2enJ4MVgwOHdtRld6OHhBcHg5aHZvRTVHcTZSTXdDQ0RMWTRXeWJkcVVMUGNsMXI3eHpFN21QSjV4cW5DNFNFSGVjUGxHNVRWbXVNVnEzY3lvXzhsaTAzSlNYZ0NqaHBMaEtEYmw2ZjNVeFM5cUo4V25n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-26/bessent-gets-boost-from-oil-bond-signal-3-minutes-mliv-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlROZExaWGNJWVQ2N2hNNXNENVZtdHdEUktIekNiOEFjazFqaEtUN3dtSURqTUc0VWZDcU9CUmVkZ0l4cS1BVTBfNko3Qkk4VjdUTml6Wk42Q19xbmczTjctRk9RbTRXV2VldEs4NEpoSzJyb29OVThaVFFsaDByNWtwQlRfOGtjTTBVdQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1ZYaGdGamJ4a2wxd05xZmlNRGpwQzFQaGhHVTRSUU1RNVIyOWhGdHFjMkExS0Nfa25mRm8wWmdualV6b1R3YnUtem0yTlBVdGg1U2VHYUQwS0N6RVh1ZHlKekRXSHdXTnNiVFZqYi1Mb0pEU1FjNmhZY2xvVG1UVGxzeC1DTEVlNEpFQUFJMnJfODAt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
