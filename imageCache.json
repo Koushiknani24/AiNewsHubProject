@@ -140440,5 +140440,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/netflix-wonka-reality-show-gene-wilder-1236682001/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/tension-prevails-at-nagarjunsagar-as-ap-draws-water-unilaterally-tg-retaliates/article71393550.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/la-france-et-lallemagne-se-divisent-sur-le-developpement-de-lindustrie-propre-en-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living/3-foreign-teenagers-reflect-on-growing-up-in-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/nicola-coughlan-naomi-scott-roald-dahl-stories-netflix-show-1236682005/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/prominent-ukrainian-commanders-to-lead-defence-of-eastern-region-demanded-by-russia": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-26/usd-rises-after-pce-data-recoups-half-of-buyback-losses": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa1F2akl0SEJFcGYxZHJHWVNTUjQxcU11OGNiVTZ1NDhoRVZIUTBFU3g5RTgtVExVSTFIa0VYQU5wQkViZ2Y1Z3dlbE5qc0RTcW5HYkZYdXpJRGc4ZGJ0aF82aWY1R0tOVTRocWNhVHNGTXVkYno0Q1RzZkpTRlZVVGRlTVVYRFgwb1Nn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/trump-time-to-teach-canada-you-cant-do-this-anymore": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXpyMDJKVEszZ0g2dy1kTEJpOVNxQ1dIUG9MM1pKS0tyN014R3VxcXRTRlJ1VlBRR1QtMzVCVjZkMkVRV3dPNi05Y1Z2dEZPSzk2OXBKM0tDQXBUNWx4VlFoZ2E2RFExX1hReTdNc1hSN1ZDR04zaVp6UV9QWDhWWE5qOTJuUkc5RzAxejl6ZmJ5blRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHdlOWVPRlZJNXp3aGJtbzdMOVJnUFlHcHVlU0tCODZUMnNncGhnd2xJVzdWZ2Y0bDJIZ2cxUy1vVV96Nk1XSlhIckVRNVFRMmEwYUNDckdkeGdSQTFMZndCMWZnVzF2b1hPWVlidmZ4RVJRQWlTZ1I5NjNNb0g1bmVJdThtQjNQUnZyYXRxS0w5cm1jM0t4Y0R5dmJHMktKLVIwbnd1bDQzUEVCZnltQWhOaWY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQandIU0xKT2ZjZWtMVnB6S1JIeTdLQjNhTlNDOF9TWk8wekN5WWxPX3c5WklrVVVZU2JpbHRIbmVFUnlfeWJld18tNjlscDJ0ZGZ1ak15V2JERjhfekpfT0dMUHhtT1l3eTZ0VUF5aFA2a3B6YWdNYXUzbF9SckFHdlhydTRaV19ld3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdWg3N1VlaWZ3aWZsdks2TTBYU1ZpMDBKSm9VR252a0JEOTZweGpDVXBxSGlfd2FGUHNsM0xYZk9KenJHUjhqenQtUVRjamhKX1JSV0F1alN6aG02Mll2QkVaYVlRdGJ5NXdQeDZSYVloYzRRcEJ2RXc5WDFyWVU4c010czRDYmJvZHRzSlZnYkM1LVQ1OGJrN3FsNzI0QkMzSWJQUjZQTk1LZXI1c1ljUk9KakVDZEp2SVJHc2E0Rkl1UU1KNDNF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/meta-reaches-18-billion-settlements-over-childrens-social-media-addiction-6343111": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVJLYnBja3Z3cW9tbVFWQ0JNWXJ1S2FVT3Z6SzZIcmgxTGo3SVFicUJzTXFUSGlxaW1hVEdBS1I3d1owZ29NampjMEJhaEFyYXY5bThpeXE2cjBMSmxhemZ5bzVYX09fQ0pmd3hla0xfVDk1RW02TnVZblNNSGVmbTRYSDJ6c2pXaTRCcGpvUk5PZVdfMXNKeFVPT0lDUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigJBVV95cUxOb040Q0ZFaEg1WEFDNjdRTE5DLWxhX2U1dTJMV1hxUDhBZGRldXhSc1YxdEN1ZU5ma2dxMVNZRVFqd3I1MTFzWEhQbnJfZHFYWmpTR1VINi1WX2JsLU5lV1RrOHNwZXA5UlVMcFJqeTdPckpXVjllODBGSm40cGZuUEdzX0tOaUhEM0l4azB0OXZJYXhISllXbFg5TW1vdnVNRDM5WWlyNDd6TkUtRHlWaFdTS3BweDhkZFZFSUNQYmN0clZRQS10Y01oNTZaUlV6Sl8yZ0VEb0NKeXU3aXNLaFJOQUQ1bUZJVEtHR1R5aF9rQTR0SWdmU25aOHRldk9JeEZRQUcwYjM0Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
