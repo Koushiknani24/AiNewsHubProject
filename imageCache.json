@@ -139954,5 +139954,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/alice-and-steve-season-2-disney-nicola-walker-jemaine-show-1236681819/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.wired.com/review/green-chef-meal-kit-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=wired.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/ukraine-awards-musk-high-state-honour-as-it-seeks-to-use-starlink-more": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608260291.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3JCTnRKdlVEOF9ZWFoxVkxCYkxvRFVQaFVvdU5MeUdYNFFIRWw3YnFSZ2gySjBlWV9oenROSTkwUWd2bms1TjVlZkJEUTlXUDQ3VU9LYnREVXNVSWRwb2wzOHZ4NTVZZTRINlh0aC1zc0t6V0Jua0tUQXZTbXRod2FVbm5iOURrZXJUbHB5N29ZaFZsanZLbEJKSkdqR1o3Z1ExY0xzbm5HREhhNVVVTEtLWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOVQwLVNUZVVhM3ZlY1g3Wk5jUEpGQnFrRDBKNE41Nk84YjdVdUg0aFY1VEJPMmUwWVlKdzdQQjV4OXRpRHd5WU9GN1ExZ2xIQWZkV2xFNFRxUDNHLWx6NWI0WEt2TktSOWE4QkhXWTlfRUl3ZnJ4bk1tVERpbnNPWktkVHNPMzJzZElqQURUX201aVVZVmtIYXVqR1RtRkVyQ2ZfV0ZoaVFLaVNJOE5nakVIMzViWk0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-26/capital-economics-macadam-on-ecb-kevin-warsh-bessent-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
