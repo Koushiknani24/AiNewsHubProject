@@ -139684,5 +139684,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ285dHBWcWxqaF9xRWpTVzMyQTlYVlpkVDk1VHdwRE1QVWg4bDNIVnhlVTNoWUxjekNjN2F5VVRBakprMHhYalI0dDFZaDlDR2lZWHJIWnlmdVBMRG1GOUNSYmxqNkJhMFFueFhfYjVtMTVTLWVVVnJTVl9xQjBiS3JEVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/elon-musk-awarded-ukraines-order-of-freedom-by-zelenskyy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-26/banco-bpm-says-paschi-bid-does-not-recognize-a-premium-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/us-military-attacks-alleged-drug-smuggling-boat-caribbean-deaths/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdmhERnFjZFVHMU10bzNVY1RhZlFhQnVkaXRYOFZBSVlPUHN6MkVLTDVKeUxqSUEzZFFac3dxX25vejZLRmpfWXgxT29HWUNid2ZFQ1gwMGloS2ZtZDFyZEc4anZ2M2RROGJoX09qTFcyeFVKZmtra0owSFJjeGpuWjdlR3hZUnVqVWhZVjE0bEptcGdQajJHRHNpZWw1dDB3T0NmOW9FcUJSZ0hOZDdjWktjSmQ1RllvSHluZ0hObUtnT2RDMmpfeUxBMlJabTBpSkhSYg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNjdmeHltTnl2RDh0WE5ZMms5ZnFPTFNsX1lPVHdjcXVSeENKbWJ5b1RJc1Vka2xHSVdYX3lOYV9ReUsxSExta2JINmc5MjgwZTFWakI1d2FlVzJwNE05UWh6dGxzYnFrdzI1QnBUX0hMdTc5TUdvbF9VZFhhQnBrYVNzZ1NSSGRhSjRGMEUyaVRXdFk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-26/is-the-bitcoin-rally-sustainable-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpZU1ZcjFqWWtBU012YkhJc2lMVVI1S25VX1pRbXhKX2czUXUwNmdnakU2YnFOX1Z1bUwtVEtibXRBWDk0YlBnT2ZKVUhGSkRZSVlQNzJn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/son-of-ugandas-president-says-he-will-stand-for-top-job-in-2031": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZF90TTZuWXNNdkE2UnVJZ05BWkw5eTBlblhWdXNua3UyMlNzeXpVYW1qRGtkU191QXRkMnllLXowVnJvX0plNFBVNF81WkRIakVQdnYxZ1VzcnBDUkMzMFkyM2huSnBkbDMzSkMteWw2ajZsU0tFTE05ejkzbWdTWFlXRlp3eWc5NC1zRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-26/with-no-heirs-kuehne-s-foundation-gets-his-49-billion-fortune": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0RHVlc5QzdOanU1V1BZZ0ZGNzJaMUJTODFRdVNnQWkyeDhhWmtDR0VlaG5ieENBU28tUWNPNHFYTE0zV2dKVHRfNEdyWEJ0U0NZMnpyb1NCcnFWLUNhQnFBWTE1WXgyQXhOWkp6RHI1ekZzWHFYOE81YkYtdzZrbUc1V3ItOXktMDg1am8zRVJRNkZMZGtFT3J3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
