@@ -140080,5 +140080,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/nepal-flash-flood-tourists-missing-including-americans/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/west-nile-virus-infection-causes-one-death-in-the-netherlands": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-features/tribute-why-we-will-always-love-dolly-parton-rob-sheffield-1235615654/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/26/us-will-achieve-nothing-with-its-economic-chokehold-tehran-says": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/zambia-after-the-polls-a-test-for-democracy-in-africa/a-78509362?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/nwsl-games-roku-streaming-1236681419/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/ulrich-siegmund-sunny-face-of-the-afd-bids-for-power-in-german-state-election": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFY2QkFXMDdwMmlYSlZ3MWR0d0czMEM0ZDZ3TWVuUVdHWTlsamUwaEo3cGZ2S3VJQkFMQUc1VXhfek1IWWN6QUpIRGlQbThXSXRFZnRORnlCbENZYUtwY3dOR1BEdGo4SUFrdW9Nc1diVlNLWnpCa2s1NVNaLXh2aXFzRFRvLTBXUUZESDB4TEdSWVRMZkxQeG9nUktaVENaX1JaNzhPdXFqUmh4WHRXSTNR0gG3AUFVX3lxTE10V2o4ZUk3VkVKU1FQdVN3SXkyNWI1anNsWU9WOGs4MVR1SlF0dF9LSDZ0REd3M3ZaYlo2VnQwUndNeE5GVWwtZVJiY21xUk9aLVhqd2x0U2tTdURXaERHZmpmc21uSDFiUktjVFhUQllrcy1vbmNmZm4td29zVzFwVDBCVXIwMUt4ZE1mbXZtN2Z2SThjZTd1QlhhSXJPSS1mV0dIWGl3S1RGV2g0aTNraVdvSk42dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/races/stud-poker-and-caccini-impress/article71392660.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZxQlViRG5wSXMxTXM3bXVGWUNaeXdXUFpkbDUwZVlxLXE2LWxiX3pOS2tjVkNYdkpuM1NvOFpHOHhXcWJzQWY3Y0FvRTBoN0d1NC1Bd2JqTEpiR0pwazNQOE5wSjdCUVFnb29LczJSN2ZkWEFrazNyamVkREFyM2d0VlE5Y3lONXljQTFldEQwcGlMelQzcnBKeGs2bWduTnY5QmxpNms2eUJJVzQwYVJzM2U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/iran-drama-a-bit-of-light-sells-ahead-of-venice-premiere-1236681827/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmlmSE5pVHNjTGhXZWhwZXoxcHhVUFBzZTFTUXNWSEV2NTVzX0tNckNRQmg0R25qWGF4RXRBR1VpNnJTOE1rRkszN0Z5Qi0xWnpMQm9lVVZYZlZtem1VQnRZbHBPY3dsMV9UOEtyc05odGRud1lMLXBKamlRX0c4NlBtSjBWeExRc2xyaFpsLUhyR0s4aGJoTk9qaUoxZFdrSWRaZ0E1ZWxRd0p0S2lLZGlpVkRsYUpJOHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
