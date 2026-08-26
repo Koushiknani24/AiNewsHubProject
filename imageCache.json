@@ -139102,5 +139102,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/uk-andy-burnham-social-media-ban-under-16s-australia-france/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.sciencedaily.com/releases/2026/08/260824065549.htm": {
+        "image": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nYTRPck0wdmdRemFqcDBGWlMyYUQ0bVRFQWoxdFVvNThhWDFGbmYtTVJyTjh1YW1KOVN6V1RGSU4tRHA4S1hLWEUyWHc4WS1rUEc4aUhKY1l3cUlWdDVYbENtRjNxMEJFRTRSX0FjbUlMQ0dqc3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/belgium-gaza-palestinian-students-scholarships-evacuations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-country/orville-peck-remembers-dolly-parton-1235615578/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3lMNk41ZjNONEZiVmpqRFVXTmVIeGU0bjIxbHNheWlHLVNqSFNvMEstQ0hGUlpLOW5FQWhlZjU5Sl90TnhPSWhQY3JrdFZkYmR6ZURGOUVNVGRqWFdCVjdINl9vbXg1S1RId3NpdzczMG5Vc1N0ejVCaVZid0ZVamtRZ0xWRVNkNHZfSnNZMkJvdnZIQ19jMFFZMWttcmFGOFFldTM3dXU3dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRXBSRW9mODVnOWFna2E4UGc1bUdycm5wMXlLYlpGWlBzZ2NEUTJ1OFNOaDh4RHRLUG5nNk1JWXNhMDNVOGJ1N2gtcVV5bHdMUHJWS1FxVGRfTFV0WUl4UVRDR2tvbGZKWmpXRDhTbUtUMnlCY3FHQXVhamRSZXZOTjRPdG9rSWRvV0tQQ09fSmt5MHZJS3lMSWo5am0zZGFYVHU2aFRMLVgtR2QwQWVtU3o5NG5nSmhEeTVyVmJWa2NILVdMc3NEVlpR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zWU9HNUtmVGt6TDhqUUxxX3ZYVmpaVUhpMi1PSkVMbEluWEdqUXV1RGVJSjMtY0NUS1FRTng4ZXhTeTJSRkJKSEZIRThtbWc5bEo2THdfVzlpQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU1M5XzE2MDlkREVwOEd1VmdUTmtXZjRVOFRpMTlpSlRnMV9WUlFaWml5V09NMUNPaFJuQzNBMnZldDhJV3NMUXVfUlJsdnM1SGl5ZzJUckRVMTJaSHp0bVdpQVFwVnZZWTB5NTdWN2VqdEFnWnVQeVRnNWwxajF0UEUzRU90NDdrVWFTNkNza2hfUjM1VHRoRXNLeFdqRmxna2pkbFFPMER4bHM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
