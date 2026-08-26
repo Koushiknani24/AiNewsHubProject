@@ -139444,5 +139444,47 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihANBVV95cUxNOEZ5YmlUS1JwVjhTNXAtOTV2Wk1pS3JuTU5fQkFxS3ZDU1ZPclc3akJYOXZCU2VJOFVIdGZUUFlNdzh3UXRQN2hWcUw4XzZxbFoyZkVIM0FaWlhCS2RsM2UwYXdDUERhVERkQ1l4WW5ETWdrUmpkdjVtdDhPZkdrdEZPRm5hSVVWdTlsQk5fRFFQR0lLTGRWTmFwSTU1YlFkZ0lQV1djTEgzdXk4VlhmV0owT3E4el9zTGs3dlFWWjdmOUZNUUg5VjVxZkc5MjJfMUg5QXRqVURHX2FQa1RXbVMzSWU1Y3haUV9jYTI0Rks5Y19jU2dwUjVITkNYcHF6N29CVjJuTlIxOVZhemRMTE85OEw3aTNuc3pNUTY4eFVvSGNncEI3VXVUSUtSeXpkZVhiWUhGVFhfMG92Y1czODV5QXUzOTJHVl9OQnU3bFNjbzBUVkVoc1huSDRWaGJuXzB0SFlCLWZBNXEyVzdSc1ZWTzFCMENxX1V6a3NiMk1pSGRh0gGKA0FVX3lxTE5pXy1FVGVPaV9ORkk5UmhZSHJuV0ZnWmdXUklqTjgwWTlJdW5XS3VlR2I0RmhjMWdiQUp2ZElVYVJ0aGpvQ1JsMTA0bVpZMTVXQkVqWE5QOS04VFlaa0dwNlE5TGhOb2FpT0ppS2dmSmMwV1p0aXpJZEtkOTU1VW9kNlI5Q2lFR0lNY1RqUHZEOXo2VGxXY3IwSGRtbHI3VTc3VlJwTlp1Y2s0cGZCMzZXSWlBVnFvM0xvRzZocjFfdmk2WXliUExsMDJ3Z191NTZWTkstbHB1Tms1STM0M2J1M3RKNzVYcHJJT25POUdydUtxUGxMRVBwVXp5SHNhT3h0cWV0elh1V2wtUjJMX0NXX2JPc3FQNnpBb00tR2xSYUJuNWdsT3doandPOHM0S0owOHhKSzdNd0diYXpZOVEtZlVHVncxenRUeEdWU0pZSjhOYUhMWnl1S3ZRYURHVmo5NEVJVTdpVXp0NmVOUTE1N3V6Q3BLQmlhWGQ4QjRvVkliNkVOQURpTnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/live-blog/2026-08-26/ftse-100-live-pound-bonds-gbp-iran-trump-oil-prices-ai-stocks-bessent-what-s-moving-uk-markets-right-now-markets-today": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202608260084.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNWVcxMk9HeGE5Q0tVdGV3a2FPdmpoaHRfVmtpczlXR1pOSFhWUElBbDlob19YOTZmeFZ5S0Y3RVFITmFYWDJwNjBMNFBiTXhrNDBUa2RTaXVaV0VYRVFWc2I0QTd0anhERnhidTNyemhuQjU5VXNSc2JMQ1BLWmJwVWdydld2TU0ybTJoWnhfV2F5aWVwMDMzVkxoOVF6dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTJISGgtQWFRa1NNd1d5bV9VMng0ZVRsWXh3QWQtNFZVZzRaTDFPNUVDMVZ5NTlLNlhJaXNLNURjOW5XY2JkM09USjcwdl9nTzZMME5EdFZPdVY2d2FvOWZSSkZLUV91RDdoQmNwajU1U0U4UmI0OHdyanUtNW1wQl9EMVpyOXlYR1d0MGRQNmJpa050Ny1CX3UzUEFZbDRBVEx6c3ZrUU92TzNpSzAzTGtSY3dhR0RaODNjeG12Tl9JQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/six-chinese-nationals-among-seven-killed-in-russian-gas-plant-fire": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkcnNzVXVnLWVzX2lVeUh5SzAxckp1RUVkODVHT0RSUDl4b3dSU1ZkaXUxT2R3M0tyeG84T0lWMzdERUJsNnF1cEdyYnh6UFBWN1A0M3ZJRkJqNTRxcnV3dVpySTJJWHpRQ3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
