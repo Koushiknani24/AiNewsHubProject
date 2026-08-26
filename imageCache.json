@@ -139372,5 +139372,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTDhOV3dDLVY3Y3drX2pncFZINlBfY1pucUdQMkF4bGltZkdtWVN3VWFOdnN0Y0lxT2c2cHN5MVlFcEN3Uml5WS1rRXVSRFRlNkFWMW5Ud2ZfbDhuajRiaXp5UFB3R3B1akZiVDlsVFR5ZE1EOThSeVpUSjkyS3RmQ3A5akZDTHE1c3otemZXd3NRV3ZjODl4dVdfTVBwYmIxRDlxSTNIUkFCRk8w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/softbank-mulls-up-20-billion-bond-sale-openai-financing-bloomberg-news-reports-6341881": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-is-escalating-hybrid-attacks-and-europe-has-no-answer": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-26/indian-refiners-widen-oil-search-as-attacks-hurt-russian-flows": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/08/26/next-atlantic-tropical-storm-will-be-named-dolly-but-no-connection-to-partons-death": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1lTaGRJNHFja3pkZ25sSzA4aExiZGw5UWtDdVlHSkNRYnoxM3VWbWxPYVBNY09DTHNIeG1ENVZ0UmEybHdSTlhLb1dweEpJZm1RazBrd0ZJV3U4cWlCaGhjdjhnTzllR19YaDR4Vy1FLWJNU192d0pKX2FaUVJ6S0RsVlpodDdUMDRzVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/08/26/latest-news-bulletin-august-26th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUlpIeEdqSXhjSzF4S1dpbWdXMDBJeFhKX1ZzX3QyNFZNQU1FQmVIUDU0SGI1aUVrZGZ4QVZjenNZQ0NSRFNQQ0FFS1VSbnNsN2hLdS1acHRVb1J5R1NfcW5tWUl5VkxwMHp2dnBmUi1tWmZwX21hNlFmTzhZRUxQYkMyVGMwUDM2MjRLRnJKZ1hnbUtMREIxWnVsX2RnMHZjVUx3ckhOYm83YlRCc3BWX2JTeTBlZG9ha2N1cGdJeFlzamNfRmZTZ2RuM0VDclM3SGVvMVllSnNJLVdpdVRycEpLcGtIekdfeWltUTJvOTJpWDlNLVhz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-26/options-turnover-sinks-at-india-s-top-exchange-preparing-for-ipo": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDhZc3l6Ukk5OFctNjd4SEJEckhSNGtBVDZvQ05iekUyakE4MjdyQThPMG5Ic184Y0E0ckplQXV3cXVEMW56X3Jvd2FJQTZmWUZrM0lXbkJ1eWVYTC1Xbk1sRkJoODNNNzBfMlRZYUw4UHdhanppaVFLTVh6LVRTUGQ2RG1VU2JtLUdWX2hxODNsZXZuTEN4UnVpbUZFeXBkeHBQSV9HMXZQQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
