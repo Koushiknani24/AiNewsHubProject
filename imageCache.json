@@ -143332,5 +143332,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/30/what-is-notting-hill-carnivals-jab-jab-parade?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFV6UkNqR19jZy1HMUFVUXc4Z0gzdVVPdUZubDBZN0ZleFVMWGkzWUpWN01lSi1NRUYxSmRIUlhLT282VG1LUmtqZWM4aEc5SlZieGI5bF90N01MTGM1RndWckFmeXlsRnR6MTAwa2lMMUpBNFNoS2hFdXBqWVM4WU5rN0hQNy1rMXBsYg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-08-30/shien-set-for-long-awaited-hong-kong-ipo-debut": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wLTM2dFpXQVhkUTNCWkZyMkUyQVgtMDZIZ0MzXy1mNnpfWmVPcEV5WUJONTFueElELXZubS1GYm9vYzFvSkhBT0pmVFJsUEctY2NvcFdRUnFKV3dzR1BPX2JpVW45bUI2am95cGcxdi1XbUxmMFg0ZklWUVltLXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3310988/how-the-blue-senators-claim-turned-into-a-sprawling-probe": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-30/shein-ceo-s-wealth-slumps-15-billion-after-whittled-down-ipo": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTlIaENLTEg1dS02ZkN6ajZyS2JyR0IwbUxXNXVnd24zTnk1NVBYdTNmZ09laFJpZGdjejZpOU50QV9JSGlKdkRJNnJuVlhqXzdpclVQUVRtWTIydkpITnMtN0ZUbG1HNlg3ajNSXzBJazQ1UjdvNWJkY3o3UXpTVjRlb0VERUJ3VVAwaEY0bWlpdWlWcXBWWFlVWFQ1cWgxTGppUTVqeGx2bXoyWmJGUDBRRE5FREFv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3310893/senior-officers-benched-after-club-raid": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/30/vote-count-starts-in-guinea-bissau-referendum-on-strengthening-presidency?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-death-toll-rescue-operation-missing-person-tibet-border-glacier-collapse-news/article71406948.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JOG05RVBYVTNTSzdVQ1A1OG1wOUdzQkpDVW50Z0ZveUkyNmFDeFNHek9oSmVmZFRZa2F6THB4SVdidFJNQlNLSjFaa0ktLWRJR25wRmpVWXNqUngx?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
