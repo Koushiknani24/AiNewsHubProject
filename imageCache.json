@@ -142684,5 +142684,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/08/30/which-cities-are-the-most-expensive-to-buy-an-apartment-in-europe": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE5pR2ktbUNXSndQQlFUb01IWmhPdlU4VXIzZ0owTl9sd2pXZ0hYVEZDcTNPU0ZxWmh1NU5TOHo4ckZIamZDcFhjZlNUSUZPU2RhZzZpcDhPZFBCV2doZ2VnWE41VHY2M2dTdGpRQ0U5N185QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pNnpLWXE0S0ZDdnhSM1RyTjl1VlNzMmJ4RFpIWUptbUlhb3FMWUJoS2QwbmJMd0Y4YnZQbUJVLUtIckhEek1feEozSElFYkpuV2txNTIxM016QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHlqMGxUOWwwLV9mS0JIb2lUY3JyblFzRGFRRUZSZ0tvMElhRnQtQ1I5TE5JTXFzYUhQaVhvR2NWblFzdFd3UTJ4bFpSQXlXbnRiUWJlOElla25TcGM4TFF6TGRtM1hvRGt6Qmhic29vTlBHeDdTdDU1dzRJeVNrRUlTakhLLUVMWGtNckpkdDhGZjFUU2lxaFA5WnBuaFJEN1RaanpwT1A?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTm1tOHB1aVo5UEgzaDlkMHRqRVE5YTlINENFcnNBSGFEeGFYVlppWHJfcXpwLVVyN0hIUGwzUHJOTWNtLVVud1JnZmtVdU55SHRQZmRINmRWTWxjMk9NWWJla25SY24wTGxFRUM1ZEN2aFg5Yl8tZU5nbWxMVGkwcXJ5Qk1GZkl3M01YQzQxTmZEdDRrV2dHdUdDUW43aTM0R09qaDQ5cVpfVU1MVk1KTEJ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUt6czJJdnVzWl81cWItbHE0NGhlWDBCX1dqNTVUUWI5SGRoQU5SeUs0LWxzVk0zNzFfUU5PNUpOVXo2WThZVTFkYXNjYmU1ZDhrellGcUNwWTVGMFZNdk9UUHJpZEUya3BXckZEY0Zfa1g0QVNKSVFrTEhzay01SlBQLVgtTTd3eS11QmdjeUMwVU00NndPcDY2NmxxWVl4UjhNRFRMLTlQd2hrRWoyZzMxcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbm80a29CZzQtbnNGdHBReGpILThCajhkSTdzbzllMjJKMzA0dDJvMld3VzliWWVKTkxCYmtwMnZocndjNXhlcnZSdlJDcjJfNVJqcXZLMW51MlZETmRqSkVMOEQ1WndpdEpKeVQxbXlQM0FGTDhObGdWeFhMNUZGWGFvMnEyRUV3NGFsek54TFhCeWZtcy1sM0Z0TjlNRFZvWUJCaVEzUUdDWG1VVXUxWHlmdG5obVN2WHJsbFpoTWh2U0ppTnQw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVkxMUU2d1pXRFlTMXlwOG1UWGU4dHpMLTA5bXRmZDhxZFdGbk1pY1MyRFE0eEt3ZW11SDVZbktRYVpHY3hiUHVRaDE2c0JFMVNjTFh2aE9PX3BwV0w2eDdETUozRHZwOEs1bk1uN0k3ZkM5S0hJd2M5bTl1Z01hRlZoaG5ST2gyMDlMazBUOEMtanlBOFFJQ1YxTi1Ddi0xeXNPRHhHdklRVEFEY0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyYTM0VHloaGk4LXZoUkVESXFkU2tad21ORW1xdTJIQWgzLWFjWDNTcE5oY0NVNDZhenZ3WjlaczlaUmZwRERadlNoXzkwNjRmTjFrM3I0VnRwcDBhck15Q3B3OUo4VjQ4REwzNU5mMER2c2ZkTUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbmJfVlZ3Zy03dVprLUcxM3NCa2VTYjhSbXpYZDRWX1ZiZkdUMzBrUUpyTEpKLUM1LXoyenBkT2dqSS1ZQUNvVFJ1V2c5M25OTGxKd1c3bVpyaXQwSmk3RUpWRnNmWC1hR0JXc1N6THotcWNoaUR2d0Y2SzR3TnBvUjV4enVfX21sNHY3UDd5OTMwQ1ZaakFTUEV1dWl2ZE5QcGktTTZlMTBYYjZTWENYZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMnZpeHg3SnRhcVZTTTYtWUhPaGRva29FSjFVVU53cy1rSU02MXlQMVZSSXVyN0E1MjZSSW1vQTlEU0thVFFsZkU2WG5tdlNNa255My1UMkk5M1JncFVIRV9IQVE3QkR4M1d4Tms3dkFBcFRUTm5uQ0YtbV83X0xoN0lxNUxfSGJuc0JieUprOUptNTR4SGl2Mkw3SXJNWlJSbF9TSzlRS2dVbGRscFJv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
