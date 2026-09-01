@@ -144244,5 +144244,179 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.arabnews.com/node/2656495/middle-east": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/1/teen-faces-life-over-livestream-of-san-diego-mosque-attack?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-01/horizons-middle-east-africa-9-1-2026-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdEVLOHpSY2VkbzZDYWthX21KWlZqQ2dEdWVmT2FsZktFN2dBcXJUbWU0dnAydUhTOHNRVW5BdzZza0VYYVF1YlVtQ3lyTXNQeVBjc2RET1I0VGlPb2ZvY3ZYS2FvWUFIdGFrTUE3cnQzcnYxNG40cFdqVVNHY0NxdWU5QWVhaHA5cHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.arabnews.com/node/2656494/middle-east": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/9/1/us-open-2026-results-carlos-alcaraz-aryna-sabalenka-tennis?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/1/how-prices-in-tunisia-have-skyrocketed-since-the-arab-spring?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.arabnews.com/node/2656493/world": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/09/01/us-teen-charged-with-aiding-san-diego-mosque-shooters-share-livestream-and-manifesto": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zTHhoNG12eDBlWkVTdW05RXY5YmtMNG1DakZNNl92UmNkcDNIMGpWNm9VUXlCaWhnUVE5dWI5bVlRVXJYWmpPSkFtRmM0MXlSQnppdGZGY2dRajVIeFZrQnpQZFExVFBDN2tYNXd3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609010071.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOelVVRmRIQkROdWdya1pDYUFUaktHdkhDV25xWGNtc25NZTdweUMzWWx0b2FpTEdyT05tM19lX2VRTW9JRzNCRFp5UXVjOEtibGV3cElsNXdQQ282cEdGeW1RN1BpV1oxdzBhWVhZajgydmtwQTcyaS1SNDd4VkNPcHU3ZU5hQUMwODgydkFfa01YU1IyVGNkeTBITlZ0LUYxLWRNNDQ0VWx5RUg3VUFsMnRnaE9ic0JQYndkWHVGNEhhd3pBeHc2ZVAwZ0wxMGNicFFqQy1nVVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/california-lawmakers-pass-ban-on-shock-gloves": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWG5RQm1MSmRjSmtON2xrWjZxNXZvVzExRkxaOWJKalg2S2p1OGhBRFdNdDQwWVMxZEd6aW5ITG5BaWNlelRVbVk5TWxibVlMckJ6NVBQOS1WSTlOQnR2T2o4V0p3TmZmWUhGM01XUGlwLWpOSjlVa1FnMVRFY1puWTUyUGVTV05Kb04zYTFwQTdPVVNhcXZQSlQ2LTJ0QUpHR25ZZmFOT25ndTlrcW9kNG8tVjVGVmtzM2fSAb8BQVVfeXFMT3hYWmFVRndoWU9QMVg4dVpXUTktaWUxY0Uyc3hnXzNDUkxOQ0sxSWg5dXpFVU9LS0ZlWi1BNVFrd0ZTNDF0cXlCVlRad1FDelZDZ0F2aUVQQ0JUdkY3Tnd4UkRRcVJUVTdPdjNLcm9qTEhnQXdBbjR1Qm9jMzY4MmxIVkJRa0VRVDMzVGF4ZUpIWWhjc3Q2TnUzYjlGNl9zc3k2N09IYkxpcEpKYUt4X09EejNIUEd3SVhub2tRZkk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEVUT2NQRlotdlRqdWFWNk9pVUtqcmdNc0NOQzBZeF9rRU5ZSl9Zc1lHWUpKQWJXb1Nfb3FHaC1Od2NUeXJQb3VXZ3RTWE9GazdiekpTQmY2UFp4NUF6c01KOGtjQVAyRGVNMzBPMk1hc3NXNEpHNndDR1BuZzRBQzdZRkhnSTVEZG1UX2xhMzlvZG1pX1BWTWVBY1F2NEo5X0JOQWhmcXY5b3c2eTd1bzFFNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwTTN5Tzk5MGFSZHZRZm04VE9VMDdkRUJiaHpFclBFZ1JnWWRBclJaTkJ1QTJkVVhjaW1HN1RyckVnRHlFYzFpWUNxa0g?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHdnWlpRQnExbUhRSVJUX1dYQTVOc0dpYy1UY3luVDhybzJ0Rnh2QVZ0alZGSDVuZWdXTjNMMTRjcUpCYVBNaHRhVllUbG5ZM2p0dTlzYWVUR25sc3N5V3BJcWdzV1VhT285eThNWEtZUi01UkJ0ZVFDNzdwSHo4UDVwWVJSWmlmQW9TTHBiUHFFenNmUHFtb1E0SkhxVGVoeE9aaENYTXYyamM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2xGckpMN3p2VGtpbVU2ZThkelF2YXNrb2Zsd1lDN3B6Vkx2aTRPd0lXNmI1SnVjVUVKQmhOUHNtdDR6enVha2pVRkFPYkxIc0NEMVVFeXlQOTc3WnRONlh3WFdxUW5wS1Z3TUpPQ2Z3NlpQNnRJXzM5T3lHV1VuT0F1NjdGM1ZyVHoycC1yMWQ2SVZRcFlwU1J0TQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZYkJYT1hSZ085SnVqRTF0TDQyUjdRSGNVQTBhdjVLWFl3VEVzN21DY0l2cVF2NWU4bjZUOVpsb1ZCR3dVQ0NLa3VaOTdUcGdHajlXOS1naDhfbXIxMFctNHRBT2c4SkhqNHA0aDAzeHZZOGdQLVZv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWhnVzhqNG10QURFX1ZRRGF1Sl9BTXNxamczXzc1RjFBMTA2WWVORHJERmhIejdiTXJDTHhlVkxjcTh2eGN0eXRYRDczcVp0MmxUX1ppQlFjejNJT0RUZkRteThPa3o1WEVQekpjaTBfWlNNejdCa2d3WnNaMXVwRktEZ0d3MzNTaTk4QmJMTk42MExQb0Q0ZXFn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeENOdlRGYTdTYWdxbWRwMnpTbW1YRUpmelRXaG5Qc3pFaVUtOUVEazJteTZpc0RWU0F1b05uVGtzVTUyQ0t5VnVBaVNyZTVDaERHNk13QmlNU0NMZnB1ZS1IWk8yMDhKS0RvWi1vVUZnSlFXUTVBdVhjMG9vLTU5bElCdjd4a3R5Tk1GeFBTYlJPRTVhOW5EX3EzMXZfUlNGUUY4bzdtWjlha2YyYV80UTZjUV9HOFdpZm0yZW5sU0VlTDVQcmJ1MjRPOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFJxSzcweVgybmQ4LVczampkbDByMDRuQm9iYm9BSUZDTFpHOGI5NzI3dVNNdFpjbHc3NGFDZXlMUEFyLXNkWXgwNjVzN0RDWHZORko4aHBPaXNBeVJZYlI0bVpRZmxkd3FvTjR2cFlrOGxNSHVVZjY3Qy1wOWRrdldKd0hpX1dGcVBaWFh4MA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/deep-sea-team-aids-search-for-missing-in-cyprus-ferry-disaster": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/09/01/two-dead-and-one-still-unaccounted-for-in-grand-canyon-flash-floods-officials-say": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609010068.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU19RanFHMGY1elppelE3bUFHZHdxanVXQy03REpldkRCc3l1TnIwSG1GSHVOT1o4Z0ZvMkw1eWIyZ0x6QUl0T0VaSmtNVTgzZHp3ZFNXMzFpZjU0Tlc0T1FrbXRMdmRCbmVWTzNfTElFMThuZlNVcHFiMFJhenZQS2NBTXNxQU1TRnNfamZlRWotMElkd3dmdHpRVk1kMFpiMmp0OWxScmgtZkVMeG1Yb21TQdIBuAFBVV95cUxOZHlrTjJ6NEt1cnBqVGpqdkxQbk5TeXVSZGM1OEx0RGQ2Ml9EakpQX29lMHNRNGJRc3NTUFI5eWhpaE9MZE03aVg1YThBWkZoNVQyNi1Ib1FOVlFVNWJVX0Nfa0ZqWWxLWDBhSTR1aFFCTUVXRXhGd1lCM3dsbk8yWWEtZWF6Q1Z1NGZvSVJRWTgzS0lVS3ZSMG9sNlpXdkpDeHVwUWd2SXhaT2w2YjdQZm1KVXZtM2df?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWxuQk1NeUxnTWlhREpzNUZNbnQ2S0NwUE5JS1JVUGVGMXpleTBfdjhydmg4SEVhdXY5bXRzYlM0SUVfSUdoNC1nUGpucGJEYW0xdllPTDBGSW5vWlA5cXZQR0xHSUFrMHBLV3RTZnJldlBBcjUtbTVJZUR0X1RTRzJrM2tORC1GUGhEM3NjM2JaQWtDcEZmZTcyenZLUERTejVBcDQwZFhBeFhxdUJ2SkFSU0FOdzFkU0dpZk5ZbV9FUWtoMERn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXRvZHIzWEk1dVV1ZC00WEplbFlScUNqYXBrWmJKcGtFRjZMVWl0X1p0alVuZE9sc1EydFFqbDVlUEVuM3o1dUZldE84N1dfOWZLaFlmX2tqNlU0VEZnVzJ5alE3d0JSVDBFd1ZrUzgyS0JhYjZpM0hlUDU0czRYYXFxR1dyYTY4UTRJZExhaEV2THZQT0VFSV9LamTSAaIBQVVfeXFMTUVtbGUwODRTQ0pzLUh6Vlc1R0Z2eHpVRGpTazBNakdKc3M2SWVhYVdpQ09ONGRNZWNQMFlwLWJZNVVzQVdQRFY2NkRiWDJtWENSMUZHSWZGN0s2c0sxdVNFUEp6cW5KRWNDckdxVV9wZkV0R2hYMTI4NHpSaHp6b0FfRTNpUGtTbjhNUE5oRUQ4UGJXYWdBQnMzTzcxQkdCUjFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3311613/operators-seek-reforms-to-thailands-wellness-ecosystem-to-welcome-nonthai-massage": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
