@@ -144790,5 +144790,149 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-01/bond-traders-snap-up-protection-against-soaring-treasury-yields": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/andy-burnham-first-uk-pm-statement-parliament-promises/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-us-strikes-strait-of-hormuz-larak-island/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/congo-s-ebola-caseload-tops-6-000-as-concerns-grow/a-78638447?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-military-kills-r5/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/sydney-sweeney-signs-with-caa-1236686769/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fRXpDSnphQ0ZHdTNWZ3RpOGxYaFVncW9ubGNjNUd4WUxTSE9jc3o0eEVBLUU5NDRxQ0E1S0lILUVRWWJxOU1tSzVhSGloS3JkcE5MSkVFbG9BZXY3ZERFakUyTzlZMlVfVWdWMmZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnNicEVKd2VZRnFvUW83cE1ZYy0yb0dGZllxbEg0QTlVVjBpTnpEVE9sRW9lMVAwRXhDU3NlQ1NseHlQcHdxSjlvTDVrYWFJUTlsNzk4NmhBdlBjRjgybWp6V1dvZFd6c1ktR05BRnpFbXQySm9OLXBJallFQUVuc2VSaHJUbWZnZk50RTZkM0JFX3FvV3YtUzkzcGlqTnRsd003bmZLWXQtSjQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXloVDRWZVVVUHF6bkUzSXhMN0NTdzZlX0pkRURkdTRHU3dJMkxIMDBIZXUzeDI2bGQ3eFlOblBOTzAwdXQ4U1JEOEV1TENJR2FFU3AwUUdSTnhTSGpsYWxfQmVwZGlvV0ljbjVmZG1JNEtER2pRYU9KZzc3TXpkelItVTM4M1k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYzFoZTFldE1pSUhTMGRrSGpCdzJ1TWdYbUhOZDluZ1pDajBWY3RaZ1QyY1JVZDRTVV90M2daTUxzUE5LdjRzYm83bmNlUHIyS21lbUJYdEpQbC1HcVg0YUhXNXNIbzVlWVJoc1VQSnlYRHZNeC1PM0lkRzVvNTFLV0ln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTDFtbm1zdWtTZ1FDVHJIcV9JelhlbWlralpOMUtZOF9xTkg5V19xTjRLNHhLTk94OHhsSzgxR1RNdm5BYzdCSDFKUjFtNEVKVzhWNzZzSXA3ODZtWGtpcEUwUHZLRUJjZFUxQWZnMEhkY2xwdDFMUGppTVRuLWQ0TExINTJJMXgtWmVKU3l4eTFKb0d5ZVJJYlRmck5PM3IzSXF2Y2I3cnZVeTlyakpfRWtvY0VhV2FoYXpqN243TlZPY2wx?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pV2lQMF85U2EtYnhGZ1p6Y0s2S1pJUWtHWTVfa3AtM3FqX0JXX2l2V3hTOERfNV9UcDFxdTY4a0hvZnFIVDZhSVEteW53VW9PbVNXZGNWOWVLbHhxTHY1dThoZWZyTTVZd2gzVHhIWWdGbkFweDU4R09BaEhudw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZU1ST05peDRJMFRiQWc1MWVERU5zbWNDMXlFbURmOVZXcGtuQ3F5bEdHeTFLYlV5bUZkUndrdC1wWmRGMFpTRFhNbnBKdDlhZnl0UnRCZDR6d3BrRGRSX0JnMUltUXVrbFpMNjIySmNrNkE3dGU2X1k2YXdOWjZjNnVpeTV6THdtRmUzQmpOcGZIOGxYaW83U0d3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/9/1/belgian-mayor-blocks-club-from-hosting-israeli-opponent-in-europa-league?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/opinion/editorial/endurance-test-on-the-indian-economys-resilience/article71415445.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGtwUm5UQkdIMHJNbFhSajZiRXF1U2E5UGNuNXcyZTVfUGY3NkxMNm1jUWRLeXBTOTJlZnRlajJUeHc1STFsTnRtZWVsOFJzOG5zVFB3ek9YejdSdTVEU0paOW5LbzJYYlI0aWlmRHF6MjExVlZNWXVJbjlsUU5SMW93VEJhOC1NelNGUUtIVlROei14NVFaUkxocTJiUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTTF0dnRISlZRclNZWHdac2wteW4tRjBsUHJ4TkEzNTJhd0FsblJSNF9xZXZNd25heThjZVFkd0NzbDN1QVFPOGFPYlVFM1JMeGhLbklRRGU1WGh2SlNkZDZrZXhYd3otSzM5Qk1iOHdDbWs0aWtXX2htcjNjZlBDVFlkOW5IQlI5LXo5c1c3RDN0VmdFN3JTeXJEV0l2RENHUjVFTXdCZTVEcmM2NV9NZmVTcUo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NQ0tTaV9yN2NWZ1o1WXREOVROTHhqOTlMV0pBTHNiRWVWZ0F3WmJpdU1UTm4xaTdrR2R3SGROXzN4MzJoU1g1TDFoMXlMRnRQdlN3WUFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/newsletters/canberra-playbook/2026/09/01/think-tank-beijing-hates-is-getting-a-labor-reset-01022132?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQjM2MVVtWE1yd0dWUGVEeE9RRWxCM24zU0p4d2ptb3FTV2g0Z0Izd0tEVWF1YUJ6NndXelNJNUN0d2hkZnZfLWdCMHpBdXRkTG4yNTNBZm9jRGJybXc4VW9KMUJocEt4OVlIZnp5aHpqVnpyMWpER0VqNkRvRU5NMWtZYnloMENqaHZWMmRBTXVSWndUUGR5a3UxWUdiLWZHRmZMblJCeUNMNU5zdmphcmZOaFJnRmxkVjJ2UGFydGVZYnd4OFBYUE1wUHNmdTlHbkFZTzc2MThwNm9seV9jSg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/09/01/us-iran-war-strikes?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/cfe-restores-power-in-yucatan-peninsula-outage/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
