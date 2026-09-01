@@ -144418,5 +144418,203 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-chief-diplomat-kaja-kallas-taps-ex-political-military-leaders-defense-group/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1hKbUUxSEZEOXRHV1dPSzBza0ZwQ1pxbUJ3VkMyaElfVkFPSVNjblpjbXp6TzRQbUxscDhkcTJmWFhoMVkzZUQ0anFkQUs5MUNPUHIyZmFnSlpjeHY3UGY3cC0zYXpsVWZMOHBPY0pmLUo5QkVhZGxySk82ek9ORU5na2E3cjZrYUtUaTU4dlM2Z2ltckdUUUV1ZE00ZkNhRWVRUHpRR1I2YmFMajI1SUhuSVpxZWJtM3ZHM3R5cmlJS0tC?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/women-creators-directors-streaming-shows-decline-study-1236686018/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/nepal-flood-death-toll-tops-1-000-as-rescue-continues/a-78589460?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNzRDSGNZVnE1Y1hGNFhTd1BxZmtRaGpqMG9tZVgzX21YOHBwTTZDM1pDU2Q1MFlLUVJsdEhBWmtzWEhCZzMxWV9EcVhRR0tzMDgyVG92RG9MMGg0SElzVk0tM3NzTWpRYXVjazc1Z0FvcnIxNTktUEFRVWlvQTNGYlVMb2hsNWpEdkJBNDFhZWl5NURYODc5WGhxRUVZZWlnUjFGd21sVHVLZkZlczZKT3BFMUFVTHFabDA3VldVX0VjODI1WWRCeU5UMEhGbWNRX1ZySEVOSG0zRThIWTBsZG9KR2RGTlhuSTk4bVljN1U2SFU3cHhNRlhPSGp5NE54UEHSAYICQVVfeXFMUDc0Q0hjWVZxNWNYRjRYU3dQcWZrUWhqajBvbWVYM19tWDhwcE02QzNaQ1NkNTBZS1FSbHRIQVprc1hIQmczMVlfRHFYUUdLczA4MlRvdkRvTDBoNEhJc1ZNLTNzc01qUWF1Y2s3NWdBb3JyMTU5LVBBUVVpb0EzRmJVTG9obDVqRHZCQTQxYWVpeTVEWDg3OVhocUVFWWVpZ1IxRndtbFR1S2ZGZXM2Sk9wRTFBVUxxWmwwN1ZXVV9FYzgyNVlkQnlOVDBIRm1jUV9WckhFTkhtM0U4SFkwbGRvSkdkRk5Ybkk5OG1ZYzdVNkhVN3B4TUZYT0hqeTROeFBB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/986178/ifa-2026-the-biggest-tech-and-gadget-announcements": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/keir-starmer-will-force-by-election-after-quitting-as-member-of-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUhSeXk1LTBsOEx0UURQTGhUNGZNSmJLMmdMb2pYNUYtMEFsZVF6eks5ZmsyN1JQdkRYcW1oVDdnT2VnNndYcm5PTFVXdEpCeUdpdWNNTm5MNkl6NE5uajU3UllwQUpOU1lhYmZxTzJIZ2pIX3FMSVN2Vmlpb09ESkF3UHh5Qms5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWG5RQm1MSmRjSmtON2xrWjZxNXZvVzExRkxaOWJKalg2S2p1OGhBRFdNdDQwWVMxZEd6aW5ITG5BaWNlelRVbVk5TWxibVlMckJ6NVBQOS1WSTlOQnR2T2o4V0p3TmZmWUhGM01XUGlwLWpOSjlVa1FnMVRFY1puWTUyUGVTV05Kb04zYTFwQTdPVVNhcXZQSlQ2LTJ0QUpHR25ZZmFOT25ndTlrcW9kNG8tVjVGVmtzM2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa3lZTFZ1TUFUVHVLZnYxWXFUOTctclJMQzdzWTloT3V1X1UwZTd0NFdzSW9teXhnLUgzWVlfQ19yLWdFa0xRNS12a1JpRXgwaTJkZy1CemRWcUU2endndUhCM0g2UExNS0VJYmRvMTM1WnFyVnVQblNQQ25GQTlJMHh1OGs2QloxV2ZIVlJPOTVQRHpVZHJqcTJ2OVRHZWNIYWY4eWFFLV9JZWI0Rkd6OWNaTU1jRkwzZjhZX184RTRhQzZUM1ZxbC1SdDh3MU94RWlyazVaeHF5N3MzOGxFTmZGVzRmbXFRbWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnR1M2h6T2V3MEZtckJmR0lTVGtpRktsV1NSTTYwNXN6OTlJeEFFUERLQ21kSHFLMEVOQkZwTnRlVnBZSkNDRjh4bWVEaFFyeGdIU0RoeVU3VmRfYlJrQTRVNGd6X3VNZVdCdDFkb3pFZWFlQ25ZeFlXNERMeFcwS2NPMWR4S19zTTJ4SXFGMXA1Y2xEQTNQMFg5UldwVzZpREVOOU14bm1WNFdpZVI5NEdNZU1YRG8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbVZEQ2w4MTRJQ0lMOFNRbV9VeXVtelR2SmNyZS14ZnpxNGxsV2MtdS0yQUp3aldkS0JkLUVBR2cybHl6YXJnMkx1V2xITlFjcTF0OHl1enE4cF9YUHNRVG5oT1Y1U3haWnk0ZmI4Y2VmUGtRMEpPdmV4NUdjeFR6T2NSUUNpbnA2TTJNUGtDMVNVQ2NXN2NWaloyeFBRYi1VdFZ6Q3FXZ0FuRG04S2I2N2xiMmMxOEttVmtGQW5YLXkwWF9KS1A3aDcyY1BkNUxjUGNOOFhTRmlJQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd3FJczNzMnlVcXJoOWd4YTdWeWtWbENoQjA4a05NMnNmVkVBZHQ4MkU4X0VIclBfQU9KcW5uZFduVWljdEktVWkyUnV2dWNwTzNKUW8xMVZBWFJaQkpFZ0NJZDd6RGpDV2VqYjhxN1BVSU1rWHozbVZxWVlIU0NFQ3NlSGMzNEhidlZvMDBvU3duUGhqUHN3WGx6N0NTOFlnWmdLaXQwZzI2d3dzbUU1MUpaT08?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGtBdVFxSG40X1NnQktJaU1qcm9Nd0dXOUFHd3hfMFQyVkpHS2dHSXl1bzFmYnI1SDdha2dGanMzRDFBbC1raTlsa3A0aGdJd1phSHNLbEllV3B6V1FGelFZWmpwWHd6OXFUTU56UmxQSDhac0NOcE5HZ01zMl9NYWk1YVBYbEptaGduaGRKbDhFLUxZNkQydnRB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUVpNbUZ5OWxoZHo5Ym9JZUdYMmFYbUdRUGhnekN0dHEyM3pIMkJzNFVxSTd4d1RMYjZROGstRFQ0dGRnWlNEeVh1VktHOGtmR0pKYkhaN29ORzRyY3Vad1F1aThtTmlrTkFjc2o3blJpY0htWmhsLTVrT0pHUmhhTjJFMlFORXFmS3hUdlVma3NUU1FoMXFzazZuUHh5V1A5ZGdSelAtNFd0YWhIdW80?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjkzdkdwdHEtZ2ZqWDJnaktZS1E3bGJKM2lOZmRNNTVhdDFzQWFfb2pqRVpTMmh6NUgwY2hjMEpBYl9qRUdtM2NYYkEwa1RHTGVEQThsRzFfZjBydko0cDRKMGtyRV9KWjVPaV9yYXkzSXViSDNubUducGlOYk54cDB3eXZ6M2R2VTN5amdGVXo5R0dqYzFNSHFwNVNWXzA1OF9abmJBTHJGZy01dk82c3BIS3U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://backup.arabnews.com/node/2656504/corporate-and-sponsored-content": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXdKVTRVemlRSkVLTHVUYkdiVUVUYjJwMk5wQXZhWmVtSU83enVkOWZQRTd3TkNyVTEzVF9kZFJMS1BHSV9HQzJqdkdKY2M1eXhhWkxXcHlHODh2T2ZYcWMwc1cwamdBQXQ0TDk5T3FhUlF1VHRVeFJUclZlQVNzbENQNXk0V0FuWHdsUGEtRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/digital/howard-stern-siriusxm-channel-andy-cohen-1236686090/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHhDQV9VclJYdlZNN2ZkaFRobmxKcGxUTGdvUU5wcUZjLUlyR3JKWUx2R3dzc2NJOGNlZUdPUmtXZTVPUjBDdWpXMXc2U1JwZmNFaWY3Q19JSDladXBDZ2FvMmdXUmpaOTR4MlU4RnFzNFp4eTlRWXBsb3BLbVd2dGxfVHppTjVINS1CZWVfNHFrR0FhMU9pQ0FOS3FmdDhaemNuaTF5ZHBFbnRFbTlsVV9UdzJ2SURfM1REWGZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://backup.arabnews.com/node/2656503/world": {
+        "image": "https://www.google.com/s2/favicons?domain=arabnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemtqQVFrbUNqRDNwbE9kaW9NZ3ZlNjgydEVJcXFHX29iNXhFbDdnVUFsbEgzaUp5V3BvVDRVRE4wYVZ1WW9QNjRJQ3hTQmptX20xVEJZTGpzWW5RTXhuUzBtNmhhMjlXcnYxMllia2tNVmtMNHdpeDhaZWVMMEQtRVFqRW5oN2phcUd3MHVJdE1VYzdtaUxxVVh4VmRNeDF1MVVrZk85alh2SFVnWE9jUkVn0gG3AUFVX3lxTE5qVXRwYVliNjR4RXQxdGpkZjIwYkZFZVlieTlLVG8zem90SDZJdTJjWXV4Z2J6LVhyT0kxN3NmbTNwVmI5TFRJQzhvTEtFdHI2OGw3YndOc2d4RVdra1gtLWJnNk5VbmxRdjhRaFBncmVWY1k2UXRaanJCTkcxU2l2RWxtcHBtR2dHeFpSUmMxVlRaeHdnU2kwdkZXa0MtcURVNnVTenlaLTBDa2ZPOFp6MFFBOTBzQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY2FoNktRUkpzQ0h1R2tNM1pYSlVZX2NVV2hhWHhFTWpsMjFRUXZFRHBmVGN5WE1fcENnRnA5cXk1bVBPWnJ6N3VaX2VDZC1wSnlwSjNfSUtOelFySnQtci0xQlpPR1VCZ09iNWFRRThVa25YeWp5U0loTEw1QWhIQURPbXo4N3YwSDI0ZjFJLXlCN0U4bU9ZLXVEYVRPZjJLLTZZWjRUVXZXX2xmS0MyYm83ZVFiUmFOUVpMNUlFLVVJUWZmU3dNYlFMTmhkdEJTVU1rUjAwMndNTy1nSWdLdWE5UzlCSng3YTNUNnh6S1pudlk0Q2Fv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/09/01/south-london-hindu-temple-prays-for-missing-members-after-deadly-floods-in-nepal": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQzBDcElnWmwwaXNTM21HTVFQa0M1dmk2U2xOZ3J3d2tTYzFrSXdHMW1SRk5qa1E0Vk5tVkMyOGRYYWtsejNndmpyV3BOS3JOMndpbUFSSm9MS05yX2ppemRVM1JnUUQ2THFYSUEwREpZQVdPcFJ6c0hhem1ObWI4eHFYbmRxN2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeE1RMUF6Q1cyUEJtdl9zQWZ6N0xVNmY4WlhVVVBhaHJ1XzVfY2o3WFk0eW5MN0RDUEpCSlRIRHl4RmFXeFA3NFE2LS1IX1N2R08xWEx1ZFdxd1p3TjhmTUtGdTVJS0dTOHFvRUxKTy1sanpna1hyNmxBZUZlMjZmd0Z5RHNPRDB0dTdoY3hOdUdGckl5UHdabWNYbmw2em1BZndvb2tlbHlSc1Z6VHB0dE5GUUtRV2lSQnF2Q01zMmRBb3FKaExvc2RSX0JrYWZreFV6NDBQRUQyWVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjAwN1JYMTBCdl9lSTN6TGd0bG5VWG9xNzNuSnd0MFRaS254M3JjblQ0RG5tRFZreC0wLVRJYmRjLUNyU3ZYSnFjQmNwN18tLTY3Ym9CRTN4UlNJUE1uQ19FQ0xHaXI5bW1ZVExUYmVILXk4SkN0Y0NBSWt6b2MySFRwQ0hObGhwRUlDWFF5eFYtOHh4THd2S1JaVnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/us-irks-germany-europe-with-russian-g20-invite-press-bans/a-78583919?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGR2cGFocGFTal93TlZVOXFpNmFkX1NNQlVfX1lJRlRQWUM0am5VTW1ZaTdOTE9RUXBMWkpNNzJGakoxTy1jZDZsTnlsRmhkWnVpRmoxNmNHcDBYcEZNMjY4Z25qNHluMGJ4dlhYM19mQ2Q3TVBuVnpoekt2SzFERmV1WTNQOVNEdnkwNHI2a2tVTl9NV2YzVks5UzVEYU5SM01xaTdETnZOazYwV0xSSlZESUM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
