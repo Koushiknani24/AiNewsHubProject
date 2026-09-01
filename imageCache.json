@@ -144118,5 +144118,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/us-army-secretary-driscoll-tenders-resignation-source-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTJCNElTOUx3NkdIdUhwUUFXb1NVWFNWSnc0dnNsdHZmWTdZeTBNWXVQNllOakFfRVIxX29XNEZtTjJFZ0JHbl95WHdISzRMSkhIS2dwc1YxQkp6dk15Wk5OX1gtMlJnbVVQWjNwY0JLRmpkMk9Bc2laVW5wREktWEVYdTk4SGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/sony-warner-music-sue-anthropic-over-songs-used-in-ai-training": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/01/cnbc-daily-open-trump-us-growth-fed.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-01/us-30-year-bond-enters-september-on-its-worst-stretch-since-2006": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/31/bessent-welcomes-russia-back-to-g20-as-europe-pushes-back-01058296?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGRJUGVDenVxZzdzdXZ4aTJudWV6LS1adkVVMmVUNnc1QnMyNVNsLThHcG44U2p6SWoxYm9LbjJnUGdkZDAzTENhSDR2OW90cWV2aDJNZWpKRllRNUhselE2djRhQlI3ejVmUUl6cFNnVDN1UmU4QXVadDNmQloya3daeWVHSmtGNDh4QWktSk1fenV3czlkbnhwNjJ3VzNXWEhZelFCRTIzaWpR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/storm-battered-guadalajara-more-rain/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDlybEdRWlB1c01mSkM1THFvbzgwU1F1ZjlWbE9WMTc2aGZaVDVSUHdtZ1FtaTdIT05hQ01zOWZ0ZV9vMGpFbmRyMW5acXJ3UGw4SlU1LWswSWtDN0hGRWJtenBDbDdLZVpYcDBuSkpBd200YkJNMFpfWTRwUlFURXJNYnBZekdzWk0wZjk4dThEZWZ0NllEWTJTZlA5VXJZYVV6QUM2bF9iQVREZkctbnFBTWxpMU8xcEI5MGIwTUhhQXlodTVDSkdpYmtfZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/1/five-years-after-saieds-power-grab-tunisias-old-grievances-resurface?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS2xHZEhoWXdIby1iVU1jeEVmYlJTc1hickJ2THdqRW9rWGFsVC0wczBTckNPRkVodzZTUEdyaGlVSGVhTTUwWjBDR0lHWEpma3AxeG4tbXFJNFJGZUlpaW8zb3ZsZHp1YlFGT2NXTkw1aF9PVDYycklWNWRsMkI2NDVMaGhoMnpWOUxjV1FnUG9WNHlRNm00OW9wQTFIQW45dVBXSWtDRWV0UDJ6c1NSa0NOQVhUbUFvRG9rc1g4SllLM0xBa3ZV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMU9sTWxYY2Q4ZzhEckFzVEhvcUcxMmhKeEVldWxhQjBhU3l6MHVvMUYwcmhJZjh2X29OZ3ZVR1FhRnpFT0lrX0s2Z1BjbHhmUE1sNDFRM0h1WEpxeFNRLTZwakROdkRaTWlKSVBEWmdobEtEdnk5XzkxaDUtNHg3NWtxeVI0VTVVcWVwakRWczYzTzl5QkFOaG93?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/08/31/army-secretary-resigns-01058326?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGpkelhtWHpKQXVxRDdydU9CekxJS2FnYzFHcklqek5leUhjLUMwdGlJN2dIYzlrbG12UGY2QTNjd2ZMeW1IckUwYi14R0xabVpreXI4LUhLYnc3cHFWbG5ZWnp4bXJTdVdqWVRsbEJFNzFkcW41U3FEU3UycTVFcVlvUVZRVktJanBMWGl0d3otT2RLdnB0ZXUxR0xHMXM5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdFgxeG82cjl4NE5YdzF4SHIzbDI2NXlHVXA1UFVVZVFkRV9lSVlWcWxtTDJ3bm92OHpoQTZUX3VFWUtRRVl2SVZUcVI2cjhjaTJubFpPQlhPWUIzMTd6SlFzNTA3c2l3OVZMRlJFeVRzeE0xZmNpN2VsWV9RMFVuWXR1RHBxVFQzZjJvOElRbXpSWThPa1hNMkliaXFhNFVhS09CcGZIeEpfZkhW?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3VjUnZ4Q0lPd3VnSXJkMDY3ZndUd1NucTl4c1Y0WlN5a0JVa1h5aF9hTGpTV244TGNQX2hPdnZTdGQwXzk3WGlQMUtoTC1kbE5LUkFvNjBDd2M2UjdRTVV3bVRSV3dCQXh5ZnJLaEhnU0MxVVpqQm1NUzViSG5weHd4YTFZb0xVQlRfRUNTdWxhUktMOGtwY2cxSVNnN2NHdnItRkI2OWdTd2fSAbABQVVfeXFMT09rclJYUGZyMEhDZGtMVmR2SFZERlMxOUxpVG5YTDBCcjQtRkVWeEJQV1Ytakh5MUt4a09MVnE0QjJVRmJ0QXpHcWJJNW41UXgtUjFyekhzRklfRjRoVjVIQ2d0enoxNE83WEx2RkR5RE91dFE4TmJNOVdoM2d6YkVCSHJlWUkwQVR1Y3lTY3MtQ1puR08xSmpGb3VQMEdXSU9uRTlDUEN6bXdkZGx3QzU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3311653/thailands-wellness-boom-raises-oversupply-concerns": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb2h6UnVWbTFNTVYtMjltZmVPOVUteGRuMnJnQ2JtY1JySk9Ob1VrVVNUYjZndFFNOHRneXhOREVkME4xRlFjS1NocElGem11cFoxWm9pcnZwdVJjXzFwTjNjTUEyRTlqbmgxMVpveVFsWUZCaHBkbmI4UTBkMXlscTZVeS1hM1M5UkR6eFAzV0N6R29vV2FJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowJBVV95cUxPNzl6VmFDbThBS09SZFg0RFhnTGpySUZXYm1oLW9hNTItR1Bld1hyRm5CcmFmaWpZeF9pY0c3Wk1SLUptSlFOQzFzdHBKNHRFRWxra3dkdmtESmtKcHRsZEdVanZiSUJqTVVJeE4yV3p6Mklpc3VwYXhVUjBfdjUydGJHRWEyM3Vha2lEamVNN3lYSC1hRl8tc1Q3OWhCZ3I3c0VtMlZONEgxQ1FURk5zcUtsVVNSalNmOGY2dW10NFBrSGVWdWxPRmlHUkhwTHhZZjczanU2UDJBak5HRjdGbHVTaDdOQlJ3U3pCLUZmZjNxZlUzVEJXOGhNdGtfT2lmWkV5ODlYeXF2Y1lJNmZrbTI3UFlPNkt3UVBSMkNfYVFtWDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
