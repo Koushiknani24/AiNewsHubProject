@@ -145204,5 +145204,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/un-says-world-must-navigate-reality-of-1-5-deg-c-overshoot": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZzBNNWNJTTk2YUhnWmh2NFAwMHRSQ3pLR0pTTlMzRzdEaHdjV2JkbGNVWUJzLVNVRnNmcnhLTVFKNy04T2xZeFhYTC12OE9NTGJxanVwXzNQbmJKaFRHc0VFRXBpbEVKOFNlY3BjbUt1b3ZJbF9pZy1jTjNtMzJXc3RleURRZExUWEx5SDVOdVB3blJCT1h0Yi1B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/09/02/tyler-robinson-pleads-not-guilty-as-judge-clears-path-for-death-penalty-in-charlie-kirk-as": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/swiatek-banks-renewed-confidence-medvedev-battles-regain-lost-form-6356836": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-02/climate-risk-is-repricing-indian-real-estate-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-rescue-operations-relief-death-toll-missing-persons-news-september-2-2026/article71417912.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/a-plan-to-shut-out-europes-far-right/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVzVLNGFEUHZhaVlnX0lfbXJ1U1dUV0p2OGowU05MWGsydGpkLWhaTUVITnlJZkE4clFaNk1MR1FtUzFPVDJoV1g0cTRBWk1DV1BBOWRZdl8tVGhpUUc1OC1JeFUzVjNjTEdHX3NCd01wRE9XdGF0Q3NKX3oxbUEtb2toRkYtTGNzcy12MGJLNW10MkQyNU9VTnFaaF9uUE1IU0dDYWtTc1hEbS15aDFWaG04Sl9nQzM3UzBYNnVUZGVmblVwbGNNZmtWMDlXclBzdk5LcF9tSzZudEQ4TVVqSmNnMEd1X3l3Sk1kX0FKRXJDNFl1YmhVUEc1dk10bGVLNTE4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/second-annual-report-sheinbaum-stronger-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/russlands-gegenreaktion-auf-deutschlands-antwort/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNTzNIWFdCRWhoYmdKaU1ydjRuSl9xTm5ET1dkVGlyU01LcnVDNzdLV3YwREpRNWhLZ0thSEFPeGRaUnphemY2b1EyWmEyNEN0ZVhfUXdVUGZmejR0ZVlKcEJmMjNUS015TTN2MkhSQUtINUhNUDg3blRCelNsVndlcDlPdVUtQ3F5b1g0czhhVldJQ25FbHQxSHY4YXBDMkNzZ1hxUW02cVZtWXk1M0RNOE5va3d1X3FHa01VV1JrYjRzMmZPYngwQXhjLWJWUmpXTTlqUk81RzJNTHpZR2NnX3VYNHFWTnViNXgxc0tkdzlQN2JfX3kzN0ZxTE5nbEZkU1M4WEdUWGp0ZWp2UXQ2QXRzandlOHRyeU5qZEFaYWtXTnEzamxNU1BoZmxDZUYyTTZmRUR6bUw2MUh6YmhSTHN30gHHAkFVX3lxTE01aFBNUC1meXd2VmRmcnk5a2g2bjczaUZRN015eW9yZlZHQTR3ZXBqak5yYkNTYnlpZXJSUnNGSFhrcFhZTnBhYUtmTkEyQVpLNmJRLTRmeE1QN0dkWGV3MTBhLTRYSUxheGxGUlZyZ0dnWndwcFdDSHRiRU5yRXcwaHV2WDFNRW1kZ01OVHZZejdnX09uRTQyWTZITjNRRmpKbmk0aF9OU3RJM2wzOGRNVGVrMl9DQ01SZGlBQWFUMEpXLUdvTlJ2Z2VGdWJGNkFjWENCY1FrT193aXpOTUxZb0lBNlplX2l0dG9uMnM2RTdDQlNIM3lEM2RPa3ktUE9Vb2pSd3ZZQ0s2MXZYRjFqZ0MwVnE5Y3pCWXlyaHZ3dWlHNmYyLWhCd0xqU2NSZ0hqeGxOVjJhbmdXMjhXNi1FSjIyd1dQVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbk90TGlmVGVDRW5OYWM0Y0hpTzFfVkFYaGVQVDRJWjN2NGpjWU9YNk1DVWI4QWtzeWFoLXJCdzBXV3JLZktOaHZ6d2U1T2hfQW1qUUxSYjB2a2kyVlpIV1h4a1Y4Sy1EMHV3U3RGRlE5LTl4dmotZDVCdXctY2pTVnh5a1J3OXhyMDl5YjFyVDRWM1hzdjVwVHV3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVNHUVJXNWRnd0NUS1QzVzZ1REoyaFNIWmFfOWJjc041S2NBZFZrQ1BNMDJtZ3J6T0RITjA2eXYxMDV5QXRaVkdJbGVPME43bTEtWXJQSFFyUW13Rll6czdzQlpwZE9wQXZ1c1V3aEV2a1RCQjZzSkxqOTE0cDNqcEttRUZkU2RRZUc2aGJac2lqY0kzMkpNUFZOdENwbHpuVF9lRVlEMnFkdGpOaS1J?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbm1QbFlybzFubW5mOWE1a2h5VXRGbDJWNGZISmpYMEVKcE1aU0FHUEh4Q2RsZjd1ZUJpRXBVRHliVEphZGd6eGpZU05uSUJlMllJSG9wNDR3R2xnVTBJR29TZE5IUzd0U29MQ1JZX0tKVUM1ZDJsd1hkbnU0M3RMNlNQd0NNeEdfTHZRR3pJbkhVS1ZFQzFUTndicjJtTmJfb2FJT1JLQWNnNHJTOGgzVG54N2wzcFpIU2FSaXRHTTgyVFphdjF2SzlzTzBpWS0zQ3BjUktQSVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2FDQVY0bzFUd2Z1Z3B3cU9qaHFNeW1famxnMC1ZUWFtUnVLN1UxZ296dkJZZFdMMFk3T1doeTBOMUItWXFEaDNEV3JJMmZRbEdDQTRXRE5sM3BxU0hTcWNvNXZQRjRhS001VHF4amdfbnNXdGxiVnVZbDhEX09qMmVCZDBiNVlpMnlLeHlNaGVsWHY3S0FEaXdBTXpNZlpqb2FidXFyNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd2tvYkVNSnNNdkNlQ0Y3bHFYazNtSnZUbExpeFctbXJJenBacFVJUFRnZlkwRnQyeHhqUFNfamxVWjF3b2NoYjJpN1czbDVab1dxZEdicGhrb24yTDNqSDRDbmhwUkFtcmd4T2hoRllSR0hhdUVIdzJnV09zdmM3cEtBQ2txc2NfWmI0Y1lNLXU0WnEtendSYnQ0dDhKOUh3enfSAacBQVVfeXFMUGFkVllfMmhVQlo5bGR5UXM0WVFhTndkWEVBRGZhN1R3TWZFTkhERmRQNmFQdElCT0wwdGExT3J3eVJjR2NKcV94bmRia0JPVG5wcUhJdThxRmszYnpnT2M5blVORTl2YmJBXzF1Z3VkaHN2bzRVZEdsMFJUWmxhcHRuT1Y5T0dpb1k1VFRYWTBuZlQwVTByVl9NZkQxbWZ6RE5DY2g5SEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2tyZUVSRTdYUVNqVm13MUJmUmVxOFptcnRJVTY5SjQyQkVPTzBjRGpCbGJtWFN4QmdpU1dQM3FCb2ZHZWx4N3p5N1JOTkVNdVphQlVYcjhrZjJ5M3FrZE5lelFhcmVWODNKZlZvd2piLVRmNm1OY3ZMa3RaSFdudXdTcEthaDEtbUprYnFxRGFwT3FQSWJzX2pVcDQ2TlRISGVPcWlpenhTZldFV21qWmcyQ3IwTUk4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-02/china-us-yield-gap-nears-record-high-as-treasury-selloff-deepens": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/west-asia-war-us-attack-on-iran-live-updates-donald-trump-strait-of-hormuz-news-september-2-2026/article71418027.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWRYWmJEdDNEMEJxdG1oN1dSckVpd2x1V2w4dUQ4a1Z2WG1zV2prYXNUbWY1dmxGZFZ3cUlMMExDQU1kSXF3YmVqWUw4MW1yYmVIUWV1WW5FRXcxYVVscVVQWlNjOE91RHliZFNhaTdmTUtKYWNoNnVWRkZYQktxOUY4dTFIX2JTQzlQUW9sN3JSek1L?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/ceuta-spirals-into-chaos-as-spains-pedro-sanchez-struggles-to-regain-control/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-02/phison-electronics-sees-worst-nand-shortage-in-2027-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
