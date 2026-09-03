@@ -146332,5 +146332,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/new-us-tariffs-on-drones-take-effect": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609030003.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/09/03/former-venezuelan-president-nicolas-maduro-and-his-wife-look-to-end-drug-charges-on-immuni": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-03/why-the-world-s-dollar-exposure-risks-fueling-a-selloff-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/born-in-usa-mexican-parent-help-for-clarifying-dual-nationality/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQelpMdVlmQlBYclFPR2VRQllsSkxWMDJSUFFLbGFJQ1RMRVlTQzJyYVJkbEZmUWctazVHeEg5QkhfOFNrb2J3QV92aFNTU0t6YklRY3p4UHMxb29zZzFKSWpVSjJWOUU0TUlZNENCOU5fcGRsbFRIVVZERzJLQ3BjNllidFFuNUxpb2RWcGVuSlB6eXV1b3BoWGZva1JMcTJwNS0wNVQ3OFdfb1Vrd0Y3d3JsVU5kaDVza3BqMVFlUm5YcGVnNFRrX3FxSnRFVF9FTWtqcEhESHdPSGp1RXVCS19XemRjNHVWVkRqd25kbzVpR3gxeU5MclVoSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMEIzNjV0cTRXRThicHZZclh6ZzhKUjF5cnBVVmIwcTJnOEV1aGI0eXByd1N1c1pldnVXUlNyU1ZLMUZXTml5WlVsMFNRcWtGT2I2WWV6eHlkM2VFVFhjZGFubUFjVjRPX3JmdC1MUWVFRlJOQzFjcW53UWI1RXVhc1hqeXI3UTF5MFhzY1QzYjBROThmMnFTdUNsaXpMR0NCVFNubGZkeXNJWVRCWFhrRGRIWW01LXJDLU4w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/frank-marshall-nigel-sinclair-pete-townshend-behind-blue-eyes-1236687818/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcnluUmFlY2liUy1RYnhSSUF0WVFNUGZRZmhnTWI0cWI0cnNkODVFdGNna0l2RjN4VG1jLWFkYW1kYkJiMTJmNXlmS2ZjUDNKRGRaYXZ5OWQ5VjlJVTRzOFhhNnRjdUtkY0VNY1MwM3o5UklkRjJUNG9JSk5HVmhjVGRlY0tNa2hjWkR3U1VjZHFmQVRXbVZhQ0otTmU0VWNfamwwMmEwR3BGdlBOS1JjWFFEQ05WbW1kWHR1NUZoTlNMUkVkc1VEZlpicFV1RGlYOVBlMlBxeWtpbHYzWFA5SWhkNlloU1RSaXB0WHp3REdvMDNheHBubk5MZUdXMHFWT1lhczNqR1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWZlNXJqN1RzY2NXY1F0NHpzV2RXemphdXVITzhrUUlpU2VvRFYyUkxHRTNHNThabXVkX19CNVRwRW1OTWtRaERtV1FaRnZqZzlua3daYTIzTnVvUlpycVRYMlo0c1lUZTdoVERFcVFEUWdpaUktV2JRWkRDTTR4dlFzRktjZ0ZMVTYxVkNHQkFqdGNPb01HZmcxdmFhSFZTMlhJd3ZCONIBrAFBVV95cUxQU3ZJUHFBbkFtc01PeGxIZjdfX2NuZXB4b1FiUFpQMnFVcVVZel9Ia0hTRnBXLUNxSXlFYjZzc0E1TVRRbGw0cnV2dDhHYW9GQUZMb2NoSlF0TXVTSDRORkt4a1FoUWlhWW9aSUh2OXdvM2szQ05mYUkxNEk5b1owUG5KM1ZkMWpFY0NUR194VFlIWE5zVFl1dFhubnpqd3VJeVJWMm9DdEQ3dzA4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXhVU0pRWlF1NFowRm1LRklKdHl2NzV5NkY5OUlzS21qSTlaclpfajNSV2J6OHdTQlBWc3JxamZ5Mk1Bb1JhalhmU1RKMU54ZGtfVE5Kd1NUNWZkRl90RDhjWjViTERVd2VWUzF2d2tNY0p1cExEbllQLUo5U0wxM1VYYW9iaXNDdVR5SEh2Mmo4eHpZQ3Btd0tTRGlWcnk0NjJaOC12MHNlbUs3TV9IU2tGZHliMkp4WFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3313213/thailands-jurassic-park-shines-light-on-dinosaur-evolution": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZTMtYVFETFRyZjZiS1hkbC1fSXNpTU5QTVJ2NTFBMDRSQ2xYbEt5NGVYNTEwQUZKUmZicUxiWWo0X1dkZ2txTFBRYWRWVDVUUWYzR1pmVzh2dm1lQlR0WTBPRUdqeHhSZGVnTzkzV3Y3Vl9UOWlGQlhFR2wzWDNjRWplZDBKWURJQ0dxanlESWU4TktmUV9GTmxmU0g5Z25mZmlpblVtaVp2N1l5SnRRYkVUQTA0Rkl5TnlNbEpTU0NKaXVBXzBRMmREZ1FrcGtULWdjRzRmay1NbEHSAeABQVVfeXFMTWRfOEttS3paRC1aS1RpVXVfdDZlNVk0aE5KSnJEZUlRNGtKdnUtSnVhTU5GN0owRmhRTUxVLXphQ0JlU1RtUmlIU3JXTzB2a050c1cwNVEzcDVPWXktSmhMYlg0TFd2WjY1anlibm4zaWptM0I1cGFhY0NCM2lTT1NqOGhYNUdBelV4U05WX2RxeWdJQmhyVU9zc29QZ2RCYmtGcTRoS3RRQlRGa0podUluaDE4NGJENE9zYTExalhGMElWVGRRekdhejl3VUpnUkpTN1kyRThlb0xpemF5SVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVEtyQ25TUkJnRHZBMTNaVGFPU1JGczZpWnZvOEozQnk1anU1MFJXM1ZibkRZMGg0MFN4UV9nU29FOU9JNUpBZ2JSU1BfZnJteHBhaDJvUFRrM1hEVEpmTHZyZUtLcmhBaFEtdllBRExEYkRCajJtVnNwT21uSFFURWF6WmJyZHZhNFh5TVlfZXc4ZFpLTmRaX0k3UUFxTGVHWk1WVG5R0gGuAUFVX3lxTE9HRjFWTUpVbFRmZ1Bfc1ZvS3ZMUzdtVEk2eGVqVm5LSFpNVWstQ2Y3bUMwa0NLWXlDN2VzQnpHWGNZcjNyUmVfNHNZREF0VDRVSmZOSi1WTi1GRU5CcFJnTERHT2RpNnV2dWJUY2s0OXM4N0pFVFY1TWV2dDZTOWFLS3Z0NzZ1M1ZBbFJNWEI5Vy1VeVo2QzkzTE5qSEN2amp5UDdhRGZPclFud3VsQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVFkcU9hNmlFVEhpbGlGbFExUzlGMURZZTg0b2Jnb1RYYzdBeE5jZGxKS2YxQmxqUXFtczBXajJnWTdCdUtudmZzaTdFTloybVYwV2diY2V3cVJFTnZPMTloUS1SbHhHN2ZJaEduTHJJajBWRTVndmJMN3pMVDZJTE1lTG9lM0xIaEpLNG8zM1R1TDJrS29aMk0yRFlBUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/09/03/federal-judge-blocks-trumps-new-bid-to-abolish-birthright-citizenship-citing-supreme-court": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/3/girl-rescued-by-free-climbing-neighbour-from-balcony-in-turkiye?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_trump-cares-about-trump_2-030926?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-03/trump-to-levy-more-chip-tariffs-to-boost-manufacturing-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSUxuUmV2bkNXYm8wUmFpSnNfbklMQU84NExQQXpRS1FCeWQtb1c4T3ZWUWJnNE9QS2dHdWp0RGhNNWcybEJmSzJDaW9XV1c5TWgxOEg2bXAxcmJ3YU5zSUgyWlhZZHdSVlJjRmxIRlJxNm94Mi10c3NZWG51YUhUNVI2SlZycnhPZTVHR2I4NndsZFNLNzZSV2tUMWVCNDVLdkZaalo2a0RFZFZGMnllWHRSU00zeW5BdzExT1M2VlpkT3NnZ0Y0VjNpS0lyN2J3eGt6RGhaTFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexicos-commission-charged-with-locating-missing-persons-has-new-canine-comrade/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSklCalA1VlJfZjl1dFdTYVFmWmhnZVZXTlBadlE3QUpBbnBnT0pZWWp6NEE2SXUtSmtzOUl2YkZkRkE4NWRhUHVVd1VLOXVxQUNiQnFwY2NsLUp1T3J2dHVDNGo2WTBtN093aDRPZnhMYVN4ZHpmTmtQNkRfTjltalFKWndMUWtCazdtWUpjWDZOV1FSOUEtaEoxT0xXckUwVkc4cg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3B1OEthMGlYWEc1LWxHMl9JSWxFcl9EWFFhQnVveHBUN1d4Mk5UWDhfX2RPaVdfX3FzUUgxdmxxM0RvcEZNRmo4a3VlODRxMFhDb01pd2FJSXliVEtyVElwTWJrMGFuOWFXelYxN2hzM3Y1N0U1UmpiSXk3WWhzdFF5Q3JtbVVwT2RVN1J6em5pUVB6RTVOWGdXS294eDdGMWRvU0k5RTdTOXNT0gGyAUFVX3lxTE1vN2lCcmJlVEx5a1RGWFhtbE54RE8ydDhOSzdUakU1QWdNQl9BbTM1R0tLcUlneTVvX1FXMXhQLTRYUkNnN21sTGhTazRTSHFNdWJaZ1dBZ1ByaGgyeHdWR01mMHA4bDhndFJmTTNJVEN5WE9kYXpFY2tuVkdhb1Q0RmVHZXREb2pWbmJlNjd0RGdMNEViVmJJV1R2ajdOQW9qRU0xblY1aFQ1V3huNWlyZVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNlluTGN2SWw5QUtLN1M4OGN5NGpnXzl5UldDU0Z1YkNBUWs4WUZ2czdtUXBjQUQyTFg4Y19ITDAwcHlLbmtzMlJDQWRSelZuZ0pPSEZtTTBCMTZCOW5PVHd4RHR0eHZkMHF2Z1hqU0M2RERDRml4dW1hUkdTdS0xdEhaNWFENHExTFNadU9odXhRVTZSVHBaUDAzTWR1RHJmTWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3AtZFRFMDExYlprYjlZMFlidFhVS2Z5ckQ5dzdrVG1pY0x6UjFYYzMybDlKSmhmTVhiNnctOFhCMTZsYTdMZ3lfaEgzUVl2Z0F1Q2I0aHdXaTdrNlVodFJNT3BpUHhveER1SnhJeFBnRGVBRzI3bUZvUnNtWFB4cmkyWnJvdUs1VU1QOQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
