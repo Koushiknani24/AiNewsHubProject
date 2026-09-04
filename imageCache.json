@@ -148198,5 +148198,65 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/the-super-peso-is-back-what-does-that-mean-for-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGlKckJOVGdqaWtDMi1ieWdUZC1hSngyOVkzZC16Zm02czhnbHpkeDk4dTYwdzFXSFBxSFBLWDRDVE1SR0VMemVQRWpTaFdTSUg0dkVkTWd3bk1KQzlfOHpBSTVUZkpyUGt4ZFlSMEZQNFloUUlWY2lTZWJDbEYwd1VjOG5vbEp0UDJEMV9OSWtNNXdiQ084NjN2MUk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/09/04/tap-privatisation-portuguese-government-opens-talks-with-air-france-klm-and-lufthansa": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/led-by-quintana-roo-mexicos-tourism-gdp-ranks-fourth-globally-world-travel-tourism-council/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTW9WRklSNDJsQXdHUFhXdkZDSDVkazBMUHBoUTUyZ25qTlpSZkh3cXpteGExVlFwNE5FVE4xdjhRellCamVQSlZ2SURRT3dUVkI2cHo2aGlVMEpwWlo3ZEZWU2JsQmQ4Ui00NVJoSmZmdzZYU2ItSE5yN3VleXZlbzN6VzBMVkh2Z01nZFZZaThzQzF4NkdXQjVnSHJDaWdqY2ltQmw5ajQxblBtZmtQTU9BMnRtZ3ZzQlpySEhWRlQ4V1paQnp4LWdaQnlNU3VQb0JQXzR6Y0c5V0ZNLXgxUVRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogJBVV95cUxNR1ZDTVpNal81YmhnZGJyQ2NNS0lEbTZyWXVsb0V4dk1DX3dlRmtKaGhibVhNazRTMjVpRzFWN0NCbTZrSDlYdTFUTW9iQVRIQjVOckF6STJzbVgxNG91VjNKSU0xdkFsUWJ4d20zQTdQYkRxcXlzY0lfanVoOHZvLUlaeU1ka1p5bVZJX29OX2tOdEhnRThzYXU0RlhJQW53VjNnSFFpbmU3MFNuSEotdmJJT0lvUDYzUXN0V1pSVWJrV3dMTWU3OTJ3SkZSSktzMXh2Z1V2aGZwWHFuN3hWZktIYVlXbWItM0l0WUtBcW5WODNQdFViM21Fc1FNVmlIVlFRUkptRmNlQ3FDdkQtVGszbDRZZTUycm1WOFNLN1RMQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1JMZTQyVHBIQVdNdEZ2aHN1bjBkcnZBTjJNR2xXbDF4cnhaVlRLMEptdFFtSzVrZmFNREpTV2c3YThhVEltcGppMkV0SWxYdlhUMmh6eThxa1dtemV0eTJoLVQ1U1o5a19ySGRJb1hocERuZnFMaWpKc09nUFc5Vm9ZQnhfVE5WUVU3WXJHdDJrOEVkWTg5ZGZqdGEwam1VYUZKVThXTVRocGg3XzFKQldDNElRSHI2R0xCOE5DSGt1ZzlFV3dnVw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
