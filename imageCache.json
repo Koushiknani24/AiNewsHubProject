@@ -148348,5 +148348,71 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlpTYWw0ckpKVVZXc1hUTk45YjRaQmpvQzRlVE1UYkJrWllUMU9LWTBObEZqX2RXZzAydjVLQjFQaTU4aHo4aF93UHRKbTI4VzljdmNFZjZqNFBNQWxLUS1ScGV2djlTWGwzc1JQWWtXZVdncXdBVE43ZFAwWjRrVGloSGE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/2026/09/05/us-peace-envoys-witkoff-and-kushner-to-visit-kyiv-and-moscow-with-plan-to-end-war": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/lise-klaveness-gianni-infantino-donald-trump-lonely-crusader-fifa-world-cup/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/05/italy-meloni-bonds-debt.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmdSMXBDOV84MXprRzc2cUQyOTVCaXpraXAxUXdTS2xsWWF5OXpiZHBQUDVnTnNUeUV6WHV1MVdCX0kzbDRzSVZ2dHdnRkg0TUxobkpTUHFyeFZNbEpUM1RiSlMxel80NjN6RGNpRElielpUS19ZNEZ2NGdiOEFYelNzREhYejQzbUp2UzFaUGRPOFJLdko2ejhGUXdmMmVtQTFla1VYd0tSaFQwdnc2LVo2cUwtSEx0NF9zTGJ6UzM5Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3314283/regional-stocks-gain-as-us-ratehike-concerns-ease": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOHFtc3ZkbzQzcnRSUXBYUF9xVWVEUzRGRVRRcldpQ1c5YWY5aGZSdGVDbTBIWmZtQVBFdjQ5cFRCaDNJUS1zcElkR0sxaFM0UUhjNUZKY2U4THVnYUJBdzNYR09HVFI2S1dsd2k5NklDRmw5Y2Y5LWpBOXl1el8xQkdYcXlfV3RNYl80TWpXSmozeFltemJMZFpqeGlRZWs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/09/05/latest-news-bulletin-september-5th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pTTJadTRxOEhZbEs0ZlhIUTc4eXJZVF9iYmZJNmlOUnZZQ3REWVhSVXYyenpfVGI3T2h1WHJvSU9MZEVJZzdnY05GeDJFZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/5/families-of-missing-ecuadorian-fishermen-allege-us-involvement?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
