@@ -149626,5 +149626,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU1pZeVhSdldIWXZFMWRhX2plcWV6R1MyZTZWNW1RYVpEYWFWSW0wV3FDSHhySXB2ekl0eXhfS2NLTF9RQ2NwaUhlNDE0anpEd3ZXLU5BQ3pMZVMtRDRDZzNhTS14X3prY0hwUktPY3lkQ2l2SWVWTVdrRUw4WVVlTkdJQWN2d3ZPYzc0SEFRbG9rTW9PdW1meFc1dHc3TS1KNXNyX3JTWko?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-reviews/the-echo-chamber-review-alicia-vikander-susan-sarandon-1236688165/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOeTRWcENOaGUwbVBCanlNVzJObHpFdlIwX0oxZUFfcTVybWtXVFlEVk1HOFBYZEoxRklOek41S3FnUC1sdFV5MF8zNG9ZUXJSeU10b1V4QjQ1dkQ1ZmdBT3FUaEZ1UHdEMGNLS2ExSG5jYmVYbHJNcXBXNTNCa19lSVR4MHVFMnJONkstY0ctY2ZOa3ZJcllaZnlkMWlSQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/arsenal-pass-chelsea-test-in-style-comeback-win-6365861": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lTUxoUTB4ckdRRUtnQ3lDM19YaFd3anJtS0IwcDVZSDlOMVc1VlpKQU00NUhYTDRxN3F1eWdXT1FVMmtxaHNqUmFMYTZNWkdZclp5UE52X1RkQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/water-in-mexico/perfect-day-mexico-supreme-court/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYzhCUWdoYTlhSnZPUUdIYWhVQkptRktsbGkxZjhOTXZENHUzRVlsVmdWTmFnbmI5MU5ZVy0tSERfQ3VFT05NdHc2WFpPakNGSm1tS0ljd196Y183OEtkMEtCRDJFcEttd0V1SkhwcnduSC1wUXZDMnY1aGVGbnduci16NUQ3cHhXcmlna0VRQVg2M2FtMmFmVThLUG42TXBON2gtcUc1RFh4SmtMWVHSAbMBQVVfeXFMUFpmX2hOYmdqVUN0TWpYeFBmaDFWSmctdEJPSk1RcER5OXVSVWNrVlFIR0NZc0phRVMyZ0RLaUNtQ0oxVW9MelgyOEdqYmJBYkNSTFcyTkJLd1R5RHJDLWhxSnNJTWhWWmU4MTE1em0yanNwbVAzSHpMZkF1ZG5WVWU0Q2ZCbHB5ZkxhLUpMNV9sc1dLQlJFbDRhbjVPSGNrTnFRdGRFYzNla2FVWVpIRDdwWFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/pngrb-eesl-mou-to-drive-smart-png-metering/article71436111.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVHVYTGlaUWRRdlVwYUdyT1JHaTJMdVN2QlpDS0dBM2YwcWFPdUM3QnhWX3Q1U2t2Z3F0SVZRUFVtdXc4djg0bTZHMTgzOG55WjdCemZBYUZWdDhlVzZZRGZGSW5RZVNSdFdtaHJHX0x3T0JOM2VoRzBtTnFOSVRtRllhRlg0TnY4Wm52akNIazlJejhXQjdwelhTTUNISDkyNjV4WGY1STNlcmFZZHlSQTJHY1Fwa1NxRmROX3NlRktMb2ZHM2tlTFdldThialhicGRBc1NQTGMzeDBWLWxxME45MlQ0bFYxT25NN2tCUjl4RnB4VzNaVUltb2k3VzFncF8zbUpDeHo5el8xQzRvcnFDSlpQaXZT?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTlBaXNoZFJ0YTJzRG9JVWg2Z3Q5WmtkeTRJeGNTazZjaGpDQWYweFV2TlJzWmRhdXUzcVZ3OUowMUZUczBRMHRoOTUxYm4xdkdhVkIwV1ZSMFVicWhLNmRLSy1WS0xtS3c4WkdEQkpaaVRXUGNKYWVpYy1qaDc1RXJvSFRJOHNxVHhHNnNOQWxub24xU3RaemV4d1RJOFlpOWFJVkJSdGtaNHhCMWxjaG9OYlg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609060021.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN0hCR1E1bTY1ZXVOdnlac2NOUTVIVWxxamFzTVdXTjVodTNxOWRpNFVGWVMtUGZqVHdSaFRmT1VxWnhCYTJaNktXUEk2ZXhITjlGQjdHbm9Sbk82N3lPa0xKWU5lSDdnRXhLVFJ2RG5TT05mcXFUODZXY1NPVVVNNzVQQmJyMlMyTnA1X3E2WC1Ya3MtSzRIQ2k5OFJfM3NfV3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/exit-polls-germany-far-right-alternative-for-germany-afd-lead-saxony-anhalt-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakhuaFprbE5TUXl3bWFnZ2oxZUVSbXFvWjdIS2NERWRrVkhBT1N1Wmp3WmF5RjhmZU5lWkh3djNrQjJQNG0ybFNqZUFKOUhoUmowbDIwVXJmclcyTHhyVWlGOGpFX3BtRjhEUkZkVklDTDFGNTBFdEM5WGM0OFNDNU9FY3ctZm9pWDItdnFUU2lRWkJxZ3RzdUNsY0hvTk9kQ2440gGoAUFVX3lxTFBSa1NQb0lBcG02S1RPdkpESDZ3SjZ0LXVObEtHZ3dlR1lURFNKLVhkbDdSVzM1QzRuSFJFdE1hTGNleDZEMlNvQXM0dV9idElsQ01Nc1Y1bVZkWEpiSFV4Slp6cmRRdVZ3ZHlVR1l5SDVaamN4cS0yeUczc21ldndIQ0pYRjNacVlzeFl1bEZRSVRHWmtqWk1vaTdDN1dRQktodFJkU1Z5dg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXZreGtlOWtUZlBVaGRzNlJzeXViM1lySXVjNzdvbDdnQ3JtdFRYMTVDODMxazZzMFFyQkdZMzgtdHNQNWZpUmR5eW5HdlMxTVh2LTAwTFN3VUVhTWZuM280N3JwQ3RxOUZZZlN4WVAxWjAxYnYzYkZhYnY3WUpIZ09iY08xZ3dFRHcyYWJ3TnRCQlMxUmtmaHNRdGpfVzkxT2gxbXZYNnUtNUc0ZG9DS29ONNIBuAFBVV95cUxOWE5jblJyWWNBT1EtYTBwZjVPTXEwY2tFV3U2dEdreDU4MDR2cnowN0dIbWhLMWhyb1FpVHN6UlI3Z0xIY1Z4MHlKR1dRNjR2Tk5xQ2xpY1NFZzhwWEFycVJwRl9DN3Y3MVZCdEJhdkUwQkxvRmQ0RzZieFlyNHR2azdHdENBbGduRmwzaGR0UVJPQWhfZ1VvdUU5UGUtb2RfTXJqeWR3ekdMczU1NjVOcWRqOGZON1kt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
