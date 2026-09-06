@@ -149896,5 +149896,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanFmOXFWNHMxMWkxNVNTYk13MnpwRWxLeU95bk9POHl3Zl91bDRFbnNpMmdDbGpYUDhSc2hnM2Yxei1vdHdPaFJ5RW5mTTAxd01DRjI1cWtZMGxmR293aWN3ZjUyQkh0TXYtMlBmNFVBN19tdG91cTJBTTB1dThncHgyWi0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/2026-creative-arts-emmys-winners-list-night-two-1236685041/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-06/china-injects-billions-of-capital-into-banks-insurers-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAJBVV95cUxOMDM4dlgwMldtVFRrNnpudmNzU2RTcHljaDI5QUMzb2dablR3TFZ2S3JQRDRoY1doOWdnUUtUM3FnZkZCOFVOTU5kWWxQN3p4dW1sVklCaHJsMENHeHFMSmVGQjl3RGNWWDhPVkhOV1U0cmpWZzRVMkVjV3JxYW0wNnYwUThNVTJyWDVadUVZbGZrRjlpaS1Hb0t3SVA2bTJSWFRONGFIRExDT1NwWVJ1bUE2TVJzNkJBZ3NoZGdqTUpFcGVNZXUwUGRsZG8xbDdyUUtQWlBtVkZDS0Vic2xZQkpZMTBqSmJiVkpBSktMSlIycHZvcU80TC1VTmJMNDhraDUycC1NbU15U1F1MV9kNHN2T0h0WjZXWFdLVW4yQU1OMERuTE8zUkZPTWFFNVU4UFdDa9IBugJBVV95cUxPN2pLVl9fVG5ZMTg5MWtiSnhGRjVOUTNKVWdJYXpiT0FnU0NxS0wtRTBybXNnRk1VeEh6S2RNV0NfQkVkUk9Wd1NMMUFHQ1Z6Rjk4Q2NhSUswNEJKTEl5THJscGhTYmNKZXQyUW1oUVZHcTNPRFl2Zk1rdEY3WFdzcVVVTl83X09PQ1liX1FRU0V1SjBLMXoyczBaSHZoY3hUX2tzdXBxV0FFZXdLQTIxRnE0NnF2SElGM3pKV2hFc0lyLXQxdUhUbjFnS05BbFMteXgyTG9CNEpQUEJIcWh1U0c4LVlwM0FwUHBTQzRXSVF6WlAzUnREZ1ItVXgweUFDeU1HcThYa3FnN3prMHJjeHFQU1JfcEhYVktRRnNMMi1YOWN0bkx5VzloamVheC1vMGdPNGd0RXBWdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/food/mexico-city-solo-dining-guide/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MXRyUE1WYVJYeldodkQzWEYwOGx2dHpWaHhMYjRjZlpILXpDbXBQUFFQR1c5akpHNTFDdWJMZkl5UU9oWklJYjZiWDNkUzYxQXBVeUhKNzM0eXhJaUE3cjVlMGdfbzV6UmFPZGYyZlg0UEtCNGEyUG1jOTE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zOEp4ZHdVMG9sbVZ6VWRzSGdTU283Tm5jZXJWUXowNkp0VVFfSENqVzJMY1dOYU8tN0hRS2lqVWk3b2NRN0dDVk5ETU5rZHFJOEN5YkRwZTJyYXNvVzZ2d2NWNnRPRTdScWdlcA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-06/goldman-s-moe-sees-80-upside-for-korean-stocks-on-memory-boom": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tMmtETTd5dVRyU3R1aWU0SEhUWFV1LWhXdHl6eDFyNWw4OVJZNW5Da3BIeFdHczlnang1S0w1R2NUdmlMcDY3OTA1ZTlZUVh6ZF9kUFJUMFdkdEtxajNEOEhsaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3315033/budget-bill-cut-ahead-of-debate": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/tiafoe-shines-peoples-court-slay-old-rival-medvedev-6366131": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
