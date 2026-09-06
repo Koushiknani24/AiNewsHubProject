@@ -149728,5 +149728,83 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/amazon-cargo-plane-overshoots-runway-at-miami-airport-striking-vehicles": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-ai-driven-manufacturing-booming-mexico-says-ai/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUDRaa3NXWmNpUTJWVWNlNVFPeDA3dFFONFJyUnM5TDMwQ0c4ZFZ6WXVDRV91dkd3NUxHQ0pSc3lHaTJzcEJaVlFfcDlNZzBETFRRMXZRZU12cWEtQU1mNHRScE5kdUQ4YXdJYmJXQTFjSDB6ZFZpVnJaOWFHRFo4Z2lFVVVWNG5NU3RCYUZ6MjVmNWVIMnNCdDdYUkJGeXZyYmd4RHZpVWduWm1Xb0p6Rw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmJTLWhVcHc0QWRKSHhuekoyZTVIRWRia0tRdmhmTXdfTEZxdGIzMDg0R1BhVWdtWkV3YjBrR1hvWVZTbk5id2VoRk5QOHNJVXIwSzVnQ0Q2Wm15V19ycmxCcm50V1BUSDB1SVNkNHRfZGJwcVQxRGdyN0Q0ZlpjSmdQOXVVSldiN1Z5bkhoM0p4Q1F1bFVUNVNjbVFWc1VFOUdGU053cnhaUjVpWFpN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNem1qRmF1WHNDc3Zqak5McHNhQVFfR25CdWNUUlc1QWxGR211X1ZYdU9hYUNXSnJCUjlna1FKLWlIQVVPME9hMlJoT2hDR1ZGekpBUlg4UmNFdFRvZlBMcTV3UEVnN2ptQ2ZBUGYzTThYTnNxVGRiczlGVzhQMFZ3eGlrdVdHWlVmZmw2cm5zaTRGaXlX?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFhETTlJTDVkQjRXc09IbDlSTTNVWWU2ajRmbi1mUVM2ZzFEYzFGTG0ydjdQU3NteDhNSTlocXVSR25MTlNoWTZxeXlJcklQMlB2SXIxVms3Mm83UVN6UEsta1ZHN1VhbWpfci1Gbkhqa05GcjZ6RTJ6Y2pfZUNLXzc1WlpYYWltc01MTlNZb0tUcFcyRkhtaFpTcjBJNURPRGlGRzI0MnVyQdIBrwFBVV95cUxPOEE2TW11RktOd2F2cmpuZkRDek9PN2VFbGFxNlZKMVRWQ1gzeTg5QVFuTkY4YkFyalZxWHZYdS1SbGdiYkc0VTIyYVNNQnhPWnhBOEZManhHYk1qbzNmZ19XOGFzOUJycHFrV09xNUpmVml0Y3lEZFlhVEhBZFNPbWlzUzdXbDRROHM4ZnFhV3RYWWwtbFJHb0JkX0w3SHhZOHQ2UE45Z1BxYmxmWGtr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-raises-price-of-petrol-as-us-applies-economic-pressure": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85ODRMSFNadWJMX0xoMVVLQ1Y4QXJVYzB5Njk1dU95UzNfeENReklabmxTbWx2M2VfM01WSEJlMkVkQTJlZWZ5c0JydzF1X1BhREVacEdSSmpEZEU4d3pnaV9yU2tHUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSnJCbHBrLWM1NFBKMlk5ZDhqRDB5bERuU2N2R2UxNFdjRTU1NHJXN09ia1BoSUxEUWdMM25PNy15U0Y1ei1zM1o3U0F6NHRmejQ4UjJjdDNQZURIekNBUDlDYTZrUlBLaDZjZHkxazd2NGUyTU5uejBSSHFRS29BRE5odk9ZUzZQN2RrUUh3V2ZqQm15bkdQeDBtajdXdUxJcy1QLUxGd2ZpdGxXMGF1YjBiTnFWZ0JIck8wcW5lM01Ddw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUdjRTI2Ni1LS0hkdWtOVk1NV2JUcWNZNWZTRy1ma2xOaEJvcG1RY1ZvRXJqd2RGbFFlM3dBSUdMVzQ0OXJUYkRhX2hvd2VuNjVkYnJoMTNoWW5wTU9WTHVCb0xZU1AzdmtJY1RiRThpRFFIUmc5eXVaZG5TeXBNYWNScE0tQzhZQUVrdDEwUEhickRTWEY2UllJZXRISi1aeUFrQm5ZM25vTGRxaDlOcC1B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2JCeUZJRmd5UEhfaFJjQ2U3UDRValp0Y0ZVOVBiWXE0YzBVZHhTd3RlR0FQMlZHMFRadXJvS01XOHBvb0p2Qzg0V1FYeDdUWC1uMDBFZU5JNnZCRVh1M1lLLWZCQ2Jhb1djdlJxTGEtNGNHWk96czEzUm13VE9wMVp1YjhEQ21WSVZwUlZOMEpBbkJVRm1tRV9wTy13Z0RaMXpvd29RMFdRUkg5ZjVUaTRuRkhCZ3doLTJtWnRoZFU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
