@@ -149122,5 +149122,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israeli-military-says-it-strikes-southern-lebanon-after-hezbollah-launched-drones": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/jammu-and-kashmir/news-in-frames-where-the-mountainsnarrate-stories/article71434468.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWGFLMHM0b1NjbVlaWjZWYmdaeThSdFMzbVlGUDlTdlMxYjFMYjFmTWRsMEJEX21OUGxWQ0VEU05qeEVfVkpNcHQtQkp0TGYwaVZJd3RrOHpPNGhtb0FRaWdiQmpoSTNLSkljbV9vaHlVRlVkd29wZFAyQmZadTI4Y3BzbmR0N2lSMmVoRTI4MHNOa0lKbFRrVm5rQnBVWUstcDB3N0pwWUFLR09Eajh3QnpvV3pEUmFqY2sydy1QWGh5eFFJZm5pZk83bXRON3oyODlBSXJvVEdTb1hnczJZdUF6bS1MYVFjcnhtTU13?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/messi-sets-up-miami-goal-in-first-game-argentina-retirement-6365356": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/nigel-farage-wants-to-be-a-global-statesman-first-he-needs-distance-from-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxJWWhpV2Y2WmVEZnV5VkczN0dtemF6aXJldERzWllTNlV3cENVb2dqcGlhN25iaF9MWnZVdVBtRW5rdUtFS3VuZ2pma1dsdGd0a0NaRlFFeUxGVE5YajJHVU9xOElWQmFQT2JtNnJaRXU2b29LdE1zS3puVmFKR2dfclhXQVRoUjRscFZ5R1FYMG1Xb0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-reviews/a-tale-of-two-cities-review-kit-harington-mgm-dickens-1236688874/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZVBoaDhfZ2E1ZFhCRTdYcHVVN1NIVXpQcGtpYU1hZUdBSEpibHd5RXhELV81U3FFZWVnT3VET0dNZy1WZFBGb1BPSy1CVnNhdnFoWUZYbVhGQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDJxaEhiNDY1OTBKQXM4SGZndlRaMkJIWjNNQUxfSHo5TjZmOE5sTmw3Y3diTGlSVXloVlFzU1pieURvd2YtZHZhQ3FfYWJmY0s3T0pqSEpXVmd1RTV5Vm9xbFRhY0RtV3cxcnFCX1RBem9aREVVSkRtYklLMlUwUEpjWmUzX1ZZR0Z0bUNBdDF5Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlFWYktPMlE1b2VJYzM2dGM3N1FhcUZJaUVUUDZsODJRZWRXT3MzWENRUVpvUmZJRkdFN2FqOUlyTlJlaVFkSVdWUTNwVFF6eFg5UlZUanVFb2lJLTNMVDFITkpTeVZ3M2gxY0dpeXRodG1lMmxzQ3h1bG5QeHd1SUNFbTJ1bWVXY2NzQ2ZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3lfVzJ5SVRIMUFBZEZpZkx5NzQ1cHU5cFMySTVUeEZzTVNNLV9WOGpMQXh5MFd1SUhiQ2V5T0FHSUZhZ1Jiblg4XzZfZkh3SzFBZVBvSXZNRElXcndKeWM5NGROanNCd2hkem9ieWxieUp3VEp5dzVMeVI3VzdQQjd2Y1VJWFJSQlczbkF6SGotaU12T1Q0RHBhSFo1X19pMFNlY3NIV1lfNUJ5UW82dW4wNzXSAboBQVVfeXFMTlBLcWhqSU1tMmxRWDNKajgzSldXRnl1cFlNeHZLMThQT0dmZjhkbHpCaE12NXVzZGw0LTVtMTY5N1ZQMlZhRWIxSU11TVdYanVHU3hvN0hHRXpfR2JDamVMWC05bmFjNS02SFduNWtRT3Z0YVNmLTNZVEhmbEdpdG9lOGZKdEt4WUlRQXA2YXRIZG5fYmlPQmx0U1pXcVpMRGszN29tRHF1NFZ6aElVR05CU0JVMmFRYmx3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/ai-largely-to-be-banned-in-nyc-elementary-and-middle-schools": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/6/indonesias-main-airport-suspends-flights-due-to-anak-krakatoa-eruption?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlZUtHclZYRDFFYjRlUTQ5S3VaNnc0SGx1WEM5ekVHb21CSndzSUQ4VmtxOVlGSk5TVlo5SWZPZFlrWGJyN0J5RWFiX192NVBkUWdIdUZOc1NjWHJvWDlyWlczSUVqcDV0a0NocmozQllweEpPZml6VjRhcjhFYkU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX3BybFFFSWxCMmJZVUNhQnJTcVZXZXRNLTY0OVBudnpBZnZKc1FyNW9xalVobFRSUXh2WVFVMkg0X3J1N1BLaFBXSWVPVzA4RUZfY2hkckVvWjR0RVF0OEpnVUkwaFU2V0RKWEU5VlhtNklNdXRGazNQVkNWaFdrR0pEU3B4M01oTUxFbW9QMmJ3N3psaWY1NHRBZ3JXZ0kzUVgtWE9JbVpvdzQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
