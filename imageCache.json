@@ -150112,5 +150112,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/7/israeli-wounded-in-stabbing-in-occupied-west-bank?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWnRNQWptaXdhSDlqMUNRa0NBYWlzYXRGVHlqUjhxREczN1J3b0RKVGUya0U1QzVGX2pnM0RTZUx4aG9iaWVVMmFaNDVHcTQ3Z1Z3RVl0MnF4ZkpFejkxYWFicWg2U2hoN21GNzkxdm1PQVpmMmpyb1pCelF4b3l0aXJkZlVXNHdqWGtwaFFpVDRfTGNtakJ5Mm5Fc1dYR1ZNc0JzNUxGSWMtbjlGdjk5M1ZzcTNDbjB1?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/sweden-election-race-tightens-as-liberals-make-parliament-threshold-poll-shows": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-07/zeiss-overhauls-sap-cloud-migration-after-costs-hit-200-million": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd085Y0ZVdWluc2pfcGliTmprN29PNWtTY2V2LUZlNzVaMXhNbnFMZ0dXS3RiRDd4Q29QTHJVMFRqTHNaWHZiUFh2c3Rubi1kcEpQdHRvd1VRVU1zdFlJcE1DWDN5X2VJUVE5MWgxN0lPSDY4SHhObXVscDhlRVZFaXVINA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYl9XXzkwaWFnYmpwSC1iclBmYnQwYWxMS2tEd1dhZ2hUREtkUkVnMmhTclNPRk5obUxtZkxQeXIyS2N1dUVOWlRuM2RtY3Faek5JM0lfMExqVW9UbW9XSVB3M0hkWVlDRTBBd3NUSy1abVR6dEgzZnJubUlTT1UtWGhmVE5yYlY0NzNyTTNYTXp2ZkhaeVRoeEg1cFVCSWxnX09td0I2MEVvZ1FiUGYyNGl1STFJQjlOWXlldjRBaHBmQm9JWnFyMEk3YW9sNmVPMG5EcGJxMllhQlFCald0RkljT2ZEN0da0gHoAUFVX3lxTE1iX1dfOTBpYWdianBILWJyUGZidDBhbExLa0R3V2FnaFRES2RSRWcyaFNyU09GTmhtTG1mTFB5cjJLY3V1RU5aVG4zZG1jcVp6TkkzSV8wTGpVb1Rtb1dJUHczSGRZWUNFMEF3c1RLLVptVHp0SDNmcm5tSVNPVS1YaGZUTnJiVjQ3M3JNM1hNenZmSFp5VGh4SDVwVUJJbGdfT213QjYwRW9nUWJQZjI0aXVJMUlCOU5ZeWV2NEFocGZCb0lacXIwSTdhb2w2ZU8wbkRwYnEyWWFCUUJqV3RGSWNPZkQ3R1o?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNnQ0U2FYTFoyM0t6R1ZVM2dRakctREFpSEZXcGd0aEhYeG1pRVRpZ2pISU9LNUFuYmVaVHlzZVYzblNXeE4wUE9ndjhuN0ZwZjBtREZrTC11dGpYOUpLeDhDR0VtVlJiQVJETzd3UnB3SkJFZmE1bUptS01uRGFWM1JQN1pPR1lSOVJoM05JUTJiSWM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YNnlMT1F2aW5WaDFLNHVGb2E1Tm1RMFo3aWhLQmVwaE9qV2JZQmpTZTRFbHNBd19rQ1B6cXV1Q1UwaVdGZ2hjY1huYVFhbjVxckJTM1VnS1BDRkd6OXJSMENjbnJxdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2hsRWt6aU1BTzFyWC00bVFhOUxkMDJGenotTVd2cW9KQ2xFRWplcC1nb2p4bFhJNko4YmZQbDdNU0VhX2N3YmFRVThZNVpHTzlsR05MbzlPOW91T3Zta2NmSHlUQm1rUWluaWhBZU5LM0RRN0Q0a0sxUmFJSERjcnViXzlJakJBMm1EeU5pcHpQcWFVQUlQMWN1cVV4TndrMFNQaUJOTExrNFN5RWZlckJLWHo5Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObHdBODdaSWJzYzVsUzlTT1R3REpBNElYTFJoQ3BRTlRHLXZtZjB5bk1aR1gwNHlLazZKNGtFVUxUX0xPY3RDUnh5Zl9JUXFmU1Y3dGJNaHJXbGhzbldJejdCNkV3aE9jQ3JIY2xEYUJqX3JldGRZRVpoWkczbEduSS1xRGFhQkx3VF9ocXFwaVp4OE80ZENKekMwTWJpWlJxTmkwY3RUbmU2TFhGYmJ1Ukw0dXAxWGtPWHEzdnBKWmhYT21ISUo2aUhNNE5OTUVreGN6Vg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MLVVRS2xsNThrRS1KQTUxckNrVHM1OFgtTFBBRnhEdXFBaG9hWEV4U3NlLUlrUlE4elM4bWkxNGJrbXNiaFZlTF9VUnJhX05Vb3RrSGJpMkJOUFoxQTB2ZzJRZFhVMG5mMGtMbXh2ZkcyTTNfSUpLNQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS0VhNkVwLXhxSVFqMnprbWRWa2J6S1VacW9vcHUtUDBpckU2T0VzVmM2WTBCam1PUFFtZ3FybzlxUU5SYzVmRHBTejhqVkpzRml5SW1ncXFJVDN6azBua2taU3k0WjNmSjJXcUZqSlUwblN6Qzk1YTJhOWw5cVZDTTgyT0xmUHBaTUFUQTM2YVM0NzhWUzRKSmRaT3VuMk96SXRFazBsVXZBMDVL?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/7/india-teams-search-for-survivors-after-delhi-building-collapse-kills-six?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGpoTGtLV1RNeWFIc083YU1JcnJ1N0VfLTVPOGVhM0ZKUjU1R3YtVlFTdG9sZ0NQWWNRd1FhTnZ5NFhkbWRYVUszZllkR3c1OGRtNFA0U1kzRUhoTkkwbjY1dnNKeWxla3VYZmJYLWdpeVdFVlRtMHVZZW5xTXE3T3prU0VVdEhWWWp0SF9za2ZfNlAzNi1LcF9yM3JvSnFpUzc1Y0ZqcHhsRElPOFd0ZWNZMlE2bl9VQlQ3MjRpYjFUWVXSAcgBQVVfeXFMUDhvVzBZMEc4Nlg4WFBuY3YwaFJqQXJudmlHYXhFUnA1OEYtbDBOQnQzMF9rbmRnc2traFF5LWd1dnVoOUhydXlzWHNWSnlMa25qUFB4dG9EUTZGZV94RzNwZVBNLTZIQ3M3Smtrb3NPcGZob0NBTUtucG80TGVhRmZEM3ZwUVR6M2dPR0V5eUJxN2ZZb05CRzdvOHFLaU5vcXczYUpoWDJCRkZXcjMxRjlEY1B3MnRMcUFwMFVyMmlONTlETE1EN0w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/japanese-sushi-chain-ends-chiikawa-rollout-after-staff-caught-selling-freebies-online-6366991": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609070109.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZjBtQ1JCMXEyYmFQZk45azQ1WjVsU2Z1eVFQZjZBdDhnUTZheUR4dnJ5SjE5WndfRlNZMDRGelhiMW9qb19VZG9vY0p5NXRHLW4xdzY3ZGo4QUFOME5ITzlfRnEwTlNoNDU1T0NCMVByYUttSHU0NWtrdzR3VVM5YUVxVnRLd2ZGT2ItMm1scWVPYXV3bUhlMlRCcDlvNEtKOXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/turning-point-for-country-german-mainstream-reels-after-huge-far-right-afd-win/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3315450/frenchman-being-deported-for-causing-religious-division": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUVlsWTFyN1huc0RyY2x5bVVUM1gyeG0teERYX3pqM1h6UE40dGF2WE9lb0VjOGRZdm8xTTgzTnlHNHZaQmxDQW9meVRFd2tfb3psTm14MU5ZcVhCZzRzb054UXh3QXJmV0cyNVlKSnoyOXFkZmYtTldnYm9qMlRHYUhDZjhQSGhNX25zRnY1LVBiWW5WQ05xZ3pFY3B1d2JRUV9mQjhwMjVtY09fbV92c3J5ZnJfazBKbWZoTEMyTjlCT3dFQkVNOUZNTGptN2lyVVdWRE16amhjYl9HUTloempwckNRRVhVa2J4OE1Fei1LQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3NNaGM0ZUpoUy13d3BoQkt6b2VGdzFOSS1NMWRBVWhXc3NoWURmZFpNZG9BaHFMeVQtNHR2VzJpNUF4c0VPTWowdFlEYVAtLXZzMS1PNVBUN0l2Y1dNVkNTVWlKN293U3ZCaFJTNUh0VzdGaWpZajU1ZUZUMV9SSG1GRFYxdVFVMU5Ub0lCdjB2enBwaTVqXw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
