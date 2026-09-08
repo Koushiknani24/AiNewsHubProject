@@ -151684,5 +151684,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-08/cisco-president-on-defending-against-ai-attacks-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/us-iran-war-live-updates-iran-us-explosions-heard-on-irans-kharg-island-september-9-2026/article71444513.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/pisa-decline-mexican-students-skills/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakJ2NUxyYjhUX1hndHdnUG4wS09xRFhjM1JXVkNET3hidmk5ejdlX1hJZ2o0MG41bG5ncDlqWGpROUlFR3F1dC1hQ3loSlN0cXZFWDBqNXVPSXFycUk5OTlmckV3ZDlwdlFodmZVQmF4Y3ZUZ0xPMEVHNUcwVXg2Qkw5Nzk0cUFEaWV1cUU4V1pnaDg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNW9ZTml3QzhqOUJydHRpeE16SnluVXRhSGdOSGc2MVdHMV91bXRmN1l1MzhjOXdKWDJWMWFEYk9VRWFWTlZ0WVdKMGlNZ2wzZVQ5Y3B0SmViVDgxRFR1RHZRYzcxN2JzcjZJd3Fpc1U5c0pwWFYwbGdTR0lCMzRUMmhtWEhZMHNYTlFHUVBQRnFYeWlHOGpqT2hBdzhEc1F6SlkzbGtXdDJvR3RPNmtDWVRqZzU3blozbFV5ZWdRWnhBQW9XeUY3UnFXZkZiNllnblAxZjdTT2tpZkpsbGNGWEdDMXdCR2tDdE5sOFMyN0JuMlIxU1FoNUhtakVPWEh1WUFFNklpV08yQkdWOWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakJSdWJKank0b19ETEphOVV4STFfajdoX3JiRTBiX2ZHTFBTMVZjYjRsVGZxNUdnWWJwLTQtcC0yX3N5MlNHeTFyLXhfQUMwVnc4X3NULWNlWXVpMDVVLVZib3g4SmFiR0Q5QVhKUGtjOEhuVkpqSDM0LUphYzVoUDRkNjF2dW4xSVM4UzV3aTM5R1h3enVkZWRZY19sYWtSaXJjenRseV9mQWpnbVp4OFFRd0xoOXZOR2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZbG83M0FLd2Vya1J6NWwyMEdzbXJJV1V2VVY4Z3BJckxfX1FQTF9fNFdYVnhTUTFsZ21xMTFHd2ZhVC1xb1RqTnNtcFlMZ3k3VDA3dlBfVFFWQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXZEVlpueF9YU2xKOFR5Rk9vU2ZVTzR2Tkp1dXhrUjl3ejhmcmw3bkQydjZnRlp3MUxKamRJNTBJZTh3MU5FeU5oaEJqdGlucTR1dHVubWFUcjVwaTJkczc5NkJjX29NWEIxR09HVDEzSDlJVHpEckg5NG50NjgzMy1hSEFqZC1rUEZHWWhBQWNGRXpWeWNPS0xtNXF1UnNfcFI0WU1GemV0TmpnYjZqOG5vVVBaMW1rZExzeQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWRRMWk2WTN4SDIxMTdlY0cwZHR2N1gxNHNISXdUaElIaVRYVlNrM0kyWE5sd0Nxal9xQjVPaWs0X2JuVkR3UDZqYmVhRzBlRzZMUElHUE9PdThXVnBuRHI4dnJxbVNLQi1JcDEyVWsyX2NkRWNacWd6enZjQ0RMd1daSGxfVjJQb1l3TXFPZGhPVWp5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tRkd1ZXgwTkZqaDk0ZWppTm5EaWJHNUFYZEZrc1FINzhBQzBSeEZfQU00WG5FODhZQXVUODhSX1hRZVp1cnZCS1FOYktSWk9ORUNqUnp0by1qQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX25PTjI1WGJHbzRLZ0Y2YjdBMkszVmxrTkZZUHVGbjkzTGQ1bGNSU2lZc3Nyc042MWVXZE5qcGxkZktGQmsyWjlyNG9vQ0pVd2QyRjlzZUVxUTFpdEpFWXZrSWhvM0hlT0pWeXNNaGpyd3hfclhSV1RRV0djWk9wR29WMjRQdUhUQ0NVdjNsR3FNcGl1cUpiVGx1MHBkbFl0MXRLZ3RDbzJla1VjMVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVVEQVNFdDNOOVFvTDJLZl9yQjVLSUozd0ZoSnVRZk0wT1d4bm44LXdLbks3M2pFSnBrcXdFZHViZ2k4czF2ckhfeTVJVTNoY2ZpcHE4dS1lRzBmTE55TThvdDAzd21iejBxVHlFNUJSdjM2ZzRaMXRLRDViSnNUeGtHVUlkaDZ2aFA3VUlDNERNYWY4NG5hRGlxc3hQVU1CLWxpOFVjTmNFYVhJaWhob0N0VXJ5WWdfVjZScE1LNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/puebla-cryptomining-farm/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
