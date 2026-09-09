@@ -152446,5 +152446,167 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-mexico-thanks-trump-strengthening-economy-currency/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-09/what-is-ai-distillation-and-why-are-us-tech-companies-worried": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/uk-anti-migrant-protesters-mistakenly-target-pakistan-u-19-cricket-team-hotel-reports": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/2026-emmy-presenters-revealed-zendaya-david-harbour-1236695742/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzVHb1ItMUVFaHdBb2xJbkg3NzlhT3VFUFdqXy1oeXhSVUxMTlhUWWh5VFRraHFURm9hRzNhRFhrdEdtQ3lCR3AycFNxcWthVW9iRVNIWkJwYjBZeHJ2VFRGS1VPcmhkUEc3a2RNZkpJN1BPVXhld242eTBoa0c3N2RtaGZtSU41V25pQmZ3bzV5bHBBMDgtYnhMNVN6SDI3T1lPNFdEaXpPYnNzeVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/new-eu-taxes-will-cut-taxpayers-payouts-to-brussels-antonio-costa-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGJwSVlueTU1THVGSmViVWNBSFROTlQwWGJ0VVFvNVp5eFkwUGljS25EcGFLemwzcDRpUk16NFhHQ2JvSDdCNjZuQTE4YjZRYmhtM0RaSm90ZGxOMGdrRjV2MXV1VXVUTHRfZ2FseERYVkVXWlJMMk94ZE1XVUxxcHAxODc1Y0M4R2dIaktTZExTQnlZX3J2SWlaM0ExZWZi?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTi1WYTBSWUlhbTBIRUtGWDZuLVdEdloxZjg4blFROGRmeFgxQ0xEUFNNRkc3VDV5bkt1QU9ZaU1DZ3JpU2NwUDhJbGM2RHJzTHlKOFRhaHhvUjJvZ0M1ZWdJOXpWNkE1QjBGeDNyQjZ6NVlxdFpDanpvMVotOFA1eUpFMEFFQ1RyZmdNQ0ZpN1EybWxFZ2xERXlOaXBZbnkwZ3RuZC1fcTNHOHV5SU9SZ3ZzQlp4N0g2WVY4TDNHSmhiaUlH?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/china-english-to-be-removed-as-a-graded-core-subject/a-79199629?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxORHB6QzZiVldOcFJhSUdERjA5VVBGbEw5eGNncEw4a1FjYktCZy04bjJHN19vdUlPSk5MWWJRRkNLdC1qZmtHcTloWGp1SVZkVW8xNEdVWjZwWjc3MzVlWXNYcXBmc05mTUZiSEI4eTlxOGlLeTBkN3ZjQkNCeEl5b21pdVdqUFhVMUdrMUNabDIwUVhfSms2SXF1Zkc4R0V3VWdGbUM1TkpXcDVhYzZZUWRtRG8tQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-09/hof-consortium-completes-purchase-of-bugatti-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living/puerto-vallarta-municipal-payroll-allegations/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EdXJPQ08zSHQ5d1BrUjdhaTUtaFJEU1BCZXQtd01pWExDbS12MUNCM3ZKVVZ3M0tySDVpQVNLSGl5RUp2dnJ0NXFHcmgwOVIzQ3ZRbnlwcmJRQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZE12ZWxoWUtJYUdmS0ZReTNaME9QV2FtUnZWZlQxQXBlNF90V1FwVzQxRTBUbHNJOGF4aVdmNGFkaVYxdzZUUEd3WjZlUDlCckJyZ05JeUtMTHZ4bXpoVXNVcWFiQ2FfVkNUQUlzbm85RllpZXg3WjMyRl8wcTFiN3NHaE5xa2gyTmJoRFZhNTV3cVVQenVNYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/germany-s-connection-to-the-september-11-2001-attacks/a-79202918?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqNWlMMlBpRW50QUhWVzR4d0MtNVhZSlVSUDJBUmZrbVBfc0x3VlZpbmJsRmJxNXhIZy1McWV2aVM3YUR5WHpoQ0NlVnRtQ2tMTU9kS3JWTmxmV01FUmpTaGdBOGliNHE1Y3RUUzgzYzNXaWxZMUxDeHhB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbG8za1FVZXktVFoxa0M4cHRmdzlZR19MTkFjX1pLVWZiN3JycjVTY3lkRkJHTGtKLTRMa3F1WG9Qekl3T1o1UVgwZ3dOTVloMUg2Vm9FWUdLODUxcmJuN1N2ZzR3ckd6cnZBUk00Y3ZMWXA4alAta2taZE1MR05UX2dHaXNBLVE5emlTNWlpcHJNMHFuQ0lpbWowbDc4UFNOejEtNnVjONIBrwFBVV95cUxNU3ptX21XWmlEZmlnQmZyTFdBYnlmajZObFJFZHRFWFE5S3RPUVN1YkQyaXFaSmNVcmRoNnRSZjFCY050QkFiWnJrckNzSWRpWnlKVWNnVnVsbWo4T0NrcXJ5Zmt1QkxOSDN6Zjh6RGdJcTFYdllDN01zSHI0X0JBNHRPOEdjaGtPR3JQeVlEbnhLODdxeXBwTFJ2ODlmS25OWUVvYzRJdGNseldsNk1J?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/09/09/trump-iran-war-end-midterms-01069191?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlB6ckhOUjNOZ3VfSVNXTVBvQWlkLTRiWUwxLU1KZG9fT0t3QVI5U043NS1pdGp6UHpCM0hjTHFzZm5OelhkWVdZbkY3RnBBbEdCVnFTXzhJNl8yTW4tOHo5UzU3SEU5VW0xNFZnQkhCNjJzWVVWTmZEQUhsUVNYalpYNnpIZUo1S0UxNEF0MHFtalVablBwWFF1ZDE5V25OSDIzd2tadlZqdU9xdDFQc1YwR1FxNW91aDJKeHNaeF9iQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGRvY3RUVHlVT1NoWDA0d2pZLTV5TjF4TG5UOVRtZGhlcHAtVFVhY2pPVFk2MUJSdEl6U2ZZSjNTQjlJd1otUGNQMjNRT1BMa2NvNDlEdThYXy1DOVB0WGJEaS1FN0RzYVBmendOTkRXQ0hhdEVlSkpSMDRyMU5kUmprSWlwYVJJV0pMVWxXSVRMV195T2VJN0l3WGR0enhTbGN2N3BDbkR6a3pCV1hCZVFwM3lLQXVV0gG-AUFVX3lxTFBZVkRPczZnZnVlUEJVSFhpeUlhTDdvZWh6dHJ4M2VCd3VlbmtIXzVJdXhtdzhJczNpTWNjSmdsWU9KVWExWkZnbW1NdW5obUtJUDZZSlJqRkxocGJtNXJULUpmNWdfN1NER0dubG1BSm1XX2I4VVlsVnpNOWZEajZqSTlXOXdNNXNvMXhVc2tieE5rODhVWGtHQnFocDRmSWhUUXlIdmhJTHhXOUhzVTVVQjlrNlhrbWZMN2ZVZmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BV1lPNmZKWTRTdVdDWmd0eXNGSmlXSEpwSzNXQk1OYXdlVXhINW5JUkc0NFBrVjRSZ1RDSWE1ajlqd0NPS1lVMnB6VQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQSDF5cTVOZGEtT1BNY3pqSG03ZGlMWVU2OHVrX0Uzd1RvMDRnUE14cUFQYjhXOUx2eUdQdEo5YXlSckZqV3VTSmFpSjRCWGtnbHZNRnRWS0l1anQ2VmhTMGFISk9aM05hRHFSN2hFdGVESHBaM25QdW1SYVl1RGNtcC03YVgtWml1Ul9VQ1RMNWVPVFVjQ2xTTkgzdkM2Z9IBowFBVV95cUxQOXQ1OXdQbTVWMHhwRnpPZGt1SXBTN3JxX0NWYURlQ3F1dE1YSVpKZjBqOVFiWW9RQUE5am0xdFZQUVByaGZha1YxemlwSm5mSjhQam1xSVNPQndUTHZEU0NvOV90cGRQeVRYNjdkWEdMZ1E1OElCU2VVYnluUEdYQ2l2bWRtM1I1cTRIUG4wQUh6X0dLTEJWbFd3OGVSMVczVGdN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/world/norway-bid-final-farewell-king-harald-v-funeral-attended-royalty-and-dignitaries-6371966": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/9/two-rescued-after-plane-makes-emergency-landing-in-black-sea?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
