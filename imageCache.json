@@ -151864,5 +151864,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609090004.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/meta-ran-over-300-ads-with-suspected-ai-child-abuse-ngo-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/the-eus-israel-dilemma/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-09/corn-slumps-for-fifth-day-as-record-fund-position-tests-market": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YcDVqNTFodXl2YjYzSGlKSDJmQjl5b1NvY3ItLUNWWnQwNmVsU1g4LXh3VnMwVHZuZjVUczBPRk1IZUJxNldFT0pMUlZmZ05kOVNzUUV2WXdZUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQTUxSEhsWm5ZWk1aOHZqOXNDREtZb2ZGaXlZaHhmcWtVOURLaDV1emJST2VHRmVHd2VnMDAwbGEyN0xKQ29sMmFPRUVZQThweUtkQm9hdVFuWS16b05EMmZMX18tNUo3SVdiMjROUjRqVHlFVG42LXhsRjQtR3JLZFVSaUp5Zy1OMExRWHoyUTFGYmhCazVYc1RhU2FMS3k3YUtj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/tylenol-use-in-pregnancy-may-be-linked-with-uterus-ovary-changes-in-daughters": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxORm92N3BtOXN0Yi1BbGNjTFFZMnpfM2NzY3NMZFlqUmVVV3dLU1RnbU1DT0YwLWloWEpCM05CSlNZY3p6R0FOTHdiTVFoU0U5akhHMkpLTnFpX0E2M1QzSXhfRDJNSVh3WGVuUXAwZkRKT3dzLW9LOHFZMm1oQWRhSkZuMFc5bGlESWVBaXkzc2xvZGNJQzRqZ2JuS2lOQVBoc1hMUHVSWVVCWl9ZbHptTDlJcENCMGNkTzlNN1ZVQTR3cmd6T2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_the-case-for-the-us-going-back-to-the-firing-squad-090926?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWppMEpHVHp3RE5QSTVSUGxuYTBvY0Z6RWxLUEJVSE5mbVhxcVpsdUFnemZJU3JpWVBFdHRpYjU1UHp4ZDJxY0l6WWpRR3ZBWlJCSy1QQTFGQUhHdzJkRjdFUkZVdmxYYnZlZmtXa0tOYy10dWJYdndONnlxNVJueTlGclFkSFRVTURCaDdRZGw1NDI1OVBDOG45TDlwUGQtMG9aVzVKYVRtdjhQbjJydk9IMEPSAboBQVVfeXFMT0hrN213eURPazRHNE15SWJ0Z3l4XzNHdXZRb0sxVzZ6bmdTVVlEbjFkcy1rRjk0Sjlla1NRa1BUYlVIMjhTMjFjYXNJZDg3ZE5WQ3o3OHhyY3J3Q0d5ZTNmUHpTWloyRkRJdDhacnNyd0doNm5tNmhNQkNiS2VPR2JCREhmRTNjLXp6NjdnN3NtMFRpa2tQT1A4aVZkcVBUamdIdjJaelBUcGtidFNlUWpTNHpET1hCNy1B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlhPTmtJQmU1bVhzZjVFR2k5dExWTVJQVVRrZW1GdW1NQzFpN0w3VE1QQ3JjYkwwTmMzejFXNjk0S3JsUElpcTRtMm1ORkcwQ0VvUTducU56cWhVYjQzajV2YzN2amE1MmtpMC1WVEhJR211Rjkxd0hkbGlISl92U21wV3pBZjQ1QzJINzhUWi1JUkRIRkp3RHFjWmlFTFJUaWZF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWG5WVHhPbGk1c1hPS1VlSDFpaG9FU1BUTUFvazc3b2IwTkdWREJtQ0lKZm9kZjBtNFJXQ0M3TFNyYk9JMDE5Tk5Hd2RDa1RXcTU0M3pEYnRjUUdmcWNqTmlCbVZrYVZhWXdmZm0tSWQ3QldLMFhnRUEwRzJYRjFsUWJDSkRWMms?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQnJtRUpGelY0MERSSWduZmpjMnhCZ0pkUmV2VzdnMHUzcnM3VEdzMXZfdDZhX0RNRkw2enRDYk1lWE1YZkhTMFVOT3lzd3pmcFVaX1UtSVVGeFA5VjRtamY5VnRQQldjd09FRnhGeWx3VDNhNmxia0RnZ1dRaGVMNmg4YVJzYVV1ekZqVDdYNmxpdVFwRm5id01sLWs2UnFGU0lXVDBpZmpNVm1uaUN1aU8xbDJCMVZUdzhGVw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/geheimdienst-dilemma-der-staat-und-das-afd-risiko/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
