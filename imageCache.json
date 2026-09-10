@@ -152848,5 +152848,101 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "http://www.euronews.com/video/2026/09/10/latest-news-bulletin-september-10th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/trumps-iran-campaign-echoes-the-post-9/11-forever-wars": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/jimmy-kimmel-james-talarico-interview-wont-air-fcc-threats-1235624321/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWZ3SW1DQUtvRmJfZTBZSDFNbDV1MVdIOTFQNDJaZ3JVUXZPcDZ6eWhVenhYcnAxeGhyM3Jia1VFNjVmS1ZhQnFLbmxjQTBvQ21kQWZjY3FHUG9vYlQtbHlxeVpOY05yR2NyclRLX2VNMXRJMVIwemd2cnlBSlZVSA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/saudi-says-no-danger-after-khamis-mushait-alert-amid-clashes-with-houthis": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/behind-trumps-push-to-break-the-international-criminal-court/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/nfl-rams-bet-body-clocks-in-first-test-super-bowl-ambitions-in-australia-6374936": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzBsaWw0bmhjMV96R2NYbERCTDZKV2stV3R6bHVYRW81NDNjVTFNQlhIRUI2dEhEQVo3anNsOFBBZzlHb2J4Ym80SlRxMFpRSVVaTkx5bmZJRGRVLUFsTGhPY1hpUVRtbTM0TWR6aldkWFBwd0dpTzdpMmt1TjFCbTZhbHg4ZldIVl9fWWhxYkdhTlNHNkY5VHJ2a19iUERKcEYwWHRmY0hYVmxPU3FN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_suspected-ukrainian-drones-strike-dagestan-100926?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VdEtyRmpES1BnRl9zRGNnaFhDRzVZZFc4VWpfcm1ZRzVlX2dqQVV4eU1TX0xlVmxWT2F6QlZ3cUdVdnZyYldkbklOa0lab1QwMWJyaVFlUFFIa05WMGpnVmt2WUdVNGNGOUJUNHdRd0Rqc2lkbVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWTdqVXNQUUhKOXBqQ3B6cFp6ajFzb0pKT2pwT0xwNXhxQXFtSkdhVzBiUExYTmhrZU1DSC1qb3hjbjZrUVRRQWIwelN2UGVHOTVoM1pDLUwzRlBkTkU5S0YtWGFrSTdQWDh6eDVIRmZiVGFoU3drUk5PWTBfbWtGcFliMjhJRktuSnphSDVlTXV5M0tIQVV1NTNQc2xZV0c2Q1lmeWgzMEJkVUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wUGpsc21jUjJXYWZmTFlCM1ZlSUdHcXA3THNEUWxhTThxTjQ2WGc4NTZTeEc3S2dESjZSRkdxSlhHd2JVOFNHZW5vSl9VUHFvRWcyZWFBRFFCQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3317219/online-and-undercover-saving-trafficked-wildlife-in-thailand": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "http://www.euronews.com/business/2026/09/10/formula-1-sends-madrid-holiday-rents-soaring-up-to-20000-near-circuit": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/10/trump-every-american-gets-5000-if-republicans-win-house-senate?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/trump-says-activity-seen-at-irans-pickaxe-mountain-urges-tehran-not-to-get-cute": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
