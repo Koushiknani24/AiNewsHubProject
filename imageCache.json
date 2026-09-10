@@ -153226,5 +153226,173 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/new-60-minutes-preview-cbs-news-bari-weiss-1236694934/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/business/2026/09/10/italy-extends-diesel-excise-cut-by-one-week-set-to-be-last-general-discount": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/russians-about-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUlQYTQzM3diWEtCOWlxXzZvanZibWZBNlNNTWxfenFqUEZpV3I0Wm1paFB4a0J5SE5iRnFEay1aenZmaXRxSjZZMUpvZkFsZ1o2Mk5iT1NyYll3emVoNXlpWEE4cnlCX0RJb1VSS2o3REJjdzBwTUd4TjlLZ2NMUU1rRm9mSlNqelROek1RZzB3YXFYOWtKZVBERlVNZHppbmdiN0gtN0xJRlVReFhPQmlfd0hWX1U0Ty1TZVNqUdIBxAFBVV95cUxPMnpzci1hb2lfeHE5M202bXRyR0JvaXN5RmUtTXdsTDdKWEpzbGtfcmxkTlN5amFFcVpsamlXb2E0VlY3S2RoendoRzZQNE1EY21CeGpFWExmNmRmLTZLeHdVakY5R1NmS2hENnN2bjNtNXMzZW5Ubk1EbkhTZnJuTkZXc041a3RKajdCblJlTElZbFlrcmFsUzAzWDBqTjFYNlQ5UU45cXdvYmQ4Y2lsNV9uR2hPNTBqNGVjWUJ1TUNYVlNT?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHNLVU9QZmNuSEJaeXdpT0ltTkwxUm9zWGpuaTBFeW13YzBLVzhvN1NjcW1EWTBLbTM0ZnZtcFZUczRXR2pvaU1xbV9YcU1oUFdIS0QyUGxjNV9tY3NBOWVidWlZQTJZcm0yOGlBck5JWTRvenlRbFRWdWZ4NzA2bUp0MUJmdnlPYUFZalQ2eG5VMUo2QmhwQnkwWUNrbkNQNFJvR0hxV2VDMkk0amc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHhlZ1o5WlJoTmc0eUljUTMyS1ZHWnRZbXFCOFJoeUFwMDFjVjFHWFN5RTRQLXdBOXhVcE1lcm5vckF0NFpULXRHaTVURnZxUUt3bTlucERocXZkMzZOVlJKeWQ0Q1pOVmNnaDlkNlcxRXJSZklwcGRxQVU2VEF2dmxhSklpbWJqdl9XenA4aGl6M1dDQmNBSkRGd3d0NE4xblc2SVZhYjdxR3lOR1h3UlNpZmxvS0p6clpwT1l6S2JLMVk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/hawaii-five-o-movie-destin-daniel-cretton-paramount-1236696594/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/nice-as-fuck-10-anniversary-reunion-tour-1235624710/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/french-government-warns-tv-channel-about-using-expelled-russian-pundit": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYl81MExOYjNjSTlfZ0RKelVOUkl2YU1qR3EwYnBYTzVUN0NQaEJZdE5hYk8ycmQ0LWFmVDBhbFJOdDdBQXNXNERHSms3OTJ6b3FLMmJBSG9uRzRHYWRtR3F5NVFFRWpCd0Z5R052emVfUlloWFZ1N011aloyUV84aUNfNlJRM1N6Z09FREV1S1YxLVJyYTRYLVJuZjRCdEQxajVRZjJSRldpTkNkRUhjNmU4MWdNSHZPZXd2cWpJa3JoNjhPR0VLNlR3QkZ2Vjc5Qzc4WHA3SjMzZHp1Z1dseVJvLXFrOEhLZnYwOHk2UnZpTEcwZjRuN1d2eUJ2em9zX0tFTm4yaDlNTXM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWkydzMydkdSUWlueDNTZl8xcWFDOEh6eFdFQnF2T2lMSDBkV1dTMG1oSzl6M19ITE9kZEhob01zNG02cXAyMldVcUNKemo2cnI2SFAxU2JDc0xxMVB3aE5scWl0ZGtjTHAyS2J4NF9ISXdiTE1CbThORXZ2UVF4YWdReVFnWkhtakN5ekxxcFM3dHJrX3BORFJ3WW9GRTh4SG9wcV9mSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/10/us-supreme-court-blocks-republican-drawn-congressional-map-in-missouri?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/at-least-three-killed-in-russian-strike-on-ukraine-shopping-centre": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living-guide/foreigner-bank-account-mexico-expat-money/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTVTa0U3bzZwNHpxOEs2ZTBoNHJKLVVxZVcyZzV0RGNmbGRaQ2FTOTNjcFdhcURZYllTNXJUeTFNTVI4bUZIb3FlVDRYMDktMmQwMk9HcXVJa0pGNkJCSjQxTDBMTXVpQUhXejBWRGo3V1k0X1d0aFVNQmxfdXV3SVNUWkhteDNtQ3FORVluc01pM3l0SFRqU2wtajQ1ZURGOHAyYkNn0gGrAUFVX3lxTE1lZ3hWREtvY1hmeFlrUG5MZkphQVNqYmZHeGwtaWMybVR3TlVRRndhRjQwMHN6SllVc29tRDFIcHpaM1lIajlSS0kxY2pIZ0xaOXNIQkdaR21VQkN5RUlMNVEtYXVxZ2hLMnViOENvcVJadHlSbGN5OHk5Y0hwbjVFNEk4MXd5S3B5Q2kwR0lobXh0MTRsejU3c1JTYmVTek1nNm9KbkR3ZFBXdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUNJQ1FmYk1yeU9rX0YyOHJZb3VvVDRlM253VEtXQnFDenFSczQtQzl3eDM3OWE2U19ZbTdsd3VVcW9QNjhSQ2QxeUhyT3YzU05vd2U2MjZGR3dVVXo0ZEUxUG1qYnpHTTZwQXJEMXNCbEJPdDRCa1FzRVpIaVVqaEFDRlg4ZmUwc3lFMzd0MVpvWmo2dWdwMzFXOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXY5OFd6Q1NrVjl5TjYxeDV3N3dkZG11dzh3MTFTRHhoWENLMk8tTGd6dmt1Zmw3cFQzTjFidThnRVJ2Q0lMckVkSzBNZk16LVdZeG5pdnJCWVY5WVZEdzRCYW1fNEJKcXlHR28yWW9EOWNHTXhDMFBhQWE4Y1ZjejRMQVpXRkFXQ1VZdE5vejM0aEw2VEhBaFp0ZFpuUEd5dFZUaWxya25hNHdMZXNLMURDZDI5M3VKN2dkck81dy03WU04TzZSVkthdFB2X0Fn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRlVMa1NoRTFoNVVDVVFJZHROV1JEYWpYUHhOUDVjYmFEckFjMGZYbFAtSWtINGdYdVMzcWVYV1pZNDJoM25rRjRIS0o1M21jd2gtYmhwQWVpVjJCYUtCS0gxQ21MSk5nQlpLek9ucG5IS1RhTUl3ZC1xT29qUHJwRmRvY050LUpkcFhOb1dwMi15NHFUcE5yYk5LcjRGV2tsR0VLLTh2cEs1cE02dnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeExHUTJob2tydUJ2a3l1Q2tqb001aUtRT2lSR3VKT3lURFlnMjdPbjJwc0RoM0tTUzE3YzlDaGFYb3V1cF9ucDloRUUwOE1lb3p1QXZ1LW9qMDV1TlM0Mi1IUVdLMWFUR2NwT3B6U0Q3R1FBMDJHb1p1MXNPWXh5WXFtYXpBVEp0V0NpNHFLejBld1NLSWVCaU8zdHpPaDFCTVBLMEViTlFQOWhNQWp0aFZjdFMtY3V0MGlRaEVKTENBLUUyNDd1TVpxMXRRbjhKajBoTmdTbUVZT1EtLUUyNEVsY2NDTlVwTTdnbnRsX0p2SldRRFRqTFB4S0h2TDJrOHp3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/african-parks-when-conservation-becomes-a-question-of-power/a-78914372?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWS15SU1Yem5NRUlMcXYxSUZxZVNZa25CbXhOVVV5Tk50WEpGRTlOY3VYQlhJMHBoaTVKYmJaRHh3emdNMHVyYkFUNktFZ05FcUN5aFloQmozOTJQSUlrbnVNbWRhcE5NRGN4ZUU4VFVHem8yOG9NRWVwaTJLbHFOZEJBSzhHbXdNeE9iODUzONIBlAFBVV95cUxPOE1jaXBKYkR4R1NnOURkY1BmNTFVNXpyOVRPVnhlVFJkaVI0TUlkRTJ5OGJHQ3B3bE9UeTZEa0NyRmJ1MTV5cXFTY3JWdVMwYllTUWpFZkZaeEZUb2FTR1UxMi1UTU9NOVQwYlp6M0VxUDUySURhQlNHSXNHa242Y1NsS2RsZVNURUk0TGtYOVVpZlJV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/music-news/dolly-parton-sister-why-cancer-private-praying-1236696567/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/playbook-paris-podcast/le-pen-bardella-tandem-en-peril/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUYtSm1VN3UxcEFaampPR1I5ekNXSUFKcW5Fd1lZSzhCQmtnZF9CU2hQVGw5OWV2ZmlfV1ZGTEJFX0t5cG1SMGRrZUZUWGdYTXFyLVlfTm1XTGQtYy13UHVBOEFUYlN2NWtkZlh2MW5qZC1TUjJ3MEM1X3Q1Nl95ajM3RHBLYlBEZ3Fj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVTQ5Si1LWHRiazRvMDg4aDhJcnlBSkhDTk5VS3VVLUpMZ19FbmJDcEowbVdFNjE3RkZPckk3UlFYRzFzS2tQVDM4VGk2SjBhVXNGS2l2ZWdId0l6NFRlQnViclBzRzE4YXduekp4RV9Pc2FGNzRqSDJGUVhkXzFCT2xkcTJ5SEpmTHZ0VVdhS0VaLUctdnNQNk1PMEVaVWhLVG1TMG94UXR3bW9KdGRleDJoLUZWZmtNcnfSAboBQVVfeXFMUFhMcDlqdVhGRHA0OEVGTFZfcjBhRlVoWXY4SGZqZkdfSVRVcUVUXzZCYTN4WnpvNGpNWUx5bmRka1p2TFFOSGxkN1pSa1htTzc3VUlzMFBOOGxkb0hLTE16ZnlsREV2Wkd0RjFLa2tiZDhjU0lUampkNzRKQVppUWVjQm8yaXZKanloWGw5Mlhidk1uOUVfckIyN3Y4VkU5ZVpRTDdpS0llY0NUeTlxVFZ4NnVOb21PT1VR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHb1dHMVpJR2NWWmFSbnhCYjYzY2lxUVpXOUVIMGMyODU1V2dFRy01R2xpV2M1N3FvZ3RnX1JLcHh5a3dyaktET0dtNlM4cFhKbEZMbHVZOWlEWDhBTHFzS3J0T0dva1phVDJDaTlIV1ZUX2RtU1A1c3dZUTVJSWs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
