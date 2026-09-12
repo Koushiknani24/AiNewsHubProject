@@ -155224,5 +155224,77 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAJBVV95cUxPZmowdUJCTS1HRGROWU5oN2dGOVZkUXRlNlBrN3k3VFJHR2NzVVVJcEkzbmN0LUI0LVJ4S1dZM2x0QUd1M0hvNTZDbjk3emRwN3k4Y212T3BhLTlnamJlaWNEZjBLc1QxTkZudV83cVA4a3pVVEF5U0xxMk1QYmFUUzFLemZyQmkxVkxHcVIzM1VNcUJKOFQxbEJZQjlQOXFoRWJsN3pfbDgtTDJxdzlRX2xOclB6dXlQX1JvdWJqZzlzOUxvZHhDbUl6aHN4dFpiZXRQUGlvcDA2UzhsYVFqQ1BJSER2Wk9ubW5KaEhGSE5oNEt4cG5aaUpRYjJLX18tSmxxUDMyUHBYR0h2X2hfUXRtZGg3Wl9ucC1HZDVPWlR3SDgxVUJYcWRONzVvY2pHdHJsc192c0dISXdLM0pWUjFtbWxTWlFwZzB4bA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/archive-are-mexicans-really-always-late/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/asia/russian-attacks-kill-six-injure-dozens-in-ukraine-moscow-says-it-hits-ships-plants-6380511": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTXJ4UEdTd0lCTTN2ejhPQzdtZnUxM0pzUkQwM0R1SG5nWG9Ea0x5Z2xVbTlQNElmT0Nyd3A1OERCcUlGQkJsUUwtR3h6ZVRpNFRpb2tDM3AtaTltZG1GQmVvWmdQWHM3T2NhWldSeGdraFdwaGZXYTFWWDY2QUNTMTdR0gGWAUFVX3lxTFBObjFJM09CWEtHaXJZWFBEOU41WXIzUUJQdklVLUpnMXZveV9UUlRkRldxaFl1OWRTZU96aFQ3TWJaSGpNVWYzWjNfYlJaY3l4YUxGWml4dlFMYjA0cjRtRDJJY3FKcHk0WFJmOVJPaUxMeXZEblBVS3lHSlJFUlBKWXc5MURJWXpIeVpiS3RHVmgzVTV5Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/holders-us-battle-past-spain-reach-womens-world-cup-final-6380716": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/how-small-chinese-film-drama-dear-you-became-hit-phenomenon-1236690678/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUFlpUS1remE1ZGdyb3o3WnVlRkFaV3lKRlVjN3NoNlZzT1JjMHZ5Z1JRT3k1WnpUV0pTOUdUZ0RDeVM2UDNjU013OFRnWHZNQ0ZpLWY4bW9aRFdTeXpHclZxY1N5NXlvMkFsSjZUaTg4Z0FVUFhlQTNXRDk0dF81UnJRUHVwTXRCaWN1MGRjQnJfa2QyeDFvclJPQ0lTTF91dWcyUUhnNzh5Q2cxazZXQ3c2QWY3cFZNLVZkcFB5cUVSbHE2OU43Q0dSUFFTUWtUclV5Qi1BNHFCRDQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUJVdmZzRjhhZXFCWHhYMXhRSlJQRGdySlNwQW41dkJaRXd1ZnBlbE5ZR2c5Wk5xYTNRRzJNRzUxTF9oN095Mi0taGRZaXpOZVNtYlJVSjFpNkV5NjBuQXBmb1dTWUs3RmNsQlVPWEh5WnFFc0plcDNnUDNjUVpiZUN2M0VrX0xQVXVoLXNoa2hQelVfa19LX3F2R3BwTExwV0JkLWJKNFRMd1BJX1k0VFJVUkLSAboBQVVfeXFMTktuU3M2eUZqUkt0aVBWRGpUQVQxZGNRRHVfTG9CMXlGbTljTm43SkFYVWR3UzBxSGRyR2tOQUx6M0lvdzVYcWNsNnBVNVhJR3FwRUJKRmszaE5CUUE2UWk4dDJySHcxTWpsdjJZbnVYYjRzOFpOQU0wZHVvT1BlS2V6VXpQWTUyYmhfRHJyWkFfdS1JSUlUQU5WNnQwNDYzSTdXSGV5S0xCaTNqTE83YjF4aXViNnVtMk53?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWs3Zy1ZTUZacHNJYXZ6N08weTlYSVAzS1h1UlJtOGVYQk9GVFNsXzMwX1dyOTVqV1Nyd2ZUeTFsZkEwOHNhMEhsaU14OG84SmZPN0xEdGdueHk5M1dCRERFSzdzaDRRa1FkX2F5S3RCVFcya3pBWnIzWnUwNVZCR0RlYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
