@@ -156352,5 +156352,179 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/14/poland-and-ukraine-slam-russian-strike-on-train-near-their-border-as-escalation": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/09/14/latest-news-bulletin-september-14th-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/14/saudi-pipeline-shutdown-threatens-oil-exports-to-europe-and-asia-as-kingdom-relies-on-stor": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS2V3Z3pPZUdSNlpTWnJlZEo3SEZaeXNpZXFydU5LNkpIZkVJQWV5WUtaZlg4S1l0cUU3R1VoRlNmTzdxZ29CZjdoMFktcXl3MnhQMm5GNGVJbE1Rc2NrLTRKN0p5VVR2RHVtWEFNamVoNFdmak5taWNiSmN4TjltODYwVmVlOEV4TzMzS05BRmZFNnZ1amU2M2JqVERXM0h3ZjRGMFA1RHo5R2Q5NXRXcTZuZllNTHpsbzFuVTJmei1FWjR4Q3VETFpZdHdEejFDdjhTdGh6dUt5U055UHF5aHNOTEQyWWRpMmxDM1lScUxsbVZ1?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-nuclear-chief-blocked-by-us-from-iaea-meeting-in-vienna-state-tv": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/merz-wins-respite-in-german-municipal-polls-but-tougher-tests-to-come": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejdvNWdaNWZQMXRtNVcxX0w3Rk5KLXRONVNZdEJaaER0bFFoUXMwb1dqR1RvOTNYTldnenh3WFZaZEYxMXVENWxIeGFUMjJkWG5YT05GNEVLdkFUZ0hnV21ZTzB0NUlGN3AwN1MycElyU3lIMDdnQXJ5M3FkMnBWM2Y1dnZlMGhyVUNuSDZZcVZxTG1tajF2SEl1WTJ5M3VtRjZaWjBHYzZ2QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/can-iran-replace-sea-trade-with-land-routes/a-79211179?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCb1EwdmdyOHp5YWo3YnR6YUhTbHpueHBLa1dhaXZ2TmVmX2dHRzI4c1FqTHdjS0wyY3RUM3NZU1FCQnpJcTNJalVwUzRtallrUnJvMHln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/14/yemen-govt-forces-advance-in-taiz-as-houthis-claim-attack-on-saudi-arabia?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkRHU1FpVEVJSlFndVMyYmozV0pockhhLUp2dktLb2hSZF80M0tuRWZBQ1NDbzZPdzRyWlVrR2IxTnE0V2pSN2YwWk9zTTNJZUhJd2s3cmNtclNnWVpEZ1BfYmQ5US1EX2hPUkV3NWxHRjdVbzVyVFBIX3lIUjVkQmotazVTbURvMXpGYkl0M1NHMzFkVmlWSjBvVF9DQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeW42UzR6SzJuajliV0lNaTJFVXAxM2dmeWZrQUJmeUE1Q1daVGlnQjR5MzYtUkItX0xGUHdDUGpBSUp6TUxxS3JYaTV4endoY2dFbi1fQ1ZvSlU0NENSRV9nWVlpV1F3OHRxQ3dXQTRuQWY3VEUwYlpVSHFCb3pKQldQMWx6NktoRUNpb2kxcmFWcnNUeVhXSzV6c0labUZNUE5Eam4wRmg0aEJQekRPQm9NYUZxbHRGRExkZXNWNGI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkdWRTVPYmhhU0JEMzRYay1oaUF2Wjh2bllaTmgtSUE3QlpOZUtaSWd2WDVoRnkwYmZTMVlSZ2E4bVdYdl81TXF6TDRqbURlaXMyU3ZOTXFLNlhaRE9qTms5UDJNNC1tQy1POVFjUXBqNHdXQmZNTHJKYV84QWp0UzNTSVhnLUt3dUZVUVZqT0FuYXU4Y0F1OGFVOUtaRnJVUG5qYTYwSXJCa1NEUGJUb0VyY1F2WHlkQkHSAb8BQVVfeXFMTWRfblJYLTZiSV81MlE0Vjl5NmhiRkFYdFBfTjZGck5MZmZRUHZpbUI1Q2lwclNCVXNjNUZSdFdYZnFFVkpXT2ZjMldOM1R5OVVWOFRRdllvaU1fcjFTQnIteVJQWnlWdktHREV4ekJYcm9IYTNKR0hqVHZnWlF3UHI2bEhWMzNKbjYybkN4dXJrVHk2Z0UwVFZoYjluVXpuYW12R3ZyZnJMQ1Vram1TUWNCbmFpRVdCTjhxTU5Xa3M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPalJneUQzWl8zUWVJT0pKWnRTcnpscjg4NWkwUEgxbU0wMW1GaVNIMFRmTW1DbklSZzhYUklJVXlmcnZwNk5pV2d3QU1ka2lXLVRHNU81dG9TMUNKR2U0WWwweFdEYkxmbVBFX2Z1WWN6ZWpWX0hqbEc0MTV0dncweTAwdlQzRVAtX1JFdjZSTTIzak9TZDBuVUg4TnM3OWtCMXlSZ0lSQWdlVEZOR2hYdFJOcXRGOXJxRmVYV2N3SWdkaUtQa0l6X0VCVmlVMDAxbk9V?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3319434/appeal-court-upholds-class-action-tilapia-damages-suit-against-cpf": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlNFbF9FZE9CODFNUlIxOG9xLUpMRWhOck10cmF6WEstc0hjUDFlelVFSmRLOWFoU3pQWW5lYjUwX0JIdDMwTTlFM19HUGlTRVg5bE5oZzBndi1sNjJBdzJMWVVfMHIwLWppNkItRW5jRlVSd04xN0dFU3ZRWjJhRm55VExDSWtoMWw0eFB3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdE9VZGV3bDdmT0VlU2FRc3E2TXBHZ1Z3alk5Q2ZDQnlnXzJaQ2lqNXdaeWYzUlN4TG9EUlhESlV4Wm5Xb3p5dXNfWFAydXZEM1czcWFn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-14/ai-bosses-risk-pushback-over-calls-to-slow-tech-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/left-edges-ahead-in-swedish-election-thriller/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/yemens-displaced-long-for-loved-ones-stability-as-houthis-advance": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ29hdGk3VHJGNENXcVpEYVFIZ3NXRDZ6ajdfaXZXbzNvLXB6aWxCa3EwaWxOZG93MjE0QWVTRTNhOVBfV0JYTFljbmdpRGZxQkRiaDVobWFKVWM4cEpUZFpvdkNPX3dZOURFSGtDaXowRnR6d2tndW5RZDc2VFRoWXNRNWpIcF9PTmtGNmxNdFpHR1d5X0p5c1dtd2dfV05yVDltRkNmMGNTeXJiQVJqaXh0V2o1VUd3Vk5rUUg3QUQyQWRpSW9ONGtxMVRaRVVXa0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZUpNUVBGalk2Rl9JelluLVR4alBqRkliQ21ZZ1VzQm9mWlZtMUt6Unp3UWZ5YTlUU2dCanM3ZVN0VklRTnhtRjBrOENNQWtDTENQN0lhVnRRUXV6RzI3dVJWUzMxMGtQOVEwSFhpdTdjSjJ3NENReHlMR2VaNDZhbGNCQmM5ZC1rd3JxcmF6ZmtoWURLSFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOREgzRGJDaEJ0cEdwR1NhblVuNjNEclpjV2ZBb09lS0NGeVlBV2drQjV6M085bDNudWFMRXdlTHhidE1uSFRLVUtlUll1YmRXSHZJRGRwU3AxcEVFcGtaUi16TWpVUGwwVVZnZHNsUXN5d0R0NUFrNFBRcjhVd0VBZmtB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV0NicjNXa3VzNkMxelRibXRxLURFS25BY1Zxem81MlNlVWxJeWk2SXF0bHZ5dzR0NDZKcEhhamlLb2FkanJoM1VkTUg4T1ZjZ0dvc1JNQjVtXzBEU3dtVlVJYlV2T0dnLUFJSU8zWEt0RXhlenhYTk94aDlndUtPYlFvdnJ2cWFBcmI5WEpjX2hfWldZVlZ2NWh0UENuNTZ6MjlPd3FnMXB4UTRDdDRJMjJrUTF6dnZZVzJ1ZTY5bHctcFFMZmJ0UjRKY0FON3ZVbHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/9/14/lamine-yamal-says-he-deserves-ballon-dor-but-mbappe-his-main-rival?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1BQeE5iWG1wRV9mMmhiMkEzSWZtdHM3ZDZ5RlZraXF1Snd4MHBjWGpqa0JuMnQ0U0Roc3VlaFBQU0dyaHdzaGl3aGk2RXFOSmc0UHVvUDg4R241UHQxeWlPNDlkUmhQdEFVT01ScnRQdy1WeHctb3RYWEFTdW1WNURndnBxZVNWQWV2VGJjQ0FqLThzdU9aa1RUN2RfbjBSaG1ZT29RRVFoMjJJdThXR1cyNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjl3SEhUdDhMeGZoNWh4aVBhYkdpclA4TkpvRzJNUzRyQjA0YnpHb3hZVklwSExUZW9icktsWHdQaUo0bW9PbVB5QkFhbTRDQWJXS2RwRmdRVXNISXlJSDFUcFdTUVJIbV8yNENzYmdxRGx4U05DVkdvUUxKM0ZVa3ZiMV9adDZTdzF6VGdpamlDcEJVU05FVDdKR3JPN2hMMmfSAacBQVVfeXFMTmExcWJMb0ZmSnZhLWx6dGJieFVleHJKOFFkendvY3lMb3hwWWNGT3RENnJPQzV6R0xULXdWSUphbjVGZW5fMjRUQjRKdGxVU0pNQ3pESjN5c0FvTGgzMDBFd2VmbGhvM2l0dDczaklCT1FSNFFhazl1THNFU3YzNkdDSkQ5VHJXN21KaVZ2bGY5ZUdVWktOTlRnQmVQdjM4SERldXFQbTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzktYVdWUndESk9zSmhqdlhJbkdVdzdHWGh5a3Njd0o5d21WQUdlUGtHQ1h6blBQeW40a2NQS2VDVjlIS1dvcUJBU3d5cDNYX3N1YnBKOEVzbVBVRmppUFBZM2lBMVcxbDNpZWJaYVl2RThhS2RNZlhFNlRHdlBLelZvcUxNbFZ5Qi1MUjFRTTY0RC1aN0Z4QkNzeUp6cDNSWmxkNFJ1VGJDQzJHZVHSAbMBQVVfeXFMUDFRYU95bmtPcGRialBJZTN1LVgxS0lWNUZkZWJHdkYxSkhLdlloc25hRjRhSFFnS2RSdFZKU0tmVE0xWjJDN00weGpqdklBTWZweGVneHhPMTdjRmhsQnBRa2pBU1Z0cGR0ZnY1ekVoak5iZjllTEpyTWlIcnQ5ZnhPVnEyQjdSZVYxc2RuZ2YtTnU1MTdCR3pyWV9IUXAtRzlScmtweE1YbFZGNzNLdVZYTGM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
