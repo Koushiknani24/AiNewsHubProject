@@ -157672,5 +157672,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/09/15/nyregion/data-center-diesel-fuel-spill-new-jersey.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/germany-us-sign-agreement-to-deepen-defense-cooperation-between-industries": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/iran-war-cost-2-billion-per-month-congressional-budget-office/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNclNLamhsck5Dc0ZCc19wTFlQendqRloxLXlXdmRDTmdiTk5hTTVBaWZYTnNneXBUNC1DbUkxYmhGUFNnVnQwSjlRS1h3MUh3blNrY0pzSlVLM1M1NnpGdXFuenhTNVV4NzRYRXk2WTB6SmNHQkJRTmpnaUprYnpScnhFSHpiX3ZJQlNxMTludFFVVGpLb2o2dm9XT045dS1TUzZpTzl2YzB4blYtcFowS3ZVTUVDbzhxbUhmNkhZejRmdDlDeEtfVTM1a3RYZ2NlZE9yaHNrUUdmUHZZSXBRR2I0LURJYXVyZWctWXpud25PcTVKY2ZjSDFaOUc2TlZfTHd4X0x2emFrTVM0U1NyWlNXbTZLaXJ5ZG1qZjJOOTVjTm8wbGc4Q2RleElUMy12Z3o2Q1dDSFc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/industry/cons-products/electronics/consumer-watchdog-steps-up-probe-into-apple-on-ios-18-software-update-issues/articleshow/134272519.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc3FGLTZIekNfMjRVVzE1RWRDRlRTZjNkcWlCM3VUdkpYRGw4VDc1QnBsNVhpMjN2OGRSd0ExWHBaVEw5endORjFQbDduTEt5UWJOdXVHcktpWUJYTHIzdDhQbXNPOE44ZkxJZzBLUnB3d2hkUklHckZKbTBJdjJyaTQtcG5la2NIbEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mnd-local-wta-tennis-international-film-fest-more-events-guadalajara/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0F0NW5pWDM5Y0VzSnBEQ2ItU3Z5RWUwVXRDbDlGTjZ4X1BpZ3RHSHhPV0ZrTTYzWGFGUDhlVWw1YUJGUFBMWTdwTExwUEw5dVV0ODNoMGJuLWl5ZVlvZUltc2ZLNW9DSy10aFJKTThqMEFNNmtxbUkxdUhhc3ZpSFpELVVUTEY5YlExRERGX3FDZ29zNkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WQm5VNXk1aDhjbU9DR2JHa0tVVTNNMW50MFRuNHd5MFJmdUJtQjVRS2hDUFhfOG05SXc0SGF4NGdQanRhYXpaR3JwZkJfOU9oR1dCVkFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/friedrich-merz-cancels-un-trip-amid-germany-political-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZUV3MGhHd0dLaE1mZXM3dGNRY0VIRl9rbTZzZ1ZyblMxUjlPYm9lbEZIQTBpNV9XNkQ3QlJBSGpBODN2MUlYNkIzWW9CR0FNWjBzQ21oZjJLSTVaTkhyblBVZGh4cm5sM21yUndsQzZuUlFqSE9OeVdScDlSMVlaWV96UkJiMXh2UGd0czNjaV8tWUtfVVZ5X2V3Q1MxNmdQbEFlWHEtamd6Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/mexico-city-airports-sept-16/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2xXVVJmME1DVUp6ZmVSV0o0d1NmcFBRUmRMc25USzBHMHJXQWxRSEJvc0JaTjZXd3hkcDduYVFRYkFCRDhMS2k5YjlaUlN6d3c1TFhQYl9PRi1VMjdRTXlodVozaUFNSGJQZlRGQU1oVGptZ0dQQWtIMEdURVk2S3FRR09vN2pZRkRlTXVYeTlxSzdCY0tF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNEMyN2RyVXQtaDlfRVpnYVQtWXdLaUdEMHhqNmJ3Nl9CYWZpNVg4RzFtcXVmS0hiNVpKeUFHT3B3YzNSaXptZ0k1RFBIS2R1eUswU2Zka2xYRjVNRWw0Q1VObmF1NzVUYk44Sm5mSmdjT1JnUlFtbTdmSkJYa3ZRT3pMSWszU3J5Rm1JUnVNNGs3Qk1SajJUMmRUa0Y1TXNpZ093T1Q1bDlvOWZLc25UN3pDMlhDYUxQOWJwS1dFYUJxcjUxZ3Q5SF9SQ3NxVERxRnFnT005bWt5S3FkVkJid3NVT3EzLWlYd3MxV3NnZUZFbjA1bUZmamtSdVQtaTFmem9HaUt3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVEhUektjMHFLRWVoSFpFM1hkVllKc29qQUwycWE4RmpyZXdCZjZmeHhmUWxheS1TVHZ1UFRwOHRFZHJoVnQzTGU5bjdpS0RLNm9sU1FRWmVxX1R2X1hUVFRCTEZBN1V2MWJSdHQ1amdhSmpPclZfUE4welg0cFh5UnY5YnBPYjltemhGaGVzaV8xM1BnQWpVWDVqVFd4emlhM3o3NVJ0RVAtSEVqUnFhOXBld29qNGpjLUN2OVpMcTFmTUs0Y0NnU3Nn0gHSAUFVX3lxTFBibzlUaFFRV3VvRENjeVFYSlBQUXR4aXhONmdqU0ZrWjBEQWUtYk1Qa0VQYzdPXzY3SmpUaWRYMzh2Um9JT0xaTTlxZkJmRlYyLXNvOFBodUFYMWo0NjNIUUVDOWxuZ3FpcWFSUjN3WFhFX2p2enZJd19JYV9FcDlrYVFubG9xeHllU0M2U2pGOVA4Z2Jja0UtVnp6RHZNZlJyTlJGMWhyWWo2SFNDR1BhWVlFS3dFN2hVTnNHYTZ3ZmxGN1JDYk5DUUlMUGJEbHdmQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnFkZFA0ZlBuNWVOU3VVTmVnZl9QSGllSHdNWE1QRjZxREhxRVpLU2N2NjZFV01XOXZHYU5udVhKY3dFWEhtTzMtRGZyVjBYaWN3TmgxNkVJSHpVWEVQMktpLWNQZGdTRlZlYng2REVhOUhJMVNVN1dPVGtTOVFTTFpQXy1tdjVQdGJuVVVwekt1dDlOYlZIeFV1Zm1ySDlqUUNn0gGoAUFVX3lxTE94el9JZEQyY1QySFIwMml4ZDgwUURiTFRkM3J6QVJxSVRYZGxPN2RxZXl6MlpnZDRubzIzckdXN1JmUjNLa2x3NWpYSTJHVTJGdDFhdzluMXFkSDVJNDFoeldKQkZUVHR4Z2lCS25LLUFHM2UzeU5CR0trRWgwZU94b01waThlVUpjdTBGamtGTTJBMGFRZ1VadTVZNXpxWFhaWTRqckdEQg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdV9lZDMxbHhOT2ppX0hIQThrd3RuRXRoQ2llZnNaSEV2aFBTMkgwWDdjZ3l4RzY5SEtGUThCU0dtWnVTMlNxT3lTZ2lVenJVd2ZmNGJ0akh2cWxkUDZzWElobmMxbmxEQUN2T2ZJakgwMnZncXdMYlZVc2UwSWpxdUNoR3l6bHRGai01RzMwSWhLdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE83OFpOcXJrZzBiLW9GM0Qxblk4MWZLREFMTXRuZTJDN1hFWFE4c21HNG8xU1VVY0xxZ2c0cUR6elZPb2c2d2hmWi1QdEpUdlZadXJTMkVyTXFkVUpyYjJvV0xTa2JyaldUdXVoYk95SFJJZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/why-do-authoritarian-regimes-target-the-lgbtq-community/a-79276831?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNzJwYlF2SHJCV05CanVwbTBEWWMybk5VMFo5M1pfeXhUdkFDQlB1R3JNTXYydEtma2ZFZTEwZ2ZnODhpMkZXbXZIUHN3SU15c2JxRTZMM1c3YzdjZ1BsOHBQbnJObUFlcTc4dVVmN3ZJU0pLa3cxeEZPTTdNSFF3V2NsRlJHWE84cy1fd3NsYm5oTGNLbmJ3MGVhbFlURGUyd0F0cg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
