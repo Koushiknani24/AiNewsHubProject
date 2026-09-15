@@ -157120,5 +157120,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-15/horizons-middle-east-africa-9-15-2026-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-15/axa-to-focus-on-organic-growth-ceo-buberl-says-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-15/hong-kong-set-to-unveil-first-five-year-plan-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlZBMDF4bThRYVctUzFSbU53amRjZWVRZFJvQV9NcU81bkJldWFHeFNEc0NwQnpfWXdaVW5LcVdJTmxVekdacmh6LXVFdS1UYTRreWwtUEFfSkpER0hmSW5yd2FIYTZvMXBVUHg3X090R1B4QS1mUkFsb3JiMDNoZ3Z4Z3h1ZERnQVRDNzlSckkxREhWZWpuWVdMVWdIbG8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRDRENWdpUEUxOHJRR1NBQTJiRGRrVG53Y0VITDYwaUZuRzJhRWJBRm1YWjJ2MncycUQ0T1M5bmdrRDVyd2VwZFFYVGd4eEctbk4wb2d0bWpWZWV3NEVDTUxzcHA3MS1yVUkxYXJabmVFYTJmbmhFd0E3cm1uUWpEVnIyZS1iRXhBNkg5UWxEdTI2Wl85OTJJaWQ4WFZuN3Fia1JVZXhsc3JBck1MMEhnRjdjZzcwNFJlMGxRNE5DRGltTm9ibU9aZUtoOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUtCeTFCbVRHa3BkNHpSRkcxeHl3cUMwVHl6c1J4Ujl0bndYVktkalVWMGRZOWZNcHk2NXVQODdpNzRMUENVSnota3hTWkRwNEtmYVQ3ZEJYZ1hkSm1ld1RFck5UTEFTOFVUc0JTeS1adjRwaHozTjBiaFZmMHpUWEhneVhkMVZmYmhKUTdhRXo3T243ZGhSbnJvOXRWSnNteC1SSjU0Wk1kWWZSY1dyZmZlamNXdUp1T0xucW5oV3h0enNrakNZNmZBeG1Gdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609150115.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/west-asia-war-live-updates-saudi-arabia-houthi-attacks-red-sea-us-iran-september-15-2026/article71466658.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0tleXVjV1lvaEptYzRVVWg2WEF1MU9xcUY4em9KNVpIOE12VEhjdHBuMXVhbDRxQnFUMFhyYkJFMmFldHZPVDV4T21iQnhEa0l2c0NMVjluRTZUTktIcXh4VGhWXzlac0lHZ2pULTRvbU0zaGc0dWxuaUM3NFFEMlFmN0VlbWhqZGNaY3NTaHF3OFZzREd5NmRKRmZzOHhzZ3NHVUt30gGrAUFVX3lxTFBMdGxJTEZTdnpTU2lfVXhSbmJKdWZYNFhtNjBHLU5WUE9mN0d6bjMwbDU5WFZrTEVoRnBSYlBjUWkxbFJnVlhUZTJWUm13NXFUT1BXdjBqN3RQQVpSVllrbUdfd1o4Q1dLT1AwMGdtUFF4M29HOXlLVzcxbUhQeWk5aGhnUUliZjVmQ2RzUm9hMGtoT0tHNkc5TzlZdkQ0dzlQbTlZeXJSSDRHUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3319970/remains-exhumed-moved-from-unlicensed-jewish-cemetery": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmhmakVSTFNjMldBLW5SbDE0UUprY0k3WTVRTkVYRFRWY2JvcGJGWFlWUGhmYVlEZ0l1LUFjV1NYMUpvS2dsMXYteVJ4RkNLdGFna1ZBaFlRWVJ0WkFWd1RNRUsteDJ1RWtxUF9WU1ZBLXNZelBKRHpZU19vMGdYTHlHVzFQNHc4NWxuTm1OSDZxSU9UNWxsSkJ1SGpjRnhhOXZEVlY1QUlvRmVNcE5vTDZQSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM0ltTmxXcHZwN1gwT3VtMk5HTVVBTFJCMUt4YnNlZDR5cDVyUEY0YmY2cDlXNEp6OG1VRXZnaVRsblp5QUR2MFE5WWJlSmhnZDdvRVJ5ME9RVjdzbmpTQUpoUjQtQUl4SktSQUxUVzhlZEpnSkliUHNseTQzSS1wYmpLcVY2aGRrR3h4Rm9XXzhQQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/ukraine-races-to-counter-russias-jet-powered-drone-attacks": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlZZWFFOcWY0LWotQnQxTk5Rd3MzRVl6NGRXYkQzUUVtSVZiNURnNGVOUlYxS2RxVDVGSDdmcHRLWllzUzVuaktmdlIwT0FOb3EzT2gyaGZCZ2ZhbGJHekMtTGIyaHQ3YV8zQU5JZGlmaFBQVnBUaEh0R19Odm5EVWFDSDZIQTRtRF94MFNUOGlCcmNMeFQ3bG10dFlJUXJkelpsVGNUR296cDIyVzdmYk5CbE81dmkzeDF5Yy12RQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1E1Y016MXdRQ3RDZzlXNXl3ZlE2ckNpRWdYbUk4cGpITEFwWnFQbDlCc1pOZVVWR0xodml3OFlrYVZpazFyQnBCa0luMU8ya05mbTRDTlJ0bWtGSFFqMFg1cV9ZdUdnR0x4NjNUUEg1YlFYcENyOTd0cWNOQWl5aXhFdG9HdnNxbDZuU0plSlh4S1RUMkFOd3ZfZFFCQkxnWGl5TVl4TTFLUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWem5PZUs2ZmR3UXFFQ0hfdGtCc3RBY3ZqSC1wbkxmZ3FrMG1zaHFTbjNrYWtkSEt5eGY0cWFHSDliTFRLNEdDS2hpWTZrLVFna09nY1N1T2RsSkl2dEtUMTZENWdvUzdGN2E2QlRaVjZrNXlDTFotTjhtQWZONFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/9/15/leeds-united-defeat-newcastle-4-1-to-go-third-in-premier-league?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
