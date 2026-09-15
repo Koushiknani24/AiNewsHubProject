@@ -157822,5 +157822,173 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/jon-voight-hollywood-ambassador-trump-production-tax-credit-1236702881/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-15/rbnz-assistant-governor-karen-silk-to-step-down-in-december": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/cinelease-quixote-divisions-1236702667/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRUNrczdZUlgtYm9zSzc2MXZjUVVYeGZTSk5YRWtnR2dON0R4YWxlbnFneDRMaHc1VmZrMjFTSjlVTUF2TDNGODlZdEpGZklvaUZXNDQyNjVoTWJlTlEtY3U4ZXFLdTlfQV9rWGJSSldnbWgyUllmNTk3NWVSdnRzcGRXVnZnbGUzWUJ0SGpFX1E0QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/lanterns-kelly-macdonald-jason-ritter-episode-5-1236702871/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlVLY2VwUXBYdGZ6MUJEWkNCbkE5VUpDRUk1YThfdFQ0RjlKVUVCb0pVR0hWVFNJSFhZUHZxRG9Ea3JTYjlybVpKdlp3QlNwcHUwaE5WMzZRb0RMZEZkV09MS3pVeXdzNGFiYmlUYnppcXRwWnZLb1JMOWhwQnFNUDR1amlQbl82eHZlWm9yb0pzMk5f?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/09/15/nvidia-jensen-huang-ai-safety-01078081?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeVpFenNxUUZLbGRjSGtyY3NkRjZNamRzYWw3WTl2S1VGYjVyU3NrUVZiNGxMYkRvQWJUZTlmRkduaWdJeU0zSmFrY3hOMDFKV2FrSVZJR3hRQlk2U21kQi1QdFdacl9EeVR1NWstVEEyVlF6SmNKOERuUUt3WllTSnppSE1zNWhseC1uZG1MUG1wQjVBWTZPS3JTX0FzcldmZk83WENaZmo0eURyZ0HSAbMBQVVfeXFMTVZkX2ZjMVVteUFzUTBrWG12WF82S0dLNTNYeDJxZDVNay1kNG9Pc0JCMVhHeWhPOFdNVUFvYnBNYzNCcUNOZUh3Zy0tWWtrNFBPbGZXSTg3R3BnOHIzUE1BVlJRbVJZVFdqbkV1OHRmczZBSS1FSmhEQ01vY2FIQkJRMnVHWXMwN0R1Vk9Pc2tJMmFVM1BsejdBc0NPNUt3WmdaNmpsRVRqc0tVSEFqWExhNEk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVhDZExRQVFwS0Z2Y2R2S0NOVHBQbTlYRDNRend2REZnRjNNR0ItMTJDWUdpNmVVUTVmZEEzM1FXU0QwOVF5TGIweXFoMEZ6X2FLVHNCNGxYUWtZS3lNNU9oVHNaemhybXBueXhqN0QzSmxyQTh2bVhxeG5qNnpmTlZOb0RfbGoxX3pfLU1sOF9ucDB3SGl6Rg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wc1ZVTDV1dXdmSTdoc2NERG9LeUdkSUhXOWVPbWlvN1FVb0NueUdhWlM1MVpDejJUMFV0b05zX2NVRnpFZVdUYzRIZGZ3MjlBM1VmRld6Tzk1eXZrOE8xWHpXNTVNNko4V3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0dWd05uQXRiUUk0Ui1ua1ZfdnJQLXZlUWlRczdaUXpTalhYMHZ3M0dIUWtYMmw0UHRUd3V4MzhGYU5SaEZOVUZGWDNzYmFTZjVzRFBTZHJudTZ4bWdpUUUtTmhBRVp0TmxSWE1kY2Q3MjVQa0UtaUxjcTY4Tnpic3JmSW1VcjdEbmtkal9IbGpyZGlldWhhUlJ6Z2NtekE5MDRuYk9vNlg3MENUamJEbEJwN014U3FQdjF5WGdTYkY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/water-borne-brain-eating-amoeba-merida/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaTFNclByR2JyRkNYMFFya2dLNVZMM0R0Z0pnbnFRMm53LWxlSVRpdlU3ZHpnN3B6dXVJOGFIcTJDcVpmSEs5V0c4Q2NvMUV4SkFVUGp4RWxOSGpQWVJpbmxVS2lqRU82OThQbUlDOExJMnFQYnkzdmFjTEhSSDRDT3R5N1FDanVzN3lkMzROWlV4bXJMUnJWTVNuWlc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/trump-keeps-up-attacks-on-mail-voting-but-election-officials-more-confident": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbGRseV9ZdllzRFVGSzl1SjZOdmhJbmFWZVZWbHZIakRZak1qdW9RVUZHd21Jb0h0Tmp0VTQ0cWZLTjBvb0RYOHFINi1EOFZXT1prRjN0eTNBZldTLUNUdzZIVkpEd25iT2hYbTZORXNLMVhmSWVLR3Nkdy0xNDNwbVNlSWU2Q0RVaEExc2NLRS15QWNUaWtIdWdDaFc3c3czUm82QXpRbkUyeHlxQnBRa2oxRkJWNnlBUGVuNDVtcTJVQmh6Q2NHVUxDbmJqZ2hrTlVGUVpfZFROcnJ5OW1EZkRBWDk3U1ROMDlUeFpMOS1oU0t3TVp3QU9n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWk9QQ3dmSURCWUNtd25WekhyWlN1OHhldGZ5N0dSdHBHZVdSVkd3bkpRckxVQk13QW9FM1VWak9MZHB2YTBqbXNiVXFZSktqbHQ2MzVRYlc1b1owX1lENkVCVHo5Uld0UFJuVEQ1YVhmMzZDUXpFYjQ1dzlRbV9MNlFocmNXNHEwNDZrMF9HNDhoQjdJV0NuT0dZWk9laHN3aTFhR1RINVFzNXR1eXdpenFBWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/15/us-to-divert-52-million-in-military-aid-from-europe-and-middle-east-to-trump-friendly-nati": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3320318/new-centre-to-combat-invasive-fish": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTldvMGJXaGJHcGN6bWExOW1fcmV4OTI0Q0JxR1VBanQ3TVFHTkZGZmxEZzhlTFNCSG1NVlpTRXpZbHhSTkhKTEVKMlB2UzlGalpLRURQRVp3YmxEaEs4bGQxTkxiSVFKLVgwQnpFSUJfRTBOY3FjeklPVV9fdG95cDdaTkZMVWlIeENqejFqVms4WG9NOEpWS0VEaUc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5OVlCemVneWQ4cmYzS2JIcjBmZGI4VEUwLTV5QmZDRmlrNTliVkJWblkxLWJRMFY0WEQ2MEI3RXRYaUIxVDBMaFZqbWg0eWlhZzZyWlFzdV83Vl9aVHg3MnljekNnRWExT3RQMVJ4cW1KMHFwQlUxLXVTd212WmPSAZMBQVVfeXFMUDVEdGtkRlhmSGJNQUhsc2drSHo0M29ZRjJta2JfRkVNa21naTFXUE9tRGZpdF9YTVU2Q2hDNW1UQTg0clNwUXYwUG9WWFVMbU9pczNoZEZNY1MtbmFjdnZSR3BnN2s2Q3ZaSURJNTZ0SlM2YzFReDJ6U2lDM3k0ZFVEVU9IcjYtdk1xcHl5YjlNQ1JB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/us-troops-training-chihuahua/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWl0dHRnYko5M2ozSzBvMnRESE1UTEUxRU01cTFDZ0hzQjFVa01uZmFrRm1HTFlDSFNLVFVIVkFPWXRXMnhrcDEwOEJhRmh1RkhxRHZfMXNkcVNBSFJtTUtvU2RoSmRkRjAwT3lwYVRfRUp6Vkd3Q19Gazh6X3lsclFRUnl5OGdySmZOSUpYZ090eDNZa01ZTUZsYktnd21TTWdYa0xn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOFhKbEJwLTh2MFFNQ2xaYVJfTEZoUlJ3ZlU1YkFZaE1sdjRFekxwMVZxaFpyNlV1bEZHNVE4LTZTdW1lOWpLREVkOGlxSlNrSGtSN2E5cHhPTjlGQWU1My14NUpjbFE0MDczbmQyc1pxX3pweEp6QkxkXzY0NGdTSzFiSTdYNmlkY3BDQUF4MXN4aXpjZ25DblFJUXhOLVJiNWpjT043WndjMU5KLWE1cmhDOFNVRUloR3h5NzFJYVA2UmlnYTJRb0JTZUR6UUJvTzEyLVJIaUpaUC1xYkU2bzlWSzBURFZWdU9pc3F3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/openai-backs-bills-in-us-congress-ai-and-biological-weapon-threats-6387341": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugJBVV95cUxQYnFWSVk2ajRUdnJhNGx4dHd2YTZLTFg5emhpVXBSUDg0RkVHNFdFU2RadnVBOFEzeVJHR3hJelp5YXUtN05nUmdwTWtRamREWV9wdDBndlliRHRnNThlU1BXT1pGZkpoc3RTXzl2U01ZZThvSFdEc2hpMUJRVlVSZUNpSmJMVk0zenVZVndvQk1xUlh3VDhvU0EyREE4TkpPUjJNM3ZvWFNlTmphdE1BSHdYdnB1MzZJb1ZBN2JoS1htOVJ1ekVDMVFRUFlxYlc2SnRzM0k5U2N5NERsdDlSTmVPZUF2bUZHZWNwUmJwTnBvSktHRTU1OVZZaXJ2TjlvNmVhOGl3dlAtbVBzU191eHVjbkhWOEYweUh2XzVrZHNFaTY4aUhtUzBxUW9PRHpVY0d6Sm0zQ084dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
