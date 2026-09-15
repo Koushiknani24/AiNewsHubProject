@@ -157240,5 +157240,215 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/latin-american-migrants-deported-liberia/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3lzMjlIUnlmNkFWRUFHcmVtSkdNV2dOeWNUdzlRVVZYWGdFSEM0dzBpLUpIRGhlNlIycXNSMkVEOGVBc1hvLVFqZjlnbThrM2oyeU1ES09fQlJuVUxHem1WbGJRNWtMVkllMnhLTjlPQ0loNlRiOWYyYkhZNm1QeDR6WlVWWkhKM285NDJKUmNaWGtIa3lnczdHMnlIMXJs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-15/traders-game-plan-what-10-year-yield-at-5-spells-for-us-stocks": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/lula-would-beat-bolsonaro-in-a-brazilian-runoff-cntmda-poll-suggests": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-15/brightshore-capital-launches-250-million-property-debt-platform": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/15/escalation-is-on-the-way-but-region-must-keep-calm-syrias-al-shaara-tells-euronews": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFRSRk01T3Jwd2FnRGFzOTY1U2xYemxnUmxRSG1tY1VHa3dMUFFqclBlV2RyYldJN1RYNmNXSkwwT1dGc2hNQXRwQkx4ZXYzTFRlQnRyWlBIRXpxYTdlUHYwMDdudnpaWWFFdnV6V1hlX2JuNy1HNjlVeFFLaXNGMVhlTkFRQUd1WXg5RV9GQWFZZmFSanRZUVhubVczN19raHVjcklPc1U5OVVldURGTlY1UGZhamF1MFVZQg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGpuY0YwR2d6UWtXZklOZExRSFFOeFlMSTVrQXZwblJvZzJUSUZhWnlFUHh1WlduRUx3V3kzQVByVTNzbUV5b3FKWGJQZllCWllqQ1FBQUMtMUs5dEdaX0pYYVl0SjZlaWh3Z2RTbi0yc2F2N3c0eGVqU254Y2ltUw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTJDWHJIZV9DTUZqZHpWX2RwWXpGdkl4M3o0alBSQWxzejR0c1h5d196OWkxRmw5TUh4SEJ4SUdwSTV5VEZ1RUgzdXA4UlNuS3NmMXdmVEFmN1FZUTdZb3BPMS1LVDc1Z2tGM0wwbmVJSm1NUHlHZ0ZrRHplUDJfTnFPLUlyaERBTG1PUDlMRFFPcW9uWkM2THE1d25Yek9tOWtkNUt4LWRReHNqSTN6Qk5TQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/netherlands-suspected-sabotage-disrupts-train-services/a-79269600?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUzV2dGVvMDNzNlVGQVdwV3hPNmppVkdZaHhpN0tMMG1nSnV5ZWZDLW1xMlROOW9IUlJ2d19pRnEyNUlCaGRWdGR2Z0MxUTZVeFh2RUdTMDFOc3IwZk9WN3pleW9BOTd4YVNGMWd4NHZ5MHhyN0p3ZlVYWnJYeWJaWGNNbEtmdmRsU1J0LUpzeHp0VEthS1dOcWJzUkNIQTFXWlM5bFRvenJRcmvSAbABQVVfeXFMTWtTdXBHWVVNZXI1dUJkenVPVTdyMDdFcWNyd3dvS2FuNWN4V05jNlRQem1vMTdKUmk3WDRUSXNVSzFOR0p2R0RqVDFlNjdoaFk5N3lXb25HaVpydVhSLUswQnR4eUxDLUcteE9pdlZDNjdLdDBZdG1QU3h6TDFxdHBZNjRVbDRJM3JsZmd4eHlzZm1mVkp1RGllUFY1Z0N4Y0hwU3NNWW1idXNPQzRsYzg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/business/2026/09/15/ecb-invites-europeans-to-vote-on-future-banknote-designs-as-deadline-approaches": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/why-trump-will-not-yield-to-an-ai-slowdown": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2lQNmEyNmdtY1FhOHlqRU53MlJkZXprVFd3ZHNldVUwQlotYWwxMmRLemtmTW9BNGhfaFMyMHVURm4zRi1YcVJROS1Oa3poMzlnbEZMTUE4WXNUakpsSXB3N0NXMk5RREVnNUV6dTl6V095YXlyZVFkc01XLVVuZ2VCeFRjbTU4WlI2ejBEVVJfVmJfdkF0dERNOFl5SEMyYlNXMWtWd0sydw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQek5aQ2JqZ1lWd081OVhJeUZrOFlUX3d2WlA2OGxIb1dwQ2RocXB1Z25UN1NYWEdITERqdm5wT1RUdXRObHpvd1haSXAzTnUyZjZrTFlkMVRYQVdFdy00MzBjWnYwWnJiLTlRWHBBUWpkOTJSNUJHdnc5Rk9zTVFiVWV3aUtRSENvaFktR2gwbElMckVyRDJWTjI1d2RuVmIwNXhPNExtQmE1RGRqVlRuUEZHOEZMX0dUYkVNWllDLS1fUzE1dmhSUXVmdWhpVVJsb1UtNkM4bw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWWJKemZGZEpmWE5FdEU5VVNaaWY0LXdZWG5sRzZ2VElkRlBTcUx2eUhFbG5Id3FhOUJsRTBnTVJsWjM4NjdPSVZwbGZXWF9EbDdPXzBjOHhJbVlla1NGaFAyZEV6Si11YkZMbHZibzVneFVVTnZPUmM5UHp0SDdIYlh0alF1SW85Q2gyZEs2cUpQVEJsS2Q3S2tRaDYycXBUYnpCMk9kQUtNNkFsMkk0STRQUkw0Y0JOLVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQay1lUXE4aTV3bHJWcGFabmNfZGMydkZPYlYzcXY5VkFaLWtfVzhCTkVlTnRVa3ZzUU5MaGxjY1VvdlJNWG8zaGJCUU92V2dqNW9DZkMtaWxueWVZNGVDQXpQYVRxZ204eUhOb0E1VHR0bVFxbmtJd0RXeDdIZDZfTmZrSzZtejkxbDlIRTNYdm9ybElSaHY0cUNlWlotZVJNQ2hBWEpxcjNjWnZmc0piNWJBaW4wMDdWTWlrbDlSVkpHSFhZb1RvVFYwckFRLWZDLXVTcWdGNU1mdTNyZENPbVlNOVdmMFhGNHBRMnJBVHhKNkRS?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/9/15/benchmark-us-government-bond-yield-hits-19-year-peak-as-oil-prices-surge?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGlZU3JCUlN1T0RzOEhIYW5nVFBvVlRaX20tYTNhcDJFSVU3b2ZoYks1X2pZTUlnQ3dUM2Z5NFZGTkxNTGlmbmFMb2NWVTVKV0lpWWoyNEhXU083UGFPTGpsZWJPTGZZNkdpQzZqTkhiNGxBY0l0NGJWNmpNaWtOUDVIUEptTGRP?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS2dJRTFXVGFTZHY4QjY1bzdNR0c5Qnlnbi1XRTdaSXRTc0pMN0tHQk9qekJlSHNuMlhNSkZFR3NTZUVWYmVxbWdlRWxCZlB1N2VVMDZiblozOEZtNUgxOVN1c3hOX3RiR190VnZqdGJHQzd1TUdRc3QwTUFMbm02V2ZyUDg3SEZaVlNIbDVIY21nTFRlYzRIWWVfalB2dm5mWVHSAacBQVVfeXFMT0ZMby1SeUNkekwzRmhVM3YyVDhKaXB3VkJONmZwNzJqZUh0ZWRGTWlqeUV5SnNmQ2htdENtMEdfbzJ6UU9LeTMyMHVMenNzc2p6TkpZVXNRQkFaakZ0MWt6RDQ1dlN0M3h3X1ZrQnVzZTVZOFZNZy1CbXdZSktoRzJPWUNOSGtsUUJTY0VUWTBlbmFmWkMtOHd2aGt4UFpaLVNmYmVKc0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3320013/use-of-banned-red-meat-chemicals-in-cattle-uncovered": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOEY1b1YtbDJ5M3R4Zk1FdGZlOTY4ZHo4MXlDdUs4T1lXTVVISDRIdGprT00wMmVsU0lMUFczNUk0V2Y5aTlVOGo5Y2NjeWpHZnhpN0JyTFZPWGFOcjlhamNqcjMya0FHbTB1d01zSExXaDVYRl94MzhtYWVnZ191bWtkcjRvakNpSUxCdkRlU2NKLWk0bk9sMDdHS25rRWxzbjg4cDdTa2xpTEdCU3VOOWZ0SmxQYTZaaXfSAb8BQVVfeXFMUG85WXdQd1dtTmpPR3c5X1lRNVRCMGFjcFRSQThLNURCaGpsYTFMVHExYWNQZEw2aFJiRkFBNTdPVF8tam94Y1lHRmhXTkVtdE1oam5RNW9nTmRjdzJCc2F6bEtyRkxTY29Lb0tERlRwNkU0QlBKOTJYNXdwODhZTm1RMmFaWFFVM0Rha3RGSGlGbW04WFhuZ3JqaVR1eUVTaTlHclBSelpkMHhIUFFkLTliSmlwOFk4bjhRMktnUms?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-capitals-to-discuss-ai-incidents-global-cooperation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxORXhYY2dJQVhpcTNwc1gxbVozcEpTajNSMm91TXlRaU1LUGFwNXo2aTBmVlB6c2RRZUJFM2d0M1BISXRLVFRqSzVxVUVrem1MMWRmbzlVZ2hjYnJVTkE4N0FFTkVpWWxqZi1qVEpoMFM5aW9aUHRDZlRINzFidEhFd2JEYjBCTlQ3d3RJbW5pWEoxVUVSWlhuRk9NbjAybWRvZ1FMck1SUHBMbElMS3g2MzVESQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkxmVGRfT05CejNkR2piVS1xV1Q3QWNMcE4taktPTkJGbzdib0pMMmxlNS0yYXlyNThHaDNPV3J6cmxfWllyc200dTVmQWN0SDJrUEJyZGdJcWFKa3pGU2k3YWRaMmpJUzdYZDM5RlF3M0lTeE9BVTc2RlVCeWZjSFpiMF8zYkxlX3VJR09uSTczWE5jazlaZ3R3bUFTTGtpQl9F?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-15/crusoe-signs-perplexity-ai-deal-to-provide-cloud-capacity": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkd6MWRHekVmaFBjWGJOWkl6QjdJWWRiTmxJQV9FMmdXcHdXaG92QUZodkp5dUIxOTY1N1ltZ2dUNmFsOFZPWl91OTdlTkFES3dud0V6bUphaE55WlE2N0N4R0NaSEJfandkZVNzQnpvaXlRUnpCNTFreG51OWZSTzlZR3gyLUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/why-top-ai-researchers-are-warning-about-human-extinction/a-79263146?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSm9HWnNtSkZ4VjJBbTlWWDVmYll3bGhaQUR5OEVZSXU1aTh6bk8xYzRYTWR2TDFla3ZFUml2YzFjWHNyZV9vT0RRb2VidFJONkd6NDduS0l2R3d0ekVHT0ExekswVjZmRkRWU3Q1NGtaWXRJeldDTWhmLXRGMmVYT2x6VktITmJlSWpkallJdkptT0VRc3dXWmRGcWVZMnIxRlJ3RnRna3RpWU5IbFFuRnJB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdnJob3hNX3FqT3dFYnZnSkNPRUtkdFhzNmhmSVFEWUNfc1YwWmthRVNwWklzQnBiVUloa0N4aEh2bUVPajJBS1FIQU9YU25fVm9KN1FaT1JXUV9ycW1aRURfMnJ6bjBzLW13cElCMm5FZW9ueHF1Y0Q2WGRGQnpmZlpTUDIyR3ZhUEJQS1d2U3hZMTdjSExoY0tmUnA2eW9GWjFzNUYtZWNHcnhSdktRVk1NN0VNNzVtWkRSREFNbmJOUXcycDBxb19ZQnpUOGhPM2k2MUs3bENIQ1dBSVhyZ2lCaE8ycEFnWmRkRkpVZFdCTk94NGZHcVhHelFHcFNKY3g3M2taZFdwRHgxandz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/italian-senate-clears-melonis-electoral-reform-amid-opposition-resistance": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFh5cl9tOEktSmtJY2ZmOTc2c0NNbnF3aHlXZ3k2VHgtOW5NNzBrWlFVQkNrRERfWDRENC1PalM0VEJ3czJXWnJTWW5uQ3NqSWZXTmlqQVJlUjNXTzQ4TkZYX2dOdFl3TjRXczcxWHdwSXYxRFVXbVFFb21jR1dkeFZiY1lReWo1QnF6SVJrN3FJTkxGWnFPZ2IyZk1sckxXQnFaT2R2VFo2bjFMX2ZaS1FONFhaZDdyZ3dxcU9hQ3TSAcYBQVVfeXFMUFNVbjdTNEtoajNOM0dsVE43RUJ2V09USWpDb1BwQThseTF3MUNVTDhoaUZLZnFIRU9jWHZSQnBFeVN5REMwM25ROV9UQkN3RXlaVFpZSlhRVlZFWVEwcDBpMV9ETjJPTEZTV2VJSk8wQm5xV09rLWxIeUNYM21LQjZuQXJic2JselJPYTJrOEJ0ejkxZ2RwZWNfRFhVSXRxZTJ4Y2VxWE41TVRXRDBFX3Y2RW5ZOHRlSExEa3ZMYnkybXlJemJ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcDZ5Mmw4QnUtanFZdnZRZ0pwd2NNU0xZdmxNblA0bWU2bGJkazhtNllZNmlfV2szT3htZWM5ZUpubkxaSmUzZ0NCSFBIOE5vbmJBMzhuXzQwbTNmWkxjT2RwSElIRFoyb3F6Vm16VXNGS01CaW1tSmpJQXRDVWs3Si1jbDBITWwtLXZDLWxYeFAweGtHc0hPLXdkaXZRM2VZT2NLRnZYZ3h4c21DTTBUMG9uVHRvb1RYQ0NKc0g5Z1I5bDJfT2hUMFlnVkZSOUk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUEpRY2J3b09iVjktWXhHTC1uaUZRR3hwSHd3dGlOVDhYX0U0VXo2dGQ1UGhEMHlrSy15b0FIZlp3bXBUbTdBVnMxQ0xBWHU0OUFPVkJtek5PLW13VFFOUm1GVlNlbE5Ea3pWS3hYYkVaS0ROZmt6UnU2ZEpQeVpQSk1jQVVlMno5MkJudEV0LWVPb1BiRjlaa2lMQmNCanhTT2pmenJ1bHJvY3Vl?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
