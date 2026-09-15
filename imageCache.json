@@ -157006,5 +157006,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/taylor-swift-emmys-law-order-mariska-hargitay-olivia-benson-1235626589/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/culture/culture-news/perez-hilton-enters-residential-treatment-program-1235626566/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/panama-canal-to-cut-maritime-traffic-again-due-to-el-nino": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/09/14/houthi-advances-trump-choices-iran-01075915?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-15/blackrock-raises-em-equities-back-to-overweight-on-ai-earnings": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/trump-nominates-kimberly-greenwood-ambassador-barbados/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/15/cnbc-daily-open-ai-trump-hoax-buster-nvidia.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZ3RtdTlrU3I4WVQ2Ym5RWDBHQXd2U2tKZ1o5d0RfVVhOY0ljWEktWjhDdUtpN2gycWFNUVpHZkg1R3pMM1BIMldQSHF4MXRUbWkwX05IblhDN1kwUXEzTDE1R0p2TFBpc3hYNmswNlpzbjFWR1lQMkNuQlYwbEpILVBPQVE5eFBQSTJaSVplQnJGZWlQNVYwS3FIMTUzWE83b3A0VUNpc2dOV2t3Mm5NZXhFN19BR0RQc3kwbEJxd3AwT1JZa0JKd3cxSi1lUkJZTW5QLVZ1VF9OS3phNGV3TXBpYlFlWk1lNUI1d0lsZldCVmZMb05oV2JQQ3FUcjVLamNySTY2NUVGNzFKQ0VTWmsydERYX0xVYWZ4ZQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/matthew-rhys-makes-emmy-history-best-actor-widows-bay-1236700740/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQzk5Q0JuWFdrSGNnVzBkSUlobzRRemYxUmhDMmtXeExRRHlyaDhpWmR3RDRkT19HQXNWLVJjZWN4YWt5OTFnenhHWWpESFhlelFrOW1XVUpDTk1yZ2YtZmV5RDFqbVBvZEhGaXJzZzV1TnU5WlZ2Vlhhc1hNdUlaaGhVcjl2OFhMZFl0aHFlMlpwWDZLY3VLRHRaVGZGd21sejlSYjl0Q0NYZ2I50gGyAUFVX3lxTE9wc3pESkdPLVhrbk5GQm5LRFZWVHBHRXhwYzExN1IxeVhSZlgzdFUtVXpZaDYwcDhPaW1fM0JTVGFKbkFGa2ctVGhJTkxaUWg2bkF3TlNwU3ZuRFUyY2pEeUhGS2VoMHpqRUJUdDdONnRhdWVTVC1nMmlQSTZFQmhZYXdfNlJiZ08zR00tdTZybEZ3UmNwSE02QWtTT1l2Wlh3Z1BZT2ZyeF94enAyMlpaUEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzJXZU5PdWNpTDFWWmF0NDlsT2FtNkRHRWZoM0xDNVlhSmlwSkZDSzRpSXJ1VVZHcTBXX0YzRGNydHh2QmI3RUhOQ1gxaU1admVYT29YUmptRnU2ckdDLUpyY0ZNX3VYTHFBYzRPcHdVdWg4VUhyUVpyMlpFdzIwOXhndkhFZy1ZWkNxRk5pZEljblFtV3czVmctR3AyRkRGUHhfSFMwczdqRVFHNGJsSNIBtgFBVV95cUxNQjRQYUloRmR1Q2htUm9zNDNTY2VYeENzb1hDSUFCWjRYSDMzblVZTzNQVG5PYnUtU185a3Z1WUY3eXpXTTJ1a0JUNVJnX0lFNU1aX3V0c1lCNk5URTFzcDlzRmFYY29QUDRZOGZTdE1VSTFFWmhQeDlfRXc4U3VfbWZHZlZPdlhKMWZrMVZNV0RJNk9fUkRHUWRCbmE5Q245dWtzVmZoX2g4NHdSeVpKX0Q3WHJaQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/national-palaces-new-resident-four-legs-one-role/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa0E0blM3OUNiRVBQWXFDZDNIaV9mZ0RxZXpkSlR3NVVxZy1sbmdYWE1BdkVxY0ZPemJzX1l5R01EUG5UTGNFZkxxSHBQRDhoVk9iWW5DYWt4eDdvMjBiNzZzQ3J5UDZFMmxsc25sTERTSlVZWEFLTGlIX1RESlBkVE16SGVJd3dleHlBeXcxdDhJWDR6NUxUYWx1RjRfVWdtQUphX2UxNXRwQ2prX0pTbTZ2UnBxWUZZYTRCN05OTjZqdDViZkpuQ0tQZ3pJTGVNRGJ3OTN6Y3dENmdK?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/americas-democratic-slide-is-becoming-europes-problem/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/california-governor-newsom-says-he-wont-run-for-president-if-kamala-harris-does": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWxJLU1VM0R3TEZuQ0VzOEVwQTMzQldFVGtydDhYZ3VVUVhnOWdwbnRBUW13N1ZPV1gxUGY1VUVCb3JwazJkV09vOWFhb0tna0Y0NlpOTHZORTI5SWhXX3BUSDB6ZXEtemNHWG9oRzFFclloRzk0ZnljODBfMWd2eWVKeTliVUdzTFhjUHVxXzgxa3hodG9nOXVOS0pDWkEyeTN6bGtjU0ROcFBZVS0teDdxdDFGRV9VREhYVVdPX3dnank2V1ZNeg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/15/geneva-talks-put-rwanda-drc-peace-deal-to-the-test?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/mexico-moves-toward-promoting-sports-tourism/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
