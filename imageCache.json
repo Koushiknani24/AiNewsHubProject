@@ -158116,5 +158116,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV2pSWVBFUFNiR2ptV2V1QUYwR0V3VjdBMjhTUS1fTjYtbHQzdXRYXzc4aWtWWk9CZmQ4T3hWMENOVXctSnZzcW8wampFQllTLWZUd0R0NWUzNDJiUXZGWjlrVlp0T3YxYXNBbmNic29tSHpwcVR2NjJYLTdHNVRQVHgwRXRDbnFyRk5RcV82ajlmSFI5dmdTSVNDcmdiRmhfVzRPa1MzaTAxUGJlbjBMcmVB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-16/full-vision-capital-on-hk-five-year-plan-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/morgan-mcsweeney-keir-starmer-top-aide-no-10-think-tank/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609160019.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXR1YyY1FmY21qSG1selJ4NENoNEZkNmJoNGNkbzBZc0J2a05XY3IxM0RoTWtRNV9hMDlCTDd1RE84RV9kWmFpem9NOVNOVUp0WXZIeUtuOWN1b0VuVlRNRkJ1Y1N6eVU5U3JWdTg5blplRW91SkxlSkJsVEx1UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOTl5OUkyMjJfMGtqbktiTHdCNUxzb28yZHBnYWc3TTBXZnpGRG5hQkZaMGJlck93T1FXWG5qOHRWMTBzRWw5eEFLQUZmUHdfWXNFVURyM1JlRDB4cE9nZVI3TXJOTV9MSTZpQXA5dVJiOTJXdFNtVmh3ODFsXzZQUW0wOFF2NW9JZlRqckJPRENFcW9pay00NldqZENjSldzT2loNnFwOHl5ejIydkdIakplRlNvUnpJSExScUx4XzBUc0drSEHSAcsBQVVfeXFMT3JqUjgxZzhwLTBKMmI2UWs0cWNCbEJQSm55dUFnc3VkNXdTbGs0eE4xSFVNVlV2aFR2N3QzQ2Q0TDY1M3NYSkdCZHNlTVZUWEp0cjNtNU1Ob2t6dU81c2tNazl2NHFHR0t4eS1RN0pPWTFJT2hIS3UzbktranRuYUpybzZXMFJuemNYQTRBdUwyVU91c2I4S0ZlbEpJYTNtc253Qm5OTUdVOFpTSVBsUDBvaDE5dzRyUWlERDJCR3FqdHBOcUZWTEQ5UTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQTYzOWxVYWR4RksxaWYzNS1vSVQxelQ0SmRoaVdKeVZvWVBEcHNoZWVYcjgwRlJ2MDQtY2ZuX0RRNDd6Ul9ackVvM3l4NHFSem1pUWxzNXFfZzdnQTVjNXRYR3E3c21hMXZSOGFhRmQtekc0Z2FpaGpCRzJXbzFPZ2RZN2hFMHJyWXFoV0RrdHk2U3Z4Umpz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakNDQ3hldXkycldWUDhWS0N3bVhsUWJxRU9lMVI0a0Vad1JreWFpbzg1azFYbDJ3bVRGSjVQZnphRWRkODh5djVQM2pRMU9SV1A5N1dKMUpFR2VtYjY1M3MwZjlsNll3dUxkZ0cxQ2lVbzdtbjczZ3c4YU1MMmtZSE52aDJ6b1JCa2l2Qkx2VHhiVHZ4bzRZTFJEd3d2ZG1vX0VUdE0xWTh2OXBPbm55N2ZrZGZpQjRoRWE1bmMxS3ZCSzlQQ3hkcQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-16/meta-ceo-favors-evaluators-over-ai-slowdown-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/09/16/latest-news-bulletin-september-16th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2JMNjVFNEtzbWRsbkpHWE9YQWlNbkktZnRZelhocHVTVUw1UGlHVVVmYzBIMWRGM1lWSmlMQkVhM0NtVmRlQk1EU08xQ0hGaFRPNUFwVjVVWS1ZcEJLdnN4REJ2cHBDNk5HTVlTM0NEU3BZSjBoOHRlTEE4b1k1NEhqS0ZYcGtMLTlOX3lrejhOLVdrM3k2VG5lQWhPdXg0N3hpSGVZWVJmUFBNeUlwMVBCcGIxYUd6amtQdVJHM1JVV3NZYW1tN291Z3VvTEtuNDBuUWV2bw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTGh4X2xqbjg1SGxmUE5DOUY0ZVAtU0gwSjRXZ2IwdGZfSGtwZWZPM1g1c2dhYWRiM2NSUHF5VnhZQ1RUVEVTeWlpN2JzTTV5REI0SXd6RDFvRnFDOVZ4MDdJRVNxeFNMR01jYzJLUE13ZEpONkE2VjRaa1JGbUduSFAxbUZsbmPSAZsBQVVfeXFMTXlBYXc5bmxpQlQ5Wm1mNVNxZE53cFMxZWtoaGJBS2xjT2VCZnNQZUVsQVNJMWdOYzVPWTNuVy1lbkpYME1uWmw1b0hRNGczSURDeFpaU3lfM0lMR05JSVBkTno4MkF5TEtVVzhVYVlpSXNDYjFBd09TTlowdFY5OXZlT21uUUxIaTZRMnNPU0VMSzFaQlJ3NGo2a0U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUFaU3FkdmdhRnJPVllYLTNiOFA3YlpMNkRhc0hlZUZIaTRHVWRITmpYOXBFQ3pDUDNWXzg3TFM4djNha1J6QVlRVEk4bXZyQjJETjE0NW9SdjFzU25kM1ZIdHgtV0liVHhIMEQteVBCZGNyT0o3QmZwT2JSUnlkLUU5eW0wTDloY0FUZm1EandPb0RoZE92ZVE5blpUcDdi0gGmAUFVX3lxTFBnYm9GNWt3QWY2MDNoWG1Cdmphd0diR0wtX01rTjEzUkM0Vkt4YWhiTTI1V2VhQy14R0ZCOGhMSm9WSlV4TzhmTnFWc2lJbTAzOE1ZNXRJUHRDRlN3czZpRUctSlhPNV9LWGswb1B0U2taSk9iNGVQS2hwQWJjQWR2VUpIUHZESnRGbFY4ZWVKZGFnQW9iYnFvdk53RE1YZjFWQ0JtbGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWdrdFFPSW1RQ1UxbmhjeW9aS2lOcTdLV3hZeDNoQV9rbG83blYzR25CeFhKakUyM3BpZ3pVUnVCZk9ndV9IOTFoRUZodTRKTUlJWnhJVzM1algxd0Vmb2oyekhwcHY4eUJUSzdidzZEdUhnNVJFMkJ0cWxIRDNGMi1rSDctOFY4Qk1Mc0tzbkVBVXM1ODBDeTZMT2NPaWJtUFBxVA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZnE2Z2VWb1lpVXdXeXQ5Tk14V2xSaEg5b3dXWWY2emsySnU4dGsxb3Fpa18zd19oSVdfYTlyRmMybkl0NjRGMGg1TWF6NkFMaVVrY0tCVWJZSERyVWFURE1iZ1pPd2JBbFFSWVRYaGMxejVVUWd5TG5JSjR2M2lGOTNmeFEwcS0tOGJZam9nQmoyZl9WNUlmSlFFZEJCb0pLX1VoTWlib3Jra2VZSWEtUFRERExfZGdJcmfSAb8BQVVfeXFMUElmZlNVVWkzaGc3QVJoNEdDVzJkV3IzZktYd0dXbWVSZkZFdUdPQnFXYWExOTZqTHZmSmtmdm1WRy1nQzVKQldteV9uOU5aa2dGb3c4RHVOYTBBQ1pQNUVXY3kwMjh6NjhBZ2VicXRuSWFweWhITHpsd2hyRVg4em8tZVJCUXUzNmV2ZDdYbU9zS1RUamVDWnpWUEY2dXk4OWlCMERaY3pXSzlZTHg2RkhjcTNrYjdGeXc1R3NpT3M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxON2R6Mkc1bkVzMXRnOVdMTENrRVVUMDJBTk5VNDJDODNUcUZxb3QxV2Q4VWFUUDhrRGdoSGhKTTJTbExxU1QybW9lUVV4eVN3MkwxOFZGb1BfWEpQbzd1TmMzcHRhTnoxNkZ3YklESkJrd2plbkZ2ZVhQM0YxNmdjaFBwZnZQangyREVlQVlB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
