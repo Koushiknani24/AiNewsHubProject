@@ -158620,5 +158620,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVDRpLUpHZjVDaGtxZDlRQmZRd1AzbHVXVEY0Q3NHNXBsQ1M0Z2JMZHdOVG5qemZ4WWJoU3psVTNydmg0V3R1NWwtOEZSeDhyR0N6dUdPRUV0M0hMOTVacmxkQVVvYms5U1dXejNUTVNtRkVQdUQ2U28zX2N4M1VzWmprQlpBTExGbGNKU0FOaDZPTWdxWU03V0dBdm9yU1plZm5pU9IBqgFBVV95cUxPZE4wei1iTXBSODB6eWJIa1oxWU40QVJjX3RYMk0tMTkybGFCRGlMdzZJbXZCbkpJNXdmZ3hlZGk1OHA5ZDJIay1kOUNaYUlMTTFXZjJFUTRzRVBoaVJSMjZ4YVpGM3dFUjdkbThadFlzQURxc1F2djA5Sk1GMGlfSXpZSDh6RDNWODFxVGxyQldvTXV2SGhuRUduQjAzU1lHSmNxWUdRTU9CUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/09/16/fed-rates-trump-warsh-inflation-01079371?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXMxS1lBUW1HVHlsVnV4LTlzRXRaTEpKam15azNQR1ZsNU1CcmYtdjdjcTk0eXd2S050dHViRU1BbmoxcWRCU1J1TDRoSU55djI4bGdQZlJoN1FOX3RsZWRrV3FySjVkbmtjaExQUFlEX1hwZmVFbzBWNDNXem1VNjF0VHpSdFBrdTczWGpBcnV0UDBHem5nVEhBQzFpZ2ppQmJQcG5Ed1JQMUxNakIzTU1DemZXTVpxYXVobk9xcXh3WFpBTExnUA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/grito-sheinbaum-migrants-insurgents-dignity/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-season-2-zane-boodram-kent-casting-1236683912/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZG0zeXBmS3JPWjMxU3ZsOGljYjdHMVRYUHFLb1dSWFpJRXpnNk5zMm5kOFVmak1TR2p2b3FSZ1VTbzhCUE00ZlktaTZYZ0NaVjlfeTJCRXVFZTE3VEZwd1dGZGFRTVpIb0h6M1ZzaWY5R2wzTHEzNEpGcUpMeXM4VDlqUC02VXBodElwY0tyZTNSZnZMem5Iam5n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbko1RTY0Ukdxbm94VldsZjFyZkdGWFBscmswRkFGTVpCYWo4cnNyOUhubDY0U0Q0YUNvMllKclZILUxseVVoUHhuNTFJZUwxeWltSkNKT2MxcHN5REdhazI4bV9FZTMzMGp6aEo3SEsyYTgzZnNzTVVTLUFSbERxSTVJWUJGeDFjLXFMdER6X3dJcmF6dm5Hc28zamRkUjBhR01SREFNY2NBU0tEejJoZzZ0eHhTSGpLOFl1b3hRVEdWcXZ3QS1GZzM2dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/uk-village-votes-to-secede-in-asylum-center-plan-protest/a-79295826?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2tSUHkzM0ZMU3o3eVYzQnFYSGhCYmlnX0hLd0NKdGNwcUJKWDV4Y283WGNyXzdsdE5RR1ZMWmNGNkNHRG5FN3ZFY1ROamFXUktmNUJiaGFMQlFQbVFLQzd2NmVDUWdzM3I3ejZpLW9qSUVON1NlcVNGX29XWFA3ZGdJQ3hHTEtCZVdUQ2g0a2RTelI5N19ycWhqXzJySDIyTFHSAacBQVVfeXFMT3o3UVR3aktFN0ViOF9qbG5QUmhXR1gySE1ZZ3Z3WXMzUUctZW13YkhzQkdwd0tuUFNiMFRDYU5WdWNxaUxzX3NKN2ctZE9CbHhrVjdKTGhjRF9lOFgxNFhJTkdqTjNtY2pCMGNVMGEwaTFTSERHbk5wRk8tNnNPSEJKUDY1S3pvbnlaSFFqZzctRl9sakNjU2NuSGJUN2o5WDFuN1NlcU0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOazJEOWNncURSWnJxdXRITktKUUJDei0zNEw4YTVwVkZ1TC1lZXRkRl9rRGc2T0JYQTdPZzBmc1NhYTd4WmdwUC1FODd3MURCWWkzSWpQdC1PRkhIdE1Ga01ZajVLMFdpWS1NMkpKeVF3N2VPVkN4Um5SUTFTVkFWbEY3T29jZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQclJlWTVmUmZ4SDFBempQamdnMEpJU3I3dlp5d2swaXItUVEzbXkzbTBpMDN2SHhFSmRjOXhrbkJteTl3ZUt5V29vQTZWVmRRSmlzVGVicXFESTJwc3dPeHQtUGdLWmw3b2Vpd003Z0hRY0hZQXVSSWxDUTU5QUQxbmE5ZU0xUXpjSHRnby1ObVVZR0pDYmt2NnhwQWo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/ursula-von-der-leyen-blindside-eu-canada-associate-member-pitch/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/can-canada-and-the-eu-build-a-deeper-partnership/a-79295388?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUkJNbW5uTzJ1UDFqTWxoZndsbzJpeW1OcWZkSGo1Y2lVQXZsUTJXM2ZlNUd1czA0dmVyUVV0WXE3SWFVdlBiYm55WWxZenJ4TXhRME1TNl80N3lCZi1TeU9WRklkYkQtVFhmanhwS3JmVUU3NGEtZFdFWXZma2tuc3dZZHkyS00?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/streaming/where-to-stream-south-park-season-29-online-free-1235627139/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zRW5ybXlNSnRuNDNZNFdlNUpicU80YmxLV2Z1OEkwa2ozT2lJS2lzRkN2MDE5Mjd3dm4tdTk3SExCcUt0QmxERTl6VDJrcnNXV3N5NWNR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3FLMkN6WHBZOUNxcVhobmtFbFAwcmZqWENRN0o0LTZOWUdhaF9LTHhqX09LZ2RsOHA4WHdjMVA3a1ctVEFpZloteFhVaTB6ME53aW9lT1VvTDlPTkVKRXBLdjdwbFRXTkViTVFaTGtKWEY2TzNEREJKV3BXbkNHV0lTLWZZdkZxZjFLYl9pMHl0TG53S2dnMklYcUJBcjRjYkJKcE5sWFNkaVN0STlBdG1uQTAtal94YWZOdUl2UHU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
