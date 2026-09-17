@@ -159562,5 +159562,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-17/01-ai-s-kai-fu-lee-on-pacing-frontier-ai-development-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/cfes-project-oasis-bring-solar-power-energy-challenged-region-baja-california-sur/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaFlJTVpqNU5ZS2hhQjZrLWE4X3doOHF5elBPQ2FWOVgxOEhaNndxM2tLTzhJLW1tTlJjS1RHSGFyd21jTlJGaXg3bnRFNHM5OXBNaGpMWDNEa1d2U0tWUEMtT3NMLWltU21Uc3NWQkduYlFIZ0pzUlJSTzBCX1lGeHNGaTVERDd3RnNhb0xDZWVSbHRrYTJzNElvWHAzbnBpbWRNUDJEMUg5Ql8wYkFNUnZYa9IBswFBVV95cUxOaFlJTVpqNU5ZS2hhQjZrLWE4X3doOHF5elBPQ2FWOVgxOEhaNndxM2tLTzhJLW1tTlJjS1RHSGFyd21jTlJGaXg3bnRFNHM5OXBNaGpMWDNEa1d2U0tWUEMtT3NMLWltU21Uc3NWQkduYlFIZ0pzUlJSTzBCX1lGeHNGaTVERDd3RnNhb0xDZWVSbHRrYTJzNElvWHAzbnBpbWRNUDJEMUg5Ql8wYkFNUnZYaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSzlyQ1NmdnkwOXlBUEVqdmZZb2JBOUszaU9KeDhvNE5QUHk5dkdxUGp6ZTU5UGY2Vll1YWdLZXhGaklBdmtRSVctNUpmbFRLY0F0OFgtM182MnE1VXBzaVdjR2pFWl8xeXJWRG51dWhOUlQ2MWc5SXdjamVIZWw4SnFKdnhzdlk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/russian-birth-tourism-to-brazil-increases/a-79312304?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWE1zY2VrMzY4RmtnUGxmeXZNbzJXdE8taW03RHMtcXIySDZOVUZPbW9lUnp1UzNEaEZhVVkyOEMyMG9MX3pRcEltNTc5Y21VN3FQZDR5a0RxMkVuVmVaYTZ6MGpsREdmbnhYRHpMOE5IUWNsMTltbnlEa0lxRDhmVi1KeGdPMG1jTHZQVTVEWHgxMHMwZGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3321735/fed-rate-hike-puts-spotlight-on-2027-view": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TX2NMRldOb1NvT2ppaVZDeThvUVc5bVdjZGRNWmpOX2c2NHg5U0VpU29lbDk5VWlOZXd2NE84dUNCbXNaQmdqbkxhU2E0RkpYWjJsMkFSX0NHRGFmck8xVDBZYVI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR2VZT3h4aHA4WWFaTXpCMWhfQlc3d0xuT2N4cVhFYjNlX3VseUlpS24zUUExTERxYmZyM3hCLXRMMHB6RjBTanpQQTBCb0VPR0ZIdmFyWUNwaUt2STFDS3RXNkNXaEUyandzOC1WZDdfdW1rTlRrWkYta3RJMFNpSVBoVGVaSUtkbTIya3FMSTVXS2pkemo3MEhYVm4xWjdVXzl4czFfc1pldEJSZXJVUFpBRm9Yd9IBuwFBVV95cUxPR1FCTGZGNXVPa3lTVkRDajVkU3U5UHpaMTdkM1h4QXJBRzRESWF6RHpkRG10WnZubm9ZdW4zazU0TllmcnBZTVBYNUpQOGdHODdKM1pTWW9NRzFDVENDOUxOWUk4Z0N2YjEwYmM0Ri1sTEJfVjVMODZCU1FWQm5nYU4zcFBUS1VEXzZvMDVtZW1jMlNKdDduZE1rRUJnbjN3ZHEwTzgydTRJVjNydndUaGpYbWthX0FUc1k4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/09/17/ai-titans-trump-xi-dinner-01083068?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-17/macerich-ceo-consumers-are-spending-but-are-selective-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/mexico-in-numbers-exports-domestic-value-added/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEJUT1htTWxONlVOMWNoZHhkdTdacDF0Rm84Rkc3c2E3eE5IUTNfeU4wclhMYWhHQVkyVWZxTHFoMGxVRmZKRFFyMWpvWmNZdHdEWDQ0bGVySXhuTWp6MktCSjd5Q1lUdDRUUldEUlZWYUtrckZVMFgzb041WTRHeWV2R3JEUTVIUnRTaE95aUdGRzNhY1NKOXhtQ2FQNWkya0Q4dFpLMzF3M1IyQ2F5dNIBtgFBVV95cUxPN0hieUNPSkFYa3Z3QXAwTnhHRENsU2htdnFPX2JRNklvR2c5TnpCT256U2RaYTAwSFlqRzV0cWlfRFM5aE4tTkRsc3ZDbFpLYXJUSWtUVmVPeG94TXdSZ2ViQmZaLUJ3OEJad1JmbjRrd2NYczZCNFB4Nml6ZlBVamx0cEIxaGVia19rcDRxWkptbm1xbUE0QUxJQmx6enV1RWh5NHU4UHVLR3hBTzhXNXVYYV9fZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmRyV2x6NkFWTldONVBmVHdTaXN2UGxLcTMzdE50bC1EaDFWQjBNU2VKX1gyNFIxZGVzZjkyZC1QT2lKSmkybnhlc2ZMRnNuekJaX3lmbTVhNTZuWDE3WlFNR1VRc1RENTdUbmxDVW5CdTFNZmdia1lhaFl2MllyZVkwaFVTdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdzdTMl9fZnhBNzZia1FiTVRZN1Z3QjQxM0pMbVNacXFwZ3d2ajNESklXMGxTTTRGeEJyNG5QeTJaQThPcWg4eGN5RXF5aXFackhvRExPVmZDZnZzSVF6SV8tN1pSYkc3U1pKaW5lbUdaZHI2Z2ROcGNWZmF3ZnM3R3BzMmRONDNBdUtYMTBOdG42Uy0wOGs4anRWZTg4U1V6?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
