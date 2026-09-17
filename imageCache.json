@@ -158998,5 +158998,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/09/17/latest-news-bulletin-september-17th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.sciencedaily.com/releases/2026/09/260915232136.htm": {
+        "image": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHpnRTduMmM3SlZ0am5JSm1IOTVnMTlCMTVvbENjNFBDRUt3TkZiZHNIek9GcmxtbVByM0NHNWhza2phd2xSaktsSzhQRE1xZmxDdGp1Z1REVUhIYk1Ldi1Tc0Z5V0FFOTRKX0xtZms1N0lUdHF4dXIzVnRoVXJJc2lTN2g1clVYel9uY0lrTkJzMVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/military-leaders-meet-in-paris-to-mull-post-un-mission-plans": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXdUZzlra1lVcFVXLWFYSlJPNG1Rd3BKMlhaRWZUSmJjRkpZWjNDTWpFejYwVm0yNFJobm9nNDY4TlBwZ1pYMzh1VkZ2N2V6VmZHTXIteC1xcHowY3JWMGkzRVNEZTItdi1Oa1l5Q3ZUQ2xpaUFsTDdxVWRKWXFFZms1X2ZSWm9ycFVjZlVWQ2ZzbEZPdWlfVHhwemZjeFpYSlFDdlNxWUY2WkhON2x0enFHc250bkc5OEVqdXY3d0FMYmpQZzZVOHhYNGhGb1U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNF9GTkl4TE56clBDanpwRGVnMXpjd0V3TmdIUXFvR2huNG1FWnlJMU5ON3ZRY29QZEs5TFhIc2FXOEU4dmJ1bzlWYWJNYXMwTmNxcVpnUHAwb3VPQjJTVG9NaFVtdUZDY3huWVFrWU5OdmF5eERFLWZXckNlemFnYjBTRlNLS0N3NEJlQlVEWGVidWExcklCdDBVUklpU0VJekRqSnEtVUNLdFA3c0tDT1ppUDM1OUotQUxnRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/17/argentinian-judge-orders-suspension-of-falklands-oil-project?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQU0zOF9xblZTMTJ2bEpjOWpFRGk0VWM5REI0VGlRR2htcDlfRlZUc2VJWWJEN0RCYXNTX25NUFlDVUY0VVo3RThxVy1EMG41elR5ZUdjemwxcWV1YjRqZUJNOTU1V3lzSlowVHlNd3lzUG5neFFmUjdCcF9sdGZNQ3pLYlh3WVFJMDhEWnFDandsMzFPV1ZN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3320935/discord-in-the-ec-boils-over": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcE5BM3RCLWpkMWlHOEpqN3liSFFxdHJmSEt5TGRhQ3J3MnJsYjJWdjVZV0VfaGhBa19fSnc4TlhHMjFiYzFKbjBndnpBaTJRU085a2dQOVpTdEY5WVAzTGxZbzkwZzJVTFVnUGlQWE93VmN1dTFjVWpuVVJ1MjdfdU8zd3Z0QXBCMFZTS0dQTGV4NTRoOGxUdlZyOFk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQkQtQWpJX1VTMWxZdnJUVC0ybkFBeWgyRDZlZnlfTmlvTTQ0SEoxOXhTa25tWGk2TThXOXU1aGVJNlNOTVVOUWdKMmZKTjhQbVdjN2EyeTl4Yy02SjJLdmJYSW1wRE9vVGlqVS1hWkhJMWJ6LUxscHZFb3poSHFWbHhWZWpZN3JYZXFEVDkxQm5nQXhDX21udWRhQThBZUttcjVUemp5SVVSN1FmdURFdHBUNTM1U25zWGNrS1FqNlBKdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbE5LVmRGa1hkRWp4c2ZSLTl3R25WNGFOZm9hX1RjVmk2ckJfU0toaV8xbnRiNy1kdC1EMzFhMUktRzlScThac01TdFVHaGpmYm1DZ01DVEh1eFptRnJCd1dDMW1XNkdadWkxVXZweG05VlBkZ3dvVU5fYS1NUWczNDFHXzRmRUR1dkxhZGxKWEdjaUFoZzNySjlMWVNaaHB3WlNzcVpUTFNBYnJlQU5IWUhWTHdCOHRDSWlQWTV4NHpGQ1RVbm00Xy10SDVMQXVwaDVwVXFkLUE4UzVF0gHiAUFVX3lxTE9JczRrR3lmWXlCMzZmbE5DWGNkWUNnbFJEeENfbWhDZGFvZlM3eklzTGg2YllYcTNTem5Lb090RUR4elRQVHRTNGY0VkFKZkVRYW1hemlsaktsV2IzcVVzSEJEdG1CNzUzamljUEpibmM5b0xtb3B2ajMzcERXSzdiV3JmbXduRXhWRTZVa2I1WnNLZDhqdGo0REU1VzZXT2dkWWRmNGpMM096LUZ0TGw4amFhUHVOUnVqQTNtaGoxRWtwUUdvS0pHSWZzb2tCcndRRU1UcnJKSm5SSTdUOUxBUlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/king-charles-uk-pace-of-ai-is-deeply-concerning/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVDBYN1dPcWw1WU1SZVBBSjRSMEF4UHdiSjdoZE50cmQxZklFamd3TGRta2pKREd2SnJRUTUybld0NE8wUmtHandpdk0zZzZldEJvWG5kQlVBa05Vb0hERjJTTjZtX0xMMnJQMDV2TXQwVUc4VkNsY254aVN0MktjWWxqa3Jpb1FOcFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
