@@ -159664,5 +159664,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/obsession-inde-navarrette-didnt-make-friends-curry-barker-1236705004/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkhLdTJNemRMdkJMaGpxR2JxTlRBZ3IwcTR1ZHd4c0dsZlZEVzdabzFLaWtwWlMyZW9yd1AydXRHQkRlUWs2S1l1aF9HdWpxMGs5NVlmUmN2Q2Y5bm1oUlBKOVVjTlo4azU4ZVdkbXVFdk14QlBHMVNxLWtVcms0X0xWajZQTXFNM2c0NFQwcGo0V05DOTVMd2o4YWd6XzNYNlczdjk4VUJUcEtWNjd0TlNzS1JzZVlkcWF0ajdmSVNwQVHSAcgBQVVfeXFMT2FHNGNSLU5kenlmRWh6LU1YQm54RUNwc1U2MDNyOEVHdFQxR21uNWh1aHZIQkUyMW9OYWN3SVJSTDRybjNoS04yVF9WU0k1WFIzUWlqY3phZHBPTktCLVNjMjF0Z3ZROTVHcmtCa1ZUZWNtYlgwR2QwOGRSUElzdFpjcWU4OExrM2swb2U5Z2g5bjQwc0dSTlk4Q0Y2VHZwcFpXWnNDelRpMndUeFptenNNaGNSa0FRLU9iWGRsVU5tenBFZ0J5Tnk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/doctors-successfully-separate-twin-girls-conjoined-head/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-said-to-delay-excess-capacity-tariffs-until-after-xi-summit": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-communications-regulator-approves-foreign-investment-in-paramount-warner-merger": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd2d2bEx6c3lqRmNrZERCcUhsWmhyTjJRaFdCeHp5WnVPVjdKNkkyS2hhVXRNOUwzeGp0M2pLSWs5SzZLNTFjYldxSXZqdVhZcHozYk9pRGNidjg2QUs2ekExVHNZSjZSb29vdXYyb2prVFZxVXZTQmswU0F4WmF1cGRXOEp5emZUQ2ZTZEFSYVZZNWJmQjNpejhudmczdDhOQjNyeXFtTkZib2NZYnE3ektlWkdjZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX1V5UTBiRDl5Wjd2Z013dmxzZko4b3VVNmE2Zi1JT1BiTWQtUms2ckYtYkVUcTE4NlBKX2NfZUJiMmRUQzRzNEFIWlZQYWppSl9Kd2o4ZnVTUWRoRHFuMkFjeHBteFlSWFVwY191NjZPYzhUVHQ2QVhMMXhKZ1luaXc1bFRGd3l5dkFwYndCQWIzT1k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNGkyUnluWndzNWVxNC1Pa2k0cXl5RXpMSVkwZnF1SWJsNEcxc2hhMXdpcHg5VXJoNHk3SVUxWUNyRGdoUkNvTjBHMmx0ekhCS3BRREZ6X3FMUHZZaFZaaGtRTjJBb2hCWHJHcWt6RW5pV25DSGUwTm5WTVltLW9hb1hucVN2bWNCSWRDSDIzWGxLUFg3MUFOU19YdHpGejVHbjBaTDREVVRCWmZ4YjFZaF9YWHBMUmtKNVZ2SG8yRFI1VUtMN1luaFg0TTUyX0xMSzI1NEhyVUw4NUlFNXJMRTVZbG9Md9IB-AFBVV95cUxNbFRyOVd3TUNYekMtVXNBSU1vVVQzQlVDVmNkRFhkVlJub1NwZkp0WDdFWDZBRkt1TnFWWkxQSEQ3NUhoWldyTlJEUGt1WHRDVkR6ckhhWE9mQTNFX0lxY29lUmR2VmViUWdxV0FzTzlHdmE3X093YndCUFg3UmVIVVRhemxqZVNuVjhmN0ZoVlota0J6YVN1SlU3OGRlMDFZM2VOalNhSi1TLWNpbXdseVBIWG1hRzBaeTBXWDQ2UXJqcDFwR0FGYnB5Z0drb0s3UWc1TmVvT21mUUEwcnp0Z1VmeDFrVWprczJVYzVhWHo2SVo1eWNZNw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE52dHBVQkJDWVlXRmZzYlJ6MFRQRE9jdXlrdG5scEpETUlKb0ZDblNMdEVvUGNfWVprajJ5NUctck81OGtFaktvYTU0NmR0bFpORC14WHhqSGdoTHllXzlqNlN0OUxyNHFGbmwzNm5MdUdBenZ2Ulppcg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/as-puerto-vallarta-grows-officials-weigh-crocodile-relocation-plan-after-weeks-of-sightings/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3321700/tpc-mulls-expanding-services-to-thais": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-government-website-used-ai-search-tool-from-china-that-fbi-said-copied-anthropic": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZmVwREMteVpVTjlLb01fazhLYldpOFpYcjBjM2pTeTZhX19Xc2Z0UXZCNExINHNZZGxBcDNEdDl6TzRCSnFxMlczQnFiYm9fNkxsZ3Q3eG5DRDdtLW5wbjRRRno4UkI1MFU0ZlJLRm9GSzFGRHE4bjdfVE51Ymg3M2R3R3F6OU9sYTNmYWQ2N2RBOW0xVGg4QXN5RVRtSlU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/sheinbaum-trump-pressure-mexican-cartels-us-drug-use/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tREVoUHcwbUx3MVRfbkpXcEtQX3NJR2hEbWVkS0VGanZEYkVsNklvVVVyZmtqbC1IbkdlWml2ZExKTG05bS1yQjd3YURPaWtIdktGb1JoMGM1QzExM2liWk9rZTAxejFtWjJfMVpqeHhtYWU5R29SRGNZZm9jcW8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkpjbG9sSFdwSDJyRDdQX1FVX3JHbWtTbUR4bWZSN2xxWWFlbXdHTG56SzZXM2VOaFUxRHdPLVdxZ3lMNGhyRjQwLVkxNndISU9BTFJ1VHhydUVqMXNabFoxTGNVcG5nbldjRU4yNUpRZGNBdWgzY3gxdnBuc1BVem1zWDJEVmNSR2piQ0tQdUkxcUF1dklXRlRZTHBzdzVyOHZybjdDajNCQdIBrwFBVV95cUxNb2Z5MDNtYk5SUzVyRjRsV2RZSDZWbUd0U3pwU1lweFpnb1dmelduRkNDbjJkcW11b1V1blkzbU9McHpfcURWWk0zN25jM0Z5RDhMOVBMX0RxV203SFVqcTNpWHZEeGVUM0kzS0hNSFRBVjNuUm1IaTRvSHAtemRuZkFnMmlxOU8za2F5NnNhUzQzdS1aMFdvdFZzM3FjQjhqODhRMzVScVBsQ0xrUWw4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
