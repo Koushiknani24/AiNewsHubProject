@@ -162394,5 +162394,173 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/us-iran-war-trump-decision-tehran-warns-of-expansion/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcXhMODhtaTRpb1hlVEFSNjNwbkRPdkpwSEwyLWI1T3EyZVNyOUZleE9RbWk2eDJnOHRNdGg0OU13VFR4NUJadTFiRmJ0SUZIdTRKdi00VC0xVWVPOUYtM1hOdGJPTUl4WHZEQjhRNVhfZzh3VGRuY1ptQVlLbU96dlpXdnBQM1FNX3d4UjhUX0NQbTJjSWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/21/us-and-iran-trade-threats-as-fears-of-return-to-all-out-war-mount": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/southport-girls-killer-threw-boiling-water-mixed-with-sugar-at-prison-guard-prosecutors-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/09/21/nx-s1-5974141/former-un-deputy-secretary-general-on-the-role-of-the-un-in-todays-biggest-conflicts": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzRrWDNMZmV1a0tIZWdzRU02Z0xTQ05uYlRpcktaZV9CSGFta3ZwQVBuOVpZcHg3cXVHb0QtZFVNOVZHeHJHVUNTTUdWZkJ1ZXBELThZYVBCRVA4dWo3OHp6cERERFFzSG16T19FVndZVkZhSVFxMXA4akpNNXRlMTdXYlNsSm5QYkVxZUY2em9TQUxYNzdfMWphd29UMkw5TTAxUkZvX2FBcjV0MGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/vladimir-putin-ruling-party-secures-majority-russian-parliamentary-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/germany-s-car-crisis-can-the-35-hour-workweek-survive/a-79307488?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/european-union-fines-google-590-million-for-data-location-breach": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU0lscjI5ejdrbmZKR1AxdDdxcG9HT2JEcWlxX0NlcmdRanBUdzBpd1E1NlNaNDE0Rm0yV3EzVXBvZ0xQbGFBS0gtUk5jN1I3RjRIYWRlTHlGSHg0X2xLTmxZdXFIN24tUFpnYnBNZE1hcS04UlNsS2Z0aDRkcDhwRmZYbHcwbURBMmhMLUVmakc5LVVadV9nb2xfbmtITWdheWt4ZS1SYTQ4VmxvM2VyVFE3Z29ITFF5TG9iSjktV2FscmFmcEFjaEJ5M2hwU2RucExuNzhzeVB4em1o?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjliUUhHNkxGeWd4dmcwSXdTLUk2d250TmlwblJNLWhHWUJDU3FmVFVGLXBlQTFPTzVteGlJSzN2NFRJem4yNzJFMm1jU2lvTEN4OUt5c29obVFNdWxERm9UX2d0VnpDT2VxNVBNcFlKdVRoVVJGa1I5TURzdUJTMEVyTTdWSjBCMUpGNzJuLW9SUVZ5bmstY3l4bmdlTXpIdHZlR3l3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmpJTnFpSFpIcDYydjg2YmQzcVVhaWhHdTFOOVIyaS13dE9YQl9iejJ5amt0MDllVVlCR2JOTi05ZlIyTk4tdjRsdzQybmd6VUhzVGloR3h0cUc2TjNFd1U2d3BDb3RfUWlybGVsTEM0a0ZnN2wtUjdDdUNpWVM4VG9fSTU4Sl80NjRmYXdRVmpROGh1RDVuQ3lIYmd5T2wxODFubEp1NHFrWTBYZmZtZtIBtgFBVV95cUxPTlhONU9reXZKZ3NYSWM1aUxVaUlBT0JXcFBjejJYWHpFVlM0WlczNjY5V3hVY1I3N20zeG8wZ0V1VkZIaWxLQWJtU2xPbXRsZWEwbi1KRzZUTmR6c3dIXzdMNFM4SmhCX2I0YUw3SEt6WHI2amdzNGNTUEd6ZVRfUXc2eHlZOVVxV01zc1pCU3VEYmVsUHV5LTRvNWgteEI1WUJ2aGNnTXNxN3doQlV6akJ4ZnJ6dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUVsY3liZG1hTE9XeGZFaDBDcE80WDlObFFLWVJqeHk0WEJhcjVnS2R4akhJelZMcVZ3M0pSSkFEMFRyYnJBWVVWaDZNR3I5c1h1ODFYOUNCS1p5aVVjRnJiYXhRUjA5eTVseTQ1V1BYYU11ZVlUWnh4VDRJdEJJVjRYbWg0Ni1OaWg1Zld0OFJ5cVNHY3VMaXJka19mMkl4SUhLblNuV2dJTFJ2UnV2OTNR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFNtOGUtOTlEZFJib0NxZ3NKUWR5dEdnSHBiNVNSV1hLOXhXRFlBWTYzUnpEZnhWVkMyc1RpUWQyUy1HUHY5RmdlUGF0NU1OQUxhOEtyQnAzd01JMFRoWHNPMDQxX29EWldOX05iNnpfbzZOQ2hUVTVhSVJzMGtZWUkwVG5ieGhzejYxM0pHY1JiajdXejFUNXFsdlRRcmotZHdRanluRTZ2MEkxSlc0SmlzY1Q0ZkNUN3BQSzBPSGwwVUxx?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekZUQl9WeFNfaldUWU9OVlYydEhNMVBoMkpwelpZMWNDbElQTXJNM1lEeWdOajIxcFRyRldJb1JWMUphUXJsYW94SDlmY2VhRFYybGhvWXVQMm9mMndjcVlGajVONXpyS1BISVJWcWhaQkhEQW9STnpHM2F3WS1maDI5SGtBQ3ZUNERaa3N2NEZIMXBNUDJGSlhlc2lRY28td3lXdFJxcGlnUU10YVBSTWFWWm3SAccBQVVfeXFMUFBTSWlNekEzRUFuMUdlaW9UNE9rTDROZGlOQzQxeWI0cEtfYmhjdXg5a1lmdjBDZExkRE50b21fWE1LRXlPZXJSQWZ5TTVRQjNvY2hNc3pBR05BU1VEaWU4VC01NTBWUk42QlExcmV5eHEyUUxjTjlsOXI3RjhramRCMDdZU2tOS3NfTlRpUUdjcnFoZDlyU3JORDNSOGR2N3dmVFpBVEY3T2lyOWJ6akFOa2hGOS1GRkpPTXpYRkwwOGtha0RNcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUZFWkpqZWloSmt3QTZpdnhPTmxlVGsxWUtvMzgwQXBYZnR3WHE5T1c0T2xncXNad0FqOXRnZ0xaMmY5eDNfUG5yRWRNNm13cGFkaEtJS3pVb016cG9McXdFS0JqYnBkOG5qVGRwc2ZoT1dPRFc4SlRNV2MycW9IMm9kZDdjYjB5eWpTS3J0TjZ6d2xGU0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BYzRxRVRMOERRVkV6cTd5WkI1VmstQXRxOHJfa1k3elBsQWpEV2xTTVh6SnU5VTZ2cWxPZ3NWQXFHbXR3RjJSb3NRYUxITDhIX2xKLUpWY2I2dEk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPalFhUjFxLURKc3R3Mkk5d244a0J4TWVtMlR4NG1kVWo1SzBkcjBzN0lobXRCWmtQV2h2VUFaU2c2QXFSYURLZGFPSktGSExoZXhUcFVOWFBDdXp6Q1IwT29WWGhleEtQdGpNLXJuYXRVbGZ0STl0eWlIbDRqNGpFT1M5TG1CNjlTSG9ZRnJWbW9TaTlPenRkZmE5dDlZQ0c5TmRxNFlMT0ptSjhtS1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUJYbEJNa09SZFIzZEdXTjlkdGU5dWxod0gxMXkxbUtLQ09QY0hkNTdRSGttYzVBUk5QRlZTU1R3MkFsMTgyb0h1R3VzZTEtelhCMXptbEhwc250MWRTT2JCU28yQ3RVMDZuSXo3dmFOQzlQUVJEMUhQZzFUMW1RVWMzaDFCa05wVTdLUm82cGRFMS1DODJhaGJzZWNUSWN5RlByUA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xUm50LWtrR25scGl1TGRtcS1tR2dYaHJ1M25rMnl6cmE5ZWVvTlJkY3FhVlhHVHYwWnhEX0NEQVlyLVJFb0FaNEdCSU1seWJVV3pLNFRHb05kcDJ5MDluc21EdWpNd1R3LWEyMmZ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3323500/city-hall-working-on-new-master-drainage-plan-for-bangkok": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVo5U2QySi1UMHFlZ2tfOUFBMFYyYjl1aE8tOVhHVG04NUxSQUpvUFlrU0xaVDFlTmRPU0l3T2dnQ0lSaUJjbWotRHVaRXZYZWJzeGUwR0k5NGxRWmlFcDA1ci12SExQZ2t1Z01RX2tqTGItNmtvalY5S3l3VjhENGJpNDE3WE83cGREaEhoQm5TeFlnQ045a0Y2MV84NlFFVE43VEdBV2tnTV8tT3ZLaU1pczZHZlRQUUR3bw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTWFHTkVqNklZRW8yaXZZdW5lYXlSSmg1M0JjOHU3Ylk1dXgzbDlPYktfS3dZQk5EOGQ3TlU5M0pQYnYtU0lOajl1dVFGbmI2OUxwbUpBZTJuS1BDUjBwVUdrUjEzclM1U2c4MmZITEFjc3djbW9YVEhqQ3U2VEZOb3VBSmw3TENQZDBlVGVyak5XU2txT0xhLUlNSWdIVnAwc1JIaWowMGR5SjZyWUhwVmp0XzF6MUJjUmlaNkVWbUVUdlZvTklUelVMbm7SAcwBQVVfeXFMT0Fobl9CLTJNeUdMaUlhUmNTenpPTG1kMWhyYTNwVzkwekZjUE5lYUI2Q200akV3ZzdvMWR2NUdxRm9OSXFRUnRtWE1waXI1ejJoYi1kbU9sOWJmMlJYd0tLekNVQVRldmpCYWJCancwcTZWdnFYcWV3U2tEdTZHX1cxM3JFOHFQQllqb3NPX29lVzdqUVp6b2JqbWlhOHc3b2NlVEctbFp5Q29LdzJTcXlFT3ZNVHJnQU11ZEF3bEowR1U3d3JkQzk2eFNN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
