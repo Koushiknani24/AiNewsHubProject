@@ -163540,5 +163540,185 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/09/22/indian-villagers-stage-water-funerals-to-protest-river-linking-project": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/corrupt-mexican-officials-sanctioned-sheinbaum-sept-22-mananera/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/darkwing-duck-revival-disney-mark-hamill-seth-rogen-cast-1236707643/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/security-update-nukleare-abschreckung-ohne-die-usa-mit-claudia-major/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/explainer-us-expands-its-prosecution-of-2021-assassination-of-haitis-president": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609220449.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/culture/culture-news/nolan-wells-grand-jury-report-press-conference-1235629721/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxON3h3XzJRVnJlVzBMRGNqYUdZdGg3WmNvdGgxRjlvUEkzelEyNzFSYWp5RFUzdy1JaktWbENFRlpSOTF3cUc1UHcwbkdqeXRkcHRXQ3NfRlpITEVuZVJOaDRwX3BtNkRTbVZrc2Vzb2FoZXp6anh1TG9Fb0x0Uy1BajB5TlZocDF3Rl9BQ0dFeFo5SE1lS2xaeUNkR3pIdmdhME5kMUo2TlBFSVBkeUl6RnBMai1OTEU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlowUDVWNkZQQ2pudGs3YmJhbE0xQTU2NTVjN2pVcTJYR2NIb3BHM01WRXdyVHBMWTNqVXZmV2NHWHF0RnVfRlg3Ti1NSm14b0N5SGFaTHp3MzJCVU5JWFZlcWphTnVtUDhOaTFWNU9fb2UyWldqa2tQRG5CODJiUlVyU3BDY0RyT1IxbEJuNzJzc2M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYXctUWtJLUFWQlNLeWM3YTlXRWZ6bHNtaWlTS2t2ZVdxcU5RWkJlVTh4Y3R2TEowclFtZlctbEZmZEV3T25rclVRM2E1TTVGUEctTDBKTW8zaXVYd2d1Ui1XT2pEcURiUnp3LXBsaWVZNGQ5UUtYY2QwQWo4b3E3QkJPanVWZ1VCbjdIUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ25PckhrcUxNVDBKRDZwbFprYzdZSm9kelZVejEyYkJpUmt5QzJVdE82YjY5eGl0QUZ2eXlaRm85cU42ZTZxN1ZWNkRjRjd5b1JobzUxTUlwRHNkTEFRUjZoS0pnVkxEc0VnWFVBWmhad3UxUjdFSDhHZWc0cFp1SkFBSXk2Q00?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPbElRYVJfTTRqNGFVcUhEanRYalpTaXVaTm5NUGRxVVJja0FQQ1Z5dmNQRktva3M0MElOVk9DcWoxbzAycUhWUnFPbmRIU1p1YnJOZkdya0x4U3RTREtWVXFEUFdlaHpRS3ZKYm85THA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWpNeExQaDYzXzlVaHBXeThBcWtQT2I2X2JfY19oM2E0NjR3dEdIM2JSVWdMcmdQaWczNnJITlZuSTd6Tlk5N0k0Q2dZOFhnbl8tR25Ea21KSkt4QXZTaXA3bkhhMk93dGJBbHpoZ19lZWVJZDZYQ0RtTmRtaGRPWXBGUmRKaWMyM3lfaGtEUXpSV2VZamN5SXZTNXdUS1NmZzM1SklpbndvOHEzU3hYRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTnh0UDhpWGMxOTdsaTM5TFpZcjJDdVFNVmw2WjJhZDB1bEdMREt4VnBBTV9TWFRRR21MaFRlOExUbkR5b01ldkZtN0dlcGhKWGZ3Nnk5V2hWRXM5eG5weXJOb0tzUDRiSnR2V195NExtdTRVWWFfcThNWEhPWU9UNVVBV25WNkZfUmtjWVpOSGZZLW1QOEVGdUI2MTZlRGhzZGY0eFphNjk5ajkwbmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOW50WlhPcWZIdk5wTUdGbHNtZGZySHBXeVBsVzdNazcxVkZfMDNJSGYtODh2bWQ5emNjejl6VTZWZnZJNnZhSUp1Z0VDWEF2WGFPcVU2SVdaZHVqWVVOVjkwUmFkZmg1WWRaakxVYi1RdmZGUFNRNjE1MTBrd2ItWGsxWlNjZHhkZ0J5OS1jWGNFX1VMTGxN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxObHJ5ZTNZTF9VSHVyMmhVQ2N6T2JXS0hSaE1FTHRIMVNMZ29yU1U2N3BybmVnV3JkSXRJeFJ1ZTA2NWJ4UGE5ODZyaGFZRUFqcFB1Z0RqamRYREtqX21CTXJNWURpZFFPZmlmUDFVLW1FWmFJNUVMN0oyOE1hWm5NdWZXVDRhQWQtMUV2MWpTb1NSNjBHb09GQTV2bnRueUlqY0FmZ3UyaDVqVF9LVGR4aWNGZF83OUl4a19retIBwgFBVV95cUxNY2g5Q1U5SEdHRzNtLUZCeWhhY2RXR1JEZXZobnVIbmlzY3Yyd0lXNFp3YmRzSC1teDFyOW9fc0FOa292Y0htbl9adDRSV2lROGRlMVFiSVByNUJuano2aFIzZW9helFKUUNmZURKYmV6ZGFoZWlXMV9ESnBGUHFPcGlCNnFqZ3hUMjltU1F6R0VxZU1SMng3bkxwT09lRmx1YVF1MXVfaWZTXzNqWVQ2WUVQdDJfbTNYOFVuR0w3ZEEyQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/playbook-paris-podcast/plongee-dans-la-guerre-hybride-menee-par-la-russie/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609220448.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdUtYU3o4ajJocXVwRDNCNDVNQkVpZTB1Q3ZldjFpNUR4OXB5aGludjVodjg2cldxVG5SaTRKX01QY3piQlVDQVh3ZFlTWTNjQnMyNUp5OXp6WFVpQzFGZ3hhNi01MVJpbVVKbEJ1a3B1MTdwREpFdi1FNW5icUFBaGQ0R2dLdDJRRDFERzYxSHZ1enVwRzQ0S3RhclU5ZEV3UmxtWjhlNi0yNmtKZnZ3MHFMd3o3dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNzg3UnpzT2pwaGlpQnFHUlA4djhWVjAzcmFDalo3V3ljWXZyYlhwWWhLSWluRlNSOEdRU2xXWkdORGMyYzIzMUZ6aS1McndzejhPWUxhNTdkaGRqTTBFR1EwN0VSMk1oREF2eVBIekVldWZ1OHJaZnloNkY5ZmJfZXJDT3N4YmlLVU9MaGVKeHVCN1ZGZHg0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQTVOOEVpbUtVYVh4VklIeUd1UXFaenZHcUJDSUpMWXEtQ3FWZTdKUTRvT2ZlMlh3MmFXeEJFdHNPaGFTTk4tVmRodXpiZ0ZCR0YzclVZUDQ5UWlyMHdIOFl5XzRoSEsxYXJfV084SWwzM3RGQWhIR0pIZ2tLSzFSSGxLZnp5UUQ3T0QyVS1FcGp1c2g4ZmNj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWlBCcS1RNWszd3V5cUxvVXRoQ3NMU3VhclRzZlNpeTF4d190UXJOck5nM0JYWHkwNnh3SVZaY2k3VmwyaVRvNWlwc0dIUFJxVkxCZzQtT1dTaXFJRmppQ3I0X0RpSlBHTGREb0IzTXlObGNlLVAzMU1vbFRhczBQUWVBdkdZSGEw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWko3NURmU2g5cDJHLXM5OW1peTgwRFpRMFhwbF94SHVpUmFhazhLc196UXFCb0dyYkJLUm1rLTVHQ0I1YUh4NHh4WVFsTk9lb0QtTGtZLVlmZVJpSThCS2J1Z0NiZTgwMHBBSTlBaUNtSkM2d1hZYkplTXhHQ3lWZUNhYng?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOakJ0WmwtSXBlR3VFWUFFQkR3WjB3RHpkSWVEb01aMVlScTY5ZDVqVmt2MUxmcWpfUFF6MTZRdlBXWDhVQlM1V01UeVE2RDNBMXBXTHhyMTc1NTY4TldDQmo5bmh5cGRQWFgtZnRFQWw2ejQxelNsN3g0YnBlX1ZDUzZyMVRoZWtMWjZqbHBPOHVPYXk1a0xGaHUxSjVEOEltWFdicUstUzBUOFNLMGdENkRKYlZ1V2Z3Q1MtMmlZV2w0ZGJGNEVXUHotVFczZDg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmI2SjFrRzJra25sX0tLcDNXalRiWGl5SkNmT3oyc25PRl9LbXExN01fbmt4cGVPRGtSM05rdUdnSERGZHZ2cWRQV3JGYUl2WmRja0trbmVDNXE0ZERNYXlXVmRNMF9SM3dGQnd1Wlh5M2tpU05SSnhXNC14VHRtM3AyWkNTR0ZSWTVDRjdCcmEzSmUxYWJoaUstWTR3bmhHV2I5M3lhUElieWlLMWhRd1ltYWx0RGZYM3JPMHNlTG4yd2s2dHNZS1BpNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
