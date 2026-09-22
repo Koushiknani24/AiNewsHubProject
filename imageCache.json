@@ -163222,5 +163222,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-22/meta-s-muse-revives-ai-trade-lifts-chip-stocks-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/swang-song-new-book-by-princess-diana-s-brother-drops/a-79365835?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-offers-to-reopen-hormuz-strait-within-7-days-in-push-for-diplomacy": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXJiT20zMkZBX2Y3SC1sVXBFcUZGSmdYY3J6SnYyYklZQVlwZEwyaGFVQnpoSG9zVE9sUUlOOWlhbkw2NVVzbW90UzdrOER1a3hlWXl1QzkyMWZFZmRVS0dqQkZoOG9wcGR0by0yUHZNWEhkdFc5bXJjTWE3YUpDbmtPMWZBVHlGM2pSclgtZFVJWGE0NkZDcmtqeVJSM0NsWVBqbWZaYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ndF9BSl80Y2FLN3FfUkcxSVBWdHptRHVyN0w2SzYzbEt1Y1hSV0ZtSlZzY3FvNEFFLVk2ZmFWVklGNXJZcHpwUDZtc2FhWGRXcEU3U24yd2pZa1By?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXhQYWZpVnd2LUVNUXU1ZFZCTFJZYy0wT2Y2ejdQdmNZLUtUNnJNVVVSS0tqOFZaS19faXZrQk01NTNWSFV0V21QLUZaSG85eEtiWXowME9telI3QXlBeVVYN0pJVzZhRUlHZ3d6ZjZUcFctS29FMl83dlBZTnB2ZGRXa19kcjl4NjlsZElldFduVEJ0eFR3ME93Q1VCQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWVxOWFYUTFYbGZKcUR4TTlYbHFtd01SVFRCRTJiODVkSmNwYWRzYlA2T1RpckZrYUtoUmxSTk5ST1RpajBkbnhnUFdFOTBqdlBtbUwtMzlMSFM0ZG5YZVNud2t5cUdQT2lJR3RqLW9KVUstT29pNU10SnlQSWR5S1pSNGp4V0N6d3VLQ2xpSm94WkFsaGhNV1lqeWJ4LVVTYVhfbHVFOW9sT3BV0gGyAUFVX3lxTE14U3ZoMlJLcDI4UXhuVjY1U3ptTFhNMGZ6ZnJhcWxldFd0UVJUV1R0a0pvWlJianZtYnhrMXF3QmZySzZ2Mlc5MlpiYk9GQUZEcG5sOXpJNW41MXlRRVBCYmVHcmo3WkZyaGFBWG5qRzA5SERWWF9ISXZERVdXSFBlX1ZMZlVJOHNXQ2NnU3Q5X0liWjRsWG9tbzhSMjZkQ3hPalZ5T0NtWmtWNTk2OWxmelE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLTQ1dHltTW45NzdrcENHdnIyQkhjZFJUdjJoM0hWRTkxN3NENGEyT3MxOFgxTlNIQ1djTVJDR2ZhLWxqNmoxRlJlRlhJcC1YUnlwMHVKUFZFVDRpQVBfVTR2QjJlSC1SY1RuTHRYY3ZhbndYX0N4bHFhdUhRSjZLLVVDNFNSOTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPckJsamRxUFhscDlZdHE4VnYtRlRGZ2VkLWNkZ1FCU0lzU1g0MFJPcVlRQlZ3R3BWbWlEeVBTWW9DaGdoWmo1MVFzMTZ3VVhYYjZhLXpTQTlCWmdzYnRxa1FDQzkwVkpZVjRWZ25tQW5XeVJKakhmSUctVXdFc0ctV0wtNG9hMXlDcTliYzJRQVE3SzlRNFZBR3p2cGZmX0o5ZHpvT1dHajc0U3ZrNUxiOE1qWHdmekU3b3hZX3BkZjVJMVVXM2JJTXVnWjVwSlhtVWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3RtamxKZG1iUC1NN2xqOXhZdnJ0R0JYQk1yamNzb1owM1NlX1lFUnZmZTNoRTJueHdUSEVWdXR2Q2hhTE10SVVFcmNSVXo1d0RWWGxLejVzVG4wRDJVd2FjMUNBZC13dHBJRmtHaUUtbXpXOURva3NrUktIUU1SNHAxd21lTlhnVXV1U0pNN29yNWdYMVQ3UDZ5cEpkMm1rZzJxTUNHeVZ6RFk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/business/2026/09/22/made-in-europe-battery-rules-could-add-2100-to-electric-car-prices-report-says": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzZtd1k0Y2pvYzQ0MnlLWWNyRGdfc0FMcUFuZ3VHYlJkNTZCQUNfQlE5UjN4Vl9MbnNWMm0tRlNjNDFuY3VNSXh1TmJ5MEpkOEhOSDdBenNZdWtXcEhxWno3N3dLaW1jQ0RXNzBkRjJwQkdiNHNtNVplaF9pNG80M3RHay13cVk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/sports/3324178/thailand-says-teams-careful-of-doping-rules-after-badminton-player-fails-drug-test": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOEh0VTVhZTdoRDc2RXVUSlZyREV0ZlBGeUZ2bTJoTjh0VUpyWlN1SjIyYnlkaVFBclVZaDJ5MlpkX1NwbF9mN2xSUWd5cFlJMHhrOWU1RnlWTmEyQWU3TXJlbFV6OTh6am1Ba2JzOEhGbERfQUNFVzNadjB1am5Ta2pJMHhNRjZKNENXSWtzc0dvTGpLTElCWUZoMWV4VUR2X0drSkg0ZlF3U1daT29vNkFkbU5UUdIByAFBVV95cUxQWUZJUWJXaDlVcS1mUlc5NTg3U29QSUdENzFXajg3YXZCOVdRcXlETHowbWFJQll6RGo5VnF2TWJBZUNsSFhFaVpJNXJVcEM4Vl9KRGFzdTFFUzdqNU9DMVlkdWVfNUVrVDVKa3pLTlk5Q2piWVpyTmduRFFfVXRmcFlpWWU1azNVb2JsNk5SNWtZaXdnOHBqTnBVNDVfRk5YMWluRUc5cnJIV2dMU1hVVkdrMDUtNWdZZUNpZm5uYmlJNUVfeEloYQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPckFheUVsV0VxWUwtM3BwLXVSenhKQ3FfNlladEI1bzFLUTNuWGQ1VThITkdXQTdjVWRMeEs0OHY4WUE0aVJDRXQ4X2U4dUh6YkpTcFRLYVlFVC1KbDd0UjdvTUNXb0xYZVVtdnZFMFdBLTFOVmFLWnlQVklEejlNTl9tZVFZLURUVDNOY1dMNGU3Qzl1WjRZUk1PRXhNUHZEcmFaSmIwMm5kMlFFWmkxYTRubEY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/will-germany-have-enough-gas-this-winter/a-79360317?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingJBVV95cUxPWG51YUlhWTVjeF91UEpZZE9qbzA3Q2ZRNXFGNlk0OE04QTJ5SU5IRjNieDlGZm5iY0FMRkRnbXVmLTRndE9XekxmRW14ZGt4aVI1WnhsNG9zLXRWNlpBWlVlaGhiZjZVWWtKSnp2dnhfdHdTQXdwNDVFd0t3Vld4bk5VVEJFSFcwZVF1NnZNQnVKQ2duVmJvbl82X1VEVHEzZWtYTUZsWjR6c1ZCemFiUzNMTlZGVnZjZUdZejJCdE56OXN5Q3NqMFl3Rk84MVRscFR5MDNIb2l2cDVVUmpsazl2anM3ZU9NX1Fwc1VSajk2Z1RHMTNrMm10cTBRX3dvOUVvMzdITExjYWVteUxIekFfckN6cEplM0o3NUVB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnRZdkR4U3hpNWJUT3BlenlWQldDUGNuMXpzQ19vRzRmbnA5b3laakQ3RlJYQnpZN2pGNjE2WlRnMXJ4dXZtVnZuTE82THIzQ2tEYUdfaGFNVFJCOWxCYi1Na3BGVFpNU2VtTHp6ZXhhaEZQUHFhWkNzQzNDcS01ZlRvRF9Ud3B2M2YzMzlaZWhCV1ZTWkpVT0pGWEI4Z2NsZ2fSAacBQVVfeXFMTjBreGdNX3ZEcmtUOG5UYnYxVEUxWkJFc01nY2pOVHo1NWdWRVNhMFJBdmlON3NRZldqUmc3SHoxaldvT3pRNk9HM3VJWllwWW1iZmxJdEc5dGNOLWVyMkhRTHVhZmNYSHc1RjJfV1VPNGdONXk1XzUxWkZkeHpXRU5xd3dVREE4Sm4yVjQ5T0Y4dnJWS2FIcFdSS2RKclFJcUFIR1MwY3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQakdDOFRGWW5meEtDZ2lFNXB1VEYtOXNUQWdjdmVlVWZmajByUUwyRV85NGRvdGpEZWdFazhQVmhKd3NBc1VKLV9rZVRXdnZRV3BVRWhDUFQ5ZXlWRzY3MVZERWlTWmVnZVNEVWc3Q1pDbDRpSk9Gb1FKTENBSnd6VlhyR2hyclo2b3U0cUFEUDlXdlNqVkJ0Q0RsX0s4MS1GdEtJX1hhQ3M5Z0F0MkR1VGdaZDNETl90VGtyMWJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
