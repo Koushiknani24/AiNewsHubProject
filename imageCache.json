@@ -164332,5 +164332,179 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-23/us-prepares-plan-for-90-day-diesel-export-ban-politico-reports": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-23/us-treasury-five-year-yields-breach-5-for-first-time-since-2007": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVXhNdnF3LVBDTDFueEJRSHBMOEoyWU9KbDZiQ3pZU0liNmkyQTlrQXJJWmphQkw1VVdYb3hjVnZtc00wbFRDQkxnYnlBcDNsYmxIRmd2Q0hBWndGTkxzQnRrYUx5TDdFRFNjcHRqWU1CTXdmb1h1cVFiNzBjMjZiZ0h2TUI5MllxeVY0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/sports/mnd-local-bcs-surfs-up-baja-california-sur-wsl-pacifico-surf-open-cerritos-returns/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/politics/politics-news/melania-trump-second-term-1235630437/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcU9nVjlweU82eHN2aXprSVJIVHg4a3pSOEM4bkpLV3NoOG84Ml9Ca0xsU0VDZkdBR3A2MGhNQ0lvWk1ETS1QNFltbUpmcXZiU1JER2NVRE1nN3l0S2NPQ3dvbElHTXp4SFBxUlZ2STVqZ0h4ZGZDUHZHQ3VLMHRBdmFTYnNoaWRHOUJhVldkTjhhbF9ITW1vRzVpaDFYWWVkZ2x1bHBsZndqQW9UTEM5dEN4REJRcDZrc3BmR05Va0ZHVFluZzF2ODdGVdIBywFBVV95cUxQRXRSU2tsVTVkZHBtZ2JwWUVhdGUyNFJMN09DQllnY3F0cnUwNWJvWWR4eU1qTk55SXpnYVR4WnJTWEEtQ0ZWVWlONGdqSFoxbkN2UndGbGw2QXdoR0NWMmpUdThxSFkwV1BJNzRaY0JyWFRPYWJIalZTeHF3c1J1VDdFRGVaazE3SUpmNmZrbWVqRjNPc2xjVURyNW1FeDVkd3JmLS11d1dtSi1FMEhGVFJmcmtMeFY3dlBNOGdfeDdaN2gxVXRaTHE1bw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/09/23/white-house-ban-diesel-01089294?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQk11ZFgyOG1MZTU2dTNSeHl4TVQ3b2JiV1FveHIzNjI3SzNrOU9PZzZESVBrZk9iVllSOTBGYUQ0b2lhUEkzS2VROC1iUDB2NkV4Z0NtazFOUEdoel96VDZ1OEFhYVdhMTdabE9la0c4a2U2el9DRVV0dW9penRlME9kaDZ5WU9sSHlrVUJEczdEYTRaSXY5RV9oWTJYS3VHQl84cTVLNUtFdFZhdlh2SGh5TnVGVmRRazFnUnBHb2Q?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2xUYzBDUnE2VklUYmpSblFmS0tpYmlOV3hPdE5DcG5rYUZuWlFOd2cxLWpzZnJDNmpLSUpSMUFKUVZqeURScTQyT2lETVVjU0EwaGlvU3Y1NVlpUVlGX0xmNzJfdnBuaFFIYUlqM3B4T1NEdUpGeDFMdzE0amZNR3lGdDRnbnhZTGtEZ1dEdFNwM3pLMzdhS19rQXd2QlZYdEg3UzI2c0R0Wmc4QTN6a0MtZ1VTamFa?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeWpHaVBQZ1FMR01ReTVEeGZIZHhPUlRCMGxfZzVnOEhFcUt0SUhEWWdhMHhGaHFoUmtKOWNGRHFId3MtekNtUjk3TUpaRVRyS1F3US1rcGR5bU1pREp4elVzbmxrX1dIam5vWGZ6YWJ5c2dXX05rOWpTZEFfR19SM0haVHU1S1NhcE9IZnlGNnhZZkdnTUcxT09qdkV5WmhnRjVYZk5IRmwwNVJERHBTZFU2Z9IBuAFBVV95cUxQQUF2eUpheTVFNzlSdGtfZFJ3eEFGVHI0UUlSeFYxelpEWG1LXy0yUkI3NzBkaWU2YlBGcllXbWh5VGhRLVUtbDd1b3Y5a1NVYnczYS1MdTVfbFJUSVJlUG1PWlRUX1ZKUTVuMm9xLV9HWXNFNy14SjJaTjU0VHBWNG1VR04zejlteGZSRGVoc20wdU5KbW1qakVMYVpubE1DNkVwbndEcjNzOTN2WHZVclhVRWw1OGEt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/23/israels-destruction-leaves-lebanons-border-villages-in-ruins?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEZZWlpJelN2UlhRa2k4MGFSQmRadjUxWktlMGp3X1k0VjNjdEN3UUNqWXl2N1ZSVnZLSUVLMDZFTGo2Yzk3ak5zeloyLWY3SDd5N1o0WUpaUmhVbUE5S21BSlpPNzcxQmQzemFkRlFhaGpzVmZtU2ZMcWpGby1JNXVPa2k3TU5XeU9rNTYxVXp3bUtVelVqdmpJMVRQejQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUlhjUzdENmhzMU9MWWtyaFJRbElrbXVDTzRpdnByUnVYbUVXUmV4R3dWd05wTEdXTDlDd0xIb0ZPdnVSWm9QVmpkSU5GcUFFWmZ0XzZ0VU9hWm9rQURKN193eG02Ykt5eFNodFNabXJIZ3RWUXpUc0F6bHViakdTX0pwbmk5aVppNlhHSVYyX1pmaG8zYTlGRUVkLXhTeEhfMl80YndkZXloam8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYU5zUnVVMzQ3RTVNOEFPTTNTWkZjemwybThTTEltZ1BOUXlhZ1otdl9acFk1am53cEh4V2lkaHJvR3hla09MMzFGeUJwVVg2SGtCdkV5NlE3bWJDREh4bXREdm5wVDhsdEwzSU94NGJnN0FJXzdYS29HY2ZSS2h4NnJCOFNoN0hjVU00VVpiVEY0b0VCbzhJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/who-is-skipping-the-un-general-assembly-and-why/a-79391652?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY082ZllXZUNITXgwbk1ZZWl4bzdIclBVbmxHanl6cVZ4d1AtMUlib0JhUFhnZkYwSUY3UTdTRGZYSmR3Q3ZnU0hLYWVUdkVFaHhTNEE4VndxeFpRTXpwR2JGTnN0ZDZLTkloMWI5cS1SeGVqWDRfQS0tNUptQkZydnFjVHEwWVR0NUNqcnZzcDkza1E1UERCQ3JB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb2cxbXRXMGNqMi1YVUUzdDMtQUgxSUF0Y3F1bnd5UlVOM09LLUdJTHZWNVhTUkpoT2JzWnNtcWNveEszQVpZS0t4ZjlSM3JNQndRaGs4Z3QtdnRFblZXbE5uRGhydGVuanZ4bHludENuUlhPM3c4dVpDZTZMZmVYeThydlY0TlBmenI1X1VYNmZqY1VxSmdTbE83MVphdEJCd2g4MTNJUXRid3ZZY0ZTRzVDSDBpRXBvUnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lNmlWWGRYbTdhN0VHQXRGYnltSG5vMm5uWDJLTmVmMVFIakFmWTdwM1hDNHEydkNQZEpTOG5KSElVdXc0NDltOEl5QjZJM1g2WGhTV1MyZkNpb2dZRFVaUFN4RC1UQ05m?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0dGQkYzWGZqMXF3NFZGRTN2cGpGcFFRa3V5WlhHcTMyVzAwSElTQUI3TEgzTFNmWHhjVEdkODJiTndGbFhScnUzX01fcU9SeGo3ZXVXcjRvdW5CSHozLWtqQkt1WGozcmhFZTB5ZjVrYWZsenEzUWpqYVNXOUp3UF8xeVU5RTEyc3RPeWVxV2gxZHczRy1HTVlYbGhPal8tb2ZVdkt5WF80Qy1vaEg5X19sSmQxbnlJYXhIdXA0NldHc2lKT01vemFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3FFVEtERF9lUEJSdEtfQTgxVHY0SHR5M1pjc3M2V1pRQXVQSmlVczNHN19Eb24yVWQ0anI3TVppUDJ4WENSZ3Z3TW1kUkhPRGdRVUI1RWRyMVd5ZGJXMVYwUFRGb0tUcGxrNG1FZFU5S1JPanJodWRiSlBXUVpXSWF5Z0k4Mm9DMXBudXN4MXlZX2lVa0kzTGlIY0pSY1dNSkJGU1ZSM3hZNld1RzhlRGNrTGhSaWRsbW9DSnBPaUNnbnM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/fresh-russian-strikes-on-ukraines-infrastructure-kill-seven": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZkE5S0F5MERFTENJVDUzNDV6T1NFOWlKX210bmpGWm1TcHJhZUk3RFFyTEpMaVh5Uk1oQ2wyMXBzdDAxeXdycHJNaFpvZERONGR6Y1RHdGFvTElUc3k0SlhRWGNQSkYzdzlsMWlvUjVhWGJ3dlp6czhWWEhPOFY1b2psNlJLVXVoM1B0SlVR0gGTAUFVX3lxTE9lVWlDVjRzaGUxS1hvVk43d2N0bk1QQ0FhVkxyVnFSRkpvbnJGY0wwbkY2bndNWEZkVmFfQ0F2NjZtejlDVC1ZeklZWUl6R2FCR3FZbDJ0aHYzZGxZS3hIbkE3bjZnMzJMVUIzZ0U2cUw1RkUwRWwwcmR0VzNSMmZfQWdNNjNUWXpMZ1JHY29QaFo2Yw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/23/surging-prices-voters-anger-how-frances-fuel-crisis-could-shape-the-presidential-campaign": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SU1BITTg2X284SVBlRmFFUUFzeDN1YlBOWEcteDN1S0tmZmx5R0F2WjQwS1ExcUVwRmVQc3dVd09rcExFbUZGTlZvbG5rSDl0R0hyaGQtMldodEdWTTNZZVFDd2NEMVpMV3IwLVdOcExBNVZSbTRoUdIBfkFVX3lxTE80bGdjQXNYNldKemZVSUlCOGVucVBvZjdSb3VLZlk0SWM0SHU4ZWFSdEU4d0FTUVpVOEtUN3YydGY2WTZXSjhkSzl5QXdfTWRyWUtqRzhGZVhUM3F5YU9PekxnckZHUG1VcXd3QlBiLWQ3RVJZaHBmZXVnOWtJUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2R0Qll3TUtvRnZiT0NjNDBldU9fMVFkZ2NyZ1ZfMC12V1NhVEJfTy1fZERGeW9faGh4YWpOOVRpcmQ3QnpxUDVjX0REVHZvX2V6dUVRbkktTkgxdld4dnFuX1c5Q00tWFJfQU9rc0FNUEt4VVdqYnN5REk5eW5ldkpvZFA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3324848/miss-universe-cambodia-team-admits-error-with-thai-photos": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHFTRE1pV2ZQZ0Z5bEdCamtrQU0weUI3ZmJuc1pnZVQ1VzBxdnFpUEkzcUVKb2tjazBHSHNsWkdoU1d0MFRjWXBBZ3hrQ3FmX0EtVE55SG4wZ0ZoZDZfYU1YRk1YNjlvbkZkaGNJSEpCN3EzZzh1Vkx5YkhDaklsVHJqSmM0OFJV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
