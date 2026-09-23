@@ -164194,5 +164194,143 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/tigrayan-leaders-say-new-war-with-ethiopian-government-has-begun-as-fighting-erupts": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/china-s-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeC05a3lWLUZwdTZRQjJDbEFVOWFlVmQ4NXlvOWxKdGtiR3hGY05MeHBlazk1NnBHQjZOUVpfRE1mRlhDeGMyTTFiNmtYaEh1WFNCR01xbnh1QnBmaEpGaS1FdWRrOFB6RUlDa01IRUQtRkZQTmpXbDRtUGlMMHJiNXFueGZ1ZEFWY0hRZ0xhSm42SndKMEVhZGk1b2dkS29a?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQU1vV1JGYzkxNmZDcEs0eUFYYlZtTHQ4ZTJzcWZQREo5NzhHZ2dsTGdIMUQyWTZuMUk2NzZZVVE4QUh0M0ZyS0V4WjdFd0loR1JDZEpkSE9RWjliam5uUVpHTHV0LXhmeHdTa3c5TG1RVzJvRmJqMWFCOUxXckpBRlRTLV9PTDgzd0JodjgwWDc3aWF6MV9SMmJWT1dWUFpkWEt2dWhDRVkxMDNBVFpnZVBB0gG3AUFVX3lxTE5KdWw4dkNsRGxUTjdRb1JxamNPN1JKVUFTdzVfZUxFS2t5em9ENTdRNE1lMlhVbHhpOEJxM24yUm9LeW80WE1yQy1Vdy1XekttNTZwNVlhRTB0UzFGc0xKajJwamZWTFE3clhUWTFpRVN0b0tCWnhGelJ0V0s1Y3hBcjB6NWhJNk9xeDVYUnJuZXNaQ2xaSHBzRUl5cV8yNEtLaExlTDlwbXNBcl92czVWNVQ1ZUYwRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUjhVakU4bGxib216eERXLUlqNTROMS14dUdYQmhLODBtQXdITHZBX2pITTFhcmlmd3hRYlZNU2xxdFhCMGdGQktwQ0JqYXJKWmRjZU51ckI3YWVoaXJZbnMwaDZ6aTZuR3czcmRoaF9rdHBvYllUR296M3lfa3ZieVdPeW54ZFZtV2tjTXdicDBESm8yVzdLeU9BdkNNMTdlYnU4dS1vTGY5bjhpM1FNblRyWFQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609230256.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/23/uk-to-review-chagos-deal-after-trump-tells-burnham-it-is-terrible": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTEUyaDRNNlZTbkNQWHk2cWpIaFhpZGlIMThmd1ZUWWx1MXNhRVE1VDRuelA1ZGVWVVRDZ19UXzl2cnRYWkY0Ym5qcjdta1Y0UjdackloTkRzSHNxTWYtRzM2d1hkNmtNcENJZXpXN0ZRY0prdkFwOTl0SU4tS3l5VlQ5N2hSUWNkbnE0dmtUS3JQV2FRYWtoMg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY0FSbzRPZWVWSGV6TTI1eW5UM21pTm9PX3hGWWU5M0ZYMHNBTUJWX2pNUU5hMkxReVJpN0M3alZ2N19manpIa2FqaGlBRk1kVENRX1RheTNZS1Y1dkhTcUI1ZUl4Vnh4cXJ3cHVRck1iZ2p1Y0FZRzhTekNkSnZNaV9CV3NscWdxTVZOU0U3aEU2M0FsbWE3RE05aHMzSjIxRTIxdmVBM0VodDN3dE1keWZ2S2ptZlpHQVh3dS1EcGtJdTRXdkEtSzM4ZkhqSERMeTM0RlZLdHVLc25JMnNGT1N6RUxuZWlndDhiU0Itd0xRR1dkWWhpYkFoWnhIa2xjSGd3dHFIRU5nblE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVFVTUlnS1VTT0gyckEwUHNCbzUwdGtZWTFwVnJoNjFJNFlkcEstYVNaTUdaN01Kb1pYVmpDVTdtN203NlhMMllGSU0zamNKZGFBY3dYdGlwbUhQYUtnNWFGQ29DbEVpa0ZMSWVWdGVtOTJnYV80NzJuMV9ldFFreS1hbUZzcXZ2ZjY3MFdYSnpSNUZVVGg2THBRb3FzZzZYTUVQOE1oazhYMl9IWmZldkVoTlQ2NWphWVdlNThoVFQ0R2lxTXZaQjNsVVlwRWR3OC1DRTlkRjdnNlnSAeABQVVfeXFMT1FpS3FrZUFyODM2eUstQW02cXZCMUpsSXhxam1qRUNYcF9BYlZHQjFHUjJSYW1KXzBzYXp1RWlxSHotYnNSRmsyZDVzR0pBRUxTSzJsVTdITTAxUHljWkJjcDcxcEVLVElVamJIYW5SVGZ5RzdyOTl1ZjR6aGJEY2E0X1p2bXN0SEYzVE9mdnZDaWpIWklOdDZ0UFRZVUZNU0UyX0ZmWjZwWkxYVVRaLXBFSFJCUWo3NlRBU2VhN1ozZC1xWDRBMWgtUklHY2VNMm5CRlBOaGo4OFRESkdsQ1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russian-military-helicopter-entered-polish-airspace-briefly-polish-army-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0RaN1MweFdXRlY0SW9vakZlZUp1NkRkakhrdUxab0Y1V1Mzak44VWtubFY4YWlKak9YNWtCVExKa2cxZFo3bEFXX2ZyWV9WMFhuV1pPX0JBVTM0MGFXWG1PYjU1LXQ0d2wzWC03SlZieWgybmpTLURPaC1uaUV5RnBaX0lHdWViY1VMUFNDTFdncVJ0Z3lNd3dvUnYzNzVMdG81aXlEZXdjMmJadDNV0gG0AUFVX3lxTE1ySEFUT1hJak1nSXJjandmOVFJbjZGM2VJZjFxYW5HZDQwQjhPTkRWakV1VkxRbTBwWFplWTI5UURMRFlnak9rWnlucnhMTXh0Z09VSVZFblAzc1lpc193SjB6NFUtTVNlQmItZFBKaGtYbU1vYThTT2VQbUVnQnFKZXlBeF9VR0c2bHhsY1REblQ3aEpET1hzaDdROXRCY242MEdmOEJ0WUE2aDhTcDdUSWpXRg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/commission-proposed-unlocking-funding-for-hungary-frozen-under-orban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3324784/bangkok-tackles-cable-clutter-ahead-of-imfworld-bank-meetings": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lQzRYVExQdVlNT2tDbV83LXEtb2RneExLb1ByZmQzc3hWRXFuc1hzdWtob1hPb0RNaVA0cFE4ekRVQWpDWkdXVy1fNFczN3JMaVY5T0xYNHVpUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGR2bVhaWFR4ZmJBWjNEOWw2ckZKWDd2WGxUWE9CYWVQQnZQMlYyRzQ0WEZXRnc0ZktvR0xPTzluNllTVWdKLW1fdXo4Tzd4Q3dEaEgxYzVGWXA2dDVRRTlTWmFxRXlhelg2MTk4dHZ6Vm1TbjhQSW5xd0ZOSU5zaGgxVlNBdlIzUDVIbXpxWXU1ejM1UWloRjJta0ttWlp5dGFEb1NmMzNLTExEQjhqcXhqN2p6LXRTV1Vj0gHAAUFVX3lxTFBOMElTcWFJQk0xTGZCYjZlclE2N294Wm01Mjl3T0ViTHQwOGpHS2xZbDJqOUEwcjFkT3JXMUpua2VLTHh0NHRUdmJrMDkxekt0WENXbnVoZ1VZdjJJMTZUVGtBWDdlVHpFY2tkdUN2Y1B3azA2VjdjVWtrLWhuQWdGNEJMLUN0N2d1RlhsU21IQ01sUDJsRG1iZXRHRHhfdXRYVVJ6YXhqV1pJc2pFRHVVN3ItSkZaWXpQTFFWenQ0Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zbXFDWW5KYTRRZk1KYWp2M1pZa2hPeHZLNGtfOFpFVjJJSHFHUUkyMTR3V2NWeTVxZ1VNU3RGZ3U2ZmtKQ1NmUjJORk9yUXlfdE8wMExjRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXFaejVwcTBQSXhDcjRvZ3dHSkVFY0RKM3BRMk1VbGJtbHFmU1diLTB6UDFWTmNpX0xTS2Z5UXhyVEdFdWJnZmpCdjRYeFdXTHVOajB1MzVkOTM3NFNkWHhZZzhjb3l3NHVSM0ZpRVpidnVhYmtqTlZWWFozVEttNnl5ZExVemo1TFhVZ2FNUkxPWERibkQ5cw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/9/23/uefas-ceferin-says-fifa-trust-still-broken-after-infantino-investment-row?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
