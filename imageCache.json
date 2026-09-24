@@ -164866,5 +164866,143 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV0lZOFVqRTE1VkRydU9FN29DNnkxSlRXdkx3Mm02UVhlTUNWdVo3UDI0UTR0ejNNVEFzOW1iOWszS2dsa2pDYnJtTW82ODQ1Ri1SMlVaVm56akd0QmlUcTZJalpMWmp1dnFDMFE4T2prbTcwQ3FaVXV5aC16eHduX2VMeEJHODVNOXh2a0ZnSWZMaXRIQml1Tl82TDF3NzNDQmZDWHJn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/24/judge-orders-trump-to-restore-cnn-politico-and-ms-nows-access-to-white-house": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-24/morgan-stanley-rushes-to-contain-fallout-after-deal-list-leak": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS051cC1BN2VtYm9pT0wtQkhoaWNIa3lpU2dzbzJfNjhjaXpKZFQ1MkZUVk9kdGRDbkwyVW9rUWY1NHFKVFlTbl85X0haTjFnQjhEOU1sQ3k4cGJiUG9JRkFSYWM2QXZmWG1OOHJ0VlkyTlRKUERjR284RVA0YXNGcU5HQ0JCWHpqYkNKZ05R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/24/outcry-in-sudan-as-us-reportedly-holds-army-chiefs-un-visa-over-ceasefire?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1BteEY2NkMzQnhWdE5FYnA4NmVXVEhzc3liZTdrdDRIU1B0eTNXVUg3SHJ0N1prQjNIZ1dPZHZaRDg2bGhyZXZuQ3FFLXFfSmR6cWd4VTl1VnFUMm9hLXJSd0pITW1CRnREdmdhTXhMWFlmMkNiVjdSaUVNOVBFUFRhbTZCT0RMNGtCc1A2WklaSHBoR1dDaUtB0gGfAUFVX3lxTE81UjBqdDNLZ1djcEh5SnJvd0txaF9BSkFKZ09ya29qNHB2di1sSjVEU0VRUTZuQ3d1aDBqT0VPb2VVYTQxV1JWUEpGQVF1bW5vWlQ2OUQ5b1NzWHdFNjJ0U3FWRk5DVmNEV2wxUnRnMHZOQ3VJS08yV0x6TnFuNVVPSWRpQW9VWUFKOGJRcHpJc0FuWlBWa21oQnNIcm1CRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYWdvSXg2cEV6RXNyam12YVFTX3dsNzBDUEs4ZjJSbGhyUmhtRlVuN1N4VHd4LWxDRkFnbjNqNnFQMFJBSDRRV1N2ckNWUjI5X041WHBFLUNRZ2pQUGYtQVJaUFJac2ktY1FWbTFxeUgzNFVTWGV4S0ZPbXA1LTRYb2NIcVp2NFhXYmJRMDA3YlFXSlk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CRFhmVnpRYVBsSXRoc3VwSVJYQm9SQ1pacTVtRmltbDJZUm5KMVM0cHdhcGtVOXZYYVAwSzU2dHRJRWE2d1V0bWJJN1o4ZHl4Q1c0S1Z3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3325338/thailand-slams-chaotic-asian-games-organisation": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tX0VvcEt4QUdjN2U4cXdSSGtEcmF4SjJhYjd1TC1QYzlHaWEwakpyUVJjdDhPSVBUTXItQ3lneFRJT1BSb2JZSEhkOTV5NzYyNmtXemJOaE1kN1JrWkJSXw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2V3M0FDTVFqZHRzNHRTZEs3TXhqaWg4TmZqV1F4bWo5ZkE0TGQtV1dsMGJfSHBqQXZobkl5ZUtOdzR2MzQ0dGZWN3hyVnhrdXVZbElMQmZBd2JnMUNTdG1STmtxX1p0dWs2eVZubFNtbkxrSVZtUk1wTFgxWEFmZWxOT1pFUjNlc3F4RFVPVzhDT2hwOTdJWEwyMVEwRmx3VUZ3OUF4VlJVMDlFWmEwUWQtbndKTzVPOWs4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZGt3MzFWc3RVeHZzVGtrT2luUDZGWWpWN0JrQm9XUUs0d2g4OVBTdHpZX1o4VUx2TFJydXpRT3F6aG9CNlpveXM2c3ZxQ0JDRmxIcEY2LXlKODVTc2pNZV9SV0FMX1RTczQyNWhoU3BwOEN5aUtJYUpyZWc0MDZnVlRTYzVKQm5uanljRTdDcnF6dFNPWGJtaUpHSzJYX2lzRHdZVmFudXlqaWw2R2N5b2hNeVZTaGh20gG-AUFVX3lxTE45YVQ2S3FaQjA5c3hLZWpSSmYzeFVZa3J5T3JlSS10RElnVWJZSVpqbDBIVWplZ0Q2WHFVSDdER3RaUHV2NVl5VU9CTWVCaWRtWHgxTFozNm9KNjBQc0FQVkFrXzZrMlRwNFhhTWJ5dWtIN0U2OWNKQllmaVJtbGJHc2E0LVpBajd1YWlaTGtJRWgxSDdacmNidUJIN0wyQmZhLU44ZGdoZmk1c0RZTDlnNHRQOTZnd3drSjZjVXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkZ1dklTbl80aUFYMjc5SmdzUTFJZk5FX1RoQ0Z0R05IdE5oQzNBTTAwQjFvZlI2WTUyXzVSb3BtSFFmZnVOQVI2UG5HMTRJem4zeTgycExBemlwTkI4N2ZENzJWN3NONnZ3Mko0c242OXFvWGc1bDBySWVmQi1nYTU5elNwUkswSnJnd3M2REFSUzAxQUYtTEZFY0hfMUprRzg5QVY2ZEhPVGozcDlQT3h4S3NEQXdSdEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/24/albanese-says-openai-hacked-government-health-website-in-obviously-unacceptable-breach": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOEZHSVRna0NiMGUxUEZlZHpqeE1KMEw0TmpFclk1RVduR2I5cG1mRWZMM29HMXk0bTNnLXZfS0ZZWG10dGM4Mm1CS3h6ZTVWVWhlMUVHUUYxR21NakdIOWxFQ1gtdWYtWW5UTjRoWld4YVN5MWlXbkJQR0dLUzlrWlZpUUIxb0pmNm5tSi1oY01COHlhSllkaEVaMUFweHJlLW1kdW5NbU5UbFRIaEtGYUVzR2wtbnBmR3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/24/pakistan-administered-kashmir-votes-for-president-amid-unrest?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/world-news/trumps-push-to-acquire-greenland-almost-broke-nato-the-winner-of-it-all-may-be-greenland/articleshow/134453346.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CLWpMVHoway05YlpCRFVKYmNCSVE3M09yRmswNnptWFZxOUlYWU1pdGRYbnBnV1RCYVNoS3dMLUROeDhTSUl6b3RGRGtyX3c1R3IwNTYtb2E5djQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckhJUnRyN1VmZWF0Z2d5U0dEZHJDQ01TMndWYlA2bFNEZkswUVNlVDhUeDBOV1JLYU1tUGFBS250dDYzMlNhSGp6a0c3OVFRc0x1LXVCQ3Nsd2RtMF92dDFhYVdmVmhjSG9fNXJCaGRuRTJVZjl0YjI4aV9DNURRQ0txUUFjNEhBbEdmeWlKWlgwZWZqb1NuSlppQ0hqYkEyNlVRY1h3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2V0dEhVcDZ4eUpiN0F1QlJOOVdNRDRCVlNZWFpKclp3Z29ZaHFkUDlpaUVxVFYzOHN0S1FlajVoVlpERTU2LVRZSmpSb3Z1SlVJY1FWOXRRa0hzaC1IelJ3UGJEcldQb1U3SzZxdlNheUVDaU9NV2JIVlAzWUp5b2t6WnRCZlI0RTd6dVFGZUdremlIQmtpVXl1LU4yV3hiMnZnYmlPWDE3ZUgyeW5nUjJn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
