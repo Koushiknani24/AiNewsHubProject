@@ -165622,5 +165622,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-administration-asks-us-supreme-court-to-intervene-to-allow-third-country-deportations": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/politics-news/david-ellison-elon-musk-fox-news-hosts-white-house-dinner-1236709831/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/more-than-7000-ignore-clouds-to-gather-at-chichen-itza-for-equinox/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwOGVfUVZuSWhtN3FjVlpycEczc0dkTWw1Zm16M0xmMkpuM04tOXB4YlVoOWd4azVfcWdUTjBscFF5YkNrcFo3djhscXE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMGM2ZTY0Z3pTcEd2N1YzTnlVcDBKWFNuYlFLQjF3MXRBU055RDNVTFdBZ184T0U5UzlOeXc0MWkyOWw5bGY0U0paRUpvN1JVejF3dDFXTFhwYTVJNVhJWVdhMEl4U0tBaDE3STZ1RVJMWmJnbXNnZ25WTFQzWDVFd1RET0xqM3Buc2NTWjN3dTBZMVZZWUhhUHJnVTRhdTdib3NFMWZ0bjdzeFpnRFB3NFZsMUxLNUJqbzBVYVE0WnRLRVhDR1BIZnNRcVpjdVBxWXYwNDRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeWhkY0pTWnRPTVhYSGpHdldObjdReU5BZDRpRUtmTjVRaFo5OGMxVEdKNW9DWnNFRkNJejhvZndnSS11Yk9adGpyN0l6cGJDVkl2ejJZWjh6ZHJVcEwtdzVGNWpSUHpZcVI1bGtnY3h6MldEbl83WkdmX0ZiVVBJWXV3Z0R5TzdkcnNzZTh0dDZmMmEwR3cwRlM4dlphWUloLUN4b3FQUkF4S29vNE9vUzh0RzQ3dHU2U1VjY3p0TXpDUTY1SUR2SmpIN0l4endwUHR4MTdWbllxSmpFUWRtNEdZcm1WbFZ2TWZTeVBSZU8telJobE9lREg4djFkVEVzS0YySmVDUEc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdnJwSHpERWtPZHdtWGpCRkRNQ0Jocm5UdEhiRkJKUEdoODdUMElJOE1aYUNqYnlfSDlmTWVaRnBzbDVieXdWYUJ4T2pnNXVCaUhsR0Y3YWMxbVAtN1Nqd2txVTJKRXZOMDJHQUoxWjFTR3pQSWFUS3JFeGwxbmRjTXlLUVl4eFJVRm5XWDhDWktJbmJWbGp6dnNocDJ0SXh4TWhIV0dHQ2Q3VXdMVC1yeFpwSjBQWDNmaEl6Z2Z0emJPdWJqMXRHYk9LeWRmUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXZDR3RBNXJzYmwwSHU1WHFQanRNcUtWUFhfNW1mTk5vckVGdUUtczZhazQ4OXNuaUZIbEhyY2s0TGlTUlJOVmFDOTJaRlhLZEpIWVQzdUpNQWpqcURpbE1PblRaUExWTTV2NDFfT0FJZDJDZVZJVHNEQzZCYW9qQjREU2QtbURleDVrTjdXTkNSNWZIUm5qemVTMXVGb0dySDRPNHpTempZSk92YThxbVhoU250OWRheWdhb2ZXcUVzWTFiZnJUb3VqZFFLWEU2?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/09/24/us/politics/full-guest-list-trump-state-dinner-xi.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYnYzOE5rdWxhc1Z3VU5kWjF6TlQ2a0E0X0ROTHlzc05neUFRbXUxOG5XX0lQazdpTnBSNUdtczRzYmdKOENNbUxmblhtUzB5NTlfZzlRRFFYOWxya1B1TXlxUUdiSzlESDVXTmduWVF4NGFhV1lPR1hVNmNlVm5nN05vN1NDOTJ0bDAxT3p6aFM2OGE0RHNyX05TOUg0TXpMRWgxR040aUU2cENJbncxRDg3MG1XUXM3TWtMS0laWl9tNVJXRjhJWVU1ZDdyclNi?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/juchitan-mayor-arrested-oaxaca-cjng-anti-corruption/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN1BaYkM4eW1RQ2VGb2F4ay1nTDE1VFRoZktQOTNHT3FoSk9vb1U0OVlFa2MtOEs1WFN0dXhVcjBGVmhrLUtVLTUzVWlIbENnMkNQMEtHQWVJTUlMR0IzWDIyYjNsUjQ5Qkd5MDhPWTBUcHFhSkFHekNjMDhRc003eEZ2MXJUQVlBenE0c2xyM1FaWkZ4Umc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDZrdElaRGZFa0lWcElyUDFQZXNVRGtCYU5RYU42Y1RsY01UZzh6NFNDS0Y2SzBDN2xXX3g2RnlueVFkREpvekJHUDZXTjBoZEtmZ25XTW1ldlZMUkJvWjhpcjFHdVNCZDVQM0h3VU5XVDZlUkhQWmZBcFFBU05yWVNqR1pNek9iblMzYzJnc1F5LXZpRlJzYQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
