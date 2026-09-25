@@ -166012,5 +166012,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/25/trump-and-xi-declare-harmony-no-confrontation-as-us-state-visit-ends": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalFxZkxydjhkRThIeXNRSWlxeXFuMjFRZjgxamRjN2hrNGFtazlKZVRMYldteWdKRVFVZGZ0MzBzTktZUjNwWHk4SkZyLVp0V1JaZkxIVzRvbUp6cVRuZmdzdHpDTUxlbEE2QWFOU1lMYTdFNWthdmpGNU5mNW1sV0pLMXFRRVNv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-25/the-love-hate-relationship-with-ai-unfolding-on-social-media": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUUwzMXJ3d0dFcW1vaUJJc293SV91WHpDQzZ4Mk1DVmFWWk1YQlVCTnlRLWF0VF9KUGRBWTlvUHBsX001RzQyVzhiY3lqZTBtbWk4UFduWXoyQkVqbHVMS0NmdjJ5SHg3amJpckc1N1c4UjJiWWRWTEhOaWhBQ1Z0XzZacDhYRkJONlBSSzkybw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaVl0R0hCSVRoaHRzRTRYT0JCbXR1MjVTX0h6Q0FsVzh5TVZDVm4zb2x3UGx1aVZmZlFaaFp4RllsVEJfV2hvRi1FNG40M1NhTjZKQmJIRlRWcEhPQ2REaHJZMDRXUUg5WlJFOFgzQW5Vb25TZ1EyaTgxTnlkOXNGTTJpREp6RmNETjlMN3RkRVNRdHZQV2pyQThVQWx6ZHdOMV91M19YazFnNEVqdzduWGxsYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/sports/3326069/manchester-city-guilty-of-114-premier-league-charges": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/canos-malinche-musical-thats-not-all-song-dance/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxORDlRN0trVi1qOHdleWNJSTZEMDNZNXo1M0tCeU84VG9lZ2VUX0JYNzV1aEtoZE1pN2F5MXFveFBOTnlYc0VZcE14MnlqQlNWQjQ3UERXWm9keHlqOU1pazhMTl9OTVlLS2VGZXU5U2lJNEwzSTIzV3dZc2dwN1R0U2Y2MENpYXRKWWhfem1aR1FBaHFpRW9ldGVPZVpSUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYVJXWDBlXzQzd0ttd3BLOUZIR1hUbERsUmFxN2VHd2tVb0tOZTdUM29iNUQycTdaci1ETVVpVnRQbzhqQlpRdWY2NlJ1dGJKSnI2VF9oaDJmMm9KRmYtdlZvWDFCR05uRUZRR3QwdXh3VnE0UVRfTE9ORS1oS01YX2NORERCNW5TYjZ5b09QZzlFeDU4QUxR0gGcAUFVX3lxTE9Vc0NoMzdJWnVxUEw0MTdxeUtZQ2h6d05nclgwN3JnX0owRm5XcjZneXo0R0xjTmI0ckdZYkRlR3ZuZ1Fkc2FWZzhyVTI2MlRxX200T0k1c1FfU0ZVUXcydExtZGRCTV8zOGptd3R6WDJ5X0ozZFY1d1F5MlJOSnFZa3N3Vk5ZMGd6WWxzY2dpQlRxWV8yUFFlY0lZYg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVdpMDZpOTI2NEdtakd6WUtLOTZTM3ZmbkFSSkpEUGxJYVV1QklqZE5wMFM4ZU84dmtlX2RjQTY1OElZcTJWcGxLbWhrNkpaTDBWaUZIaTBDaW5JUGZ4QlR0cUZxaXpIOWRWekV6alRCOEw4MmVBUUdmWURHR3cyaGpEOGVvZnBhQ242emRtbmp1V0dONWt4WEN5ZTRIVDQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/lithuanian-skies-are-nato-skies-dw-speaks-with-lithuanian-premier-mindaugas-sinkevicius/a-79432394?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609250394.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2VmV1dqTHdDUm9kQlNRbS1OUU9vaHJhZXQ2VHdWRzVmbmFJSldDbWFRU3hHMUlxczBybXV3a2JVcWhEN3hBRXVhZDNNUEF3QU53Tkh5LVFmcm4tLUU0MVNHY2p2TjdtRjdjU3Q0RDRUTHVDSUFpeTVpbzlYU0djSGxMWlJlclAxdEVWdzR1RXJZSGN3YjNzS044Y0pCUzJQU1p0aUJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVdZMlktTUwtbjRXLWNBbDVLcW9iZjlXaWxxQktUN29CQ3FxQlQ4MnNaeWRWbDVjb0RtSzI3NlJaX051MUZnalptR05vQkFteHloUnFDV0RaTEhCMndINnpQbHg2NzdmYXJoeWk4bm02TGFJSWxvRzJIcl9oZ3R1S1hSYXBucldfTWdIRjR4eHlBSmlZOURFdXgxMGpoRndUeUFRdy1NdHhlM2dSNlYyTEpkQUcyd9IBuwFBVV95cUxOemF2d2VrcTZBRXFPUkhnS1RlVEpvOFpaaEJEdjdiRnZrZEtTM0JBN3JaUEtFeERhYVpHY2JwalpFbXI4MEpOZVRacXVZdUFwUGhtanZvMWFEUzNUbnVlTXFyRFZBN0I1d0hRWmkxcDMtZThZN1dfN2prY3V3T1BaeXh0TUpwWjQwUXNpVVJSN3NyZ3dTOHpsOTlfSHV5NmJTeHVfaTZ2YTNheTBoN3pkdU9rS3VFWmo5MTIw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-25/us-justice-department-closes-investigation-of-crowdstrike-deals": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/09/25/latest-news-bulletin-september-25th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/9/25/ethiopias-new-rebel-alliance-faces-an-old-problem?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/25/more-than-55000-sudanese-refugees-flee-to-chad-as-un-calls-for-funding?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/more-than-40-missing-after-congo-passenger-boat-sinks-official-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekp2cngxTjNYaDJqX2tSZXV2QWxRRlRxYTNZcGg5Y0hkMThad0dBX1FoRGZRSnM2ZnEyV041czNXaWtsWGxRR1dlNG45TlN5ZkRuNEJDWTRKMmMwM0YwX0dmRHB2QkQtNHVXSTZ5c0xKaHJzTFFuUlU3WlZHaXVSN21ZOWd5NnpScVljaVRYOGR3bzVHTURIMGg5bkxQb1hyanVBMk5LS3psUEnSAbABQVVfeXFMTWx2ZmhrLXJEMmlRWHlOU3BVZ0xEaHZOWlZpOGlkMHVNZTFyODJNd0FpT2FkeUlPRVhmdHA5UzVSN21ZaWlfN3FGSU5QMjYxSXBhVHlOYjA0WWVVUHFodGtNOGh3T3p2ejFKczBjdDBhNEFqY1lUanJTSjZGdWRiUXRhdXVtYW5fTzJ2VU82blF3cFY2VkNIZjZZWVFaMTQ4NHNzLUJpT0owcDJCLUtsV3Y?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
