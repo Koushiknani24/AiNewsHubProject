@@ -166144,5 +166144,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/exclusive-openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-6411996": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/margaret-qualley-sabrina-carpenter-tom-holland-fred-astaire-1236710264/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/shinyhunters-hackers-say-they-stole-psychiatric-and-medical-records-of-fbi-staff": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-25/openai-says-its-models-may-have-interfered-with-government-sites": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWXRRTmRWM3FiRUFuTktRZmR3X3phSnhVVzRlZEJLY1M1Ym40b1ctc0tXdnB4QXM2Z2RDXzRlSjZuTTU3ekJFcFBRQ0xacWROZ29yYUVWV2VKZVpwQ2cyTmJkenNSWnBRWlY4TXl4bWtmX2Y3YUNnTmVJSEU1b3VHVDM0UXVGM1d0S2pDT0djS2lWSnNSSjRPeEQzcEZnY1ROSmJLbUVGbDVTc2Fn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-says-treasurys-scott-bessent-will-not-be-his-ai-czar": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/25/the-us-lays-groundwork-for-possible-military-action-in-cuba-according-to-cbs-news": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/banxico-interest-rates-steady-super-peso/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/25/iran-proposes-plan-to-us-to-reopen-hormuz-in-seven-days-and-end-the-war": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWpvbkZRaUJ1T2pVWUhhYlRLTTdZMWw4TFpBVTRWSi1VUkZoTUlMcHZ4Zm5fNmFMeHI3dkRJMDhTNEJXOFVmSUFDc19pUFlBOGhCTHFqZ0h6aHkyM0NQYXJHUlcxaTFWblR5bF84engtVzJvT29ETDBXdXhFRnlhSWo4UjNzbWxzcVVZVm53bF9sZC1zVWVwQTM1V1FoQW11dFJZV3FxdVJYUmM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/colombia-extradites-top-rebel-commander-to-us-in-first-under-new-president-sources-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWV1TWVFc29qQTQ2SnNXbGU5bXJPaU0yYVRrd2NLZ1U4OEtLdTdzNVQzRV9TdmlEWFgxTWF4LXRJdzB2M3BadHFNa0lvY2dhaDdBNnV3eXBhamlGQTFTV0U2Z2lseDVmYUVUWU9VeUl6UEtvSmxxYVZNaW5GaU9VSUJiMGdJLVJqUy1zZjBwWHNOTW1YWmYxR2FreDhXN19G?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/mark-piznarski-dead-gossip-girl-veronica-mars-everwood-1236707962/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM2szRE03TFpvVWE2cmpCc3FUOTUyT19ZM2NEM3FrRVRRbF8zcS1SQjU0Qjd5SDRwS1JET01lUXhoU1QwNVFtS1BOeFhQcW1CVUdvWjRkMWdhZVpVelZNNnZ0TkhfYzFkX2MzbXRHNW1WUFRRaXZZNG9TSkFKaDJaZzV5Q3VSODV1aGpMYmhQUzNDeElBOHRKeU84R3RMTjVBOWVlc0UtdUljbUM3b3pPLVVBTTJ4eG9yR2EyY1dCYlB4bkp4TTBsdjdjQjU0bDlUU2QzMm8xbzlCS0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-man-who-said-ahorita-1998-finally-returns-neighbors-tool/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/25/which-countries-walked-out-of-netanyahus-unga-speech?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNnFOZjQxU2VGX1lNdWtmRlhHVG40eWZCLTJ0WVFUczV2OGtjRldtY0FQZVExTjlLbkRkQm01V0N0ZGJ6eXZyLTNEVWJ3azh3M3JMX3Q3c2FSTHo4N1hyYU1TNGZLSTBfb3YtQ2dfU2loWDJQOVRuaGtvaDN0OXpkNXhmanM5UTdKUnN5MVNzVUdlWHRaQks0OFZXYU5YeUV3WFYtTTNnNWxyeFhzUS1Bb0k5RTZjT0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkpjZXJzRGZEbS12RkFMRHU1R0VndkNEZ0Z4NmJvV2JKMm5WaG9NdlY0aXp1S0FSUzktMzB1SnJiXzRpYnlTa2Y1R01PajhRN2JidUxabTJuZDZla3ZTWHNuRm5BZVhES1ZtNEVYa2xwR2RWQkYxbG02Y1BsdU9OM1k4ZjhIYjNHNmI0dTh6Qk9IaWpzUkNENnJOd01wRVhLbnZrV3VxM01HSFNCWTNndUtQaGJIQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
