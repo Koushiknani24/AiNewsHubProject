@@ -167380,5 +167380,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/missing-shadnagar-woman-found-dead-near-mekaguda/article71515953.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/sailing-italy-dominate-win-americas-cup-run-up-regatta-in-naples-6413896": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/27/irans-revolutionary-guards-claim-seizure-of-second-us-underwater-drone-in-strait-of-hormuz": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHd1NjNEc21FaEEwN0J3anhGR042dTN6TVA4SlA4X3V5YVZWYVFPakJCdW55Y2V0aHhMSWR1OXVKX2lNZ2t5UXpTWjdHckJjSnNaTXVzM2VmYmY2cWE4MVRjQWdsYTRLdGc5T0JERVhzNE5iemZVOGwyTE5kTGIyYjFFX2tHTzFLaG5DZlVWZF9JR09WNkU4ZXZ6QUxTLVlHZHdiUk1BNlJTOFU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQjdfZnJBZTZaWGl2aVo5eXpTQ1Q0TnJJUGRrdDQ4cUROVl9rXzU5Wm94ZExVUVByVFprYURNYlBMamVfZVJUT0dEcjFXa0I5Q1pIWTZNQUEwMTZ0UE9LWWVNazNyZnBvZ3dZdnVQNEpNamJKTmRKNW9BWW9FZjNpV3h6dmhRRVVocjJXT2I1RDVnN2dBWTRiVUV0aXA5akNqUlgwYWRfdVBBWXZ3TlpKSHB5SHNIWl9zTjA1aFpFUGtYd9IBxwFBVV95cUxPS0ZYZE0xUmhJVnNZOEpfZFN0QjFITVh3Y29VSUNta3ZFVzZSY1Ezd3hrODY4TWJFOFBKek9rTjlKa2lQVGk0WGpHVThKV1FyWFFUX21FTWRNOFNkZDQ0Nkk2cTNUa2Mwakl4dHFhVG1RRlBZa0FLRU53czZlRkJhbXVlS2hyMGZfdm9reXJRUlk4SksyaUhydFc1SnpQOUk4dzFqbGZJUjZBeGtuNUQxNmpocVdfSlFQTE42dTgxcXJmOFZfaW80?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-says-it-struck-military-infrastructure-vessels-in-ukraine": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/european-cities-seek-ways-of-boosting-affordable-housing/a-79438939?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZktnbmVwX0JWdDRSYXhkaFpMNVE3YXZmLXZiN1BTQTFnRUVFWElUS2xrdldKcmJKbnowUnBma3V0amhGUmt4dmhVZlo4b3JER2h0ZFNLcnprREdjOW9kdG1ORmdNOUtfc2M0SzJ4NjBWZU5zRmpTRld3Ylp0anZIcUhVT0JTZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWU1SnN3aTQ0UDZIakZaX0pWU3hxemVjd1ljZjVOZFpFdk5DLTNrTlpXczlWWXRxY0ZmZWxWNGV0b0ZJakNhZGNyRWlaRXExMEp3TTVudzZFZGpkdjdlR2wxQzdoWVkxWkV3Z0ZsZkdhLVVMQVd3RzV3TS1Jc3hRXzFsMlhld3BwQ01CZVE5MTBTR2ZLMUEtRXU5dy1TWHNRZGhXYlNrMnJyeTFPLWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdndpNFhIc1JxRVg5a1VnUjRZOUs2VkRrUVpsTzJYX2F1UFJ1UjFhVXV1cXhoSEtPUmczVlJPaExPenc2WmZadUF5MHAyRjZWX20wVXZHZnBnQTE4U3BWSUpOUzFpSy1xbF9OY1RzM1dvLTBMWjllRGw3OHd4TlUzVHpiMTFUQ3BCdTFWT1pvcXlTYk50YWY0ODg3d2dsQVlWY0M4ZA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmdOdlJEMEQ4dmtRUTBFWGtFT1o4UTBjcnFhS01GUGF0bWFMaUJzMmJBZVNxMzE4WHdveHlKN2h6V3lyN3YybjN6azNDanE0aXM5ZjhZSUxMWGNyeGRFSWx6WUtndVk0ZTB5eDVISTg5b1VDOXJpd0hiamt4Sk5IRlFaXzhFdE3SAYwBQVVfeXFMTm12eTFrYm5IN195Zk1PMzBXMEJ0NkZVTWtPbmRiSWtTN3FWQlBmdHRoNXBwU3BhbWRUNzVFX3hvT0Y5bDBncGV4YmZfWkdVZy1TRE5tc3lwaThDWkVoc0w0S28zTnpQX3kxWWFYSTdTbTJ0VUc2NXpQVWcwVG5ibDJITjJsQXRaTXZXaTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOajRIdU1FcFQ4S3laMTAzWTVXYzlLeXdtSmpaSWltek9Cc1R0dDFVNXYtT2x0TGFMYU5jOXVidThLbEdqWXE1amFZUHNpT1hMaHhVM0tmNTNvbGNpSWZYcHBWWUhMMFlpSDMzTnU1aHJJdFA2VkIzY3lab0N6ZFZMYmpoUTZ2Rm5kVGhJcGhrUzZtM05uSTlYcDljLUdnMmF5Y0tESGJhRXo1WGFESjk1cEh5ek1BZ3pVS2JhMmgwTHJ3RUhuUVpUM1Nzb0RiaEwzdGRhcGlsc2RObDdYSzQycFhOd1h1SEZUSmM5WUV3WWxwQV9TZXdUOFVKMEc0cUdUYkltVGVQYzlVcGs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-hits-ukraines-largest-mobile-provider-strikes-data-centres": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-commission-calls-for-gas-electricity-demand-cuts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/ecotourism-crocodile-conservation-la-ventanilla-oaxaca/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/true-crime-reports/2026/9/27/true-crime-reports-the-dosa-kings-deadly-obsession?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKLTRhQkEwVXNQMlNSbERrN29xeGFLUVFzeVQ1YkJrTERBUG13X1U3UDFqVmRDRHNncXBja2J1Y1lhV3pNRWhDby0xWlQyTEhIMVh5ZmxR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUdZa3dhMklDNWdUM1NfOGRMY2JXbktyTmd3M1BnOTFWZkVDZzFHeUgtZ3E4TG5xWGFlWTA1M0sxNG5IcXJWSUZVR3JWckk1b2ROU0x4c0loTFVMcWE5LUhOYVJTcVJGSXJoQVMzWW1BR1ZVcG1YTjNYc053MWhhYVdBNkNKTWVySGJHbmY0Unpka1ktRUVFcEtn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
