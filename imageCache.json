@@ -168190,5 +168190,227 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-28/mongodb-plunges-18-closing-bell-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/net-oil-revenue-pemex-2027/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/odisha/shah-to-chair-meeting-to-resolvemahanadiwater-sharing-dispute/article71520979.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/nigel-farage-reform-uk-is-still-labours-main-opponent-says-party-chair-bridget-phillipson/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZTVmZV96NHRwLUZWeXhCYml3akJCQmxsaVZIbGhDandZM2VZVWp5Z2ZYeng4VkNvTHpReHlRaUFkc09kbERFZnJ6RnhFdWhabXE2M0J1b0dUS1l3ZjVaeU5DUFFnSENnSm4tNm1UQjJmb2dPOHZaN1UzTWhUR2JZenlKcFl6SmtITkk3ZmtObkp5X09PcG9ac2l3OXlHaUV5THVwQkJOYzJtLUFoRTZPOXZSY2VXU3pfYWU2bnY4TXBXYTRYWEtRQnJFQU9iY2dOaURXcg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5cEVtb1JMa0RIMWd0Y3V4dExyYm1VZ0JpWkRObDRzYkxPRGtpazR3dEJrQ1psaFBMS051S1FDTU82Y3R4N1ZFbFc4RzctUUhyTFFLUkxMQzF1V0M0ZG9TSDBTby1xanFPbWhNWDJTZDJXbFNwTVhLVVBUMGg1eGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc3NGWWVIcXhoaU5sVzJpYkVuYWJ6Skl5ZkR3ZWpaaUdHR3J4OGV1bzJLU0NQODNobEE5UFMwQnFQc2VnQmxLOUpDclN3Vk1xQ3BfdmpnQjE2U0wwLUpkZUtyWGRXS1poLXlyRGJYNDhwMl9GaU94cXViRzhIYjZlM0VKcVdtMXB6Skhv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/uk-police-release-five-men-on-bail-after-airbase-incident": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-28/amd-to-buy-world-labs-ai-startup-for-8-2-billion-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ25JdWNuMVJmQzZSTVpzMl82YTh6Y2Q5ZHFTaFZTUE5PT3hGZHd5NmY1VVFDN3FRb3NwVkltSmFDaDZoeHQycUc3ZkZPWk1JODlNV3VjX1lHbFB4LXRkUWpKUWdFNVJSMHpQMl9fZkVhSDFNb29QdmZvd1F4YjJZb1JMWG15QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wdFJUd1FsUDZLRmZCWkxVTFF1cE1OckhVS3UwQkNRcXN0bVlBLXVRWng5NUhiYTQtcHBndFNfbzgtZVJ4X3A5aFNNbElyRjlaVWZJampYUG5aanNNUXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVhmOC1MX0YtRnFJWDhIcVdTUUpYZkJXanNFTDRSWjVPMjR4UW9vVzdpU1U2RmhfM1ZDeFB5Y2JqdGRsSlp2NUFrWC1TTUlMazNoTzROU2tTLTFJWjZjam1ya1JWQVhib0JJMDY2OVVDdm9Oa3d5ekx4YS1XR0RCWjg0NlNlVWZUSWdXaEdkb0Zta3oyOFRuZHJuYkpyUVZPT0NKZS01eFpJTmdzVWsxRVB2OUVyckNtZC1z0gHAAUFVX3lxTFBfTm9iTlNIUUd1NWhlYmZQY0xra0NGaWlWQmFHZ3d5dURFQjdMTzFCSmM5enZ2MTg5VWJlRUdILW9RMHVsQVNZYWlCc1hMRjh6WDh3MmVoTzd3cEtFOWtuaTd3TTB5LVJjU20zNkpPdnFBeUdYREs0MFNtV0pCcU1KLVlJSFh3bE5LWTRNbmpzYmptdFkzVWFpUzVyM0NGRGZLcHRhMFR6Nkg4QmY0cC1LREFvOEFoMzY0NmFoWUtxaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1F3Y19ubmRNTHB2WDdqaWIwNWZTWFRfWlFGdEJIMk1rSkVnNUZLdW84NUJSRHNENVJmRmczYWtVUzE5bUlFYjRmLXNMMkZfR0pmSGdIdlVQbnlXaUl2U193dHRnOEJ6aWxWOEl1MksxYU53b2dXcmhRVUxDeEh2WVhXNHVZYkNDazBRbnZKbmRLaHIzaVdLa1JrdjZiaTFETS1MWDh5cU5EWWNTT09ocGZTZWY0ZEVscjVYNkZCbVZFOFlMTTYweU5B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHRsU3hPWVdZTnlMRTYzU2E5cy05SlZ3TE5DR1czVUdaako5bXI5elBVelpVWGZvTTk2Wk44aHRld2hBWDM1ZXo5dm5KWDl1Skphc1VhSzVXX3JpM1l0MmxtMUE5TnFrY1UxZmhYbU1EWHhFOHNMTVJBNjRvWDQyaENGcXlyLUpDNmwtTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObklOalNEZXFpNlpOU0FEM051bmNWN0psblYyX2ozbE9CZTVVb0pVRS1aU3VOOFBmZ0NLdFBzTFgtRDh3NzBEd0lIbDUtX19KaXAxMHptRXktN3ZrOGNReF9fOTh2NTBaWkFLWnV1T0lnYUlEaTVDdXdLa0ZJcDlwN2Z0dXdLV1Fqdy1lVWdkcThISlUzcXBFcFNMTmVfelhfTTZuTmgtaU1oYW1hc0p4WFFSTGVzaklwU0JTczBHcDU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWC1tdWZnOXcwMmdSNmVxcE55MzVrN2wwN0FjcFhaOXlWaVVpQUlVX2NLU0FCU2x1a0tpV01FX0E1Y2l6NHFwNWxZT3E4Mi1yVGVSd2tUNmxROEFCR3pvZnJJNFJrUld1NjJUV0tTdjY1WU5UeDFRVUpqejZmeU5zdlpuZFkzNW1BRlZydDF0LWpEMGJsYnphZmZKU1JxRFJubmRYMmlKTk9lNXZXYlZNWDJWXzRRbTE2SGN5ZDYzemlJOFlrRlBoZXdCdEw4dVZrRGRyRGhCbThtZlFNX25NVldRVTZDT1RLVUVETUlISQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSXFvZVZ2azRxU0xDVzhWbVZvTmNJNlJVd1JNTmVFc1ZfeEZEQ0lfRGd2M0h6QnJXa0dmMjQteHExOFpZVjNOa1Vfc3hQZDg0aU1Sd1JLcTEyd2dKdklIUnY1Sl9ybUdhaDlPcU9KVEg2VXpmdFNyZGEwOEVHRmJnWmJVcjVIWW1aSlQ1YlJnbXZLSzV6d3FDREZ6SWhtTGhxMm1FSWhucw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaW1fVXFxOFNPM19fUjhjSUp1MUJsWFFRNENWZHVDUjJKZ3Bkb2RMMXBLT0xFV3ZoOVNlMTl6cmhCRDRpV3BlRi16MFI5WV9RV2xzTHBIQzBCb0I5TExpWmdLR3M2SnZMVVZvejZibi1Na0tYTlRDTTA3MVBIVVJoVWFablBVQ3E3TFpYbXFrMS1KUDNyM2ZsSndIRjAtUWFVcWhUc2ZyN3g5REdVM1dPSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzNPQmxqSl90TTU2WTR3R3pmb2tHZFlCZ3F6NjZPY3hLY3ltTE5RUmQyWC1YaS1MXzhHa1VsT0tlblFxT2VONTBfZFJkMEFFcUdUTXlEc0xCRzdDNTlkNlJQVTVFUG5ZckpfX3pmS3pmb2tVVFNOV0Y0anUwdVlBeHZFckFQdmFoS3lyVFB0TnYtd1loaHV1dTRXUHFMRVJ5UHBSMG4xMW5ONk5vVUVxWDQxMnUwYU1hNFJhR1BQRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXZybWpYdGZCWHd5WlBiVFg4cDR1LXFIeGFyakJFaVZXbEJ1S3U3ZjIwTkxqVE5mOGR0Q1dERkZmSlNwZ0RZNnd5anlvTktKc2h3aUVCOVhLLUpsNGp3eVZtakc3dHJhbkNCTGFwZ3NQZG02ZTV3TVEtYy1qcTlaMnNpRV9Cci1pTTByTTZFOGFIMXNEQS1udGlFZm54Z0lWNjd3bw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLTlfbDk0dUNJaFhCZzFzdEJVWVpyZFlhYmt3LWNyYUlKaDZtYWhZVmF5UGZ4UFF1S3Zxc3JJOVJ0RzFKcVE4VXFHSUFSUjIyZlhONG9rMGJEdS1XYkNJbm10d2hzLV9UZnZOUlJNcjdqelVuSDdja1ZvaDJZYU14TnlfeFZWZ3I1Q2xzbm9RNDZ2V0JOeFhGZ25COUFXekNob3dmdVBhUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/iranian-human-rights-lawyer-nasrin-sotoudeh-wins-the-2026-vaclav-havel-human-rights-prize/a-79462111?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUENWa0RXNzd5VWV4UHo2S1JDX3pKR2VIVHNmMDlkU3J4ZVdxaFBvdVZYSEpKV2QxQXc3RXNSYTBkbFNaNjJQdTJrWXdMYkszT0VzbXNOUUg1dzh1WmNDN0ZkamVGY2FBdVhFV2FkZUtadmEwc19XNHRwWEctWmRfclBEeFpXbkc5MnU2VGdqTGtVVHhaTXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43aS1UeHVsME5fZnIwMDM0U2gxakhNdUQ2Z2pfZV8wa3ZuVGxTZmUzWEV6Ri1SYUt2S3JOM05FSUFvMmpjb1pzOGhzTlhqaDZxYkJ6dGZTQmxEQlk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/28/spacexs-starship-reaches-orbit-for-the-first-time": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWk9KdGU3bDVod282Y29SaThuV0g2R1NnOGdtNUd2SVlRbWVoeWZ3VV9fOXdtTXlEbEFKN2NSeUdOdkw1bC1Ca052WElKeHZ6MkxsZzlqQWVMTkU0cDRiVGVKdmpyQkpQRUpCaXJNUzdXQV9PMWwxMFIzUEV5WUdLbWJicTRiVER3OGZ1NzItOUtGeG9pcnlhQTJkTS12azhrSVZ4WTgwT1hObTFjaVBZTkdB0gG3AUFVX3lxTFB0d09Ra0RVU0p2anNFc1R2VXV5MElZQ0VkX3hkU1NhdUJhcjBIdnBoZjNTeUQxVE4tZGlOdm9nNE5FZjdzMGowSEIyTUxsWTY5WXZsZXc0S283NUkyN2tJM200VlRhSTdKdmw2ZHZDSVItR3JxazZyU0VYdHJNalA4M0Jmc0V4dG9YdXBxSkV5Tm9SMEFWYWNBcl9uRVB0V2FkUFczbG1jaldWMVRRVHdwQ3RJQ3Izcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWs0WloyQ1lfNnk4czRqTVJWcW5VU1FyaXV1TXlpV1c4VkZTM3NLNl9aMldqaGNSQl94OTZxV3lWOVpoQ1RVQWZqNDBlZmJIR3JRRVdxUkh3NlBfNGF4cmliN2dscEJSLWZJU0MzMWlzSWVEU0RzamZxcDhpWHgxdTd4YnBNTUh5d084U25LZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeUY2X3NvWDM5RHlBbHY4ZUprRTMxLUlIZjdSTFFVZWQyLWFJNURjUGJfOENGNmVhZ2ExaFJpSEVpR3l5VWlCU3ZrNHlUT2hpN3JtcG9ORy1tdUZ2UFFtSFdTanZlVE1LQi1PZi1FSmNEV1ZkVGRnY2pXSXhTaGFLWjZDQ3dkU0pFQV95VjYyRmhfTjVxU0VnZWphQVJfSXVNSXlPdG9rMi1RX3l2?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQXFETmlyd0dDRl9OWHZ2ODRRa3hWMVJiajU5SldvSEpDSWxSX1gxdVd6X25XdlFfelA4bHNQdzBuZ1hhTktUSmstVDd0Qi05ZDU0RjhfMl9sODZzTmxYX3ZOb2hMMGxwWE9DSmxyVjFyNEtmUHZPRGJSbVdzUm42cE8tNEYyeGlvRmpob1Z4NDBZZ3NIcWpQMlZjb1FMaHBUTUNlY1FzYzBfTVRjMkU4TkRyZllRVm05Y3dMUE4tMEl0NDU3d19TNFJtRXNwS0hyT18xRW5VcTAwSlR2QVZrd3VZUjZSTWE5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUmR1eW03U1BETHVrNnVWM0g5Ynd0M0dGVjlXc3lwUnpROXh3TzBNcDY1Tko3TWthUmxDazI4UXduSXNoeGFyeWVxY25VMU1sT3YwVXdITVpIeWNOZl90bXptTWlJejRXa3JCMVFQblpWTWVnMWJZQ1B5NlZ1UHRPWmU3TUNNbzRweVpKWkxIUkpOQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAJBVV95cUxNQjRCT01UZUdNWVJnTUNtNkdrTU9QTlZtWnVWMDZVNnFpNFdKcldGV1VfSnpmN2NBVE1FdkZadktJRmVZSmNwd2tqWFgwY0g4RUNXbkxfTS11bHVzeTFneWhxc3pMVjhsV2dZRUlZekpMWE9wRnU4Y1pvWXpJdnBQWWstOWdyR3Q2NVNzRUhCTHllNEJoVVZHZVp4OFA2M05HZGJ1WnhtTElFQWxsN0IteHdvc1VwOVVnOVJlbkFIUnBLRUpDYUMtb3VUV3J6TE0tQkdobF9lbS12WXdHd1RqUi13bE9ZOEM2UEJxbzAwekxyVzJQUFdMYWs4TWVsVGpOY2RGQ1VTdk50aW9IU1Nnd2tMekExMkFOR3dEUVJ3Rzk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mnd-local-guadalajara-cirque-du-soleil-day-dead-festivities-ukrainian-ballet-coming-town/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkI3Tjd4eTNnNG5aUjAxUFBnVjhWclVfNkZqRnBiaVlBRU13Vjd5UHpiejh1Njh0QWU3cjZhYXZjSkdpVUotYlNEeERUX01kNnhGMGdtamJwZ2dhTXJyS0ZoWXp4T2xDTXFDVnIxeExHTFhFcmRnbE42TUtUSW1SSVY3MkVidw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
