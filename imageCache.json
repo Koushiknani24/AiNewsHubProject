@@ -168928,5 +168928,197 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russia-not-interested-in-serious-talks-says-germanys-merz-after-foreign-ministers-un-meeting": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/lisa-vanderpump-rules-las-vegas-bravo-trailer-1236714561/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/explainer-five-things-know-about-college-sports-bill-passed-us-senate-6419531": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/ethiopia-no-regard-for-civilians-as-fighting-in-ethiopia-s-tigray-region-continues/a-79464569?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/sheinbaum-security-plan-morelos-student-murders/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjFzVm9LX08zTnhfUXNSR2pjSkI5YWg3Y0NnYWltMFB4MHRBejJOZkFQQ2pYc25ycjhhWk1BRGFXbk5WRm1OamtkSzBRdWtkanlrUWVGLUFJSTlYU2RMX25TVDNPOURSc290Z0VJSnJFSlp4MjBhS2p2TzNXTk9RZGhRRC1XVm1Da1lNaG5UNnVZeEdfd0RmOVhkakVIRC1yb1BIejZGZVZ4MjhwSWdyVA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/andy-burnham-labour-conference-speech-next-seven-years-uk-politics/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOGE0M2lPNXVFaXdmVHc3YVI0dkxzZzFRQUY2bTNDUFhLNnBaRlBmOXdMcXI4dUEtalp2Vlc0ZFF2TDJ0YmczTjRYNUlwaVd4dzVwaHhhUE8xd2FVVmtCbF9qZmpxQ3dJYklpMlFMbU4tWmVVRWR0MWdxdlQzaUFaM2lUM2xPbVBsdWVpeFpQdUZsamdQdWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkR2MlE3RWhjWWtFRFVpS3IxRHJRMnFWMURFTXdoRTE1Rm5KcXRadUZnSmpSeXR6VnBTOExOVW1KamxmWVhaUC1yUFk4aXZ4WnlvT19zSDdVV1JtRFl4Y0xfZTcwUUhfaTRaYlRTTW9IMkY2NjBDNnlfTDRSTC1rVzVVY3NwVmZOdnAybnFuYmFHb1FHalo5LUl6RVVVbzlhc2NLQkhmNXMyN3ZPOWxCeFNad1hyNkhOekVYUGI0VnFRdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxObW1fX09GaGhBSHFGVEVsVU40ZzQzcThqTkpDMFVjNzAxdXBRcjBVc19ocXJObkxiay16RVJHR09VcURGZHVsYmhRRmNHQ2duY1k1eEZmWG5RWVhjRzFLSFJ3aGZ5ODJSNTltQ1paNlhuVVZIN05nbTRLS2FSUFdTLUljM1hjdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjBxc3VNYThiQ3owMEhoRWxqT19vbGpnZkhSdi1EaHlaZDNIeWhnYnFzZW9KNUxvamhhSXZVci0zN0NFOGwtMEtYcUFoWkh6ZjR3NWtqdVkyR2ItV29HWnZSazVpZnF1OGgtd3JVR0MtUkZDdjJ2X2I2enhEdXZ3LXE2NlU5dGktQkNV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQem84T180cl9wd2NnUDVISV96bDh2aTlNSTBEVnNmRW5HYU5fR0Q4RTMtbTJ1b2F3aW5FUGdCV0Ezb0NBNFR2S1ZDcEQ4amVjcHFpeVRERDFIZmpUUmZRbTc2REVCci1UMkZ1Wi0wakRMd01qUE1INXJ3MW8ydU1zZk5rWEJCODA4bE5iTGN6QnRfREhiMFhQX0IxdW9wd1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQUNWSkhaTzliLUxVbHlMZkZENWdYWFN3Q1Z0bko3eG53ai1rZjI1dTNfUm9uMC1SOFlyMWFHY3I4VS1JM3FnV0RZM1ZUNDVyNFlZTTB4LWdKR1oySVExSEVPUUJ5WGotZXRJcXI1SFV2UUdYS0RsbVdGRUdldzlMWVQ1SXBkYl9MLTQ1d1ZRYmttNHN1LXhFQ2w2VEFHRzhKSHd2ajRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3328378/thai-airways-cancels-37-more-flights": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/9/29/trump-unveils-new-site-to-simplify-access-to-government-services?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV1RjN0x3SjNxRy1GR05jMlRINDVRbk1jZFl1MTl4Vmd1dk5GamZEejZkek5pTFdhRnVHYzNDaFFDaUczZ0tDeWtTd21qV2FDQzZoWG1BYk05YkVHRmV1eXRwVkRnamRTOW9ZWVhZb190bTlyak1Vc3hKcWd1b2toZFQ5YnQ5YURleE9tY3VzNU5yUmNyMTdyeTdoRG5sU3VPb2NQbnpQZklTbjE0UjF3TU4wY0xqU2ljeTZ0UHduQjJySFZLMlI4OWZFamhMVjBQdmpXVVhRM0hLd2NuaFZkeWJ3eklITlRjSm5zcjhGWG1obzBuUDdmcURiaHRHbEtV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU8zUzdFYnVEV29ZVzBNYVM5NUg4OTExUUhtNFFFcktpaXRRWEE5QS1NdmYzcGVHeUtYT3BzNW95SlNkeFI1cDJGeURfZ1V6MVBvMURxVkU4X3JoaDBLVTg2bEtLSDlwNTlKUm43ZUtURS1HSVRKeWxhckxpQVB1QTNUNkY2Q2dNeWk2djIzMzIxYlc1ZDdpc0lOSWxqbUlvV2FwckFJMmhiMGo5X2VNczVaanJMaEtONzhNaGhzTGpzQVgxWkluaQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/congress-names-candidates-for-two-graduate-mlc-seats/article71525531.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/greece-opposition-demands-clarity-over-kimberly-guilfoyle-minister-threat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb00yNWx4VzVqZExERnFNMTJ4dnZlUTB0VzI2ZUd5ZW0xNnIxRHlHNzZsdFdxTWwzNktLNmZPTDU0TUR2RHdyeGl4QkxmZjl4VUxOS0J6bnZvOFItZVRobHdrUmNMTTRzMFlYTlpzVGdJemRkMWdKNTIzN2FpbkJ3ZDJ0T3dLVFQtLWRzZGdTT2k4RENHT2dV0gGXAUFVX3lxTE9kbS1yTWZLZl9lajdtaUZiaWJuZzMxRVdnUEo4bWduOUJUU29sUUp3aDdweWZoajNPZ0o2UzBET19hSWlUYV9LVnVBNWtxWjFCMlVwdk5ubnEwTXcwOENCRi05YkpZWGVCOHY1LWZ6ZTFSNE5mejJUMzZWWTZuQTc3d3ZWX0JLNlh5cHdGS2Jfd094VkNYcTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGRmbHVVTmtyUTdwc3FrWkhGY0xoeTM0RERUUjlHb1lFRTY2c1pHMjc5VllYTnhndmJmelJ0azhDcXZTVEJ1SU1qelhkaW1XVDN6SWRoN2tYRkljSm91Y0lyNmtYV0ZQak9hMm9IWV9HWGllNmNVY2QyYUgwZVd1c1MwTnFoZFUwdmVpTVZNUU9kZmtHUmNJQ05DZHphS2VKaXJuREFZMGlLSE1DXzJWTWdfajlhc2R3bFQ3RWQ2OXF2NE5JYWfSAcsBQVVfeXFMTjVMemlmeEhneXR4czBVYVdpeFE3M2dMVVlpZ2VfalVheml4N25WNDYzTW1Sdzk3eGxtZzJJd3l4VjdaWVU0TjYxYzdDLU4zeVVTZDN5MFI3OWdHZmNBTjJfem4tTVAtX2ktRFV2TDJvWEo3Uzg2SlJTYnVCNXdBMFR3cjd5WEtWMGYzNVppcEx0enJsQVdkeXlYc09EUXdxdk9EWktCbWgyMG05X3IzZzkyTFJsdHoyNTd4MVpQMWpXc25JNzVrWlVEdjQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcWF1QzQ4b2V4eEJqUTFqdXZrdUpYd001dXJsY05zTjEzN3AzZFFteDAwZmVFZ3BpSVZEUS1LS2U1eE1tcHNvTHgzbF9lRE5YdDhDcG41ZlZ6aWxiOGVWV2RfRDh3TUR1ekV0N0JGaFB6S1JSdFFFajFyRkpQc1NROUxhRWlTcDRhcE9uUlk4MnRzTlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXY4NHVCTW9nM0p3V2ppUVZ6QTFxSXNjcGhQS0FKQnJjUm1UaFBlSURWN1VtV0syck8yTW5MdHZGQUJGZVd0eHMyeGM5Vl9rOXFranI4dmdubWVfdVBqMlNVRFpaZ1RteE14SUVUMmtwd2lYdzdhcDBlMHJrd2ZDZV81OFVpLUM0b2E3dC11MFktb2ozQXotQ3ZwdW9YT1ZwNDBYOHFqaVk5b0wxUm1WSzdXSzZWWUt0NjNPdEJqVzhjdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTG95amxDTmE2OHF5eHJzdHQwb3pyekwzckxwS0o0Z3AwbUhiazhCQmNobE1oQ1BGQjVKVHgzSTRGWkU2NDM5aVpHMHpvMENZN1R5T1JlVHR1eUdseEhPVXlkMVJQb21DdlhrMV9sLXd5Z0t3aFJPUV9EYjhBeU9hQ1NsMXJlaElYbEIycXRWclJpZjBoU1hPUFdSZmlCazhHNUN2RlFOTmhSTEo0N1k3dlJPd1dNMHhldHJxeFl1TEhkckFLSTV0OURSV0psMi1SOVlFdWtaVHAwOWhn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTNJY184ZTVpcnE0TGhib1dQdEJLM29xVFgwei1LQzBDWXQtRlV6bU53ODhlX2V2WllBUmZELXpUT1Bkak43bXRjMVlOYUZjcTlkRXBFVEJWeWwyS09NcmFCU3pNUHJzdGtqNC11NVQ4X3FOQzdFUFIzOGVpdU5VTWJENlNoWjFRTVhyMGY3UlphNkF1WENxRHRSNUs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/justice-department-charges-venezuelan-man-shot-by-ice-officer-in-austin": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/mexico-tariff-talks-us-mananera-tuesday/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRzRzcHhnTV9vel83UHVOd3d4T3Z2SWcwVGI3MnJtMlNsdG8xS0pDZHFZZFVMekJ4b0QtWmNRUlg2S0hELUZMZHR6TmxuMlh6S2EwWVExbGVDRmNSM1FxdGZyUnB0eExmeXYzY2hXLUp2c1ZfQllzOHZNNzdRT1F4MUJFQkhlQXE2OVpVUGdtcVRkcmNXbDVGSGprTGczVmkwQUxiT2swV2xKdVdEd1pTRFd30gG3AUFVX3lxTE93Q2Y1c3h4VDh5Rm9GbDE1STh0UjNlTV9uZDQyUzUxV2JWdGVzZEVGa1BVSUY3TmhwMzFYVFB6Qjc2bUp4ZTRjWWI3OXRxUEdUNW5wSnh0OEFMcFBhbDhhUlh0RWU1RktPWEZqUHE4RlFwUkUwZ3M4cXA2VEFZbmJRaGJOZkRDMVJDVG8xLWlLY0Y5Wkl5MzlER05Oak1aeGtPdGdoRGxEQzY5SjVPQkRROXJBTTVNRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjEtZmlwRlUyT3MzNlRGZEdYSkpEOVBYMnVwVWFpZG9WZ0ZZN0FqOTlLUml6dTJEZUpqWGVSVmpLYU1SeXF5RnZWNDhLWmFUbVVCYU1lazB4Yjg0QWhTLXliak9yWUdxRV9hcHVFSi1Ob2NtTlRqN2Jwa1ZhNER6dWpOcUZxYmhncjVVUDUyYjRTNFJsVTkwTkF3QVp1X2oyLXRtUll3STjSAa4BQVVfeXFMUEVub2lEQ0o1RGJUMWZrbFp3NWV5QlhEbEU0MVF5anJoNi1yN0ttU243Z2tJYkxqVlRRdWZEcTA0ank0dVFLNWpTTV8tdHU3Q0RQWWoxRkxwOGJTU2FFMFl4M0pZeUpGN0lvLUhoeHRoS1hxcXY1dzhiajd6YkI0SVZ6ZVBnaFdvbUY5d3h5ZHZ5QWFtcDdrbjJuWkIyNjBpWV91Qkc3MVNQbVJ1TVBn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHZHaDFqV3p1STJ1Vk5xZHpNRnV1MktGR2RIM0tiZlhHX3ltSUYtallMclQxSUNqa0k0MGRELVdzQXVTNGllZkh6QW90UmJ4TGJQeTJ1dF9ldkVUN3dGYXpXSDlQbF91S3JJUkFVNTl4Rm9LeEJtcWNPRHYzbmtvT1JydVVaQ19tM0kxMnZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
