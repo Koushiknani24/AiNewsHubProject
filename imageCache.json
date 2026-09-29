@@ -168736,5 +168736,197 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/1001867/mozilla-firefox-157-redesign-compact-mode": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-features/ian-noe-interview-songwriting-new-album-1235633282/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/29/italys-battery-gold-rush-energy-storage-creates-a-new-market": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/streaming/watch-mlb-playoff-baseball-games-online-free-stream-2026-1235633272/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/29/counterfeit-medicine-trade-how-online-pharmacies-are-selling-deadly-fake-painkillers-acros": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/albania-as-corruption-cases-multiply-experts-question-whether-the-anti-corruption-drive-is-addressing-the-causes-or-just-the-symptoms/a-79473031?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/italy-completes-troop-withdrawal-from-iraq": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/1001587/polaroid-mod-instant-camera-creative-shooting-modes": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/09/29/protesters-march-for-unrestricted-abortion-access-in-chile-and-colombia": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXZkVUUEtkM284N1hFczlYdVRnS0x1b1ltU2c5NkNQT1E1WGpqemVyUG9KaTgwMmRrMXJRMWZyTzNIYkJXT2pqUkpZaS1xRjRjZXlqSkhWUFNFM2c0c2d0NVRRTHp0QVk5aklmMDdBbkpKRWl5TmpDNmdmYXY5TXM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3VOX0xFVFRZeG13ckZOckZWeHZCMFZvLTIwdUx2ank2anMtdEVIYTRrb1lfWE1hMlRjVldLVUo3SXJfdzdPbVBrbzBUTTJiTDBXMDRYV1MtdDFjd1B1aU5nc0d5cUo3VXlUM0JHUGhaR1NRMURrNjRpM0N0b1ZtcHF2Vkg5eVNyOGQ0VnBhS00wOGx3ek1CdDZGY0lXM2czWGlpd3A5cWppZWRCZUgw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQnVtbnVxM0RSUG5ucjJjVDBXcjNwcGpqLVo0TjU5LVcxek1XMlVLaG0zd25vcDBNbzdUZWJKSXVjV0pxU1ZaSEt2UUNfT3k5YXFOVzRMdFNqVk5LSC0wRHRadWRSa1RGU3RXNGRJVUdqQWtUTlNCcklWZ0xQVDBlanJydWlfbGlsRXRJd3lWT2hOczg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVBUbWk1a0dSTS00YmN5Q3hVRUtsSEtnVDBpVVBiWWlBaC1Oak12RHhMOEVuM1VsTTlQRU5UU1ZVMzFBQmVOWWcycWk1TTlTdzBaTDV5OXpPVVA2alNiZnpNU2FHc0xrWlktXzVzazNESW9jQmJidmdZbHdYZ18zWjNmMzJmSEJHRGp0S1pFcFppYVF6VU01WERzSGdiamNFbGFGRjdLWGpmUXluRndXVERlZGo1YmZk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcFVMcDhpRldIaWpFQVRaZTdFVE5TWGR3b0QtdzdwM0p4c1hSVVR4TXc2bktVRE5xSlRHR1NVUGRGdGM2SVo5R1ZtT1RpNEJjSWp3M0VtM1k5OElpeXo3bDdSY3hkWVpWbGFiU051STJReVpJSWdmWndROVFKbk0yeUZHZWMxUkNweUJmb3ExQWI3MXo2d3pXSGpldw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNMUxRalBSVUktaGNNaHN4blRLc0RsbTNNenN3RUJnbWZHRUdpMU5ZWUNMSm1qaWRTUmtfQnhsSndQeXRFQVBZZHRIMDhra2lFa0dLanJNNzVNNTdxVWtwelptWG91c0k2TWg1bFNRNVBKRzVsMFVIRVBJdFpJLWg2T3lnZUx5TFhVRm01NTNDU1ZaY0djVklqejV6WDYwQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGRQcHJuNWJoNHlhOUZITXlrck0wWnVMUlBUaDBsMHhhUEcxYk8tQUNCUDZJdnN2TEE3Sk1NNjJuakVzU3N6V19zejktN0NaUk5EaURBWnRBd01RNWI0MjN3dVVObktaY3Z4TmZfWnptdW0yalY1b3BILU1kLVF4M2RudXVJbXpST1J3NG1iQUZlVlIzVUFpMm55aU4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOWN5UWg0ZF9nbjR3WGdmMmttUC1xRmVVSXdLWFJTNFJtT21vTDVYRG1WcG5yazBRUDdWVTJ4M2JOeHg4X3BWbGFHUnBFUGJFdkhmMW0xZlFlejlvWmUzSEVkSjN3UU1QcTJ3NW1kNkk2S2llT1FxWktIbHBsR2t4MlhlV0ZuelBkU2JaVTVRTUk2V01IUllPLU5PQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/09/29/celine-dion-surprises-paris-fashion-week-with-performance-at-loreal-show": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXR0M2R1RkpUcTdLSTNURkQwbW5CNEk0QnJYaW1hdHAyeUtGV1diMGFUOUtiTy1NX2hYN3lTalY0Qjk5WHhVc044LU1UN2JSSVJRVHdBeFF4aWc1bUtpaWdybzIyUGpjb1FERi04MHo3REV6RWNiMVA1RDJOVy1SdHFZQm5QbU5iMXY4REVLNkFFMVlnZEpNQTNaSnFOeE5tbno5NFJkSy1iXzNiel9abk1fOVRKcmhIYnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609290200.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWpaN2ZRRUNjUnJncUZQNEZPRUI2Z3FuNkxQM0oyVFdEUzV4MklreGQ4WlhUNWZYNTcyZmVpa3M4QjlmazI0VlNNQ3Q0V3Y3TzRoWHV3SXdFZEdjXzU0RnRQSEV4UXVSLXJoVWZYcTRVX1Jlb0JWWXMydC1nbmFnTWZNa3RYWVFTd0xZSFRqOVNQVzZudEtrTWtMQ3o1Vzg2VDRYeVo4bkdLdTlrNjh6MC1MaHh2Z9IBtgFBVV95cUxPdWpaN2ZRRUNjUnJncUZQNEZPRUI2Z3FuNkxQM0oyVFdEUzV4MklreGQ4WlhUNWZYNTcyZmVpa3M4QjlmazI0VlNNQ3Q0V3Y3TzRoWHV3SXdFZEdjXzU0RnRQSEV4UXVSLXJoVWZYcTRVX1Jlb0JWWXMydC1nbmFnTWZNa3RYWVFTd0xZSFRqOVNQVzZudEtrTWtMQ3o1Vzg2VDRYeVo4bkdLdTlrNjh6MC1MaHh2Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNVphTGFvZ0lqa3dkTDJ3YWVjV2RpUkZZc0RYdVhtalo2dndjZFo2OGRZUjctZjZVWXlsbUJWSGJVN2Zqd1NIOFcyd0ZNYk5ieGNwNWFiSHh2S0d2R04xMkRkZDFLaTNkckMtN3Q3aWcwQUpzeko1NTJCTFpjOW8tSGJwTTFyLWgzb2M1LWcyeGhweFAxYk5oVG5vQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVkpHN1dtNnp6Tm1KOHJnZVZOT2pqU2JIaEFBVHJueXlIYS1QdkVVQU1hTVRVSlZJcG1wUmhXeDMtaTUzb0Y0Z3FOeGpCN2loa0NhTG1aRVJOUTloOFFsbHR1TmxpaEtZaDhpNWRhOFdBRnYxU2dFY25RcjNtRFk4SndnbXRGSktoY1g2aDI4OEZ0dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkVmMFVGMERsT3Q5V0p5bVlteXlydFd6RnRSeHI2SlRwbGZGMkd0dTZPMjRaTE94clM4RUU1Z0ZtTWJwYUZYRkZrMVFwbmlwZGZvem5Ydms2b3hrZ0hVT0luT0FfRmM1OUNQWkExTjNKVUhWcVFRX0NkVFpZbjYwbDNaT2R4d21BOVozU0dxb1lTTUdYZzB0WkhMR0VIZWtrMVBLaDU0cE81aVVEaEJOaDRpNXRKRXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGR3S3NmdVpaZUR1OGdBX0hBTU5TbTFDcDRVbThaY05EU1Q3Qk9Sa3AwNFlkT3RrU0ZZb19DYmlaZlFQa09DT3d1eGxuZFJnZVJpT1NSTkpVVy1pUEt4MmZVR1JqeWR0YWRLNUdfcFp2WjVMV1lMNVllaF9ELVF3bmhrUUhscEFwcDJVSE9feWtzYldxNGF2NGNEZUZVZm05Z0ZoamNsd2dZNVcxNWE4V0luaVZpd9IBuwFBVV95cUxPSUdtckw3eUdwd1UweVd6Tm1YWG55cXBIaTZrdVJtTWRKdmN3LWk5aGxtOTFtbFNQcVdfN3g2ekVUR0NGVHNXRXFQYjJrbjNiNUNwVUREUWp1M1laYkZQMng0SzJIcmN1RnR1bVpXU3FBbnRaaWxsQllnNmV1ZU1nMG1QT0RFR1JnUDZoaFpoc2VsbTFfMGpjUVotZ2dnR3hFVEl2Z0kyNl90enlOX2J4YUYxVXNpQlBMbDFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSmRBaG9RTkxOV3ZMTzRueXQtS0dTMlhlUTlSVE03LU1RMmphakk4TUIwQkUzNnE1eXN1aTFTLVZ0Ti1mNWo1eDRFcl96T3pDd2J3cVB2VmE0RUVDVnhUU2E3OG11eDRUb01oNU9za213bm1ZeWtnLUNRd3pXeXJFbFFBVHgwejJ2RlRocGJ6bDlLM2dlZENOUDFtaUNicnZacV9OYlIzemxheFhLWGlfNGU3dk1ERnQyZ3ZvODZoN2p6Tm4zcFFkR3FHOF9iMU1l0gHWAUFVX3lxTE5WaE5ORGd0V21PRFY5VERsN2RUYVVfSFMxbVNrcFNPN2NTRXEzWVhoaHNuV2pXcDhEZjNvNGN0YjMxOFA5VWc4ZTBYSDQ0MWRiUHVHOEY0eFhSM1piRDhXWFBUaEFYNFVqM0xlaUVUQ1Y4UkRaSVJSWlpoU1lxeHE2UlZLTWF2aGVJNEhLY0wwTmpKakxLNFRjWklGOEY3RVRxQWVqdW4tUnBscDNkOHMwU29FSmFWdEs4dkNWbWdNaUV1RTVrRjNVeEtTWVU0QjRZMVpmWWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3328294/us-aircraft-carrier-with-5000-crew-to-call-on-phuket": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUR05pLUh1OGtYSm9LNmZHcExRRGUwUW9tZm1VZVlWRU1BTDhyelVjMHJvQzFEMFVJbXUyamQzbDJQNk5NWWhoc2kxNU8zSWRGa3dGOHYtUUdjQjZO?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCaHFxRlZfVTczYzJjRTdJRl9CLU9CMllKRngyWmM1ZGNkTlAtMmVWclR2cWtaTm1rdjhkOWV6aGVBNGFvT3BJYmVPUjFSeTF2b29ZT2IzRUV0bjU1RDRnTWlzMm1PaE5YRWkyOGFCV1JxM2FFdnpwaktCY29ZZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXlEc0NVNnBQc3ZwOVhQZVhDdU1ZbXE3LWZIcEVFRkVJRDZ1QzlBRzBCMVZUcXlUNXlGS0NlSnRJYUVWQTZyMnJRTW9oejBVN2JzdUtKNTFpa3JjQ3ZjaFVjOVFaRFFrN0hWa29GalhvUE5pOWN0MldpWnFncEVDRlQ2d3RKc3hkVUxQWU9GdmMtYURWeEtLQ3hCa3JSZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
