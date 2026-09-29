@@ -168556,5 +168556,185 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609290056.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeEg3WjIycHpwM2wwT0lHV2lPd2VuLVNjMXV2ZDk2cGxiUGRId2RMZGFBbWlpVjdic2p2aDh5aXkxT0lIWDA1VEg2enZOdU94V21YZUE3dWR4U0FjWWk2cVdVSlFfLWlnR0lrQ1JaRGw1bDEzVV82YkktMW9aU0Z1M01wVzF6bnZ4WGpRUk5keERJazZSZGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/09/29/latest-news-bulletin-september-29th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-29/south-africa-retailers-turn-to-new-leaders-in-fight-for-shoppers": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2hXTzNjZHRvZDlsQ1E4VzB6VzVrTnQ3VF9WZ2pXSHVIdnBCamQtN09PTmxndExSbXZkOHVqeWRZdjAxUDVCQTMwZ3ZlREtYQWJLVXBUcWd6aFZBem9SOFBoYkQ5dmJHRmxDOGZmQTJmMDFMcVc1anBsZm5fWWtETC1GdWlKb3J0TVNBcXJiZDd1LWtaMm52c0xVMWUtSXI3eUdPVHZmY2NXUThLVmw4SkhNbE1pNjg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/09/29/g-s1-145408/tennessee-woman-execution": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVpUSXVoSExyRmV1NXREQzVOenhNSDEwOWlPSDJLaUlJSDJiSG1rM0MtY1BrT096NjFMUWVEZHo5cHJveU41QmQzT1l0U0NTSnJGaXhNUlpQU1o2dUwxbWplaExGVXJzbE9NRXExWFJVOU0xRzlUeFVUR2xRTUxhSDNyMkJ0bkFZWTlmaGVQMHhDTHRPUURaYQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-forces-exit-iraq-after-two-decades-leaving-opening-for-iran": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMG54eU5lTTgwY2hmUDFBOFFUQVdHd2p0dW5oZzRXNHA4OTg5SEtHX2l6SV83S1lmZm05M1BjUFpHNGRCdFp4X0NmQUtHMXJSX0xOMi1VRHVfWVpHeXFCTGY1eFY0YWZtUWtjQ09qR2pSQ2hTbmYwd0d2TFBXdWM0ZXJBODBYWllacEFkalpDWFR6Uk1QRm8wczgtclItZmk4dm9aRlFiNDdnQzc0MXlNSDJxMEo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202609290055.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWV1THA5ZEdlSklwVHRmTGNTU3hNcjdyMHpkZUhqelRhd2RPbC00bmJBVTR4cWpRbGZwTHR2LWY5WWEySFZEOUN6c2tYRS14cFg1UmVvZVZJaFRFajVpSTlia29acXJnMExOMFRKc3ZaMHBkRV9Danc2b2Jvc01iR01vUFhyTDRlRmfSAYwBQVVfeXFMTU1zQ25oWF9ITXpfSkxPRzVieHI2cnZ3LXZ1enJ5c1p3MXVCQzA1dXBleUxZUzBqZ0gtbTVhYTFxZng4dV9ZV0N1Y3lpYzJLV0NhUkhQb2cwS21JWThxd0prQ1ZDTmRweGZIb3kwNVhqMHBwR3NsM0VEbER2YlVzRDN4LUp6UFVYNFQybWo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnUDU1QlU3cmVCTU85Y29JYm9RRTZJWHBLWnQzQlR1UnIwZGhjOUhYRXRTQ0xRUWRjVF9iQ0pSekpiQV9tVzB1Mjl5d3RrVkRNYXB5LTJEeWRabl90U0diR0ItZWl0c1NjeFlhZTdzZVItcUQ0NmNZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgJBVV95cUxPNmpiN2haWV9WVzFVS01EcUE3ajE2dUF6OHVQZ3d6cUdCalYxdlBTdzJsNzJtbmdEcG9kaTI3MVdGNUdFeW91SnEwc1VyWUg5dG9PYVlzTExXYUhnMk1PYVNsYVJmMXBEUkJKNG1CNU1KTDFCUURiSmlKSzYxNTNzQ1Uwd2tjY1MtUUF5VzQ5VDJHaEh1Ul9vODJQRXZ4NGlfRVlZdUtORmRvOWpkeXBYYmNlRmptcEVlWXJDV3RuUHlUaVVGamx1WUJMOWgzMkRxaFJ5YlUzQTVxZ2hiaWdzWkwxTkRkNXh4M0xETVZBQXdQb1p2TGV5VnEtREZzcmxOZlQ0OG55QVI4OXc5d1JfRkdR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXV3Q5WUdldkNDWkpCQlZkb2JzVnFBdjk4cVh2eGI0WEZObG4wRDcyWHlnN2tpQkRubkVVaF9nZlZhaF9xTWZSRkVEZVhidDBxRDJmTXRCX0Y?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR09FWWdzb1RyX2NoTHExVzRNdUdwbHpHMHZST1FhWFdDUmpEMmV4bGlsZ1YtZjBqX29ZWjRfeWRXamJaZ3Y5aHBwUm5zd1UzMW9QZHRqVnBYeWRTRkJ2WlJfS2g5S1Fzb3dWOF9fd3VzQ3ZFWlB2YnByaHhUY3A1aUg1WTVhR3V6T2dRYW5xVG00eWlkSlFGQmNGUkxHTlhaVVcxa3gyYXBENXFsRUs3c0dvSi0wOTdJUzBCaExOMGppc2xBWkNWWEhEQnlwM1FfTHJ4TGFDNzVoVDZKLVQ0eHVybTZsd9IB6wFBVV95cUxPTFZaU28xcWFhYU9QWFNWQjlQYl9GRVlUV2psLUd2dXJ2cmt3OUt3WnhTbUJXMFhjc0ZFbmt2aWxJS1VFVm05bGhJd3p2NEU0M0dmNFRValAzNlJtY3dGa3ZwbzRuT1dIQ0FJMXRnY2VVdFRBdmNmNWI1aHlwdTVBNldTX3ZpX3dWYk5xU2ZwaHpYai1qYldmeWkya3R1VHR0ZUcxd3k3RjZITE1IbTBrSy0yeWdzN3g1YlBPeXlyYm5CQnBoRUZQRXRaT3cxMFBnd0tVcjdZd3BDaVdtOVpsZ1RvLUJ5MDdyNnZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzLTlNS2xVWTYwTmVybXRITlF0dW9lUXpfZkRpdjRXR29CQ2pKWTJORTlBUmZWaFBSLVIybG42Q3Z2TEp4aDlVMURMZmtoOGNfclJmSjMwS2hFZFZGUE1OenhhMzVSRUxCeDNnMkFlUlBoQWxuTFhMRkF3Zk9pdjA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmpPTmYtamd4b1JFS215ZnlmTVMybEttOFR0ZXRMYktpYk5SSGo3b2ZCX2UyV05uYTl2dElkYTZ6dnl1MWNzeFdOc3FrdXNUU3F6b29MY1A4YU52VHU0Z3V2X3dUeEV0ZTJ3NHgtRzhxUlB2Tm9Zb1FRVy1TdHlpRWRoLTMtUW5udnhOQ0VublBlLU9hMHdMWFFSQkhrdGRhVG92U2RobFBkRW9uejBNM0ttS2RlZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-29/ai-data-centers-face-scrutiny-in-australia-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdS0yTDdHWDJCaC12NlIxZldRZU03WjZ1dUdfd2MzU0kydFN0dkxidXh0OW00Rjgxcy1EZG9DV01NMnY2a2xMRzRiR092UWtkU3E5MmxNY2F0VjY0ZlVldXZ0RFp6ZFhWUXlOb2tINkpiSUFHMkJzT2tRalEwMHFqUlVqSlhiSUhQU3hMTWxtYUNlb1RwUWJReWdtYlM4d21zYUVXQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFRBYzctRFZkNTRqVWJxZWNITU5Yd2hMdXh5RGwyY093UmZPdDB3YTU0c1BqWmdETjJycDFNQVFOUzNVcUtkWlkzNGhmdkUxdzJJYUdfdG9LSHMwVjFud1lnd1prRktURUJiY195UVJ1V0oxZzdTNVVLblVXZm5EbkxjdWdkQUFnRFpOSlRWOEJYaDVfeFZtcFA3ZHVtbmcwTy1PR0JYY3lHNHc3b3Ewbjl6TFBfYjJnd19hOTMzZ1lFVFA2Y29YbQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/gaming-scottish-granny-plays-her-way-to-guinness-world-record": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3328149/malaysia-begins-sending-home-myanmar-refugees-despite-safety-concerns": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/09/29/five-million-robots-now-work-in-factories-as-humanoid-hype-faces-reality-check": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmFOUlNpanRCNWVmQW1uNFNoUjloUHJvTzF5N3o5SUxNeng0cnVNWmNaQ3B6cV9fVTQ4di1kMjVGMVQ4Tm50VnFNbVkzN2EycFo0clo0ZGxMRmc1N1RjLVRRZ0ZRSXJmWXBZUWNOcFFjOGpzR1F3UmRXckM4aWsxQU4xUE1kcjdhYmZXYzNkUlV2emNaSXVFRzNNbnJKRUQ4NDhMSlJCUdIBrAFBVV95cUxQNk9hb0VxOGdiZ0V3cUhBaUktOGxIOTA2QzZudGVLSUIyZG5XZGNCWC1VdHJJV2k0aWxETkJFbUtqUFMtUFRXLVNMWnFUVmN1dzRydk5kN2RFd1pXLVNJMmdXS19WRXVWekY4YlV6b1VxS2dzWWczWHIwdHpWU2l5ZlhKU3BKcWJZSl9xWHhGb0tLeDBORHNFc2lubEQ1VjBVcVNsdTVOUHVIODZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcmVVVTVfZUVwMkJaZFNLemhQUkVWcnhwOF9Yclk0QWJ2LVZZc3FWRjBjczZraFlUY3hpSlNhSHJESzQwelBCbzFiWm9VMWhuVldWRUpqTlpCZlZlbDlyay1iTVZsRVNBNTFQajNMVWlnb1JJZ3dMNzgyN2FXTkFQVGVWT1BfRVpFcVpCeExLazRzWE9kZlNpcWcyOTZRV0dnSW9fMWpGeFNnV2RWRmduSlJGN0xuUVJhOE1uTDQ2MUJ0T1BaZGdyVU8wR1BCb1hnVG9ySw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/thai-airways-clear-5000-bags-stranded-bangkok-airport-ceo-says-6417666": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVUJDdlJIX0p4clFhR3h2Wld1V1VFZHc1dTVCZ1VJS253d2N5OUNEYUdhMUVtY3hqOWo4bWtxNnVVb3BJLU1BNVl5OUxVc0h2OTBRUjRGQS1lWlgtTmFwTFNfWEdjX05ScmtkUE5sRU5RUUZ5R3NSNkJ5N195YnB5M2dNSGVuZGVQdzNhdnI3Q1ZTMXluN3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/9/29/more-than-80-reported-abducted-in-nigeria-as-police-find-human-remains?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
