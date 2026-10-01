@@ -170182,5 +170182,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/10/01/nx-s1-5979957/morning-news-brief": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/gallery/2026/10/1/photos-kashmirs-dal-lake-faces-environmental-and-climate-challenges?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/kremlin-critic-kasparov-says-us-and-lithuania-warned-him-of-assassination-threat": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0ZnME5PM2tFOXBTRG9ibkxwMG5Pd1AtTmY4V0ZCU3I4Z0tsam1mcjdNWDVTQ3Jwa0d5YUg3YTdvcXkzNTFSdy1FbktYWHJFazAxRGlMaGozVXNxcXpFZm9GUGpXazBTSVpFdjdzQUNoaDZYMmVvWGUtckxtTjVRQzN5Y3M0bnczVkVnbVMtek9ONGZJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/01/russias-jury-reform-draws-fire-for-handing-verdicts-back-to-the-state": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTmFWaTZzalAzUktRV3FiRHNhbEJxeG9rZnZSZWhvSUppY0hmTlpCZDNUWlYtSUZGdU4td3Z6b3NkcFZDeldjZ1JJN1JHb0FjQUpRalZuX3cwVUc2UFBmQm41RnNhUVgtOXRsTzlQZHkwX0hucF90TVM3cEFmaXpUTVgxVlNGY3Bvc3dxM2RjTzhwSXVrQ1g4N0RQWnB1NUhpa2trdTRGOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Y9IBuAFBVV95cUxPbGlRNm8wTmhFUXlSNUpYamgxdzA0Q2tOWnhxWTJfeW5QWU1Wc2JCVmd0V1piNUpBUGMzTDZSSmVpSUhLZUduSjhldkdWcXN3UXpSOUVUelVscC02UlFrZGNjRWJhTEd3djNpcWZZT3BsT3EtcVgxUzAxTEZ1UTl3R09LVHhmTDJabkUwV1ZESnh3c21laFBRQTI4b1VHZmVMUFdENDg2YXJSRktDczdxcWlRR3JzUHdy?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU2FsbDhfazlDOEhsVF9mZ0ZCMDdDdlNOYURfSWxTV2ZkVm8tckN0dmo1Q0QtUEtxQmJpQUZKTWVjNzBJZzdKSHkzWTVuaFJsY2U2a2xhWlRXbERyNXBkZms1VExTeEdDSFRuT0hJbmxTSE94bjN0dnRic1Jjd1BITXlRT0k4TnNpazlpOXVFY3pjM2tJNzZkT1BIXzBNU1lJbEJoZjdpdEgwQUZhLTNSS2FjN19CSENnWkRzVGZ0dmN5RmRIcmZhS0NjYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlhseWNBejdPS3dXY0I5c25fV0YwSWotRjUzbWM2blJweUlCcmpOYlFNRkdmT0c3T0FzTUQ5aS1HT2pEa2tpYXRWeE9scVpKT21CRG5ERi1GSHZYcXNscVAwNnlzdGVHZ2dURU1JZWs3VExuVXdVNVNCRlBfckdaNFRGdnpuMmlSRmF1UG96RVRjU3Y0SFB6QXNsZ01MbEZpUDZ3T3ktVnlZTEIxbUEzaA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0N2ODBzWDl5OTFVR0hULVY3cXpGelNoWnVQZTFFTTYtdlFlRXROSmt2T01zdDJBbXU1bkFKQW9VMVBnMFl3NDk4QXprZUEzaEZuMFlfbkpoOTVzN013OE13MkZzOVczU2JYZ0doX0ZxRTJyZ1VPQmxQNkRwbVk4b1h1RHo2YzFWNXUwaEptNWFDcGhqMnJhR19ENlQzU1JtYXZjaTdrSlY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxORkxvU0xfTTNLQVhHaUplU2pkdFRieHMwNl9rYzFhbFVtNGVNeUVKUEtSazIzTzAxN2paMFRsTXNrRHAzdUxZLXVKLVh5U2ZLZ3VhZV83eVcwYnJyRW94a3AzVHNSSmFXV25WU004R2tmN0xoNUZBWEpxd0c2ZEtpMEVpeFRjV19UNHJTeGRycUNlM24xY0RjbU1GZ1R4ZnloOUxoODk1TlowaDNmN0FfMF9zZGlHV25ibTRmQzBpUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV19XOTk4RVdJSDhGa3FxQVlzcm0zcHgwZmJobURJWDRTV1g3a0pMdU5tRi00NkV2Y01WZ1BxVTJ6S00yeDVsNXdYbjBzUzZqN1VIQVBhd1c5eUpRaHhIQ2xHZDhwelhFQVNsUDJDVTVVZ3A0N0ZxdlUzX3d2SWU5MUxVOGpyLUtfREE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/1/the-battle-for-kordofan-the-corridor-linking-sudans-east-and-west?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/01/attackers-identity-and-motive-unknown-after-flydubai-flight-to-israel-escapes-disaster-aft": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3329580/northern-water-runoff-the-next-challenge": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTRCT2FoWEdtTC1iV1VzTWIxVVVSbXN4d01xWEVKN0g5VDBkNkxHR2RONVNEemZIUEtTZGFWVTY5TWsybDcyZnpleV9LT29IbjU2blpGazhpM2xmSFBjLXFiZUsxWVdKUWloYVZScG1NMkhqVmlLcktBYmNmWVE4b29UWTc3Nm40TjdlWW9idlBhYVFqZlJ1WDBQR3pUdURUZGx5NVBTM29DOVFncVY0OUxnYmk0MHhLX2VN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1k5TlhubTV1ODNaOHc5aFFmb1R4QXVSZU5zNTlRNlo3N1laR21yc0RKbi1DV1lOMENfOWlCNjkxRnhTMi0tRmRhdU1xMVdudUpNdjVpWTl6MHpHZGJtNy00enpHZ3dyazBLZ2tFSjRhTDZoSnc0X05wRUhqNzl1c050T0FLUEo4U3Q0OFNqRUtjVTVyUzJaVUlxQ2xPMkFYRi1YT2JhcDZILXlh?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0pBU3JVSi1yeFhRQ3BGa2hBU0MtUUpCWWFyVnpOYU9iWnN2dlNkWDdzbS0ydk8zTGEyMTVRQUkyMzhKYTk1TG5MQ2RHS2pmb1NMWWVqb1ZfNVRoV3p6QkNkT3JfMU00NExPSWxkakF4eG9zaTNQMWFlX2paeGEyNkFLQmJISWZZdXZVVnR0bS1STkxFNHItZVNBQi1mYlhwcUtnejVHVkEzM0JxNXBpVWJONzRDeFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOcThVdkxSLURrd3RscjRsSTB0cFBDVFNfaDJJU2g2TElVMnJWWXFtc1dmT3JoT0d3TEw5YnhSdjRxX1gwblBzd2NCQkZBbl9CMUN0VmRhRHVWR3U1UlBPajdmT1RONlNrZEliYXpLelptLXdRWi1vUnhoaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xaEtkeHM4Z3RTMU9MWDBxM0haaWcya3lxOGdwQXR1RGMtOF9oR1R1WTVBaTFmQk1RMWUwb3gwXzg5TlZPTTFwbUxqc01DOGlxaG9HWmFn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMl9xMWlORkpYblBGcklQQm10Zm1XR2VEYVpJaThuRjN5c0MtZ3MtbWtxS2dncnpRMnRlZzFVS3lORVhnRnBrSGc5c0tZcnJGX3FzVlJ1U3hTQUlLTDM3aU1BRENRM3pfc3BNNHVlajNYZVEzUlFUWVJlU0VyaTJjTVB6WU9VOWk3aWdTbkJnYWFYT1lQQ2JlRTNVYU8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGxmOHppU01kN0hpa0RDSEtibW1EOUJoNkRONzkwOURLWXVHQU54NzVON0FYMXVMdUZOWXlFeUdlQUxxUmhXczZuUi11SHlvbkJKRXBfLVNQeEJPUWNYT09Odm9oUUoxTnUzbUpucVJtLWNDcW1QSFRKRTZwMm1WYzI4V0dVSzEtWmxPQ0kyM3BaQXJxWVh3UzlSZ0dMMFZseHVZ0gGoAUFVX3lxTFBVd1ZYd1o3dFVMajM2ZjhGd19RYlUxN0tpU3Jaem5rRm5mZi1NMFFSeHJkeng5TnJoWjJmTmFMVlN3NzdoQWtOaXZZM2J5dnU3Z0tVckV6ZlJfbEowLTgxZ1dONkJ6dGdsMGgxaDNvRGMyVk9jenl0ZTBDNWF0cDE2NzNqeFRwdmptNmVab3AxaXl3elVIemlQNTJrbUF5eXF6VjJqR2p0OQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
