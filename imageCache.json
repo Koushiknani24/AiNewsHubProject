@@ -170314,5 +170314,173 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclFCV2hiSVN0OEtDeUZQOEU0ZWtZM3NWTGNlclN5TXo2cnl0LV9XYkRMZDZ4UlBOTjBKZUFpUTFBNEZWZnN6alZwRktKODJkYUlWOTdIV1Ixci10MWdPa0JwVlIxVFlfTTVXM1g0dzF3ZHJYZDIxYXB3Wk5wWnIyNkF1N0pqQkRnbkxTaE5SUXJkWjV1YTh3VkJqdmpyZUxnS09fMG5WZ1VJVFZ2?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/lil-nas-x-worlds-greatest-video-1235634760/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/germanys-wadephul-criticizes-slow-enlargement-progress/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/power-crisis-kseb-hopes-for-a-curbs-free-oct-with-supplies-from-himachal-pradesh/article71533779.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/renee-good-s-family-sues-trump-admin-over-fatal-ice-shooting/a-79504836?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living-guide/mexico-money-contractors-building/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQm9GdFNiMGIxRzQ3SkZFUG5CZl9kVUtnelJlUnpzR2JfV1RXeTNabGxremd1VHYwc2pKeHFTREhPbmVLMV9Oa3M3bUpTS2pCaW1UUFFfMGduZFdrOTZGTXpWTlFjc0IxcFhRVU5NZGdhTjdxS3NxcDNyYklEMGdOb01qMWRWWGZaSWJZVEJZT0ZsVWthdUltUm05YnRvc1JMY3VlRUFqRGRVTkcxRXVDckJJS2wyR2FwUnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xdlVDVExkS3JrZ1hyN25uOXk5WDkyRl9PSlNxb29NNGRmYTJNT2tqOFFndVhYSGdQdU1HTDVlM1k5Tk92dWhqTzRZWWFObnRQVzMwY3FPRzMwdFBXd0lTdmxpd19haU5sY2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2RwTjhSckFldFRWbzJTVnN0a0h1ZXlmZmdCSzM2MGlkcEoyTXVIdFhUYnN3eWR0Ukx5TE9vSDRzZ2ktUHRFNDhXMmROdHl2endBNlBsR3JnSnpZWkF0dENmS0tkaUVoVUpaSU9XaEplTElBWWFCeVpvcmFTbHBWa09rZHBhOVhCV2ppTzZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3329593/pm-revokes-thai-citizenship-of-israeli-businessman": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOE9XRVZxU2twQTNqUTJDbUpDc1F5LVNNcVJMaGplX1ZxSlFnVHI3MGR5bm5qUDdUTWZFNnJlRVYzejFCdGFLMXlYUDBrWmpXT05IbGhDWFBCaW5RM1R5dXhCZWhWeXcya2R6ak51MVRMSGRtYU9BUW04a1U0eEhLcHZsUWkxd0JxeE5vMzJIWHBSaWxqR0kyYXozcGtKNjhjMEV5LTlVbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSE9kNFdlUk9vUmRwVVVkSlhILXJoRDJZOWlmRkhVNUk0ZHhlQlk0ZEdxdnJfN29NOGgyaWcyRS1TNVAyTVhSMnVhaDBaUE4xWENUX2g5SkV6YklCSXhnSzJWZmEwanQ4clMzRzA4MEhXT3VVTmNJVUgyQXFFU0thdEpDVUQ0MERveEdtSm9saEM5dnBMTmFrTVBwY240NjhuLVo4NjBudHZyTmRPWEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/politics/politics-features/bobby-pulido-retires-music-run-congress-1235635307/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzMlZQbUlvRVJVdHd1dC01MWR6Mlpyd2VWa3ZBM0hRZ0V5SWZnWUVxSGQtM0psbFRCT2xkTnc4UGxJcUR2alZNeDJzTjJCZ3p0YUdOZ3Jjak1RT05iVGJrQXpMTE85a05wbjc2RkE4YXNLNFRXQUtNSlBQOUs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcnVXenpoOHJUQ25fRVZQR3hNQldUanNzOHhrUHRWLUlaZnV3V1dmMDRJM182V0VjejBIYmlJRUptaTFiRmx6MkQ4cjhvQ29UNTBSWVRRU0kxRWRtYk1nVjhVbVNmUEtUZ3JvUE16Zkd6RmQ1NnBwbFlYYUNkUWdUdXJmSU1kN2tGNjlaRzd3eU5ja3psYTliNW9EMmNHSjN0U3h2dFhoS2tTN2tpb3VEckNsTVJBVGl6YkE4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/belgium-coach-offers-no-guarantees-lukaku-turkey-clash-6424901": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWtqdU5nMDNwQ1FhUlFOS09tRHI0elJhZzlWekpNVmUyS296VEg4Qkk0aDAxbzl0UmdYYklQUzZiLW94dzBxYW94SGZjTW5sMXNDMUJHRDQ2ZjBVVGhQRk81NUhtWmpRQzhLdmVfUkJPUTQ4RTUzZ0llVTlSM1NTcWpuamZNSmRuYklTal9KZzlpR3lyeHhySER5RXAzUTFyOXZxMERqWExXbXZmVzBxRjBmaXJUT1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/thank-you-andy-farage-gloats-andy-burnham-reopens-brexit-fight/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOby0xS0xNMWZTTEVPZmFpLURRUVhQck00YzE2YjBweEZFdmVrOXRWMXJub2tMYjFGb0FBQnhNVDBCVEhtdWQtazdyNkdUTDVsQmluLTRuSFRxcTR0a2tzTFR5LXZ0clpLbFFmZkFQTS0tZGtTTUI5SUxVcXQyaEJXLWt4SFZVSG8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNFFXUTEtd0phLXdVdVhmMXVrTnV6YnhxMTVSZFlLYjllX1F5UVQtRU5yU2dJRmREcWw4a1FvcTFmX0J3T2VZaXo4LTZNRjhTYlNLLV81REk1cnhrbXV5dUwxazhRZUtkdjVINzBaT3BVdGlYdS1iRnllRmhIdjdNT0lFYURCX195Ml9LWEFaV2xZZmQ1S29tUHZYTDVtQ1JaQnRnNG93WE5ETV9QMTdqWVdfNEZjLTZqeUw2dWJVcVQ4bV9NZHhvdHlSSGI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgJBVV95cUxQUDRTUW1tTGFHTUktQ1FEc0J4cGxOanJfV3RqNUFPR1NCQ2pFeWVFbUpZb1I4cVVBcTRyM3VNbVNXZjVhOTA3YTcxLW9sekhGaHNWS2t6LWdWYmlSWElIZ1lURTVoNEFlQnZIcGJzbV9UWC1lb0ZkajdyWG5BNUZCaWV4aEZucU9IMzNRalo1UXAzalE2bGxRNEZqc0JvcGg4eGFqRE8tSnFfRWl4MlZBLXA3Rmk0Ym8wdlVjTHoxOERBMFhHUTBwQVJ5alNTRmVSY2d6WFl4cjRmQWEtWEx6bm1TbGZnQzBwYmMzejFOTW41N2FMTFVSMWNVUEd5dGhBUTlUa2lhdzBKVnk2YmNveVVzdWNhb3FWaFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTlZ1cnpOT25NRFY0ZHpxai1MNWQzOHV0SlcwMWFkZHhTZTc0VlpGWFNWdk9xajRVZGxuVzRTQWRuS054MVljcHVITGN1ZExnaGN4YjltVzVMZUNlb0RJemd3cVRSblRzRzN4cUJyVU4zaEcyMWJMS3lNTVZ5TmFhaEtUTm9DdWNUUkVwMklDeUxUM0JKcHA0YzF4dHBtMlVkTVhuTF9WU28yZ2dGcjNxQ01lMnp4bkJxMzhHazRVUDc4dGxEbXZjVEZPdXZmS0Q5T0lrLU9nS1p1N1F6?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
