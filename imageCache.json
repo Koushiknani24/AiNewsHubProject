@@ -170482,5 +170482,167 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/bolivia-detains-attorney-general-government-ministry-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/10/01/business/media/cnn-paramount-david-ellison.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRHZFSGhiRWtyZFlXUG5vR29GWkJGSDFza2J5RVV1UGZtTGU2ZE56SnBVeXNlRVk1Tm9JYVZaRFdYVUlvdVMyUHhvZWRSY2s4UlZYdERrVENSZnhCU0ZPel9NNXJYcFRWX3R5Q3BTS2x1cHU2UmRYNzFHeHNHZFNSYlhLY052Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-sept-14-20-2026-1236720517/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/albania-edi-rama-democrats-revenge-donald-trump/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/ethiopia-who-could-bring-the-warring-sides-to-the-negotiation-table/a-79475529?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN05qeFhfWEpmMWUyQVlCRnNWMGtSV1dyTFVLYlZ6cmkxemxFalJVeDRFeVhYMWZuMkVpWmpLb1pKdnZPUlJ1Vk16R3gzdV9sVUhJWV8zanRZQmxpTkJjcXgtaXhoV05qNHpxcUVNTGM5SkQ5Nm1zeUZkUUFkNURvLVVqMTlYaFZTNmw4QlUtc0VVaUpQQWc1alZZQnYyMFlPWUxfNFZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQME9JdWZybTdlRkpqX3dPZ2ptaGw2LTRNWFhMSHEyN3dRbVpZMDJPUHptOUQtVGlEci10RXRSQ0lNQWpjVmw4X2ZIRXBPVlh2VnFZdU9RdW03LTM5eVhkM09yYTFTckFUb0JpdlNGU0ZQbEJ0UktjSXFOMEhueGhPdGFKaWtEeTFmaGFJZVdZQlFNQ2JnN3ZzRlhiVjhCdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRRVHF2dW9BcElUaFo3SEZlX0hvSHlUaHpWNTIzdzd5LXhTems2V1VnWjk5SFdIZV8xajNKZnBDbmhDYm84RVlkbUF1cEhmenZvMmtsZEFlUDl5Rmw2TTF3SWI1NWxUeEs2clh1VVJ2Y25FT1Vqb0x3emZGVGd2SDFuQ0c5aS0tYUo1bXBTdk1pWThWVXFvN1RteEptZ3NSQ3RocDhkMGVWMXc0enfSAbMBQVVfeXFMTmFOeW1ZYjR2RkJPSUJUdFdESjZqdVR1VlRCVjVTMFdYNjhLRUY5SjFhZFNldGx5YTlXcGJlMEdVY0RCWXl6RDg0Sks0aHo3Ukt6dU9xWHNMTl9yNl9yZmNPWE4zUm1nenAtWHEyUm1zbVJTbUg5YmpKRFlSYXV3aURPZU9MdUE2ZmozeElaMzJRcGxjd0lTeHdkakRFcVpKMVVZay1xTWVPSm1XRjNaX014VU0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX09XQVdqYXN0MXFCR1d5aVVqWHkxdmxfdjVKUDdaS1AtVmlKSjJ0MTMtdHU0aXVHVVMxQ29CR0R4U0dTb0piRDdkNFpKdlBRdmJUZVN4X3dkc3NzNkNiNHp6U1ZzWUxVWFl1azNpM2IzS29QcTBraGJYOW1WWGpXV3NPTUFOa1RsRU9VNGc4S1U4UzNKeFVmNjBHc3lhdFVjZHlfQThGS0NlOWNrdlZ5TWV6eEbSAboBQVVfeXFMTS1xSlkwb3lQU0hEQWgweTZ3dll0NlVYSEpQeUpoN3BVR05FWTMxN0ZwSUdTaTFVMVNWcDl1bU54alhDa0JUSHViRDNfSDVSQUdCaU1IQ1FCdTl0aGRLMF8yTGZpbjhPOUNhMjhIWUlTczRJNHpKU19ZSnBoeVlNWFIwZGI2YTRxZHZSbXB3WUlFN1Q3X2Z0QTJPdzd6QVhwajVJR2RmNzFGd1VSbFJyeml6Y3ZqSnloLTBB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/volaris-end-tulum-flights-airline-exodus-from-caribbean-resort-continues/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54WmJQM2tHOGRzVkhWYm1OeG9mX2ZUOTRhdFhpaDlBb0FFYklSYm42QW8xY3p6MUFFbDE3ZXNZU1ZTU25DMHZsOUtmR1ZfbFViNjRYM1pKalhJSERI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRVh0RUphVEtkcHhYWklfa3NkbWNYaHkwNE5vakoxMmFpXzFDX1NsZl8ybFVNSlpDVTB4SGxJaEpobFNmQUkwM1FSdHcyVTVLbWpSQlNOdVFsczlSS2dSSWpWY1I5dUJ1MFZQNkxnRjFIRWZIWmpRbmxVR2JDcUQ5WEV5cTNRcVltTkhmMlk5X1hURG1wMHdLTlEzS3VpcUJvQ0JjdnRiYjhBZmR5bnV5TmIwa09WMzF1amJj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQenUzbHZNZkktTjViOUtFZnh2a0liT0ZDUC1SelhkZndRZXd6T2pPQy1RRFJfcXUyUk9NYUpxSEM3YWpEa2FGLXpuYWRmQi14RWhIVzlsV0hIV1BTek9YZVhIZlVZV2pRcFRybjR5bVJ1aXczU3BLNmQ4dGc4a1piZHptRk5ac0hsVWlBbWs2WDFiZWZESUdKOUxaUUhMWHdZdGE2akFlSkljVUN5X0pudzZSUVN1bThNeEtIVl9rU2p1LTh6cW91UVJWbjM1QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-news/olivia-dean-bill-withers-just-the-two-of-us-copyright-claim-1235635455/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/business/feds-cook-sees-ai-inflationary-push-top-2027-risk-6425446": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CWEFJclhyWm1OaTFnZFFrZGZlOVd4azRlMUQyYnc4T0V0d3psY1FxZERRLWpMTW5XMEQ5TXJBNWpVbEhkMnFmTjRoVUVSQzlTRHBYUElxeGV1eDZtWDlEYlNDSzM2ZFNadUZpWG5B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/1/the-filmmaker-taking-on-kenyas-colonised-tea-plantations?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/germany-far-right-friedrich-merz-project-strength-resolve-against-vladimir-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mnd-local-puerto-vallarta-robbie-williams-trash-fishing/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdGdyb1pidG40NGhia0FSa3YzcTB0aG1sZGpXeFlPZktIWlljZ2tVNFk3Uk1TNzlVWnFZaVFZUWNBRGtsaDVKWkRjbHFUZUFEY0xFSlc5b2ZNelA0T2RHYy1jUkgyUm5FZmlKenlLOVA0Vi1RY292VVlOSmJ6M0VDRndselFodjhTNTBZV0trbUhCdnNtYVJ3a3QwN2Mza0JwZWlEcQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Yw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWVJNaUl3aFU2Z3cxaXJjemhjcGRHNlBUWUxDT0h1UEE5SHpWN0dERzhPcG9hcnJUTkE1TlBUbk5WSWhValNlV0MxeWxlcEw3SkpiSm1uV2FjTk8yV2ZET1RYWVRBbkZxcjB4RUVaZThNZGkwRUpVRXNEUjVFd3NXVDh0dEk2RE01TXhoZDdoSkMzR2ZnWllpRU1GTUIxRVF1Nk5SUDduU211TW1Hb1d4YXdPcVcwRGpCSTBmXzQ2NU5FREdVWU1jWm1HVWhXVTlTbWEzcjUyUDk2VjNSVjFSdUNQUVd5X0tvNzFiY1FXWTR4SE5KYkd0anpQZ2UyMkpPRVF4bWZ2R3ZMczg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
