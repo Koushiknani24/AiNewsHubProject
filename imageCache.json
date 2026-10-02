@@ -170644,5 +170644,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/google-faces-us3-2-billion-damage-claims-on-ad-tech-monopoly": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-02/us-may-add-carrier-and-10-000-troops-to-middle-east-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-02/anthropic-said-to-target-ipo-before-thanksgiving-holiday-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/fast-furious-tv-show-peacock-series-order-1236720664/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.com/news/2026/10/01/israels-herzog-british-sanctions-criticism-01104187?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSW11TTU2X1FyVzItM1FMakpBR090RHhBQ2Z1Ul9JS2VubmV1Q2FnQUViRTJPSlZZS2ctWW12QnRFcHZQRno3Y0ZPRTFTeHg1MklQWVNHVFNNeXloOGlnckVlM0tKOTVXR0k1SnVJalpmYURCaXJpOUFELWp3dzVKTkJTdlFwYklBMG9iRHduZllxMXdHN0VjZVlMOU9hMnFxWFowSTE4aDQ4eGxzVWlRQXA4N0psNFlVMXN2UzFuRjJCR2NmN2JJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOODkwTkNfVFQ1SG5sVDFaZlUtTEVwek9zNjJLejNJbDN0eTlnUkpJMC1hMHdwSWc5dExiUFREeGt5Q0xFZE5sQUZfdFp2U3p1X3VZd242V3d5cDJQWDRGU0pib0V6RnJpVUdvNl9KZm90NG9SZ2Y3M1ZQMnZkRHhMVg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWR2S2xPcWtrcjVnQ1ExTlFBMkRVVkZvc0tpTEtodHBaTzZDc1JHUWw0NHFRVVQ3aTZUUlVJYVp2MUdTd1ZxdFhJR295d2VGVDJyQzJtbXd6Vk9TYWN1RFFtNGd0Y3ExRVNWMThjNldMSkhKUDNXcnlrWUVRZlk5ODR5TWxObTlMemc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE51b1k1Q0hTbHVJS3E3T2tVWDVCSm1SSGhHMTZISXhjSTNzdDFmWHNneDRsQVFETGpsOGh5SEVyTG9hQlNiQWIweGZRRlBMMWl0Z0NQNlRyaHRQclpUcnQ2T19MeDB2djl0TVh5cEpKMjQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/torreon-school-attack-vice-principal-killed/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDA3U1FpYTFGSmpiSFZOT3NqRnN6WllfeEg4MVZYajVSUzB5NlZUU2htdk1TN2RILXJ3LVFqbWRLZzlWc1ppZ2pVOUxsWXRhRHNXaEUtaGJ3Y01tS0hVdm5BRXRZV0EzblU3M3BoYnBrTTNPVmdjR095V0JBY19ZSjR4Qlc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRDR3cDliY3Vkak9nTjhobDl3bWQ4ako4QnBZZmx0YWw2ZHFNaWtnYjMzTnBod0RpRVBLNlRGZUM5T2N2Q0x3d2NlQVJsLWc0ZTJKdC1Ea1dhX3BfcHJQbzZwbHVMQjhodmJpN01jeHpwRWdHN0dRMHh5OHhxYUN4eWluMFBfdUtuR1dNNmdBUEViamlFUk9udEYxc3EyWV9kbm9zbGptZDN0VUk3aVVfTjRCd1U0UzRGSl82S0dkNkFicjJkQ0x3YnB3WjltWGJEVjhOSHFlTTEtYkV5R2xHaHJheXQzZnBxaXozSGRn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSWIwX1EzZjM5WVR2YUg2UkNLVHpFRmxtZGVMendKVkNRdXBfWDNtODgweVN3RGh6dUhmMlkxclBaVXlTcVk4bW9LZXhRY3FzY0FxTFBncXh3M3BzWnc5UUg4NVJWTlVDdnFjVEZSNm5uNFNJU21FZWdIWUc5RktrTl84aW5TcVNvMnpuSmZsN2hNNExEckQ0eDJnQlN4MUNLV2c3SlBKaVpCQlhualdIOFNlQW0wM0lyQmtORTVxUnJmcW0zSDJhSkctRzhpQmNpNU9N?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlNEekxVNTFWZmRRYl94NXdOTXVCVzFFcUhRTWJKa0JCX0x2X3JQQ3VzSG90bjBuQ244SEpILTJqMUVrc1Zlam5uM0x4OEJidHd2MWFuNkRHaWlKd181MHdYMHhNeEhTLUVIUFBlUTBfMWlGc3FGOGU0VGY1eHhGNEFUMlhha1pHcHdfQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/hurricane-rachel-seasons-first-cold-front-bring-heavy-rain-central-northern-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFAwdWZOZkx0aUJiLTM4RlRkNUZlcTNCNnRiNXNtV1FYRURFNFJtY25lU25xUEVCVndrUTh2MVFCeFdmWm9aaXN3bVktWmc0VUdYc01tSFJ4ck1PMjRUQU9BblhxOG1kX1pOVTQyVUhuNFhoZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/ai-is-better-informed-than-doctors-us-health-secretary-kennedy-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-october-2-2026/article71535569.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3330058/cops-widen-crossborder-scam-fight": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
