@@ -172204,5 +172204,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/florence-pugh-east-of-eden-zoe-kazan-boosted-confidence-1236721680/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/fairford-air-base-dual-uk-iranian-national-arrested-security-incident/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ER1FLWF9zTGJjVTl6Z0o0Ny1VMEJoOEdnQnBqc09pdEw2aTZRWU16RnhfWUFwVWQtZVlWOEFScFFuc3psWkpZUzc5X1BGbW5DOFVWRUtR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/03/azerbaijan-turkey-and-uzbekistan-join-forces-in-major-military-exercise": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-tutor/mnd-tutor-mariachi-performance/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/remembering-tlatelolco-student-massacre/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXdDbGxPa0o2ZVNjRVJnbGF0QUs1dTgzdXp5eXpQeVRuUW5qRUl2MV90ZzBGc3dWbnlPMm1xWnNwZzFXVVlpZGVFLUpQcnQyck1xTFljeF9JNUZsMHNma2Zrc2FmeXdONmFFTUdaNUpXX205bjBrb1RjRUhxa2dWOGRaNjdlNVk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcENSdGRZaW94RXpDbHhwa2xmMmZBcFE0UzlfWjlvNlpBOF9QVExOWS00cWFFMTlhNzRXTGxlUVkxUnpMXzBUM2lJdVdITUlFUi1YRXp2Q0stMm16VVkwNjBBanVrR3E1Ykt5UEZYcnE3TlBkRjJTZWNhTEJuVjhkN0lLbE1HcENmZnRHUWRycVBvUnE1RjBrRTREOWU4SEE4eHE5dEhKYVJkNHlNMFJoZ3RGNUMzTFdpZ3ZWYl83ZnNhMXhvRHN6TVpGc9IBywFBVV95cUxNcENSdGRZaW94RXpDbHhwa2xmMmZBcFE0UzlfWjlvNlpBOF9QVExOWS00cWFFMTlhNzRXTGxlUVkxUnpMXzBUM2lJdVdITUlFUi1YRXp2Q0stMm16VVkwNjBBanVrR3E1Ykt5UEZYcnE3TlBkRjJTZWNhTEJuVjhkN0lLbE1HcENmZnRHUWRycVBvUnE1RjBrRTREOWU4SEE4eHE5dEhKYVJkNHlNMFJoZ3RGNUMzTFdpZ3ZWYl83ZnNhMXhvRHN6TVpGcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXJXYmx6aUFCOEFrNVYwaGs0VFljaHRuaDltSUJ4SUxwTDJYRngyS3pnM0g1c3RjMzI5RnFaOUJYN1ZTd1p6bVF0c2Y3ajNyYzR5MU52SGpWeERmUElIVmlxb2I1YUxXTzgwaGx1LTFsMDFUcUVsUFp1UFZLbVBkLS1YMnJPWHEzRnRxM2s1bTFGN0NmSVBUb1ZB0gGfAUFVX3lxTE5PUEg1YTItTE01YWZMQ1A2SGpOa0MxY0lmT1hOcHBLRXVDaEx2WlhObUlQd0YwcFk4cDZ6ZUtpbmR2bUFyWnJPamU0V3FpTEtURzFmMHJFQ2F5MlNMSEpiOUx4WU8wc2lZcmc4NHJzSl9idXBOb28weWpNMUNKQ2RNVEJoSWFfU0ZRNHJ6MFdWdnF5QXVscjlCUEw3QlU0dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOE1OQTZaNEZwN3Z1d2ZJU2NlOEsyZzdIT2s4RzZvcTNoLXRjcU9fSzN1T0V4SDNiS05pcmZ4UE1vakdwZ00xOVlzMFREd2JMMGhuTHVTMkVmX2cyNF9ocmNNVnhhUnlqelQ2NkozbFU2WFBOTndkRTBRWjc3UmRJcGRzM3RyTFprSlBKU0Y3NjA5VHVPcEpkUlpGbk1uRlVz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/rajasthan/panchayat-elections-in-rajasthan-to-be-held-in-four-phases-from-october-23/article71541032.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE11Rzc3M2wzNFpsMXozU1JoSVNFZFdJX2gtSGk4TG12UUZ0cm54ZWZoc3BhazdjUV9KelkzMmhXcm9wRHV0eG42dnZnaFZPWVBVaE5NbUl5ZG15V1JobUJXTmtlOGtzakZrY2FzOFVLVVI1a2xVSGcwOTJ5OA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSDIwbjAydjRlRG1PYk5VXzl2MTNIeFNlOW9RQjJnOWhpenB3NXBiWHlNWFozNmM2TFFjOU1ybkJSTUtSMy1rSTF5RG9ZVmJwNkhmTVBsN3M3V3g5MHEzNU4tRXpJT2JwSktpUnNwV1BweWZkVnlHQm5mZThwQ2c4Z2RVUk91cEFRdTJfbGJfYVRmME12a3pjalJIcTBCUGxVb3pZ0gGoAUFVX3lxTFAzUUZYd1lsWlNRTkJGMzB0Ri1JVHh3a3U3RGxwWHlGWGdRMXJyQ0s4d0gzbE8yVVRmWEFJZHBoRzlUZmk4MHN4RkowMUJkT2h2ZFdtZWd5U2hweHBlNlFTYWFUdW5lYUVPQVdJNjBDcDNqTEgwaXVQbGZtU0tUMkdTYUlGek4taU5jQUlaZWxURVE3bXdUTHB2WFhXcDZPcnFHalJqSGJBcg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlEyMHBhMl9XaFdMb2JzQTBRVm9DQm5XQUJ1OUw3QmNxMWpybXYzMjg5OG1ZNjd6YzhZRFBhRlVVYmdPV3hObFd5TkxHN200aGU4MlB5UlQzbDU4X1NOZXhYTVNUTUo5cnk0VmJVcmZEUlh2WjFaaE5sTXVkeC1EcDJXSjYzWmVxVW01bDFyMjBDd0ZGOFRsd2ZlYWNPUURSNHd6TWtR0gGrAUFVX3lxTFBRMC1hV0FoRXJNeEV0N2wxSklmYWJEQW85bG11ekh0Nmt3UHVSa1pEbUNmQ1c4LWlwODRybzJNTm5zcWx2amlSaTc1bmdLQVExcWRzUWhvTDJSVExRNnh3cElJVXdkbHVCR0szREQyRXFHQmV6cDByNUZVcmpkZjlmNkc4SXBIREM5UTEtdzhzcURqNkZVRllSa2dDQVRybXRxTmMxN2pnVHNkaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTY1YlNnTkowNWN0VEI2eGVBVVFYOU83WllGSFJPb1RuY1lvUHdMOTBWa1cxUlhkWTltdFk2S2dIY2hHYVBpY3BadHFTQ2E3aWpIdXRITXJXSFpQR1R6aUp0NElFN0lXWWdVbTVTemduTHRDd2tHRXhQOTZRNmZONGVEWTRQVXczQnFyNFlHXzVnUG9qeDRhY2ctMjFSbTl5Wjl6dWl5NFZYXzRWX1HSAbMBQVVfeXFMTTVUWVprWGg1RXlTQ2tYU0dLOXE5YzBic3AzTVRUSnhmV3VMUmlkU0lEdzJWRTBoWmNqLXBOZldDSFJQNnNZUnByZm1IUXIyQU94VFZTbkI3V29lYkVQTzk1TGxmc2FpeVlZa3VvMEwzQVcxY0JNUEVIaldybDN1QkVMcFdYSDBPSTBsWjd5Zk5IVjdzWGFYT0Q4bFVCR0Zzc1gxUWx6eHJmcVJfVEVjRlhMSXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
