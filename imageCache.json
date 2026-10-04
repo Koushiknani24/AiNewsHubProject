@@ -172414,5 +172414,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/tamil-nadu/man-killed-in-suspected-leopard-attack-near-hasanur/article71543001.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-roasts-trump-ballroom-kristi-noems-divorce-1235636466/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/germany-friedrich-merz-visits-kyiv-amid-fears-of-hardest-winter-in-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-04/korea-orders-security-checks-after-finance-sector-data-breaches": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/peru-fire-burning-on-road-to-machu-picchu-kills-1/a-79534344?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-coast-guard-finds-debris-from-medical-plane-carrying-six-people": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTNjNW12ejZqdDJWUHNoQlJielhZZGhjRzlVVkE0N01sanFIMnZBbnI5cXk3bHdEdkNGazZibWY3NTNmRENkUndQZWVTNnRYUTVrd2ZNV3FxVW1ZaEhWUDBJdnc3Sm45LWVOUm9PVkNfZHVlM0NvenVZbXBSeXQ1aEZPVVU3UmhiQWlpc0c0UXpUY3ZOQ1EwQlhiMzlDT0Z1VTVKWWliV05ITzFzd2hyaHVuQ1hDSFRZbEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1hnZ0RNVk9xNkdhVzZxQy15RDhnc25RUWdGeC1KNTlHSUg2azR4QWJEb0JIRU9MMlIwMjR1eVZuUGFqRWJPRkVmRkZ3ZTU2amJRaDd2WUdhZFdwTEZuNl9YcVZuSG1nVmswQTVOSWRRaW5vbHBBcHJDRVJ5Y1lqV3VubXVoNFl0bHdVZ0tYZmlIUHgwbmFRRFdkMkZuQVlXSEQyUW90c1g0SnF2ekxHY1h3V2pLM3QzV3RJVGlEY09iZUlaSDZKRTdhNWhMLVFrSW5rb1FyQWNjTy0tMXFF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nMi1hbDF1SG9RT0h0M2hPX0lZbnJrdmtzS3czdmVDeVRHYjhsMXpINWlES3pndmxtMUZqZ285M3dJRU9FUXI3VlhrbVFtTjBmNk4wMW1neWhQaWhzdHhrVlZTZGxMZDFDUTBtcThGUV9wZThGZXBCVWllVmVDZFU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbjRCYy1SNVBIQV9Hd2xaa1FOQXRXa3BEbXNzaUcxNWg4dFVFdGwwc0pvTVJiaklmdnE3OHB0MUkyZF91YjBQU2ZJUU43b2ZvU2FIUnA3cG5qNVRla01kT1lhQ1dvdzc4dmpjQ3k5Qi1HZVpyNW0yVmdLME9qWnNTWXlaTEVqdmFCSnc0V21Gd3g2QnlkRTVMUktMYURDUzlMQmJYNFFnd1BhQUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3lZLWVIelc5T0xId2d1c2tlNFNUQnRRMmtySTRlQTR4UHlxZFJ3d1dkNnBTUVdSVW44VUdpSy1sRjVVdnZBMTNaUHI2dFRZSFhMeEpQWXhwbGFHOE01VUdaSmR1VHBWMDNMZXRUTDdlX1dxenVTVHNMd0FudXl1RnBuUHB1R2o5azJocDhJelpvLV9lWV9IaVlaZXkzd01rVkNXQUFzeEYxSUpQaXJmN9IBtgFBVV95cUxOSnItVjVtcG9ITWhVZEtLaWhBdTZqQW1RSmxRdmYyeUh3MlJWeGRVVXFzSWZSdVhUWXF4NXZuXzZoV1JBV05XWjN5MVk2Nm1qTzFyRkhXV1pwMUgzZGhzRUgzd2sydmFPZndIbU51cmNsZTBZZ2JLV3lIdFEzWFhpdnlhRFhwSWx4aTVGOWtlWEdzSXpEdGs5Wk5BUGg3ZWFoalVsRnY5VnZXOUpVcEgyRjVidFkyZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/04/the-best-place-to-retire-abroad-is-no-longer-in-europe-but-six-of-the-top-ten-are": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/marquez-wins-japanese-gp-cut-martins-lead-6430496": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVndoR1JNNzhTRDdBT0lqQlRZcTlJWGc1RVN1NXRucl8ybnE5ZkRrckJhNk1rd0NVdnVBUzhkYm54M2dGbVVQUFFnZ3k1dHR6ZEpOMF93WjM2TUgwRXhaU3VsbERVdm1xNVRfSmFiN3JtWklyN3RCTU9vWWY3SFV4Zg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTW5zR3loYmFWOW5lbUtYd2hZYWMzdUtRNHZqNWx5a1ByYXc5Y1N4eXl1b0hJSE5sa0ZkdTFqdXJPQ3VMSW9QcjlsdjJTMS1FanphT1NxaVl0c0twYUF4bzk3TFZEV2N1RjdLX2ZBQmpNV2N6azRSUmJJanN0c0pQNVVmbG1ZZ0I4N29vQlRwQXg1eUZvSG5TS2tpZU1Va3RRZzFRME53Qkw5ZXpLTjBfUUFHMmFRR3NrY3cyWGFCNUdFT0k2UWV2S1ZDVURIRDhSUTJHcldSOVk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/4/widespread-damage-after-huge-hailstones-pound-paraguay-capital?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
