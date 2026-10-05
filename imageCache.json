@@ -173092,5 +173092,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/lanterns-finale-john-stewart-hal-jordan-1236721962/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/quebec-separatists-favoured-to-win-canada-vote-in-test-for-carney": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-05/india-s-margin-trading-boom-drives-stock-brokers-to-debt-market": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdXlUY2xfZzNyaHVMLTdvX1l1LTY5Vm1GREJfRFpac1M5Ym9iOWgtZUc3dkhjUTRvVzJPVlg3RkVuU1oxanM3ZkE2alpaamtjQ1NMa0gwTkxNdzdQWDFnZ0c4bVdlSzBLaEFpVUZEM3lVTERXSDVJUEJVNjR0LWNVWnc2b2hnQklBWHJGY1BTS3AtX2Z2THFJNGo5dGl3YUlYQi1OSmptYVd1N2FXWlNHVHJiaUlFeWtUT25JVjVoSHhGV1QzMVFtY3kxQmF2TzRFUnB2WGsxeEhkN096V3Y3cElBa3dLb3NBYzUxVldydHBnTW1NTlRxMGZpU3hyeWVaQXNtUl9iU1E1RVVIdWI2NUNROGM3cjc4bjloVjkwclM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWZkX1VfOFBWTmRGZWVKQ0V3S0gtU29nbkE3OEFmX0lVYlVieFN0U2dkRlU1ZV85R0hEMk9OMU53YVEzejY3c3lQTVRBMW1XS3ZpUllIa3dWc19Mc2dHVVNIT1pNSFNwc09CSDNFNEROMnZZQ0ViUGJxejFTb3dYMFNpVTNPaXdhS2pFMEM2R1BLQWJJU2hv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3ZzeWY0YmdVZHg0ZU1od0dnLU14VnZqQnIwYXJEenluYjZFNlg3SlBENkkyb2pma0pweGRFVmoyTUtVLUxJaWRSVjVqYzJ4NUVTblA3OWxmV29Vc21EMXB3TUxTdGR0WmItTjVGMThDMWxrVFdBeGR5ZngzYUMtbk9XTXBiNGJTdm9vZks0M0d1UXljcXVGbUtQMWc2R1ZzOHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwbnhJdlREOFdTME9VTFBwTnR1cEtQYW9WNWZqUzY3QTA4d2FKRE1idkZtc0x2WVAzTmlsbFZQY0pxRmxkTmdPLXRkenFYazhvMWpPWENyVWJRNDQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/brazil-presidential-election-bolsonaro-lula-runoff/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/man-two-grandchildren-drown-in-agricultural-pond-in-chickballapur/article71543310.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/dating-app-from-ex-tinder-executive-lets-strangers-play-matchmaker": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2RUWVQzczdzeUU5N0hsMG0yVUZPZGtqZWJqOEh0dU05cXVmZm9lRUhsY3g2dlBHaEdXVE1mbnZrdVZGNnpVX3AtNzFCZHlPQ3g3TzF1T0lqY19fdjcwU3RtTkZHQjJCR1FJekpVWXpDeGREamI3Q2V0QWJsWXQwVzkzQjV2U0tCVWtTeWJLMWs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmY5RE5ILWt6MWtRZTJBS2VXVzdQdERuNHZFbk9PVHVuZFNfTVhjdm1yTWdUSTR0Q0xlNTN2eGhOUkE2WThVcXdDZ1pEcDAtQWJWWUFQbUM2RE9pbmtCa2lfM2t2RUxxVF9kUkJxd0htRjA0aXprc0NEQWZlNHVQTWpPVDdPNDVmZ25sNXFISGhaa0MxdEJzNEQxekE1ZVRoZWFkVEZsOElNR1g1amRXRFdkZm85RnPSAbwBQVVfeXFMUHdUakUzMklBc1VSRGZwMXN1X2M1NVg3b1dmUFZ5aXUtX2tmbW84UHNSckw2TlBmS1pXdmx1VE4tclZ6cGpSSFU1WTZRRmg3c3V2N3lYME1BRmUwa0RHZS1rd1BINkowa0xrMHNReUxXdmZyRzduTkN0TTlpVWV4c0p2Um5uWHRlNG14b0MwNF8zd2JTMHppaHlnN0tHMWJJTlhKMTltOE5MN0ktQVdoNGhRekg1RmhoVVBrdGM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52OFBqQk5rTmI2UUhaX1Rxb0YzdDVxelJaamFsWFBwd1Qtdjh2eGhNblNKS1A4d2c0aDlsYXVqRFAyd0luWDhQMmFQTGU0ZUNNYjdOWG9Cc0dkY0JrY1BRcmd0OHpPSnlD?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ld3o4d2RuWGlVUG5scXB4d3AxRkVkTTdWMVUwN3VHU1Y3VVhQcmtySUtsUnVDZ1BFM25GTXY3akxCQzRSZnFxZ0I2dmw5YmxpX0xQTFplMjVxOVBXU191Yk5UZ0hIOE9tamdqZElDSTRvcEZ4cnk4YjVtTmE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAJBVV95cUxPNkphYjJ0djQtaFQyWWticF9NYmFoUXhzc0hIN0U4SlJIakl5WkZHb2NEUDJjdm1KWmllckZXYURqQVVxZXUyaGJtNXIyVkVZOEFMVXRYS0FkSUhaLVJ6R1dyaWI4UTZiczd0MW1pOGhMUTRLUW9yMEp1YWUzdmttcFlXQTY1TWI0dlRzdlcwY0FzZEZVMl81NEc3Ui1ObERuLUVGa3ZNS0lHVkpJTUJCTWNPVnQ5TGlNNjdWeUJncnZYXzMwNnFuMkJSeDQ1UWx1U245NnR5LUk3amZUd01sa3ZaTS1MQTJBaERNaTBVdElNQTV2M3A4Qm5tZVd4LVB3UjZYTVAyVV93WnYtZWdkcUVnRVcxR0ZGWklYNUZLLTUtSFdm?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
