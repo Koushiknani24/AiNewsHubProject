@@ -173200,5 +173200,185 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/05/goldman-sachs-fiscal-deficit-bond-yields.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/10/05/nx-s1-5986099/morning-news-brief": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/hackers-get-personal-information-on-8-8-million-people-in-denmark-government-data-leak": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSWVWejVnUHdqTmJCa29JQjQtV3FHVDlDQUV2ZU1HY1pVWWF2QUFvaWlmZURPWGlSc19FUzRfN1Y5VGczYkluT0REY1dYSXh3ZmlxWlFUYTFtSjVsZVFxZVp3UG1DVkFXcXg3SEJtN3dJaU5PVi1peHpFV3U0SGptTDdQQlBnQXhIdXpjRWdhWEJCNWVnUDhQRFAtXzQzd3V6VW5hX0ZuZFpFaE1ZNUxTdmxJOS0xVDRqNDlZejVfSnY0WjdqN0o5N29RQ01EUU9NYlhxTW5zRjM1UkFjQkktSy1Gbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/hundreds-of-french-schools-closed-amid-protests/a-79542656?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-05/greek-fiscal-plan-sees-budget-surplus-exceeding-target-in-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610050160.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVZPeEFwMnZBZkpDLTRWNVlHbHFvc1Bkd0VLRTBGQm4yYVJmbUdxLXo1ZlRlYzZMRDVjeHB4TE1YQUJPay1sRlNMN2R1dTNJVVNyOTNDR1hQUGJVV0U1MGh4S2lIUWt0M1NiOFRoNVpoVjNhc1NVMzNtX2VXYm9xTGRWOVRIZGZZVkttcjhMVUhVcUxWZ3EwRU43dlJzOHlrZm0wZzkxNVZmMjBLdTdOWHFlc3M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS3M2NERYSkpJWVZ1N05pVmZuMTFGNElOMlpacDBKMktCSmlreUhuUDEwYWIyVjBiM2lVTEJvd19YNkFHRzRBa2puc2pXalE3WHBnbnc2X1Z4Z1BFVnYtakFZMk9fanRnMUFuY213ejU0Q2U3eEV5RHBGd29YRENkQXN2cUUzUUl6eTZZVVdSeDI1OVgxc1d5ajFVQmJJV3h0Z0ZPN2xpY3ZoR1JEYm9adlhncVBjd25BUXJyZGh3UDRBMWtjaUNRcDRPVGJhT056YTI3RXVwVDN6LWZRbDUzRl93?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/hundreds-of-french-schools-stay-closed-ahead-of-nationwide-day-of-student-protests": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcnp5eGJWTzFraUZVcmdCWV92M1RMMzJYT2JENm9zVjFWd2JsQkY1dmo4elBZVDQ4R3h3d2FVbDZmdE1uN0NVN0hORFktVEVSTGJNakRUZnEwSHdvaDZYN25sX2wtbUpSb1ExUW5objhGcjhXbzdzbjRyMGIwMUc3LXNmRkJvcjN3Mmg1RWxLTzRNNXV1bkl6LU1WcHV6S0VaRXlLMjNxdVpWMGwtdXlWOXFxMk9MSWVFUXU1YVZxc0FtOFN5SEpuQ0xZT0g5SzRWVEQ4emlXWGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXJ5YkVWZXoybDJaUkdHRHc5ZHhKb2pielg1bE92MFhVbVNpNXkwNXpQejR1TzBKSVZKdEFUOE1aMU8zdFRiRVhCUms4T1NyQXc0cEtuZFUxeHBrOUhPdC12UEtubmNZWmhyQUdNYTRjSWwyQ19Ib1lhTVYyUjdQX1Z0bThHYkhiWXJoTkxpM0hYbTdFZG95QURXbEhibGtLRXU3akI4ejM5cUF3cHU2a0xR0gG3AUFVX3lxTE5wQzRrakhURkpmVVZhSHpEekdkazduSmlEUlJ6SnVfRzdZQkxGcDAwZnJfZ3FmZlhSQ1Q5bGFncjhEVlZiYlVaMWdQYWNKRVZYYnk0bFl1RDZQNXg1WlBvMGhIV29NRk0tUnFBSmVsbU5wT25XTl9NNDBXMUdjQXNDWk9vRE0zTmlqaHZUekZZM1ppbWFHXzZMX1NKdmE5Wjc4NDJiSXlTYjJLcERkbFVYeW8xckRXRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXpyNDlzQ3FkMTUyVGdUWnhCWHNNNFVnck5sNW9WdzZ2clVrWnBXWkxkTmR6azQ3MWJ4bmpGM3BwVXFBYnNNczJfQnpaVkZ2cm1LQUQ4ZExPVFJHaVRNTWVRQTF0UEMwZ0NRcElhWC1GQU8xcmV3c3Fod3Vld2FKQmE3MVlDMmhrRUtSN2tlTUh4aWZNdWFhOGI0b0lMeVVUV0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdnJ1R01GTmRDRTZRWE1IMnc4V3VvUGEybmdGaUs5MnJ4dTlxX2ozZ3QwcGRaUVVYVkNtMEYxbktsdUhpYWdFYmxpNHFQLTFuaXlXR2NRRnIzcE9NcHRsRlhyN2NJbnh4Wlk1bFBUZDdkX2VuemJCOHhyeUZnUkZaajdRc09fR3Fxc1dGNE9BSC1jZ2NHRnBFLV9YQ2xLeTRtNTJLSTFhZVpCUGMzS0FfM1hFWE5rdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTHV4NWRjSElUd3lZS0FkQlhFbmJFUkloeVp1LVZlNDlLb3p1QkUzRG1rOTBEbndrbXFRQkswV1BodGItT2JSOXhkXzRpNUR0b2FnVVBqX1Y3em5xeWt4N2RGMHVoSXN3cmd6bEVMQUFMSXRkT0F0ZnV2RG1fRnVWdkVaa3FkaTBZNUJLVHJRQWdEbTNn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MalBrUkNVVXE3TjJDbXhqZE1EY0V5cmc3OEswS1ZpWUx5SkloVlhxOWhRZ1JYXzA1UHZLUnYxTDdqSGVrTUFSZ2M4Y3h3NmpoQzNFZmd2T3ZDaFpOYUJiS0p0d09fUTR3Y1dTMGN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOV9JWlUwNHRGN2JVRXdUS3FPdXNBTllHUXlqWUFfV0ZUSjBsSU56QkhYZG5Ba0RMRWhfNWpaTnUtaFRWMVJhdXNWTFhKc2VxSzdITy1qZnFBSTlNdUh4R3NvNDk1dnB1ZXIwZFVjc3B4NkU5bFloZGs4Uy1sY0JzdVZwcUdfSXFIeElkdkxrbDVoMTRscjRja29UZllJUGdRRUJiekRjVWJVd18tVDhrTFgxYjVVQzlFdG5Oc0VlTFVXTm1LOVhYcG1PS2owMjZlRktpeUFhbDdOdzBRVGdnS01QZ1lHQkVWN3YxNQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/politics-at-sam-and-annes/is-kemi-badenoch-abandoning-the-red-wall/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTW5GNGtldVBTbTFJcjh3cm1JSVIxeHY5ZnBoeUJ2ZFpUR0VlcHl3ZWVQdVMtS2FBYmdXOWN3OXljQkItU0RZV2h6alNyck0xbjUwZlBuQWV1Nno2TmRHSDVmSkZKX1F6VzY2M1RfR0RBcmlMTzlCU004RDJ2bkpQSjZVQnZ1ZDZWUWNIOE53dGlwTW1Qa0xn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbG56OUN0VVVDeE9hQUo1YVNRcl8xTXR2WGUydXZ4bnNMUEZoZ1lNVjRjRThNdXEzMnhhRXYxSG5GOHVYdFl6cHZ2NW92ekY5Xzc3X1lJR21ILV8tVVhVYmt2T2FRZGl5bGRRTFZGMzRIZDlReGZVc0pzb3pPWmhHSXZfdENDRWVxRTFRS2FkZkROakxTeHc1eEtJbmZEVHRabEVmVkJ0bmNWSmNkN1NHT093TlBLU1llc190QU1WQmTSAcYBQVVfeXFMTlotdG5jMzFwRUxfWkRlX1h4djR3Z1ZMQThOTHYyc21ySHR1YVFLZHI5WUtlMEp2TS1wcGdwNHlaeHMwb1EwUjY4X0lEMkRZVU5PTGQ0VFlVTXdESVNkNVZCcUMzQVYxd0JOVWs2UXVqM1lLWjlXdUJndzNKeVRBazBPVk9ManFycTZmSWFDNE85ZVBESHl1T2xBbjU1ZGFBT05LVklmRU1KSC1sRXhScTNZdVNjeXdqWlpQYk9HY2t0R01TYndB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1ZKSnNhRGhCcUZlRnJwa1VlMHhWM084TmMtWE5acm9XaERGRGNZNk1QNFVRQlBXYlVPclVzeUUwampvQ1drbk0tUi1tNE1yZlpkZ1BjWVVCUVBwWUs4NnJ0ME9ySEVnWVJ0aGFyRVRfeEJWenBWRzk4REZUc29CS3JLRW16RGNwTE1Dd0RHMTZJUDhaVW1JNGg3V2NoWWhxakJrM2F3MlJsY0d1LVdfTWtPNlpWRHpKckFBZdIBwgFBVV95cUxNLWwyNE93V2I5ZklKQWRXY001Q01DS2o5WlRub1Bxcjc0V2g2aUpwa0RXRExvVTNDWDRVUzVXRXhRZktpbjNpQkNsYVlzSHFsR3JLSmJiS01tcVJNcVZZc2RVbDhHbEQzeG5pTWVnWk5xRGhCaWl0WGZGbnE0empuUTdISjVtZEh4aU9HRzc2SmkzaW1XYTJmTGRlMm1HRFJIUk9xQ0VRWVVnRXZSbkVXQ1c0NE5nT1BfRWFseTd3RU1RQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez/spain-snap-elections-sanchez": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3331645/bangkok-canals-being-drained-ahead-of-more-rain": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVU4S05LQUNVOEt4SVNZMjRKM3dITGVoaFdzUEM3UklYeHlSdDRld0o1OVF2MW55aE03THNtYi1kbktxUVQ1dmV1dFlxSFU0anVQZEt1bElqeVFSMWV4Q24tb1RLZDRfVlhzX2E0dFM2clBwdzNqaHhlTnNqSUlyR2hMdmd6cldKTkRJVjhuNnE2RjZIdm13R2FfQndxTFlYaDc2NU9Qc21Fdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZlNCMkhuZDd2RjgtYUlnYldhRGYyanBNbG9JUnU3T1BLclBiWUxqckRuZ0pReDFBcG5hUDVieUtCS2ZsVnVmM19RRWVFUVp4OGI0ZlpWamJSeGdXTjNGYzRoeTdnUDBBUG11eWl4SEhRaHR1M2k0YUxvd3Vla2FzNDlPVzBfNmtGSG41bkNkbmNQVWlBQ2ZZbVJTV1BtWmFzWWNRUWk0TnJMMDBkUlpJZG8wMW8yeXg3LWt4V1c4NHJXNDNfVVR4SU5oaHU2bVVQTkNjUWR5Q2JoYXdFNmZDMEN4R2pCR0NtSDJ6R0xFS3hJN1BaZnV2T05SeUtQT3F2ZFhQajVVRGI5MDktTEtEaEZnaWhyWWtsOHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzNLZ2txS0hLM2ktQWdmaDByZzNmZ0U5ZEZfTmNOd200bkVZSkpRUTMxZ0JKbWtTUFoxUXY0bXVOTDVjN0lKVkhfWm56cm1uc1BoLWlqQ0tUbnJpNEVwbHRydm9tdTZkbk5ZZTg2clRZUm8zMlVFa2dOYmVPdWhvY014TXhzaGxpUlZUemkyTkxwUTMzV05lbWVqLWt0OWpvbmdlWm9sYVpLbURwcm9UOTZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWxwaGEwam1CeDR4NW1DR29WS3VjTnplTnpVSnBvTGd1amhDbklLZEV5Y2dveVVCdFRnQnhxc3IzRGpRd2RzMVoyclpzLWFacVRFNXg4b3VSdHhMbjV2SnhfMnFHbGxJU2MzXzliWTNQWTJMVmdQdllzcWQ4SDRYM2xFR1Z3ZkkzNFhoQ2daYlBwN1JzN3h0Mg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/10/5/france-belgium-uefa-nations-league-olise-de-bruyne-tielemans-teams-format?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
