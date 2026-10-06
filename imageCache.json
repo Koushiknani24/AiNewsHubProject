@@ -173944,5 +173944,185 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-senator-murphy-says-pentagon-denied-him-access-to-us-base-in-qatar": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/politics/politics-news/trump-suggests-letting-iran-take-out-la-san-diego-1235637433/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/police-arrest-another-british-man-in-raf-fairford-investigation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdDR0M2U5Vk9sQjh2OEFQRlZJeWR4M3UzWjQ1ZkZGTUtHd2VXeVNiZUZQa0JUSy04bWZRZWlDLXpiSTJYaHRudUl5d3FGRHJVWWUwUVpMdlhJZlpwZzRjR2NiNGdHZUtFbFF5N1QzTlRZUE5UdXVrQWl4MkR4RTdXQkZVWWcwYTlEVEREUERQTk1iallqYnZ2bC05bU5BSUJQVWVfaEszQnJGZEpfU2c1a0NsMXpMT19xUmdSQ0RGR0dpS2pfWHB2c3hzRm1LR3I4WVl6U0RtcTJEdnlJakRQQ19yM0kxOWt2aXBxcmFwOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUWdjQmpYQ1VVdHY1ZWptbDZFQmJqVkJNOWMxcGIwMG5NUHNWelFyTW45OEJRX2RDUFB2U2p1T0RBVG01QmxvQXFUOVl0STh6VS1wd0ctWXdoUTUwejNPejIwNWZhOEc4cnc0Mm1WY3VxS0U5dXgwLTRoU193YTNVbjc1Umc0NUxYUXplOElRbUktbGJQVnZtNEN1MmlyVHVJYjlDMGNxWElQYjhZbENvRWxJcDdJZDlCRlJuN2lNYl9ZN0FkN0HSAcsBQVVfeXFMTVg5UWNybGRiZjZkTHYzamVHV0xWSWFjS00tZFdwQkZZdDBHbE5WdWhOUzBkdFlWdWI4NnNjck9KZ1p0dmlNeUtGMjZ5VTZCVGlRYVNqd0xSNUVkbXRsQTE5MVd0T2owN2xHUkpoN3NadGdRNDN2ZkRtcjdWUS1ScUdZU2o3RXcweWJRNlJBNEtaVHI0alBGbGRCU0ozd09TT3BjcDV2MnZtZXJOY3pxckl4UE5aTWhJYzAtemVoRktNUkQ0RlJhRDY2QWM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnM3hBaWJQTXV6M0stdkZmNHEtWVpfOVFjRjFHaXcxYXM2WHZiUnFKVGI4YVZITUpkSkF4MkcxdE1wcTZQNTJDMTd4Q243cDllb2pPT29LTHY3VlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/who-says-public-health-risk-appears-to-be-low-russian-plague-lab-worker-death/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.sciencedaily.com/releases/2026/10/261005011249.htm": {
+        "image": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRkpOaWRUOVc2bXBfc0lha3FLdElPUGxkVUo1bmtSeWtCbG9iOVZPZDFPYXBrak5paXhmcTFxaVVnMXJMbXRiNkFDcXBuTVd1eW5PN1k2VHlhQ1MtTm1SVU45bUVTMENNOERSMFRVOWhpQXJfZ1AzSjFWbGJ2eGQ5SldiQ1ZkNFB2Z1RJVjhtM2RlMWxJalM5ZXhLeFQ4djNRZlRtaXgxSXJKWUVTc1hXazh0RVZLaXA4aGp4VWxjN2FqMmhTYXJnZDczTGZoRzVO?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeG5hVEZGUzUwNXNZM184UnAzQkdpcGlmVUJZd1ZNVFZLVFVNVjlaR01NWGJ5LWYxbWoxczAybWlTN0V4bXd5c0dXRjR0RnB0a1J6NGFwNTl6Q0JWdGxxT2F0YlZVX3hhSUp5N25NV2IwRFk2MUFzdHp2a2RvMzRJUXE3YmNrcWJLenh1akEzNU5lSElXWU5oeWlWbjR2c2tobFJWVVFmRFF4MmROMGU1dDQtWE9hQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM1VHZ3Vfb3hVT3JJYkJIcm1MVXB0cGpKMlJTTlAxOEhiZlRHVjF2Tm9EaEFqaDRNZXdYN21LSGdpNzNPMHhaeUdHMjAtazNSMU5vQ1M1Tmh1d1JkeTFZX002UDlISHI3b0g5S1FVb3VHNjk4QzV2T3RyMUNTb3Zwb3ZrVGVoSTRwbmU0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsckMyZ1JwdTZ6Ym50dVl3QWdCTjNtSDd3VktDS21xcXlLWUhad2pOaGRfN3BldjJ5TTZ5eWlIQ1Z2ejN5TXZKeHhPTmJRZU5yUjU1WmRlQXJBbHNzWFpCR2xLVHpHUdIBa0FVX3lxTE10aTdzblNUeXMxRXBtT2MxVmFic2NHRDNyNVlBQTdvZTU5QmlGejM2a2FpdVhkMWgxWnVVenQwOGQwa2VKYnp6TXhIZHhidUJtcy15SHdiSDM5YWRiek1KTXpMdFU5RnBjQ2w0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wMzNMTW40bDJheUwwV25VM1ZYYlYtd0gtT2xlSDdEY1VTZ2gyTzRCVUhyLW9KejJyVUpPQ2JJTGJlVFI3RnRjeFRZa1dXbm5FQ1NpWm00TmpFUGRiOFRVWDRRYVdGT2ljTFVtTHVfb3NMX3h5Wml4N0JmaERxUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/6/former-german-spy-chief-arrested-on-suspicion-of-treason-and-espionage?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaE93eFhEVkx6NFVHalF3MmN1TGlQNWJrRWhTdUpkREFSdWhjaWg1bk9TcFZzekIyYWhDYzVPRzlxa0VVeGFtLVlEM3RLSDNqV1ZoU29NWFRLSVBma3IyanJkaVhhYjh3X3NEWjdLOVhLUzlBNG9lREIxTFdYdnI1ZTIxRER5X3lrLVEyUV9VYUFXMHE2dnBlYXExRXMtd1psX1pxWjctX0l0RkdNcjd6NjBBbDRGREnSAbwBQVVfeXFMUGJkZnd3VHBGYTY0dVpuMm9SejZUQmlzcU9za2lHZnVNSkZTbHQ4NDR0RUUzODY3R2UxUzItTEExMk52Nk1aTUd0T180RUU1bWE0eTZtdzhjMXIxWXJSYWU1OFRzV2NEOTBGSkJyNTFOZEJxSkRaay0zUG5jTDVhYXlBZlJQUW1kYlh6U1p0VnYwdFdDbnNIUjk4dzhVQmdxWWZKcDJsdEZvS1pVUlhxOHE0MDdXWV9LWjBGWHk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSDM4U1RMSHRJbG1tZzJpVXRhcWNaeVdxN3BEZzc2MmlxejNPaHVtY0I2NGgyOHhVVnRldnF1SkkzRVp6TzRaT1hVanBZZ2FiZTBCZ0ltQzFLRmNIc3FpNW4wekY5OXZXLUtqaThiYU14c256VDdKenhxUlFQVmw1c29ydEs3YXBWdGwzUndWX0dCR2g5Q0hINFFxRXFxeFlOenZqdFltUjJBUVB5aVRYRzBobw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610060299.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWdCUnhRQWc0UHFlc25JZFhubm9uZGpDUnpucDZPS2tQem9aMFpJMzVZVzY4TnFWOTdOdEpZNFRNd093RzRoNVV2djZkS0o3UGFiWkw5SUwyMjRBQlhpcFB6N3ZiZWlGeVBDd3BDX2oyUDEzajVwM1VyMFdoa1dhVVlNMkc3d3VhZVQ2LVdwSS1rVzNqcFVZNkxoQmNQV0oxa3RaYmdESdIBrAFBVV95cUxPQ0c4bDA0cHQzby0xODJYOFFOUTVBbEI0cjNHOWo5cEFLMFFaSHpRUGY4NW5YelMyQ19rWTZuN1Q0YjZQdkx0RmhwN1BFeVgtaWwwM0w4enlua1dlV2pVWW04TFp5WEt1dmxoa1R3N201eVJscXNxd3MxRzd6aVhpYklfU3lsRk5BczlBZUZQbnp6d2RtbXpHcGxzaGVuNk9ZMnBMRXd0RkFuYWNn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-parliament-spat-as-mep-rima-hassan-challenges-roberta-metsola-claims-over-israeli-flag/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/life/arts-and-entertainment/3332364/nene-royal-makes-voiceacting-debut-in-disneys-hexed": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdnJHOUZhZGlUZ1JWdkVLUEJoOE43b2dGRlZacmpWZENkN0NjQmd5MzBqTFBiWXVyZW01Nm01N0NJdHZ6V3JuNHB5OVhXVGVfZzlpY0pndnNNYXdndTh0Szc2bDZIdEkwUlNsUFJKamFmcVJhUUwtMUhsaVE3Q1dBaHhaaEktVDEwR0hBc0pfQWJWVTRlbmVEUXRhTWtWTDRWekx6bWVlVzNiYTFibFZmaDZQSXlmQXg2RFBWZ25GVUpfMVNBTGVZMExVZGVCWU9rM25oSkt4NHhXSlhBX2RERw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5OWFmZDYwZEhCQ3lyczJMdGFTeUxXbjJWalFURXZqVDJ5VUZlWkotUldJZlE1UVJwUXBkaFFuSjU1U3lDTW5UUlNaa3NBUFNGaXBOQ0ZjZmZiTXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUGpVSFFUSkpDZ3FkQ1pxM3loV3NJY2xtbVdmQWU4eUdmZUFBU1ZyUUt6aGpjbVg5azRLazFTWWVlbWMzc3FwRlFzMzJIUUp1cXNPdERqN1ZObFhCWGN2RHNuWE02YURWbVFCdTdPYnM5TklDNnVWZkJzYTBINXFwSVpZSUlPN2R0cm9PUVZlb0c5VkdCaDF3VjBEMll4NmFUMXg4a0JpLXE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRVF0OWlSenlaMUdfV2ZHSjZOV1Atb19FRGZKV294M1c3ME9QU1JoRWt2cjNSYXp4ZVJRdnFSNmlWNzdvdkxUbHNtRjZuWS13cnd1cE5Pbm00aTJPeTdfLXRHWDdFV0g4Y0pqelNEcmp6T0NVSV9hNEdRbEVkdFhvM2lQcUNMeFRkZjRWb3RUWmE4NzR1NUIxa0Vsb3lFTXNNTkhxUHJpak15ZVI5cG5ZSmpDcWphQjYyVkxqNTBOZ2hhUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ0JUTDFyMno0c3hPd09jZkpBRXpBV2szcmlYMEl6NW5EMUpYZDc2NjJ1bUVkUVZPMUFiV2pMQm9TeUc1MEg5ajRQMGtSTXZvUktZTWNMSkVMQjMxODQ4bjU4V1cwZnl5Y3hiUk9CSy1PSy1GWUhvdXp0dGxRamVUWThXNFIwMUt1NW41ZTBDTUdBdnZKbVRV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE03cWdIVE4wcG41S2RKSkJ6YTVkNVJQUF9SQzVxQUhWVHRCa2VHcXRXMHBSczRCRUVRNkdMcEw2c3Q0UlVrQldCc2ZUa2lWa1RaYW5aRnlaVUxQdFZSa0xKbkZDcm1xSURPUG1CZFUxT3BRbVpKWXhYX2hJcERENG8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
