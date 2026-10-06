@@ -173782,5 +173782,167 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/what-to-know-about-plague-after-suspected-siberian-lab-worker-case": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejNDR0k3YnZVZ0Y0LUFvekhBUmpJYWUzZ1hPRnRSS0RCQU1jMFViQWM3S21VN0I1UEdiT2Jpem40SUE0ZDM3RkpUVENtbThzOExuZ3E3RU96NTZjTjBnbmFRSWVLZThlTlJmckxSM0Q0NTlnc2FFSXAzWnZ5Z3NXYTVfcHhZOGRJYlVteGIzRjk3QTZlZ2FBSGk1VDfSAaIBQVVfeXFMT1hoU3NvVE84QUtnakl6QW4tNzNIS0JPbkI3RVpOSVJmRGYwWUVQN1BJYkI2SUtlMk5EQ1JjaC1JS3NJb05KR1FnRzl0cHZBTGZPY1R3bDBkTUxkcGRKZHNrUHFBejNQY1FwWVdwU0JGakRHV0NyTHlJaW93UnBMVE9ZSlJKdGxOa00zeUZPY3J4TWRPa1RIbVRmNEdzYXlIUUZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yZkF4MzRYS0FtRW5zaWJDSkdhcmRwWEUyVHBab3ZfeVktUzhsbGhscUtlS3lPTlVXM3JvYy1sRlAzUmhRUzB5RWx2WElxM09vd2lqRXJGWXNPemlNd3U4dmVPYWpnaHNyOTFmbmJsZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM1lTSHVxZ2R4RFRJUllfYUtqa3hYRHdndVM0N0d4S1VFN3RzVFhPWFlpaXFnNzBMRXZLZHRYX2VoWW9wMHdWdi1TYVpnbnFYekVTZXNHT2wwY21qVDV1cVFTMWp4Wll3Sk80Mkx5VTRtUE5Fb1pmQW9IOWpDNlBxYlpmMFlQUHhwVXRVMnhDYjZuS3NsV2xuNHJjWWVrZ25LdDhOTXY2cVJBLVZnM3J2TW1TM0YzZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/cec-row-protest-against-gyanesh-kumar-india-bloc-march-election-commission-sir-issue-live-updates-october-6-2026/article71549790.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610060091.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15NTFrbWdyRk1FZ2VjVHhiUjY3OVF6a3ZPdEo5aFFtZDV0eGNjMkVfMkVkdEJBSnJkMGMwLW9vODVwQS1Fd1JkN1FBbURyS1pYamV6SmZ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXdNZzhfV2hCVGQ2X0p6Q2lqekU0LXhCT1hUSkJiYzl2TnNuWTlpV0QxN3pORTMwRTB1ZWhNTXJXTXZIZ29DLUpwUGQxWG03OWtVcHBHRGd1aTBTZ1gwMzllN0p0TW53NVJJU1JWeDhJc1VLQTRaZWJfUzd0Sk52cHZKOWE5ZUc1RFUxODlyQVJNbUVhX1BnZFNyVjkyWDZyZDh0VE8xNWlmc0xXZ3d6Z2Z2Q0Ztd2ZVeFB5UDBXRDBKbERIVVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGpPWHZhNW9TMDk2OUxsRlFnbi1ycDRyeW9mSmN0dHduSnp2c2FZckF5cFRlMTdXX0c1QmUtc2VVOFhibmg5UnJHLXBKdnlSZmtOTWV5T19hODloTGppM2EtYUEzdzkwbkVEY3gyZTcxTzFvMllYOUwzVEJ6NWFidGNqMlpsWnhWUnMweXdQeDlMUnVYOEdRSlg2MTZoNFJpSzdobtIBqgFBVV95cUxPbFExTEIzRWk0V09YdHAyaUdjYjFaNnFZbXRNazJvUFhDNUpQNGNGRmpPT3p0X2dmUWhhUU1lZ1JFRjBtWGJiZ2xUazBaYkhkMGltdXFpWXpxb2FWcV9nZzg1TEFzeC1KOXdOQmNtLTZ4Q0tzakZGelpXOERYOTVBOGJXeFNoR08zWlZoNmxSZGtpSHRhY3ZSNWpWMHYtTG9ZZ3VQYmVVVk5CQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRDd6ZFJiZjNuN0FabGVaU0w2SjhNd2JNT1dKcjBubnpFbHNHMXZ6U2lWbEpzaHJuaFdTMVBxQmNPNUpILVFIeWE5NXR5Ui1uQmpNZjdEVEQ3alJkSzR1THZFakRzM0pkMnl3blhMM1Y5U3IwSnFjaXNvQU5jUmNhVFBRcExZWTRBeFlVcUg4WWZTOE5lWVhUQTNrM0pkRVN6R3dtRnVwWWZ2aEt2RFAxdFBCWThaTDNaX3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakFtbFQyazJjZVY3S21qb193RWduTk1LZ3RZTlFoeEJ2b0tnSVVBclNQeW9EYjVKZHEzTGdPSVJ5eVdjOGxiXzJCVHJkUm5fXzNJODJaRGdpaFFqZ0RTRXRDTlVkMGtlVy1Rcjl1R1FHN3h1SEh0SUxjMHpqeUh2SWJFa2w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QZ19vWThFMk1jQTV1VlR4QXE2cGlpREp5QjZIaEw2NGhHWHc5R1g1QTRnTFIzMGt4RElGQ3U0eGtkeXJqZ1RobnhOcUFiclVIdkp3RzF1ZFRablpqa3h6RHQ5VHdocUE1STViNUZwWTA1cWIx?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1hvbEliQk1DVjFtbkdGMzZ2ZXhZMkQwTjdPYWpBSUl5cDgzZW9naS1NME5heGNWQ3JEejBkVHp2SnBtRFUxOUhkdkstNWNFVjhfc19HM0pFVDRZaDJjUUVwRTZReE04LVhKZk5ORkhtSVVDNFlHeGhEeWlhX0NYdUN0bTEzU0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXl5eWRxUzdIa0xDSEVySXhuN2R6RDBMaFAxWTRrZUk5VnZTajc1OEpsTldYT3NaOEdwU0hNaVM4Wk9pdG4zeE5hU2RjNEZCT3FrS2VZNE84R2tjZTROX211Vm5XaGNJcUdzcnhmTlRWXzh6a05UZkU3WFdFZUh5UDR2aEk1U2MzaHpfV2lqeEwtQlRtNW5TYU9HS2d3bnhhbWZZeXo1X0pqMGZDS0dEUXFIZk5Ed9IBuwFBVV95cUxNa0xSUVhFbUQzSTFrOTBqTTFaa191eFdXaFdPZzVDbFp4bVZGN2tHTVp3Z2txa2MxQWJscGNKanBzdTJPbFY3S1FRTGtybWRkQkdIRTVvaEZCb3c5VnY2MFI3bk9jSmRGOGM4WUI5RmU5Y3d6a2lmeGNYbXlLNlBUdjU1ZGF1SFhiVldqcmY5d0dNZHVXSTdwdWdYVE92cW8wUzRTY25QM05MSnNHZGpQc1Blc1VMV0gzSjZZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/06/quebec-separatists-vow-independence-referendum-after-winning-local-elections-but-falling-s": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlY2Q21HWXo4OGQ5Y2xrWnVqMkdXWTFkdkJFam0zdmhTWF94SjBpUFRUaXc3MmVhN0lzYk5WU2dwOXVQUnVQTkN3MzNLaXhqcUppTnZJaWp1cXJvNkU2eDFQSFR6SHZmN3FlSHRzTjFSRm0tTkdKRDdOQzl6dHFZUjlDaUU5bVE3U1BkZzktbGNvRDRvbGdIVEw5bmE0RVNXZnJzeWhUQ3NreUxr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNREFzMkJLNTVBYnp4ajFTalEtZEZ4T01lYkdGSEI3TkVnclNhTUpQZ2piemRzcklTR1JSeFpSc2FSTUNVa2ZpV054X2l5OWloaS10QlFoU2lCZHp2WktZNjZ2UHljR1M2Y1o3TlVKRzJoOGE0UHJSMml4RnhrOGFQbElGWkxYa1lSb2IxRmJqWllDQXpjNk5HQkx2Tl9xSWJwazFmaW05X3BYOFRRY3dIQk93?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xS1RsS0t3SzRkYXVISnhMMXVEdVRybDVra0dBRkNxbTRLbkVZcTF4emM2OWtZUmF4d1NNY2lzVHA5a0FZMzdlUk1XNWlpOU40aU5tSjJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkpqdXpaSHBvN1VQQWtfRzJlYXdrVF9QbkI3VEpCYTM4NGxFSFVvc0xHSVlEeGRlREJSWVhfcVR5TzBERHVJZ29QVU1xV2JKOFRjazNQX1Z0Tml2S3VGRGlkZ0lkRDVPNHQtaFkwZEh5ay1xSGhUMnEwNElPOWdlRW5ZTzR4N3B1Rl9DajJXdFZ2dTA1bFVNY2tn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdEJySWZxX3JFbzhISTctSHlBaUlRTS1EdG5MZGcxeG9jOER3RnlIYzgyaDMxZXBucU1wNjE1Y3dyd0F2VFJHd1BZdTltWVBDN3pjWTQzRU1aQllMcVktS2lnMGxobEM0ZnB0RkVKYVlraWFJalNPdTlUV2M1b3N5cHk1SXJOTHBuTFhCRGtkd25wZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/10/06/g-s1-146603/obit-jim-bakker": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAJBVV95cUxQZTB0N0J2TG5KOVNSbmoyV0s3Q0cyTm5aYjhlRjR1ck0zaWdwQmM5TzBfdlduRWEwMGVWMEZFM0luQWNJMk5ueWFqT0doTEhHNGZNdkY2WEpwWHluUEFybUFLZ09Edk9XUS1ITl9rb09qUUJGVGhxU2lzVmxwUkdZRDFjRVYtZTJCMGlMdWZhbkZMeWhKUE5mbmpBb0NTcWstODlkTnVqS09mZHloMDJ1c1FIS3p5blFlTHhqdVFEQllaZ3VWRVN0N3ZmQk1UQ2FpZzR4RGxCeWdrcy15a1FRREplZkQ3OVJKVkl6Mk8xallhMEg2TTdsLXBNeGUwZmcwWjU4b2ZJUW1NZ1EwdjdpekVLTmdnOXFPZkdxctIBogJBVV95cUxOS0pJM1hsVko4UXNPakVvSW9rcmVINENQaGlJUlExMm5xd2hfYWpfd2thd0t0TnhRaUVwcElRM0J2QlFGSWpZaU1PRF9SdEFRR3VGTGJ0OEFLaFgxYXNwYTNlQ05mTjdjelBJNEJRMjAwd0F3S1V4d2V0b0Voa3JDNXlRSjZzN1FSZjNMZlBNeXdLQVRXVkpyOUxvUHFPeU1tVXdSWm9HNEtzWU52cGJ6UXhNR1dQSDRqY2lSZWs5NVctX2tlQTI2Uzl4WVoxLXJOMnVGSjFVSzI2WF9JYjN6dW96SVVUZ3ZlU2FybjFtYUVLNzlCd3Bpd2NlQWxxdXY1bHY2STd1emR3dExzWlltUHNQSWc2QTAyVFRuWmNITzBJUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/10/6/erling-haaland-faces-injury-scare-ahead-of-man-city-vs-liverpool?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlV4d0hjVHRnNUNuUWk0a0Etb3Zxak5VQThpRFZ2SERWMnRzQTVmZUFmX21pMFVMREhFTnBqU0tYRmIyZWVneUhUV3JzQ0hXenMzWWhWSy1rNGRLd1BhSGxOeUsyeUU3bEVUTXhjX1BuWE1kdVZOVnFSLVBoMkNDenhwU2JLMnQzUWFkdFozMUZFMkNYaUlJTjlDNm9lWnJRSWMyTlBCVC1NZnBsVUxFUXRpb1FUUXE1VVIxcElLQdIBxAFBVV95cUxPdjY4SjRZS2pkdGlfdTRtNGM1eWZuTThBekRRT2RLNUxRakI1b1BtcG1rMXVnNG1CZjBjczF0YjR0MXhGWXU3dkx6MXpYYXVjU3hSelJpNWJtelBWVmhYaEdNREtaRlBiemZZdEthWEtxeTdRamREdDBmZTdGWFl0Tm80OXpuWW9QNTNDamZnTE90Njk0WklDTy1VRzJLMWt1Y1BMeUNMdGRyZ3FEUjI4UDA3Y1ZiaG1MbHZSaXZDb0hpaUxt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
