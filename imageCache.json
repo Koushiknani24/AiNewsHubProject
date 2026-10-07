@@ -174676,5 +174676,221 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/gyanesh-kumar-has-become-an-instrument-of-modi-to-win-elections-revanth-reddy/article71556925.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/four-sleeping-children-dead-in-ukraine-as-russian-strikes-kill-at-least-24-people": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/germanys-merz-warns-extremism-entering-parliaments-after-afd-wins-key-state-post": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/07/fantasy-worlds-come-to-life-on-nails-at-london-nail-art-competition": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMcmRHZjcwcGdXX1NxUXliUklxQlZWa3JwRDNzbXFzYzJCcHViTUtTekk2bmNTVDJKVUlHdkFRZlAzUnIzSFhKU0JwZUp3SzBxYnZrRXZHcm9wZWNTS0ZjZFVfa01uN3h1TUJ4TFV5UkxXNEl2Vy1j0gF8QVVfeXFMT2JydmdNdUwxSHhwUHF5b2RRbU1jdmN6NDNUcW52SjRNemlQQXVVMnNMdFpHbHdzLUV4ZFpMc2dNclhKWnBaVWVaTlpKbFdmazJLbXQzZTNUMWpOYUtnNGIwVkxKczZjSFZ0YTJXX3hud0dhbXJNYjN0NGphbA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YX3hWNHpabl9BYThELTFZVjZuOE5VZ09iS2xHQkQ1XzBsZnpSc0YzLTJONE9qcEFaQ0RXczhEaGNBZFNta2lVUXc1T1NHbFB3bEdPRnNwRHNlME0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610070588.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW11dWF2R3dqbmRzcmxjYWptQ3h4V2UzQXVKSFpBcHU1czZndDlOY2V4bkFYNEtsdjNmcFg4YmMzZGFpOTNUQ3JNR0puZmhzODg0a3IzeDIyMmZPRnVXeTB6U3Axc2Q3UnZsZzl3Wk5XLVo4djdTVjNKNEVXXzlfem51ZWpDY24tOWNzSlFrRDJQYWtSYkJBUHpzZFRiWGxPMmhtbUVFLTZabTJSdVV0bF8zZUhNdEt1WTBRQnh6M1lJUnBkMGVLeENEbWU5QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living-guide/life-on-pause-children-left-limbo-after-their-parents-deportation-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0ttOFBlRHI5T0JqRnFucVAzaDdXRFhwU29VSkxsTHdFcDlQWnNwQXg4UzZpOEQ3aUdQd0w0ZEpRekVZTjZwRUZQNFY4bGh6eDhZMmlSY19iN1B2R05xZE1OSGN3b3RSRXZOVWhDQUFWRkhja2NZcWMtU3pUa0Z3MlZMeDlYalR6WHAzTWN1ZTlPUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3VBSlRvRTBxUENmZHF6R2w1YzA1NlQ3TXhoUWo2Nzk3dnp1QnlUWmJjUEkzVzAyS2dtQlBzNjMzLWw1UWpjZ0dlQXg0akU3QTdRV2pVdzV1dTJxSlJXc09hZXk0QTktSVd6Vm9aSEZMTTVROGN4MElnRnJubXZpNV91MUJuUlBPMVF4cWtULXF4V01sSENOVDJvMWxyaVRt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1dfNlRYSGhWRVl3RUhBTnZOeFAwRlZ0anlOV1JCQk5MX2dzMU0zaTBmYkd1SE5WbVdXbVZKeXZ5YXhQM1RlRWtRQkwxUEI0NmRoSDdpT3MxLXM1SjRZb0RWeUMxQXNSQUhsemJnT0pHV3hoalNFcmlibTVfTmdaN0daajVrQnNqQWQtWmZVOXR4ekpQU0NzM29wa2FoM0FjM2RyRmhOWnoza1NDNDB5akVBbFRqeF9OZDE4V053?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3332998/thaksin-appears-in-court-to-challenge-asset-seizure": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdlVsbWIzbjhaVUt0ampiNUJRMkp2QlZINnZ5RlVFLXVZUThxNmF5RUx3TU5WbmJGY3FGYXVQRERPcVV4RGZWVElmRUZIRFhIY2cxeUQ2MVR1Xy1VMVZrOGdxR3B0Y2JMSEVqRDdXcTRLeHE4aEo4bjJaY2ZGaUtpbHBtTE9iZ1h4M1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFd0djYtZ2loUjk2bnIyUm1CaUlka2RWYXNqVHBzLXg2cUMtV21lUFRQRmdlem5CY0pHVF92Y3RsMUY3YmpYTUtuYklUT2ptTjJHZnlSdW1NMVN1R082Nm5XWk1Jalh6QXZ1YkptQ0JEUVh2bGZ6R1otR0RnM3hueHNUSjlCSlY3M05oeXdleW95RV85Q2hTQ2FtZkpXYzFPemtzNzYySGtNT19QTXZkOFVHc9IBuAFBVV95cUxOV0YtWWxyOGtTam96alFhTzJ4aDI5UFFYOFZzUjBoTUFnZmgtMzROQm9wVWZDYlBUOFBIZ25yejg4aElCS281SFdFTTBHRGQtajdwZjBvcS1aZ1VHZVl3b19QZkdMRExESEJ5Wm5JNUh5M0xmb2NMYlVaQk5mZmdRWFJMU3NyYU4wMXhvdjBLczlndGdGQ0lMWHI4WWV0em5OS21hMmYtX0xKTUlfemstal84NkwwSkY2?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zLW9oWl96QWpqZF9HMjFOWEhXS2dVSG1hclMxVURoTlI0YW0zc0RaVkdnRUNwX3FMN0NsTEdlMWNpTFdvYXV6dncxQTZmQTVWZmtURG1JS1ZmZnpSX3ktQUg4aw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMnBkU3JzdnNrbXVfYkIyV3dhZGZRbTBkMkUxTWRUTldsaGhWZmJvOHlVamgyMEdKdnM0d05fcEdkZUotc2pYNlpTM0pYSFdMMVBjMEFieGo5SEl3NVRLVE5XS1VCcXZUeUFkaHZWWnhidnRsYTE2R1Z4LVF4TjNLUEdGdk5Od1hnX0ZrTW0xU2YyZHd1X04wNGVYTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdHNreGxRcTRnUjFzUXM5RjRXLUlXTjk4NVQtMjA4bW40TmJZcFVtUElIZnMxdEY3Rjc2UndOcllVbEZNWXBOQzBlTF9IcHR4XzAwazlobkI1aFZVVVlOVUZsN2dDZ1NDYVpyX21sc3hsUzZyWTdSYVNpdjNPV1N6UUM4cW1TeTEtaWluang4RnpVYmpvZ1RneXZSVFVQTzJBZkhldHB4cU5fZHRXWThYdVlyQjFrLTVFSzd1WERLMUPSAcYBQVVfeXFMTUVMVE84endmbG9XQ2d0a3lOZmZsaU8wOWdfRjRwUF9pVGhQT3pJdW5ScU5qelQ2NkRYSGxpdU15ajRfUGpxVkExYUIwM2d5Y2x4TWE3d2JkUGJyN3hGRjZxLU42Wjh5Yk9sTEp6a1VJWjJ4OG1FeHVTdk5jdlEyR1VOMEdpWEtiNk5VeFEwTExpZE8waXdkQUJ5QUxNZVNKNVl1UUlCckE4QlRXVEh6UmROMjZPVE5oMHN5VUgyUHdxcUVVTUV3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbFM0M0dfRmNFeS1Ibmh3VHpPSVB1a0Zja2s4d3E2WUYyQjRtTVFxWVZDZVY3NTBtb1VTTVllNE5ndGlqU2w3d1M2SFVkcjkwbnBQb1pYTE16UDg2MUFmQVlEVnU0U2VlRmpvclZ5bGlDcGxONDM3cE14dlhOTEhGRm1vN2VZaS1xQ3pRdlk2amxuc1FacDBrempR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/07/latest-news-bulletin-october-7th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/why-music-in-iran-is-more-than-just-entertainment/a-79583224?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ01BNWpzUHZPbDZqMVZmcGtYZUhYbC1POW03U2tRc2pQZ2tzaEh3QWdyaGJJeUpzQ1ZKeHN5dmpzYkRiQmwzYkV0elJ1ZEE1N21JMW1DUF9tanlRbWZpcVU0X19lNHdVRWdiS3l2Q3htTFhubXE2RWp2RGJfVmh1Q2VHVHlMbkFKdVNPUk10UTlmd0JmNWZKTUpIVE5hbDU0bFpiU1Fn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnMtTjdfYUFybUUwb1FGTEFwVG0tdDlSRlIxMlVKNXNuaE5yNUpQdkFaS1QzNmxmN1pFcnIzWmUyOXJRbkFySktQS2NaQ2hUSFpTalB0T1U0Rm5BVVBGZllhS2E0dlhDRTBCUmNzeVhpeWNxWDhrMGYtWXpOMFZDWW9adVIxXzl4THhlOFNPVldGV3FKSnh5QW9sRk1IZ1d0ZS1B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd191ZFJ5MkJEUnZmRUZZZE5rMkEzVkl2cng5ZDhLeWJPMjd3TTFKTzF6bkR5T0MyZFdKWDhoaVJ0a05JVzRZajBYRS1LTlk2dE1Hcjh3bmk1S0tPTFhGWFRuQmJaNnlaSDRycFlXb2RFMnp5b1dDeHE4SE8wY3hDOUd5b0RSc2Jqcl9HelhtUnU4cGZTR3dBT01rQ2t2YzBxRTRhZWR3ZXJGVVJUX1hZV1VLRXVjcml2M054N1g3SmdJT1R6Wm93M3hfbTLSAcwBQVVfeXFMTjhtSUFjOHcwSDJETXVlSE9hVHBPVURuVncyTVdrYTdLa1Myakd0YmYtTEdOVkszVDVFcEc3eW1GYVBrakRWRmRVbVUyaVp0ZUpONGJrNDlMWEpid2UwdW0yTndvb3NhTTlFUWo1ak5tMHF6bS0xTl9mbDVWOFhLc2dCaWJaZzA4SEVNNG1Zb1RCak5XLTh3eFJGZkJvamVkMGg2VWY2dVN6YThpaTRHODdfSEh2aUdjTFAxWjRnc0lHVWltVGFaWERlWlNC?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/germanys-afd-calls-for-end-to-support-for-ukraine": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdWxxQnREX2gyT09YN1A3T3FwZTM3R016TUF2LTRLQkN5UWt0XzJCd19ic0NjYlZXYkY2NVVfUzNWR3Z5Z0lsMDc4V3dnaDRmNDdFdF9BMlpBT2xhRV9OQS1EUTlnZUY3eFRPOFNIdzgzck5qQkNZR3VRVVVyQ2ZMUUNhRkJGQ3BLd3FZU01RNXhybHhNSXFIakpTLW9DUjh1SGJLY3djU2hwbndNbGV2U0labGNqOVVVZ1dF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3R3RzJuRF9NSlo0bWNMaGY3dTdUbXRmSU1BMml2V2RLd0sxazNvVUNRdXpHa21Ebk4tVWtLeHZXMG5xM2ZUVG1aTEJDU0FRWnRHZnozTHQxdVRjeTJvbXRKNzFpNG1wR3RqVDlKMXpXY09hYlFKVlF4RW5uQjJJMXhKOEt3c0ZLWE4tbWZlQW5hUnRnckxmaU1mU0R0SWwzRGNXdGo0ZTVTUXBlSHlfakN1Yw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYmVsM3o1ekY5YUYwS2FlNG51N0hQOGJCME00WlZVRWNjYVR0Ukd6bWVNVFhwNjV1M2RpSzI1cW5iajE5UUVyVUF4MEJjdGFSYXA5akNHN0NBRVQybTc5bzF5S2JxTk5CVGV6aXluVGNRalhwTkluTm84Y1pFRnBTZkJ1MnBzMnR4N3ZQb2dYbTl1eU9U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
