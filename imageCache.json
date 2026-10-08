@@ -175156,5 +175156,185 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610080109.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-08/rupee-slide-tests-rbi-s-multiple-defenses-as-record-low-nears": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/politics-at-sam-and-annes/will-berlin-help-britain-rejoin-the-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/08/adios-maricarmen-hundreds-protest-in-madrid-after-pensioners-death": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/cec-gyanesh-kumar-india-bloc-congress-jantar-mantar-rahul-priyanka-gandhi-detention-cjp-protest-live-updates/article71558244.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/08/israel-says-british-consulate-in-east-jerusalem-ceasing-operations": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSGwyTlROeWFkZ3hfU1BBY20zTTdoYTd0SWVXbXBudHQ0QmdVRFdKWEVDOE52ZnNGWGtTbjExZ0ZmU3BUU0FxWGs2ekEwbG51Q1AtS2RWbC1GMFNQUHVBeWYwRS1aRm1tZ0NnTmtjNGJ5V1lwSmtFZlVlcEF0NmhqMDJuQ2c4Zkd3MWpkRlU4azhfNS03elVtYWRxa2JIYUpBN0RLSFd4b0tRYjFu?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-08/horizons-middle-east-africa-10-8-2026-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PNmhzV1NHcUdBSmJxTlNEZjNyVDFIRno5dDNnby1IbndnMTlHUWFZbzZhQ1FvQXpzLTRMcHBtdDdoUzBuYklUakp4c2dpT255MHJ2eEl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUtqbU8tVjJ6YzlkYnZYR0RmMTJsWXVGc01kc3pNc3pqUUN2c1pSbjVLQU5KWGc1a0xoRDBON2RGWk5PQ1c0am1sWkNwNERMSVRpdVh3NDFJV2tfM1VaNElneC1VV0U0RTZFcExQajNWQUhiY0RnZmxiU1RUZ2dfbVpvejlIRUxSQnF6MnIzNWw0Nmg5Q20zYVZhNHg4YXZ5djRyUXMxeFV4MHNMNnd4bFRfTXBfU3ZfMTN5aQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3333539/severe-flooding-persists-in-east-as-new-storms-loom": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTzlNVXYtVVJZTEpOV1RXemtRZl9sMnFNdUp1cWdCZWlsZl96RC11RVRtR2N1eTVRZ0E5d0h4cXc3OTNBU2tYNDR5TG5xX25wUTh6alc3U3hPNTFxZjhSQWF0NDltSHV6YS1kSDR3dE0tcS1aMUNaeUJFb0p2T3JqdHppMXJ4NEMtRWthX0ZkUmxCMThOaDdGTWZFSWpmOHdvV2xIZS02QnVOLXZmdmZQMlI0dWlZdnlBT1A5ZURsZWdEeU9TdEk5a21XQTBuUk1FaVJ0TDZJYVcyaW5pTE5Dak9rTnVGMjhSdkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPOFZiX01Cb29mcmowMTk3MEhnOW5tTV9KWF9sVzVFZ3dPVERZOGNYSHB1ZjVWVWdHdldDOUU0dzZIdTQ5WmNGUXQtWDBCYmk5a1ZBNHAtazlCVV9DY0JvSTF4bEJVVDVqVC1XUEdfTGpNQjkwZHMzZk10aTBlM1hxeC1FbXc1WGEyQk1BaTJJZWp3Vnk5VUdQaVlDNFlBZ9IBowFBVV95cUxNcDVrcU9NUWdLYW1tOUV5TDZoZ0ZxYUszNzZCY0dSR2FOZWR1X3dycnc1aXYtTnlVeno4dkd0dzZsRGlyTzJXcW5YYmtBNXdxVmQwUjhqaDMxYndkNDg4alJnTVhNSVpRelV2eExWQ0VIZTljUEVwd3h0T2VRWG1XMm5ueUxLQmZGNE9UVWs1SU5jRkZrWDRZc1hlUlRrSW1aVzlN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY3hsMXBvMEozQWNYNkZJck1pS2tJNi1mVGlRN0NSZVRvejdCU2xOR3pDSkNpU3p2V3hTT1gzSHFRYmtpMTZwWU51MlptWm9JUldhWjBaRnBQb3hnUHd2VGdVV2VJWXBJQXZYLTJtM2RWSkZNWE1ZaEtqNGJsWWJnYUJXc3k2SVRYNXhVQ1RyVkRVVFNPMTZNS2h2U05EZ1dSV3pwQzEzSzNWY095VnlEVGNYd1I0OUxGRkJwSVQ4WnI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzluNDdvYXo5RmU4ejAyazFqS0M0YklMMmdXUWlSamZXUGQ1cDJCQnFabGQ5QmprWWp5bUVGaXVXNXRPTVRmZkFiNi1yNUctZ0NsWUNPU1ZfNUwtSTNPZWlka3dsSE1Ma2ZUT1lsNW0wTmNnbmF3b3V1b1dxSDU2SWFfbExmS1I5S1VaaXBqaWFlMkp1NGNHYTgxeEVkZW8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFd1Tms0dC1qTVBma0xhMEVaSUFteW5mRU5mV1NZMWZDb0RWN0gyREN2WmN1TmFpNjdWMjRNZE9OeVZIYWhYZEhaVWxjV2xiS0k1Uzlmc01kc1VYRWw3Zk1mMlRUS1JuR01ieVgzRDZvazRRdVY4b2VqYVJpT1RhUV9HQjVkc0Ex?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/10/8/cristiano-ronaldo-pays-tribute-to-lionel-messi-after-argentina-farewell?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEhaa1JlbmtzZjZfVFhHcXR0S3ZZUnRnTjBJNnl6UUQ3cjJPZ2JfQ1d5bDVpTEdvXzhwT2JrQTA5VGg4dVNweG9odGJwalF3cTd0clZUb1FJRE45NHVfS2R1bXRIQXliZkZPdFM4NGFkNkNlaTQxSU9Kd2R4WTEtX3FGMkx3YkR5X3lMaW9FOXRpemVncHlTRkZiWEdwakUzVnJ1NHVTdGhEWlRkNWIyeDJha2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/08/texas-execution-first-in-us-since-christa-pike-survived-botched-lethal-injection": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdC1iNG1jRk1YWU9peVlPVEVaMjJYQzJBeGRtaXg1SEgwX251RmFrWmNNN0tNTDJsMnpaVWpMVFh1OWRFSngxNnN6WHBGR1FhOEZwUUtpTzgwRlJrVFJRZzN6ZmJfckpHZ1ZyMWxNWF83NF96RmROem9WazUzaVFoVmRWTVVfYnNkSEtpSUZrNmFfSERnRDFDeW82cGxKWXVkWW13SmNzT1h0dVkyNE9UMXhLVlk5MXg3UWdHdnpXdHdUaENVdUc5eHV5b2ZOLUtGS3VVVndEUDdLa0R4NklVc2gtaVNWX3YzcUtsRlhHT3VSTW15VU52MDliQlR2MGJaVUIw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSFFXY1c0WjdjeVc3WUliUGRXcXhBWkdkMzdmOXJqb0FvZVd3QktPN0xFMGFPa2pGaVBOTzdTSmt4VjlwU3pZcTBwTFNMZ1F6N0dUdm4tdkVwUzd2bzB2alpTeDctTTd3R0N3dDNtaFlfSGI2RUVkRWtGa29feHFYYkVMMnVYZHQyOHVCRWxJUFNzT01BWjhNTGtqdXdYWHVzRVFFSnNmdzVuS2lkUVBlMXYzS2NBUDJ4WEp1Zg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPaURudE9NeWRIWlhBQUZsQUdrLVNIUHY2d19KM2NhYnN1SXlHVkhEVEZ1UGloNUhDSzdocTV5UC1GNDJVYWhjVGd5bENtSmt4SzFodE93SUVDai1wRzloVEJIdnZrZEU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXd0bEstZjcwN29pRlNkMkk5ZER5OFMwUndfaGxKdkhGc3V3dmZqd3BWT3pza2FUWXUyd1hYMUZxd3FEWEZCNEM4VUVwZ01WSENpUkdSb0hxSjJpeEd1ZGNWR0lmMXRKcU4tZ2pmNWdfeVpidTVvRTlCQ3FVUEJ3ZFRVNGRGS1Nkd2t0S1M3VTR1WEhoOHhvZDVLVHJWZ2hWaFdXMzdZZ0hRS3hncHhqM282dGcycHdhVUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbk9QTVRzSk81NnItMHE3OU5JX0N2ZGJFcEpLRG90dG5zRFU4OThMS3FJUnpLd21ZNVZINEFlNEoyY2o5SHdNczJXT2hYbjd2WTVfWGxMc0NobGlzdDBlclU2NHJWNlFYTVFRdHZBWDBQbVRlZXgyb0pPeWhJTEhWOU82TW4zb0RiN2hBYVhLQ2h5T3JRczFYWHQ5azgxS0Q3d0HSAacBQVVfeXFMTWxPaXJINFh5NXh5TUxDRHB5WV83OW1mYlpRaF9LLXVDTVVtVVUtNlZEaFpfUy1mb1I4NnRGZU1sbVh5Z0x2a2NfcGZoTE16dWF4ampYbFFhTmh3dW04R0NUMnJnYWMwT0tCSTRRdm9MZl9Ga19ZSXM4c1dEMnVTZjhzdjNVamkxbThpLUFvcjduMzhWcU05eW11TXlqd3I5bHo0M2FTMmM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/8/yemens-government-needs-tribes-to-defeat-the-houthis-will-they-join?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAJBVV95cUxPUWd2Vjlaa0RkY1h4TkFvWVpjaDFvVkNoSDBMS2NMRWJMSlZJU09lQnhNZjJwbGxRcENMZlZvOXk3RmNrVW16NVlqMlNzNVlWRmpNUDJZWXFHUm5HY09adzFKR3U5YlJFNWllYnJtN05FN3pJZzFmSklIWndod01xZGEzSFdYazBmWmFzX1dMRmpBYkhYbUxxWFFqSFEwcWFrekJqVTRZZUFuczN4S3g2R09pMUpxY1FvSFQ5dGlNOFR5QXRqekFNRmVvVEZmQW9ZWkZfZ0NkTG9kWWpmb1hMZDZJenZ0NDllREtaZ2hXYVItWHhQckIzOTl2TFNvd0FhdGxWWUxUQl9lVU5nU2Fvc0FzVTRSSjRZQmdZTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aa2RTYW43QVNJckpuUW9rUGlRenFQWkE2QzBUVW5oRUdQVG5HU3JtMlRvQkE1bVlaNVNmSVEyam5vOE92V1NIM2ZPOFJwZmxtcUltY1BJMGlSNFk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/ethiopia-names-fitsum-as-new-finance-minister": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzlOYkh2NkF3OTFOQ0g5RFdjT0VSZXU4Y0U1cDREQnltUF9XM2VBVlk1bER5cTNTS00yaWctcDdnTjI3TG1jeWVxV3JIT2ctb1JVLVg4Nm13aENfNmlQSVQ2dHZLS2dabVYyYXQydWFEQ25SQVY1UkFORHd6djNHUHFkVEpwa3d6WkRiMy15SFRwV3l4anZiSXQ2YmR2bmxWZFhYTFE1YVNBRnc1ZG0tbHJDT1RacGJ6VmRhV3RnQ3g5UmZvdE5xZ3RB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
