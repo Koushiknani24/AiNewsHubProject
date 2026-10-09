@@ -176392,5 +176392,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/sheinbaum-us-business-leaders-ambassador-chamber-of-commerce/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-09/logitech-ceo-on-ai-agents-the-great-tech-divide-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-09/wall-street-week-baby-bonds-canadian-coal-fight-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-has-credible-information-on-sting-operation-deputy-cm/article71564982.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHktR1FaU2tpNnVWSzRzNUdLXy1aSU56R193MzZ5Rjd0UU9zcGlOQkctVkVNTGxnbGg4d2FlZFFtQkNFc1VhbmdZQjFnTWl0b1VhWDhjcDI0MTNCQy1OX0JGSExKZFIyNjBDRFpXeE5udHRtbWVLbVpDU2pKTFpLWGNocVpEakFqNUw3WA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/san-diego-film-festival-2026-honorees-iliza-mira-sorvino-1236726731/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/schools-crisis-in-france-investment-fails-to-inspire-confidence/a-79621916?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/simon-strengthening-rapidly-hit-jalisco-or-colima-as-major-hurricane-this-weekend/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/karnataka-govt-writes-to-slbc-instructing-against-adjusting-gruha-lakshmi-amount-for-loans/article71564929.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTlNMbkVPYkd3QWdGa0l2Z3U1MnVTOXJJekl6T1NKOGExbVRrakRwOUJUclVHczg3NE5nZXRHRFgyakxmU0p6Unc0VlhyWGEwZmViNldZRW1ja2dZMGV1UWJxZWRlYnlzc2ZwWHlnbXN4cjMwYS1iSWtVaHRTcHdmLU82OS1tOVNsSUpRS0Zzbm1ReGpnSExZeS1WYjgyVWF5d053QnFySDloMVNFWFY5bDNXT2RVUdIBuwFBVV95cUxOTmgzRTlmaTdib2d5WVMtcm9yNXF2OGtKMTA4T283VkFVdGdOek9GZ0R6X3pwTkMyd01jaDd3Y0RaTkhPWXlqOTB5WFBoNUgzLU5pZUE2UHhfX2lULUIxeHhiaGlvcVVkcGpjaG44OUhST1JaeFZBYlJUS3ZJWF9rQ0dSRUQ3bDdLUGxZaldJVzNXRzJ3SS1pM2VDc0F0b05XM2RhcUwyd1h2dmJ1MDlIb2xZZEV0VGdZSXNj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTlaLWpMZTlGbU41YXlnU2hCNlRvbjE0djZWYmJZSlZqYXhUblE1T1U0SE9NS0twQTFPbWZCeFAtTktURDFYeWlWUE8tVnlxb3YzZU91SVZGX0hZUTlNWUZ5XzBzLVVIUmJyLWs0UjhxWl9hVVFFX3RfYmlzbGVjX001MlJ6TWlmMUN1cVcxalBYbDY2SjZ5NFZZWXdJMWctSTJXd1BENmZOcnFFaFFycWlQM2VPelJxcXZzbUZFUTNzQTZKR21meXFpX3kyM3dfZUUwLXZSWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmRlLUYta0hoRFVRS2RwT0w5cElYYVR2MXBLTjI4OGN3OWJjUmxnTlk4RHI2VDRsSDNKQVZiZVlmbmdCU2ZxU183U2ZLZjR3OVNpelhkbTBnWTRXeHBZRWppWFJkTkNvTDhzdnIxWTZDMVB0RVl1cld6eHlZRk84akIzSjdVX2IxNDNj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3334543/suphajee-backs-b450-tourism-fee-plan": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRVZfMkRRNjZMT3lwcl85UEtKLUF6UHoycUVnbHAtdEFJRFdDM0dMYnVjdEQ2OWtSdXhQNUFRX25sZzJOWUFQQjNEOGszTURfZ2dLelVyMHhFazJpTzBNMXhvT2RhSE03bDZWVFdGaHJpUEs5TFUxWWdqWWZRd0dmdENxN25SLTB5Z1NmQk56WFJjMzB4djMtcjFhYTFvVjh6bUhXblhzdHFnVXBT?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/republican-opposition-widens-to-livestreamed-execution-trump-still-weighing-it": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3ZzUFB4Y1lHRUw5UU9OWnhNLWpYa3pEcVVlN3g2NlExbzlsVXIwd3Jnc1FXODZMTlFtRUl0TzdJUFROUDNPeldsaUl4a00wTHY5WkwyUXJndUpmVmtEdkJUMHJkaVgzdnlOS05oM245UXR4RmdKMm8tVVBTb2Vxd2l4Umk0U1VjVFlUNURaVXJwME1vc29ud21aVkExbVZOR045TG95ajI4UVN0dm9vWjNYN2U4dTBQbnI0cWRqeEpoS21PaGxwVnpjUWJqX1VIUzVjci1yRdIB6wFBVV95cUxPOGsxQkRQSDFIUFJxYUtPaVk2SUFTNHBqYlJJMjFQb1VLY3ZERHYzN3R6MWtkSmE3TzI5Rks4R0FNQk4yT3BobEZnU01ha19QcXpMWVVnLVFfOWFMODgxaWh6S2tmbjZyclNMNmFzelVCdGYwbDFqbTRDUUhieHgxUV9uNEJYZThJcTZKYTlYcTBlQjluSjJPYlVXOUpmVmhrcnVZcWVxcURtZjcxZXZMUE9nODQtQXJoUEg1c0hsVGF1ZDZBQWVRT1l0VmJNV2JENWJPSnNrekdkRDBFczEwR0tvcVk3akRyWF9J?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/uk-bans-protestant-march-from-catholic-area-in-northern-ireland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVS0yUEd6cWJMZnVXcjJORG0yelVLU01tbFh4ZFc1YkNERHZjTDJLRjh0ZUJIQ1d3am9iM0twaGtMdXRURXNIZHJBc0FZaG1laFU5bndoTWVlVnNhdXFwZjVUV2NpZVQ0X005NGhCTVdnX1NfV05SZHNYMHRlUVFoX2tZcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/puerto-vallarta-mariachis-murals-drainage-demolition/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
