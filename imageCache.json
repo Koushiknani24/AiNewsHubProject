@@ -176158,5 +176158,239 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNekFvNlgyZHktVVFpeDZiay0wOGtyM21oTldCT05LemlBa1FYM2U3ZW42U3Z6MVBjXzhLQUw4LURfQzBuMkxVWkdOOFRCLWdnV1pLM2RNSmY3eU1Ra08zSktaazhBbUZhejFyaGRjZEptcWU3RkxnWXloX3JvU29qN2daMUJGSlFHZ1YwcFJINFFnRWo0eEtZMHRxYXN5T3hsbUNR0gGoAUFVX3lxTE5CM0draVpOODFMbXVNd0plSUFDWDF4TFlybGIxaEJmdnoyU1hYNXdpVk9GZWhiajZ3TUNHeXFpcEFYeUJ1MjNZcDVNUnJJRlh6bHZNYW55bnE4d3NibWdoVWhSTFJzU013alNLVzRNRlNuNFBNOTdFTGw2ZDF3LXNoOXRjX2dOeEFickdxSjNvVHhReWhIRG9oaG40Z0F3V2VRNTB2U0p6TA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/politics/politics-news/katie-zacharia-white-house-press-secretary-1235640513/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-09/bond-vigilantes-are-coming-back-peter-orszag-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/09/flydubai-co-pilot-planned-suicide-attack-in-tel-aviv-airport-inspired-by-911": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/moldova-to-change-laws-to-produce-arms-for-itself-parliament-head-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSFZ3LWxPNjNJWFdwRGJhWGNJMHhUZFB0cWZZVWxaTGVqU3A4RFdsVXM5WWZJYWM5bDZZQkZJOUFxaV92WjkybXBVbmFyWFlQbGoyNGFnWVVPMkNrQmFNYmNhNDlNVk1NT3h5VHVFaWRYSDVhc1Y5bnR0Q1ppRlJKZUlsUHJrRTFoRkpMT1dPTW44SjFZN2JQU05FUVZPZDVuczV0Wkh1S05DSWZsYTZOeEtLZWtnYURacXRRTw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE00c05fZUF5M2NfeElKZDZPSWkxcHJpM21Qd29XV0xyZU1JNDItU1F6WjJ4czJ5ay11ZW5nY1dZTUU3SE5CS210bWNtSnR5VXVSdXdZMW95TTk3dTRrV29WN0ZwMkpMVXV5VTlCdVFwS0FhZFR2dHBz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/world-hospice-and-palliative-care-day-to-be-celebrated-on-october-10/article71565100.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/social-media-minors-decree-sheinbaum-october-9-mananera/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxObkdQX3N4MVg0eGpZWUI2MGl4RDFab3QxdThxWWoyTFdKb1d1TEY3Q2dxUXZjUmtJalhNOF9CTldlOGpaQmRRUHg3U3c5d2dTeTJybXRLUy1ablYtbTM1RlB1eHd6Z1NnS2plc3RuWEpTZEUwbzVCbnFWY3RoYkRaczRycEFXNjVUVVZsdDhNS3lBd3NwbDd6SVVWSjlwRlZ4ZW1oSzM1VWVSenl2dDdLZEQtMkhiQk4tOTB6TTBTRHVHdlVSQlFRaTh5WVlMVmhTQlBFbjM3bVJtQWl5QjlVb1dEaXZveGhhUDVyOUpmbkRtekJIZm1jdU1oXzV4by1OZEHSAYcCQVVfeXFMT0lra0Y1a0k5UjN1eFVCTmYzVElFS0c0Wm1QdEtzS25kSzBWa3liUHFNdmNDenFMWGFFT2ZiUFlpS3Bvb1FQeVNNSzRjNFBoWHhFZTVVb3N1UXQzMllSWHlzMFBLMmlxTXVZUElweFJEaWcwc3dPVGNZX0Etd3o3c0ViSXc4ZVN1LVkwU2NGczB3TzA2MXE0X000cnRweDRVWWVtc2Q3X0JucVRjUFB1Z1lFTnpmMVVEU3hpMEZXN0pVTmZpczlmbGRlbkNveUFOdktLRFJ3d1FVcUtFbzRRTGt0NVRhTzg3SG5rX2Z6TUlDMXZYY3BTeEh4QVdKanJ4QnpXcFdMRUk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXY5c19sN0x4eW1wSnVWY1I3VnVxNlBkRzBjQVgwbUtXVWhNNDJZODRIY1Z2bVhRT0NkZU5EeV9Jd0JJakJ6X1YzV1YwbklPVGpoeVRCX2tleVZjMHgyWkQ1UmJCSmVjSDNfSnROLUJDcVZHNS04OWtYc2kyN3RwcExLMkR6REZid09kMi0zeHo5M1kxWUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KYXVLTjJMZ3cwQUYwWktSRkJ2T041UGJVRTRFT0p5enRkcEJBNENrUGJaX25lUGZqa2tMeXc0THMxenBuS3pETnFKaUZQSHY5TlhrZGlUdmU0ckU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS3owNDFFRVJubUtqWllGa3dtTi1EcDFjWHFTd0ZkYW9ydUhhZG9yRS1td2ZaVnM0RkFINS1XVi1rRy1ocEVoT3pXQmFaSmZoQUxDX19xSDZsbWE3TlhrSmp6LVV4a2JUM3g0aV8tVzVHSmI5aDlRMGVweEVuTFNQZmFOZVg0ZDJXa21CajFBeHVBZG5VTTlhbjhmZndoNFg2OWlpVDVoYm5YbWpM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZnBKMVRNdnRobi1PY29vUUFvaHFOTW1TbkE4TWRHbHFhQzNQaldGOFFCX3RHemotQnNOV294Y1BQdTEyOXRuSFUxcjVxQnkzSlhxa0FOZVNTVFQyMUJFU3ZaNzR1MmpSRkZhdnZzd2JLM091TFQ2Q1VrQ1N4VThsNi1BeVJFQVVncm9BdHlxSV9aSmJ5NlNKNm01ODdZdG5LRU9JaXhMNzlXdk9YWEdtekY2SjhrQWRIUVlBa2RMQzhXRldBem04djFHT3VPT3FZNEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3334414/thai-court-dismisses-detention-challenge-by-chinese-reporter": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxORmV6alZrd240amxNbG4tc0loOW5UMzg3YVpZdm0zY1VYejRScXlST2M2Y0JUX1psZ29HQjJRcF9ZLWh6RnRSemE0clhkWkVrcUtrejBTVVpwR0FMZVBRZ1ZYaXRNNVpVejMxTHY2Rko5LWZQNmZoaTdaTXAtN2FfdkNJNGF0WE5XUWd3Wmlia1Z0TFdiWGNBbTNaMUlabkVwZ21iRmNlazRMVzFQMnBsRUxHbzE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLTJ4ekx1RnlXUjA1ejJHREljdDc1YlZLRWNGZU1oMnRyN2FIR1VtUkVSMmt4MDVTNlVqRlpjSEpkTkZmMjdMVXlqMXM2ZnFVY1JLZUg5MDVGUHlUZHI4MnY4cVd5NGQzdHZPbVBHdkE0cXRtcUVueUdYOFJkdHZGeUJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tcDgwTG9xYlpfczF5WkJTY0xRWS16NWtsTlpDVWJZS24tODBNdy1hR05aVzB6VGJsUksybDJ0eV9sSVd2aEEzcGRmenNZNXZKbFlSX0R3Y3J4VEZPaHpqVFBOZF82LXZUNzJWLXUwc1N2SUZYeTlJd2hPRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQXpOQVN3T2Q1ZktHUEtMMHJreW54bkE3Y3Q5R2IwV1hBQVJIMVhOcjZZZzFKRl8xN0RPZWJhNndxRG9qUWpod3hlNkd1QVZmVFZtT1I4bTRnd3pZdE01OVBfcnRObkZ0S1RqRkR4S2JoX1FHLUM5YmNESGpjWktpejRfVmU4ZDBZbHROZXdaWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRHJYazRLcEVuM014X2hYRDVnWEgyXzVjTmZSY0E4ckx6V2ZLV0tQUFZjTGtmUUQzQU4zX2ItR2dhblNCV0ZjTHZ4ODV1SlZ0QzFjanhROXpOaVk2aktRZ0pOQVdENU5RSGJZVy1YczJtTllCcUpobWhUVGxCS3gwLWJIUEZBcnJTdjkwdXlTRGd0cU02eW15TjVmYXlVZk5ZWDdEU1dCQ1duVTFCNHFaWXlaRjJLMklKUXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/09/ukraines-operation-vivaldi-foils-russias-plan-to-encircle-the-donbas-isw-analysis-shows": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/macron-and-steinmeier-struggle-to-revive-franco-german-ties/a-79618635?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVm5RT2Nab2gzSFplTHozbzMtRnFXT1Zid2JiTS1Wczd6eVRvR190ZmZsNXJCQ1BtNHVYQ0M0Q2txRzJpNTRHcjMyaFVDRzRzMkpUVWwtbHhLQ2lWME82b3U3OUw0eS1oZTJNb05sT2thOG04cVdFWVlIY055VGgtYy1WYkU0RmM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3JuaHBkS2lQVmV4T1BPREgxYmNvVnl4SmRSbk83azN4TlpGaGVyTUVGRFZ5cmxWVHk1d0pmU3I0WWlJRGliVThmc29hM1BNeVFEOXpHQ3JHZ0lGbllieWI0TW5MdUtXcV9FZWpTV3M1RFpFdVIwbU9BU0tFc0t2Q3lHM3llOHdBOHBPcXcwdHY3T3g0YWQ2REtxTk1Xdi1FU1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXFFRkltbDNZaFpHRnM1UGJFdzNPNmhuUGZFQzI1eXRDYXZMTHI2NmpDRUVXaG9zanRscUl1MGtqWTVaQ203Ym5JVzNQU0t2VWpOX0J6LVM0OWJSQVF1VHMxMVNfclBwczFrRnJQZHlfc0ZkejlDdWRjeU12MGV2eEZ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/postcards-from-mexico-noche-de-despecho/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSE9uUHRfcWpyNDhjY0NjdlF0ZnJua29HcUxQZ3MwaE5adFI3ZXFfRTN5Uzlrc2pQcExPRTM4MFhGdV9qNE9JZ1NXd28xTmp1M3Y5OEMwZzhIRmtZRVdhWWptTjlVRDZHdGM2NUc1V2psMWFsTDM3U2xVY0dMNW1RMEFQTTZmeTNSVll3VW5wS21BMGvSAZgBQVVfeXFMTXJMbmIxanlvVktrWHE4Z3hzcUVEUmVMV2hCeHE3LUYybUg1amg4aTNjOE1ZbU5UUEsxRDF0UEVwY2kxZHZGOU56M0RnbUhuYnA5V1FkRHRVbFdPRDVCUGVwM1V6VGFJLW1EUkRLckF0emVXdDd1MTVFX2V2OHhnLThvdEQ2LV9wZkJaMWR2MFdaZWlZb1dFZkk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdGRNSXNfQTBpTlA0S1h0UTlDcV8xdlpvTGt6clJRVjBCVUFTZjFFNTVDcjdPaGc4Mm1mc0NrZUtraDZFdzRpOWN4NzA0Zjc5aVF2WWRuVDY5LWszMXYybndWakdXTDgtY0pWOGQxaEpjQ2VqYmdBWHpqQzEyUWZHLXh2U0FodFg4UGg4R2RpZGt3TWtWUnZFMlFkNEc4cEczbzlMUU5nRXNsekxaVE1WQVJvSE1pTFJYZWpOWjZXUFNUeXZZZF85UnFKMFAtZTFqZTBWbFMwWm1qMXRIREM0b2pjdkE5LU5KblRXbkNzckZvRUhVSzhCbnNfTE0xbmkzWEtsZUYwMS01ZW8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0ZJaVNhRVJlRnNGUTVUcU9Qd1AwYVdpX0VZT0Q3dmFMMmFsQjdLUE1LVnNQOXhNMjI2OS1XU2EzRGxsaVRzT2pTUk1Sb1pNUnYweVdJUnJ4LXBNTGZHZ2FJay1tZGNkMnl3amhuMUsyWGNKSU1yd29lYlVXVUg1Zzl1TXdxZ0lzR2daV2w1YVItbXRCN19Fc2J1ZERsV3lvTEpoOWxJR1JLZXJmRW5ZVmtnQjQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeEJQQlgxWHpCbHVYRlNsNjdEVXB4bm1iZkR3dW9UQm1HcUNTemtiQVdxNWVRYm03RzZORGw2ZjBWY1hWNWpLdUdSZVJTSVoxNGh3LU9WRTFYSnBUOFVfVmdwTnhZNmpHXy1tSXVmYklnRnF2NEtKcW5QQ3BxM2NNeHRJajd6TmNneTNmdjV2Qml0cUZJd3Ixay1IeWVXQWZ3S3h0MmtnWkQwSU5XYWZZSlpPU0JDbmNCcnpkUndGY2pveWNaQUhFVlUxRXNkXy13Vi1seW5zV1FuTFJf?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRWZwVi1wWTdmTUZuRU1seWRtYzJPTTVBc3ljNjl2clJiNnYySS1HVDdFeVJUVl9Ea3JTZ1JaTzdGNkFSa3IwZFBkNVdhOHE3ZnA1aVZoTkhKajh5ajdETS1KSEZKZWgwU3pkbmI4RFltTnFobWRhUXYyVmhkYlI0aTRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WmppS0RjY0piNzlWaGdDQldMQmQ3WFIzbW5WZUJ1ZGZZaGc3M2ZwMFR0aGQtcnZBYWtLc0U0ejBZejJ4Tk1zd0dsa0pNSERyUExhZDdkZDNLMC1UV3RyNGt2eEFlb1QwbDM5OGdLRmVuRlAxNW80?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
