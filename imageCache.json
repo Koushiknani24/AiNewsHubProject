@@ -179596,5 +179596,179 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/music-news/beach-boys-al-jardine-reacts-mike-love-health-1236730168/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-14/financial-m-a-is-about-scale-reilly-and-naydenova-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/le-pen-downsize-eu-contribution-cut-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNDN2VFVqajVYaktjTE5GTmFOVE1ZSmRYNW1kQjBKQV8wdWFraFJfZHJUZVRvRGNjNVdsa0xsUDJlNFdDMXBvdFJ4cU1SWkZwOGRoVzhVZ3pBT1p1Q3RSOUV1aHNfdWRDOHNsY2MwSEtublVxYkIwZVZiXzNLckswWVY1Yl9JdVlGRncyMGppTFFucTgzeDM1UG5QQ3hoUkhQTFhZQUN6WU9jNDQ5TXNVbnFRdFZaNWM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/as-ukraine-struggles-with-starlink-and-us-satellite-data-europe-has-no-quick-fix": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/netflix-top-tv-executives-laid-off-1236730122/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/bbc-accuses-trump-of-dodging-deposition-in-us10-billion-defamation-suit": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-14/nvidia-s-huang-would-cut-off-irresponsible-ai-customers-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaldUeWlYRl9oQ0RZWXgtVERYVVlVeXpYcWI1U2s3RV83dGlHZXBKQjZ0enVBUnJWbzBBNG14WWNNSnk1Z0FrZHJsa1dFRVFZOWQyX1BfSmZHM0JVWDl6SXJOd09qOVotaVB0OWpEXzNNVnU4NWRMYzI1MGFod3kwOXMyVm9MWGltaWp1eW5lVXIycVNpakRnT1VTZTNZazJfeXRWemhKZTd2THFwV1VUendB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/sheinbaum-decree-violent-content-social-media-minors-mananera-wednesday/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1hZVkdXVWU3MmhYY3BPY0dBbnhpOUllcld6dk8xRmJSX29pd0VxZGloUW9MaGJBYVV1LUhYbEV5WFBMYWg1OUhBMlVLTmdOalZaSW1ybUF0V0lBall6QTNkSzNMZ1I4RGRYa0JqOGw3YjJjdWpKdkNQRkFBZUJYbmVGUVoteUxMcDk4U01nNkNsTEtVU1c1Mnp6akFORU96cndMMkpMM0IxTEhRRkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-latin/aturday-night-snl-performance-stream-bump-1235642528/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3lTVGlISWxwYU82NG5iVmdGS0R1ajlPLVI5VEtUTDVJVlFoTmtqQ1llSlhUbGdTSHJ4U21TQm9WNnR6aUstaDlpYkhyMlBBMnRxTkxnUHVKUGI5cV81dUJqdnJZSFhueTUwYjJaY0pSdXVUcmJCeTl6YmpJeENRUjZhN3Rfa3cwMV9SUm5UWmwtdDFLZHJBTURRNlFER1FOZnoyc2RPMTFPQXRjUzEtUnBUbnpiYUgwSy1ldlNBUWRqRXkzSHI4WXl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONVVaM0FpMGxsVGZGQzR4U1ctSFZRZWxFa0Izbl8yX1E2eTVfQ1JIQjA1bzdqNmtzNktiUnlaVG9na2hvd3RrUVhvdnB5ZzdHT05xNVJIU1lud3VJWTQzc2pGSzlEd1lfQ2JnZ01USmptbEgyX1pkbTBIWjlwV2NYNlZUcmJnVEwxVTl5YTZjbmdURFR6N3Y4MEZmNDdya3RCcWxhMnJCMWFteGpScktCRzZpQ2JfTGszamlxcDFuQzFsMWhCbFRUYzFtaEtuYndfZkZiRW5kTGRpRmZxMml5ZlJ5eFdPU3BE0gHuAUFVX3lxTE5rR3JNcWZ0R1lCNE91S01oQTFRWnU2a3FTYVp4dWlwa0Q5SExqM0RicThPMmdtbU11NThzVzM1QmJ4RGdyTlVBM3RldEJ1UVEwZFlqazRlOS1KclljamFnRFdtN1BsZTRmSmFpbF9GdmtBM21XbVlXV2hvekdjZGdoOXhpR3FZeEUyRExkRkFzZUdHa2VDZjAwZFAtaHd6emNkTzBBU2xoRHhaMlBjLU04TlczMFNtY2gwMHlwMjl6WXYwaVF4aGRLNXpRVkE2Ukw4ZHIzRnRXWE9rVXc0MTZ6cUl6XzR5UHlsWnVGV3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NVkFVbjFLNWNzeFFFOUdsaGs3MHB5VFZSQzVEN0c3NXMwWUZ2eUlxNDlzTGlSbFJ1RkJ6VkpfYi1jR0hmcldvR3JDZnc3YnZYVW94dlpR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/albania-protests-escalate-students-torch-businesses-government-buildings/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnRpY0p2OVVTRTBMVTZmcHktVzFEMlFVcFhuT0ZQSFRNckpRTzk5Q294aHhpanBYY1hMZVBuNm14d2c3bnBYZ3NNYVZVdlRCU214UW9pMzZoT004Z3ZOdjlWMHo5RGN5bllhX1o5TllNNG0wRmtZaVZhci03WEh0a2tZYmhNalVSZVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGdjNHpkWVIwSjVuSWdtUUZoRUh1SDdsYUg4M0tBSkdvemo1NHlGUXhxUmZ6Yk1FMGJ6VUxocXp1Rk9kSEtOM0ozYWRDSG81SWNWSmVqSFB6M2t1T2JYY2Vnd3Fsb0Ywa0oyTTNrME83OVVuVFY5X19NQ2U4R05VSFJKMkVtTjdQMXdjdWNlS04yQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/politics/politics-news/inflation-numbers-trump-wrecked-economy-1235642667/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSk04U2RSTTNSS1BjY2JDZHdEb0pXbS1nRUowMjRxNVUzalR5aW8wX1dNYklPTnNjREFDWFVhbTFWLUg0d0doLVhtR0xtYkc2NWlMZGNWREN2SFhPNW1FTUlYbE5LRllzWkRqR2RqcTBIME42R0NXaFBILS1PMjg2bFF2RU5GalZXSTVKeFlraDJOVERlVml2REN2OVd4aU9SeVFRUHFJejlFdmRBdWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/israel-ex-security-chief-sues-netanyahu-for-defamation-over-oct-7-attack": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFZxOFpYUkhfNjVDUzFoSUhVQ3JRdERHWXdlbk1PUW9zc0tvNEo5cnVnODNTUHA0V1lmX1hyVERYc2FtX0d4MjMzdVZOVGpETjNTTy1FaHpFakZKYzQwWW9RV2hJeE9nQ0JoSUs4c0FJVE1ZSUdsWk5zSmxJcHVEaHJza2NjSEd1RmNYNVM0MHUxcDV1dzBraTB2UUh2RzhSdk05VmMyOUhVeEdKcFZjXzZGYUhTSlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmstWEoyczB6TU1ibVlxRll0MDNleGNkdlB1NHBIb0pCby1zVkVhQTZOa0x4clhqWlE4MzhrYUkwWWlPRmlpeEdYeGVobUVJSGdRRWRuWGZzNUptRVRDMldveHhwNWEtWkZZS0xxRDVVeWRVOFYydU9RS2p1d3RRNWFFN3pDUmpMcUhkNktqWXkzaVlF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/puerto-vallarta-hurricane-recovery-dia-de-muertos/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2xpNWRiVFE0UG5zNUFjaHM3eDk4ZXZOZE9kcEF4WWlZX0psRHZ0YTFuaE9OU0JOakZzZDlkd0pYa1M5RVdpZThNY3ZPbWVHd1I1TGJLRWhxQnFyVl83b0t3eFVRaEg1RTVOZThfSERoQUt0WEJidmNNNlJlTnJZenVxSXl0eV9xdUZoQVM2UW1RUGFRRklTR3pFeFFCaWpwVi0xOS0tWFNHSDZQOEZGSmNhdXVTTk1CN1RQcUt4bnY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
