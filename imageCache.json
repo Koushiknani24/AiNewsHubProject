@@ -179410,5 +179410,191 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM0RfWGxWV3hqVUNUWUppYUdqaFg4WDlDV0R4QXpjbmZGMWxLX0RUcmNMbjNLSUNPem1Ubk9FWU9xWnpsUmJ5V1ZRaG9fUmcwYzBkRUd4OHQ3SElRTW9Tc3k1VGx1dFZxYjdFZk1aSEwwcDF4ZTB2R0NFVnV0WWxWc0pEZDdKQXRaeUJLcWZhOENjTFhVUEp4Tld0aW9YUGUzLWhuczFoRkhkZjdMRHdqbkxpaC16U2ZTRVlENmM3N2lIYVNfc0NCYUhCOXRrNlA1OVFKTGlaWVhLbjQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/10/14/business/economy/democrats-put-blame-for-higher-prices-on-trump.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWdsQ3J4eHJBcU5yMjZ0YS1SWW9aQXRqT3Z3OU9VNklIbElSSTg2SWFtR2xuNWJyb1pucmYyMWRUX0ljcWtEalQxOGxlZzYxMWc1SGpYc1VUbE1TdWEwd05yV0p2c2FaSTN0ZVFUdFdzR2o3Y2xxOHN2VXhIVXhZbVBfNktvYkp3dF9fRmlzUlpaV25MNjdjeEh3U3BxaEUyX1lIYXRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVBmcWUxWWc3WU5kZEJKWWxVMkFGRS1yN1JGLVZWSEpjVTdCeVVNaHhOSnJhdmpreV9wUFBJa2ZReXR6RDRsclBkb2lQcDNUZDl5WmlvVWpVZGpEdUNpV0VHd05hZnpoNjhaVTZIUzJHdWE0YkYtTkVfTDJDYVZxOFAwSkptZjhhdThscFhSb0t6Ty1nN0JRdlI0bGJUUlBLNmdNRXExRnhRYzhKamptTVRDd9IBuAFBVV95cUxNOVRSNVRrem8zUHZWelhONndycjFxUHVWWDZpWHVLd2V0S3NIdjVqV0ZzX29TRTVnaHFuYVhneDlzVU9lbEh5dS1nOWN2N205UTEwRy1TLUhaZ1JzLWg1LXRNZm0wZGcwRGNTSGxRNFcwZXIyaU96Sk9ZM01JQWg0M05EZXBOeUdvYXlyVnJiY1JkR2pGZ0JBTHEtSlVLMWZUWnA2cVlaa3lZTFRsX1VaNVVaajFqb2Vl?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/opinion/never-thought-myself-hispanic-before-moved-us/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/ngo-brussels-confirms-czech-pm-andrej-babis-agri-business-conflict-of-interest/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVi1XUEtIMjYxOHRFckNVdlVXMWdVRnZKLU82a0lYcVhJMG5zZFdha0hNMW03cm1iOE9mU1dTeHhjN0ZPaDMzMkM5ME8wTUJBUFBYN0tCM1dkSVhxZWxZazV3SzJYT0Q2bkltSmNhb3Z3WjlyOTYxRkgzd0I4YkMyUzZKRGxjelJ4dGdyT3NPaEs3UFJRTXZrTVcxRXVKTXJkbS1RR1V6ZU4zUXNFdVVzbkszdGE4RjdsVmo5Ql9STS1xRlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkJYa0MyUXhzRVRDMEhIbWJEYkFHUEN3azVvQzc2clg0NWVEX3N0ZS1hNldYUElZM0V4YjBub19yQXFiY2gyZFc0bFFKdE50Q1RoWGJjdjVNZUt3N01tb2FiYXJVdjZKb2NudGhBSGstazVsRjc5Q1h1a1VWQVoyMzd0OFppbXlLU2dhWmNfLWpMWUlEMVFmcGJNMDJ0MWxYZGhyOUYtczJONW1NYzd6bWJDVlHSAcYBQVVfeXFMTnJ3Q0E4MktiRDlEQlhSU0Q1RHJqSnB4NE54TXFVTWN1ZGxtZ2M1WnRGbS1VODllVnhtTmRqcmEtVzFaWEFhVWxyaVFVaU43bnJvZW9zWUtvQm1lc3FPTkNSX0RwREZCS0NkOHIxbmcyckdCWGtrQ1k5bW5oTllGX2RRVTdSWEZtOFMtOE5wVW4yazBaTWxMel9JNm1FWDlzTGd3MGlmcTRaSGV0Wm9tTlNnNmQ0S25ZUUdkWG1QQjBBZGRUaXRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNkZOU0VrYXNBRURrbnpKN1hNLTdGNk9UNUxrMnFBMVh1MnRvR24tSWs5RFA1Z0g3eExYdC1WV0Q4SUd6RGhZb29OTjJhZkVMemFjbW1aVnBZYzE3VFlNcXdhMEdsSkNvWmtaUEFfUWlfUnhCWklmRnJrNjNmSGd6UkhNclh1QzVPNW5mcVozNlhjMEpDZXNTSUZwTm5wd0FaTS1VTEt4RGgtTlp5SElDSzNUQjJKQdIBuwFBVV95cUxQLVdkN3NycDNoUTAxYklQR2E1aV9GVnlLWk5Ja0xKcGZTQWFEOTJKaVl6TUxjSEZHZ2ROR0s0RlJzUV9HWUZ4UDZVNVZ2YXpSOXAxN05jWTFzdVdsb0gyeVBIZUxDVkFmRnBqUXVBS1N3NnkxQmcxLVlwUzBfNFVnaF9BQlYxTHVVZ3VpV1MyYTZXcHNIVnFocFlSUzRwN1drZFJ1VnlLNHZHMmx3TTJ3Y1E2SXdTOW8yeHd3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3337008/global-antifraud-plan-unveiled": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUGVjUGpZWlBldFdNdHc0eXRwdmgyVlRXQ3N6NHQ3aFRuTTh1Zm5mSGIxNGk5UmZUVmxERGtMZ1ZLR2RQN2xBM0RheEM2T0l4OHByMUJoNmJzbF9PZkpJZmd5dVVPTGdybTQ5Uy1EQ2NmNGJPSjJjWWJ3U29IS09lMUJUV1hIYzlXMnV4ZFlGdmhSMTk3WUc4ZGhlemw0cHRuTHN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQ2dNaDItdmx5VHFaSFYwaGtCTW5LNWdWdkEtVE1DYVZKN1IzcHQyeEl4dUJnUkZQS0hBTGx2aUdFZmZjRHRKekdibjB5b0FqN3BvWERKNlNzLTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhbVcxOFM2aXdSNDA5Ni1wQXdhQjJ1WkhpTzFwNXVUQktUNC1WRlBPdXRIcnBMSVphU0tvZlpJd1RnLWhtVFVJcjlKVFhhUlpVMm1sN3NSRXhzQlB5LXJIRnBZY01ia0c3dkFXS19FeXE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGR0dmZnUmhCcUtEOWg3S0t2b3oyM050TEU2WXYtQ210ZFY0T1ZZNm13NVhrclEza3paQ0ZVS3BYREY4c0pEeVRPOVBpcDlqOVBoa1Z3OHRndkVXbHVkWGNSZXdOM3gzU3pKUGNVQ3NCUFEzT3dNczFlSzB3M1RCSUVrNzAteTZKUmZ3M1lzMEhudXozTF8tYloxdWs5OWxWWmc2ajQ4Q2NMeVloYlUw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNU29DZjBxb0diMnhLdzFYcEhxMFloa0VTZU14b3lhV1hZc1NoQWg4em1aTk0tTVU2QWtlVGRfdkZCVUJWN2VXR2U5cmlRek1hcGpRS0taa3BEUDBwT1pqQ2RZME5hYTV4aUV1eXNkQU84OVh4MVJSbE9sbHpJdDVlNTJhU0dUTHlGMEVyRXhGcDc3VXp4RDVTd3RxUGFjd9IBowFBVV95cUxPcHUxVElURDR2NnVrQmI1Z3dyc0poMVFxX0hYNXBXQzlWaDIxeElVLWZCd1JDZ0h5R2dYdUIwRUhiZGtxLXFVc3B1Z1hZNG9sR003aVZHTVJfTVZFSWlJYnpNWUhRSlNrUDBNREtwbmcxaTdKbWtybE13dEVQU0Y4bmVWVERXZEVhMWxPdWk3SjVWQXdUaTFfVDJjWW80UzdEV0ZZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/14/saudi-national-charged-with-planting-a-listening-device-at-openai-offices?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWi1WTV9HdjV6bTFGTnVLeWZsTUpOdjFfQjBndlg5Q1R5OHhyVW5pLVhhNnRZa2oxMU5UMlJtVkQ4cDBxcFM0UnBuX3pxNExZTVpzZzh0ZndWdXkyTHUyekJBdzRRRUlOaGhjaUJ3bG4tM2t5eVpwWGc1ZTYxbW9DTWJnUHNyQ0U1aENMTmVrRFJydE5DZGxpb3p4NDR6MjlLdGxEMk5KZkxOM1BhQ0lJR093cEllelVKbjlzUERPRVp0WDVqVTljbnA1YVByUFRLU19pZ2pYUEFqZHpXNWIxM1drUDRrVTdTb0HSAe8BQVVfeXFMUDY1OWsxS3pORE5nU1JpVm1uSDVDczdfUUR4UHUycFRtSk11NFpxbWxPeW5UMmRQaGZxN2tMczctRmRmWFNfcHYtcXRPam5sbDU3RDVybE5wZjBhc0ljTmgyRUZoQ21OazYxNVhCcThBMGdVc2FRLVd0Z1c4RDJ6aFNaS0JKc2RLQ1l4bjNVWWdqZHBra2ttSnRsRGVBN0lhRXY3RU1oZlFyaWFQc0ItSkJHSVJlS2pYc3EzSFQwRjFVOXpBSkxPS19FZHRPZV9tV3R3Y2VUU1hac0ZRNks0VkswRm0zUjZQaTVFeEwzemM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/fires-surge-in-brazils-amazon-fueled-by-el-nino-and-climate-change": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanFTVC0wSkUwSk1qbUwyZ3BFNU9XUk5BU2F2NkUtUXJNVFNrOE5yNWN6M2lRa1ZHaGVCbkROdnNJX0RxRE5CNGdQc29DdVJ1QVF5TUFjTTU2MHFvXzJjOWRGUjNadjdreUdEckZWVjd4UVgzcWt2V1hjdHJWZjBHZWR0dzRNd2RXamk5M2JVcmhlekwxdVdwMmhNSWIzNlgwQ09INi0wNERudGhSWTIxcHhUYjM2T2hZdkRKUkFhWlI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1N6LVU4X3R3a3ljSC1KY3BYOGI1bFVCWjA0bnM1WjE2eDRZQW43VVUxMnhFbThpcDdGSUdneU03ZFFjeFFmVWczeDVaelRBeXZGekhFdmNxeWZzUHlHNUpseS0tN09GMWtkSzB2WnJEV3ZnUXhqQnlyMEY3VVl0bA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjNwLWd6RnlSaGIyMDh5QTRJSThWdElGbDRkdVRKNUNIc243N2pISzVmbVJ4S2tjeXVjUnZjZkFsUGRwOXM2d0NpNlBfazFBZUJrVVZOY0lrTER0NDhJRU5MazRJQVE3cG1yTXVpMlZzNzVyNjJMb3NlYlVGdFRObllQX2JFSGZpV3g3NW1sQXpZVWJVZGNtQnhBaTZCOGNsa2ZQMVBkYUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2dnaHNITDBvX213czhVVkliQlljXzFiY2diU2tmRXo4NUpfWXlJUFZRSUI2V0NVWFNxa0wtRGNQYlR6b1FLWUY0R0V0UW1xVEV5c0xJZlBMTzNMajU3ME5KN1NZb1RiSzJuV2t4QU9LMWNXa0E2TW9XLW9vbFhaY2lvUEVWNXNmRXl5ek9ySmVCWlZGdllIZXJjVjNRUXZ1RHhEdm9nUlR6Y2xab3FR0gG0AUFVX3lxTE9scUJENm5GandPYWxfYnJ0MnFOYWI5WFZNVUxxd0N5N2ktSzJubkhLeGpWdDVKODhYSi14NVdQM2JsY1p2LUxXamJpOE1PU0x4ZkRkTkVjdTRyaUlFSGxJWVl0UW82NjFzUklzSm1hNlBNVmhxN1ZZb3lXNUJWVlNQeGItOGprXzZ6TFoxaG0wZzNuWTVNSlJjRFNzZHpSTUVSZHVfSWd2ZE1SR0xOT2hmdGI3Ng?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbUdhY0JRSTFNLTc2VkhEbFN4RFN1LWlOMDBpYW5rQ1pWVTA2bkQyQkZpa0FQdFJTVGwwTkNKSDI3Vy1kQ09YMFlfQVZ3ZXJYTHRWXzBBdmJCeVBzRVhZcWs4VTEzbEtTUS1GZVFTb01DemlzdUtFSDFpb1VqSEZMaGpxT0laeEVvMkg5akI1QnA2R0lKbVRpTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS0tLX1FqSV84dmlSbmFFRlFIa2hLVXowbkNhWkg5alRncU1qNFdJVC1QbW5JRGEycFQ0SGh2d3NKUDF0RlMtU1NISTE1WnFnQU1OTjE1N1BZdHJnQ29oOHdkNUhhZV9SVGlSTVRHYS1jV2MyMGNTUlhrUW5iNFVfUHRmSVVKNUdvT3A4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
