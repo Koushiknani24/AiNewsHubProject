@@ -181576,5 +181576,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/timothy-busfield-child-sexual-abuse-case-dismissed-1235643841/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/red-rising-movie-francis-lawrence-1236733658/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/bill-hader-travis-knight-live-animation-roundtable-1236733998/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-summit-decisions-ukraine-funding-budget-migration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-foreigner-who-opens-message-with-buenas-tardes-accidentally-gains-three-aunts/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1BET0F4eU9tNTNMSG1wNkdiQnhOTGhjd3lUQ3BpWW9IaUlYR1lxZHI4SjRmdHEwX0NWUTBBbHlNTHk2dThnVFV0OHhYZ0NfTlNiNGpUUGI3S29hek5lak9XOHVCOEVVMTFpUzhVY2N3N1VVSnJXUHlyVGVuWHAtQ2tqdU9iNjNrMGV3Yk9QSzZDbzFqRXd3cWlrRHNZWXY3SzJwVlpVS0xiVFJPRlpUNjln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY1hPcEphUHpXdE5YemF2QWM5RFFJSWx0OVN2RWMzazg2ZUk3ZTJFcGNmZnJoUC14cXJmQ2hkUlA1ekJ3WTl3ZVUxZW1KVWthcHNCcnZHQXlCamp2UjZ3NlhBUERzQWxzYUtfVlAwdkw0d2xSak5Yb1NMRUx1VnZXR2I4UGdBbWZDcE9zV3NxQldoSmVGRnJNX3JZUlBCSGhQLWR3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU2hlTjBZN2RnUlM4NUdRZGVfUzFPN2JZb3ZnN1BPVUZFc1hCb1lValhqTGQxRVZiaTJFQjRpTlpET0Nvc0FCUVdMZk1LeTBudmpFblJEUUJyYVNwaHlqM2JKTlNUQ3FyWUhZYzJGa29ycnJUVVVZX2dwV05zQkxaTXRDU0NyaHJCcUM1SEM1ekw0cEJkWjQ0ejRLZUhSUmtvcmViZmpqLUg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR01JZkpEbkZDTTFHdW5hTlZoZjJLQUlzZXlTSkJXWlU0eDZuZm0wV09mVTJ3SnM4V3FINlJJcmtwVG43ZXlnNG80NHJYbEJfZkNqN3dDaXJ0bzJqdG9FUVR2cW14V3FFbURXTTdyWU5UWVJVS0NyTGdGTkN2T08yT0MxRGJIT25XNm5ISTh5eU1qQldBVG1FbFZYNWhjRkl0VVZ2UEpn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTdZLVA2dWFMOWhnUzg1LXNPS1A2Rm9LN1NLZVRhQXV2MzZpeGxJa196XzJGOC1FUnJscl9Yc0hVN1MzMmFtajhNUnFvcFljak42OWFNcFZMaUJTbGFMNnp0UjlKTWpBLWxubjRtV3hpSkpMaFdTdk9wLVRVdmJjb0l0eUJHMVdpQUVB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1BZNVlaRFhRNThCZVRGS3BlSXpBRkMxZEc3cXAwWkptWVp1RERjbFhLYndkTU1nMlRhSWZFd29qZHRNT1h5eDd1RHVjQWl4UHBlYUluM1VOdTZUY0NtZHV4QWE4RGNyV01obmVITkRRekFldUJZaDZpV0d5QUZlQ0Q4dkRnOUFtN1VWbW9MbENGUFZnWVBUYlQyU0s0LUpGZFZsbDdZWVdhUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnpqdTJtbWd1dE9kNnViSDNkSi1TYUYzMXFRZEc5RGMzZHdjcjJLVFZ2dkJUajhoUHNlTE5yTGhrQ19HaXdmdnFVRERlR1V2d21ldmZFZHY2Ui01bjVOenVMM3VZek1GODQ0Vl9rcGdVLURSNU5DVmMxWWdmSUpzTDFhN0ZxZlh6M016aFJ5OGV1TXlEZXIxTk1meGNnT1ZQWFRzbDVyTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcV93cEhCckUzZzFhOURFU1RUYkFLQ3F0N1RkeVVNS19kdTZBOWNILUNwWHNjSUtiM3F2cjNpS3p2MTN6SlVGeHlrWXFxZWRZclNsdFFaall6TUd0aURRTk1EYWtTTW9YRXZBVUFOU3lKYkxLazNwNVU4OUdWYjB0SjRHdHNmVkkxOFQ2dlJ5T0k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbE9OZUZNTTJVTS1LOVhkbDFibktGV2VMbk84MXlvSUxzVDR2NTlMaHN1X3oweTVBU3gtaklMN3RuMW1QLW82anNtUmdrZjhmNVY0MmlFaldQamdmT09YSEhLeFUwVy1sN2QzaDlXRXN3NlR6VHp0aDhEanlWdnlRbWJyd1VUR1BUNWcxaUtpdEg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnRrME9ZQUVSeGlIUVp4Q25qU2NFZ3BHeDlGdkM5Sy1BNHkzVlJDd3pWNHpuTUhmcWFZUnM2NmI1NDVQV21iNm5GU2tHV1QxdlpPcl9mSzhmVjZLSTZLaExIbXBlWkFmRU1wdjBNdXhjSlZVZF9yRUt6UEhBdVZackxoOS1WNE9DdXM2RElnaVoteWpveHVEQXk5aC1reUVZcUYxaG5KdHdJTzlrQzJXMFFKcTA2T0nSAbwBQVVfeXFMTll2bEE2R01ucHJ5RTdqQUtiSV9sdW1fdzJkdmNMTWo2a2RpNXhoejhObVRWR3M2VndNQlB4Vkl4WjJ5TzBRMzFqQlFHVHdCeUtzTXFKbjhlX001SWRFS21lZ0lpcVhSMUYyR0ZuVnVjOG9kendRbzE1ZEVoWnJQdnQwWU9ySjdnZmhDOHVJeVRxN3VGbm1tS0dxRDVXb1lVdDJBVFZFRWVLU1BWZk5GaW03RmxpY1JsVFVlSEM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-16/thoma-bravo-s-proofpoint-taps-jpmorgan-ubs-on-varonis-debt-deal": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/16/trumps-new-press-secretary-leaves-after-less-than-a-week-following-controversy": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/us-commerce-secretarys-resistance-cutting-tariffs-stalls-trade-talks-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlZMc1d4bDlpX1VlSDlmcTdWZEV4WEk3WXI3V2RHTkYzb0FpOWp1aUVpYlpsSjBZUkJSSTZJaGJYQmZiQWttQ2hJWWtFb2JrTnBZNC10dHRLSFNTT2x6NGxjWDBIZ3hCTU45SWpvNF9SdTdxRG5pcjBMS3k5RFc0cFFqOERWUVhYOTFOZUNQRXRpMjhxWTJpRmtpYUNHS0VvcGRyMkhURE9hWFJ3dDVr0gG0AUFVX3lxTFA0RDM3WUtFUnV0dF9EaC1sZFE0UXA1WFlIU0RWVXlVeXhNSzJvUzc0OTV1Q0RJZDdOVF9sQkNVUDNzX1NmWk00TFp3SE55bVRNd2NwaWpGdW5YVG1wSU1CbnVmd3JpVlZfMVdRNVNOYVNncklqMGhaYkRwRkl3bDVNTV9ZRGhJbnJSSktvY2hSTFl5YWIwZlE5R29kaWt6elR2TjhjNlk1WHZuQko2QXFaTE91Sw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVW9QLVhVRk51YnQ2dVZsOFYtbkVYQUJUWG9rQl9MTVJkTTlhUkJWWnVSR3o5ZmE3WVRkVDRWYWVHZjJKZk1rT2NDVXJOOFFZcnpGYWdNVHNIblk2Vl8zb1Jha1RoTGh6dTNRdXRkU1dIVWxyNXpoSDhsTHlZeEh4dmQtTUF5dzZRVnVxTGhXRThNMmFkTndhX2NoRjJXVUE2VFlpTdIBqgFBVV95cUxQb1RrMWFhMDJoeTVhaUtuYXNBa3dQS3Fucjh1dzRsYnpmeTFBRlBvanh5Nnp5T25WVC1memRRT1JkYTVEcFBzZWM3bUNENzllQzU1QmpJeEUwR05LbzNmVkwwUGcweExtUEFSQ25oaVhJSkd6YzdDc0ZTTXBUSGl2ZUxmbGVKTnlHSXRaWjlkVUZ4UzNydUlnY3RTZTFsZEw3RllTTjBidGp1QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2gtNVJLNnFVclZJdjRNSmpFeFFaY19MdnFsSHVLLUdrMmZ3SkhVVHZQQ2R6dmlEWFFCa19XU0VaVWFSdlpDaFZCamllYkZkOHhqakc4aHllOFpwSHJ1cFNyV2I3alhzUVNRM0hWamh5Y19pYXU4SzdnNDlMQTllM1RmZ3pHUkJINHlQM2tta1V4cGswTUt0MWE4dTYzN1pkVlVNcXhkMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
