@@ -182554,5 +182554,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/inter-earn-3-1-comeback-win-bologna-roma-beat-genoa-2-0-6469041": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/17/historic-limoges-town-hall-engulfed-in-flames-amid-protests-in-france": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWlhCcXRtaV8wSjJpbHlYMVRlS0lDcldhZHNYaTJtaUlkeHJ1dGx3WW9uWWdpSFEwSGJuWUFtaXlqMDEtaTA0T0Y1RzNtd3hud0xfaWhkWW8xMHhMSWZfZlN4SWZVT0xWQW5NMEp0Wm95TVhkWGh1VC0yWDRDOXJpTW9hcWRqRGNTT1kxRXcyZUtJTU9fdG9oUVV4eDJNRGhKOWtPbnZobnhZMGxIaUNNZFozV29mN3oySTg2TGNZU3hnQU9heG9BOVM4SzVtNUJhMm5lOGF0Z2VteTEzQ0tKdjc3MXhIQS1zTFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPejRfVmJ6Y2p2QkdWTl9jbVJqckY0QjdxQVJYT1kxXzI4SFJ3NVJ1NU5oUzlhQXdVbjctYnA0T0Z1MURyd1hMdVBLTGt4LVVmNV9mN2NFZTlHOGVqbWpwdGNiWmowdGgwV1Z1UjNTYTlqeVY3ZUZxN3cwVU5nZVg1RFUzWkJCVDllN2oxNU9B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNm1NX01RM0F2M1NGNHczQ21GNUpBOU5Pc1l0MlRSdUs0QmlGMjVHbnl1cUtOMmR4dGcxeHZYOHdsMjRqRm5BSUJYNXlOeWIxYmRONlJvX0diS3JheE9ROFllaTVLOWZabEFmWTBVVEVCencxOTZEbVZvV25qNDlkQ1d3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/mass-protests-in-france-spiral-into-worst-riots-in-years": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnVnOEloY0J4aFRTZFZ2N2hTeHBWeUVXV3VPQmR0c04zcFlCdEs0aW1jUDRNM05Za3NMQnhtQ3BmVXNQRUFNMms5eXJJdVE4Q01ud0ZlYVVKOGhhSHBncjFLaVl6djRPb1NPVDZ6MkFtbHlYWmV0cWJ5VEdpTW1adFREWXRHVmUtcjR0MEl5QXhmSnMyamtrTUxiZjZkLTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUHJzNm9RNEgzZ1NkM3U2endhZGR6WklrVHdrdW1hdkY0U2pfM0xLS2NiQkpsMnhESHc1NjV2NkdiUFdBOFA1MzY1NTlaNHhqTGZwWHhpYUdlaHU1NVdRU09YTE5aYi0zV3daWUhReWZUWHpQTWMxaXVIMlM0MHExNzZGeWE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-week-in-review-guadalajara-water-protest-fallout-hurricanes/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNExqWFlYUkFMT3drQ1I3Sm85ZnUzRFR6MDk0dFNncjYwOW9xQWtndG56Q01RRGJBb2JLMmhiWFFzcTEwZVhZT2hqbzFSQTFybVFDMjdNWmNCUGZuOHdxRGI5ZFk5Z05seEhnZ0huN1N5d0lBc01tdDJpbUpjMnI2SzU1NHZpLVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3338893/economic-challenges-need-global-action": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ibzBDeFpmYzZjSU9OQ09Fc1J5MFZKUG1tOUZmZWtJOEZZRzR1aGRZQzNaWHNsZ1ZzVzJJbnBvV2RtQ0VnblpoN2NaRHlIUndHRVh4N1paMXRiSk0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGhYWFhIdFdCRnFmd2FTQUFrRjZSUHo0VldwQVpfY2xwNWtUVjFJQlp5UEdZTnZUYjRXSy1sdkFOVFVVaXlLbFk2TnZPcE4xcmlpS3c3T1lpWTdXY1JWNko0cjhRTTR4NnJ3dENVd090NzB3TF9HNUdqX2xkLTZzbjNXRW1KTXFISkdVUUk2ejdJRGV6STZhN010aEtqTlpP?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXIyOURsbkh2dU45RkctX1Vody1QVXJJTjd4dXlGbTY4NDIxVGNlNk9IY2w1Z09GOHpBTy16WEpfRUZFRlpSLTBCYzN2OHRTZFo0TDh4dzNOZWh5UVJiN2hTMFhJcHJjcjhmb1dJSWJvV1hwQU1fZ3p5UU1wUkxfejljeTJNSENWVXhVeWp3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living/ai-language-translation-tool-learning/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/prominent-guatemalan-anti-corruption-lawyer-killed-in-shooting": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
