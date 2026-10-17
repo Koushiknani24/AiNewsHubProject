@@ -182320,5 +182320,143 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnVkd3VEdHpxbUNiNTBhQUc3UjN2Sk5qbUJGYjlGUmhvbURwLVNGSXdQU0Q1eDBCNjkteUJJRktuSmVLMC1faUhVeXVKNWo1TmlwT3RTblljSHpVR0p2elJqR2doSzZCNGhJalVTQndFaGRJeHNHVG14b2pXNW9RRHY2T2VzcWlmZ3ZiOTNHLTREYjlVbzNIbXl2a1d3SGxy?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0VHBGamJwUHlrbXlqTm00RnBZWVhnX2hjY2hseUN6MXNHZ1pueURGNFVlNzhYRC1WNUdzU0g3ZmNCQjRfQ2JYWW92bkN5Z3lTOXFLMWh2VnVkZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR1ZlWHF3TFhvQmpRWDk4WlhXdXdmaklVWHVnOVl5R3RfcDBCVDlBTkhuRFZlTm9YQmpKQ3Z3YkZpSjR4YTktZ05jNC1qRHNFbFBNaElxNmF2enVjWGZsQThFaDJiVEFoM3BiYXpSMWN6eWU2QjVjUkJHNVhGeGdSem1VcUFLampHQUlTUmY3WWlWRUxKd21R0gGcAUFVX3lxTE1UQ3VNbXlnaC1YMGtrOUM5WUV4M1JORkpiQ0lNeFFEV2k1ZE0zTlFrVTJZLUxtVVFGc2xXVjVoQTFRWDU4NHdadFFpaklaRmdTOTRmNkppZG1BZVlreE5CRGNYSjAxcThDYWdodWtJVVFydmRuc3ZlNjloeVhJeXJwYXRraVVxeVRBWUtycS10cmJwSlR1MUo3dUE1NQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/cities/kolkata/kolkata-bengal-pandal-collapse-stampede-injured-death-updates-on-october-17-2026/article71597549.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/chelseas-martinez-suffered-concussion-after-collision-everton-says-alonso-6468516": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/17/protesters-storm-town-hall-and-clash-with-police-in-frances-marseille": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/why-are-fewer-mexicans-having-children-financial-strain-security-concerns-fears-future/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3ptcFhTOTZqR1Nkc2VHQjZ0Smp3RDV6MENWeEpCOW5EQmlweXk3QzRiYnJ4ak5IR3BSbXZxOFhfZ2pNdTJxTEFZRGQ5am1XREt5ZklITENlbURDQzhIZU9vdmh1cHBXbkp0QW1PbEhJWjdpcGU1aXJ0T3d1ZUptaDROVVpMTTdnOEZsMElHWnJHcWVEcDVnMU0tX3owdUNVZmg2STUwNFdQNXFYbExrWA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHlWR1hPR285a0lQRVJ6SnY4QVNsVEhlclRYVEg2ejNTMHZzbFJqMlJlOUJrQUJlampESVJhV1JOeFh5SzZ2cU9aUDhyVWgyUkhjOFpoTG5MY3FyMTNYRGNnR2psYXl1RGtFa2xIVzNIa2otMzlnUXdFNVN6TTJqcE5Zal93VEJBWmVLUm1jTUs3Q2pneUo0aVc4UXQyZm9kb2R6Y3djbm5oYnl5Q1800gG0AUFVX3lxTE55czVVcXlJQzJKd2xjSm40UVhYQm1jVFUtSi04Z2dFQlVZZlE0ckhoSzM4QzVOQUlWOW4wZ195TXR6bC1QR1YxS2FmZHlxNnpKU3RpbUVzay1OczJmOThydzU5ckIwaTIxemFzQjVQalhIcHhXTDhfQWJ1cDQzRG83bE5iYzhDMUR3M05vUlhKRWZXR0R6X2lEYUVEM3ZNNnNrUXlUeldMdGNhQVdqQXJ2SWtVMw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2dVcDdJcTJvbVlCclgwSTNya3ZSekhuQ3lFaURlLVFVRjc4bVZvQXgxYVN4Qm5sbnpLeUZwLVRqd3FsTnNhNy1qVjFSQWhCQXYyMlJJb2tid0RlU2tNbmpDWkU4ajNyTEFVbG83LW1DbnpXeWtGVzhrajBVRjRjNzljMlBnVWNmMmtRTUZUZzJGZllmY21makdXWWFSa29wdFU2Y255SDBpZFRfeDFkNG9acFc4ZFEwbHNib18zMFpNcUs5am96MQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkxLUHBvTXFTc25tejFpWXlPeVBiZ3VZRm1BMmNXVWJFa3A4WEdSeC13aFI3VkR4S29RLVNfaWljQnNSdEFUejg1NmhmYmFKR19RLURlaVZieXVBSFdINjFLNzlDcFlJM3N6YTNUSENMWXVXckxSb3Eya09QZmdVcXNrWFoya2tqOWdKSGdrdzZmQnp5TW1EOVFyMjd0RURWZXhxbjVSZ1Zhbl9HOV9F?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/czech-pm-babis-suffers-setback-in-senate-elections": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3lvMTJNci1uX01jN0YxNy1FQ1hCOGRNbVU5eFgxY2IzVzNzQlJMakJFOE8zUW1HWUNJNEg5cWNidmdVVDM5cDQyMkJWLVdCRWlKX2xFVDdXY3NaRG9xWTNaaFBXY1lqazNISzFnbXk1bzI3VEF5TXRIcHFoRXJJTGpLRU9oT2dsOGZUNG00Q2FIeXVTMTlMc0hGaHk2OHFfTzRUSUhvN0hPWTE4WlBKRG04OVNOakdFY250Z1RsZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVJVYkJ2aENjcjBpOGo4YUNUS01pOGowSWxpc0hzUXlUWUN0ZnFISmpiQXlXNXgwb1N5VzhsX19aN3RIRXptOVlBSktwZW1DR0N3eVhSUUt3QlRQQnFTSUhNcnpIcWIxVnNweHRFMFc5ZTUzZWktVGwwMTkzRGRTZGo2Qm0zY3o5aHFNTHJfY2lheGp0TXpOOWtlZm5WRGZZZ0JHTFktaHNBYjNrdkNZTVd4T1B4bXNkaVNNbkh5RQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1ljZV92YVJlRWJMdWk2TUQxTEo5VDB3YzE0OGxZZlV4QVZXWW1NR2tQU3V3U0pmRjhXcDFTWjNLN2dvM1ZEeWNVc0tlQ2prb2g0SmtBeXFRZmJER0JKLXZNcldYMnZpMkNCdWtZRk1jMkRXVEJmYXRNSVVYRHlwMW8xSmc0MWtEODlZM1ZNbTBCZ1RvT1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Fd3NUdUZKUTJmeTFnQllGSjh2cWhHVWpSOTRnMk5ESG5odW9YLWZxOU5XRnlWdHlMUkxlanhtQXFoUnVYZUdLdnFVTko?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83QTAzRVNkbmlZSzdDWDY3bFdaTFlHTFIwLUN4b2hCOHQzekVUeElPcFExNzlHbkRZaVI0UFZyT3pMZEdEQjAxY2F1V1dhQ2p1YmRvMTV3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRFAwZTJ0VFlGTUFVY3hHN2ZpaG8wTjctZDVTNG5vWFZUTmxXX2tyWUpfZ3hzbC05SUlVSmVJemY2YnBaNUdRaEZDMU5FTlpRdjVYMmlwdUN1U1d0RDhCMEF3YXNybjBUT084akp1RDFEM0hjeGN6emZOMVphY3hGUTYyQ1R2QS1DYy13?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
