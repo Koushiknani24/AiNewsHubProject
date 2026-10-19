@@ -183760,5 +183760,149 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/france-gabriel-attal-social-media-blackout-riot/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/two-serbian-opposition-figures-targeted-with-spyware-research-group-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRVajFaRVhDMkdBM01qRHJockVzTXV2X0RXaWdBcEppQ3VNRHJ4ZUN6N2dIejVDX2FjQlVGblM0d0xaNnBvMW1GNmFRUnVCMUE3a2dDWS1sdE5pbXUtU0dIeERwNzVqeEJBUjB3dXpLMUU2ODBrZ2RqcHR4TmlDSFkxNHdvQ3RpTEZGcXpyTmM5M2IwanBnemRNS3J5VGdsVnZQN2R2SmlCWlB0OTE1bUFvOXU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVVViYlkwSkVja0UxTDFoa2R3d3FEU2hrdFoyMVhOTDZmYlZlaTZqczlzZFVlcnJyMjlCbnFPMjJtUEhwSDVacjZXLWZzdjBKVmlFR2pmdTB4X3RtVFdwRzR0WXdXMWgzeDZ2OEFhb3NRVEpaSEU2TjQ1azUwQVdBYmp2Z3pjeTF5M2hvUTFpMHVjNTE3WG9OcVNZQUhkQW9WTWxYTGZ2cUlUVU1IN3M4TlhUVTJzT01LZmQyZV9TV0ZXUm8wTE9vdXBJOUdoX1pxbUdTS0lTaHlSRWV5U1Z3MnlnNGY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/alberta-votes-on-leaving-canada-separatist-movement-likely-to-outlast-expected-defeat": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb3lZX29xaGR5ZWtHMG9VNm13cm5mMmw2Q3hhc3dhUDcyRk5qVG9qMmtNcjZSZjJqMXZ5Uzd4cEQ5YldXOG9QTmdrc1JZRW96YmVBMUVKeVBwSE5NbHUybnVxWlF1QkpRV1IzWmZtNE91ampWRFhERkh5SEo0Nkt6TkJOWnhBZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43LTA2SndJYTdYUWlMX21YUnVMME5hcGNrUC0wbUduM0tBcV92eE5abDFjMFlHWmY5eDBBclgtaXJPUW1hMkZzRWdpdHNSY3dTeTZZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/19/latest-news-bulletin-october-19th-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFI5OTJxb2ZaYk0xNU1adzh1OGUwN2hYSHhHdmdlbEtxNTdkQ25vYWFreWFWWERBZUZNMUk2OURqNXRDSGx2bVVSd3RWbnI5ZjhxMExqbE5kRlRTeG1jMUxNcE85M1daZ2pkUm92aDEyN3pNVllhSzlqdWk0WnZkTnduMjl5alZjcGxzVUczbEctcmxGa0tmaHlXRmVJdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPczhCWEw1V3JDcUpmS0h0SkNFS0ZvWUdONmpHQzFEUzhfbE1MSTV3Z2JfNE9jc1NEMzh0U1NJM0VGZlR0ZzRrdkFuMTlReVBIT0ZUQzlMNTVNSzdEVWdySlU4MmN6RUxDWmVLMjFqWDJteUlvZ3BHWkhlZkNnV3pMQjJCbkR0a05NNjdLV0F0MHBVTl9uYTZsRnRKZHYzVWlhWVNuV3JTYklPd0FzY0pGclhyVFdEWDVKellZRGRuRDY0eDQ2dzlZWjJwYjgtZmtaeGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/ecuador-priest-urges-flock-to-cherish-life-before-being-fatally-struck-by-falling-crucifix": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTVRwWFFoUmdlRzhBVXFvdGlnQUQ0OXBldk9iYTdQVHhQMDN4YnJVck9lOHhuRmxzaGJlZjBKaFBDVnlXd0hiQlhlWlRoX284cHM3ZmtoQUVEaTBiRERVUElFRzN2dmlPenl4NmdTb1FpeVVYZ0xxMlRGdWhOUzNzR2pxMTJRMFRhRmdtcjNZRGNXR1p1bTkwZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3339753/pm-orders-nationwide-review-of-illegal-foreign-land-ownership-by-end-of-december": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMDQ3Mmh0T2tYUGJXakxFbkI3QWlLTGd3eHBla2lqX3pLQS1EUWMwU0x1V0ZvaTNzQ3YyTEs0MVVfVVdxUG50dEg0dWkxN1FuYkJoOWs0N2daYmxZZ3ByVTBfRUdtNElQX3JBbV9VaU1KcGllaVRYeUUtc21MWUpCbVFueEhpOG1RdFVPaFExaVhGcnU2ZGppaGtmaW45UTZEdjVaMEkxYUvSAa4BQVVfeXFMUHJkRW1Ec0ExdGM0TDNTR0VLUEZRZkpic1JWM1Y0SHlhM01KQTAyRzdJaHhsM2Jjd1Y3R21yeF9jQm1TZUN3WFdsUTMxMzh3Z09tMkZ5Wm5tS2N6MnBra0NfWEJtdW0tX2xoR0owb1NPV0JJVVdvbmlwY1hNOW1wYjBsZUNyc3Itc0VFMEVZYTBfajZrU1hEem1OeEZuZ2pBS1FqUUtmWi0tVVI5bWxB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkpWM2wzZDdtSFZKTTAzaFhPNjVMUlh6OTdXZHlsRXE4ZlRjbTc1bjJuLUxWTmhYZTdTSUhESDJ1TmFlSTM1ajlwX2J4bUtES1dsdXdaSFFCRmhnMEQyTDdRVVBXSGxHaWJWZmQ2UnVlN0QyNnpFOW5aUjhiUnpxa29iQjhENlhGLXZTU3IzZEc4eGtzRnowQWkzUDBUeDBUazMxT3hsb3dIVGJUd0gzNVk2bUNfZVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOUx3VWM1Wm03ZjZTcjVjcmxTQUlzbTlHblQyenNCRTNUVkNuVU9ZWFZfZWx5cnFuRHNCUzJTSzYySXdtUGxXVnpUa0hIU2FCTzNiQnpmTTIySklUdExLU1lIRGFIUnd5NEM1cmdJaTJ5NmRhZ00xMWdHN3hlTWJtaHhZVTBsNkVIZ0dkOE9taEVTS3lSX3ptbDZzN09wajc3cThGSjhsODIzNkRhTGJJQ0pzNk5RV2xiNVZWbFpUVnIyMEZIcWtmTjE5S1ZONHZ5a1lv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEJaeEpsVGVjMFo4YlNuNXhoMXBpLVF3OXNWNDFRSnphZzJ2dGRlMnJKRFl0WlR6SDJoODFSZ1cta2tHTmJQQUtYX1NzVlVRVTNLUGVCYVNadVh4NVV3b0JJOWg4eUtUb2dKbmV6cVo4ZTJrN0k1UUZvM1BERFotSFVQVnNndHJOVjFfTWFMSDBzQkM0bFlKbWVaNFE2Vld1cnlzN3FOeWwwLXhEaXVxcUxkbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZcGRnd3NjeWNXOWVHOGRHcmNNdE5iaGlDaTJNVzRHS3o0ZTU4SERLUjlxZUFNaDdCblVXYW9jQUR3dlhrQWVuYXo2UVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/19/australian-mp-helen-haines-critically-hurt-in-car-ramming-attack-officials-say": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
