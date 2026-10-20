@@ -184450,5 +184450,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-20/shaker-demand-in-mecca-driven-by-faith-not-cycles-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/iran-foreign-minister-says-russia-iran-have-never-worked-so-closely": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610200136.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610200147.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/wealth/save/is-3-lakh-enough-for-your-emergency-fund-if-you-have-a-home-loan-children-and-ageing-parents/articleshow/135061679.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/20/latest-news-bulletin-october-20th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/20/trump-says-hes-ready-to-meet-putin-and-xi-in-china": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVlMzME5fU3d0UnRVUUljZFNqVVFMM2tUWmR6RnRiZmhYTVN2dGlRSUZkc0U4dUl2UnZRRWR3ZWpWMDF2ZkxhWWItRnhiWmp0Vjc4YWtVNmYzcXRYUlZyX1BmdnJ5amhMdFJUWnF0QThFQmpWbG94bXdKck55TnNHQUNvZUdIUXhaX0M1c01LQ01nWGdZNkpySUdDWWRETEtGeVN5TkRhZ0JlQ2M3X0RRb3FXdkwySTdxOHFUSkthYTBtc3RGX0s2VFlzU09HZ0NLOHNWMQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONlVxX19UOXh2T3NtWmpFQzRYakZqeWl1T0tIMkZMbzl2YUxHYmpOVjZ1dGZWNTlzTEM2TGhWQ1RidUhlQnhJcWpGRlF1ZHJYaG54NV81V05tbUIwWFZYTWlCUzg5QmVtQlJWZk5Lek5IVjhpaUZTWEpfZ0t2YVVmelpqX25xbXF4OWtfUkxCUERWZ2hjVEdyLTVqUDBmTG9UeGhicF9tc0VEUzg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSHZ5QXpaeDBLVjZTWEk3aG5jbVZLcU1MOFY3TDBGeEp2aktSQWlicXZaQm9yWk9hS19IMjBKZlFoWW5ORFV6MFRCZHNTVnY1cGViUTBYYmtUYzFpNDZ2OFNRLWhBemRhc3JPRTk0OHNMTF85Ri1HYUFJbjJILTc0WHlOdjNrVDN6QlgtWldYY3BBYW9HS295Q0ZwcWhFcFVHRkxCeWtDWWdlYjg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDVneDIzYk1MNmg0M2RpbXE5a0tCZEhZS2VVRG9jTUFrRlBwUlpzZ3c4VDZFSG5nWVozaVlSaVZVdlpCMU9EOTd4aXdsdkVqbG5IaTBZZG9LVjNUTlN6YW16NWZOZWlKZ1RTWTN4X3hUeEpCYjlyVVFUUmlfdU1PakNqNGpBYWFSTzhHTVplbmNUenBBTVEzOWNkcFc1SlNLWVM0cTNjV3dJdEMtU0lZTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2RmejR4dzYzZVU3WUU5WGw5V19hanBUNUwyUFVUX1JNckFtOWpwTlFBcnVrbVBNVi1GRGRnTzEtbEtNZkRyOU51a2lIanNURFp0ZjY3UlVPS0ZLZVdTVi00cHdpVnlsRWVUa1o5M2NwaWtlaGptVnRkZVdoXzhva0pTc2MwNFliWE8wLXoyVUdRM3R0TzVJY3p4Z05YblJkcVBLOXI0QmNzUURTd0VBMFJGSE14Y2NWY18xSWJjVG5GeU9UeXBlcWI5VWlGLUttV05nbWpmRlVNM1RwTktOdA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVExBbEh5MmZzXzM1cDN4UVROODF4eGdYcFhuWENuMUZ4TlRuZVYwVThBRmE2WEtmWGsxaUVaMmxUaDFSdEN6OC1WOW5RNTBNUURubEhWVUVFWG4wandIRV9iZ0VSU0JLaVlLTGc4RWdoUUlCOXB2WlE4TGt0Z1JHNXFqVkw2Y2haMG0tR2VIRlg1NW8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/20/australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSHM2eWNNRVl0Z2tQRFlpRXFnZlJvNGN0MlNEMzREc0NtZ2ZENVRKSEttckt6UlZ0Ti1yb2puVW9CSFMxM24tZVlCSjE1WXVRWHdaUjVtMi1RaE5IZmV1ZHl3cXJRbzZfekpMVWVvTk1ucVdWd3pzdWhkRmJsNXpRbW9QQUdmY1ZzTWhTd3F6c0pSMVNwYkdvcmIySHJyU09YenNxc0pfb3ZWSXRDd1JkYXFsZ1BtR3F2N1lZaFRDc0Uzb1ZkRll2d3h5djlKcE1TbzBNT0lSaFQyRnhScE5vZQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/z-ai-founders-worked-on-research-funded-by-china-institute-that-uk-tied-to-spies": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeXJiNFd6eWNUclRFNHRTdXRPTldiUG92ZFkyc1FMcHdyX21qbzB0U19BcjZkUTdEMzEzQzQzQ3g4T3VxY3ZlVEtucS1tMmRTRDZGVTJoOENXTmd6Qm9rN1VucWlsellMbU5RYkRIcjlfMC1FcnlDRU1mUWV3Z3NCa29PWE50a2NuYzh2TlRVVlM4ZnlGUFJuNWstZXA2am11VTA3UUFwak1vZUd4Q1c3ODd4OW5tTGVQMDZJbEtiSl9IMGJDRlNPa2xxM2FQaXpMaFR1TjR0UWwxUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/canada-awaits-result-in-alberta-independence-vote": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/wealth/save/epfo-eps-pensioners-can-submit-digital-life-certificate-from-home-how-to-use-india-post-doorstep-service/articleshow/135061443.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbXQ3STdQdmNFeEc5ZDllUTZVT2FpQXlQVnVqNmRnOGFXOWVTZl9fYkhiQWhYTEt6Q0h4eW1FZHdMMTRJVFNtaVRldWxuTFRMQVBVOEktRFcxal8tNmRIX2xnRFJnWEcyd3Y2RVhXUUx4UlMzWjBETlpnSy1FQXpjbV9IOEVnTjd6djU1em9UMUFzcVFhVk5PZA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTmZOZFNwZzQxOGJIRDdvVEVuTlBaQnRFTmVuQkl3WEpTVDZEQTBSX2M1aWJYRGJTSG1BU3dZRkdtaVdRaS1sWnNKYkdsYXY2XzJzX052Ym9pdWM0YWJLMVoyZXVZdklCUmlSWWxIamdGUmhrWDFidXFkaEpOb1VvN0gyTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcU1OZVdRdGpVUXRjX0g0TlcycTdPMmtwWmYwVy1kR1BRR2hpZk42cXc5dkx2WG1mVWNVRmlDQk9NaTY3cnZhVld4OG1waVBoTXlFazlhZGt0YnZaTEVpNUVwVmxCWFBIajZRZ1Z5ak1VWkNwbUxkeVJweHAyRkRPQnNHNGFKNmhQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSHlFa0ZFVkVEbWNRS0wxTU40b3VlYWUyRGl0a2ZKWnJ2QmstbHlMX19XLUNIM0l0TnR6R0hFeTI5VmQwdDlON2c0TjhzUTBMbUJKQllaeG5GeVNVX1hMMXg4U3N5cHRra1A5dzM5Z3UwOE9tMVZaN0NDSUJJSVhiNDNLbU1sVU1uX1JNNFNIYjVZbXI3VDJXdlRnSWI3Qm9PZ0sxWVVYNzFJQnZfMlpmYWdOVW5tb3dSeVVKSzJndUNmb1HSAcgBQVVfeXFMUGFnQUxqbHRPOHpMRUZNLUdpX3c5a25mRDJKOUpHMzhPNU94RERRTk9yNUNDZWtCanVnQ0ZtZVJzQWhQOW5yTGo5X0xEQ082aGp3aUQwRE1VUUcwcUtRRmxOeVpXd1NJb3hxWHY2eVV2OGdodm1jNzI3VHB6TG9tZ2JRMTh2VDFCRS1hMS1laF9ScW5zWUI0UDNkbkJiUHVVeEpjMnJqZ2JaZHhnUkhncHlFSHZZMEFUWEtUQnFXc29xT0l5NjFmWUM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmF0ZWlzRG5uYldTTTNVM3BMZlRmS1F5Y1Z6MlVVX1pLVTN2RU5NbV8tSy1QNWE0WVpHMjBQem9tdDhsYTBoeUpFUThoRVUwSzRXZ3U2WF9takIxOW1CVGZtc3dRZi1JUWVPcF9IUkVhSlRCMGtoYXNxb3V0TU1oUml4RGtZWldLMng0dzNjS2E5RDJGVXlldUFoN1g1LXNub094LVdUbjRYaHRnbmlR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
