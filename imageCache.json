@@ -184780,5 +184780,203 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/christina-applegate-no-multiple-sclerosis-1235645349/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/culture/culture-features/kyedae-streaming-return-exclusive-1235642561/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/mayor-of-kingstown-season-5-date-1236736206/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/marco-rubio-denies-us-withholding-ukraine-missile-warnings-air-defense/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/eu-unveils-new-arctic-strategy-with-focus-on-security": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnpYRUdJRW9HQUlYbDlOQzJ2UDVWX3RYUnEyN3NqQUpxTzVGZHlmUzN4OTczaU9POFhGc0pEODFUU2h6V08yXy1tTENraE5XMGhaSFN1MEhwencxUHNpd0R2cGNpYm1iT3pWdlJRYlg3VEkwekJ0M0ZlM0tHN09lODdEbEh4bHBUUVl1d1pGVURvcEk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGZEMG0wX1A3enVZZk9QVlpkYXdqTnBnV0VMM3FxUHF6QVpabG1oMTV1ZEh3aDAzRm5QS1J5V0xkdlFwWTBFSV9ocnYzcEt4NDBMVlJ3U3hNSWFnakMzUUJWbjZUTjBpSVZ4M3QzMVNDanRNTkstLUZzYUpIMTg2TGRiOHV5b3lsdDdhMFVDVzZSOEhHMngyTk5LcjdzZmNWdlZqSHYwUdIBrAFBVV95cUxPV1ZfVlJxdWc1akJSZG5IZm9NTkZhSnpBYkpURVBfV0xPRjhJZlJaS1dPSm40MG9TS1A2OEdfY0RSSkdob1FjZ3lJQkFYZENSUUk2Q0FaOEhqS3RiQW5GSkYzcEY2RWxUb3hKcmRscmZrTWJIbW9abjBXclIzRXd3M3hOemlwaGxTX041WmxwdjVWX29YaFhCZzI5YThKdUFpMDd0Z1hZX2tvR3Rr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFJIR1AtMUFhQzJfSFBEazNSdVZuRnFXaEFKYlJ0cEx3OHBLWFBiSGxqQ2JDVHgxUGpyTTdVeHVaMjU3V1N0UkIxLXVFYzFaM1N3WlJBYzZTWDBTU2hTVjZEc3cxM0lkdHlQUm5JdFYzNWpNT3U1V3ZIOWJzMTVpVWJVLVJqamxQemR1dVpoMzJiUlBHRTluNmkwOGxwSlllN2pQd3JaTDM1bVFVZjY4UQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYm5OTG1rZzdDUlplMUI3azRmczNlZG9YR21oYTh4SzFrZ1dScmdialpZeFN3Y0JvRC1EQ1J1M01IbDNNS0RvMUw0VkRjUHV6RVd6Y3RYTFhZT2lVNUdNQ3luVUxyNDY2NTNNYlRQdHdvYTU4d1dKbF8tMVlyRHVxNUY3Q1BiY0dvcW5hQUZpNVJ1UUFhMUZyRm5OeW1zMkVuMjQzaA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeldIR0ZoMzhuSW44cWI0R0ppVUpaZXRNcVQ2cnBrZHBXY0ZEMXBneVRfdTZTTUx4dF8zX0ZhZDZxT2s2eGw3UVBkNUk4NmRDeUQwV1FpX3hBeHdjV1owUzBYNWdOMWtmQWlEQkR2bmdjeS1ydXk5TmtGbF9EVDFncGZEcHV0SHBtRUl4OFRkSVQyQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEY3ZXM5MFNEUkFFd09hQXdWV0pMX3FRR3h4YWVubG9mWjQ4RnVzY1M2Tm5PYmQzMngydTR3MTlvd2tmWTVLNXBhMXRhOVhIOTNqMXNRNFhnMmJkVEJzTjNsOHBrQ0hpSnFJQmRWb2FEc2lhYS1JTFZkVExQMXNtOVotU0FKZVdjbEJqTXVOZkZpZVhkTFlxeDROUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-the-limits-of-political-dissent/a-79713785?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZW5leDRUS3UwT1FNeGVUSTlPVG8wRy1aVDFuSXhibHRuRUhjczBtek5vaFV3QWFEOHRMN3Q4Vm5zeU1HRDk5TWc5WTg4M09la0MxWmJ3aXd4MDRKMGR2dU1wX1VmYnc0NjlhTnVraVU1djJmVUV0MmplU1dSSVRnakxtX3I0SkZKeUJndWVkOWtXNHZ3Q2dwSGpzUGJMTzc4eDRyWXVxMmxIbExENEhJUmZySQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/news/general-news/russell-brand-trial-rape-sexual-assault-women-court-latest-1236736072/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-20/ai-fears-roar-back-tech-earnings-on-deck": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aeEpsSThYdmk5QXFhaEJiU3Izd19zY0JXNGRyb0thQXNZXzRLWnNwWEVfbGNCUk1ONEcyWmVEZ3RRZmgxQzVfWVJNXzNEQ3ZvWlJHVGFlWExMem9XZzZncXdmNVhTSUV4U3BwRFF1bnR4QzJY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmhVbEtNQmlqMHpFckk4UWZYRnYwYTQzdHVSYlp5dlE4VWpQQzQxcTJyUmRRemNiMXZzdm41ODVGWXc0NHM0bU5DaGVpcUJyZ2RzYnRPQ0NabFpzVG5wdzFITmxMa1lJR2h2S0hZSjcyNHBnaVJCTWQtRWFwbndKblBXTjlsUEt0Mk5TeW1Fa2MtdDlteEptQlJtQVJ5QW1PakE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Sem9hc2t0T2ppdWEtMWF1OUFGTlJUUHNrMGQ2NndRaGh6andSTE4zZUw5T1pXaTktUnBKRHA0NjJmUktuVmZURGhZVkU5RkRpNmFCdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0dEUGZlV3l0Sm80RDhvcUtWRDRrRFFGZnRHdzlPZ2Z5YWVVRFFsVnlMRFNkU080ZERpaWhwT0tlZVRNMTU2Yk5YNnJpTUpjVDc4UDhpdVNUV1R3Y205cVZEeDBtYnRIa2FzYkIwVFl6TUVkUl9ZbUlZSkRoOUZWUE1hMzF0N2N1X0xwQTExa0xXaGoxWXoyZlhtMDcwLTNxeUZ5VVVDeDViT09xTEJqQjQ4bzk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdWNUSDA2R2JZQ3BxdUVQS1EwczFicFI3V1VEdnhnaXp4Mk1UQkRhNVVMQVozS3lza2h6RUdGNEdIUjViZ0ZmMkNLMzVIN3JEOEFQOXh4d1MteGdtdV9MZF9zSGktVzl6RGV6NXFILUlwOTJ6bTdmYlhMSG05LTM2TDhyS05DQnZDSWVydDAxYllVUnhJZkpCOW16ZEQyaU9TWm5wVHF4VEF6ODV3WWU0c0VqcjlQNm1VZ21HYThRYmlHaUpmaWxiT21wMEM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/romania-political-crisis-gets-6-month-truce-as-new-government-formed-luca-niculescu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/design-doha-mexico-city-exhibition/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSHpMM3ZUZVg4emlrYWpCdmo0dk9xaUtjUWwyU0FteWdzdng0LXRMOGlCbDFfTDY1aEFKWEM3Q01CeTFZWjE0UnBQZURUVTlQeGM1VFAtZWtuanFRU05tZTZfallZQ2lHWHB1dElWMWdNd2Q2NmhZRVRYWXBHMkNjUlNmQ2sxRUppQlV2bmdPQkNBYV9RMS14Y0xLU2NMcVRXQjVpeTZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUlKc3phaG5JbFVOOGRLUUV6RUxtTzlKYmZycERVUWswVEdwajc0dzRyUUs1cjgwZnRmanVMVXU5V0ZXZG83X0dHTUFMOUt2T21EczRtVHdOOWhfVkY1QU1iTlZyNkhuTTh5WEN3eldacDdCNUd5Y01WM3RLaE5BbHEzak1JU0ZnQnhiYUdKcmJpZW84bEJ4Rk9leG0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3340423/global-warming-pace-accelerating-says-climate-scientist": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGhaWHJMMXNqRG45Ukx0UkVMd2FmYVl1UU5fbjk1ZEQya0U5d1E4TzE5TUNSVGJjY1VNcXBDWHdERDNJejRjSjJnUjJYd2ZBUXZ6aFR1ek50UlJHbDdxMm9zVjZ4VGJYeUVIMTRtS1hhTkM0ZVd4aWJHNDktNnppbkpvdWZVeEZNWl9kcHByS3E0YVo5TGgwU29OOUg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/eu-unveils-strategy-to-boost-arctic-security-in-face-of-us-russia-threats": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdlhIYXBWZUtQYVdUMUFabmd6OVkxVGxUcTVCcWdqZVNLb0ZQM2huVlotSXFPQ0tDVF9QcGhtV0pMV21BRWdId3FsaGwzSno0clBnTnF0QUJNbFJfM0pvYWZsRlNvMmFpQ3hqV29XUDEySUdrX0VZZEhmNXk5MS1WQnZ1MEpvbjJUdDkxV3dfWDV3X1VQSjhGV0hZMjNvbWs3ZkVvREZNNDRpN25jcWJteXZPMGlyZ25vcGozNVRBa2Z3NkxBS2pnYzg4dWtuZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwJBVV95cUxOLVNXQS00ODFxdG96WlR1emt0cy1ramxNbkZQMmZIVC0zUW5RemoxcTI0Z3YtbjB3YmVZeUI5SzBnb0JpMjRDbmIydnpGeXJyM2dBNzB0MUxQbHFibUNKZjFGR2c0cl8xajFVOWtaRmx1NmxHdVNLTjlRaTZma0NMV0NCOWNVN1MwakpDNHd5NkFJT1JKcDdBcFZxRm1qZ1BTVkFqQm9XZW8xSldTUV90MFI0VVlKZm9jN3R0ZWVOSWVybXg5S0RoVXJyaklTZGlRZTlncTRUZHpxeEd3YjlUUjF5NElEYl9zd1UwNFVPQVpIYTczZDFGeXFadjVCTGZUWXRNeEMyTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
