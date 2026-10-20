@@ -185152,5 +185152,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-20/detavio-samuels-says-creators-can-build-media-empires-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/europe-worries-donald-trump-prefers-vladimir-putin-volodymyr-zelenskyy-ukraine-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3340524/flood-victims-to-get-b105bn": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGp0OUxEdHg5RUl6NXlkaE55djAyZ1dVZ2lTakZldUxRUGNTcnVPdlJKUjN1YzBlQUduemU0U0dwMDB6WThWR1VydVpBOWNNRVhZNzhaZnJQdXdxUzUtWWV3NUpBb2hzNlo5NU54MTZGbU5rYjFacXp5aWZDTHJQaHI3VlBQSVk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-economy-grew-september/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXFaWUhhdVl1WVFadDNwOGxicDBEQkdNVEg3cm5lclo4UkY1dTJBSnhtTlJ4eGs2QlpTUlljZmZUNnMyeHVoemNybmVsNnpEMW1aaGt1LWE2dFd4bWpSNWlJOUtnbFhJVjJXQWwyWjBKNmgwQWFjZ3VfWkVxMjQ4SFVTd0xFbWNXU1lXQ1R1YUZIQ2hX?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFRrZy1aQkxHOHFma25CandLV0FlMEJ0R2pnbmFUN01sQk9wbDEySHpabll1dVRZamtYUlNvclEySDFLRVFSTFR6R0FSOTFLMEFSUkpjZ2FtLTJrNTROZnNrTXRHUE1XMXp4c3RIVFk0c1JpaWJxSUhlSjhHR0dFX0Q2ZFFaemdsS1pCQUNSdFFtWC0wVDhFcW5WcnpQWm1ONVdHMFZfM084OG9rckFURmY5TkNnYk80cUVyWnk5Z2FxdE0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610200709.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3340679/campus-shift-plans-set-to-go-ahead": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NOG1HSWt3Z0ZsclNFNFFTQkpFV2xxOXpYUVRKc1p1TDVSNFhDMjdaMF9UQWFxVUJ5dnVLUXBUWHFZcXBlN1JwT0FZNjNFZWhXZ3JsUDkzUFdxbXp5Ul9MSHMtVWZwTkJzZUtxUTg3SGVkdlpoOFU5bWRqQ0xJdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUmd6NWlZZWw4N095Z2N4NW1JUkc3ekxxWGkxdTRaQUhjZmsyNm1zYVV2V3lERHVWVHZBd3hoX2pjamR5dmpKdmxOSHJvODBubWpPM1RXcWlra1k4elRCbUhIVEVCeGxRVzVQVTJIbG9kM29HYlA4WmRFZF9jSzJJNGdUWmlPX1I0WEg0eVJHanV1SEc5RGNFU3g5c2NDM2F1eG5TX1BrY0VmODZ1UkdvQlhDZ1o0ZXZIQXplVHZ2NjVpekNXZVVZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/hollywood-reporter-power-business-managers-michael-ullman-1236736743/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610200696.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUEVSWTJFam1kdG90aHNRMElQRUhrT3k3SWRFWGF0RjlPRV91V3RNampBS3dPRWNYTTNFU0V0T05Mc0R2c3l1dzdzemNPbUhNVGhkZFJuQXlhNk5RUERGd3NHSVlpQVlUVmlxOGVQMVI5bkU5djBJSUkxT09icTd6b3RDcFZ6OWppREZaYlc0TUtPVUQ1aGY3NDEwUWR5clV0eXRNc3ZBOS1HRTlFTUpRcXpuOWxzT0pSVk9BZXExdE1LbERIR2oyNQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-oct-21-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/oaxacas-first-afro-guelaguetza/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TdmlTVTNjRmNkdENGbDRxQjNmSVpXWmhyWFJ5QUQwV0o3aTI1T1JheWswWHQtR1FvY2l2OTRIa2xVV3M3dEJBczFlR0ZLSTBQOHF6Z0lR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/poland-parliament-eases-abortion-laws-ichallenge-conservative-president/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
