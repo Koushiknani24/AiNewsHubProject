@@ -185302,5 +185302,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/lifestyle/style/comedy-trio-please-dont-destroy-jcrew-suit-campaign-1236736846/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-21/catl-s-slower-profit-growth-fans-fears-for-china-battery-rivals": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE9ndjItVDFQMEl2YkljYzhKRjM4UzB0eDZ1cmN1Y2NzNVFiSlhqN0JGYllVNldPcE5xX21TeVJfbzM2RHNEamtybVd4NE1KT1lDOUl5NnFRc214c19McTFzdEtsQlY3QzZFdU5WalBoc0Vkdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-promises-cash-for-fraud-tips-as-he-awards-right-wing-youtuber": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-suspends-chicken-imports-brazil/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQblFEZ3V5S0pzQnRheE5XSnZQTFpuNkZUYTA3bGVDbWpKZlVtbzYwb2k4OXBsWWZYQlQ2VFcyemlNdVZnZUcxbkJQdS1Id0tXNjdmZXA0SGlDWlF6MGZqVUYyQU5QMTdtZnI4MThBUkp0QzNtX0huOTladnh1NHlNRjZJNXZkWVp4NjNiNTNyTElRbW9pOW5IY3ZEMUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/elon-musk-ukraine-spacex-starshield-trump-administration/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNGFqeDlmZzZwMGgzS3ZMZzR6cm5rYXRmSWRleE1OUFFISmdfaXRWcDc5YkF4YkFkNnNtcHJyZGZvSUd1RkFuc0YyRUNuMWhTODV4bjlySXdCeHprMDNyM3ZFSW1JSnZrNmt6SFJFRVV5SElrMkhUMlphT0RjZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/lance-oppenheim-bribed-robert-pattinson-zyn-star-primetime-1236736866/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHRvcG01NU1UTEh5NC1sS2hUdnJVU3BQVkRlUm45V3BFV2xmY0ZOMlFIaFNNSk51YTRDSERmSHJvSENkNWpWZ0RJTGVlNlhMaHBfZG9YMG8tY0lwTEdjM2lvTFk5VXlSOHpVNlZYRHFqT19MZVo3QVhXUjJleGd4R0JWSUJ1NURoVGNkdFB2RVp5MjJQTy1vdXpPQWJVNVdaaWh2UEM1WVpSeWZRRFZ6VjJxMVVOR2EzY2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObXRZbWVZdUxleU9WbFVQbWFKVjVlRjVPSEgxN19CVFBGZUZBa1U3enlWb3czYnpKTEsyZ2Y3eFpHMVNNMTlVYTlweW1wTnZJaVVNTENQUmc3WVFlVmtrN2RtNmlEZjZleGZoSTBFWFhKdGh0eHMxemU1VmdjbXJWOWRaS3pvS3FRLTQ0YkxBejJScU1qTUY0VjNNaUczOUlCSE9KSWZHYldaYkxfMVZwTnZqNnZUNVJHNjJmQ0o0bVJ4Q2tzOFV1cmdjODJvSEVBSDNNSg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNW1EUnJSandOdVBOdG9iMGFfeVBPVlBZNVltS2hCdDhYVkVfcVRpdzkzTUNTUElqNHU0VmpsSTF1UHZkZEJ6YTJmWDVGYXRzV1d5cUN3Z3R1MkNLVFJXRDV6WDlDeC1FWllOVEpCbFMzcFVTZENMbEo4aXpvbUNrNUhCc3JjcWc0STRWU0NKS2piWlZwdUl5dzBIUklad3V2NUxhVDlobTJCMGZ4MTl4eGZndEpEQWQxSjBQdExuSFdVbnlHT1ctTGRTN0VoeUZDaWk3emFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblk2SVc1OVJXSFVrRnM4RkpiRkJmNG8zejBUUFVBZnNTOGY0Szk0VTE2NHRRQjdvT0RQLW05R0ozWWdqSE1zdUVFZV9qZnJvWkNGbTlPYjZGVmRrYTdNTmdZX3VJc3F6cHgxSEtzUUVsdTdDYlZZYld4dG9kVjlkYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3340699/investors-await-data-centre-rules": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLXFDZVBUSVZ1Q19OVkNKX3hER3U1S0FiSlpPblRpcERxbUl6VjVySG1VMzVvUkgwMERNUml2Y0lpbS11cThkV202b0pHQkRWNXlBbTRGeEJ0eWVUWjh6SFNvLU5rRkx3dEdvSURFSE5leVBlMzdfb1dVVG1GMkJPOHZxR25yczJpQjFzdW51aUs0VmhoWW1pakl5cmFTanVrdG1pUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhZ3paV05hUlBldlRWTjFZUU9Ebi1ORE43OEM1NDktd2tFR0tqaTlnRlFJQVRkNFFLcTJGVU1OT0lCRUZRZ2NXYTdaVHRrWWQwU1BiS2tuNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3RnWTBvVWZxc1NCM0t0c0ZZcVREQWVsNElQWXpNdkNNWDdMTjFENWI4Wk1BRUxRMFo4Vmh6cmQzLUk3U2tRWkJmcUZLVFlla0lPNmZLeW5VY0hBS1YzQ3MzZEg4WnFYYTlWQzZjQUw0U19kRVhWLS0xaUhsalJGTDN3QmVWOXpvelJGU1BicEJQM1hZVnUyTFBGS2xLSmZsNVV1b1k3UldwUFc3SnEwYVR2LW05SFNPLUxmWl9QQWVDU0JieU9rUHA2aw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ub0NIcjdmSG8xUHU2THBSX2ZKZ3VnX1U0RTkxaTItWDFzVGpmYVRyb25SQTJndEY0em9SZnZidWRibXRKM01tTndLeWtmbDYxdjkxR2JFYThwVW01STh1c0pLNERJQV9TR0tLVDNR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02cEVHbWQ0c21MLWFiVkg1dG02d2o1U2ZxWm45YTBLNzU5UFhSMVFzNS1xcy04SF92UXk1VThDNEpBTk01Q2p5bnBScUtNUVVyQzZKRTFudFJVVlk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTk1wVEMzOGhOSXR6R1BfUWhUVTBhbEZadk1SbDRXOUtweUtXVWNXQ1VOR0lkNVlSNWxiNDRBVWVnT2dNVW83R1dvYy1JdmszYUNGZ3gxN2ZDSm9BZkZFbFE2Um0tOEF2YlNtUTFmVVFoQ3k2bG9WeldJZUkzV2dkTlNFQ0ZlQ1pOcmNhTThjN1A4VVRTbVhlSVBNTUpDQzg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3340689/high-prices-create-multiple-crises": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
