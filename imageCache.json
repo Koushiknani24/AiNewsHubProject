@@ -186400,5 +186400,119 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/22/teslas-profit-drops-as-it-explores-a-possible-merger-with-musks-other-public-company-space": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/22/latest-news-bulletin-october-22nd-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-22/meta-gains-on-results-new-stock-class-to-fund-ai-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610220082.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWNFNGhkNmNLdmNHYjRIcXJFV0ZjYWFYVHJyMnpvd01tUk10Z3RyZmgtbU44S1JjTHJMRmtSUG9jQ2VNVWRzeDU5S3B0ZURmSnpobkN0b1hPRmhNYjdsRS1mYVZyTE9GUFVpbTFHX0d6TDdMQlJSTkgzeHZ3M2R3djBldW84OWF2OHJUZDMtbUhQRUxKVXFWOUZKbnV4M2dPSElXVmwxd1hxamNEMXhIYVJMVkl1WXZxanUxZXpuMUxzRlVjRFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWmlfQ1hBVlVBX1JjQ0xkR25hSVA2UU93UmRvRVVKelJucUNHRDZUcUhtWXg1OGxMSkd4a18zZEMzU3RwZy1YdkNSV3dZS1c3ekV4X0xIUXZNVmUtNEUwMkF2eE9Va3lHRGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjJ1a2RDb2hVeTlkcVFmSUZ1TGcwR2RreGZNOGlrSmd3ZmRIVWFJeVR6dVVUV1cwdURKTXFvRUFKMUs0alprUExzMklvbDNLMUk3U0dPbThJeHRmdG9nc0g2b1hzTFhNUW5RbTdISndmQzJpZjhpbjd0bklkczFRTENLTGc2b2g0VnVBVzVXUDU4MnpyYWJz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOUxjeHlhT0E5UkJPUkpSdVhVaFRyU2MyRlo0Nzd1LU15eTZnaEtCQU1hQWo5Ml9QSHpaNUtxeklEVDNQZy1TUFVEa1lyM21HYXNYcWRLTXJtdFB2U05tVjU0c18yQkhfeUI0Y0l6bmxJbTZuUk0xTHlmaVRFcHl6aVhuM3M1Wmlmc3hvRGI4bHI0RlE3bk1pOWNMREJPc3NISXNQX2U3SGZka0NNWGZ4Z1kxb3ROUEFYVGdUVmgzbXRnazRpbG1kQUhWMVpTU3F6Y2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/life/tech/3341568/world-wide-web-worry-php-drama-explained": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWxMdm5YVFNLR1NaMVluNUZPSmNUcFl1YzN4VnJuR1MxUkFfNEFnSzhTdlY0QWdkMWdmd2FCS0ZIcFg4UnJ2M000a3JFUDhBdTRLcjcxVnZDRXlTUUhUSzFlRDdRVkVHNXdXbG13dGRkQmhXYnJkWlV6UmdxaklVVm1lNENuRHNnbDJHMkFZWUxfVng1WjBSb09LUlg3Slk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-country/zac-brown-dolly-parton-duet-butterfly-tribute-concert-1235646266/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/22/canada-unveils-62bn-plan-to-shield-manufacturers-as-trump-trade-tariffs-bite": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNbVlaQ21sQzdMLUdIdU9pV1hQeGxXN2l0Z01Cc1F5YkoyZG94TFp4aFdXYmpQRGZJdnJfSWV1eHV2c1pxa2JuT3NiRmtBWDNKWXpuUW1jNWNHQ1NRQ1dTMmZjQ1U5ZWhGOHRnSjl6ZDBkQWlUenpkUk4xOHd3NzdWcDdBR21leUdydm5hSlpUb1JJZGtuVm5CZ0h2MnltQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNzdNTVNkd04tWHRIWm9RRXlrRnpYbGJCNW04dHFLdlVyVXA2a1FLYWlkbG53NEJVQXluMy1LOENDLXBNNjMtMWNnTFAtVHJaSlNJRWxzM2JvOFphZ2V0eXN2Y1cwemNmWkE5TmdzU3pidXZUT011THp2RnFERjFyYjRjamVaMVE1bVp6VnpoZ3A0c25za2RpWTF3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTGE3MTE3M3pGMGRtTzM2d0IwWmJNOWw1a3EtbndQaXYxTjU1c0dvTEhyMF9uQndMa0N3aWxtZlNVRmd6UkVFNzkyN3JYSW1XUkpEZGtickZYcUpJUERiNnQxN0xueUZFRWNTU0lPSURDR3hWTkExWEdzaHA5T3BXQ2hRbWltUmVaMk8tVjNkWUhTazItUmU0a2VxUDY5cmtwSHBfSVJ4MHhkRk3SAbABQVVfeXFMUDl4YlhYTFduaVVvZUdQTWpUWVMyU3Y2Rm5mOTlIai0xYjBfZGFBSE5QMTlhYlZNcVVodVg3d0ltQ2xnQmFRUGhvTUtMRWRfcmZvM3Vxc1lqZ0pXQV9HbUdaV2tZMEZMT0hXRzBCZnVvbDdlZW1UeEExdWllS090X2wzRjVYYzFSZUlwclQtelJuS29DTVN3OWpqSzdrYnBLLVFYSUt4azRzU2J3YmluRDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc001NkF6U1FvZEhQd0lYSVJpajk5M1pOTVJYanlPZ3JVWExIZHllanpoSm1VSElma091UTZoLUxxbUQzZ3lacnVoMkl0S3I5aVRkb1dLMGRCLWFReEE5cC1CTWdvNEE3UnR3TmZqQkY5alMwZm9UWGZ1V19iVEdNWTlYMWdBb01ZWFJTZ0E5Qk5mMWxFQWtMVVBjVFk2ZTBXZ3F4X3ZoaC14RHRvcmfSAbMBQVVfeXFMTVJuMnR4b2xkcmVMR3VlYVExcWJMQ1U2bkUteENvMWowWlZYY1NaUHd6bXgyenc0MmdXSG5jZWozSGlTTVNzMldvUlU2TjU0Sm5zb1NHSXBUTmlicGN6aHY5SlRSMXdRcDJHYjgtSWk4YzFuOGJFc3U3MW4xSzJ5MG1lbGVqWEdRVmZaa29UN0x3WUFTSXRxYXoyRkhreEw2R2lkalBRdnpkZVJpRmVNd2tnazQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610220074.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
