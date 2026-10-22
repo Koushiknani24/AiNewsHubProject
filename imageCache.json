@@ -187054,5 +187054,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVZjMEs5TnVVLV9fbWdvTXFleWRMSkNkdUh4Tm0tTkRiVVlySndBS0kzdy1vdnJxbVJOMUxsM0JjbkNPeHFjaW12LWptdmNHcU5wSktCYUFFQVIwOEFEcjJGZ2pJbjdQY0dGM1JJeFRpWlp0cHUxTFpob0VxR1ZNT01zeXJCUllsaV9xRi1MTTY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/mexican-peso-dollar-weakened-year-low-rate-gap-narrows/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVER1akczLW1RQzRXMHZPeFplaEtfcm9tanZaQk1oaTFPYnhqT2xpX0QzclpHU1gzMFNXbzQ2MFRvSkgyZExHLW5Zd2s5NlBHMGYyYXhLN0NNSE5yTy1vbk9rU002S0FtZUE1dk5sYzRWWFBKU08tWlNJN1pUd3Njal9pdFJLZGpaYTk2bnBVYUxXUXFH?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/baja-man-takes-his-blender-to-cfe-offices-a-uses-their-electricity-as-protest/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcC0zNVFyTmU4UWEzSlVHUXl0QklLNDRrMG5qMFY1dEVPcXdyaEJ2WVE2SGlCNWpmcTF4akNUR2NtcTJVZXA5c1ZILUMxR1NmMTZxLTZyM0R6YU1TR2xaSjFyLXN5TkozTXNuZWc3ZkZUdE9RQnRGSkxBR00xWHVVenFnajNOLWxWSUxxQVItMjgxbzFxc0tYdGlMeXkxZG1XMXpJOG9qWkMzZG01TVhmQkY3N2Zoc0QwclI4STgtUHNBMkJUOTJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmRkRENiZXN3VmVGclI4TEFndUE5cm9oVFg4em5uNTdPVkdPTFpwSkVUMklOMk5XYTBXSWc2LTc5azh1R2pPMVZMZnBkZzBtX3lUMFZLeFFna1RPZzBfWF9TVE9KTWFNMnpPQ0VuaFlmT3RKQ2FhZi1vcGJlLWVYYkVHM1h4M1dtVzdVTnlOYmFrR05HdEw4ZzBDRnlBNkEtLWdnMGR1X2xRVDRvWGxYWC1iYTd4NjNQdmtN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVhGN3YxS2szQWtDQkJ6Sml6VFdTMFdtZjN0THBrLUpRTnY1Q1c5QnFjcjdZMUZ1eEE4c1gydC1TLWxEUFRvLTNkOGx1R1NOcHVxV1JoRVpqeXNMT0hqczFLSzQ5SnFJYTh3OWM1YWhWSGpPZTE5Um41alRzZVozbEdQZG5PeTNWLWVDV3pmX3Z3UG4xMFZLTURmd29jajFBaXdmMDZMejFmWXNpdUo5SllSRG9KdUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd19fS1N5MG9ScWZka1NXVEM3S1NoUlBSTURnR09nR3Y5SGIxRFFpRktHNHZXeElmbzFPcTBkMUdNNXE5MG01aWhRVmhKSTVGZVcwZVBNRWxHTGxQc1JpQWZBRnBLNTVPWkoyRnFIZkxSTnI0SktYRGQ5dlh2aWxhSWhOVVlMVjktd1hHak1PV19HbXpyNS0waGRfVXXSAaIBQVVfeXFMUGJ0OE81VjRRZ1dhN1gtLVd2d2szU19XZzRNREJQdWV6OG1mRUhtQ0JTWXZYc3Jqa0FOdkFoWTF3b19JMEx3YW9XYkJRbXRlVHkxcWpPbWx3bVVydFBySV9yMW9tVFZRVWljYUNXeEEwNXMzSWJmeEdwdTZwaHh6VG52alZDQ3dmcU5NTXE4MWk1V0w4ZHMzX2FkNXUydndhTktR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/22/catholic-bishops-pray-over-trump-in-the-oval-office": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-22/what-a-35-hour-train-ride-reveals-about-vietnam-s-future-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2V2WDFWZ3NTOW1YWjdtUjFKekI4WFM5cTVtSXNDR3M5M1RXaHNJd2w1R0lDZjQ3TE9objBCeEZkSFFWR0FxUVRKalFUTUluNmlzRWpYM2xURkJGeFRlVWpNeUszVmtaOXBXWGhzRXNucm1NR0ZoUXgtV2o0bU5RV3RYVzRhQ0wtYXhSVjhLNmFxa0E0Y24xcGtHX2tIUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3341874/thailand-ready-for-takeoff-as-minister-unveils-solar-subsidies": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/sheinbaum-59-million-liters-seized-in-guanajuato-fuel-bust-were-not-stolen/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/use-mfa-patch-beware-of-scammers-5-ways-to-keep-safe-online-in-the-wake-of-ai-supercharged-hacking": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMDFfM3Ffbjl0ODd6dlV3bnBEOFFaWnBCcDJkS1hhWHVzWGNKemh2Tk9ORklwT2lkNC1XZC1mWk1aQUk0WUszZ3k1UEJzYmJRbkh0dnJaSlZnbXphVnB5LXhsX3dfNllrY2hNcHVYaGt4YnBuRTY3MEtEbU9KdWZ1VjRLTlE3MmNtbi10cVpyTW1fSkt2STJVdzlVM1JMRllqZW5ZY25UMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
