@@ -186298,5 +186298,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-22/ai-boom-likely-to-cushion-asia-despite-earnings-woes-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/stephen-hubbard-freed-american-russia-son-interview/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/us-and-israel-draw-up-plans-for-renewed-strikes-on-iran-after-american-elections-sources": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexican-senate-passes-bill-limit-often-prohibit-cash-payments/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGJudG1DQWZkbW9wSU1LOEVjanhmVC1fVnVGZlNMdWkycjNKd0tlbnozR2pwa1ZLbDF5XzY5Nm41WHFwQVZCN2I4Vkl0bFoyZXFQSDdTTzBMOUNrdHRSQUNZU2tpOUxfVDZtOFh3cjZ2SDh5ek5yT0EwT09Wdm1KQmFFU0NJYnZKcmJpeG0wV1ROU28?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGVNMVlDQzNSYndVWUhJdU9nYzdybTh0cWZtWnZWTHdGQ1NBMkZqZmpiRE9OYnVfdmRQZ1M0NmlNVV9pWU82VlZ5amQ5YWI1V1NNSC1XT3A2LUFJUlEyMjE4QW9yVFdnODNVLWNBZVp1VThVVlBWRi0tT3BfUXdFRXBPY0dHQlNuZWo0Wlp4Y1BaTHlRV0N6RUVSTDlZc2hrVjJzbVI4QjhEb0ZzRE5RUWZmczljUdIBuwFBVV95cUxPMkw4UUhFdGVGVXBMak43ZEZueG4wMjQ4MHJvYzVLY2NfLXdUM0ZLUmVjVUw4S2xlWW0wUlUwd0laemx2TGcwTWNNbzJ0eTFtTURUdjBvTTFRUFJtbGowS01SOGRTVjlBSDFNaGhoVHE2X0RubkRLWHU5MVNFVkR6YnlJdTktcTlyaUFoaXdDakp0WGtEdW9mc0JRYklQaWc3VVhRMFVNbmoyV1ZpamMyQU10SDQyal9ORnlN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0VBWndNNXJUZDVZeTBTZEFpaHZfTzhlYjNwaFhpMDh5TmdvV3NOUnZrVkNuR0JMR2ZBV0UxRWtENHF4WU51WGlpaDdTenBfcmo3aGxZUGVWdDdTUXhzRC13MUQ3bmVfRXF1LWkxNFZmeFRkRXVWUXh6R2U4cm9RY1dhMDRNMXZscWlUS2pleWc5TFRQMFhjeTktYXhVQm92N2JESkVFUUl4dGE3SWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2FJWTlyQXFoRWh5ZnlfTnVOeDlDb0J3ejVCOWhNc0xXSXFLS2lGUlZ5cVI1NGFuWHpvQ1ZiTnkwV2luSHRpYjNuR1NWSlVnTmxuTzFwYWJ3NUVPeWYxVDNNZkdVX2xGZVJja0Z2LUY3STh4X1dnMXJfTjVad3FIbDFUM3dqc1hBcDBBN0JHazhuWVR6NE41ZnZTaFp2QVZhWEpDa1pIZHZaSlZHbjBKU0FMUWRSRklK?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLU1lQzBhTkEtVkk3THFjRnNoYmtUUXp4VkJDYV8tSi1ROUlSbmx0eXVXRzBleG91UXV3Q3dzemN6dGp0cEZxVGNhTjQ1LTlBZ3RoWktXTXpxSzA4bWdJOUxhcjdXaTB2aXZwMWVHdnRuc3lkV01ET2pGSE0zNGt3MjZWVlNxS2J0Y21YRHlxbWEwLWp4cFNJTy1XdFlTYkh4RW0xcG9YYjRiT0k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRzk3MWMwYXRTcmR5OXhkbGlEVld2NHhLRXBPUThHRXJ5WUl2NjZSaHhSQXNsemptWGdMelRHcEJnZFd6ekhKS2pzd2F6R19USURXbHFHQkEyWFEzS2QxQ1lKd052ZWctaG81Z2VTUGwwNzd5NVpxOC1YY0VWQ3h1cVJPcjcwZUJ1UUJQTndUcU9PWHdSaDZfMGR4TlZGSGlZWElJYktXRWJDMTlGVkNNa0dVclAzM0tmY0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2dnbDBXb3JHVFM2dEU5UmFRTUtXS2J1WGl4OVB3dzJQOEFMX2g0aDRaa3dhckFLV0VyellqSV9pclUxTHhxZzc0cThOai1PMkhLbW1hX1ktdGV5U2ZzcjY4VzNtMlRRMFNkTTUwRVhSZTZlcVhTT0lfVWJrc2lwSTlXSWg1UDFYcVVPdTJkc2lRT201Ui0wREMtZzljcXpqWFNBcFdkb0cxMTZpcldSMklmRXBVQmhmck5z?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX0FmaTVvNko4NHdPa0szQ3ktc0xDSVVzUFRPQTFzLWxrMGc2S0xJXzVCN3pTWUp5RFdkeVZaWGZLNDg4SzlWeEVlMGU3SjZ6bHhGNFFSLS1yM3d0LVctRDI2cEFrMnlHekdJdHJrZ3dqZnYxNlNmdEg2UnZha1RWdWJpM080TEtsaERFSmZjbnJ4RzlocmljNGZXa1VEV0Z2?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
