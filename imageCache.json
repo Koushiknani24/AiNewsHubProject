@@ -186832,5 +186832,227 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/22/portuguese-and-spanish-unions-in-talks-over-iberian-general-strike": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-yaga-crave-amc-series-streaming-online-free-1236736766/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/streaming/how-to-watch-the-celebrity-traitors-uk-season-2-in-us-stream-1235635442/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-22/closed-college-campus-in-boston-suburb-to-sell-for-21m-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-22/ex-goldman-banker-s-missouri-firm-fuels-rise-in-fintechs-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-10-22/anthropic-openai-musk-pledge-donations-amid-ai-backlash": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/22/china-panic-as-70-magnitude-earthquake-rocks-tibet": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnJmRlkzTFdxUDJHdTBIc0JYS0lRZkx3dDgzUWpKQjhjTHNyWEh1R21ZN3o1bVJxT2lWLUhyY2xVdXdqSUNzbmlWYmt3QjNEU3k2S2pBWjRjNmdRc1B0RzlXRGJBN2QzelJBN0pBZFZVaFRjb2c3Tl9CRG15UmhDcmZ1d3pORS1tTnhyVVVkaUdaYmxwX2dPZzVxTFQxUVc3RktNZ1JOSXFlazdPX1hLWDRfV25Ra03SAbwBQVVfeXFMTTBFRTd5NXRBTTBfNXc2Wi04eXBsckcxQUVGSUVPOVlzTlVOcmRQSERjYllCWHlxNFd0UDAteUpnUk02Vlc4QnU0a3R1ZDdrVmdzLVlhOHk3ZXBuYnhGOXZWMzJja3pxUnpmOVUwNG0wZnM2Ym5PZzhlQk1MdG5SaG1aa3BQSFVwSEJzQ2p5Z3Y0STBqRHpCQkdBOVdlSVhiTlNTVk4zdUFZbGk2cnkyWHE1WDJ6VVA4bUVEem8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlllVl9NbHlOcVN1aVZpMWxPTVZWWVhvN0Q2aTJrMTFPLS1hX2JTQjh6VF9nQ0lkUkJ3QVVyOS1ZRFNCUkxGTFFqYjhLaWdWOG5RWEdpdm1kMFdFR25BSF9zWHdyMERZTHI1XzM2M0RVck9RY0R4Ukt5YTY3Qkc4TWtINEx1ZXNnbkdHdm8zSkRlTlhCYXh6Ty16OUZpVkppRkJmWDB3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaG9zRmktUEZMSHdNcnRSUWp6NmJRYk1tQzhySnpxWW8zVlNkNWFLeDRCSnJxajNPR0RDUUdUYUJWa0R3UnVDeEpleGlMYXdES0JJaFRWbWQ4el9FTWJEUlBUQzRZUHlkdkVpMnVwSjNJQXBDVXhSQVZVQmdzZGxLcHh2cndTT1RGZUVVbVRqVFlIemdTVXEweGNR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVUlRQ0FvZXdOWnVOZnF0UFByVlN0emw0ZmFsdUxOSGRSY3JUSVczOG4wSWVCdWEwaVp5d3RrT3psNmJUb1lNQU5zODdYdmNUOXpuRU5FSWdHX1BKZ2NiOUFIR21fZ2lyUTJrNjMxd3VZVW51dS1Fa3d0M21PeDVxOXdMVnhycnFVNGxsV2NlN0w2UkE1X054cTQtNndqc2hGNFo4dGxhdTRpc2I4QTRMUExLQ0hxS2k0WW93M1YtaUhOWTV2Ul83OFpzVkRYQk1PUlVkcW1TRU9sYlg1dl9LSg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQakVoQndpQnI5QjMwSWtVdk1pR21ral9zeHBmRk9kT1J2UHNvUWhUelhGSVljdUxma3RzMFllb0ZZU093RlNmanE3SEhnb2lyTWtrTXhXMHBEYmJpbFdDcnAyUDhadmhXSkZTcFc0Y1hybHlYc3ZNWWYtSkpHbC05S0pscnM5ZDBvT0ZvbEMtVzFmOFF3MFdzcGloQVFuQlNyOVBwX3ByTUd1d9IBrwFBVV95cUxPODBWTmZ1SHpVaklDM3NMRmpKQlVQZ2cydTJ6czZOUkMzU0xhM2RZbU5GbERPN2xlbnltYnJtdTlWakFnRUJYYWNjWmU5ZHlJRTNXZ1JURjZwSDQwMWRENTNHZEVvWlh1YkJybVBqQ0JURVZaRWx2T3hucUx5RkxRTWg0Ml9Hcy0zLWJ0YzQzUmJjUExCWDc5Y0p1ellYdUhlY0twV3IxYm80Y3pLQnFN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUw5aDNFOXhGaTNETlYtbU9oNDBRSGl6QW8tU09QWGx1b0U0d2ZLQVdvMWp5STVyTXlMd3ZkQmZQU0x0RGNIeEhvSlc3S0ZpRlh3TE8yNndFWmRGLVhySWhMa3NPdkVnZWtqaEYzTjZzUXlkWGs2SFB1SUZGTXVxS1lxRENqdk1EWlJSck5QXzVhaW5UdGdoV3ZHNjE5Z2U1SGJlUE5XTjZIMW5oX3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/external-evaluators-find-flaws-in-openais-ai-monitoring-system-in-pilot-review": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1saDFuT2F3bEpyOE0tOWluNXBPSHJkVVB0bEN4S0puZW9heVY3NHl3LVJnMlFDTkNxaUZ4YkZWUUdiel95d05tM2tOSVJya0NKcWp6SjQzbUpWTlg4WnBiSFIwUEItdGVydlBqbG1JMU5uT0l4OEZHVA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdV91djR3cXpjRU83ZGllUHpVd1cwSm5jOVFfN0tBTEpwUXVBUTkySnQ5TGZ3SFdzdGVWa0ZDMU95UVdqc0VrZ25Pb3Q3YklmUjZnNzItd0lqTmJKVWxlUWY5TnZtRDAtV0h2TmxUTEptVDMtbk0yQXBlNW1oeXVUN1d4X3ZrUVdhaHRWSTFfV2tRM0h1ZTBr0gGcAUFVX3lxTE1FMjU0NTRZeU93YWRhNmNVRmY2ek90VWUwLUJYRkRteERZREp5ZHVVUEp0X0FUNTU3bDJRYlFDSjA5dlp5aWVVZkxhU0h4Z2FtYnpPblc2TC1HaEhXX1FWNGN1dXVhTlNoU3RkR2NPN1B2aU5DTTZqbi0weXZKNjYzMXdmS0w0ZGt6RGhnSkQ5czBZVnNra09HZ1RTaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmlIc284Wkg4X2ZlbDBpMXl4SjkxUmd5ZUZkSGxLenA1THlXSmFiRWNoX0VYeVI5WkxqNFAtbGNUZmFfVmxDZDFaYVVJX2pvczlPM1lIeFBOcmkzZ2d0LWNoQlNQUHp4R19HWlBzREY2X0lfX2xlbDdETjVzX2JDbUNtREREbENSRzlyM051U3o3V1Q3UDhrNW96UnA0YUZpTTBaenVB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmlOekRuNlVGTnFXLWloTzhnMkJqZnlrcl9SYkxLTXpaNHJIcU5CT3pzR2J6eTBjdWNpMExJTC14WGJFSmFBWUFaQl9zaTZpSm1IY2JETnBkU0kxdnNOT0pmQVJPUjZtZUdtZ3BjcjMyYnQtb0xJOUQ5TzJaazlaRFVlSFpZZ1FOcTFDYUxBMHlyVGEzTDc0U1NIOHZNaF9zdE1GQTlTY05FaHRxSGJmenlR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbTdFSzllekZHa05sQ3gwTzVURW5qZC10dVl4NE9HbFdwTTNaMi1ldkxGTWswRnZlM18yU2Z6ZmdUMlYwQ19oQnItMlRHX1Q1cFNyMDFaVm1XZTduaHA2azEwY0ZicTgtUjgtLWhjNVpISlduekFXbXg4SkJoZGJkV1l3T3huakZldUtPSURCU3J6dUxTSnVJQnRkTlRHNERLOHJfZ01IcVBhNVA0MmM2WHdObDE5NTFtNHJmZ1d3dktFbWZValNSUFo3RUxMYjBBTzNmTnZIZDI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOempNV3pwUlJ5ZlhBMFJuWWZ4NDJrdjlfWkJ0aUxITktFNlRGcVJmVzI4Q0RNNUpROHM4R1M0X3lsempyem1QR2JkSGtsRHAxdFNTdWtpdjhwOFczajhPYWt2UzFBNzRfamRCM2NSWDJQUmVvR3BjcWFBRXFmYWZVSUg4UF9lcm84LWQ4TGcyZEhJY1ZMSjhDQkxsa09zaXVocUhlV1pPSkloam05UnJtSFFSUi1GYm5F0gG_AUFVX3lxTE5ZeDlaT0stLXo1NXR3eW1TbTBYQlZUbGt1a001SWJFclY2dE5PODRmOEJ0TlJBck1wSkhmUzF0bWJ0YUhYYlpid0xrbkYySU5nTkFkVHRtOVhseXNaNU5VWkxQQ3NGU1c2MXZBNVRSZkRJXzBna2dLb3RreUtTZ0lzU1hPX1FkNmcwdDBBMDFSc0dLTG5Hcjh3ZDBoU2ZNSjZHSW1sYzRxWFdPMmVCSU1GS2w2cEg2R2U1NXRSdlBr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaTZ3VmJlSEZpOEpEd1NObnRzRkVqUGdSTzhDdWh5bkFGelJiZ1ZxcHpucVRXZVZLWTZhY3FWUEVUU0ZzU3RMakl1R1JvSHlBVVkzRjZoemxlUVZhTWZVQzk0eU81WnJfZXZTZDFQZUFKOF9odmtadEI2LUJmU1Vyak5xMVFDZUFwUmdhTG5oMWtBNjRZSlkxWnFzaE4xVWJKYndKNnkwVHhmQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/giorgia-melonu-italy-naples-trucker-blockades-southern-italy-ramp-up-pressure/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/monets-iris-fetches-eu50-million-at-paris-auction": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFJmM1RFWnBTMVR5SjVWS0d0MWRUWDlzbjZYaWNJLVRVbmdXcmY1WjVZS0o0LW1nU2x4VTVITmNPS2s1QlRiWFBwR25CWllaRFRlZm1teEdzMjlrOUI3N09CNUVGNnFjTEZ0ZkxtN0JBMWJ4NTRmX016ZFpMdklXRnBIMUdLTDE2MFFQeHJnNjAyNDVDblE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYVpnbkVCWXFKNnl1U0ZiVXNGRGdkNnhqV01IZEJDQ1BNaXdFRHNCbzM3THIwLUFtdWI2Y1dKSG4ySzVaeGE2czBON1g2MjN5YWgyXzVzOUtkY0tBbFpEOWs3WWdxbWJUT3lHMzRlOHlLRnBKa3g5V2Jyb3BNdVEwWFV2ZEhERHNVUFBtU0pnbmp0VXp0QWlXZnhDV3lmNkcwb1N6Q2tpMlVtMU5wODQyNEhTMktzeGtKVjR1QW54MGhtdGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTQ4MVRuRUM5bWxOWFpiZzBvWkJRLV9heFFpZVlBWlRBZnlYaUNhUXNLVVV6Zk1DTGgtSGRGSDNDRGQ4TTA5VEdiOXhJV0Y4MlBhR19rLVMwaGFQWVZPR2p2dEhQT2l2QU5hZWtnOFk2VTBfaDcydXFTUTFrLWdlSThvNVN3Z0taQnRPVi05MVcwM1JVVC0xWUNISzh1QTMx?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/india/cabinet-secy-flags-interference-risk-in-letters-from-two-ecs/articleshow/135126826.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZDlhejJLWUFyU3M0M3JSYVVRQlVraGRYTXNkS2dZV1NGaHFNNFZnV2JqLWE3ZlpYUlNnSGJNTlBNZXJoN1p0ZFVTYS1qWl9kWFJ3T0w5RmZsZjFYMjZnOTZXLU9fQmItSlhsVXVXdnB3cWFJbHRSM3I0MVVjQjFVQ2hPVks1U2Z2ejdMWHk0MVVxWFA2WEFOYWN0a0dYTi1OcmxvaXgycGtIUzFFbWIyWUJIQVBUZXUzbU40WGV1aFJuU1AxV1dxRElkT01GZGd0cXdPM05qWmw5dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDVTYThmX3RmY2M5YnNvRDZZQmxjTzJ3bE1teG9NMkNWOGpmZ2R1ZHllOG9pbUFEU0JKN2xLcmY3ZWFlY0RoLURYeno4aTk4RHllSTQwZWFsMHFkdzF2ZVh0eV9ZNnNacU1zdFNOQUlVNC14V3lLTWNLTjdCODlYRGdn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbzBFay0xR1ZCQkF4NExzVVM0c1lnVFktWnY3WFNWVTdDaU9DV1l2WHFCNWVpdzBDQzJMZndKeG5aLWNIZy1oQ1htMVEyUjItZVk4QmNXSjdfUmhpbFBkNHhjS0R6Q3lTSVlSVklyWExHQ3pwV3Z5WEhQVVZGNFdjTXptVUswMTlXTjhSSExvcWRTcWRhMjBKZWJZS0V3TmVSX2kxWlVQUWVPZ3VzanpyblRxTDZQcENiNTFXS1hENlBMMEtLZURCdVhneDBBZ1JLMk1tSWZxbEZxOEl2RFF2MjJrZ2N1UHJncWp1Y2ZUa05JaDhZS2wxZXgwZkFhUG1FelZrMFlCYzQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
