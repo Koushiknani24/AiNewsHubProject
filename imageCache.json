@@ -187180,5 +187180,89 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-at1-bonds-why-the-supreme-court-reversed-the-8415-crore-write-down/videoshow/135131450.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/brand-studio/10-local-chinese-arts-and-culture-events-catch-year-end-6423746": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKTHllRmR5Q2VWVGNRejNXY2NzbHNkRzgya2pfTERLRmpnN0F5cTI1U0NYdHVFYm1WODViUE1RSDBib1BPbExMSFZzeGhVVE0wRUFRVE1sX3FQbmo2Q3BELXU2REEzdG00RjhSZzJiT05sSDVqcVAzUnU2OF83Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/us-homeland-security-gets-go-ahead-test-heat-ray-for-possible-border-use/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWdpN3pVVTM0bU5BSzNNN1NSNjEwVHE0QW5rYjdLM3JRZmR5anhMZDJyU1NtUy1BX0lNNGpuWUdpajM5M2xyQ0VBZWRHbURMTTc3bUw2RjdDZmk0TU1MWFBncnV0Q2dVbnI5OWFoTDdNOWJsTG80SDlxMFpkN0lNQVNxWWI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObGRieG5nVmhvd1IxTUpoa0lYVmNMUk5nSmZoYkVxQktmRFd0WlVyRVZBQVY1c1Z5bm9qenFqdlJGcy1wcEpTTU1HR3lUNHh2Qi1rVHBLMGNJMzJtWC10UHd5UWFCY3FjWWh1NThySFNDT1Q5cmotZ1ExcW8tVTQ3dHhsSHBqYy1LU1FPdVMxZjE2OGx1WTcwSFgyMGcyalJUZlNGc3dkMEh1MFlaZ19sQnlGQ2I0Q0gycnhrTUR6ZHExS0piUndnaVpHMkpxcl9GeGh1XzVac2JfZlRXcFhJUUQ2SkN2NW9NRkdZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3342129/bot-seeks-feedback-on-thb-stablecoins": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-23/yen-hits-one-month-high-as-us-tech-rout-revives-haven-appeal": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMlVHOVFUNVJGcWlXMF9pNVd3OUJlZlFvNHpnT1lXR3BZaWI2VkpoTllDZXlxSWRvTmNCUFJsQnVuRG90WFkwaGJZbG9HSUc4ZkZWSnZxdjdHaHdnY3p0djZJMVlGM21YajRfb2dCS1hzb19uNTZGTmV2c21xTEhMMzhTa2RuVXRVX24zVVBURVZsSTJ0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOODZETmU5RVktdFA3eDlTa1p1Qk13VmdhZzVrTks3T05zMEdsRUI0bDhwdjlFWVE2U0ZPYTZSZXpJS3Y3MzJfTF9MbkJOZExJX0dMbHJ0ZjFLWlVJYVg4OXJuY0JFcHBtZF9jZDhNSXdhVDVHQndnOXM2Z1NlTHFYY2lOclNOQ3M3R0VmQngtVjNKTzl6akNVdE85MjA2bDEwemZKQVlxZWVlQ1E5ZXFFRW1uQzB6ZU5JOTFBUzM4bjM4RHVyc0lDTC1PTzhHZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/23/rare-unrest-flares-in-tunisian-capital-as-police-clash-with-protesters?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
