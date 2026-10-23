@@ -187360,5 +187360,185 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-latin/headline-voto-latino-get-your-vote-out-event-texas-senate-race-1235646223/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNc0s0YTFvMUVGOTZsQTBGQ2xGQkNJNmZrZVlXOXpMTTV4VDFZQnF5LTBOVHpXMVI1cmI4QmhFNTVudnpRVDVUbldkZEZmeXl3MHI4aU1UaXVvbHNEdHhvbmNweVQ5TWdjaWRPQWpZLXJIYk5RTlHSAXtBVV95cUxPN0Q0eEc2UXVTTmwxcTZsY05HeEdKN0U1dDc1S1YxWmxZOXJlSm1NVVZDU3MxcXFKNlduX3NxckhxZ1puVlE1d09SZk4zSGhVcG9xNFhBb1d6Skd4NlZSdDZ5Y1I2NkxEXzJuUmxUMThNX3haWnlIeUZQQ0k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSC0wYW5HYncxemhwQ25VNUwxNThkZ0dWWVY2SEZVZUxQSlRvTS0yVGYyRHhweGdUUllJU2hGU1cwZ3A4bUw4YkdnNjdEblpnekJwVUM5aFYzZkhVSDVFZHRSUTdSRDc0VTZXc3o3eDVVRDBTaUtwcTZ2S09KcTVqQ3NiZElGWEtWaE52bkw3ZHNDM1NBODRWX1NId3FJQW1leG95NWJPdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-23/barilla-paid-750-million-for-goodles-in-an-all-cash-deal": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/thomas-markle-father-duchess-meghan-child-sexual-abuse-material/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-prosecutor-probes-epp-consultant-contracts/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610230352.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NWURXcjJZZnlFTXRkQTdKaXR0M3VEMGZEVE9LV3BBaWNscnJxeDF4V1VVQ2M0dGxleWhpMnoyQjd2WTJ6RkU1d2lBamVONlNoaVlWcnhB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYUl1T1RjeXNMRmE0NF9heXdzMGxnWkZkdmxaeHR0U0dzaUJId1FrODlTZUpfbm5JdHFUa1l3cHMxdmxoS2RFeTBFeVVJYi1TT1IxWWJqS2MxSmhSVkg0TXRxb3BfMnUyck9fWGdfclJZUUhBMWlDZWw2Z1I1R18xMTk3QnFQUGJDSDZScmtqdE1VeTdrOWtMamFJMW5NZ2ttd2NjdkNtbzJMcHZab0hZQVdxS1V2YVNGa0ZyY2UtQmN2VHRqeHl2VVo3Ym5PcG9BLW9rMnBnUWF0dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHo5M1ZNY2dLVmV0ZGRzZlRIOVFVdVZJNnJZb3Z5RzM0Rll6ZUZmQmQyMTBBWWdGUDA4UHhDVkNIeVBtS29PS1owUmFwcy1fMldXRkNkMW45WVdRcnBlS1laeks4cXZzOWdrQ1kyRDVnMXowSWNTRWpsYnBVUUtSQ0RidGRGUXI5Y1FtYVoxNjhCOHhTWmVhbHNabm1WdlE1WEs0bkF0cENiZ9IBrwFBVV95cUxQMEtCV2J6WkdiT1JZU1NiejdUS1dIZF9lcnkwQ2liTng2OGtZNzJMcW1xU0tYWEw2LVBzNHdUTFdwMEdxNVBtZmhWUGpIaWhMOE1odjliQ09hclFNbkR4WjhiaG1BTnlhRlZaclhwVmNBS2FPR0tsdVM2WVEtVG53NnhIcE40LURVRUlRLW9NSzhQMm1JVi1kTWpsYXpFZXpUX1lORkRyazV1QVVGNlJZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTNsSTBBc0YwVlBKMTRIek4tQ1RjTDJ1RmZPd29wbUxNVGR6YzUweXllaTN3MUlnZWkzWnJDNkZIajM1aGswWmZwZFlwWklYeS13QjJwVl95dndOTVNJai1fSzZpOEgxMFFKVmcxbWJsVjNSdXZXVW1INWpncUJmajdrMzV4c3hiekY0T2pNbGxNeWlqcjYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORzFWTV8wLWcyZWR0WHE0bEZPSHYtcXFmb3lxTW9hZXNHM1BCVDJCM3ZycWZHZlFyandJUHR6dS1QTDZ5WlJtblBjbEpadTI1anFFQ3BvMkFUd09KMjdNWXdKT3VjMjEyUEswUzN4eDdjblVSaW5rbHcwVDVXNVlPUDdpQkN1WUI2MGl6bkZFN0pUejJxamdyMDloRE9jYzRLNVhaM1lQckg4bzZSalNFQnNyMmlyc0p1T0l6REZCMXd5eUhIa0NLb251alo1ckpOMUllZGZwVGhFdlZnMlpsa1NraVl5VHJLa2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3hpUVhpdWxEVUt3Q2NjakZWeFlGWDFqc09Ed1pOc3otcFZOWVFhOWduSzRnLUlNVFVyRHBXRWc0VEhka0NveUk1Y2NkaGg2bHVqU2U3bVNORTdaUXdZaTVVXzQ5NHRqcXVQRGZFejAyU2tRa25RNV9PWnZ6N09MOQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0lnMlAtbnVDZFk5WlpNWGN3OVp6NGNuV2Y1cUJTWWY3cnlXbEx2LTVTQnd2QTVCcmxVWDgtbEVONUVpS0JjTVVMaEIwdGpIbmxUUWFOVEExWHRhMGlEaUVGMVYwTE5FU3ZJbjNjZ0xUV2FOa3hmWGpfZFh6WjFncXJLNURXOVh2UUI3M3ZEWGdpQjU3Z0VPV21fMzFPSHJ6NzQzcm0tUHROcEtYRWNlb3BhM1lJUHFw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3342353/lat-phrao-road-rage-victim-seeks-help-tracking-attacker": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingJBVV95cUxOV0txd0dsTHk4a3ZlajJ3RlI0dUNxc2taYmFiVlRPd1lKaGFkSnhnMWJLc2xFLVVqX1dzQk00MUx0VXFWRGdVbEJqNnFGNFFjdTBpUjlLZ2lRdEt6amQtVkdncTNMU20wWUdQNEhpMVNiTjhCV1h5MXB0bjg0bzdrbEI1dUlpSTFlSEthaHNRVWVyUWFUVFZfU0RPRzhpdlY5c1BMN0dibWdmdE5fck85X1JmUTROTTU2bVMySGVKUFoybXpYelZrNXRwbFhtaGFyX0dFY01FT0wxUmxjZGp0YmlnQzY0SXYyOHJPZE9kUnBrRkZvQXRPblIwTzBIV2ZZU2dfWXFKVWJnaHpXX1FIWUdLNHhKc1YtdVI2ajNR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0RnazFZR0E3ejBHenBHZkFjRHJ5ZHN2RUVCZXVEeGpfS3JVMExkOHVWbzc0UEZLWHlXaDJWdDdKenA2VUcxQzZyWmh1elJmc2hWMDJXQ1NSX1ZjWklydHlqNXUxTGpkcm1qT1dfWk5iTEgwazdTZDFBbmtzRlI1ZWNrdmRBQ2JMQ2k2X2xwbXB2Tm5RYkNWcld2VlFJVWw2bzhqb1BB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTFMWkpRT0NfN2tHWm1kbzFCM1gzZjhOVlFCcUxhYV9IVW5TR3FGSXFaUHJIUmpZTVZNUnBtcEJOWVhvQ3piQmJFTjdXdTRzVi1NX1N6VV9UVDNHd3U4TVZtLTZOVGRkT2R6UVAyNFNPeS1BYkkyOVVVTXZaREo4MWgtYXNOeTZuRF9pOHpWSm5JaV9VYWhKcXpXS1JHcms0U3dYZUJ2cmRQR2M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610230332.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDNza2FpdmZ3cmhhbk5VMWdWc21HTW1XMkJmenlJbGxlNkxVREVYdnBUczJYVE94Zm1tbFZGTlhpRW5JUVBpbGdOS2FiWUV4emREMURQaGdxRXNZdW5wSHFMSmpoVUh2TFlBQXNyeE9lZV9UaG5QUU04RktlMUM0Sjd0QS05N3RsZy1SX3Q3Q0Z1SFd1VHhrUlZIUVZUSWRrNFg4RG4wU0s2UdIBrwFBVV95cUxNa195eXRUcnZCNW1zNjFvMGFoT1hzYUstbzR3dXJEMTUwa003RTB0V2hMWDkzM3RvWWswVmlWcVBGSjY5cHN3aWRUZURNU0lNeUVxZEtQRHZIUGtFZF9vNnBrT1ZCTllMaGpycHQ5dG9aa2pOLVVXWkMyR0hSak9nNnhKbVNmdEZaeWx0dTB2akZ5QktXUVZuSzdNVUdheGRETzlacERFTnVUdEJXbldB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/drone-hits-another-ship-in-black-sea-near-romania-killing-at-least-one-sailor/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbVVtM2hLOW1RQU4xRUVUWlJaaXhxc2ZqNnRnMzdmYWY0Rm9tWkZmT2ZjR0FOVnRDdHBvM1F2WUFPQ3U4SkF3UFRYVlVzbDZLN0lxb3VlSFFjUkFaQWtNRWd2bU42Vy0yTmJCQUdkOE9MakZKNzB6SHdZMU84ODg4NnJ3SHA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa09oaUh4eWpHc0k2QW53Yk5nME5QcnluelRnVGNxSFBSNzIzRGZXblRmVkVoc3lRQ2xvODB6cmx3QUh4dnh6ZFZXS0NST29tVzN2TlJLTDVaM3ktbDNFaUNrcEJsUVRzN1lZR3ZDT0I5MjU0Tjd1UFpld2RGems0Q1hfb0RvZzFhQjRJRTI2dWh5amZsRkNNVWptZEZBOTBIUG1lWXdHR2QxekxjaU5TTVBmQXg3YTIzM1puOWwtelZpQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSmkyLVhDVGpoWnoxd3hGZjJROGlMb1lQZ3U3QjZrdU1XNzQzbzMwOEJ0N09DeGpIV2ZKbVVYMDZOb1FlUV9nY1hQMXJtWlA3ZjFHSnFGbTVPOGlZSF9MMVlaM2pDTHhNNThEOUVpMWUzUnlDc2RKam5JbmFRdEl5aG5Dck5RV0drMFlFTDVYeDB3elQ1WGxhZ0FYYVRHQnc3WG5JbExBdXYxRWZselB0aEoxZ3dTTkkweXNPaHR6cTlQajJKcjBUczgxVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
