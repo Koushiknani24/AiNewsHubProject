@@ -187870,5 +187870,125 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/mexico-best-known-ufologists-latest-claim-humanoid-being-near-northern-border/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/ken-atchity-dead-joe-somebody-the-meg-producer-1236739449/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/opinion-china-export-model-mexico-pedro-casas/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IeTY1c1U5Sy0wanVaTEJvNUZUdFd4N21UV2ZKbDVuZFdrcllWTHRYUGoyWlhySUljZkVSRC1VTUVkRG1IOUxIUUcxMFh0V2FRRTc5UVpucU8zcVdDa25ob2pTWlVrd0g1SG9qS1ZEd1k0M3ZK?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/20-new-industrial-parks-bring-to-40-total-under-sheinbaums-plan-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb2xhaF9RTG4tRmNhWkNtQi1rVEJqV0pOUDA3ZU0wWTZqWlZQbXc2S1FvZ2tDNkxtT2ctcmJiUVRNeHkzd2RCZEwyaTZvSHVhZ05wUUVaZGN5MUNkMnB2eGNKM3ROeW9WSENPVFAxOC1RNW5ySkd0eTVGYzdvd0xkYy1hRFVNUWprR3BCT2hCYWpVVTdoU2JKSUltLUROeDhiNm5RbzMtX01kVjIwNVMyMUtPalNfTnZyS3BNcHRWRzhJbGtXUGh2SG9lNkxlSUFXY2xZZW5nRDhBXzJKcE11UmRpUmVkZl9Kc2xz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tYzZTNUlodXFUYkR0MWUtMXJIaDQtYVJCUkFhQk85ZS1yR3RabzVWTWdHcDB6bHRrMWhEMmUzeE5UUjdRbTlXb1NBUDFSVmxBRGQ1Sy13VE54VjZfVW1JSWNEekhlbHVnSmI0ZlRKSndVaWlJeEU5cDhxVWs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZjhrQTB6UmEzUzQ0N1RPV1BiZXhoaGdyWmhCTVpTTWgydnE3aEd0WHJHXzlpR09JXzh0SVpGSHkzc0JJR2g4M21MbVM1dUljQzd4UWNrSnlDWkw2SlgzOHlITmpJNHpuTTAtMmdPMXdXR0JGQlF4LUtHMTUxSWdWeVRoZVhMRlJtY0NmNHp4enJ2NzVwdE5xUm1zdVRfZ0pYdE0wRGFpU0k0eGpMZTlpNEl2bmQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWlAyTUZ6U2gydWdwMzhtODZzX0djYjdvMkpuSDRlZUZmWW50QmFGZzlEYWlTNDRjT3FqaHFfYmE3d1VMUUlCOEowdU9vNXZxRmI2bnpFLXVMbEc2UzMwSllPQ1NUQ1NWcmhQRkR2QTU5LWo5dDBsZGtGOE1DX1BoNzZfR0hJZFl2eXpjR05ZMUQzOHlScy1PbExKb3l1ZDRleDV4dzZucy1JdmdnS1p6UU5aNVgtWC1KamNSNmdwSURwa3hlUkUxR19nSzlJQVRqYXk0RzJIbWlnRXln0gHiAUFVX3lxTE1WWnpVYUI4QzlaY2lTcjZQRG5hakNoYkN5THpqY19HV2pabndfVEptX1ZnVHcyZk1IVVJ4RVZURTI1d0cweU5zb3hVcFd0bUg2eE9uNE5DZGJVeVd2UzhPN0N1TTRqMTNwYkFNMlhvamZKYXZacGk0SHBXQWtlaEl1eHlreTgxQ3ZIQXAzMXZuZTVCSDlseWVZUGh4eThxaGJLZWNqQkV1NlJJd1RUaU5tOEJwdS14VW9nU3A5MG43cEd2RnZNakxZdE16OVJTNHE0YVJJVld1S1htSkp4cW5fOEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3342549/speaker-of-house-calls-for-a-deal": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1IybC1Rb0dLWFozaWxhZmR5YUJxV1lrbkdDVEJadzFySy04endnTUtaQjB5eW5yQVBDUTZyczVNNHhHYWk1cjhzWVRCaUtxUHJZczFMQk1ER29VNG1kZ2ppOW5aX25saEVzM2VISEFDaDdUMUN0SDFXZktxSnYtbUpvai1rZ1ZHLUpWM3FvOUlQdEYtX0NZR01iNFlIbTJzVGxFT1U3VW9MRTNN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbGlZSGtHQXg4UjIzanpId3ViZ1RxS25adzVXLUM0cU9KdUwzSDJsOTduTENaN201SjVFd09IZGJUTmpRMDcwYWJZc1BBTGpXWDRuNTBSbWhZWWU3LUxOdkc4QlNTeXhmVUdEcTB6czBvQ3NwMkFMelZTbEY2NHFLRi1LRkU0RTk2WGRhblhjY0VQQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5STUtJSmwwMk1EMW9pUVhWeGNwaFhxTDVIeXBWNWdmLXdoMVlSWS1WbEM2QlRWRmdrNlR4QkpCMmg1M3JMdXBXM3ZLVzdGZXdxaVFQNDhR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfSG9Yc3h4eWcxZC0yY0RIS2F5azNHRTFXRmZMaVV4QllMeGhvVldGbTRtN1pDZlZJREhmQTNZQ0plOURaZWlWWXlDbGlSaWNqVGF5NVVsT01yN2hFM0dZTTVDSms0QXhwYnhWODFnTFc0WmRZVFIzeHY2aGl6OFk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-oct-24-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
