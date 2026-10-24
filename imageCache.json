@@ -188506,5 +188506,143 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/clarification/article71620059.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/gunman-terrorist-attack-paris-suburb/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/nigerias-tinubu-launches-re-election-campaign-as-economic-pain-tests-support": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-intelligence/mnd-news-quiz-week-october-24th/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE81czdlcjVNUjBwb0g2dGNHaldFazEzUkI3bzhKeXVpTHBpMGdJNXBqZVBlT2pFZzROdTJ0dzBoSURnU2N0VzBNY3BER3VLM3ZreUVMRHJKdG1oc3ZiaEJvcHZIVjUtVGlWeFRqcjdMUnJkb09QT0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmtHSXQwRFhlWlZKbTU2TEhPODc5MERFTG9feGQwRUY1ZklES2JWS3UxTUxOelgxRExOSFdUWEJnVFFDX284OHNsZWxIUzBVRzdINlpRRVhIYlBTN3A4Q2JrYWFrZVZ0MEZGRXVXVXVKTW82dmgwRWROUHFXcVVPU0oxdkljc3lldHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWWt3U2lmU0Y1NExnOUh0QXlKRXp5VGRJcTZfQlJpQUVodlBhNUV3eU41cHhBelZwMVFlTWt6NGx5YkNhc1pFa0VRbmJVZDc1blcySFJ0OVBuMVlKZFlTdENzTVRDYUJOMUZOZGsxY2NLcUpBVlJlcG5jOWc0S2h0SG9aQk5yWjhQb1E2UTVKdVFDcUlnVUxaRng4N3Y1UllwMTFDeE41dlg5MzhWcVQ0eVBLQmZob1FqWTJ1czhrS3phNWVFSnRCTGNQXzgwbE0tR256cGtVMDI5QXUwYzRJcG1SU2NzdkphZ2pvYmZadHc5NVBRTHloNnAzMUUtdWlHZ3lXZVZhbVZxNlN1cGxPYUVzdzNCbnBobUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUVR2OVhjdnh2dHZUNjdNTGFJeXVNaDlyNFE0azUzUWdIbGZUWmQxcGw5aEExRnJSYnVkcjd4VW10akJObGh0ZVM4VHdlM1Uwc0RvMnBpSDZpNUpLd2lwTm9odzE0WnFWRFBMbVpEODRVYloyaEx3NmxXdlpSVEk5b2VOd3NvZko2a0FNYlMwOUNiTG5WVWZj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWJ5T3o4U0JTb1NjQTRvN3ZyMjhxaUh4ejRQNlRqTWRZbldPaTloZVl5aEJJZ3pha3FtVFBvWnBlZFRpaFhmTHhkcGxzeDBzMlFsVHhvNWc3aGk4Nm0zeUkzWlZKTUMwVUU1REZlTldTWGlhbjRnbUlwS0Y3UkZ6MWhkTW1PS0pXQW1rQ2V4eFZDdmZ6aU04VXBWNVhGbkxCd2N2T0pGbXBRQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2ZxVk81Qk5HdkloN2lGemxVdEo5cGQzclZFRjc3QXBaVjlEdFh3eFdMOVNIWk5uZnNfeTVJaFZwb04ydHVSVXVUMnlCaWJxYllHaVF6cjYyTEZfZ0h1Z29mazhQS29NRzZZcWpkVEYtSXlkNnFsN1RjZEJlMGR5LVpUVVpnQ04wQ1NYNmh5dURUUnJUNVZ5SVpfejNyMnpKSnRnOG1rS3VqRDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzNab1JSNFREaWxDMkQ0QWU3TzNQUHYtU3kzQkhuWW1Ca2hrTzhRWEtGMllzQ3huTklwejdWcnpzdlBhSWhLNHZQYjhWeDIxRXc5dk1RRFl4a0VxV01PeHdkanp2U1c0VnlwTjRGQkJoSEFVbmNrdHJGTGFUZlFsbW5ZcjlOenA1ZjVLYnJiOXNLUjhNM204R045Snd3ajQtQkY3REVudzB2eHls?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN1ZzWHU5X2VvNzl0eFRsZXZPRXkySDdBNU91dm5MTnlsOW9SSlpabFI0aUF4WlhJYlBNdWVwNWh1emJWME1CcGhKdHBMTmpNbnR0NGVwMEdLb0ZPTTRiNFpDbFhsbGlTaFplaXJZUno3T2F5Mnh2RDFITTlLYTJyY3pGcjJJVDZBOUd1cjRJWkh2OWFzQW5qSlZvVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdVJXS1F0S3EtdVN5WXpvV0txbFBtZExsOTdhZTJjNTE3MUZuVEE1Z3NsNzJxc0tYQ2VTaFVpWFJETi1RLUFUR0FXS2hudTVrQlc4ZGQxeDFZd0pkM2F2S3FfTk5HZDdCWVZzMlExME1EckMzaDBlbjNMVkI0ZUxSaVY2eEtIN0MwdUVCb3hTbzRVR181VDZtZFIxMVI0aDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkxzRE9EaTFyVWNabFpDdkQ2clZyTnZWZUo5cExNZHFhNGs3cmllSER0bTRVZHZORGs3UGcwM3RvcXZnc0FvZmdiTzdkOERKZGNIOGd2OVBiOVQwdUVrMThucm85aHpOUmNmU2ppTGJHZ01SLTk0cjljMEd3V0JpYW9RcVRKUjF6bElKeWxsMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-evening": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/houthis-say-they-attacked-saudi-oil-sites-strikes-reported-on-yemens-aden": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/pans-labyrinth-5-surprising-facts-20th-anniversary/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWm1WbC1EUFctbzJ5S216RzU0WXk5VDdxOVBKLV9xU3V1Sk1Obms0S0dELVBYWEdhN3Zrc0JNSEZDOVNpdXA1X3RidTctY0x1R0c1UTFEVThuZDlwRHlTRl9raHo1djByN0RfLVQ5ZkxSQ2FST1hqcDlsN2RpUnBsRDRLeWl4YWdoQ2d0UjRoNXBIWU5QMHFVcVV6dDdFckZYczRiX2F5TV9NV1ZBc1FBOGxzdXUyR2tQRDl5WXptNnlyTmF6b29sV1hCVzJaQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
