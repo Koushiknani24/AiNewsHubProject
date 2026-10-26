@@ -189580,5 +189580,95 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/global-leaders-react-to-brazil-president-lulas-reelection": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxObGtYODlrakZXVl8tMDVuZDZlNncyVE1FczFwa1NMQ0s0NHJYNjNfU2owV0g3WTJ5alJlczB6aUU5Uk8tQ2t6NW9hZTdCTWRLYmtBazY0X2F4Y1c0REMwT1h3VzRSejRUTkFNdmI5dC04NjFvazZiNm0xdlpRUWhINmhQby02cS03OVQ4MHhrenp0UG5WMGlnM2xrTzlGVEcybXdpcHA5dFhhYmg2VDNHWUNWN3lMbW9SSzJLWkhqampweW43M2RZOE530gHPAUFVX3lxTE01aHhSRDQ4Tk1Wa042UkNrMi05MWx0SVJ5T1Vtb21aWlZ0UW84aHVGWExocEZQNFhheEFDNnIxSGl5dGxyb28zM21mYVVjU3kwSk9oN0tzYzl4OE5hMG9XNVUzSTdLZTJ2dWpVUEQ4QWpRYzBudHZZQURmT0lXSE9pampLbjREa0hiTmhhLVZCcFNmVHg4TTQwdVQ5bm1zUzNGWDVaTTJ6MWxBcmdfcWdqR0d3bERocG9Na0F3R2dvZ0Frb2hXSTRPck9xdHY1SQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/russell-searching-f1-answers-after-day-in-austin-6491851": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-says-canada-tariff-deal-coming-soon-at-michigan-border-rally": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-26/france-avoids-rerun-of-looting-with-tough-security-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3FwM2dKdEZIODRham1wRGFBY3c0ZDR0NUg4QlYwMS1tVVZ3SUQwSXYyTFNheFZOMUJEREMwT3VqSVlIN3lwb0pFOGhNRFNTbWdwT3hoTGU4Z0lKMHZKTTNPTXFxTFhmZGN6YXliZTdrNHVTR1lwNUd5aFhuejFTYzY4SXd3a1JTcElKbHlTVkhnb3hfbklR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWgtc0MzMS15N0Q2Z0c1WVl3dmZhWmhtNVhLVlhfZzhLSXBRZDZnSHpPQURGNU9NLTg2Z3Q3R0xVX24wRE5PSGZfZEMzTVdKRTByd3FlWnpYQXVYWnVKV3JVMkUyaUM3d1NPVFktTnJqelFpUzJxTlRyU1FfNUFSOE12OWFPNjlvemt5ZWlTSVJpS2s1V29lcVlxQUlsOG1nUFhiSVl5b2NRa2dGekNfSdIBtgFBVV95cUxOSEVhSU1VaHkybE9ZXzJSbXVNSkdXbnRGbFJOSmFBTGxWUjBhU2poOGdwSWdYQ2taeXgwSHFKdjc4dUNjZGRMTXNrLTM1Y09CaVZueXhGWEtRRXFPVy1SWHB6SVlwdU9hakNUU0x4RVdMRWlMMjFhS3NsdjhsbzFwaUhVM3RDUDlCYmhWbFEwRDZDOC1UNjhEMVVEcy1GU3ZBbzZMZUFZMG5XN29VbWk5Z0VHemJxdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xLUZweUVBVjFVc2VyVmsweDgxeEpsSHM3MjFiMXZiMXFFS2dxTXhYbkc3cllXVWkwUFF0VmJpWUpxQ0pSbWZmOS02TFQ0N01qczJwblE1Q28tOU9xZ2RVVGpkblZyT19GdEVIZG0wNm9FanVX?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVhkcXZUQUNhS1hVODRBWWFwVU5paE56dVN6WU9wQ0Z1NUZ0WXVqY01RWmVvaGVtWjhZVmt3R295Tnp3cmZuZzVWallyVzdhbHlYV1Rnb29LZlNaemVDaG5RQS0xZ2ZWdWVndGRFVnBzbHZIQlUyQU03aVBSYXAtckt0UDJOTkxOalFZN25ta09TVDVkVW10dFBELUhMeGpHMHNsVWFZdWdrSzA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVXEzM0U5djI4c05zX2tzZjRKenF2ZjhnY1RtN3pYUEpTM0FSWTlJeWtQekhlck5sbG9ZWjJ5YjNQTHZrY0JQWVhxVnJTSWdJSkE3T1BaeGRsY19pTWpJSXpBX05uYkQxS054dWIyaXQ2b2FNYWNBbkxCcmJjSm40NUpzQ013djZqZWwyQnk4aExkXzVDZlRjeW9RaVZhZzk1OHZFR2hrcGNPa3NnRDkzT3ZCMHc0YkxHMVVJY08tcDdabkdQOWJRX2dBNHFRWnFx?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
