@@ -190216,5 +190216,173 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/disney-plus-channel-4-main-network-on-demand-content-deal-uk-1236739843/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/canadian-youths-ask-court-to-impose-binding-climate-protections": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/england-forward-kane-crowned-ballon-dor-winner-putellas-wins-womens-award-6494571": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQREo3aEY1WkNLZ3RwQWw3Rnh0eUFLZTlzWFdTVEJYSzNNOUJXeGhMdHpmX1FfQ3dLQmZRam45bkl6ODJweDh5U053QVM3bUs2MVBKTVdLeHdkVF9EX2JjQTczUWh0ZzJ5eWJNMjhHTTNDSUhyeVp5enBEMDdxX3RaT0pneUNPZDhzcnlfMkxFdktkVGYyaXpDa29oYVBRRzJKT09nSzcydnhEbVZxdjhIT0tZa3Y1M2VaQ2d4N192TkVnWW1S?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEpURFJ6ekdaVGFCbHZGTV9KbHZVSk1uUUo5ZU1CekVSMTN4eklabVpuOWtvc3pTNHc0QzM3emxBOFJXTkgyaFotZTZKM3RTeU5HTVZsb1ZCM2ZrV1FlLVFzdTNmVWZHaGd5RnBVTEFZMk1OTk55NjBvdkxjeEIwZUdYa3g1empI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/morelia-festival-six-months-pink-blue-building/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMjhLdXhYSjNoeUpyV2tIOGk5UTdfTkFNcERlR0hLR1pjbzIxS1MzRmRoM0V6YkRGYUN3RUNweG9QakhYb1Z0MGdwUWU1Q1J2dmx3TXVMWFE4MVhWMF9IYjNYNXY4V212TS1IdmhNdi1JR1hyM1BfMU9uMW5aZzltT01RRW5JS0NVcG5faDF3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOEdvbkR3OVBFd0lpekt3czlmYWJLSkEzTXotNk0yOUctdGVsOVIxaGJwUlZvN3R2NlR6NmJKLXVFaTROQUpGWHhHdnJhVUlka3JIbjlrb2Y5Z1BsVkhVaHBibXpwSVJwVklrOEdPUU0xMFM5WkNTOUJ6bHB5WWFlZlBLNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/4-new-international-routes-milan-cozumel/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbWp1RnBrY2NYaE1iNU5FUzAyYU82b3JhT05BY3VyZGVLUUFNQUU4VDNLTUJJVmluWjJoSGFZQU9kamYwTGViYXZiTFdZY2U2T25uOUZBdy16am5VR1F3allvS0JKMEJmSnBzeU9XbHNjN01JODRjVGxDV1JJajdVMmk4VEZDOU9zazRqWEEtcUwxSnhxdV9LVlZidjRqRkUxT2NZTzZZcGF3amVYMjMzN2wyUXRlbEM4SmtNWHpoOGhMd21wanc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trump-hits-back-at-obama-over-saddam-cheesecake-factory-jab": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS2pXZjRlWndPaDdzRlI1NGh6dE5TeTJwd09qWUdybGtDUGFCRFZaN2JUb3dwbVE1eHo0RzRaUmZHWU13X0NneWtLVDhpQ3BvYWFZVWdqalhCeUhfcDlsQnVvaDNGRnNnbFU4RS1tNndJMG5mREg4TFZrdEtKLUc5TlBMM1F3QzNqb09yMU1jTWxjSmpXb0lHQXUyLXRTX0RfSzhCUFN5NXVrZlhBazBHU3Nac2ZoRjkwYV9XOG1NejRod0hhSHBOYVluLWJpNWR6Umh3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3344169/sophon-says-censure-will-go-ahead": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWGZQYkpkZXFYZXFmZ2MzYjVXQ1JRUTFFU3FRS0lBMy1qV095bllLM0FUZ2ZLNlBrUmtROG11aHpOUkZ1cnlVb2E0ZllPQ1prZlgtSmltZG5rWXpFSWs2QnhEUlNvdkozYVkzbXFwbmFhdkJmTnYwMDZhaHdGR2hlVFdQQnlxNm1SQk9EWnN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcFBVcE5FMzNLY0lmOHZSa3hMSEhZQlpZTzEwQUR1U1k0T1ppXzMyMVZrVHJjTlFWa1E4VU5aRi1VNVJnNE9RVnNuRWtmODN2Qy1xVzVZLVdlVWw0aGdhT1ltSFFuOGFMVjRGTVlCLUFJakVia09pN21mVElsQWpYQ2ltT2NsWGxtamdCcXFfaHdfWWN6YmxzLWhmcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNlZDVkFuNlVvZ2lPeERyelUxTnM4NXFaaDVORFhLelp1RUJ3aEcyRmlGeFR2UGl4Q1Zjcm4xRW1EVjFGRUY1Q1pRN09hUkc5ZGZnQjFGZ0hTOUdBeS1sazJmcFlZbDhFQUp4SDAtcUhIbkFrdndnTjd4SllNYkpDOE16QjFGRXpkenlvSDl5SnFqWXE0NlNPUUhTQmlRaFcwR1lsN0xqbXZRQlQtSUpmajBvZUYtUEJFektIVm0tQXQ0OG9jTkF6bW1TMDNGMHVKaGQ3eG9SSlBlSW9xVEhCakJnWF9OMHZDTkkxVHFCSEp5Vl9ubm1KTUhiZ1BVUXpTUFlyeTdqdDVtY1R4cldYaE9YMUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/frontex-set-for-new-powers-to-deport-beyond-eu-borders-in-latest-overhaul/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYcm1FUlBhMlBUT2EwdGRCNVcyQmdlRHVGeG5HMTVqQnJQQUM5NUdidDlqaUluSnFUOG1tRHJMREtpVHlIOUVqN2JEQ01RRFBjOHJmRXBpU25Ndw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/ine-president-resigns/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdEx5OEpWN1A5X1RTY1ZRbTVOeGJLU1hXSGZlcmk2TW1kU2UycUI2UXZKRi12TjJWTmFBN2lCV3RGSHdsaW1oS2dTYk5sMnBFSHdUUHBrMlluMUhDM0JRNmhxMld4anJJZGdZQTQtUUxfMzh3UEMxTlJ3R1hzdlFPdXBLa1NYd0lUQ0tSSWJrRnRBTnlPS0xUOVFxNXRldW1wUzJwMWo4UmZCZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WVDFVVGZlVlY4S2JFTTY1Zkc0M1V2dDI0MnAwZjc2RUpqZmxqVWcxWDlMTmdDRHhYUXpCa0VaMUpMME1oLXozZTVXZjhBWlJka2o4OGU0TDlUZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeklNQndJOXFLbzhxSl9fOFVfaFhUc0xpa1lOMWljcEJ6YnNjbWN4eTZxLXJwQzBocmFIcDNXOS1qV043aVVDZGZ5SmxjNV9yaU9SOXl2M2ZSQ2x3SzczRkxmWG5BY2Nvei1WWXlTUUNxMHBPc2l0U3NzSHpmeUc3cTJ2ODQ0S3JmWDBKS2w5U1pVcHpTU29hM2tMWEtwc3gzbVcyZzFJTEphWC16eXhOc2I4MTZGUnc3T1otOElnRWNqYWpPOEJHRXdR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVXZzNXFLUGgtOTRrdVBNMnJ2Vm1CaUxZUlFtY3hsZW04cXQ4Y0hjOGktVjN6c2NLWUtoeUJZMV9VV055QXpudE9YTi14MF9DeHZVZ3Z1QzR3eEktLTYwRGxHaFo4WDE4VDVuM0MwQy1FTHdoWnFGOGJXaEFqOFVkQVNGSDd1b0t2emx0MTVlYTVmUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/putellas-wins-2026-ballon-dor-feminin-award-6494541": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
