@@ -189820,5 +189820,215 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/26/new-business-projects-decline-despite-rising-foreign-investment-un-says-at-world-investmen": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeTJ6Mi1xZzRUWkFYMEU4b1RQbjRDRWpoTVlYVTZLT2pocGszR1F2V082RlBzZ2duLVJhNmhwQU9IUlJEVzgwNGZvcnJwbWdwcEptVmRhenNQMzhTNlBkNzB2dTM5N0NPOUxhXzJPekxrQWxrVXJlS3Q5QlVONUtXNkFBS0VnejlpU2ZtSmxPR2JQLUFUbkZ2YW5Kbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/andhra-pradesh/ap-chambers-seeks-direct-flights-between-vijayawada-and-kochi/article71627227.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/meghan-markle-father-child-sexual-abuse-allegations-2025-letter/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHk5MjFaM3J5TmNsLW9KVm9rVzZCZU5zdUlldEhvbjlsSHJFZGU4aTgtVXhEUzBUQzZwVEpwa2I3XzlNU0NMR3gxWW9kSFpGZFQ4XzN2OUVhQ3dMRmN5ZkFRb2UtV2tEYU5uOXROakFIS3pDTjhGM1BkOWN3b1hKLVloNzRpZW1wTkxzWjJ6M1l0dHpibVp1Ny1BUk84REFnVFVIRU04SF9Ednl4NlZKVktwMVhUeTBld05CLQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbzdFQkJFVk8yOUxhWXN4M0J5TGc2cFZMLU1HLWpYblk2RGprSlh3RHhMOE1mRlUzRE5XU3d1a08zcjE1UE0xTUZzWDBSSnBhZ3hjekRXVzYxajhNRFdYZ1lyZURmWW9USTNhYXVWWTFDRGlxczFydE5UNTRCQTVmc1duR2RKTGs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxOaHRkSzc1X2M3aWd6bU1CTE9FU01RbVlEazZlazRFOWFvbjI2TnpTMFFpTDB1aE9EbEJGbm0xU1FUNzBESmpiQ0Nzd00xUExQZDlHWTNjYnpRbTNNTVBGbUs0ZXFmRGVBU0tfREdMa3dVa1RsTlFibXk0WEdWU3Z0eGdkZkpIM2tfNlkyUUtYWUZMZGVrVlBKTWR0MGYzc2FSeTdWMlV3eWgtOHFNTmRTRC1iUi12YkMxU2o0UF9sdXRnN2pOOF8wQmsyYWhWX2taRmNwZnBhWHhyQ3dsSkdlMGdoVkZiSHdHbjlLMXdvRVNMZ3ZKZm8xa0dTdVNUWWZNYWJCNmFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IZGRWRzg0Q2FUYnRFUDd5bmRMMkZYUFhKeTBqaFZrWnB2dU5QUGVnT0NsOG5ha202b1ZyOUsyTFltc2UzNXprcHd3OHgxRmh4eGxLZkpjUlplR1EwYmdmb1VkQ1lKSmRPeE44VXhySVhFbloyZG55Nlpn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HSjB0RWlmLUluSTZrNzRiOGY3MFVSTzRCdkxzYUJVY01BMXVfUThLNXN5Y1kwTFF6ekVMektsdTVrX2xZdFNPYU5vbEMxRW81NzFHU2dsdzZlYUdYMVZfWEdXeVpKT0hMby1VekkxR1Y4WUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHZsdXlBVmlhMGFJQzFobVFKdjkzZ09tc0FjTWExRXJhYno0R1JYT2pwaEFxMy1oazRTVHZfaUJMSVc3T09JaU9jZzMxamV6VmJiTGdjQ24wM2hmb3R3TUtySS02Uk5sRGJCSWFLbXFkS3RyOVFLSnJ4VGp6WG1LVXQ2WlZlM0tCa2ZGMzhPV0hvc0JDR1ZmSGVmMDVUWUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWVNeTRFdDZ1ck9KQmh1NVozaEdOQU9qbk1YX2ZSNzlEVzNDa1Q5b3pPa2tsSHdQcFItQ1l6VmZZbHRuT1FuYm84dVhZd2owSFBKRDY1LUZfUk1PMWpFZVdZbzVfWHN0bUZDanRnNjNQZHJ5blBaMl96TU80Yy1kOFV2dEx6TkV4MkZibzJWUU93Ty04eTVfM0lmcFNvMWpsbFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOXBabHI5MkxfT3FaVy1veldQbU1UeU5HTGlVQmFBLXpRNEdFeXBJVDhXTFllck52YkI4aTQ3bXZFZHp5QUdlb1QyOXo1Y19IeE5iNm9VcTNDSG5acUk1cGU3Y2U2Y3V0Z0s1cXc0Wm81TmVTLXZIc3pJYndpdjFwNWVFa0IzbzFWdFVvSHphbnRfblp3OWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlUzQzd3a1RjaG1meEVTeFZ0cnBHUVFWNWhmb0Q2Ni1DOElacWVQLUFzOGxHNHhpdmVvR0ZjRW16Y0xldFlqb1U3amRLRlFROEJ4WGwyQmRLMFlPdjhYYVFIb2YwVWExSDNSQl9oT1RSV21QRkpVbTBVZUd2VlNVUzlrT0xac3FkOHkyUE5OM3pRUGRzcWw3UWxJTFFGa0VpLWVfQnNVYXRndw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ucml0TU5hNV9HWExPTnN3WGIzYmhjbXFHZGNZRE8yNzFxckFXZTdrTkdlcXVfcXFkcjhuQTFwanlXZmd4MEZNai1ZSG9FbUJEdDBRVzdn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTG5ycnJyR1o4UVFSVGh2dENkVDVHYU9aVWdtQldqbTZGeVo2bjRIRUNEYU5USUJTd2doT193OWNaTldTSFRCcmkweGt1c3l3VUs5RVY1ZElpRXBQd2s0aGlQbFdneHZLZzdEWEdTZ29fM2RCYzNzcE5hQ1RDMEwyUVgzY29lZEdnRHdGSTYtUFlXOVVoX0RGbEItZ1F1dW_SAaQBQVVfeXFMT2ttVmExaUZhY0xtblgwaWFCYjRJMU9FdW04MlM3aTVaQ01rQ2xrR0NWVmllYl9JNXdOYjRkOWtrdGNZTnFIcEZrQ05jREdiTzJsdXMyc0tZaEFGWk91Z3VPamJ5Z2JSSWxKd3N4dVZ0dmpUODRYeHVVVW44OGtzY01jMHhRb2prUzhIaUdUenc2U2NLa3VJR1Y0ZVl2WVhWTlVpSWM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3343878/expanded-solar-for-households-scheme-for-cabinet-approval-tuesday": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/espart-ruled-out-seven-weeks-barca-lose-another-defender-injury-6493376": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWEVTWWJTelkwWHhSQjI5R3I0UHNvUGJ5MjZNWkczVnRvd245d2VXeGFzT05hb0tzWnQ5eGtBM21zTlhTUTh6NmVaTkpVME82ZU8xSTA3cGE4OFY4QjJNcU5CVFNXYjVLMGFnQlJvTmEwbEttenNUVHFOY3JXLTdkbks5R0U5S09sR0JLcEo5ME9zdUQ2LUNJYThEYmJYNWJmeUhQSDBZYUJYSkZyc0FRQmlVc1JzWl9hVFNxYmhVMl9oa0UxTDgxcTdyS2Y4QWw0c2k5TUUteEV6NGFFc0pqYQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wcWxOZWw1d05wa0xocVV4dV9TYUZoYU1vOWxJbFFaczV5Ql9TNnY5T2JhcUxSR2JKZVdGSkVlRm14QU1USWhRQVppdFFJMXg3TnlfaWpUdWV2a3I4X2FwU0VVY253b1VaajhKSmNn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4SzdJbkpldWNXa0ZSMVVra1dYdGc2LWljNUk2T1hGWXdQRnJwMnhKN1ZSODE5enFYal9kNXh5U1hyQkwtZkpoVXd6VXJnOFhjbzVRdjVaeDJydXpWTFRrNksxOXFsT2Mz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTUV3ako4M243bF9PY1lzdmgwdzc4VjJvajlLZXlWam1NOGd1NU1SX2V6YXpUQVRrb05YaVlPa1laODZrbVhXbTkyUjVyWDhlbF82TlVCZmFZMTFLeFIwYy1VRVlQQ2w4RnBQTDRGMWZkSEFtRUJNTV9vZXh1QUxhanlSZFNkaEtBZWhpekd5Uzkxc1hVRkU4eGFsZENNQmh2NnFPLWJ2Zlc1MzI3MGZsYkRDQks3SFlxRHdEZk9wUEhKU2o0Q0RLQ3c1NVd3d3pFUFZiQzgwN0VmTG8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYjhFOUZEUTc3UzU0bzBlcFllMXdxU2NkbWNEcWktWmprRy1KSXVkeV80WGlFQXMyaW5HdW11WE5RX2YtT3M3dWRHd3B3c1hhN2xQclY1aXU4M0RQRzVhcGlPbUt4X2tnMFFkTzROVE9rYXB4MG1pMmZ1a1FzTW1fa1Rpa2huZE9kaTFwUnFMNE5TQXlVNXZxUWJVcWdSN1FFeVgtTThfcnlxTHR1N2sxNHB3Zl8zZHRtQmNhTE01Z2M3QWJ6R2FNa0FvNUVMYi1jVTNaTnJ1MjBNMlJKM1lkcFlTY1ZZNXRQRjlTdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2hldWY2dFJBYXNPRVgxQmN3cl9PSlJDU3RJZ3otRUZVZ2dxZUdKMGl3aWlNWjBTaVhVMjN1b2hnNHlXV0hHbng0WUs0WnhNNGVrUTctQ0hzZHNPS20yVE5pYVVMV1ZiWDY1LTktbWpEb1VzVEhvSlBkdDJRaXJCZWhfenVZY3VWRlpYNGNoMHhlTXFjdW5lWWNSNzZnMV9TRFhiZHJGWGw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczVkSVc5NFRncGJOaGdaeVIzblFSRkNfd3Y0akhLdE1HVUhmQmRrdnJNelU2Y1p2ZFpUZ2VRdHYxVTkxVkVIRE5xQWFEYVQtUFRPcUx4ODZDeWhpSEdUZ2YtRWxkNGVyakhvZXpXc3drSjIyTWJZVHBJMW9majFiR0xwSElGelpJRTBjSGZIREJSZDMyN0x2NXlGeWs1T29kQWNRNUp2VnpCSEg2YmFjMGpjTnoyWmJIVkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblBpVFVHSV9CQThmZFBvTjRfT2hhc0FvSUdHYmZJdUM4RWNmUWhoU3JWSFVqYzkyR3JSZGlSRGUxTkRBU3ZWN1NxUVlzY1kxdGJVY3lPRTBmWU81eG9jUjF6a2RVWWxsZkl5NEdJeXZ0RlduZmo0YlFncWdqUVZNYjFqUWJ5aHhZYktIeUZNc1ptd2hBNGNaZWt4MlRBSnlHRk5yVlNWLTM3WVRCaW82Tm1KVEoyQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQdk8xeTFIZjgyeEdJVUZXNVlTU3AtejlYUFpSSmp3Rml2R2J1WTQ2Z0tUUWZFSUl5OFF1bVVpaVdaQkFTaDEyaQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWlhSjFRRmFoTWYxSW82enFyZlljYXNEQ1d2TXpFYnRIZmh2N3dCdTZTT3RUWE1zTENzcU9Sd2JnU2FhcS0weVg0NTdFZGF6SXlxRnREMzdQUUpQTlV6Ulk3N195SjdWQ29od0trQzdLamd4ZW9zX1pucEg1bHJjekNrLXdSaHZvQnNoLUczTUkzeEhGSVhNUEVGU1FUXzdiTnFWdHktbzd4TWhITDZNYg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2M0TE5nUjhHWWdHZXdIaGwzeEdiaXJjYWszUHh5UVNEQkN1UWdMRzB1R3lMVWFJSUI1NGxncF82UEZSUTJiMm1nOXE0ZVpTTk5Ia01YX3NTQWJDMlBnNk9QYkRwX0JfR3BUd2xTV2xrMlBaOFk1T0l0ZUNpUFFxaENQaGJ0RElvQ1JLQWNmNm1sYUU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVE5tSFlVSWhhSXJ2ZWE5LU1NWmM1QUJxZVNJZndVd1dRU2h5YzlpaXlpMnNuNWZhNzNEcnJud0xSTkl5TVdpbkl5bEV0QWV1NGpndzlLQXRRdVVQVTBITWdmUVlvMkVZc3ZRX2FEQ1dlRFplTEUxbjdUNVpQdFM1ZzVsY2RwZFk5blFEczU2a1gydllaOFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
