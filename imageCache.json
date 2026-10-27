@@ -190504,5 +190504,167 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZzZtVDc2dGc5R05MNHFkaUxOcXRaRVFMVGR2d1NIVmZiRGt0Q0lkc0VWYl8xaWdmTmlrWVEzN2ZoQ2lydTFWMmp6dEhjV1RwUTh3Wm1XbUEyV2swTld3R0oyaUFaZDdhQTE4aUhuaEdRaE95My1hb2RUcFNpTk51MDlDNkdqT0J1T2FVRDl5dUxoZU9ybVAzZ1FfdXpBYVRTeWpweUxFUmhXRVpQcjJCRi1FSXJFMjVhOHFOSnVuYVVfOHd5Q0JlaXFXNFVtWGU1Mm1yQ0s1QTNBY2ZDU2tnZ3ZSOEFlSGduWUpJMmYzeFRab0Nh0gH6AUFVX3lxTFBRRnUydlpFaVFKVGVuTWt4QlBpRUN0MW4zRHl5aG1NaVJWQTR0VHJ6U2ZSUXNDdE96bmFXZGpzTWZxV2tTVHZFYWplYjJmcGNlWEpvU1lXOGVzd3BsSHRBZG9TOGpsTEYxV0hTTEd4NGlOcExYZjI4eWJXeWRVN01vdkxqV0V6M2dFaXBObGJPOEpHWmdFLS1MTWpYdHFkSTVMWEpiY0pTV29JcnoyWHRoZVBRWDczcG9yVDdqNGw5RXhLeFBrb3RDSHVpQmhucG5PQW9BcnlYUmdneWc3aTZaOGxjTExTdE1KWWxQQmlMbm1kOW1qbmg2ckE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news-analysis/2026/10/27/qatars-path-to-defence-autonomy?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/attackers-kill-60-people-in-ethiopias-conflict-hit-oromiya-region-orthodox-church-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-27/afc-munich-re-to-share-1-billion-trade-finance-risk-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNck16dUxTaGs0SGVBR1NLYWJvUDJDRTc4Y2Z0ellOVW5NempCOW9GUkVCdDkxOWJad0tvdHlaRnJiYlVhc0gyVEZPVjFIV3JadWF4a3ZyQjlhdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BVGE4VExPa3FiM3M5c21IaWhFLTBwSHVKYTl2TVlHRnNnN2pRVHp2dTE4M1NOZ0YyQmRuYkQ5M3JVekZrLXd4Wi1QX0R3SGNtdTZGZEFn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/27/uk-budget-2026-john-healey-bond-market.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610270147.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3344454/dna-tests-expose-24-more-chinese-children-with-fake-thai-fathers": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmlncU93aVJFQ1pkTnd3enpkTWt3UTVqelRQQi05MHRmcVQxY2RkaG0wOWFibUppXzI3TDdMVVowbUVxTHlNVHpmT2pjSXphTDhYeE9DLWxGY3B3ZW1ya3VnUWd0WmdiT2t1bzd6ZFpwVFlsdzZZZUVsazRQb3dpX0pUTk5QbUM5cGFPOWtZcFdpak1ZUmJwamFtMV9NdFBJWEx6SUdsNWpMclpjUkE3UUlDa0lLWTJONUFKUkNiNU8wZ2hmMnlJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWi16TjZhSlI1cWJSOEg0bjF0eEUwcGtsN3JtUXhWRF96TTBNTE1KaEcxY0J4ckJpa0ZUcU00SmJKVnBZOUhEWlV2V0ppYzIzMU5JWmFObzlGaWdQblk2NTdFZXNKbl8yTFN3X0N4ZVRxODg3T2liNEdDUEdhVUJrNUZrMjc4bUpCX1Q2MzJ5RnJHMjlHb2tkQ0dnZkIyNVotZEFsMjRhSWdVR2xEdlBiY0VYS0hlS3Y3QXdINnNWem1oVzlYanhMd3RpcU9lRUN5RGNWZ1RQVXNqOFRHUlQ0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qVmFFemRoeFVVT29uQ1lPSFhta0pPeHVlWDdyMmYtbWN0U090YW44Njh4clE1UXVyT05JVzRlWEs3OEdPNF9OdTR0Smt5RkY4LXlYQXdn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0Z6R2g3QUttRFF0TWswQ0sxU0QwNkY0MEN4eUVQRFQ4YXRfRkhkQmtjUTU4Z1NCUFdoX1JnM25ZSDFNcldxdjNUNVFyZFhUNVVlUGVvSW9DM1g4bFg0YXd3VS0yek1fSGNIWHF4MFZOMWdid0lBYTM5R3BKZjZ4dDhzTmduZ0R0SHFVYkZXQ2hKa0tzSS0ycFBCRFFSZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WRDJYVVY0SDZWOFNBSjRBXzN1WVJvdTBENjBybnZETHAySU1RNjlUbDRNN2NzeGl0OEtORUR6NlRCWm5jbi1JbmtBWlBCRWlyT1phM3pR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDhmNTFfVlJKeHZOTGVPbTBoUTFkWGFoa2NMNXN4TUJPOHlFeTVqS3hjR05fWDBQbkpZRmRkNnNfOFNRcnBpd3JvV0dkb0FMRHVEMlFZYndUcnN5ZFF0M2dsNTZER2dGdjZEajFfYWlVMHV5eU9oQVlQVmhhOUxsc0dFQkg0anFUWWc1UGM4RWRwM25JVTdsejJzRU5VYlVGQ2hZZlVEWlVkRVF0M0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/27/wales-first-minister-were-within-a-union-that-is-not-a-union-of?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02bUVZVXltd2JWc3VsTFIyeWpXXzR4aER2QW1ReDhiSzNaREwwVGxacDVnNVQ0c0Rab3lUbWg2VjNVUUNQMWdXNHRwVTVPWmM1bVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sQ1hpaUlnWW8zN3lIeUtTVEZRb2xxNy1hTGNmUUhTYlU5S2JtcHdMa2hiakZkWHdBRWlTeVlpYUxHT0RtTWEwM19KZWkyTXgyVGM0SEo1OHkwVW1XQl9OU3laWE9haWVa?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjZTTXg2eDNMTTdoVUJxdmFaaXVvb0hFdXBQaHJycnhNTU5jM0xtZ0k2VmlEdUIxSWcwZFd5OWRxaEdpTVBMSE9yNU5WTGE0M1RzMjYtS0FOWll6M0U3VHlqcXRLMUw4ZmxiNWc1T0NBS0F3SWkwV1E5X0VDUVEzSzRGVHVZQ3VUOUl4bzlQVXFucl91azBLeXA0RWdNSWNTd1NFRmZKRFl5VHhZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/27/mastcard-stablecoin-bvnk-.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaE5MTDdiTFRKcjhUUzhfM0xhZnZkbWhOaUlxVE5nUjYwbS1ONlFMOHVyMXRxbThUa1VLZ3ZrQng2NHZ2eUprcFR2OGR6U2NwYzN6NGxHZGFYYjR0SWV1YXNjMVl6ZUZSUnhVV2JCWVVNNHhRRjJ3Tll1SGVlRldPWW1rUFFLM2ZKNm9xUUVEOHpVQnlzTHplSFdQOVRFQ0xLaFFyZ0ZYOWpGS0x6UHlKVkFSV1NJTFpJRm80bXJ3VQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/brussels-playbook-podcast/inside-von-der-leyens-commission-shake-up/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yT1NPZ0RlY3lsM0dUUDd3MjY0N3dBWi1OY0sxZ0ZyQlRuU1RER01MMkpJUDAyNXBBN0pPSXd1UTZOWkhvZjFscTJUanFnTVdJalUwcWJB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
