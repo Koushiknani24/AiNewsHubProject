@@ -191542,5 +191542,239 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/1020671/sony-playstation-5-dualsense-wireless-controller-prism-collection-transparent": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tMUlxMlhyZGowTmtxUW9oU1NrQjU1UzBWd0pobmpmdG83UHBURXhSSkgydEdTZnFJY2J2VFpJOGZGOWJlMGc5VEhxaW5EVmRYZ2NHZHJPZXhhV3NSazdDb0NpSWZMc3hBMnBYS210Nm5PNzRJTWfSAXtBVV95cUxPRWNadTVHenE4RU90Q0FxX0lOWjJWamVmRm4xUnk1cVJlZkFaeDRjX21iX1FKZEhYRmZVWFBPWDhUQks0elVQbjU5U2NVbTdGNWdsS1Y0Slo2SE9zTFhjc2EwQU9EaHRoR3pWN3Y2UmM2TmswVUxTODJObXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/lifestyle/arts/east-of-eden-sense-and-sensibility-tv-film-adapt-classics-1236741748/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/karnataka/inter-school-science-fest-on-october-31/article71635993.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYndKWEVTQXdYMEhHNEM1UnVNb2xtdnRfUklGbDdEWUxJNjF0dVhDV1JOanNfS0tPOF9wazg4SExIVk5zWERBa19aRWpGX0REZEZ3WUZ0MFpqZU1lS0JQUzAtUzhYdVhXTUJFUFV0eUdjR05NUDlFc21KS3VyNEJYWjR6djNMbm1Sa0FDNUhBMWpFS0JXcWcyQkZlbUl2UTRYN1A3UHY1bU9RZU5OMVVPbndxZUFrck0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0padTd2eWR1U3hsU3B3SWRoOGlTelZOd1FFQ2plMXJqWmE1Qm9ncWF5ckFlU1dQX2JGOFVYZ1Vtck1kdU5IRzcxYXZBVG40NUxSSVBmVW94WHdZZHV1aWdBbnowNEQwaWY2c2lMTHMwLWxCSXNEUkRTZ002a29LaGZFZ2p4dTVsS1gtVHFzT2VfZVNQSzhWTmxOblZyalJnT2pKWlZnVWloUzB1Z2ZhQy14azNzQ3FTTEdDb3lQVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/billionaires-shatter-spending-record-to-fight-california-wealth-tax/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmNWMWN5MURSSkI0WjgwN3RNZjRxQWJVN1ZPdTFOb1FvQ0lIY3hsS2UyRWNObkNWV2paS2xmVjBHOWhjNzZMemhqTVFaX1hTS1l4dmZ6WURvTWpId0ItV0V0ZExDZHctdlRqNnpFMGFqUGZhakQ5eE40OHVsMDZna3h5d1lGNkhtMG9LckY2czVTN25fdGlR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZm5fOFNqTHhwZmdOM1JWeThtU21BdEh0WGc1eGtkYzdGbkE4WmRKSm9tN1c1dFFSbTN1TGQ2S2dxUlRYOElpWFZjVFdjeWl5QkVBTlRfVkJkc3VpandQQzlJUTViM2JIVFF2YVZxVk9vOVNEWHQ4bUF1UTZPV1puaDVfeVhuTm9nNmhGU0hnc2hGc2VyYjJlSGJ4T1VrRGVtWHJPQmtSUEtXODQxVDdsNmJZLU1hd2ZtRXluSk1nc05VUlZaT3FURlZXUU41bFA1LXpOV3lETjVGdVduY3BubWVDeVc4NXlr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbW1OcTJSZHV4RlNoVFVGS05hNjA5TVpPemw4S1RIZlBIaTBBeUcycVJYUlc3M254SXFNeG9RVWRzNGhVdnlibVJMVzl6WnFOeTdwQUY2Z0VHcmtaZnVNU2duRzBCMzlMejVfNVBQMHduUElIOXUtNlZWeW8wd181cUlERWthUUtUbWhlV1NyMllYTVdDV0s5RDNUdmtwWFVQZ09VVk1LNmhSQdIBrwFBVV95cUxOS3dPVFQwbm93YUswbWJ1ZUJRY2lPVEdMMGYxc0MtWkM1MzJNanZfMTVBbUV1eGdKR055V2l6dHZISmp1UVNvdzJUT0o5NGhrVHpuVnM4eExHU1VYcmZjVktKNmR0R29BeXJ1LUk5LUJaeUxfdXg3YldlcmplMUVLSVR2QnlKR1pjWFd3RGQ0dUIwRVJ6RGZwby1sbXVFdDR0b2FPZ011UnB0UTZwQVM0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QW9UMWlLY2pRNVVoaGhIbHpESzhwZ0ZUV0ZEMnhNMHNaME54YW9wZlROdVp3NFA2N2h6NG9pQ01DbE83TF9mZkxsd0YyU2N4d3NWbFlpVmtYSC1SZDlJSFdPUE50Qld6bzlRb2J3M3BxMXhxbWU3R2t2MFhTV0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0xOZFotanU1bXQ5Q3ZWVElDT2pKd3FZZ0I2X3B4SHFQUmZjRWVuaGE0M2lEbk1vRFdBcldjekw2SHdMZEIxcnR0M21iemEtOGthZUwtSGhIS2xvM1FEREo4SVJQMkM5c3FtWWlBU3cyTGlGTml3c25sbXVQYWVITmd3QnJ4VEFoTEtzMVRkMHhHSF9mc3V3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQXlaQXdhSmFQSjBhWmhHSUFkYmVrNzRxVjRVU1RTMDZGekZjMk0zTkdNaHZ5TXUtQldVX2hOSnBzZEZlOE1CT0djMFBVdzJwM24zNzlKREdiZUtkRWkyWlgtZjBkYkVGV1RCTmV1VlhjSEhRakZ4R0FibzBYX2xhcUhHZFFpWGhDcG96aVNwaWJnWE5oRG0xd3pwSkhaMjhIYjl6Si1FOWpVUm5JY1dZV2dvVmdRQ0ZsMlotNThIaFZzbEFPQXRWZWNn0gHPAUFVX3lxTE9CVEZvSkNzZHVNZ0pwU3FkTFlLazJSY3pwaWw1MjhWelNldHNIenh5NUhSYmlTMDNnSzhxU2RIY0Y3MFRYbmNJckxxeXg0Um9JNVNmQmRNMjR4MXZvNHF0WENvMmhTeWNQQUlPTW8tZ1c2UXJIY2FtUUxBT3ZXN0U2SnltQnZKSkNtU3UwekduTHNoNXZ6TnpvSjBZcFNEVHRDSXJ5ZmxaSkYxdWt2N3dXcHZycXRkWDJOZEtfN09QakxRVDJrU09vRXROYlNkYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JZ1lPcm90U2NzSGhoNUFnSHc3UmNYcFBCSkQ0V0tJS181YktnOW04VDh3ZTU4QjVEQXpoNHVYbUV2TFV3LVRhbW5FTThNbkpjdnI4dklEMFZQQVRuNjRYb2owMkhkai1OQklEVE9B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1RpZ042b0Q0bTBwTnlNblBReFlsSGVKR29pMV9rRzhtZnQtTEpjWGlNOFRER0IxclBRa1NnbGhoUWxwQTFZRXhTd2J5UHZQSGxwRTY5Z3N6eHdoMlI3LWM3ZUpBSUJrTHRYcmh5X1dYZDZXRmNvc19vNDRueF9VNDk3Yl9OOGRqYTBZbFhyekkyc3F6?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSEo5Rm5rNDMwMXVnR3h3T2NrZE1vd0ljZ2NGZGRNcnpTeFZUa2lyb0FiNVNzNk91NGpMbElVM1hsMTJRTGNxYThlQTZGUlJzbnFOckw1RE9lazlfVVp1cWJwaVdJUHprcW5ZSFpWRUpyNTFJWWRXVlU2TElBNk5FWjhqeFlBYTBQMnpvRTNQcnpBWXVUWXpyV2lpQTRmOGZZOWloY3V3YkEzVmRKSDE2X1puQXZOR1JPbXAzc0ZMSDN6eU5jbDFvQ09aVXM1MEpFWWMyOGtjQlhaNGk3aXNZV0l5LS1vMGVYcXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX1UwRmItMFVkNzhpRnkwOUxUbndoMXZ3ZzRqcUdmUHRTcVFxVDJZQVR0Vlp0Vk5oWmYxMzA4X2R4NWdVSHVEclI1RzAtd1N1U0Z2cDhwWndscHktSEY2eFdvU2JudWd5emNjaWU0RjdHajlPM2JHZ21VUFJ6Qy1ya3doRUpRV19jRnpvUEYxY25Scm5kUzJBT0JIWjVQekNiYm1HY05GUnltRFk5bVR4TG1KWnhmSVg3bVR5aVN0UGxoU041VU5jRmF4Nk1aTk0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTk9tbmdGeXU3SkhZNFlDZEw0cEgtSkQ0V3ZxZG8yZzZ0YXhSWjVSOWxGV2lya0pUenlUX05UcWpKT0RwZ01PS2hIMG80Uzg3cW4tYmY3UlQzZGVFQkxtQXdTcE5rTi1KcHpEWk5pMFUtN0VtRlNrdXYtVlQzUzJpTkluZjdnZGc3ZVlFT1k5MDFaSXJyMXZZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/culture/culture-features/inside-dc-comics-absolute-batman-superman-wonder-woman-1235647159/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3345215/eat-the-rich-indonesians-fed-up-with-graft-wildfires": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/caretaker-role-could-limit-netanyahu-but-not-rule-out-war-with-iran": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/uk-vows-defense-spending-boost-by-2030-but-dodges-hard-questions-john-healey/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMk0wTjU5Q0dyT01nZjJQRmwyM2duellWaEN3T21XZEVqTTFiS1NEcGI1VU5kcU13eFk1RE81Sk9zQzJVbkdETTZzSnRiUlBuZTA2U2EtVEpIRmRUSEdpTURfaTJKR1c5dnlKV1F5Z3dTU051VGdGSi1tUnF2LXhIS3k5Mm5FQ1ZzcGtpZ3JBYXUtbE9HQVZzRF9EQTdLLU9qdHN6YnpEbXRWd9IBrwFBVV95cUxPTDFBd1dMazFiUGptc190MXpwanUwcVpjSkswdTJoMVdBcldya0ktbUM0OFpXeEpTRWV0Zlcxcl9QWlEyNWZNdUwtcXJOWDF4OWJqRzFWVGNsMEhHUnAyY1p6NWhvQjB1SGM3Zkpocnp5bGdrNUNfUW1SZ0NKVDZZQk54Q3NMU0o5T3ZFRmlDRVZzdnJMa2JMQWZjeG1WNHJQb2FqaDZmNldUSlktT1hZ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0dySlBvbDlScnctRjU3VHpKTGJWMGFXTnQ2WkFFWXp4Y0tfdm10SmtUd1NCR254c0N0UzhJOFV2OWMxcUZaZEhLSzU0ZHotYmNkZ3RZZVVPWmw0Nl9oc2xvNkhFaDBEUXkyZkRCaVVhak9nZXhJYlZrNWVZYlByVmNYNm1JX2pkMkM0bWVFS19saENHVGotRXJxTW5qakNVd2lFaWI1ZGRKWms?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHVEN3NucFdTZWdGM3BwRWdtOTR1NFViMnpsejc3OEpuNlZwc2ctNVJOVl9RVFlTWTVQM1ZBaHl6cFFlX2Job1o4QUdyOXIyaXdSeWdkNzQ2b041LTNweDJXWkNpbkExMGZPSTI4WHNhYUY1NHA5TmZFNENvMVRyUUxsU09lbUZqaEJ3WnlGQU1VaGxsOHFIeTltVkF4QjkwSk1z?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VMHd4Vk9YTXplakpYU2w4RlZLdEx2bnZzcWlvNE1WcUpuaG9tanFscWZyVzVXTDc4VjhCVk9KYTU0U2FUZ183dktRY0c1T2VjNkJTblFxbWpJamF5WlYtTmVCdGxMcnh0MVdvT1J6RHJXdmlKVXM4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/senegal-arrests-30-people-at-casamance-rebel-base/article71637118.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaG1WWWdxUjdIRHRwcU9OSzlINkVBNFB3bkxMZUVLSXNGbV9yRnJYaTlLdl9nQU9wdXFrU09fUHlwTW5kM1ZVbnd1VFZGZ3JRVUp4YzVjdGkxcjh4eThIdEJaYi1JNFdnRjZNY2M5VEM2UEJNekE1RUVFWFhPMFJGZkZMUk1hZTFFd1BMUGZIaU1RSnpaV2hoVzlHNDN4OGlLLTZoTldJai1xY1Jma01jZVdJbkY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU2RKRVQ5Ym9kd1Fva1k1Y1JoWVM3emZLMVZkYk9Lc1RYY3NvTXQxLWEwZWdMUkswSzFCd2lLYnFDNjVPM0YyMjc1eEJiVmdiNldNYkU3LXdaQ0RYdUoxTGxXbG5pZWRzazRicVBrOEUwYy1QTHM0TDc1Si1GYnk5RUtkUDIxNXhjcGY2VVd3cTZtM0FIS2VQQXJlTUg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdlZRemJtelVsMncwTWdHc2JUV3FCdUM2VG5GYU9fWFlUSGFVNXJjb2hRY0FoVndmRWFfSHZ5endFYk1TYVJZRVJvZUs3b2JlLUhfN2VkbEUybl82bVU0eW5VN0xmVkFSOGdueEtkZkNRNlkxSnMwRGRxYmdJSnItNWx0VklDWHcwcjYtaHhoZENYNVE0SUJ2MVVLQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHBFdE5DSndVTlZFNjR4bTVGd1lpSzJRRF9XcktVVDE5andQLUtjODVoQWZuYXBiODQ2aWI2RU9tNXE3TExoOGRuU09oTUNQTjBxZVJqWmExNWJsRWpCNzNWWjZvdGNfWmxMemF3R1BsaEZHUXN1SW5yTDJ4bndYZ1FfZmc4ckFKSTV3MkpGVllhT3NUY2ptRHRIbkFRai1zT1hfR0N0MExGRV9EV0I3TFJfRGtEejA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/10/28/boxer-serrano-to-hang-up-gloves-in-puerto-rico-farewell-on-january-9?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcG84LV9LQldoUVQ1X0gwVTNfNGFCT19wUUNURjdjWGIzR0NvUkRxeEpRTjA0NF9qTUktTXZHZnlUVDZ2S1NMblpVRk5EdUg1cEM0T1lXWGh6dnVEQVJ6OEhuOFp5MDAxUjk2S2RNamlmMjRRWF9HU0V2bzZGNzdlaWZxMUI4ZDFUZ1FyM3R1akVJWUFnN0lFd3RRUEROUVByY2hvZ01wMEhtTFRoR0UzOFFKNNIBuAFBVV95cUxNMHA4MTRpbmdyOHA4enlfNm9JWEZfUlRuUmFId2haWjRweTBBU29YV3hFRW9PLWpWNXVERjd3bmltU25yOFlpUXFDTU9JcXVILWtuZHpkR2wyUkNxaFFpWTNCWkR6dWowcXVyNUhqdmRfRUdXMzQ3bXhjV05GUlBtSXUtSjk0QTVFRzhZODVzLUdTdjlRalJZSkVSSHRadWRNY1ltQ3BlRVBybEtLX1cwRS1oclhGa19G?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX1JwZWt6SnlLRkM4YkRRdWpmeUVYQk50ZlNYYXVPSzROTnFzWDNlZlBPdldsSm9qT0pWWG9zWlJGRlByY21BU3JISlNCSmc4MGlUWEpNNUcxenZaVUdtS3BFd3lTcGFCTjcxcHlRVXpuLWZlc29tMHA5MGt0TjlRNUh3N3NXakMwaXJmcE5leS01Q09ZVWF3dnNiVUFhNllSZjBMOTR3cXY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
