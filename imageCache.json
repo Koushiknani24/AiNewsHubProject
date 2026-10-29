@@ -192148,5 +192148,161 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-29/stmicro-forecasts-growth-as-recovery-in-chip-demand-continues": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-10-29/healey-defends-uk-budget-warns-hard-decisions-ahead": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/29/eus-push-to-reduce-reliance-on-china-could-come-at-a-price": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610290154.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1FWNmxZOVlXc3AtT1FuLU9JQlB0Y1otZmZINnd1WDBSYzg5Rnc0N3U4UDlJMlV6RWw4ZXhzRkNZSXNUWVZXUE5zSlh3UTJZbVlWc19MV0VnUmxDSW9SbkJFVmwxbTZxRVhES0hmdHVsYV9ZTXNTbVpicmpjWXFCTEpKLXFHTVdtbXfSAZ4BQVVfeXFMUDZHZTlKc09RMERoQnJmQU9ncFVxVW83b2dBWWM2bTVOZHBGaDdKUGJydl9lVE1XU292ZDRKRHQzX19VNDF6WTRTNWQ0czF1aEhZUGw3ck5XcThrb3YwNEUwWms3dFJvOE1YeXZPX1FsSWh5SG8yOE1nWThwZFJPNXE5RlRiYUZWYjJIOERMeFZ3OVYwQnF5MTNRVUd5amc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOTJYU2JKaldWMWRnMWVMWnNZMmRuNWVYLVEwQURmYVRhMFEwejh3QW1VUVJucUJ2WU9aTm9CUkNPZGNQZHZkRjRVN3lZNFVSb3hsaDJlbGdkUUxFWE12ckNqUzdQUEE3a1FWSVNVd1hQX1k3NEtIZ0xuM1Z6N2lETUt2dU8yWGZNZWpIeGZ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDVsNkxoQnRUcGg2VlczLWxSbFFLMUtWdjA3SkpvTEx3Y3k2NF9zM3ZCYldXS1BUcWxaV2ExWVJ5Qk9LVWw3ai1FbHM3VzZpQzBfV1I3eXNSZ1A3NHFEY0s2RW9SN1JmeHVwRkc3ZUFTc3JvZ0JFclRXRUVNQXZxRVp0TWpnY0lqVU5VUnR0OTVFcUFaaEdqaUVuTnRaNlItQXNENUFSeDVpTktiTFBF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XbHJZVUZfZjlzcFdjTnNuX0FybXJDWEtraC1EMXBTN3V4b19WNE43X0pXS0Rkd3JIbmdRR3pkRUdpa2xMRkpoY2Q1bXJmSnZERDlQYnMxTWFWYkdSY3VRbmtuOWM3SmY1TmtRbngxTU9Xd19TaXBiQW1HUlA5Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNTRTN0Y5MGdzX1ljbWt5Y1oydGZldFZwWWQzUHcxcl9fSW9RTUdZT25ua0RudERtV2E1dDV5aTR1R1pYbVBYMTN0TVFBaWlHLUQ3cjJlZVo1M3haTU1KVUhkZ2JVVFE4YVpxYlF6NVZEX1RwTm14Q2VndGxteFFiSHJwdW1PMks4Z0xLTVdEVWtNQlRWQVJtQ9IBngFBVV95cUxNcHN0OFNkMnEwajFVTkxDaE5SOGxpWGVkbmVxaTVIaFVodjlITkQzNmR6VjdoZFY5UnRxUE4wS0tTUHM4Q0dHWldaTEJCMkJYUXRoam1PeENURW1ITWhVU09rQWd0aEZOb1c2SkFFcTdwQkxzU282ZDJaR3JLQ2VpOWVVM0R0dTNCd082UXVOcFhLcWdJaVpOaVZGX2sxdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXRpVHV5aHFZRlZmYjA2LTNtelBFa2R0eTh0NXk2Z0pHVnp0YlFJS0dnaGxJRTdZaTlYN3BQUEVmUlc5SXRTZ2Vhb1diUHhYaVVwWUNNVjVuRG1oVjNMdHRaYnhId05xdUZiVmNyWVpPbkFJb3cxSEFhLXlhVExoeWFtN2xNRXY1d2VhcV9oSG5JVFBPM0p5amxnaXluMjdIVHV0Nmp2Mkl3Vi1tc25zY2d2Q2Itdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDQ1YlJNUFpwcThRUWFGZmItOS1EWG1GU1ZyUzk5c3VhbkFSRmFnMS1ObUlWemJSRlNMVE1lYlhwZndtVE5aR1V2elhRdHZuREtHbWx1cVA1Q2hyTk44LWJJVXFxbVNmeWxuQXplQ1I0WV9RY0ZhYVdNQ2NoR2g1Vk9aVDR6ZlVxZEdBVzhVZ0V5dU44ODFGR09LTUw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmVIdU1FSEwxZkxoSnhpcWZPNHFqM0NfT2ZOTDZvQW5XUlVSSGYwTmlaRlhKdXMyRlk1ZVJ2SHpVeVhaTkhiX0FWWHhLdUs4bDU4WjNlV2Z0Vno4VzEzTlRoUkJOeTA5eTVvT3hsY3I4aGswSmVNbWJNTkZzalpUMXhmVTJSVDZEakxodkJLeExNaDh6UHBuVkVvUjZzbEE3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWVVDUlhhaU1ZMV9MMVZ2QXQyckVaV3RoQVB6M2g3LTRnR1hfUjF0UzFpVTBqUU93NE5wRGpmdU81VnNVb016X2paeWNVR2Z0T0hxMm5pVXlFZ2loeVota0dXRmRaZTZKa1JiSEJUMzAwQnQyTkEweFR3azFpU1FlWTRyOUdDWHpIdmxuY3huOXFmd0J1bmx0dTVNQVhPeXJLOFNNMUJIR1dGNUFxYUJFbmwyUGFMTlZnS3lHTTZUQ29nVVU2cGlyUndZekZBOEU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-29/jio-s-halo-brightens-momentum-for-mega-deals-in-india-pipeline": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202610290144.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUjBpaVNpcnBablB6NXNDNExPTGNKd2cxUHBsa1JJcFdCT2ZIREoyb3FPMzdYOXM5c2FTNDNEaEZkSVBnT1JYRWxOSkhjVWg0X3BUTTJPSTZ0TkViVHhOWUZFcDdMMVR6WjNyQk9qSzV2Yjl4SGtzOHREdnlEMGZiOG4wRTgzN3NSNEh1bjByTUF1c2xQaS1nb3Z4TGphNEFtLS1aM3RVZXJkMHJpeGx3cE5XaEtMbmpxbi16UjlyQUpHd3drQVVJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRllTcDlNUGtxSnMxX1JSNVpLdmhELThuakxsUUV6MmdrdVpHZzRCcGFrWmRIQ3FFT0JJemIzM1c0cXQ0QTdTQWlCSkpGVERUb0RLSXdGMzh6UUZiaWNRRzlZOHI3eUdoWjVPYWszNFltbDR0dlFMbGdDaHJoZ0xCNkV0c1pOQm5aYzVXZ280b3dOUVRSMEk0bnlfdERHSkZXcFRNMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSl9RZXktMzNjWWNNLUtNT1AySlhCNTltZ1ktWENhQVFWaVd3aGdDMkRZVFgzZktHWHp3Z0RKcENRb3NueEs0UHZRcS1yTmVlZTRrNndOSEhTRHBEVGJnQmc5WS1zMnQ5Ymx0VVRGNVpnR25oWG5UaVR6MTA1WXVoZXlQNEQ0WWdOeHB6eGhBSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/10/29/why-a-democratic-win-in-us-midterms-could-adversely-affect-europe?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWdTTktDLXBCUU50ak5KUVBpWnV0T1hMX1VjeU1qLWdEczE3RnYwQmlIaHFLX1ZMX1VleDVTR2pBRXF5clFWQjBQYkZuS1lYbGNWZmFiRlFPV2R6S3hHVjlZaDJpT2hJRFZMb1lOM2VSeXVIRllnVG5HM1BSTUpvWDFuSEZ3VjZKZjJTcEcxOGVRazhXSWtmVGJpbmloLW5LekVxM2JwNHhRTWM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtaTZXTXBWSjNua2x1NXJLZm5leFZKUGRSdXFHWnBNc2pwNlREeHd3RFBwbk9ZQUNKMUxDUVNhNFpOTDdLSFluSER0d3IwUTVtVVFzbmNBSTFtR1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00b2lGVDhXbFlfQU5DclNoQi03M3VCNHdydjZsOFlKclBUNno4QUVsZ3BtM3JtUEtjMzhoMS05bzR3TDNPOGczcDFXQi0tcTNaSG5iQWFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwJBVV95cUxNbGctNExaZ1ptVkdyVXVtbXJZRzA1eHBzSURScXZ3V3lRUlNjWTFPZVRxZkY5d2lFcVZweDJUYm81MHBpM0ZpZGRnM1JCZ0JuSlphYktSSEhITlVwMHh4RTFoVWRjRXI3S3hSTjJJNlFPenVZTGJBbENod1ozdDA4ZlRlTVpvdEtZaEhlclJncXhDb3gzWXpnSEh3bHpGQzdIRGg0UjNsU0tMdXR2QTA1d0hvNjFVN2RPdXUzbkNHUVBuQ1k1dUltVG1sQTBfUXgtZXJHR2UybnM2dXEtUzBCUGUyRkJUT2lVb3VHR2FUcjltWGlHMWpHeXNtUVFGOXlacFF6T0tobnpIM0c0V2xqNERMRnlLOU0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
