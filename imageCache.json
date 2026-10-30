@@ -192826,5 +192826,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-reviews/patrick-stewart-critics-appreciation-1236743268/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/final-vote-results-in-israel-set-up-weeks-of-uncertainty-about-who-will-govern": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/teen-rallies-take-to-the-streets-across-italy": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-30/japan-s-top-insurers-revive-lending-as-rates-boost-returns": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWhmU3lHNVFuZ3haZ2JXWDNHRGhBR1d5bm9qZnhGSnNsc0gwdEd3aWl1S003UkNIcExyZjRpVzBIOU1iOUFCNXYzZTVKSTBDdVlGZWl6aWktbkd1RHJzMnIwOE5QSl91YVhzOWxiTXZjV0d1azlYVzBMN3dhS3M4OXlwbW4xMFNqNnk0elFhZkdKZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-10-30/india-s-small-investors-dump-stocks-chase-new-listings": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-canada-summit-montreal-shared-challenges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnVpTFVQckxvMkphY2VRXzlFSm0yTGoxdkszNEZoZFJvMWxLMklxZHJNZWpoVmVxdUlGZURJZHg4V3JrZUpDVGZuUy1jOVp3SG9NNkRtdmRWZTBtMnJuZV9tMkJjYzZLUGFucWl2NlNweVl5SzFnN1BTUDFFQzdCQ29vQnJzUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/how-trump-could-interfere-in-us-midterm-elections": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPek83VnlXX0pxMUVRck54UENKdG0xY0l6RExVcFh5LXlhYU1FcE9xX2dWdWNBRzEzajRkSUgzSUh5cEsydDZPamdoMFhtOE1HcVNxTmtxaERKWlVnTTJSeHYxaVhNS085NEpZVEZtTGZIeGd6WkxOVUEzY3BFcHdRdVpzQzBoWkxYOEJzNTgwbGYzU09GREZ6cWlqZFN5anAxN0kwdm16SmlIclNZeWNRazFTaVZjbGd1eG9MSHk2bkFFUzBr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRXdlbGx2X0VJRkc4MG9sbEFCNV92M3c4Q1VqSGFORTV6cDBRZlM5UXRFYUE0WnF1dGhiWHdTZW5BUUJud3NUbVdmQTJNZk90dVVHUk9HamhEd0tJWGR0a1dlVjlBQ0kxR1E0WWNiVW85OTRET3Z1bUVhNEZ6VUx0R0NJRFRfcVVWNFgydXpoa3ZCVy1RaC1wcEVmQVlVZzd0MUJLdWNYbXVGV242Tk11aFZZOE5DczlfV3FQZTlB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/tabasco-residents-prepare-reverse-damage-caused-by-climate-change-induced-coastal-erosion/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaXg4cWkxb0hZU0FMMnRrNjNhd1VDLVJaN3h5UlhKZ0s4UEZTVmJMXy1YUDlZc2hySkJ2VjZYX1RLR3BuaF8zU0UxRDBMc3JqS0psbUFPdjU2dFRmeUY3dDN0T0RUMUJCdWVPX3VuZTB5dEV1WWN1T3kwdE1ESldvSXZCN2hjWGZ5LXlSM05hM0wzMkxweW9BcHVDNDdYMHRUSElNZ2hFYWFQY3RTeC1YdNIBtgFBVV95cUxQVGtUTHVaSDAyNGo0cUlROTcwWk5GYXRwUlZST214WUZuMmtKWmZic1pVM1k1UE8wcUM4OTJxMGM3WVE0WVd1WVF1amRGLUxKb0dBeTY0cE5sQlBHTDFSSEJoUlBmNW54MENFZHVOUkpvdEVIazgxRC1xdFZ6dXBrMmFPSXNFOWdiMFV2VlBJMk1qRVhaMjNzSmRELVVjODdzZ190ZlhNWkdKd29aQXRnTFVxSHI2dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWDJoM0NkVTRiWjR5MGYySWlWVnRlU0I0MjdWR0NGa1EzS2R5NWJXa08wVGF2X1hsV1ViV0hHOHlSX1E5SjY2ekYzdVRNWUNjMGdnM0FrSkRrTkRQaWtRVGxUX3NzNS1sbkQ3eGRieF9qMVlkMjFkV3JqTzR4UHZGdVoxWFNVNldUTU5IYk9YaGVJWGdGUHBoSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXdLNTBOMTdVeDl3NXVUVklWLUtHNFF6WjVaYmRMSUxRTWlTS2d2YVhDMDZJUGdRVUhEa3VQV0xRTDNXbHNZakctaUpodUJTZHdxdjlxZ3R0ZE9feUZnRDlNSWdGNDR1YXgzU3JTTXkxYUNFeUZMWTFCdWluQjFuNkF5VG5sVnNFOEhLZU01b183clZnNXpseEFpQlA5SEh6cDVlZFpsaFE2bW15QWE5X2JXTHY4WEE0aGhVZkQxZnA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
