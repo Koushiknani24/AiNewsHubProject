@@ -192934,5 +192934,113 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNC15OTBhWnpKOEhjbzkwa1FlMEtic2h4TFI4X1ZBbmlnZHpJcVF3WC1RQVhYc0dHZVJuYWdaVHl0bWpXdzBDb2VMNmh2VU9pY2EwOU11SVE1SW92b3g4RTJyV3NtdG9SLXBMRjNpcEJpSTY0clNJZ3QwZTNqU1lXbmJn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.nytimes.com/2026/10/30/arts/design/late-night-museums-young-people.html": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.nytimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/germany-news-merz-in-asia-warns-against-weaponizing-trade-calls-for-rules-based-order/live-79803462?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZTU1aFJrdTN4VEd3ekhaU1ktamR4ZFBabHJLVy1BU2lFdnd6b2Q4VndUNzRkTEkxek1WTXNXLVFDbUp2NE9uWjBTRUVqLUpTTDFWQTBHdUJRamNRY2s5SHdTRnJNa0NFUnBZcGs5RkNKNTJkaGdqc0dqTVgxTEZSQW5VUzBZUjFrcS1DbXQxMFFGXzY3Snh1dHVrNWRGZmhlVkZVYmFzYUZHMmpSaFJ6aXdDT0ZQMm5I0gG-AUFVX3lxTE9kR0FCY1ZMdnFlZEpjQ2lCUWJ2b1RWWlJMZmdkUXJOMnR4XzBWNzc3cVlrcUdpcnhKaV95aDRuWEpqUV9RM003VUhiNTZtTW9zZGJVZFczMUVEekVScWo4UTVwenJGWTdaTUlOekVzTDZlNVV1Znk1UzhZWVdaUmhXQ192alhkWTR6M09aMjNTNGkzVlFyRnloUjFleWZ5WmVNeVJ2bnZMZUJIRzlPd2I3REVLNUpTTVUweWFXS2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX0xuLXFCUExIcW5yMDB4QlFaRmctT1Q0dW5lbG91YVhaUVJST0VLaDhkTlUyOUFzVFA0WWRKWmZTZW9yQ242YmFNci1KaU9ua2ZsUXBZekFqMEdSY2lMbVU2Vi1qODVhQ3hfTV9Nclh0MExtR0RjdDRfNXZmTXZjdkRMQlBwSHdZNnFiTHZtRWFtc2xSTTExaVVldEpSaDBheWg2UEdoYXJ4dDFyYXVPcmxaQy04bEhqSlRz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMFQ3TmNpemxKVVZXTVkwdzhIQkc2blZfYWw3N3VTSzcwUkJ5QlJxRUVYcEV2b0VibldlaDRNQkNiR2o1MmczZ3ctM0dncFMyVnJ4OFdPYXcwT3NGMjMyc1dvV2RCT2NOQy1kZ0pjX2p3LTdrSWtJbmdjQ1hUTEx0bm5QZ3FENTBsSkVxZFdmSlBBcS13aFBjWlFZU2ZCY01FLXMtMGRSSGx0SkQ5UlRNN1p3Z2M4MVFRU3ROcTBlZDZZOEhUSkZHWFRYOUd5WUtaODVER2VFTVAtLW1YdVHSAeQBQVVfeXFMTXFRZ2Qtc3lrWmdKYmZsSDhwS1Y1eXNsR0t1S01xUmM4dm5nbDNGci15SXRtSGJ0X193X0tMSVdSYzlRV2xzYW8yYmlNdWY5UGdqa1BINTZNUmNJcThBSWI3OGpzckVBVkhKblI1ZUZmYml2UHRRYVFkY21haW1ZUmtRQlIzNEdWb1FiNDFKV1RKT2tfVVJiU1FOd0xqYWxaRG96V0RCZnhvMEZxdnp0UkMwQkpQM0J4dUVnXzYxR044czBLRjZjblJ1Uk0xb0pEbVhfSXF3Y2JLUi1jS2FwM05WZWhG?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/30/what-happens-to-the-brain-when-you-eat-peanuts-daily-new-study-reveals-striking-results": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGM0SEhFbnE0YVpNT1JHeklNOE42cjlWNVpudUhqN1F0VkhSakp1TEdDcEpGMy1aTHYwZGo5Xy0wUXUyeGFJZjhfR0FjNnBkRHI2b2c4a2NCcG1NWnJpMXNtS1ZyelF3V2hiME1MaFdaNnhad05fak5PQktLWnBxTnhDTTZtcjdyV3dqVkVFX01Qdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUU0a2JmaWRHLWhUcHA0U21KbXEyMEUxSkV5QW0zYzE1RmY2YTlHSl81STNiRnk1ODBwcGx2YjNqaC0yYXJfZXVmUlItb1VpQmZKZkVSS2VESW1vQkJ4ZDhqY25wQ2pKQ2VrSU9mUHJpSTFrMnQ4RU4tMTFqUFp3TWhIVXk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODRCTHFtaW9udTJVbzhhY3ppY1ZoOFcxanRVRE1qVGJaR21CVE9Oa1pDQnRkVFlzMG9memhwUlNEbmgwblBPTk9Ka211U2pSODRiQUxQT0FHUUNGN0dhWGRxYkVSaEt6OHRUa2hmTGRVYUFhcjc4Rkt2bVdXYktWSVVXd1c1eGxyMmhV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/russian-detained-in-poland-after-photographing-rail-infrastructure-police-say": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRXJBay0wTzFRT1RnWmpNRDBueHZyWFV0Wk5jUVNrcHBneEVTYWhKN1A4NWFJSU9rTmFtOXhTWXJSc2JSSm9fb29va05pbUdpaWh1VlM5RGhydDR2Z3VzMmhHUWlhc0xzRmI1X2RJZmcyWFBFUmhwOVFIajltcVNvWUVwN2RXWHVaR1lndHByRnRFNlM0NWlSX0E0N3ljZF9JRmVzY3JHTUhzMk52VlhVRzYySDhaWGxpblZqZW95RzZyTGtlV2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/10/30/nba-cameron-boozer-tallies-first-triple-double-grizzlies-remain-unbeaten?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnFBYXhjdUJXcWNzSjcwclhEWTV4RWRCV2sxRExUSjl4elJUNjhjZmp3YVlxdVRiaEMtRXVnWko3RGhwQ21FYWs4UXd6dGxpSWtOZEQ4V3A2UFlQYzZNMDRZRFNNU01qUFlpVUt1NjViMXJRQ3I2MlZ0VzdkeGFnMGtoa09YSkdoeHFIaUwzenVzaG9EbmlUcEZnZzEzVFnSAaQBQVVfeXFMUHF6YmRqbzdvUkJkeVRWUTVnS19adVFwbWptU3BmSWFFU2N1ZlNWclpQRVBDakprZExHajF4cGxOMnpmOTZtU2dNelppWUdsZ1dvdWw0TE9fUHNlTnhqV3pvdE9FajVSQWZPX1FQWUpua0NiN3RKUk5NWjZmVG1tSjJ6dnRPTkZHWDFsb2xuTWptbmduczEwRU9remVVa3dUbVotNXk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV3hwUEw0UWFoWFktQW5PTktYWnlGXzFiQVpEWEdsWU1EYmdTM0J5bmN2bHc2aXU3S1FLZkhGdS1BVEstY2ROLVNjd3hkT19BNVNWdm1kYW5UdUtvU2J6MnlYbUl3ZTU3TmFPMExBS2xJS2dqSS1NQURxaWwydzR3VC1hVWdjdlpKRVVWYkxGSWc4UFc5OTI2V3FzYWxYWnJJTG9rNEo0cWd0ZGtaYW9SaEZxVG91ZktlZzdySHR3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWG9wRlRXZG9LUkRQeDBYc3pyWm9pcjJBRlBCYjdNY3RjbUs1Zlg2OGFlelJnVlFlOVg2eDRVcmMyVEN6UUt4blBxVEN4VGFYdF85Y2hGZGdTcEU0a3JvQUZqZDdxRDI4XzZLandOVW5yYk1lY1huVHZwZjJYV1I5NWp2OWJtNGZ6bXB2WVVFWmwyRzdITEVSSU95Q0NIejQySEpN?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
