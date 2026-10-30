@@ -193234,5 +193234,173 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-10-30/apple-overtakes-nvidia-to-become-world-s-most-valuable-company": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE15elg4SmJRb1ZtQVdYbGlOVjFveW14Rm5sSXZNa2VSVHRBcUxvLTVIa2xaNVlZSXdMYlppYnNpMjF0SDZjc0FaUjQ3d09qZ3liVWU4UVRpVVM0UmtvWHplbGpJaUtqUUlrbEs5bFBlTlZfQnJuekE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYS1BTGZXVUVBVzdnRnRvMllQaHBnaVVtbVIzemt4TkVrbjc1aUxRcHBwTmRaaHhpdnh5QkNWV1JoSTRqVzI3SC0tOGsxM2tnSmt1VllqRDRyakVmSDhiM25hb2pFZWhTV1dQS3hUbzViVzhTcHctTV9Va3VWcWszc1J5Z1QzUlE4bEZRMTlLTnVzSHcwbTlHbHhvMlVfMVJJWFRPXw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/zelenskiy-says-he-will-head-to-turkey-for-talks": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-ice-demands-50000-migrant-monarch-butterflies-report-border-facility-biometric-processing/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWNQckxSWVN1b2xPZHBaRHFIMGczTGlvSGlZUUptUmNteVVfZzU1ZFdGS1FYQlQ0NzBJRDJwUzlFYjJ2SVBoZDFwaDN4ZEVmQzRHbFZGM0dKYzVsT29MbzFWSDNWc3dsbWl6ZzhieENjaC1HdnpmaTBMNHR2dmQ4bkxvT3NoTVU0VE1QRDJ1NUwtWHBjTVNMUHFmX3Q3RkRLSHoxRkE2T09GdTVLRUg0Z093?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAJBVV95cUxOM2wyTENmb3ZoXzBONnlVem1iUi1kS19yWFF6bkJyUUtTYl9SN1I3NnQ2dHFEWWZ2cEFzQmV2bExTTDhaSy1ucGVtbkMwb0VmOVJxY0ZTU0dPbGV3RmMzTF9GNmhvbGtnaGNkMUxzZi1Yd0hCNWNiRE5MeHRKZFgzalpFMFdNZFRxZTQ1bVhHMFpJdFhuUXdBaElLT1lZbkNZZWZWU0pNM0dlcncwMWdTa1FhTnZiZ04xOUtLZm5RWjNlWDVOS3RjUU9MLTBMRmFwelY1RVlPbGFULWhIVDNsNkhWZWlBZHUyWVpBVmdIeVdSMkJQckpjQ2IyYkNKNnJJZ3I1cEQzbWVnTlhvSG5sYkZwbXVfd0V5OWUyNlNBRHMzZS1yaFZNNngzYUVsSHB0UUFRSWhnbTJtbFBHbklGY1pLeHXSAcsCQVVfeXFMTklLMUs5My0tSWphQ1R3T2lFWjltQXlPa0E3aG83ZGl0OXVQeXpITDhXYmxINjZzZUlqSGNsWXRzRzlVMnZ1V25SZS00ZnhuZng1VWduVkNCWjFucjlUTUpiRXBnQUZaaVVRQzZjUWUtb1BDSHQyUXpPcHVHcTljWWx0MUt3NUIxWDRBMnBBU3F1QUJ1YzFZcTBBMnMySi1lZWRnSlk1YjZPS3dOeEFoOVE2U29YRUp0RFVGVFBaS19pVHRQY3YxTEhYN0hRRGVHVmxVVWpkeGJPeEFLaVc4Qmh5YkJJT1NqX0VsSzNIdGdrcmFXZU9MaVNwa1F2cU92R09CWlpmLU9ZdC1kR0EtSnFrM1FhdWRXaFpBREplSWs3YndPdkZYbEYyQ0c0d1A4aElUQnA0QjRUc1d5cXJIQlF6UnNjZkV3Szc0Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOVFUSDZvLW83cTFFd1NDcWZoWVJhY2tXVVhkYXhmbUVrRThVZ2Yxc2tGSFNUWWo4VFhiVjJGUlpzd2lIRkFNSk5VaWVtNXJCeFJTYmcxaFlhWHVCUy1scjZsOGpBUU0xZ2VZVmN1YzEtU3B1SnZzUi1weU4yLWs3UjNBSFhOdGV5TWgwbTY3bjI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWktMNk1PczNlWkRoaXpNVG9BMHlCNlhGbml2VXZCRVppQWxMeUhyUWJWbFp3TGpoUS1wYl9qZnhfRFVWZF93QVZWZG1KRFlXTEpCQ0NEWjlJSlZPTXZLRGlvRVFaRWN0ZkVrejZ1eTE4OVhfUW03RWc5YU9ZZTdDWFVSZnNTaVRSVnVCMEhHMURUTVliVHFSbU96RHQxVzE0SExjeGlDdWQyWlRIQXFLRnJ5RktTdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/leclerc-fastest-in-mexico-practice-antonelli-returns-sickness-6508576": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ3k4NFJvRHhud2JOTDhPQ3FGRENvVHVfTEtrWFdKMW5QU0VaeWlOenY2YUpfcGFham1zMDBNd0pZSl9IdWNaZmdZR2RMZDhhSHk5Ym1KUFZ4ZGhUVmZPb0RiYlloZjlqREMwaTdVMUlfMzdQdzFYdlJsS25zR2Y2QVoteXYwazFRSlkzcHQxVFNpTzN6UE1SWWg4R0VuLVN0NC0tOXA2SG5TRFVBMXhxREtlMXZBazJmLTJ1TXdYcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcmxHSlJJSHdvYXZoZ2Rnb2ZGY0VtblNjQWNKbzlkZzVfbU4wZ3NHRmNFNVlSdlVGVmRaQ1lqZHdDZXZDbks1OTJlRGdDZ3Zza2FqSnFNYkRPWUNPQ3Zod1Y2azdNVklMSUxIcG43dUVTaGIwb0VVcC1ZaU5ZVFNMa0ZPbGVYdHBlWHZnMGpaQS13Qjg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEV5WmlvcFZHY2hWckcwbVM0XzNqR21FNTFtUmxoRkRpRWo4d0Z3R1Q3Z2NwcC1DUHFjYjBnbWlNNnFlSG8wcmNjZHUzdjIzRlQ5enlSOEx6eHp5MnBwTHR3Z2tEXzBURjNBY0lvdFkyTTJEVDlyekk1SE9GcnBTbDlPZDFKNjVDR0ZjSk5nUm00MG5tc09KRDY5NjhmcVU3bHdmMW5IcWdBYXBGbDEzS0tR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjJYdWRnQ2FFTVctVjlHMGt2UDBzY1JzdHh6YklOQS1admZnVXpLMUVfTVNtT3UxcmxFaUxYWXFGVEVkeTlQZUdHdENacUxaX2pCU3pTUFJlWEJSb1RpeFBFMDh6WktFMUpjUGFKSEhNNC1nMndkYUNWTEw0d01OMXloQUpnaG9B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlViOEJBTmxPUGQ3VkRaTm95aS1SMjgyZ21qMFdIakFFTmhiUU9hUVdra3hWX3k1MFFETU9PR0hOOTc4b3c0ZFJodWlZcDZhdEo3bFZYeEJUSlVXS2VZaDg3MlYzYVpwUW1KSy1wVVB4X2I1eVhQdndZOXNOOUtnbmdheENaVTdDc2s5VUhhWFZXZlZ5UklMU2d3TnVaT2xZUE5uaEh6VGtxWHppM2UzMDNCcDNaeHlwaVlYN1BmV1VuN0JZLWdzSVZWTmY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaGlaVnJkQTFTZnNFOE8xdjFINkF3MmprYTBfQ0pWa1JselpDaDhtQXVIeEFUR21DOEJ4eWM3X0NkYno0ZnJIQXFuMUlMd2dSS0RrTWpraUZEd3ZzQndxVVpjNUlqQUhKUUdMOVpwTjctbk1zS3EwckVEQ0ZzdEtzdXpPaHNFSWFwc25BMlN2d21qWTdUREN6Ukc1eTVHckxpekE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPNk5qS0w4cHY5TWdWck8wYkJFa2F0bVFhS1FYZ0FCVU5XN0pCZkQxbzNQalFMYzR0MnJBdVJGQVd2OWlCcG9Xd3hxSl96dWtpRGx4QUNNdUgwbkd0UlBENkRQSFBaeTJlYnpZWFlsM1F5UlZITkE2RXFmbXBuV3pvMWdFNDM5Y3pwUDNYcnJEcUEyNEloYV9RalU4OVlWQldkaXlpejF2ZWE4UjdCdU9wQWFjSG5aWWpHS00xNktXRHIyb0hPZGVzbzQ3UzB6QmhOSTZfeVYwY1lLb2YweUtFRm1lTndmVGx4cHlNX3BKalgxX1ZoTnVUNEdlTDItZ0hJc2lSYWgxN0l6OF9aTVFHaUVacGlKdW1KeE9RT01SX2ZsXzFNT1F3c1FXNnkxb1FkRWlRcV8yY0dBOWJtR0h4aUNDeFFfSGt3ZjQ4blpJQkp1OVFZblE2YlpKR3kzNU1WN1Rwbg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/mark-carney-puts-deadline-on-eu-associate-membership-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/thousands-gather-in-paris-suburb-in-tribute-to-victims-of-shooting": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/mexico-city-tallest-catrina-record-day-of-the-dead/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/what-the-rift-within-the-tsikhanouski-family-means-for-the-belarusian-opposition-in-exile/a-79802776?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03VjdIb0xmUHF2c0NISmRGYVFyenBKQ1hlVFhLbU1xQlduclFJbVAyZXdDbGtvdGZlUXB2dTZRbHpoMWp0ZTA1Uld3UHp2OUZsVUhKN1N3bXBsUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/10/30/how-20-year-old-kimi-antonelli-is-making-f1-history?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
