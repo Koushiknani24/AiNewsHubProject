@@ -193714,5 +193714,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-warns-fresh-us-strikes-would-unleash-flames-of-war-far-beyond-current-conflict": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOV8xazc1ZzUwLS1LM0lDU293WXV3b3NINkN3ZXppQzJLZ09QQWhJT3JxUDE2bnAtNUhIeTFic0xRelZnVnhsT3prY1M1TU92N2pvWlMzbEwxdVJVWnh1MW11bDFQREhGX2FxNEhDSVRremJsNlA2UmRULVhvQVRRMXJNUEctbW1YM05pZDhSY2tWZmZWMjJmU2lCM0ViWlRQbjhUNDN3T2lGN1o2UHNyM196aEZMcVFKOGZSenhqbnRadXVYMi04dHlhU1dma3hXbVU5aWRVTdIB3AFBVV95cUxOT2J0Vzg3NmtCa1pINzNPaHFBLUFaRS11eVJnbWxxZDBrODA5dll2RFFDVHUtNmc2dWpId2JwTlYxSzRLbllwWG11c3NnVVFKdDZKeS1wMUMyZEFCV0dEc3A5UU01Z0dXRzk2Qk1fdDZYOU81bWw2SU1RdldyNmlRZlo4RWNVRmw3NFhhNzlRa19iZ0t6QzB1cUtmSXQ4MjlWSi1hMjhCWk41RGRXVG9jT2JfRFhZbE1nTm1Tb0pNejQzbDlla290YVpJODJLMldJczFrb2ZIY1lKVURE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/volodymyr-zelenskyy-urges-us-speed-up-patriot-deliveries/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd1FtRVdBOHp1RDhxdk50bWZlMERIN0I4c0hKWnhtTmtzazFWSXRoX0lETWowUk05dnNSdFdwWnV2YThHRUpXUXNGWUU1akUxQldWNV9nN0I3UFdqRG9iZzNnTkkzaEIyT3BWTEhCdTBBQXozUGZhYnR3TnNlbUYyamdDS3FUUnBpbnZHVkFOMHJhVUtiY1pNa3BhZFRyQ285THJpU1g5YVpIbm9JLTBSMmd3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTV5cEZMRUlUdUVtdkJvOXRKX2s0MjBSTDhPb3ItQlVuOThKdUt4elZJS3ozZG9ydndiTG5EdG5BcHFIWGY5elBtZEV6WEdaYkYwb3ZobEFla1poSnZtTFJHaU5menotUnd3WHFvZzc4YkNTNjBKY1FHZWNBbFhfeTY5Wmx1am1qT0VHdTFtalZtNGVpOTh0UUVrTVZmRzg1a29hMQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://time.com/article/2026/10/31/why-we-like-to-be-scared/": {
+        "image": "https://www.google.com/s2/favicons?domain=time.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNbkJpYktoSlJ4SGpvV24xd1RLMVFJZEVsV1VRZ19OV2JlbmpXWUJCekpkWjN2a1RnU0pxelNCaEdxRjJzNk5QWXhPaEdxaEpnVTVzaFFjOTlaQUhKUWJVQjlvOEhFZUxnTi1ocExyUVh5dVRtZUo1eVVnWWxvd3RISzRLVFB4aE1obVZIV0c2ckZldi14cjdLMXNHYmJCX2lVN3JKVTFuSHhMb0lYdjZhOUVWR2U0TEhFalkyR3RROGt0RDVGei1KeDhManZabzgtQ21MZ2xUZWJSSHFGMEVCMVZBV29pT3NqbGlpREF0SmlWQkhJS0E3aUlmZ1pURmRXQnNHeHo4U2pwcG9RM3JTYXFzOEhxVGpvR0xpa2ctS3FwRGFXNlkxTjRnVElGby1KWFZPR3U2NFNxeHhvUWRENHI2RzhKMG9laXNTb0FFLWplb0VicTktTmhpY0VXTGVTR0tsOHFITkRCWEdyTnFGenNMSDQ1NTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/us-campaign-for-control-of-congress-enters-final-weekend": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3gtVHQtOWVrd3YwVGxueHdLRG1uUzJtV2xSbU4tS2txUVdjWjNINzgxQ0pmc1ItMDMyQ1IyV3h3cnN5U3RVdFR5bGk1VnY5YkR5SFZWWGNvRmxseEYtZFU4eDI1VGJiQXNQUG9UcnctVTFoZFpnOWQyQy1URjU2anRhd2VrRkVhRXc3djB4QjA3ZjNuMHNwX2VsUTVaYUlGU3NB0gGoAUFVX3lxTE5SVGZ6SVdadVNLMzJXU2pFMGhHMk1LeUQ0RGNSOWNfXzk5MXVLOXJaNFo1a2oxX21JUHN5XzNNR014bmFkVmNNeGRpcXhQcmJGZHJ3XzNQeUVmdFZpZkNlVzJtYTZ1UXdDZE1DVVJKXy1STldXcnRSWW96YTZrT1BaMzVPQTgwazlYYWczWFpRem9pQmdaUTVKNEY1R2RLcUNQNURYb3otTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/31/how-ambanis-jio-became-indias-second-largest-company?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTGI2eHBGM0txWDFyNGliemtRc0lWVWtJZkpkQnJnRlZzSTh2d0M0V3dsVVdVSENQWENVRkNOaTVMWU1MWjJIS3V3S2lCZ3pDMTJnWVEyRnBJNDFtc2EtZVJNNFhkUU03TXZCTWtPekE0S2ZJbzFuX2daQlBqSURjeWswck9PM1JNOF9mQjM5cmxDdmlYTzY5M1NjNFJGT0prN3hxcmpHRmczNWlFVHU5U2c5Y0lKSkNlNkZnaS1QUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmE5Y01BVnNrbndRNTZLZ3VGbWljWUYxVHRsTndOTUtLMTE2RkhobEM4WVZyRlZJdlVIdy10NGNiWHVPQzdXM3Z5X2VuamJnNEdHMnctaUhyeFZkRnE4MEdLNVJaLXhyLUk0SmRnMDE5R3BaQ19rTThObDJSSkczVnRaSWQxQVUxNXc0TXliVm5paWxxYTR3TXlDNXlySjhmYVQxdzdrSlVDRXNCUmpjVjlR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/poland-president-karol-nawrocki-rule-of-law-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGSmo3WWN3dEdnYUhVUjNRSk1FX19SSzBOUXp4NEg0Zk4teUc0eDBydXhER1o5dXRETEZkNkJyV2l0ZUxtV3dFdg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MU1dnVWp1dmMwOFpEZHozZGtKdGc4VkY4b1V3SlBqZW11T1BMNnpoSExmSEtqMzZkb1hoUWp6Z1RxME9Vb2lIQkZzOGpzaTF1UDFILTQwT0FVb2FDRlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVzF0OTFEeDd6NkxQYjVkWnpCRmQ1cEtKaVJZNWdaaDFySGVQOHY4cklQUXhQSUMxNjRXRFpjcFZhTFBud0ZyQmp4SlM5OGxqY3YtNzRTdGczNXVDRnpKRWJrN1A1TnZaY0pEVEkxRUJCZWtaS1dYT3llWnZIZGswajFiWXZveGhnUFpFZg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1pubEVnTEZwRVFIUmJKWlpfYmp5eV9CcVUyaTFqcGozdkc3VERha1hMVHJVNllkcm5ob19uQ3VFRVFPUUtWY1NLTlltc0lkdDNxTTN3U1hycHBLb3FuLVRrQmkxZ3ZENmlySlBBcWstdXk1WHhyem5ua3p5Z21jNy1DaUlTNkRXOVdXanducE9UdlVoWjFIMWp5UjFja1I3aHgyRUtsdVljVDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjRNWV9KbFhpNlg5dU9DUmNNcGRQQ0NteXJFNlBLbElmakVOWEVOS3FrOUZRX0RkWkxrSjViQ1g4QTFBd0hQQlNCTjNPTUVCSnlNMVhOeURuYjVNOEMtVlNuaUlHU2xoSjRVZ1R6d2RxaDNXeF9jRm9heFA1ZjM1ai1CbFlDRWFOcklMNUhQR1lXVF9pWkZ2S3RaaE9CQTlrbm5nV3Fac05IaTdJZ0JjNjNjN0JXQndNcDQ4c0QxMNIBxAFBVV95cUxPUmFvV0R2WjAxcDdfWmJBbnMwSVRMQXdGeU5QR1FFTEdSZjhGNkRXTmxub3hLbHJod0NKd1U2RzFnampzd19QWnk4VWpfeUlPR0Q4Skx2NlhjVHhqZ3hOZ2FvaDdzdm9BdnZTand5Q0lTTlNhRmluSm9XOFRPVnR2amxFdW9GUHFiakxNUnJPdDlwdkN5Q1JYTTRvV2lBZmV5ZzNKOFhsX3l5N01PLUx1cjVnR3c0aW1VbXFodlU4dksyZ09R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmpVd3FidDlNX1JCaU5uLUN5T0xad3JvaTc3QmlOYjZwSmxrcUJHTlNGNEtseWxIdHlicTViaDk5QkxMaFpKR0dBUFpPWEY5OG1oUnNESW9aaDhNeHdWVTU4VVFjMGhhc3d4TFRyRm52ZkhpSlV3Q09ETElhZ2l6UVd3ckkwMk42TW1uc1RkR3BWTktiMVN3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
