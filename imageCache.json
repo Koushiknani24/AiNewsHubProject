@@ -194398,5 +194398,107 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-01/opec-set-to-stick-with-plan-for-steady-quotas-delegates-say": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZk9TTTlZS29MYjYyZkNSNW9sRXZvN2dlUXR5bDdVWW9pa2E0aUlPNWE5WHVBTGxqUU0xekl4d0pSakRBTWZrbmZCSXRXUl9rVTl6ZEYtTGdkSjJLRXBJaWlaUlZKWUlDQXZGUnVPUEtHQXA0T0o3RHN3dFdBeU5ucnNTT1dURHZY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/friedrich-merz-asia-trip-europe-security-cooperation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingJBVV95cUxPeWMwbVBuVUJvcTZGdlNwNTZSdWJLVXVBSXlqX1pnT1JPa0hTX3pLY3pwMGhOX1JBMkdTTkZxNU1rT2Q4NWwxSDRqeV9wSGxhdDl6WDBraVNKeW1RbElLbDNzeEtkNC1wdHJuSUZsbWFOWFlQdXhqVUttbGZra3h5QThsdDdtaXFTdEJTbEVJcTZsVDFLSGU2WkNpNXc2SFA0X3o3YkNOYUo3REUzUlhRWHRlQlpUMFUxNjBWZTNycFBZMkJmb0hZOFdidFBzTkwwa0ZRVHNKc3hBMjNIWXlPQ1AwWjJ6anNPTGQtUzRZZ3lyVDhsVWR3ek53T3FxQk1nMGxnZURKeHNNdmhXc0xTWENMU3NYeVprdTZCSVpB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/11/1/lamine-yamal-raphinha-help-barcelona-hammer-alaves-to-retain-liga-top-spot?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzQ2aGFMc3FUdEZtWWpwaURYbnFPUno4alA4bHNsQlJqdjBObWk1ZG0tTXJBMEZ5RVJZYy1IbjBZZ1FGWWJFYkZvdlFlZ3JwRFdjVHFDV1gwSVFFcER4R0NGLWNzMTlIc01DXzdfMWtjZlJTNkJucjZVS3RwblQ1UjM4X2hHVUJhc1BKSVJ3VThWLWRlUDNJaFRfdVc2OGlEYXhaRzUyakxUVEhwQjU5R01LV25GMm1MbEgzbmxCSFV0MGMx?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzJYY1JvX2JILXY4NS1BMHFkSnVWUEk4cWhmZi02MjFVQUxLb3cyeS1DcUZPOTdYdk1XalpVMzVpRmM0ek5YNmZMTnlXdWN0bVdEdTdLX0dNdkxLZjdseUVFaUM2LWYwalRtQlN6SVBUYThPbkFObVo1a2otM3pQdldLeU0ycWtaUm1mbHhKcm9EeTRqZTFvNWc2WQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakF0S0tFQ3VyTXZ4MW5HQy1XMFdTM2xJdkFIdGJrdGxZZVNxYm9WS0tkRWVQQkw2bUlCckljNXZpVDBBRkpXZWpXcDFwbmhDeDFDOHl6UXNqUmw5MzhiV1RJcWI0YVlNN2ZyRlUxZlEteUE0QTFZazE3S1Rzc0xqdmxjXzgwM0JPZ0NrZkc1anV1Q1QzLUdlSko3dkVWWUZIaXdRRWlaSXl0bzZqTmpYMDR2Q0x3NDZwYVRQdnJmMlZhZG41aEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NRThkZDBsdERWRTJuOVZTaXlsaWFYYzhWQm9VRDhoR1RhU0VnckJPaTRoQUVobXhVY0lYcFR2cDFHLVE5eG1FSTRvVFU1dG8tMEtWVkppb01lQ2hyMi1WdFBjMTlDQ1hyczU0cVBYVzFKbThxaVlEVTNRMXd1bjQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdWVtRGxyYW9kaTlfWTY4Qm4xTEtaLThmLUdZY1VEV3BQRHEzUkpFV3M3X1hFRWJoaHNsWndxdFVzZk8tdklsSnUybC1mdUNwZjI5YW5BU0ludHE2TkJkSENKQTlEM0FKb1FveW9kVFZMTjlMLU9WUWJ5NmQtODczMEFvWlE5TXNIUEVGMGprWkZfOV84OFo5WWZ5M21yLWl5Y3lUZ3hMU3MxLWRjMnM3NmVHYVYwbXZrcTg3S1loSXZQOGhGempj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3346516/binance-says-resuming-withdrawals-after-major-hack": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzh1ZFludjdBZGphNlBMM09jOFpiaTBrWWxjMkV2TmphTWItT2pxcXlxQzNmMWZadUFYUi1kdEktZWxZQVpoNFN6R1d1WFJlS2RHNWlwSlBNaXhOM3RyWnc3dnkxWFdfTmpQNi0xM2lZdDFkdmVBNDZnUzhveDVBb0xUeXJUTkVrNW5Fa1dhZ2oyWEFYVmw1dUtFSF9iS1MtSlBnQUxYNE5xRlhfQ3lpNTRQVDZvRXA4c1A3NDhlYTN4UDBicVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQd2t3akp3NFdMTFVWbmk0cFo5RVM5ZmFHek95N3RfRkFIT3E4Wk1OUkJtZ1RVX0RYWFlYUE0xYkhwZTUyZTQ5QnFkOU9CUDJ2RzZxSklWNHprU0FWUFJrNFpGcXdhdHYyb29uOUw0UzdyeUZXSzM5NVFrUlJzR3NSRGZoaTd2LUYzRENZX2FQTE9IS3F6VzBiR01VSnhIX3kta3lQWWk1TGNrRmFOZEhIM3NBWTI4VzR2bFh4VWg1cDFaSGhUY3MwOElvVldMc2xYMmV0R3l6WjhfdEpVdElkcWZQakd5aU1NUlNYaVlIRWlNOS1UR0Z0V2FMdkdSXzdZOVVtelAwa3ZMdVYyMWhUYmh1eWdCLWMzNjBhUHh5dS1HTWQzQTdHd2xPZ1c1UG1CM3QyVmEtX0Y0YWVTUUtxZjFyeWU5dmJpc2dMel9BMUNGOFhtWXVDWFdvc2EtQWdCaXEtM3hn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/01/karcher-ceo-warns-europe-faces-perfect-storm-as-he-calls-for-economic-reforms": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/11/1/where-are-the-most-expensive-midterm-races-and-who-is-funding-them?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
