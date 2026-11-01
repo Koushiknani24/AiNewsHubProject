@@ -194344,5 +194344,59 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaURzelpld09nV2I4bDU3cjFNQmVBeE92OGdSdGxVeFJibEVWdUxyN0xSc2Z4dUVGX2taeG1iclhCSXNEVFlkUlFlWnFxTWJtN1pJajNnckEwZWVsTUE4akFzSDhGX244ZzFXWmpWQWhXbkZhY3FlVnpXR2JBTjRiVFpTdFFJdWh2OS1kVXQ2c2MxbjBVaWkwNy1XT0lOWkZYWjh3QzFJXy1USWYtSDB4YTdLa0NfVWk5SXpoMWMwQTI0czAwSm5iamYzSkZNdldkUUljUHFtZlpwVlJleXBtZHNhVl9zQWs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/uk-movement-to-pardon-women-executed-for-witchcraft-maidstone/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxFamlvVzdzdlp2NWJScFhNcEdod2M1WVpmY2JrOEwzY1FDa1FMWE5BQ0tESHljYUFXbUFpck5Ba2xxbmQ2aU41bVJXWTdrY244S0VaQVFpcU9OS21vZjY2ZFlJSHVRWDBRUWNwbWVaSjdiUTBERnNnU1o2THlBWGhQUkFLVmNFMXRvOF9rLWZrZFhjRDJyOVg5SjVpLVAtREMycjhTQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamdoNzAzY1F4X2JodWp2WWFMcHVib1c0U2JpUXY5VG5CSWpWckdjTFM3UHROS0g2Mk1LSGIxbkxEUDViQS0zSVFBdHhIUEdraktLaWFwbXI1ZnJ2Z1hLU3h1N21aNldNWnBXMklGY2JaZUFncmNQVXN0ZnpHeklrNzFBWV8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkM3dmhycV92Tk5Oa2xmTVhpMUI3RnluVVRpV1dlUGtIVXo4NjBqX0RDcjlLVW5FaGN4TGhZOXpEMlhBbzhzZ0gteVMwWUx2dVFoVzhnMzkxeU5tZzlDaHpZZE5LUVMxYllLTVBfTzhTcEZMaTl4eXhKT2l4ekwxWFFWOHc3bjJrWXhHRkVQQTFhOUNXMzlJSGQyZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-news/tovah-feldshuh-nobody-wants-this-tension-adam-brody-palestine-1236744254/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXJ4b1B3NnRNb2dQT2dvUFNkQmNJVHAtMUJJSVU0UEVDMWt2UWN6aFRoODMwSmtKNGJ4TlM2dzhCNXZaTmdWSVltRjI0MlEtSXdsZTJxd0k0M1JMRUFJLTU0UlBNSDJtdWtjRTRGWTZ6cmc3NkFuaHdTSmlhQnQ2MlFZeUhmWURxb2JacjV1Zmt3ZklvSWJPNGNVLVFOQ09NR2hQTjZ6VVV5a1lhUjhPZFpKY2JfZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
