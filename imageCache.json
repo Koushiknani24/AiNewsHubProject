@@ -195874,5 +195874,197 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/politics/politics-features/senate-races-can-democrats-win-2026-midterms-1235638197/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/cities/chennai/collect-sarees-dhotis-before-nov-7-pensioners-told/article71662144.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/03/trump-says-us-will-end-military-aid-to-israel-as-americans-vote-in-midterms": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202611030668.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/nigeria-state-police-bill-clears-constitutional-hurdle-after-28-states-approve": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/sheinbaum-us-midterm-mananera-tuesday/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgJBVV95cUxPNFZfMHhlNlFJMnhjWW8xd2hWSXF5c2ZuUG9BUGJnblk5bmdOX0N5cEdMTXRtVWdHbDlOeFJhTHFnckpQSE5pd1JhQnpwTnJ6UEdGWVprTDhBdHBZdFR0NTJPN0h3UTdFTXhzTDJuVkwtOVhJSHBkaFd5LUtyUlNyZnN3cVVONVlWTjhoaTZGT3pSVEUzbjFaRWZkQ2tUN0dkSFJhV1g2Z1NyLUFaM3JMQ2xnMWNqY1ROU3RFZHVOUUl3OEJnMTRiXzZlTnRTN2xmdnBwekNpalhMZ0lXbzY4Mzg2T0RZQ1NkQlNvVENuelljR3pwRWFpeU82UUk5TkJLam9RTElHcWlqam9UTzBGQ0Q4ZkVycFlSMndJOE5wSnZHcnhkNmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVlUbHByNmczdkJuYXp5MWREcEl5ODVHelI4bEZKTFh3eTFqdzhoVHJfQ1NocXNEbmRKUXk2QkdYNEQyU29ORW9OVkMxR0pybi1kVXM3cFQwLUEwaW5sQXRpMFc2dzZjSFEzRVFOc1VqbnJGRmJjMW9rTXJNekpMckpHcHI0N25seHo3d1dpZ2hsNWRoTDZjZE9UR053S2s1NkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXVGZEoxOW54SmI0YXk3ZXgwSGdXaWp3ZFMxWUQzSDRfbnRvZ25Rd0hRc1BMVTFfQXh6NFp3Zy16Z21zUjVoMzU4OW0zMHA5UjZ6c0k3WkNrMEhiNUFVQVBiYjdsLW9RRnJvTGsxRUc3eWJqQS1vLWlrSlF5SXg5QXJ6dkg1SEV6XzR2OUdBZnBCY005eTdabA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHVHVERjeGZyYkVSUFVmLTI2UnhROGNwM2NEQnNfMGVwQ242ZTk4TUtYN2w4TmpVeWRubjVpQnhWVmt4SXZ4MG0tY3A3UERzaFRpeTg3UHpMTnQwLWtDTG93LXRRM09jSjE2VDRsR0x4RVg4YmVTLW5FU09GOU1EcklXcnR1U3ZPZ3pMSGNMUmpobERIMzVpN2JiU0xtR0VoZGUwOVpzeDc0VlRyUUgzS2ZuM00?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3347974/suvarnabhumi-taxiway-under-repair-after-emirates-jet-gets-stuck": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPXzVEeFJxc0VZdlI2WG5FRWVweTBJOHlVVU9WNjdLc3NMb1pnd2ZjdmFzOW1TS2NGZUh0WHQtQkw3WDh6SU9COHJfRUZrOVRCMzNuV2FqRTZBakVjWWZEN1llYm9nc1loNUZabktaa1ZmS1BMVFdxODNlWFgwRl9xa0F5U1VGVml1V2l6ckR5anV5TGlFUHFKVE5VTVVrQThwTndRVEZkMzdRMUg3cHpBVjNEQzZqX1RuVmwwaW1Xc0FmaExhNXJoU3Z2QS1TUGRVcTgzS3RBSVFPTW8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BTEpfWGVLN2ZqSUgxSzhCbWNlRzlTb0NrRzlva3ZPNTd5czdVTVg0NjJBaEFaUld0RTI5NzRmNWpBaHR1X2JadUNaM0dkSE1XZG1HWk81OEZnNHc5cGNvUWl1OWpSanhfaVp2R0Fvcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWNaa0VnUHFnZFQ3WG9jSmRHd2d3REhqTC13RWpfeWpEaFJzX1AtbmtNcU9waEZURWFrVF9HemtLYVVZZ1F6YjNjb1RMNmxYcERpSXU2bWw0NGMydzBxVy1tZ2Y0d2xUQ05mZXVxVS1MZ2N2eXMxcjFTcDNhckd2S3d5cXRMdHk4ZVp0Wm1qVU9VcTExVXUxb05OY3ZqMUl3aFNNQVAxOHlPQW53TjJEcHhYb2dpUUdQb2ZnTA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/03/portugal-signs-tap-sale-contract-with-lufthansa-pledging-to-keep-airline-portuguese": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/china-and-india-achieved-diplomatic-thaw-now-the-border-is-flaring-up/a-79843273?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/cell-phone-ban-takes-effect-mexicos-primary-secondary-schools/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxUHZGYUZZbHJUWVowNHRjcXlTNU1ZWHRvdEdETUVTcWRTVnlLWEdHNTZmR3lZTElTYmp6RFZDQUtDS0d0UjFBSS1mYVIwNjJ5LWg1YTU3QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaGl1Z05fME53MVlMQnNnLVhnQVlISExENmVnSGFqTkNqSncwcGVrUlY2ek13VWJsX3FEUGNDdnZwS0hkSXRYM3FfQ2Ftbm55UWhOcG40RW5meDlwSVVPOFk5V3hrYWxBcmtHeHgwOXVBbVJNM3c2R0tHMXBMZTVUNWtEWm0yeWw2MjliNi1FZ3pJNTNQbnFiTS0zdno0T3ZCTGlkRzFWSDhjUV83VmZWREoya0JVam1OWUtkOWk0c2RVRF9VQ19rcmV1ZERpWHJKU2VyMlJnYUx2NUtSRFpmd09OclHSAeoBQVVfeXFMTkNsdmdCaDN1RUJqVXZtTFl4VzZZTVRYOFdZV3VWWVAzdHFoQU1vWWpsck9uR21tM0ZKeWxPbVVCX1pDM08xQW05dzU2RTdNRW8zN2dXblJvZC1JRDdReGgyZWhPMFNGaVV5enNhZkhaNlFoaXVtbndSLS1jNGd6ZEFxN2JmY3hNcWdWT3VBRUV4WlpJY3Fpd3RLVW4xYlBFZzV1RWd3VUhncWZuQnktT1JoVFVMcXp0VlJlTjJ5STBRc3VJcWVJT1V5RVZDLUtuZWRIYjFXRFdvMTg5R0ZwOWN1UnpnNU9xSUFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbk92SHBjQ3VxZlRQX2ZlWVNMUHEzV3V3RXhpLW1rajNzdU90dEhrQnJiWTN5dFhmNXE2Zk5sYWg1WFBDNG9QTFpSN0RKQ2VGUnQ3UnU0b0pqLXZ6S29oTnR2Umlnc3RJLUVBYl9pOXpSU1JQdmwtTkoxTHNwYVN1b0lzQ2Z2dWc0QlpVVFJROGQ3MkQwei1KVzB5aWFhdVRIR2VOU0htR09PYkh5NkdCQjg2NFBteGFTSXhjT1Z30gHDAUFVX3lxTE5qSVpNcUtFc29tNGVRaHJqRWZ0Nk53TldzTFBKZnNFNUdPWlVWSGoyM3Y1V3diSXFUTGs4OS1BaWs1c3dJaFRGUTFSTl9fUk1EY2QyME8yRlhBT2VuVHRqOW0wSUM5LXoxWlFDMFJyaGxoMVhlUXNqLXVUQk1jcG9WSl81bUFvSUdiUG9KYVBPSEhlNmVuWmF4OW5zTm9sSzYwWnItOFhDOGR0OF9Fb3BkbFM2cWU2ejhzS1BmaVVveTViYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/ukrainian-drone-kills-two-including-station-employee-russian-held-nuclear-plant-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1NWTUt1ZmR4eUxOSTlNZWV3QUY3ek96RGdYLVU3OXZlR2JRd3J6dmFtekhnSHFwNkJUclp3SjBjQ0lrYW10S25HZVZRTVgxRG85MWZhcUpza2FZVVAzdmxaSE1XY3c3VW5TREhuQUR1dzg3cU05Nnp2S3pSWndDdC16eFRIaXFaV1Rpd00yc3Q2UHVYRWV1a1ZVVlVpSkRFbmYwRk9OQldyZk05b1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1g4M0pEMllwMUp5Y1ZScFpPOC03RWUwS0F3R3ZSZlh1aFlyaGVOa01JM2ltaENWRHAzWmNPUHRLdkk1R0lKcThIMGlkcjRyM3ZWSUUydXhrM1dwa1h6eDFPMDlLT1Y0ZE5qNzNMc2Y1X2Z5VHpBU0UwRXFNeEQ3bkRxel9ZT0VvMzdKdWRmbU4wcVljSWR3UDJaSUtDQnVFUkxYLXpTY3psX0NBNTFUbkVMNHhBZDE3b3NVaQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcnVLXzVCejFibkIyMXJ5eDRERF9peGJGaDc2bTA2RVVrcFdtUXgwNk84aTZyWnRkSV8wSU1UT0VMUENmejdpOVJsck5Dcnk1YThsZmFOX2FZdC01UWZVaUNZNnk2RW5nZUVkblZLaWJRbHhaOEFNS2hLcTJJaXhZY2lxZkRWY2VHbUhnZU5GSnZDeU1DdWNkVHlHQ0FlNEF2aExaMW5QV0k4RVMzaVFGUzk0XzY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBmeUkyaWFmdkRxSjlFMlFtY3BBTFN0dFFfN1p0S1g1MWRHem9RYWtuT28xenRmenNxSS10LVVvVFhCYmwzVTZIdDEyR0FQOG14Y3ZOWXBXUTBPb3VDb0ZnMGN4anAydVRkTTVkSUhuSnllUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcG55aHhydnhBcGJkc1VSRlNJOGZWbDdQM01mSlZtV3lwM0xmVWRLc0JFOFk2eVFUTjlTYThqVnp6d3lCUUFMUnJ2X0F6NkR4czZCaVA3OW1kYm5nTkc2N2lZWlFEaTkyQUczRGNHNXhxMkhMQ0hHZ19rLXluY1pVaTNWRGVpS28?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
