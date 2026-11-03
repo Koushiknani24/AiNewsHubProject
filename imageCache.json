@@ -196066,5 +196066,173 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/04/live-updates-on-the-2026-midterm-elections-in-the-us": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/ukraine-accession-path-eu-membership-wobbles-european-commission-brussels-caution/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/trumps-doj-sends-monitors-overwhelmingly-to-democratic-areas-expands-alaska-probe": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUU84TG44N2RQcno1cWYycFRyZE5XdnVLVm14cFYxVWFQZWVrTDNMV3Z2RzJPd29HOVNacjQ2TS1xM0taNmVxeUFvRW9NaENrc0oxNVB5MTR6a0syb3ozSnNlM1B1R0pMMjFsUzUwYU9xakpwU0c0Sk5BRjFTcE5QUG9kZUIzVDg3alFqdHpSRnFCaFg5Tm5uM0JlLWJEY3fSAaQBQVVfeXFMUHh6ZG5Ka0lvMWIzRnluajN6b0ZIWDJHQTV6THpSZFJXbWNfdWYwNEZ4azNZcDE5TXE5LWNJVzhVbXRXbWtXSld6dlVXeGtYSlcwQXNLcVlRU0kxWTJjYTR5SE0zOGxZTUp6MEJ1cG5oMS1lQlk0Y1dSUEFWM05rXzZfQmdISVpoYUNfbm45WEllTnV0c3RhMV9sZGROdDRISWJXWWE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMF9lZUNCbV9yUnd5Q3g1dE1TUmV2QlBGZFFTT0VfYW9SeFZZU2ZlMEw0cmJFOXpsb09vLU5iRTZzeHVNcEd6dnJEdTVVU3dWdmRuV3Z6ZFhtX0tZRlNfTUhIbjAxNnFES05EM1dqTnYxclVxbXFCeWFHeWJhV3J1eTdHWGQ4LWg4NDZCQ2JadWx6bnEzTzJ3b0JMWTNBd1ZiaWpaM0VucWxBQllEOXprYTd6aw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2NuQjk0WHBCeHd2cklzXzluYnhEMmU2LWR4UmQ3RWpra3FTTUU1dGNzNjNZSUktanE0VnBzZ1Zta2FHSEF6eTV1MnI3WkZTVi13TXRpdFZRR1ktdnlTVHp1ZDh5N2xJOTdIZjd4OE8tV1Y3OHNJMWtla1gyNmhveGt1OHFxNWZD?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPek4tYmZmSEVycm10RVNBMFhxLUhWLVdRcHQyTkRJb3M3UllXaVVlMDBicGxuLU5KTXFTc3R1QkxDd2prdU5uM2Z0SEEtcm9nMkY1LXJoVWw4dDQxbXo0TDBSM0dCam5yNTRZTVppOV9tQWFsMktlWUNTaUF0cFV1WkM1ZTlJSW1MVjYyZWZ6bVhPYWxlbWVlMVZ6alBOU09ZSmtqeHh6VTV5OE9PZlVRaQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/queretaro-irapuato-train-line-now-25-complete/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXhJMVdfR0tieERqU0FIaGdLczJiNnNOczQ5Y0lDRnlIV2lIZ2JFOEJjWTNiZF9Fcy1takZmTDFNTUZ3c2RadzNWM2t6dGRHbkljejdKRFU1MXlCR0pxWkZTTk9ISkRrTjBCLTZ4bmEwNVI0SmNsR251Qk1lZDdXUkYxZ0E2UkEyZnM5WFdGNk54dXJlLWdDTFRReEgwdEp3WkY5cFdlWVdaWlNhc3NfZUtFaEtfOHhobzBZR29WODcxdUhjczM0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOM2FoblJSYWxpbFBKV3BrQUZuRXFHTWN6d29HWV9hU0ZPQmxMMHltY01LOVIxSUR4V040UWt1ZEZGUGtlQThobzB4c1o4UHhjVVlQTVdfOHJOcDg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeG5wNGg5UzgtQldwVTBiZmNCTUtKR0U2ZHRfamdTdUJFUHFxdmhDM1VQNV9DRXhQdzdjZ3J1NjlaUmFJWmhlWnBLMmF4SzMwQXZHdGxhTHhyWWdydW5NTWtiQUFLa0xoWGRWWW56LTc4OEZqOVdQeFdScHVBSXZZUUxuLWtTbXNmcGpFT3FYMmt4THlROFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/politics/3348219/house-panel-rules-spark-backlash": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/spain-transport-minister-oscar-puente-resigns-after-deadly-train-crash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/how-might-the-results-of-todays-midterm-elections-in-the-united-states-impact-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/music/film-tv-music-news/jisoo-original-song-the-angry-birds-movie-3-exclusive-1236747168/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNjlqalJmSnM1OGFUWm96TFlydWxBT1dEb0pvcUw2S01YZVJ0MlZwZzFyTjdSMjhoZHBSbTd1VGxRSW9fYmtxN2ZTMlRyVm9LWV9veGdYazdFR2xlQzhsZ0c0MHMteHVNd3MzY2N2Q0Q1QXRmSGVIaW5UTVNOTDdwMzB6a2plWWRYNHJPVnpCUzFZdWNVWmtxZFVxbEhtUkdtV0cyMjFWRi1aczBKQnhBTU1HWkJtamtUZDRtUDZwSlR4NGhxc3NsTTh6VWY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEpoOVBCTWZMaE5yTk5JeG0tX0FWdk5OZkY1d1dWQXQycUZGR2xwTks3VDlNaTJENmF6ZjM1QzFTN3QzRENuNFFlUjRqdk1FTW5WSWRDU2o3N1dEMEJsaFEzUGt2NGEyUXhXSHB6dF92R2U4d0U4SUN4UHN6LVhCNnJWamlqM2NzenBDWjAyVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEdGYmtVNkIyRGM4VzRZYTU3OHN4amJnWWFWWk91Y3Z5ZGJNQ3dmMEdBMXZIMnJCOFBseFdpTFpmTVFQanFvc2Fpd1ltQnNPekpwT2xCMUdqeC1GTGVyWlg4VlF6cW80R01udWQ0Q3F6cmdyV0d2OHdpM2FfeEZ3MU9iQ1ExUHlkTjJ6SGtJLXlfMTVFRWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoeVBVaW9qSGtqNWxxSklURk5FZFQ2di1ONjJscUExNTZRTV9tNGg4Vk96TzBmMEJNNXlaUnlnNHhqc1l4dVItOEd3VDdfUGdiN3JyMU1fUVRNRXJYcm0zTnExOUVESk9JM25PQ21DUHlqR19KdW95RXU5aw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQajFONlZNX3FtNlhtNTMxYzhlTEowLWIySEUta3B3RFNabXBLQW4xdFNnLUllTG1WaEJ4ZzhxXzRrRkxMZ0tnUTZuMnhudHVjOGFvOTJwS1VlQ1M2Wi1HRC1BWm93OXhqak13bWVaY0F3a2N0U3Z1X085cE9STVlNbGhvVW9tcldYTGdzYXhrUTNSdEVKc2t4WtIBngFBVV95cUxPSkNuczJYekZnTkFCZGZrSzY1dWdHRUc4VUZnRFhhNzE0TmlFejFlZV9LXzdUN3Azai1Fd1RvUU1yXy1rRTlWNHFsM2JoVGM2QjAzWDkybHhtckRiM3p3RkF0RmZHUjliTGc4RTd1Zm1SYk9NNmdYM2lxRC1qR1pDdjFHa19WMWtVQV81V3I4TE1BRndiOTJFTTZFU1BZQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/jennifer-lawrence-hunger-games-midterms-dont-forget-burns-with-us-1236747170/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY090R0wwaDE2UzMySmVKNVNiUW00cTNYbTZZSmJPYW5EQ1d0V2RGTDRBbHdQM2xaeG9DU2RjNFpfVGFoRGM0VkthWjN2Y2J4LWNTamlJRDE2bEh5U0QySHBkeEFqay1IMnV5d25nay15SEJkdW9QZDZpcmRhZFc5MVp2RkcyVF9GWE9kaC1zZ1M4RGxQUUdMZHZ2U1V3X1ZyUnRSajhDbUtwVkFNeTRyaWR0UGVwSFV0MmpGWTdxWVJ2OG5BZDZGZEwyYWs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1dmVWx0VS1NV2hQYmppVHk0bFVkVl9XSU4xYWdNdFRXaU4yaXZrcVllNU55dGJLTDFBU3VOc2phY1puQ3FBMHY0bzV0dDVQYUtTRXpuWWtBQzNMOFZxOW9NUHZCU0haUFNFUi1ZcS1iV0NTalBhdXRJZmtMNjIydUxnWTY3QVFFb1BOWjlKeXc0LUxmeDYwSG9LWGY3NXZtR0xqN2dVR2xaay1jeE1nVA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
