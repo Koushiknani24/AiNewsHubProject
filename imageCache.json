@@ -196648,5 +196648,161 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-midterms-republicans-call-for-trump-to-change-course-after-midterm-drubbing": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-04/australian-chain-david-jones-collapses-after-almost-200-years": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHU3OVRGRmNaZHJpVTBNRThqVUREMVhtcnFjZV83UTdCanBWVExTMTN2U3hJbS1LOHZZMVlyQjVISFI3M1JUbXA1dDl5SVdXX1Rib0V3OEg5RlptMzlQS2NMQTRnT3kzSjFKTElnT19JS3ZBY2xfSXZvT2t2UzZfY0pOMjd0bmNtMTBZZXFXSkxXS3pXbUpKVVNSQzVaZzcxU1ZYUGV4ZHlYc19w0gGyAUFVX3lxTFBRYVBGZTFDdDZTaElmdkZuWmJweW5OWWI4X0Zudm9tSm5DZGpJQm1tNXFrNm01OXAybkE3Y0s1bW1pZWVGX2JlQllvdEZraldVSlkwS0RkMjV0MDhvbHhFVExDN2g3Z3pmaFdGS1RIYlhaWjdWX3VWX0ZyaFFWQWxaSEZEUFJ5T0VCbDY4b0dkV3hrUWRzNHQyV3J3OGhEV0FnLThCMFZFd2NYZElSLXI1Zmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-midterms-only-one-town-out-of-dozens-in-us-voted-in-favour-of-data-centres": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd1Z3RDg1WUMtLUlHa3p5Z3prbkctU0lUcl9kN2hFdjJSQmFwQmEwX1IySjRMNUxibzBibVRWUzIybVcwVUdoWGstdXFwdS1sQUFOaXhRZjNFeUNpbGlyam1oUzVkUlV4RnBkQlVaMXQ2dlp2QktZMmo1TVVmSlNhZFlIVUdVUERBaXZXMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUhuWWt6Nm11YmRHLVA0M1VteXoxZ2JUemRjSEJIM2VSMG9oYWRxZlFIZUs1LTRVamVmVk9NVU5NbEtTdmxLYXU0WUpaSkpTMW01WXlxYy05aFlxUG80T3JKd1YwU1BZMnRGeDNpZExOTVl0bHJfbUFJc2hPT1otSw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3348941/tat-targets-european-market-to-boost-tourism-revenue-by-57-next-year": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/30th-ibero-american-summit-gets-underway-madrid-foreign-ministers-praise-excellent-spain-mexico-relations/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUzM4RUtUQUtpY29EbzZSLXgwTUFrR0hIUlU2a053Ym1fRXJjb0lpWmZDSVZzai10TU56TEJRX29GbHgwM21adjFLVWs0V3RScHo2ODZGWG10Ukg0N0MtWF9Ld3dieXhZZVF3ZTdLOGZWcDJSQkgzWC1pUXg3SlcyYktRMWFLd0puM0JR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZUJpWFN1Mk9MR1J5dGYzd0xld25oanpjSXJvcS1jQWhVY2tBUi1iY2Q5Z3RUZW9Ia0hkcURmMHhoM3VvU1ZrMnRzcHM3S093cVNGQzdvR3NoRERIMmkxUWpuYnJaODBHU1pfTFNjNGk2WTdVNFRrVU5jUFJza19TUS1Mb3JWQTk0M0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOenFOcjctazRyRGxkOWNjcmRrWE1HeXFkc2FidURjRHl1RC1fZUFSVW9XNHVhLXhibVJ4SGtYV1p4X29yc1BQd3hPeHYxaWRjU0dyTldHbjFhbFc1Nk5FV3YwM096LUtqMTFJRU1RRWt4cXhKVUdvSUp6UlljNVIzZjRNQlNKVEk1Y0RvclpzRnhPZmFoMjBlbWJTcTAtQkhJcVozR0QyUFl0dTZUck5N?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/politics/mexican-americans-historic-winners-tuesday-elections/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVB2dmRvVmNJelNpb3lvMTNieEZMN0tRZTlNdldJdTZrc3pTUmN3WlFrUmJXdC1SemZsVGE1SnlIS00yVEw5Y3VHcElMbERXWV9ibGxrQlpxS2Y0cWFFSjAzY1VDSGZVN1Vmc091dnUzZjhoendiU2E2NWFXTm5hQVlIWExqNVRSRmZNUVpGQXczODk2NjBsM093?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LUFp0NWVuMThlV29Hd2N2ejcySXVPd3hQUE1ER0dvbFBrM1BJMDB6MXo2dHNHZENsaUNLdWxvem90UEQwNDFmSUZTT0VveGZOdTFmU0Y1ZGNYUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTNrUzJTVEpkRndLRnFSRGxkNEFpdkFDWGdiU1hRUWk2endubGNXVUdsYVVKYzRYbzkzUjk0cHVYRDRTM1pSbEwtajl6TEdnd19JaGdFUmdmdGVGZ21LejhXOGMxT3BYX3FIb1NpeE13VUpLM0JMQWFPVDlfNUl5ZmNZMklRRXlNMnE5TS1FRnBoUGZvZzJDNNIBngFBVV95cUxNeDZHdFhHemNiZnp2Q3RkdFN0RzQ1aHk5ZmdERFlLZm53aUxYWUdwVHNnZm9ZdmZHOW5wS01BUWNNb2JrSEN3cEhVcnZXR1M0RWROMThMaXM1bGZvNjY5QUhfdU80RDFWZ1Nnc3pXNlZvajJWMG9DMmR2aWQ4RllRYThneWlSQUNJZTlTVVowUTNiejVOT2JUcjM4UUs5dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/04/zelenski-makes-surprise-visit-to-madrid-for-talks-with-sanchez-and-latin-american-leaders": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQl9sT3ZjRXpqdmJUQUVSQjlWLW9wejNUNW9CY0hXaUU5Ri1ydVQ2cEg1U2xFazVlQzhudzB2QmVTcGFVV01Ba3BxUk93bmp0ZEV2YUlOc0VlR2g3QjJscnZFY0xud1pFRFl4LWVGNXRkazhsRUo4OG5MQ05QN2lWdEFDbmpfUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcExqQVYtWnZwSWJ3YlNnRkJtc2ZjNGdESmEyX0hrZW1jVl96OTZXM1Z3SzI2MFNjSEtzQzduc2dBN1FDTVlTZ0w0eVdfYXprVkNScGJhQnBLWWNPajNWeFRVRjFZWGpJU1d2bVlnZXd6NHI0c1AxMWhmbWZwbU5oNG1EaXM1Wjl0SktlZE5rUXlDZzZpVG1PTlZaTkI1NHQ2Qmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0RMWXpQdEZnR3hRTXlXNTZURy1neGFUUGtCWnBkRGlPcGFvUTZPMHRoaEdWVUQxbmxPUnhxYzJSZUU1WHBXWXVURHctUFhMYWRsNGpFSFl3czJaZTZMVmJ3ZHRpblFkem84TFBqTTJ2cENKSnNaRS05akZrWXJ5d0ZaeWZxT0c2MF9JenY5VXlHTjNCalVjM0FNaFhGZi1XWEdtTllUQVJCQ3ZMQ0pGTVBtTdIBuAFBVV95cUxPTmxTdUgzQWdZTGlHVEVUVzRQSDFRM3VyVF9xRWppLVpCVE0tejhCY1FaSmh4SkVSaERkdmlOWG9vQ0xQLU1ISGcwVlI5NWRSdzB6WldQN1l6SlBWYlNzSjg0NmFiR1lwVk9CekRabUdNQ3V3ZXhnejFMTHpveTd5MlNOd3dUUFRLRHMzMDhjdzRXUjRNMV9GVmNSbm5JVS1mN0hsTDd6NjdwNm9yby1KX254VnZWRlZr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
