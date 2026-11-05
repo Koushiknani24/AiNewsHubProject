@@ -197176,5 +197176,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-in-numbers-emigration/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS25WaGR6RHltaldweFlqblRLWTQwanRGbVY4Vm5YZXBVdUVacG5DSTU3SXd1N00zTDROTTlYaGlnQzZPQUlmeUNPRlExc01kSUUwTFkwQUpWTWlXZEtkdTZmQktpWXUwcGt6dVBHbjkyb25ISjB1N0tOaWNJRHBoNk9iSzBJMURrM2dlemVvVnU5aHplVko3aGlQc296enRpdDlLNWJDWGtLWDZZVWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVFlcnFyMV9mSm5xM2J5OGsyTjNzQWZzWUpnc2trLTJDRU16Y2t1anFOWE9wV1dhblFONWFxNGNfZWpmQWpuMmhhOHJPNVJ6T2xRT3gxQlpncXl4dGJzTC1sY28yT2hYUTM3MVR0NHFON00taHdLY3FxVjFiM193ejZRZy1PdHV6RlY0alZsNWgxal8tSU9QaUNXSGg2aW9qcHAxclNjU1pOYjBTc29V?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbF9rZmZDSUZieXNGM3FGZ203ZE85TExrN3dQdTR6SUM4ZVRfTF9URlItRzc3YjhOWGVfUVAxVTZiaDVWS0J5ZEdvVlI0YUVLTlZTckQzQ21yRFRybVRSMTc1dTBpQk9YX2lFY1BPNEFhYWcza1lVekp3RzBRbGI2RmtjSTRLTWs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXFHUHRBUVVheEV2TWlHbmZLVFUwV014dFpXdVlsTHpxTDdEZ2hsRmdBZnFENnpvbUtSX3l2bDlyckdwbHM2cS1BU2RrM1RrUFF6dF83MU00cVlTR3ZHRDBUcUptWVNLVEpwdlctZG9JV3A3bC1obkRjWTF5cFYxZU5JUlRyUXhsQzcxWDA3UHhVZF9yRHRHQmdZS1VVNmpUNEtmaU9pMHdUS1VFcmJ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUUNfaWpMUEhzVzFLRU02VDM4OGZ2Q291cXltemZaakthU1NMcXNGSDdOZzk0SENfSGVkQ0t1ckp6VlhZUVhxNTZ2bjM5M1pJc3RodUNfSkdTZmlIc1NzSUttbS1zTzlVMDVSN0RuazluSnEzQm1SV2NFcmhNN2Q3TUdab3BVaGtvUXRUSXJZXzN6cUd4SEgzNDBKUm9LeVk0NkFFazdJLVRreG5EZ3owODJEX0JsVGZyNHpubVpwZ0lsYUVZZ01MTG9oQzYtUmF3SmprdW9vZXBiNlJBak52ddIB5gFBVV95cUxQTDB4dWwwZl96OGNXQ0Z4SHdMTW1YQjMtZUJlY1ItVHkyQnNLMGJ1emVWWkRMUWtKQ25SZHc4T0NSRkI3bWExVTFlRkFQNjJWVXpvckh0NGlJVm1pZUFVSVBjSEhldjR4anFxbTgtVHd3bmREZ2FJRUppenB0WDdUWDk1YVZDU25GX282SXVReWhzWWptVnJiOWFlNHlUaHVJNWRfRUdyMVIxMTE2TlpPMlQ0VkdVMlVGM2F5akZuTHJ2YTE1al9HVFV5R1RNd3Bmd2RFZkhxbFNmaG5La2FQNE5rTVFMQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xOUtjbGRoaFpDdUgtbU5udm9hd2xhZ2hENkEtWDMyYUdCQnFPaWo2SWhhTl81QTZRSDRDa3pqMUU2cjZGMlZEbUlEbVFpazdLLWVLa3lIdVh3U1k?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMUVZUFBjSEVIQml5aDRNSGRuS3FNd0dDcTF2MjZjV2dqc2FGazJNNWdFNTFLVFdXYlZGb2FEYmxEYVhkX0x6TDN6VFJJVmdyNnMtTXBHTG9Wa19zQkN3bUNoQnVrRmp1SjhndXpTN1dyR25JYl9qVUZVVG1leDZEOHJDVzJ5MXJaOHRLdHV6T211STNGWjJjRFpLa2NKNGhRWGVHS0Jmd19JSHZQWGdKUDg2VC0zbVMxakxuaHgwWGNRNVV0RUtwTExVNllaRjNVenU1TVdGLUY3WE9DLXFMSDRR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaXhYUU5DQTIxRkp4LTVFMzc1X2RRalVTVk5wUXJxQ1dsS1l5QUFJYi1yMTJ6bEVZWmY0LUlUZlB0ZlhMdHBOVlNCQXVBa0pUZkVNNHZDM25KUlVfVXJYbVI3TVhXZGhWT1RRLW1hdTRQTVJ5V3hXTmtSWWlGdVk0SmFoclJ3bEp2NzNZOEVpN3RHUDFkV3VwSVp4ZFJzSTRBeFZ6aDFn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-05/bofa-rejigs-global-credit-trading-businesses-to-boost-liquidity": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTh2dS1CdG5pTnJOOTRYSmdMQTRrV2Y3QzV6MU9VT0FPWmdXeDhaR1hKLWRiRmNBTXhvYlV4aGduT21WNVU0cE9IZGhNdURpNmxKMmpQbEpsaTduT2pRZEY3aGlrbUFWMFVVMk9henUxLVBzaURERWd5OGdhdUx5eW00SGc2bEdtUlB1QnFwOWFaOW41bXBISzM3ZUdBVDlnZ1QzVy1VQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-city-plus/mexico-city-rave-run-coro-gay-choir/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaVJfaWdXNGFqNkpXc3c2dE5KU1dNU0ZrMW9CRXozWkNyeTFEeHd3REV2OGY5M1hsUUh4dVFqZm1yaXh2NTQwOEpqd1RWb0NGc0hOVVB1UFJpUXdxeDZHV2hEbXFSQmlRdXo5YlAzTHQ5MjJxV0tINDF1WXRqVmlfVkltQ21fTGR1b1l3dnQ0MWx2T2N2VlpTUWgzaV9KTGphRzlnSUJobFl4dDYzclBSUTFvTElCdFJuOWNjcndn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSXhfWUZyM2Y3cFBZcDBueFRLcXpPV2ZwZGdYWS05QkFnMC1oUkQ2cXl5dlN4ckJyYXF2eUZzeWR3ZUxrM3laN0twVW9VV2c2U0R2dE5FSGxhRWZOMUVWOThHdUdFdTdaQXM2alZMZ3ZWUU9sYTRFQndqWWlNam1FUmhDRkJZazM4TzBOQUpVeEY1UUJFODNjNGVLRWx6cWZqZWFXaUtmYlY4YTZUX1dLbk4tazhNVDZJV19ZMWlaQ1A0WG56OEhweWxrU2UzMjZYZUUtcEVn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxZ1NZUU1kc3JmSUNtOUVjbm9lYk9QelJxSjdGdTZOdE1ya2ZoNFJEcUJodENIVlllSFphS3Bxbk1VSXREVl84dmJoQW5Da3RXRkNIOTZCLU1DYkFGWlRNcTY3eENZVm12TGlLNDRSTGwza1F6cmhVV29GOEU1dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/us-watchdog-calls-for-truth-commission-to-investigate-church-abuses-cases-in-peru": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX05RdGZwbXJab2ZDbkhfU1UyQVBRZE9sLTFqTlVUMmJHUWE3TnFSSzBxZE5mNlpCN2RFWHE3NEVGTUdnYnZVOVljNTFKdVNoaXU5SE83QkctMTN1Q0U2N1RpR3JjMmRkaFBUNFNDbVVyMVlaamlhcUVsYkFoYXFYYlpIYUp6YlZvcU1NeFVZYlM5TUpPdjBtZFBKMnphUWRid0RmZlRVTklzOXRTNGZHdndDOFhZY2loQU1vamxsLWJJVjRyNDE4bUc1NE44ZnJLdktLNFFvbERET3NCcUhSVVNISWprZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVFo5d2NjZ3JPTjJzdTI1dWtXWjFMLUZHVjRMZHZPM19ZRXVmY2JkdjJXbjFuREQ2d3NDc0lldDhUckRpbUxZNXlmRUJyZ1AtTG03WVBlS3NUWkMxT1d1SFN1cUJ6YS1jTmctNjFiaXhPcXFxY25oeE44NTF6U1NNNEx3N2lkaHdNU1ZCTUhPX3E4UjFreWZ1RkxTMWI4N29BYU1JVUx3NDBTQTVRVkRVVTJEWEhsakxub25WOVlXanVEUUo5aFpSQm9TTXlJb2JETGsxR0h2V0UzZ2I5S0Vxc3RtYkdDOGw3MDZUU2UtQ1Jqem5FMFpDNkdLODFyNzczVkxPdGVjU3Y?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
