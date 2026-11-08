@@ -199336,5 +199336,137 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYmtvRmxJVkRJR3Jfa3lIdUhONjVGYlIxN1pjeXRHcWZ4ZG9OR1RuaGE5UFBmNWpuUldOVkZMWTVRcDQ4bjh5R0d2X1VUNGtZb3EzWWVzdjNhVi0xcFJlZDhscWQ0YlhWRWstbjdFZEpnOVJab1FjWWlzVnNpQ1A4Q1VXZ1RUR1pzWmNuekJHamJaUkNIbkc4V2JrbVRXaHptQU1iN3NtWjZxMUdqb1VXZUJYb2xjZkk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/11/08/netherlands-sea-of-red-fills-amsterdam-streets-in-gaza-protest": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/how-mexicos-longest-dictatorship-planted-the-seeds-for-a-revolution/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOQUJacWJtcnRDbHppamtWOV9tbG44Qzdxa3BTR3NEQ3hvOFJLUE5VTmI0MDlLNWw3QV9CNl9feU02M0dja2d2SC1sZ0Uya3NSTl9QZ0JXMHJPSWNNbk9fTWxteE9iczUwNjVwLTg3SGZpd01MODlCblFYWGhXWUFuTzhEY1B2RFl6Z01SYjhrVFYwaHNtUV9pSi1MVlJxZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GallITURTbUFkN1FiTHJHWFpQU2wxaWg1UzNBa0ctUkxvNENtU095bTV5M0IwU0s0ZkhWenNVWlUzYXBhMXVrTWNyTVVoaVN3dlkyS1ZmdnlPZGN2anVzR0pPY1Zyb096b3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRUNMYklNY1VJUkZ0b3h3NXV5aGhrMXRiTTRqV3M0NDh2dU9NR0pqX1k2RGcteHBsM1g3MUFsUGxkUzhpWFNqR2x3clBycUFpZzl0QzJKSGNzcnNDMnpCMzlNUkx3MjhkX3JiemhnS216N0EwYnJJRUtRc3dkTGdMRmNBbVJjaVg4aHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFVYMHFhTzVRMzkxNjV2YlpFdC1TR0ZFNTZiampuTHJ6R3BIMEQ4aElXSGs0MG5VNGcyWk9KSGdveHFhUUdCd3V4M1RNU29rbDF6NTJXQUJVdG9WMzVqeGp5WHZfc28xd1F0TDM0ejhfSURQVHp0X3ZTWloxUm54bjI3UU9mdF9Jd2Q4bWg3NV96WmVYUDZnTjNUQ05tMmJMX2VhWkZQUE5GQTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMzRLUUlZeFNrdjhXX25nTzVfeTNLUFJqMEtWVnlkSHNoaW1iUjByZHppU2lGY2VLYTJxMF9DTXFvSVo2Z3Y4NHd1QjVZR2pfUDFHRkJsUl9BZ3B1WHlDUjg2bG9YeTZINWxUdUpKbVh6UXBVUnNhdFlLZU4wcFlIS3k0ZE96WGhscldIdnI3RDQzcFRsX3l1cDlJajhPUFlBeDF2cy1LNFZLQ0d6MDVQd0hTX3plcDM2Z2VCc3R2b0dpZXV4VFRFRUg3U3dILVFCUnA4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZzlncHJQeWlFUDdZb3ZETnBrN3pPUUZVNlhJOUxmd0hDMFdob0UydmFLcDhzQllZaXFHbnZCbTVUT2NPZk9RZXZ6cTd1XzF4NlUwNlNkVDdVRTVmRHlKWWRvTzVZOF85Q3AwWGw2d2JsbmNGdHZTeF8yU1AwUzJLYTJtTUM3b1pkc0JfVXMyNjNKMWNsRGVsOHI4VjFEUm9id2NnaWxFbjFFTXp6SnZrb2ZOOEFzdDQ0b0psdDJzRGFsUGst?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFZIWXB1NWtXLVY1eV9CTXQySDBoMzdxUlB0QWNXVjhLNVNOWHBrMTFCeU5jVGxfdjRWVWFnRlk0RDRjS0FOd2xrakFfLWNMclk0SlBxV2R1SXlCWjNzRGZsS0c5dFdBQ09KYTJDRmdaRVFiVDBVdXVMNTRwUTZKTG0zNzUwYkRFN0FETmVSNTRWMnpXMHpESGMwU1RYTGZWaVo5eEhB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lel9DV0RPckQ3eGVaSjRpWTdfSjJpdnM1VjNaSWdUbHZqbUtlVEV4WWt3OExDVjhzaFFpeE1lMm1Sc3ktSkpIWmpPWGd6MUE4cHBBLUtJTHdqQV9VZVp2RVN5d3ZBVFc5eldDMTZFeWZTT3BCVllUUnhiQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/08/pope-leo-xiv-ends-his-visit-to-uruguay-with-a-tribute-to-women-before-departing-to-argenti": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-fuel-not-stolen-misplaced/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/investment/3351340/looking-beyond-tax-savings": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkJhbUU4U3hhRkVIaTZRdXNXSXVvSklBbm13NGtJam9NNFJoaTJUN0VVTmwwejEyN2ZKVEFrTlI1QTkyVVp2c1F2R055akZBUGItd1pWbUxxS3Fkek9aXzRMZTNMZUNEcDgyMU44ME5Jb0psZEVEM21FdjFIRndnZmlzUzB0blhVb243aEFYcXBUanVSbVk2UHZ1NA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXlMc0p3S1lDdFRVNnU0TWdHZl9pWkhOemY3YnotazdPWmZmN0VHU19acWs0cGNJVm5MS0FUc05wcUFfcTZjZTlnTnJXdU0tYzBQZDZDMnd0a0hudnRONTdaZXMzcmFFYTZsVHctUnI3SnJmM2p4dUNBaDZLUklRMzVKbWp0LTM2VGY0ODhrUV9jU2d6ZHVGbnRWdTBpbnpWLXEzU0NqTFdzNldZWENDMG5pNGs5dld3SFMw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSE5MY1FFODhIMDFGLXQ1Tzd1cUNfNzlFZzRmOHlPSS1ORlYzYkZ5YlFoWnYzeVRQRFFtU3VMcTZtY2tYWUhoS0xSU0FkRGVIWTNrLXJkRjNrQTd0dC1qQ0NKaTQ4TzYzVERRX3IzZHhkNFpEY21UQ0ZLeno4cFhxcDZTU0NEUy1pX1RCeEJmeHBUcjc2NzdUSmZHa1pIT2tk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxORkhrWTgzM1NXcTZyMy1HcGlNUzFhR2VfVTI4aTl2VENrWEtMNEVCVlRXQUNqWWZfTlRlRHF2TlBET0gwb01SSG53YTA2UTU5SURYaEdSNzhJOGJQcHNTYUJTUVN0Y1RYM0MwRmRhRWxGemt1VFdFcEF3eTRETU9BNUlEaU80TnJYei16MTB4MXVqdHlfaUJXb3JXMUVFTS1OTFNGUWtBSzF0bWFTWlNhNWFGSjNDYVU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTk1hcGl4cm5rQ0ctRmRhUFRqWDVmMTNIaXdSY0xiQkc4QkYyYkdOa3lIY2xHN0ZPR3d4N1dubVh0M0Vydmo5NlRfUnh5ZG4tdzJ0RldicGE1cW1ybXRockZiNTJUek5pY2Z6M3NrRGxObWZZR1pkX2o4UnB3SHFfaWpYMGdnUEpjRHBSWUpFU01uNGg1djNhNnhrR0phSUhIOGdWOC1NeFAtbzg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
