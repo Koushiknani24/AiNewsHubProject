@@ -199168,5 +199168,173 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRkRuZlhyNTBqRy1EV0UyamplNWpEUEN3azZGdC1QRWFiRzJxNXNBSFVlS2w3STIxZ0k2eXBBNFk5ZEp5RlhlbHRaal9vX0NBeDNmOWZVNWFSSTdaRWY0a3Joc2tSWUZtbThCeE9vMkgtd3BNX2VXbWVmSjE5M3RqTE1zTmR2TGxMZmxzYml5VE0xbW1fREstTjRWMzJ1dG45SURmTnQ4TGdpSTcxeVdRVXRfV2VETDNXSDF1VWlWOHQ1REFXZm82dnY5dGJvZGs3TUNVZUxWOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/elizabeth-warren-massachusetts-democrat-face-the-nation-transcript-11-08-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/08/overcrowded-car-plunges-into-lake-in-brazil-killing-ten-including-five-children": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-asks-iraq-to-shut-most-iran-border-crossings-iraqi-foreign-minister-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/early-flu-outbreak-hitting-us-west-coast-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAJBVV95cUxObW9IQVNBMFNPVVZuODU0UHYxamJNTFBZdjN5R1cwME1CSDJTZnNBVWhuamtaS1BENkc1OExEeE1zaURycTczSnpLR0R6VzIwc1JLQy1ZNUNnSVN2MXhQaXNJRWh1QjVkc0w5aVptMlRid19DSnhCaGVZdmNTY3hqRFlidlVuWGo5dkNnVHlkNWpyUXJ3ZDNsRWduWnNjVVV0T3hCa25tbmRsQ1ZPbW1HaWVjYzI4ZUQ4R3BWMDhZQ0xTNmZGXzBMcWtoRjd4elFSRWtORVZTak13OUs4LVZNcFl6N1p2VWVKUTJXUWFheEgycmFxOUFOZF9zS3gtVmp0ZDA1Mk1Iek8tRTV2TnJnVWIzNUN6SUMyUGUzNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdWtROW5LUEVZc1NmZ2I2RFVtbGcyVENjajRINXJ3cXMxd1lXTmtDUWhpbUtKbmNjeGxGVjYzWEtrczJ2eFZDXzhKdktwdEVDVWZtcTdpVHZRSWJXVHZzd1BZQmJaMjlmcDI4cUdCdGFUNjNEODRMNjRTaWVHbGJZejhTcUJTMWNpR3QybmpnNlJXVXZRcjNoUDctRE4zUDdJaDdVb2FOMEVqT1JlYTVRZS1HRzN3LXduZFh4R0I5aU5UNUpuQ0EzbG1TU1VlU0dFN0ZWd3lqM0s1dkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZlBpbjRkTk5Cd0Z0MlkxNHdTUmxGU1VYVkpabThObW5VZUFJNlpsMjRUcmtaaC1XTWRlRnpQLXB0b0tONHVOOTB1cjNYRDJfc3laSDhJc1ZSZFRfOWUtMVNUak1UNzN5bHNrOHNFbUk4VmhVd1gtT2xVMEdZc0dkZUJ4b0dicmZVRVBRZlFLVVZhZ2tmOUg2UUZ0amZlYy01YTc5dGR1X1ppZVd3YklRYTRn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUWgtMk9QU2tBNWhzbzUwRWFhUGFmeXFEZkRsVlBaVjk1U2hGVlRIUzhuUkhCRlE5OFNzcWwzT1QwbFAyTzdtc1J2eDh6Mzl0OVJkZFI5OUVoSU41N3JvSUM5dmsxYmFoOWl2dldEQ2J4THlmWFhkQWxvcHVnTEZLQ1Nvc0t1Q3MzMkkwSGgxRWhjSktRX1I2N201SGhMYWNJQ1NsM0lkZ1FrZGcyRUFVTm1qZHhRaTcxb3pQdVNNQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2eHBYNnFaUjdPWjdBdHo3OFEydEJYVEpUMmJxLU1PWDNCRy1hTmRMYjBIQ2VURTc1U09wX2RKdWphWFFLaG45eXBtZEpPQTZrVTR3QVpQY1pYSHdnVzRsWkl3RndvTDZnZWRyNGE1SFRVaGMtd0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3lvMi14UzFseE1EaVNZV3JKMmV4TExMOU5RcG9kWFlybDJIQ0NqaWlmR3E4NWhCT0oybVBCZ3VWWFB5VEJZS1BGcnJzbFZQdndOWUpYcjlwUWw4Z01RQmRkRFpEQTN3S3gzbzBfMXB2c1lpZ2lLVW5CNzJYa3AtWnEwU0pMTkpySlprTXBsUWtLeHJEOC02aGVLVy16aGxIVjRZaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeUM1a2lkek9YM2czd0Q0eUNVZ3JCejRoc1dXZjVEQUNlalgzQWRPTlQ4UEkxNkhGN1hKTjlacXFnSnVIWFBfS0VvdWtZNHJ1MGI4WF9kUFhTZEtlNUpORHFqQklqRlo3U08zNFl3dWJwWi1NWG0tbGxmZFgxMEM2eG42TmxsaTdveGxvUDVQa2JkNTVhVXJKX0taSmdsZW1kVndWejg3TjBNZnlWZkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNME42cE40Mk9sODA3dHc5LWNWZTRab1JhY1RmcVA0WklGQ0VOUlRUSkhXc0x2eThQM3lCVE43VlpnSWgwVUFSb29RVW5oZnBPMjFzWXkxYXAxSEUtTHpRcmRFR3pBTUxIX1F4clI5clBrTVNodTRPOHl2c3dlREFqdW9ROWx3R2xoS1JLMWVPSXI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/08/erdogan-joins-aliyev-for-azerbaijans-victory-day-in-karabakh": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPamw0QjN2UTF2eVB6TFlMa0pOYkhGcWtYQWh4alpZZUtaVmJmME9pZjZRZjVXVHlreXU3bDhPN1phTVNtb1VCaUNLMFp6WlNtQS1yNjRBZk4zUlQ1SE14SDJhejN0QWs5eWk0TG9SX1E5bHk5OXBYZWEyNmlkU0xiSjl6dFhyeWFqcW1FTVhDbHptTDd4aktxYTRQOVA3bVVNMFp4Q1hmYTRCeVBwb3VKRzhrVDA2eXlIWExHc1pVTmJuZ1owZ3dNS2ZzRjFCemUxcU96M0pteXBTY2M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLXRiVHY2MkYtRGxnZEdZeHZYb2JsYmlOQzB0S1FUdjlaMVZWVzNjQlV3UXhldXM1V215b3RLcjRwSHRNVzhYMUlJMnMxYm5KTGJGekM2UEdyMzNDSkgyTUhGaHpkSXJqaVpNN1FqdXFrVTFiWlRYb2RvNnY5V0NTM1dKWUlkVjZkdm1yblJlWHg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/french-hill-arkansas-republican-face-the-nation-11-08-2026/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2V2TmVzbW02WkNlZ2RTcXVjTWlYNHp3bjZZZUNnOXk1WjJMNFpYWkFsWXRBLTY3a0hsbnV3OXZCb3RPV0ZlWXRvcHA4ZHZjOER2MXIxMXF3d3Vtdnk2aW01d2FrTkNOSF9UVy13N1ZnZGNIWXFsRVBRYW9PNnZhTmp6djBTbHFBN1JZMDNZNXV4NHdxb2p5dg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekhTRjBjVU1CZXFNSkdpSlJkZll3Y0x0eWtUTzhlbWlhOW1VMktRV3RrdVJJdlU1R1k4SFlLalpqNk41WjFzS1d1em03bGRwdTQzbE40Wi04YU44aFR5TFE1NmxlVHl4ODV5YjdPYzI4SFdXcWFUdjVhdEhZa1Z1cUluYzJJb1BaX2VjUWlkU1F1dGI3dDA0dmRWNE02VjYyUVBWOThibmNxVnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAJBVV95cUxOSXVfeXJLMEY5dFFEWFo2WEpzUmFYM0VfYkpFWC1KcjhWRUlNbHo0QS04SDJfamFpNFhXc1RQOHVLeGVocE1BTENEVUltOVI5S2hLOHRuRHRKOFhsVWZJal9qbmtJNFFjMkhPRzdfZnFjLVFXX05lbENGT0I0TmJZVVU4MVhyYTVNVWs0cGZvZmR5MDJMbUk0THN6cW02cFk1aVJDdHZTZDhISndKeDYzQzFPemdxWENGaXdZS0FXS2VRQm5YdVZQS1lrMjZROHZLYUNqZko0YmpIY2luUW5WakExTVNBWGtyeDF5VG55bXVuci1SSXpURndacERxbjB5RTBFZFo3cVFBNzNDb1plQXRjbERsYVdP?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZGVtZk1XZEQ4Y2x5UUZxV1A5VlBOby1ZRnJ0UldvSGFYd2NiLVl1UFhjTlZHZE5WSV84ZzVMdzMwVEp6MlRObFBrRi1nNFFnN2JYeVlLaU1aLWowY0liUXp1bDVOeVNkT2ZtRlAxaWozbUljQjlvVllQWFUzNGtUWWdlNXFEbDRYTG9TTEJJUWNWNFhfSmkw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDVOWWJRcUFfUTF5WWthclBHbTNWUlZGRTRQTWhVQU9Tb29sa281ZmZCb29udm9UVHdmNlFub2REYk1kOW5xdUdId1Fpb2EyZ01IeWdMVWgzVVcwbE9ad3BQZnlVUmdGZVV4UXVPVlZVSnhYc2dLTTBfUTFUVzFjMmllaVRBV29hTmY5NUtBWDJMVy14UnR0VWJIUzV6ZnhURVNZQTl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWVrRHBEWVBhazV4Q01WdThVdzhiTm4yMDZaNDBIZ1E2MlhvWDJrWGE0dVhPaTBqcEtzV0lZOUxrTUpSakRKZUkzQWo1VHhFdU84X0VJdndodXhtTUxEZ09TV2d5ckI1cnNyaHViRDA4VFIxVTQ5Sk9LY2FpRUdCdA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
