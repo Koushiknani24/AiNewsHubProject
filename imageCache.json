@@ -198976,5 +198976,197 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-features/olivia-rodrigo-holiday-music-artists-2026-1235653142/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/poland-mourns-krakow-mass-shooting-victims-terrorism-probe/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/europe-will-be-represented-in-abu-dhabi-talks-on-ukraine-french-foreign-minister-jean-noel-barrot-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/mexican-caves-what-you-need-know-before-you-step-into-one/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejZUUG9CbWdyU3JEN2xTOENCaFNKcUp5ZXNzTmc1VTZ5M0lwQU9WZVJNOVVNMmY2YVktelN2aUNBdFBBUTZYeVUtbmJVMzRISnBFblN2LW5zNDFlT21GZlhkME9HYzdYeVUwTUNuV2tCUEVKNTQ2ay1LNGI4MXRubWlDbzVycHF2aHVIa0stVUV3VTRjNERHcDEwV2xPcnVyTUhVLTBGV3p3UUpjOFlUc1dfcXRtSVo2N2RIUk5mTlJ1QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1abnJPSmw3VnYzSE9GekxQVUd4OE96U0t2ZHpWTENra2RtdTBIeGl3V01JdDRDOTBBV3A4S0hvamkwNEZlZExRLUdfNndnd3Z6N0l5UTFnZ0pDUTZIMUhOT1pNRHhaa2FqZVktSW1R?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rejdkUUZrcGI2bGlpbExoU2ltR01MRmJObjZuY3YxZU9rVTRBTURES2R6X1k3RXRzS2o1dlh4Nnl3M0g1SzU0QkZsQkRYYXJBd2w1Ynpyc0lmZHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-08/new-house-democrats-set-their-priorities-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/international/23-dead-in-clashes-between-south-sudan-government-opposition-forces/article71681025.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN05hVS1JdlBpYnptZzJQdGFuMF94WkZ0UFdqWmd4TnptTE5sNTN2QlJWNVR6ZXJZbGMyZWFrcVdhNVFwbTQ4Y1VsNDM4N1h6TGdiMGpNS0JtQmpHRmZyNERQUXA4WVlIUW0yWEl5MUlQTVVfeXAtRjVPZDk2ZUNQU3NETEdTVld4OVhtOHhYdW9GNElUVTZ5N3VnR241c2ZkUEF2cXJYdzBzeEpV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMG0xWHFCa1J6QzBKaFh4WGpiSFh4dm9Db2pXdDFUTmZXNDdOcUppejJfaERyeUludXN6ZVZWZzExUUl3VHhmZ2tPbzlTOHdtd1pHcFQzMEM5NEtwQ0NiSDE3MnJicnMxZ0hWOVRxYVh3emJRSG5USGY4UGNQc2hJaFB6dk9IamF4ckR0V2ZNNzhXSFRNS29KcmczLXY3akF5MnJzRjhqc0IxMzQ3bENiZVVQY1J6dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3351099/encroaching-buildings-demolished-at-phukets-freedom-beach": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTmJGNG94S1d3ZE4ySmdhb3RJa05Wb1VGdEpKWmdSbEtRcG5KRGtISXF0dndPVHpRYXpIT1oyMWx6MTQ1TnFZV2VlM1NUWTl3QkV2YXRuU3pfUEVQaVNCTV9TVmMzWl9Db3FLY1ZmUmo1UGYxZW50aGJhZzBkUGVIRnU3NTh2aUl0TjNvS0dIWF9VMy1wZ1dOUW1JUzRWZE1jRks1Q3RWNXpUQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-08/luxury-gyms-turn-fitness-into-a-family-affair-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa3RVZUhzSWFrS201YUNsZVVSYTZyM2x3bnR2U1piTTFwajN3bmtjbGd2UW1GWHRtN0ZPc2d1YnBzNFNIUzViVmtIR2ZZbzZsMXZvMEJDRmdDZmdjcTdIby1idmVyLURyaDJRUm93TXUyT0c5OWh2U254Rmczc1czNkVBZTVrRjF3RjlNYmwzNlA1MElsT0ZRVWpkekEwdXp4c1hKbXd3ZTk2SHZLdHI5SVQ1SnpYRmpKRHFwVHdLWVlHdXhWWlBrOElHTS1vMlBIOXY5U0Z3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/08/egypt-reopens-tripoli-embassy-after-12-years-and-raises-concerns-over-turkey-libya-maritim": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdk42MXJsNU40eGs0NWlROXprNEczTnlaQkFwdFBLNFpfNkYyaE0tZG83MnVlbEppdE9Qb0U3SkQ0ck9aZnlTaklYZmlRNE84NzFMMUFBSWpsazR2TkFfZ3ZKZklDSFA0SElvWGdadXdFNm5kLVdUNUVyQjh3QXdnMm4zZHNZSlE5YmM1SnJ5dlhZbzJtREJGRzBxWlZPeFRYSFNOWEhhbzcxWTZZYVVvRXZITkMyUTZCSzYtUE5n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYy1XR3JIYUJCNEpOR1czaFdQTG9OSHRtYkZiWnd4UzlMcXhlM0NoNlZIU1ZOVFpSdzRTc2Ewa1FLWUlERXNxbW5BY3JKMENwTmJkYmxpbG4tQ0QyS1JmdWRmaHU1VjduTkRFck02STFIeGVBLVVGeHdZSHdXMERWcUxsS1hKdXZRQlZESXd1S3A4Y2gwVGs0WWdQUnZBd3lVZWV3Qnc1X3pvSllFTU9UTnV2WndQdUdVdV9xZ05rYWFudVoxZkM4Zg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDlndU1UMXdLUldHa3o2VGVFY3lweExocnppTzgzaUt4WUVjNzZZcUNOVVlDZlFxTFllVTZId2Z1eG5vb012c1czQnY3V1Q4UC1sVUVCbWZvdWZjR3Bkc0hubkp3c3hTSTdfaVRuTlFWVzJCX2EzNXFxbnkzZnAzcVprVkFjMkhMVFYwZUVkQmRLbXlJMDBwYXByM0JTU2pma0Y0ZlNoRjhFNTJyOFIzQldMVlRoUUVlZ3Zqa3ctUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/sudan-detains-ex-ruling-party-head-haroun-wanted-by-icc": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlBBajMwYXotZzdBby1ORDFjXzJRYmUzenBGYlRtVTlyd05aRkpRZEo5WXI3LU1NYUZ5OUZGRXZhX2ZJMWR4NVZHLXB2UlNVZC1ZX1FwMnJLTkp4el83Wml5WEhhUzR4ZEFmZmxRMnE0amc1UkFvaDduc201NTUxbFZnQjNtSmhteVFlbERNaWdvNUNtVVVmUS1DVmw0T0JPc2xyZ0tSQkVscEI1VUcycjFR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwJBVV95cUxNR0RDOHVEVktoT2FGWGNfMV9kRHJEXy1HY2NiTHpPVUNveERVc01hamhpcmQ0dmJpWXhlYlh5RlktS2UxdXhPSjJveC1WX0RobEQ5UklodkdDd0tCV0dSMVlKQW9XZXZIVWF4TmtZdWtiUUlTOTJhRUZ1ZEhzNmZ4VDdveE5yNzR0R0swUmp5cWZ5by1CU2tvRlBaclhQLUtRM1JtRHYzVGUzNXlFR3pWMXZ0RHJFV0JFbmpRckpEdFRDaWxyUmttVEttZVNrOUdNRUVPUXliNGdQdGx4MFBGcHpvdWV4NUhLdUNRMkFvSktTX2JQa1RfYW1acFFnRE5SUzNTVm43NA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNFlmYkpiNlFVdi10NkVPbVFKT0I4cVkteWt1aXkwMnFHeDdpRklQUkFPdEYxbkNyYUJCQ1dTY1l3Tk9HaldKY1FaanVabTd0YmY2UE9mT3VPRHhEZW9kam1oMEsyZXRtSlViLUlPaW1iV05oX3dnTmJKN0VaN1NDRGRKTVktbjJxdlhYR19oWkttc2JSUmM1S3VmQWstT2hSSkNWSDc3U1pWM1pFVS1ZQlpONVNQQTlEZ2R5MDNqNlFsQW5ucjZpOW9PU2EydXZNMXozV2Z6RDFaZVg0d3JUaXZBSTd1WXJySlo0ZkNJU01LNFAt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcV9tUHQ4VGRyYk81M0k3ak1paXAwVnZMQzVvSThWRHJKMHdRWTFEMDNoVjlHUjRsR2VhaUg4ZWZDazZpNVZldmdLYkJGOVZjM1pONUV5SXpQbGc1b2FSX25XNTJtM3Z2UlVOampITGhvSXVwc2VNSHR0blJnc2tocklxYmRTbDlMMTJZbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxONjRvdlBGemhtTG1nSFU3R2J4Y2FTRkE3aHBCREc4dXNYMjlvN2NRYjJZLTFwbkN5RnlJUG45Y1FheWlWa0U1V054WkhsSnhwLXQ1bWRUNjUxSXN5WUVHbUJkaUdzVlhzY3hFVThIdE1XMXZvYjd6cEZFZ08xaXhWZnVkQ3hCTUE4blRmM2xrTnZrc1NXdFVvYzBJeFVRaE44bHE1bzVnR0lKaUNBV091amNNSHlJWEVXNjJaZU5XNTg4dFBGUUNYd2NtMXZGOExqT0RfNVZBYWJTRGd3dUFrU0FMR2w3bjRlaV9DVFpHY241QWlZV2NPYllUUHFFckYwamhR0gGIAkFVX3lxTE5jclJ2SHJaREprZDJnTzVqaGhRREg3OF9reFdUcjdjRl9HSV9kZFgwZ2NpeGQ1d2FabWs3V1V6QjZmSzU0ZUFGOVZYdndnRXRWY2hCQ24zSTlTalhxUm8ta3RCeTcyaGpRRlJJajRFVGpVSTluSFcxcDE5ZHpLOWpsU21BUVFyUDJpN2RDeVhXNVVnNkRjdGpVNmxCemp2emx1Q3BxUlIydWJXaGhfdUpoZWlVd3hsWTNzRy1waGtZM3hNUWFJRUV5ekszc1hLNnVfS3d6Y1hZRlpTM2JKNzlFWGdrRW95bHdROWVSTmV6UkxUYksyenB3VlJtY3NRVWVQMFpYSV9nQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
