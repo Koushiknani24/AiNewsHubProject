@@ -199744,5 +199744,221 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/alan-ritchson-dancing-skeleton-company-alex-jackson-1236750744/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-offers-cash-for-black-sea-attack-response/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNW5ONHR0NGp6cnJmd20zQVFsLTE3THktQm1sOVhmQ28wVklRam1MallRYTBoT1Y1Qlc1UktNeXFpNUxhM1ViVVc5NHUzejFRUFN5WFdZVGZwS01JMFdUbWg5OUEzcUI0UTdEYy1sS051Uk5MWHdmZHYtWmMtX2FSREVpZGRVMXZZb3VOSjlhOFkzbGh3UTFualBxVHoxcVdYUzVNcDhsSHpoNmw1MDFiSGxnZkxyVk5YTy1MRHBsbDFiU0xJWlRFdnVFam1qZ01ITFNmZFlTOVlWZzByWmpyaGdNeFBlQkUxcjVWUm1sMDZvckxxVTNVM1lVVDQtZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202611090771.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUWplQ1lQNG5tRWRrSnVXeG5JU2ZhUTZUXzJrck5zZElsTUNIQl9ld0pJWi14emcwd29wa3dHTTRqbUVCb2pBODE1NjhWRWl2VHE2Nk9BTXRKdGpkNzVPQTAtemNWOV8xcmJZRWZ4OHpHazVaUXNtcUVEU19rbFkyc1BXWHRLLXFpTm5Wd2RqZWFINTNKS0FvVmVZa0hiV3ZwV3ZMRmMzNXFZNUVwZ2hXOTV6MnVPU2l6R0o0WHFqakczS2pBN2JJbXcwMzBTX1MxZTJQOU12eHk0VzBKbjlhRlZWYi1lZ9IB6wFBVV95cUxNRU9FbFZHdmJYaW9FdmJsWlhPeGZOQzJFeUI5dkRuLXNjdXdrZTJ1UlZ1SGJwVTlobXZXQTZfbTJGeG1BeU03QldxbGZqU3lCTGJfUlNOS1VmZDl0bG9kSGpqQzNjMFdvOHloMU1GNElENWVJN0lWeFNaWUE0UVVGNTdwNkdJdUZNcnFqdm11WmJlaXdLa3dqeXFvM1pSTndpUWlNUWRwOFU0a2p1VDBndnF5bzZidmQ1S3ZVbTBOVkdaMUxaQjU2UW5rdHcyV0hvNVlDSDdDbi1XaGN2QTlpMW5HVjczc2N6Qjd3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEhrUnZGa3lEQ2lQMHhzWVJrdkVIcF9ZVnEtcjdiUFhNMEFLWk9SRTNwbVNNNmhSc3lGdTRkY09OVVhpOTNPajFZM1BrcmxJYS0xMHZ4eTN1bG0wS0ZVOW9CVEtDU3dfaU9URUZoUXl2QWw4VzRsekZKVl9WcmVHNWFPZDhXY3ZHRWE2bXZBaUY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/thousands-participate-in-silent-march-after-krakow-mass-shooting-that-shocked-the-nation": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/xhaka-out-swiss-nations-league-squad-due-calf-injury-6537001": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3FTQzU3OW0wRUJwQl9sdVozRDNra1NfeEthVjhMUE16OW1GSGM4Mk94VlhXaHZEZnB6dWl2NTBhc25MbmpDcE1Hc2FXbjhmVnd3bDZSazhpbXlhOU8tS3U4UkdTR3lKd3NMaUhyLVFtbU5xcUNrZ0dWRExEckRKdnFfejBWTmhiSFg4WUFCZF9nX1JBWHdJdUo5NDFJa09NakhwQjFGcEFQWnRRZVI1UGg4WQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lN1QxTk02RzdObUw5dHZoZ0plaVY0Yi1sRU93MGl1d1E5MWh5TENmVzlGbVVLRHR2MU5OVjktajRaelkxOXFKMEFpSGNvN3ZIcGlUSTI0eFdpc0dWdENIcjd5MlFJNGV6WWY3aDdVN1NYZlRIOEE4ODJn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFg5Q2xEWDJCeTk2QjVmSDFkNm10T0tfUDJEM29Lci1JZzR0clR1YmpVeFRESVowdlhRTTNCM1RlSkR6bXVyVkpJVUF0VTFRMWtPTzlEdE40SV9iWUQ5UU0zVktyS2stLUstZ2pZeUo1ZFhNUmtDVDRZVG1JUm5TVTc2c2laRUNta1pSNmVTZnR4RldMNFlYM2xzeFZSRG1wM0tiRkNQbWZESDgxUU0yRGhsOUl0OFA1NWVUeFVWYkN1U01EVGwzMlpZS2l2RmN6MU4w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV2ZxUHJ0MHd6b2JfcFNjOFBobmlMQnY2b1B3X1ViUWtKTENxZkp6MjdrSUVVSVRLYU0taDBhNHZzekQ5bFhfOHkwOTBWZ2tyV2xnLUlVN2FZTU4wcWcyUjFPWEw5SnNDNHdUQ1dTNWFMZUZBM0R2aFdPNTY0TW81VzZPbWZRMUhucUVlYW43MnNxN28?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFpNSUhVZWZ5LUxXa2hCVEtmR2gzS0s4Q000VzhwNmZtMEdxbzhQZmpVeExNSl93bjZSc08xMkJrZGxZY0xVakkzeUthcWVwOU1xNmNnVlAtVUtVZlRWRW8td25rSkNLTUM5VkxURWpfTFVMbGtwUTI0SmF0bGtNRm1BNVBQVGZlU3BORjdOVkwyNGFfLXJ6c0lHdWVDd29Pa3RVc042dG96RHNCbnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVRoeHdYaVJBY0NfbDJLQVVvUFVRbVI1b0hqcTFJTk1BOXhDMTM2YktyWmNIUV9zSDhuZ0NiYWxrRDBxc3lOUVI3ejlscTJGcEowYk9jc0c1dnBfWkk0X0JQVFJRQWZXNEVBbkx6WGQ5MGhFbjl3aldublZMQ2Z2a29Sby13QkJy?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcFg2OE1PYV9mVkE5cUozUElqcm50WUdqbmQzLXo3WGhSaTVtVEhDNU9FM2ZYYWtnT0J0QW5Bc2Z2aHhiVVNGT3gyczdBN1o5NnVkNWVmLXBSbWg4X3pnb0UxeUpKR3JtLWNlNmVNVktsMEpRMVo2Tk1HZEtYUkZBYy1NYS1KSzBwODI4VUdVY0o3V2kyQXJwRExfbS1ieWc3REF0UUMwZDRmc0FONnRPTEJuamN5UVc5VnJPZ1lEdU95Ul9MQ1JPN3lEUDlfTUVrQVlPVWdhRENpQXRqXzhkX1lqOG9nMkpyT2NsVEhGRXhtR0dpaXh1N1ZtWGk4LUVrR3BCa2ZlemFQLW9XZFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUlKeTJ2cThsZTdXc3FvcW1oZ1RYVURRRVR6RXZKcTdESGlST1RVdlNRa3F3LU81bThqVFF0Vm5DTTJlbWRvQWdVQ2xUMnhmdjJTNkpmeUdOMFpZM3BaRDAwcXRqcHFDTFpDZmF3SUV6RE85UWJqTnE3OTlFcDA3UkZEcGlaMjJqckNpM21XVm1CcmVrYWV0TmF4RTBxdm41clc3TVg2dUlRSzJwc2E2OE9QVE8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3351599/nsc-secgen-thailand-faces-daily-cyber-threats": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTUJJYkRoTG1WamFjYTNoY2wtc0xHZVNhM0doUWZzaTh0ZkRaQkVKZ2xZMVNMbF9lVThtUnYzOWF2LUF4QmlOaFZjSS0wbEQtR1BObi1UWjlVZXBiY2lfb3I1NHVXdUlGemQxd2l5RkM3Z25wdTV6YWVBV1ZhZjZFaGM3WFNlSnZzQTNQM0dn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/09/argentina-pope-leo-xiv-urges-mileis-government-to-protect-the-most-vulnerable": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE41ZDVFM0dVSEdENm1ka2JBdC1xemxhQUY3bHhGc1FRODhrdU55dm96cEVBekNNUXBreFhya2pqdkQyVjJLTWhhLVI4ZGhZNkVBVEhzejNBdGdpOUpRZ0NzVjBhVlo0NUxialpscFUxdlRFbGZ6?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0ZBRmxDa01YamEzejZjTVYyazd4NDhwTE9yZHkwSDN6Z3NUNVJuRWNiajVNNXBRY0lQTFl6OGZfZEIwdEs0Rzc1a0U0TjhRZ0ZaLUJ0Ry1wWDVqNV9WY0RFS191ZlVUS0VXcW5JYkU2a3cyc0ZYNFlaZWxxWl81SUJDSmY2QWVHelJvMDhxYUJrUGNETWVYWUUxWExLVkNXR0hhWGE5Rk9ZQng3ZGV5eTh5cW9yeEIzR0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXhVekk3NDN6blIwbmtMOG4zaHpwRm9zNlBaR1poTjdQUlZhZ0J5YnVTRm9ZejZOU19DdTRPa21jU1h3RWFjWlUtVlprZzVVTXZfN2Q3LVJPYXhIdXBIcFRMMm1fTElfcFFHWTFSM0hOLWktUFl5bEZaeU5zYjdNMThtdGliQlZsaEs0VzFxVXBJOUtrNkZEMmZZamMzMWhRN1hrQW1DX0JIdVhyMjNxc1dR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWDcxeDd0aS1kQzg0YUZlRU9qOFhlMy1ZOWNVY0Vyai1PalZvNFRhV0t6YlpaUGJSdnExd2c5VXZSYUJPN2NIZG9NR0V2OEk3X0NOTlNKT2xKTVl1bWd3TS13SFllcTR1MVZycjNNNnIwT1dzbzRpUHBrSW04NG4zTHVFYUhoQm9YWEdZeEREa1ZUdTBVMVg0YlRkcWRmSkFxTDRKZEktbEZUdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tdmw2amtqV2RwMUtUN3pwZ3dqNFpobndSMnZfZl9yZ1piblI4UER2b0VSeWJXTmFLblgtNS1VQkJhdi1JQXhuSkJ4ZDB6ZHc2cU1zZUtEaDVsQ3VfckthVXBkZm9ubkRqWFZGYVJuMGJUcHhrdmdKZzRwU0pzUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMF84TWxKRGh4M0Y2SEg4ZGhUT0JVNlpGbmdVQTRWSU81eGRYb05kc0w0dG1pTEpCa251ejEyXzd3c3puNnZVVEg1Uk9SZnl3WUxTbXN2bHRjQ0NlUDFIVklhSXZpVXRGcUFnVUlDNjdTRWR0Mi1SSlRjOElESEZ2Tkc3akc2TUEzRFBvd2JReHdrZWpKYW1z?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmhOYWFVM21RZHlKeDBQaFZNS05RbnZSOC1JcGxHM3dyN2FCSkt5Sml6cV9zSnFKSlJSNEt0dW1XZHVOak5CM29HWktZa2oyNjVtTGpwSXlROHh3bExoUU8xa1Z3VUpJREEwQWVaX2o2NVpZdlprNTJhcFNKdUZOQVBTR0FMZjl3TTQwb2xTZ0N6eG5zcmJURDRxNVotTUlZQXJYQVd0YnZYdC1FS1kzSVl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRF9VdUNiVGdOcFdBdXpvQmxMVl9UQ3VyZS1VM0tfUUk2OThFa2NxWWYwVHJMSk1OeW1OdVF0OXNvaDB6Z18zRGNqVDVoSlZ0aF9hd1dNVHc2YlI3NW8yMTBjTmF4U3pYYnJJZElKREVqUEp1RWFkUjQxVVRmWEMxdWlBakVScDhtUDFYSWljelF3NkZ4ODlxSzB2alR2bm43a0pvd0QwOHdROVlneTAzbWtzemFReE9hME54OXZYRzI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/trump-tells-reuters-that-qatar-saudi-arabia-want-peaceful-iran-deal-us-ready-for-strikes-if-needed": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFpuckV5cGwzTXdTTWh5Tno3TWJBdy0wMU13SjFqd3R5SkktMUk1ZnJxZF9pZG1sdlV1M01fUWg4M0Q5WlJxVGswOTVFbWdPZHBlUTh2ZFExR21OVUNSX2xuSG92NEJGdzBVZmJuNnBkX0Fqc3Rwd2F3UlZheTVSdUNybHV0Q0Znanh2b3E0OFBzMWdpWGdoRHBfQlVONzAxd3N5S9IBqgFBVV95cUxPVklnblA0N2tFdFFSUjJCQUsxRVg5Zk5GQXNUMlZuY3pUaVg1aU9JaFdXUENaMklwUlpHemVMbzBXTzh4WXBWSmJXNzhVSFlsX082MWN6WGdSN2d4N21xRVFIMUNFMEhxUWFDUEpSWGkzTEowdUhRby1RQzE0QUxqbmRWSG5HQTltdmZfUEhMbUtENjJuVGgwOWJxeWhCUTdpNmVhMjFyMExoZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/carsten-holler-mexico-city-slides-polanco/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
