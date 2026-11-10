@@ -200554,5 +200554,191 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/streaming/where-to-watch-love-and-hip-hop-the-final-chapter-online-for-free-stream-1235655428/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/i-know-how-much-you-love-the-american-people-trump-told-biden-in-2021-letter": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/ortegas-frail-return-to-public-revives-succession-debate-in-nicaragua": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjFZNlNrQWQ0UWpvQ004eHNOQkJaekwxNjgzeGE5Z2F2U1l2V0Y2Q29YNmlLSV9iNmdPbXdTRGlVTXVycjR0QkVGTUwyX0dsaUNyZHhUSG9VNHpWS2tKSEJyZE5Ybl9fYV9BdVJqRXpvSWJYZGtkOTlfcUpPS24wTVlsZ2hIQXE1VGRMTjJpeUhfYkhxdFh0end1Y2FXTUc3SGRCZzJn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdGYxQ0M3NFlpdGRyR2RVVnJ3OExKR2k4V0dKcXNvMndGY1pzRDhoMWVZQjloTW1ZYkxIZVBWRmhvNURNbEtPUk8zcFFwZkYwbFhJMkRMQ2JmWnowbkI4Y2tHTV9yS2d3ZmY5SnVlb2FrOUIzRXF6REg0WnN0c3lZZHNIUjJ2dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUhkWlVqLWFqY2pTVm96VXU2c1pRUndhMU9PRTBXMktHZjRtSlpGa3l5Uk83N2o1dFFpNVF0THdtaW1vWk1kal8waWMzaUVRWEkxaXoxZVJfNUpiamxYU1o3VUhzRVlXS3MzMW5oN3M0azh4ckRDcGRrZFdxVjlKenFoeDFEeHJrdnBOc0V5eXJrenRnRk1XYzJEbWNKRnRRT3ZwZkdUMmxKODB6akx2TXRpZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/aguascalientes-students-take-top-prizes/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-10/petrobras-earnings-disappoint-despite-oil-refining-tailwinds": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTUZzWE9Va2g3dTcyUkwyOC1fUEljRnl0bFlyN1lCRDhCMUo1M0NLVi1pSXFKc18xUGptRGlZdUZ0Y3oxRlM3X0M3TEtMSWE1eVZHUl82cDd3dk1JWFBhYnNCQlc2dExYTlNOdWpVbEFxMWxqa3VmT21rQ3Nhd3JfdkF5UVFaV0xrWWttWW95OGrSAZYBQVVfeXFMTmF5T0FjYWotM01EUV9zcXhpdEk1V2ZHS3hWb0JRbHVIZm5oUXRVcTdsU0lNcC1RMVRuam5heVZvMDUxNzdCUGFWTkRXMnBiSHV3VVNZelBWeEFOSTNSQlhoNnBLQVJ2NVhkVW9zaFBRS2xNcktrT2RVNG9lV2Q0bFdHa1d0U3VTc2N1bnhiWkViVURsQkJ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ1UyVjFmR0kyR2dlQWJzNklXZ294OTRxM05YUkN4enNsNjBPUGY0cndobGhmTVhjN200V19zV0FBUjNpUmZSeDJPcGpDNDNYTGxPUzNxbWNvaEV1cktOaWp0Uk16SUt6ODI1YzJnS1U3ekdaVHhJSWJ0ZnN0ejdwcUZDRjI0YmR3bHdUT04wVVEwVWlpcHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3352370/flood-defences-may-fail-in-future-disasters": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0YWZSN2JCOV9lX2MzZUVhMW8ySXdSdnBqN3l4MlJ3SW5uZEdyQ0hLdE5weFFiTTA5S3U0dG0zeThHU0c3aEdYZ3pvVXk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kb3N1eGdUYzRReWxDMW1hVmxxS2FHR3oxSHBUOG81QVM3M3VqSHl5a0lOTkZFWWtpQ2lhbGhyRlJTRUxWNjEtSEhKcmJNelNkNzdzR0g5RmdFSkU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSWJFTExVZ0k3bjc5a1dqZEF1RXhodm11ck1paGRPcmVYM0RVcmtZdTFNNk1mT2xORGJoWHFlSUJXZnYxdzRETVVUeXd6UW9jdFRlS0VvR3dMbm5YRWFIWU9Vay12dEhUY1d1c0ZVSjk1VS1wWElZempPcjVjampyTE9ocERPOUhFOUFxSUF2VnJWWTQ2c3FpbTNkMGM0QmVYU1FCUA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdHNHc0Y5TkxVYkoxaFl2TFBFZlRUS0ZGTFctQjR1blJHR2V5MmxSYUhDMVRjd0dBZkg3RmZ2TjhEeElCOWE2VzB3RDRoeld1UVoxSUZ3VUROekxjRXZZMGJVcjUtQmFXMXlCRXBzTGRzV3VITmZwUjN1WG9wbDJ3anUwZjdFc24zRGQxdzRkdGFJNE40SkVweGhFMnNBcE4wRkVIMVRkLXgzZ9IBrwFBVV95cUxQM2N4ZUhnQXpzdS04Y2FZeGFRb3FYNWl4ek9lcFpndkc3SU12ZjZBejBUUEZ6dEtOZ0R5WFhkTlFtcmR4QjdmM1ZoMXBuR1c4aFJxM0ZjM0dZYWpqWi0yVnV4TXctWTkzUFVUYlNaVVFQYXNLUFdHY29fQXA4RVEwN1dtbjIyVWNiS0VMdTlvZ1pPZWVpTnlYcFlHbWc5ZXMwc01RT19CM19hQkFWbmFV?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY1VYbHBTdUZMcmRraVBOTEJMZlJMeWE3c2I1NGlDcWZ2d1RRRHNobS1hUkVIN0FMZ3JrblBIQkFfNnNfMFZrNHdzS3p1U0RBV3ppa2J1aEZqZU5DNEZTbUF1RGJiYVh2aHNRLTdTbXVvYWsyLVVxR1ZVcEprd0k0SUlBbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1I3MTdrTjVxNDRicm93a2xBLUpGZVRicnlUdTdXTnh2MUs5SU9MbFA0eHh2bmlyNDItMC1tSW5OempXTU1QSFFJbTc3OHVDRGhtREJ1Ti0tVHFKNmpKRENhZHJEbnR5d1laQ0tkWW9PbzcwakktV3RHdFFZYlpJYUZ1Q2pmZHNkY2Rwd09OYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDc2RVhGS0hBd2o0QW9XbXJZdy1QZlZfbTFHb2tWeEtvWk1obDZCSzh0Zm92OU8zM0d6TlZjWWZRRWUyS2tyb2F6dHVQYWFKVE1DeUpKMHk3cE94UjRzeHdwQkFtWWNkZFFmcEtDQ09QQWRTU3JaMlYxYzNZUUZwTkFIdElNTWxvbnhseWdEN09IYnJXUFNn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/mexico-auto-parts-production-value/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORWs4bEdWOTVKMGpKSHZtczBRdFZEaHVFSkRIRXdGZk5TZmZYUE9LYmRIbkx2Mi1UT0lfOFMzamZwT1JleXZKV3JuS0hjTUt1OG9JSkprdlJQUXRabTcxMnlDd0lhVmxHTkJZSVdDVHlzWTRJRFhHX1NsdnFSaWVRaWRodXlITFRsdjFjbVZaWWFFR2tSTl8tYTlXNk9YRDRSZzNLMUFEZzRjTU1CNVVtVkoxYnVlS1dLb29lcEVDSVp0RnFTNXdic3dXS2d3LUpLRE1FTXRwOUfSAd4BQVVfeXFMUEZQTk1IZC1ZVVZBRXh1T3FITFN1blM5MjJ3Q3hHcFlzMzB4U0JDblJBbHVRM3JCUm8yXzhIbjNVMjd4Ym5zY0FMWmNoeXBUMGszeVBSU2hCUGhjWUlhT19sODZtZk5WRFROSHlGa1ZRREM3OVNiSXNOdmtySGZTOThkM2FmRkUxLUx4WDhUemJQN0N3TV9TZDNpSktmd09vWmpfaExJa2x6VkJYUWIxVGQzM1hWNm0xaU1MUkczalFxUlE4ZV8tVEM5bVllcHUwSG9PTndVX0dnNTZQYmp3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUml1cHdmZTdtNDB5QjRqVVdGa2F5S0hnRGR0Qy00NWh4VWVPTTlXclZMbG16Y1FkY01UT2lScll2NTRqbUNEU1VpNlZVZzRvZGZ2bUNpTFZUZ18yMTBCeWhDTjNpa0xpUVR6Y1dJM0VOTHhYY3p5VzZoN3ZTMFRUbFY1Slh0QzdOUE1xZXpNTmtfeU1MNUZKdEN3b250UUFQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-house-votes-to-derail-impeachment-of-defence-secretary-hegseth": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWZ5b1ZxV2ZFTUtPV1JyRTVZTWJ5MU9pTmxtaWhGcFpxSy1XQzVHS2V0X2hqb3gwUl85SFgxQzhtaTNMV1Y5UC00SGtCNkpaN0ZDUDBwTVJCQkdCOXh3dXpWZm5VdmxpRzlOU1E2aER4TTA3bmd2N0E4YVQ1WjBmMUg4YVVNSnYxSDgwcWZkTmtFZHdTVGxaNzFWTmNkNnB0QzBSNmJqOEhleHpZUW9YZnhISUttNVpDZzFhU0ViRWo0dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnNCdG05QV90X2xsbjY3QmtkNERKeDBUV3NYM1BQTTNtRzQ1T1lSc2FZTUJaQzdRYmpoaVFnOEZUZHRyMWZOWG1VQ3FnYnMzUTk2SG1oZkhNT1lCdVAyMlVlbU82aWQ5a0VPd2k1SWg1MW5NeUFTTlBScVJCeGxvbllOSXJGZXQtTjVoNlpESWs0SExHUVo5c3MyYVlETERRUnhVWi1LRkN0emdvYnBvN2dZY2lsdHhpd2Nz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
