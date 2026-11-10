@@ -200140,5 +200140,221 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/11/10/aerial-footage-reveals-devastation-after-deadly-bulgaria-highway-crash": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/britain-to-invest-ps90-million-in-drones-sensors-to-counter-russian-undersea-threats": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-11-10/ai-agents-have-yet-to-disrupt-uber-doordash-or-online-travel": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://economictimes.indiatimes.com/news/international/business/nvidia-and-ceo-jensen-huang-face-class-action-lawsuit-over-chinese-spy-affair-alice-huang/articleshow/135708391.cms": {
+        "image": "https://www.google.com/s2/favicons?domain=economictimes.indiatimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcmRUUUtDRzcwbmpQMFc3M3l6RmpQTjlrMkNzbVRzd0V2UXAyQVRWdGdmWTlzLXZHb0cwZE9CNkZ2RzlhMjdaQWJsSFJQOTNrNUs3bkNaLWd2blVPV1ZXVC11RXNMWTk3THdXRGFwdWh1dzRMajdFUVhRZWNGU0d1dHhsQUl2Ul9vMnZkU0tTbEt3d2N2MlQtVnJNYUdIQWktZnRGSWJDVE45M2k2SWJnOGVkZHY3YnozU3hYUzJfallIOFI1cHhReFhWUWlIWGxGNF8tUWlVVndKUmdRTkE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxONzVaelVtWWo1aG1ndlp2d3ItMTlFT0paUEh0VkVQVEZTV1NnTzUzRDBBcGhGdDJfajMwNTc5d2JyY3J3T25lNlZVUDBKUGFOQnh5dlBFc0ZyNGhQeW9XT0pONUdjMjFxdHFlZ2dGcTlkQ1VhNVVXR29rVU5iSUNjWXB0VmNiMEplR0g3NGUwVkNYVC1iWWhaT081SkNsUGNMYWxucWY3RHo1YlpMa09rb29rZkluOVBtU3UwanozOTJ2Z3ZSMUROZnYtaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUp3aWtLM3FHZFMycjJkRGVUeXFXWUdPOV9fbEtkVUhwUk5oX2xDVHZ4alZwdl93VnY1UzMwSUN5QjJneHVzdTZHR21JUnkyU2NtZ05LazhQMHoteDNzSVUxQ2lTR0VVSk8yczdTVTd5cXFHNnFUR1hHdVlfc1psbktyRy1OTTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/british-police-say-assessing-further-reports-about-russell-brand": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/sections/planet-money/2026/11/10/g-s1-152755/why-did-californias-billionaire-tax-fail-to-surf-the-blue-wave": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uWmNhMk0zYU5FVERIbTlHSXlOU3FUdlFzQTliUGdTeWlyd0pxZExmR3NBNTlJdk1LNVhTR01ZT0FJbURWeE8yTlY3bzVBVXNOd0lGZHc0Q09idHhmcDNoOS04MmtfNm_SAWxBVV95cUxOT3VmS2NKT0pHMmt0Um1JbnBCVWZ4ZVRmUTVSRU1tb01UYkZMRTB5TG9vOURpaGtaSUg2M2otVDBaRjEwNTZ5Ymxrc3NfUF9ROF83aWN5RmVUazdDdklYTW9XMWs2S3VPUDFCbWo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/gulf-arab-states-close-ranks-with-joint-command-centre-after-iran-war": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-10/hsbc-s-sels-rotates-away-from-semiconductors-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRGxKOHdEWTJ1bWRiZUFQakFrdnowXzUxRWNFbG1xbTlUYVh1ZzF6SWJLZU5xMXN3U2VKR1lnWjloYm1Ma3BKVHNXWGxpdGFpTl9JU1Z0WWh6alhEZWIzcFlpTDlETHBKTE8wUWhXOVlnenpSWnN0S3k4NjBCVVFSbTJjdUpvMDZTVWRIbERpdkw1N09IMEZ2MmlPVDFqV3JHNmZYdWx6SWJVSEFEN1NueUhxVnpkUFpYSFdfZG42THIwdG1TM2JiZlBLMFZ3UWk1bndPcEdMbmZ6V0s5cS04RG5n0gHiAUFVX3lxTE9EbEo4d0RZMnVtZGJlQVBqQWt2ejBfNTFFY0VsbXFtOVRhWHVnMXpJYktlTnExc3dTZUpHWWdaOWhibUxrcEpUc1dYbGl0YWlOX0lTVnRZaHpqWERlYjNwWWlMOURMcEpMTzBRaFc5WWd6elJac3RLeTg2MEJVUVJtMmN1Sm8wNlNVZEhsRGl2TDU3T0gwRnYyaU9UMWpXckc2Zlh1bHpJYlVIQUQ3U255SHFWemRQWlhIV19kbjZMcjB0bVMzYmJmUEswVndRaTVud09wR0xuZnpXSzlxLThEbmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOenJtMUo5VGJQeXpPQU1uZXRXOFZZOFktWVlBTlFkcldROWxNOUQ4RkJhclRjbXB3NEZJSWNUV2Y3RTJBa3RYVS1seXQxOWQxLURQWFd6QUhvQWc3aFlvdTFKWVZDanJLTUllSjhLY21ZYjhia05lTjVjV2NsRi01OWNGdW1kR250Z2xmOUVSel82RGtLRHNHdEllRVNTaGZDRzBxeWpMdm4zLVM0bnl3QThfeW9ORWg3M3g0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUJXYlotY1V1RFQ0V3kyOHl6Q1Z2XzFoMngybjh3MGZ5QTJhMFZBSndJUXVfc2hKTmhpTHdBeU5rSFZBMjJzbjk5ZmhKbzdlR0dDQVdCS1UyS2NUSVhQNDB5Q0JTREZMLUJwel9PeU01SW9Kd0xxdmo0bEFIYTdFSVVUbm1VUWliMTdhVk1pVXRlMGQwYmlmVDFvM2pBajRCamlhVVh0a1JfRVN4TEZtSGVxZ2ZpeHMtMnZLZmVMeE9fd25weEdSZzlRZGFITlQ2TlVn0gHYAUFVX3lxTE5GOXl0c3B3SldaakhZc040NUs5bWJyQ2Vjb3E2aEdxMHJJSUFGQUR0cVh6OGd4YUp1a3RkYWNCRGxaM0ZsdUVyQzRid2JzYTlLbEk3NDMzOXFxUHJYWkw1ZDZJNVJnRHJyOXNYVU54ZzRJb0Z4OFh2MkR1TFJDcDhYalk2QXNlZXBwLWNTOVZjSk0yNUhURk5CLW9ValRaX2lNQjVTN3ZtaXJ0UGVIRDY2R0hBZ1NhNHVIa284NG1vT3Z2WFplREI3WUlXMVQ2MldsQWZfQUotNQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUlUMVhLdmgxVERtcmdONjhSNHZaMkZlOG96ZUd0M2NnWUs0Zkx0WjJHQ3l1a2NTQ25STzlrOXItSXdLcWJYUkY5OXFoWVhwaFo0TnhwYzNOMjJBakNpTHk3UGszTG5iSGs0S0R1SngzX0VjcUhDd3oyM0tuUEh0cFZyZFVDRzg4dUNVY1VYX1M5ekZ0N2VPc1ZuNC1HUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUXRkUGJBb3FhMFRRV0p1VzFnclY0Qmd4LUJNbFBnRzdOVjU1dDUybUNEbUFNaUxBSDdWR2w2T2hPUkhTckk0S1hfWlpEYnlsMWZ5RFVoTmwtV2twcFJzTlR6cG5NVm91QlpTbkFFVU1UOVRoenA0NHNkWjI5UnlfQ0N4TlptalZseS1FcFpIdFdQUUxpUU5fZXJsRUtFVWRFcGR5TWd5UFdTR1UzT0VqcnkxRW56eUI3MHMxYzl4UHNvSHZWLXp4Tk5kbjBMOTM2Zmt3OFVmTlowQjY5cE1qZ3YtR3owR03SAewBQVVfeXFMTldRZ1FWSHBvUzd2X09tcEpEVy1FTXdCS3IxT3JXdjVBYjFvMWRmaFk5ZWoxZEhMU0lEWmdMYWUzbGJPeUFUWVJUcjZkM2FBSWRmLXcyeXdSemdLQzc5aDJfX0dsSVNEZDRYRWZlZ0VhNS1MazJOT2M0THBXM1NIcnhQd3dSWDYtWHlPVnF6aUU5Z0xEU1lOUUtVNDFYQWQ3V0tEUWRZRUFNUzR3dWY0ZGVlTndiRnlGMFRwWHhuVkcwYm9wRkUzY0o5YXNWUndBY2JrdkhnU3FpaTNCRjRRcjVQNlhQb1NJVVo4TmI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOTZJMmkxOUs1TDloQTA0bGctdEpXVmotNVFaZ3dIYjFmbnJ1MmFVY3AxM3QzeE9lRUM0WXZPZnpnVzNCWU1EbzZkeDBqOTlQQTV2d3E2ckNvWG8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/11/10/latest-news-bulletin-november-10th-2026-midday": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/10/japan-to-supply-philippine-military-with-coastal-radar-and-drones": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOEIzMVBxYXpnWGgxZnNLdFZUaU40WVI5c0dDbmdkVDJmX3BtazByaGxmSkdwSU81SDZ3WS1VV0Fyc2JOTFhpYzRUZDNHYXVnNGVwZ1BiUm1YUGlxMkFmNGdvRW1TMVpzMzB4WXZ0SVdQQy1xb1FIbERQTlhKbGNfeXhSMGNlNzhOd2pLdEdiV29QWEU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/10/malaysian-court-clears-former-pm-najib-razak-for-house-arrest-transfer?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CWmhsRkZqVDJRSUpTTDRJVVc0VEJVYllCV19lVXdiOXhHVnV2ZHo2a1ozZUVKYUVZM1Q2cE1yVFhDOWhOeG9fY0x5ZHJRLTZoZ1R6ZWhvU1YzTHNfdUdKblY4cmZ1Y1R1MWtEX2tvNC1hOTNIOGJZWHBGcXZCZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVFpLN3I1V3hYU0VlQjFTWG5mMVpfZjNGM3RzdUM3VnlRWnJibG5RQU92WmxDd3l0dVhBWktlX1p2enhvUC1rUGRzWTJYa2xTWVZVWUZxUkpNYXI2ZkE1R2h1ejRxXzg0QnRHaGR0WEQwcnRkVXJldUpPQWdoLVhROWhKT0xGOEduSDVNbVJfV2VOLVJFZGlUVTVQb3lGZTI0LXB5N3owSm9XWlByS25XQlhXbmdra21PcTR6cVRwSFcxT29PcDZUTUtYWTFJQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMGMxZjFqZUpKUExBTlpXYVFWQzZTVDljUG0xOTBDWDY4TGJROVkwbWIySExLY0E1WXMyaVpZNmpnMmFHdDg4Q3l3WVdDWGdGbmxxLVNMMk85c3M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3352261/police-hunt-panaddas-hidden-designerbag-stash": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0FvbUl0R0xFQ3VBQ0dsY3FWRXZCdHpJTmNtSnNuWnBSS0VONm1kUkFCY29uckcwYld0b28wYjB0d0JPbWY2QjRDWV9JeDRWSXpFY25mVEs5X1p6Y0FjTGRpS2h4VFU0UGtQd2p2SExhREQwUW8wUEM1czhKcE1Eb2lqYk5VUmpSYXQ5MlM4MTNUR29GaHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWtZT193eDlnanMxSDhzN0V1VVZHbHpCQzdMRHJXeGtIVXA1R0hXVHItLXpkZ1pueDN1WnVTWnhiczRyT0JvckpUTGFoWm5KdEthbHJ3Q19uVlNMNnZZUnhOMTdvU0JmTHFpdzZtakVITXFBYjAza1Yyd1R4eDVmTXA0Uk5FWUJMVXFEcUZvekpWS3NpblZiUlFwRGVZWENzMWxWY01WRk9SQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwJBVV95cUxOTXpQT21xZnVXdGlIYWE5b0xXMUpWZWtjbG9mTnd4TkpQZjRzYUQtdVF6SUdwclN2RzRKZDVhU2hJb0pGMFRzYVE1UTFCeXJkZnd5em9KanZZbHpSaGlldVJXTl9XQmMybnlJb2RJMl9faUFoWGZRV3lYdkt3Z3hNTmUxRWh0UU54NE9iWG5yeW1lSWFrUEJFZVotb2lrSzNXR0dHNFRaZi01SEFBOGVKaDF5WUFWLS1XemJWVGxsOEtZZU12RFE5NUpKWHRCdEdra2Fwb2pXR1ZOSi1heGNoSUxRRWlqSUpNMHZQM0tjd2hNUVdlNjhYOGl5Y0lyeF80Y0tEemt1NC1rNXBRSU1nZVFJbzJHWnozazEwSVBUcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202611100236.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/11/10/who-moves-first-in-iran-us-diplomacy?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xam5wZGY5a3ZuZGdDeGNzcThrcGNQQkpQYUtrcmxmSWVqVlBKWC03TGFaTzFJdng3eGZsTnJTX3ZXcHVvRlRuNzVVeS1ub0xjMW4yckFncXVOQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNHF0ZmQ1cXJoc2NiVTc5M3BCaFY1Rmh4WkNYV1BTUEVKZ2hPdUFyUTNLSHFNdXRjY1NTVlo1X2FqVjNlcy1LNnhXRVZuVzdLZ0V0alAwLVc3RHNmNHpvbjQxZnY1UlNQQ2dkNGFuZHZjQk9MS2txTEpGTHJOMk11Q19mRWFreUhVNTh6NFJIQk9ib1lpRWk5dnBLT2F5NXF1TDRKTDd2RWpyVWRfS3RQSWY0XzlNU0c2VzB0Q1lRYXg3bk9XTUYxR0NQWFBtRmNiYlpjQUJ2elc0MDhGeEFoTTYtZUdHRFY5VDNHTF930gHzAUFVX3lxTE1oanJ5YzNpUFlLbjR1Z2g1Q3NMX3J6TVQ4MWpWVno0VjhIWHVPWkJSd3FGVzhJRWh2d3VJZkJhazJabzRQTko3T1ZPMW1BZV9JbzhXN1hHWVdkRkRIRG44ZVF3LXlpMjBpbFFBN0p3djZMWWZRbTFydWFLMXdjRkZmVHVQWFJlbWFrYmlNZzgzTm91QWtMUEg0YlBXaF9UTEVDOXVXODl5Mkw0Q2NVQnpiM3d4aHdES21TZXEwaEZGdXU0MGpYak9PQ1hTLUZnaUswYzRXWHBBakI3eDNIOU1DRFlEem9HNDY2ZnltOWt5dnZwYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
