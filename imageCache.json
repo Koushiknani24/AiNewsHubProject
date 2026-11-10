@@ -200356,5 +200356,203 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/long-long-night-director-youm-kyu-bock-interview-1236751376/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczFXbkMzMXgtX091b3ZINzh4WnJ6WFl1N2tQNFkzbEFfR1cxbkU0SElDX0NqSmRHb3Q0N3k3YUotd2RxV3BrZXJlWE16MlhCU0NHMEJLc3IzNlktLXVSTVVXeHRuNzhQbWxvYnNDN0pqOEJ3bTRHMUVBVzFyNG9LdWU4czFiZ1p5S1JjZ1lfd3VkRjNYU1RiSDNfNzA2YzFTZkpVcG1MQUNTNGNjMlVIVkdka3NwZFA3Vld6eHNnSUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRmhTNXVkd0hXdW9NcUFSZ3YwSmRWalN0X0dCQnNxZ0JvdERxUXpoRkxDMXdEVnB6VUM5TlVUS1dYN0V3cXJFaWhVbnJleHNQX0pxRjQtVFZqWk9hMUZRYkw5UWQ5VlVaTjBGSHF6WEJuOFlpRzk1RE5xVDJKSy0wb0RCeGVIZ0htWFEzeXdBbVRtM0FWSHZIRmZCU05aeDRUeWNMUV9EWEUyQlJEcUFFcHBQQ0p6V043UEx4ZG42VFUxdEloa3U0RjFhNW5keUtVNGJ0eUtBVHAwbUhfalh2VFltNWtudEVS0gHuAUFVX3lxTFBlbkVZMnpRQTNOMVA0eFotdUhEM2pBQ200Tk1fVUFITERtZUlLZjNEc1ZpMVdaWWdkd1FRNTFuV0VFaW5leDVwNUI0T3d5a1gtTzgtWDhTR2p0YnVfaWRYRk9md2g5TlNaaHNINUQyWU1XdFo1Mnk3bXg0T05NX2NSWFdKSUs5UXNIYkxadVhNRzFOWjRLZWtEUS1HSnRLekUwVDlIUFB3MkVEc1gyUVY2UXhyckllYllrQ0FWN1Vwbmp4QmtfeXh0RVU1bm1DVXJFSXJ5ZFBYZ2trY0dyN3lmaUZDVGowdjdsUzlDcEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWnlKVGZ1bjNOSG4zTXhYb0wybHItX1lCb1liRlZXOTh6NW55Ym00QlBQZURyTldrWnVHcUt5VXA5Ty1FcWFvSDZ1aUtIcGdCcE1BaUZEZ2h1dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMUVmSVRsZ3QzU2dRX3BsbnhsM2tZT1o5NVdyLWg0TU11VmtBOG9fdVBQTlFRUnR5V1BiOGx5MFAwSng5Q01FdHAyNFY2czQ4RGtzSTZMUkJPZGMtT0VSNkRvQkJ3a21QcldQOEJBTXEwN2tCQlgyY1ZpWVROTDlxLUtRcUZLY2ZBSkVueFF0MkVNZmRuc3VubU0xZE1Ta190dEgyWXpnYWl1TFpFQVkxaWM4MVc1ZXJxQVJHdG9Ta19ZVGJpdXY0TTE5Q25Kd3JScVpERWVnYjM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAJBVV95cUxNLTNkTVE0ZGR5UFNtd0s0eTNubGFROWRLZzRWNW5vS21JZkJ3Z2VFc2IzWVcwZE9HbFUwXzRTaTIzVDNIOFRBTXYzU3ZiLTJPVmY3WTNFdmo4MXJZajV6RVpRcWdvcDVnUHpGUC1yVE12RWE5b3JZd3V4SmVlaGhUemtmLWI3Q2N0cFFBSThxU1g4UGl6TW9wTDBGdi1yQU5hU0FjMTQ1dFZ1Zzh1bVg5akJLX1dUQ2tINTl5SlNHMXJVV2VjSzUxSFZIdmlYVW5mbDEta1pLT3ViZkp4QVU2Mm5LTnc5aFN5ampkNXk1VzlfU01Ma3dCbWtZckR6RDlJRGpLN0Ita0ZVV1ozV3pBYWZLV1c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/france-searches-ritz-villa-windsor-in-probe-of-the-late-al-fayed": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVE5odHRVTm9hX1VGbHRoRDVNMjBSemlFZ1JHNmkyTlZZNnBaQTNTcHZVOFZ0Y0RQWmk1SktuYzN2ZlpQakdrX2NIeVpBN0w1Nm8yZ2FQSG8ycjlmckZBQWx6WmNpM0t3WkJGU1dyT3VFRTdVdXVCNW40cmlEU2tLVDhPQ2hIbTBVVFY1dmlVY1ZTSkpiYm1jY29xTEhVVS1mY3BMQ0JKN2dLWHBRWmxzVjI3MFNCLVJEUTdDTWxMQjdSLTROX0Zn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ29TYjZIeW1NVXlSV3ZxMG9zMkVDV2h3ZWZuc0F5cUU0dzVGRUpYZkF3UERvR3Y2bkhTRWduTTlmeXFzOFNhNVpzMkhsRWVwSVVMWVZrY1prNE5tRE5zTXREQzR1cDhJYTNSZUdUdGF0ZDZMcGJkMmFIWG84NFZYYTdtQzhvYTZUWmpVektMT2hWdlFLeEVlYXBHOEpid2M4SFNvZUkyTmpTTGliZU9qMXdrX1RvWnBPWElUSjM5VVVNNzFaQWRJcmtQQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzRKbHZWOXZBSjQySnlWa0pneEs2U3VBTmdJa2hETUxYMHRFOV9xMWl1Y0JqODVMRVh4YmZfOXZhUlR2bUNZbThrSGV4Ykh4RFRKbkU1LWpOYzdacDlBZi0xOXgyMkJEUXRnd2dOdEFKNGlrdTRzYnFWdEZaSXdMRHA1OA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMRnlaR0tBWjZNdS1RSFJ3VkNwbnlVdHlhWjVQREhhVUVISWMwZlNMNGZPSG0wUDZuREZRX3FtYzB1bDBlRnlIUDBVY0VZdmRMajJoakcxazBqSlJDcnB2dnhIVklhQVRZV2RGZ0kwU2E4NzA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOalFZd0hFUnJjYTBaTFE3MzliN2t1aEluUWFrRDdGRHBhakVlc0FFdVk2QWdHTmFaZ1dEXzZ6UjhRUWdPZTFldnJmX3g1dzNBaUJmTURvQUc1dDJ3RnluV2FxOThWVVphVFFoSjJnZ2ZZTmJ6WHpJaDA4V3l0dXl2cmw2SkVjZ1VKWnozN0Q0SVBTWEJvWi1DVnBhMkJQbzBmSUdQMm9iNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUkV0ZFJPR1pEV3hjQkdYM29vMGR4MjRFTVo3UWtYRVZHUXdKMEJndlhTcmxIbDFRVnp3ck9zWThkQXlpQ3FqZUZPYlUydW5McXExNFlWSXNTQ0tiaGdXcE9qaUNxQ1pjSkNyNmVfYTVkbFhxM05XOElRMklVZ2hCUzQtcE5DdHY1MHUzQWhOWG9DRTB2SHY1TzlRenlSTDZPUnU1Tm5OemtJdDA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3352280/new-joint-venture-looking-to-revive-robinhood": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZTJkVGFPcW1Wd1RzeU14M3NJbEFOUmo3UDQzZy00VGxfZTlGcVJ1NkNOVWlYdEh2YThrQzA4ZkdPbS1OM21hZE0zLWdPckZMTVVjZzBmdEJyYU4zTUV1RUhYLXJHYkltZEVlVUk3TFMxaWJSX0prcUdvb2VGUWFnN2xWQkU0V3NROERpTC1CY3FfV1RoY3kzVk1XWmQ3RXdGTzVNM3M3Tnd3OTdHdkozVHF2SktUcXBQb09zZFJBWmMtbFRRbk1vUzBNVDJDUnFHSGlveW01blBROVF2TFR5M1NXYXNPc2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa2JuSUppOXlRMHJjMTVlUUN2a2N0Y013Yjh0el80ZjgxYUhqX3lCaktUazFCOE03blhDQXhDek1LdWFpUUQxTHVoVGp3aEtqVW00ZWR5UDM3alFGMFdnUThQUm5sRFpuaGNpbWt4T2lWX0VNUGtHanlTaXBUb29UMTJzTkRvM3liMUl1dlh2VkF1eHRYbHkzeFZFcGIzNnJqM2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/playbook-paris-podcast/ukraine-melenchon-embarrasse/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/geodiversity-interview-yameli-guadalupe-aguilar-duarte/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/leurope-a-besoin-de-nvidia-et-il-faudra-plus-quun-scandale-despionnage-pour-que-ca-change/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE40REtua3I3aWRudnlYU3Z5OWVad19UN2hVV0FXNGpjTUtPLXpPQnBmcE4tN2phNG1lNzBaQ1dJRVJxQlkwYlJYLTJoSU5ZYzYtQm1fdjVyYUk5MTk4cFJoaF94S2UxeEFZaG92TG1B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazFaVlp4YXdCejJrZ0lVb2F2TF9NaVk5b0hBMTdSSkF2U09EU3FvazRiSEVoeUVFVUl1aFcxRExJNERQa3NjZGFsaGxjZS01WF80aE0wRl9pLXlyWTVkMEhTTXBfbGZ2LTVfLXB1TklzV1MzamVEWWVBbjNIVUdMQXVRRXpyQjhESHFGVElQaGEtWGI0dTdwSFlZQlV1MDQtQ19tN3FLYVd6R215c1VIRWRYWTh2RDdPaHJwRjNaRV8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalRSa2lUSFFTRm15RmkySG5KWmU2RWJwTUI1Rm1ZUmVKUXRSZnBucllDZS1hWnNoak11dHozRzA1MDFTZ1BiTnE2S2JQS21uN1pBcWlWT0owT0hic0xZNkV0UDZsZ2ppSUo4dUJDXzNRYjk5d2tCcXJobzE1cFhNWnBEXzVFcEJBTFh1cVY4QzdTTGkySUxqeW44QkVVeDg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcVFzbnJGLUJiTW9admRFOFJfLWQ5WlcxV1BRel9iR1pvYzRudEtUYjNMczlKR29vWmUtSkpyb3NlanNUVk9WNWVNVnhXRHVPUjlHZGxDN04yZjVQSm85OGR2RVhoMm9qQmtJRnR4V1FKUkxNWDJpSW5Odlk1UkVrZ2pwMkNhbWNqblJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFAycGFzVmI4Q3NSQ2ZMTC1DdDR0M2R3SG1OZm1DMHZ6OG9qa3dJUllpSThRa1RlYm5uWGZrVDE1VHJZU0xJdlBFRWpZSnhzU2hUMlJ1UDdJXzFxamNqTDE5bkgwUXowRV9JdUhyckdOclgyMHlaZFE2RlZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1BpVEpoUXk0dVZTcEVneEYyZVJuVHUwT2E5b1VobkVINDNGeHdwcTRsSzlaMlp6WU1MUFU0N05ucXRlQk1yclZnZGM1Z0dwOEZDcTNXOTlzdzBkQ1NCNVZyRTFNYWh0Z0ZtQXJNS1NvY2tBbFpDejBFZlVhMmlkRXM1MU1WQjJrVFp0eERuUE5mWG55dVdULW9xZ3I5SzZGeXZ5ZDhfNGRnX3ZNdjZUcU9MSmhLbXI2U3fSAb8BQVVfeXFMTUNBbmhtNUIyWFg4OXQ1U25TaXVzVGxKbWloNWoyQ2NVMDFLcHJRY1VnUTVyaTB6dHVHbEs5QTFtQ1QyYXUxRFpFTHpVMGg0Zi1TS2N1TUg0UW85Q2ZOOHk4c2I1aWo0UzNsc2hOYW8yU1lObzJaYzhpVkU0a3I4VWx2aWhxMGc4dTdQamNIZEJaM0t4ZlZzQ21pMWdHN0JiZml1RG9kd25lbktCSWxFc3prd3VmT2FZdzhJMWJPVDg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/10/myanmar-summons-german-diplomat-following-controversial-facebook-video?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21fOTJsSUt2S1FtclRIdUVUUnBmcVAyWjd2WkdvcWt4bEw4MUtmaFFoZF9EYlNCZUwzRVJtekFhMy1rWElPTUxwekhLQXRXT25pTWdLa2NGdkFteWtibmxSdUNOLWZEcUpjeVJtcTZ3S0ZWUWx4T3p1a2hwTTV5ZEp0amVHdHRsZ2hiM2E5QUQ2U2owd09vcDdKMmlZWEIyNEl3U1Fic2puR2hhendj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLVJNUnA5UHRLcUVTTkdBVlViZ2NoRjd6N0YyR0lfTklFQmlXZkVUbms3ODhkeXJlaDhmbzdSWmpLcDFIODhSM2d0MDBCUGxIVldmWDFoX09qUmlJSTRiNGI2WmpMeDJUOUVXemRnQzV2MnptTE1MbEM3QWxxMWFMUjIyaU1QVmZNcHBFaDZLdGpnUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhONWNmUnBCZjBHMWNrSU5JYjRDbVZ2UVZkcjFaNWVfZEJJS2dSQVd4NTdITjhZaHdUbHFQbDQ1VmhHVXVVLTd4UENvTXNxZUhBZTVsUTExYmJTaktacjUwQ0lpcUY3UU0yMGVSanVodTJYLVJjeERfVUxfTjlhSy12YkRnQ2Qwclp5RnJrRU5BY25wV1NZYlpKaHdZWHF4VnJfajc2ZV9qOXBmMmFCMEtmQdIBuAFBVV95cUxOZWZVY2FpTk0xWS1GSEkwUThabWJYMmQyeVBqWWlLUzh2ZFJOTzhoWEFXRHh1WmxQbE5BaHQyeTEycnlUUFJselphQ2dWVFJMcUdxblYzZ1JOd1VZdmQ2NFRESzRJUVRUWmlLeFZBalVhcHMweXNncnFQcFRLUDhOd2pkLVVMMWdwUDQyZDRiSUtaUWxCQW93TkdJZUdZX1Q1RUlaZzRHRW82OGNNS0EzejVvcTMxeGpL?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
