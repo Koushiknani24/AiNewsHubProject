@@ -201538,5 +201538,233 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/sag-aftra-duncan-crabtree-ireland-web-summit-ai-dan-neely-1236753936/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/music/music-country/morgan-wallen-last-time-i-checked-tour-2027-1235656537/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-12/de-beers-suitor-aims-to-win-customers-back-to-real-diamonds": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/telangana/police-bust-interstate-vape-supply-network-in-hyderabad-man-arrested/article71694589.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-12/yen-falls-to-key-160-level-per-dollar-raising-intervention-risk": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSWxaN0tPUFI1US1TR2ppVnJqdmVuQTJLWmI0LVNDSDc0YkNOdjgxQUQ2elZjQjRQZzlyVlZuTGU4NndKOFJVT3dUeXBFNUhHV2c0d05lVndNVzZoZHZ6YWVqel8zN2l5Wnc0OXg3M3RxVWIxZ0RuMUptWm13YWRTR0dB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/12/gunman-kills-one-and-barricades-himself-in-building-after-gym-shooting-in-washington-dc": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWpYdGhlX1BjZk1NOWdjNlZyYk14b0NBRXJiVFRBbnhRejZza3QzcWtkXzlwMUNsRTcwSExXa1FpdTRVTXVaMFVSSEdsNk5OdHU1bVRjY2lhVFBDVWd2QUF1UkcyRVR4S2NQZjB4WUVsbjlhakxHQUNscVFpLXJGX2xCeElZZ0lCM21odWNWeEVZTm9hUjlxUG96SldHcE41bE5OcklpLXNCY2FTLUVHSkk3Y2VicGpudk02TlpxZTU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/sessions/2026-11-12/live-q-amp-a-with-jensen-huang-out-what-s-next-for-nvidia-china-and-ai-race": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/tv/tv-features/internet-invitational-2026-robby-berger-talks-viral-moments-1236747861/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mnd-intelligence/deep-dives/mexico-and-my-money-counterfeit-bills-mexico/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxM2F1R2dXWktZS2xydFZJNzhNeVpCS1JKdjlHUEFxSUQ3MEZ5RjI3R19CQVlmWnNIN1FHbEhwekhHa21LMnczMUhfRElEdElwSVVOVkZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaM1BfNWJVMDk0TjFIQWtaSTdEbGVXdFp3LWxDYVhWNzQ5YmkyM1Fsc0lBaWVtRjVMd3V2TWpVTnhuU2xiM0VGWDg3cGtzMG1XVnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2hmTkRjTng1em1WeC0tUm8tS1dCc050cDNfZk1TMXI5WkFoR2ZaWlJ6cTFVYXFrdThaWGhFemdSX2Z4TzhaLWdZOFhqTElnMmp3bVM0c0RjVU96NV9rZ2FDSXN3TEdqTFh1YUZ0U3NUbGtGLXVvamxoSEpSNWdSXzVhSTR5OGdIbi1TSzNIbmwyMUZHRzFNRlFuT2pacnl3aEV0SEV5d3hrWXdhdUJ3V0k4aXJCeHhxdXo4T3B0RQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmg2dFFXc0tEM2NKVGRlcG1aQWVHbUJhT1NsWEZuanUwVUFjMVFrXzFLQ3lLTEQtX1I5T2hmVllGWlJCMUU5UW1ZOENwS2JxenRlRlpQQThzd2RuYkZHbE55cHkzLVBDX25kOE16eDhoRTlkRk50LWJFRmJlWWpaZUdPZWZZVkx3WkY4TW9hNEhVcURGbGZiRVE2VG45YmxPSEtuamVtZGR4TVhZYnVUOGJxTDQtWVRZYkJwZEdyLVpYMWdSdTNMaTRaN2h5aTVMT09jNDZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYnYxYXVraU1VUVhOdE1FTVJVSTh2NnNhVzJPTmFFSTZodXRlTTlzZklfb2pxRGdZUi1KUU5mc2JyTzNvcXp0UE9LVjllU3lneW1KR3p2VGUxd0ZtUEpMMmQ3UXBXcnAyb21MNUJtdWlIdnlMSkpUUE41UE81MUZfWUc0QXJ0VExOU3pTbjlpMGF6a0VsVEFJYWMySUJ2V1JYV3hXSGlEWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjloWUQ4N0lPcVpScWVPUU4yeDV4UnlneERFcl9fd0lHSVVRczVkQWJlWVJ1ZmFMT3Nfel9LQldfeUd5dFFEZ29MY3RWelZQN0VLOG1ONnVUTjZaRjZ6Y0tsZU1uZWVrQ2pJTFRQNmxKZWRyX1NPSmtPUUt4dUlCV3JHNF9tU2ViZVN3TzhpSjllbVJvdkE2aDRlQzk2ZWd5WWdpUlJIWHNnY1dUZzZxRnlDZGlKTzlxLUNOaDVlM1BVdzE0NHVLNEJrY1lPUUpXSXNSeDhKWmFPRzFQSXBUSFJGOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mZG1jMDdHM2d1OF9WTUlfR2xybDNRdXVWOHIzdkU5VG1USXczMTBudzdTYXRvWVduUjhOSTJNb0VfOVFxYVZCZE40VkNIV1R4dGsyMGFSa29zc181aW9Oelpvd2R0bVltYUM2c2cyY0o?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/world/3353534/nvidia-ceo-jensen-huang-steps-down-in-big-blow-to-ai-boom": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUUJ4dHE5bEJnR0RFVnN6SU54X0s5WWNkbHNOdF90S3lwVzhkeTVYSlV1cWZDY050cm1MWGc2TTJvRDZQQkJPX2lCci1rTVJwWkdrcnNuWWNXQ1NJa1dGc1poc1Z1TlBtUmFEeVkydjJFOTBwTjd5Z2VobWd1MzZMMmlidzFYMzdRZFlhaVlIT19UeGd1czVfM3JkaXdYRkVMejJtM1RxNVpFT1o1ZU9WblBvT0l5eWVUemhnN2RwN2FMRVhaS1ItdUdRZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXVFVkRsYjNicHp6M0p5SWdsa3ZHQUtNWmg3a1B6NzAzcDloNkFJeFVFU3BuTU1ocHZoNWo4VGNFdkJaN0RRdlRsZDdHT1R3ci1VMVlVZEhjcnFhbkllVzdNWGpzOGlpTUF5bTBLZEVCTWpXVjZBSExuTFZDcGdRMHF0QkNNTERvSE02RVZadWZtLUlyMkpfUlludkNiaHJwbWtQcE43TEpWVjI0R1lwM0dSTkhKMWcwcGFqbGdUT0JsRVI4ekhaVVp2R1pDaEV4ejhB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PU2NuRGQwVXFSZTBvVzRsOVZvb0pRdFZueTJXNTFfeGNuMzNxejNTLVVYS2hfUnpXVkc5eENnUVdLN1pUMi10M3piV2RpazdVRGRnRkFsVXJ5XzBwRGt0aUdrbVROTThXUVpvZjZB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/sri-lanka-rights-groups-sound-alarm-over-proposed-anti-terror-law/a-79932227?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZF9LamlVejBFWDRtWUlHeGVtZXZsYmJfV0xuTmdrTUd0ZGFDNG81UGRjdldwY1VoZXcwZmMwYV9qbzM5S1FBX0pnc25tYW42OUhubm9MM1FoelRodFZZTk5zVGJRbmdFT3doOHYzOXdNQjJKWTFjcWdXT3R2eWJ4OGJ1Nkg5MlByaWVyRExhUlFLQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVi1hcFE4X2Z0c2otYzlzUnFZLW5xeXVNYlFzOWktWHRXaWk1bkdoaTBveFJkT19tMDZPMWw5QnEwMFM2QTE4am9pRWhfZFMzYWYteC1CNFFESUhXblI1eGhST2NhNHI4TUdyR0RfdF9ZZnVzNE5BbkYxNDA5RGhFNUxONzR4T2RteHFkbW9IbkFuS2JsbV9yWDhNUjJyS0cxVkRsTGo3RE50U000SUZJMWk0UHZTSWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ2xDaXQ1MndnaGxSZHBMeU9SUmNucnlNc0otOGhWWWpnVVBnYS15ak1VOVA5SjRFTWszZ2JFSGJWTEdkYmZtRDgwMjdwbGVuRW5sQUUzZ1U2VUhNdG1nNlZjMHJJNGg3dS1GdFNHWlE4UFdwMl9EZnZfQmdQb2JJWk1hamxka2xJZUtHOGlmeC1aRVdKY01JbTFjRU1YRE9ZNW8wZE1NQWxLR3ZSWFdfOWZwZlHSAboBQVVfeXFMUFZrV01TYlprWmw1d0hDX0ItSnZIQk52eE1FX29WSGY0d3AwaGZIS2kzNTJJVl9GRVh3aFZJS1NNb3JxLUh6Sk1wVXRndzdGeEVlQS1lMXJNUm1FN1I0X01ZNThYaVRoYWdBbE9JWHVJYlVsbG1PLXN4R3Fwd2wtRDhyQnRscThRTHEtUlVneHVTeEhySi1nYm5MbzZlcXZxcUR2M0VkQ3A1NUJFa1JMVHBJTmNYY0l4c0l3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/austria-targets-russian-espionage-with-new-legislation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnNnb3U4MjM5aTN0dFZrN0IyTmlQakxJMnJRanNhMzNNU1BRRTFTTExzYm1QSWU2WTJQYnZuek5UaVVCRUhCSkY4QkRpcjZfZ3ljR1JQTGJfRnVxSWJWQjRQY0pYX3F2aUJCVmE2eGtKeFJPeldMNy1RclBrckdrRDlTTXczMU1zaW1WM0FkRzVJeldxcEJQLXNINGZEeVN5UTZkdDJ1WHlNQ3FoSTBBQ3AxYVBJa01IWGg3eUsxSDE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSzdpMlpaQkJRa0RDeTNPeXFNcWlOQktMLXFnYVpoWElOT1ItUGpNdmI2TEdnRFBpTUVieFp0Q0R0SjhqWjFaSm5rczUyNmE4UUJjY1FMU3RjQU5MZ21qQzBvR0R3aGY3aE96N3F4SkZPdVBNUm5aSDlnNUMxODNKNDF5TjJBRnV6V1NtWWtvb0JXaXY0YjhBZEw3TGptalZ6TGpRZ25xTEFKYnQydy1rdF9TOGV0RDJxT1ZlUUpETzZEcVBNeWI5Z2VqTlRuMlhpS1RTVEhIdEVwSl9jWW9GaWlMdWlWbkRGZFE4XzJFa3FvNWR6RE9LLWVDdUs5WmxOMGg4WHowZ1JNR1k1Y1hfc2RFSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRTE1ckVqWFhMczhOY2VlOHllYVlRT0ExVE9KV2hvVXZCWlpqUUgyUW9RLW5wLWhIN3d6TEduYnBLLVJpZnV5cmZlS0FObERpeU42dGVfY1BiLU92RmhmQzhDM3hETjJDNXJSSjUwYTVaNFN6aUx1UWVvaC0zMXB1UlFxaUtwb3ZsUVBNRmRORDVjbzczQjZ4eVdYclZlWGhkbFpCdHVYS183SmlfaXJ4Z19rUEtWQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/hungary-eases-abortion-rules/a-79931614?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOVhGUWt1VllvYVJnUzJLQTd6SzRRU2ZtOVpTdmVaSlV2VUxBdVFkUGNVcWJCbGo2VGJtT2paSGlLblRsNjlFanBBQWR4MXlUYlJKc2VpT0JZNGZ1UjV0OE9pTFF6U3hMTjB2R3pnRVNsdWlRVDh0VXItQ2VGX0g2aDBtalJ3aWJrXzFrc2dRMA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
