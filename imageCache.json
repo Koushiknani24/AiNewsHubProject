@@ -202462,5 +202462,209 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-features/being-heumann-kevin-j-walsh-1236754923/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-13/colette-kress-will-face-scrutiny-at-nvidia-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/13/faa-ground-stop.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/joel-kinnaman-thriller-the-cell-director-adam-cooper-afm-1236755213/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/13/tanker-collides-with-new-orleans-river-cruise-carrying-129-passengers-rescue-operation-und": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-homeland-security-chief-says-no-indication-planes-grounded-by-threat": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcGgwb2Y5SHlYTjdnMmpWZmh6ay1qdURUbTg0R2lfODhhY2ZXelNoSWV2VHV5ZTljTXprQno1RThsTFVRTHRNVzMxWG9aSlhzd1c4eXJzaDA5WVVHY1dTN1B3YU92MWpHak9LZWhWVnlFN0xDUDVrR29OdEgtWS1fSTIyTHNKVHlQYjk3RVpyMG9CQ0hzWG9vMEtsa2N3TDhKbEtFVnZ3enZTd1NWaE9keUFValAzVWFjWXdIVzllT3lSVW5qZTZpM2pFMUVoTFNNcGpNanozaV81SDNHQkRyX2szTEIyVnh1LVHSAbsBQVVfeXFMT0M3UGhPWTRPTkg4YzM5Z0NDQXRsbUxKMEtWVFhwamtCVWhRcnlpWXp6NHlPTUxQakJKTGhGUFZwSnJMZENIbnRGNWpUQV90RnNUa0ViU1BaRk9oMnRMLWpCZjZjaDJTRWQzWUEwS0FmWWxIb2ZXdWlVVVBrN20tR3RvQk5PTzNrZDBmVEI4a19fdU1iVVQzSFFIdTE3NktZRHc4U1FkZE9xc1ZHa3lka3lvdzdCV0VuVGliOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmFUUjVYVmtzVmFSOWNKaFZaRVdGSUswUmtMX1ZIMHdoWlRZZDRaRFVoN0lHR0ZtSndjeUdYOWRNNTBGVy0zOW9Zeml0eXVyR2U1OFQ5NVpsa05SdmRZZHRIdXlPWEZmOXN4bklBSkEzdVJFTGJEa25sQlBNd084VDJ0ZDlWSzZYeU41aTRJU0pWeExoTHlYS2hUQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxObm9wZ2tvbHNMRnJhWUxEcEtrRkNiY2VYeUk5T2JRZDJpUFZCUmZSVWhjNGJZSnRfUzhKUXU0SURHaVlqLVlOdC1heS1pLUlXcXJxWTFFWTBpUGhzRXQ0NkFtVjhQYi1LWUctUkZWN3l3eE1CUko0eEZINENTdzhBM2k5NTVnSHBnU2dKRFh6dVRwQ0tBbGxTOUswSXpIeGs?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-13/carrie-underwood-on-her-new-wellness-brand-hinote-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzNEkzbTYtODNiT09keTN2SHZGMkNHYV9BQ05iRU9NUzE1Z05jSklieEVnZzRRUGhjTXl0aUJ5aWxUb3JWYVFDc0loWnlSZEJjUDAwSTRuS0tCMVNFaTBDTnFRWm1XTW_SAWxBVV95cUxOMHlTM0NmVzFRSVVkWFRRWVFpb3hhLVJ6eFAtM1d2Q2tpMlIxdHhIaHh4ZnFVYWw1aENFbDlfMUU4NWZTLU00UU9pS3FwQi1KckJ3R1M2Y1U2b2t2V05yRjljYl9heHVibDQwTnY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/salah-breaks-egypt-scoring-record-tunisia-lose-libya-6550811": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFpNUWJMU2ppemowM1BHcmRhZTc0YkhQTjl5ZVdTX0VIVlhwOGJESXdjcUhiM1lkbWZHUTJManlCYWRWc3FGWVpIUUNSSWhNeGM1TDN6UnJKSUZUUnlpS2Rac3J0M1RNcTg0WmRGYXlfRjlLTmtwd1FXcmpCU1hBX0sxUW4xbTczY1BOcUt6RkhyMzN5Y2x2TTg3MkJlTzBFLWxmdlNQbnlHVkRPeHg0TEI3VWg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOblFENF9fYW4zU0tVWVZabUIxUXhLNTVzVEFGYml3d1k5QVdreDE1SndOazB6THRKamlfdi03MmRKVFZsc09ZU1cyU3IybkRhM1J1aEo1TTBBQVc0RTBwYmFVYUozMnNTY0tQcHZNWHJYWHdHd1UzMUdPaVFoVGlmalYwdmM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/travel/mexico-tourist-arrivals-spending-record-september/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3lkaG5nVmptZWk1RmtQdHpkVzRfdkxTMldZSExkSWNtUzRERTBuMzY3SlJ0SmVUVUV2dVJrTklrNmtqVTV0ZFFQekZVaGRHSDQwRnp6UTAwRnZUUzRJelc3RnV4MTJlSzViX2lhMDIzLXdTZEhySTdMaGx0WkJsQjB4UzlOOHN1YXJNLU5zQmNiMHQxazVTaVY1MFdEYlNr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GajB0U2ZnbUFUUDFTS1pOdTljWThUMGZCM0tHMTJuV3ZWUm94LXRQcTBxUlc4OWNGb2ZlUHNLdTNFR0xUeWxQYzUtbnotS1ktRlpCdVJxWnE3Vkk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLUUwNW41dlI0RkZFWHlqVGtVWi1JVU1mVnM2djJUYVRnaEdKS3MtajhyMVJxTDVwTUNHWGJ3X2pjdjd5LXRrRXhhNDhkVVJUUXZFWVB1UVlwRkwtN1RRZGVFZXZrYjU4YjZYd2ZmbjB5eU5EcG9zUDQ3aDQ0OGkzdWFETTk4WGVqOTNyLTRGREJqUmNCaEZseFZsVmg5MDNqZnd5aQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTk3bl91R2NoOXBjR2g0UkVGal9VdmV4UlRLdjZsSDl5SFE5WVpfbW95LXpmeDVmbjJIcXpBSWVOczBXdmJteklYN1VFdjdsNXJ6MzNTMzEyYU5CSHJCSkpncmlxbnVmbW1waE43MlRWWTVGZGR5cC1tYm1iVndZSnR5VnJpY0tfWXNYQThEemRMYzF2SHc2ekt3Tm9wTzJ0WVY5MG9jdS1ManlGZ09kUm5ZMUE4Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlZZVFh4NnptWVcyVmJkaW9Ma2JFMmFRMC13M0pTXzBtbEZpZUFFOTliQmRCQ1BaVmZROER5WjdxaWJWbUFWaVo5blN4VUQ2Y1JhaDhNdzNaTTVzNTlzM3hBUTU3b0hXZ2hLVndENWFFMnZSbXozMEJrX3V1NWhTeWliQ0JybTVreS1hLVhLNERiMTNXSlhVQWk3Z2hOeHJCUktN0gGoAUFVX3lxTE9mTHQ0SHExSGRlaVhzakVEdG92QmowNjgtYVFFRjV2YlFPTk5td0w1NDdfVXJSNmJyVEFzOEdTUHlHTWRxWTlUbzlsSFVZYm5VOWZ5SmVsNWhsU2dCcU9FSDVGRzRiTVIwdDBLZ0xrU2JXSmt4WVJSa2s2VHQ5VnNySFcxNWw1eWgyd1oyVWxjdDBjS0EwV09KNHllOHFFYXBaaHpUVXpldQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/mexico-delivered-less-than-1-percnet-water-owes-us-border-dams-run-low/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd1dCVWdvODN3WUk3Qmo0OGs5V2k5bHR3Q244alZ6WFFlLWg1YmNPTk5Yb1hiYVlHbXJEdmxZZk9zaG9XRFFhbGZzQmU5aHFoXzdOdEVKUWV5bGxVZktHVFlHaldtaHRoeVRGTDlRZmtWeGlKR3pMb2JfS1IzVmRpMk5sTW80bUZURUEwTDVTLTRDbTlhamJYNGx3cHEtX0JwS0NJdnR3aGhaejFKYkVicjBldnJxbnRPOEczRjA0b3VILTRZeXZZa0I5cDJRaENTN3hkZUw3UFl5bjJEVFZ4MHAyTlQwa2dZbnZicXNuS0xYOFk2eFhUckZn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGgwRkpMQmZSMWM0VVBJRlY4VDZKZ3g4RGVPVnhYWEExZlFKa1pPb2JrZ1pRcjBubXlEbWphNFh5bms5NERkeHItMGthU0tIZkFpUll3SzNRN3BCSGRqcFpLTUI4RFVyU2xoYTlKX1pDcTBZaElLcDZEOVB6S0MxVEtUVjBJb05ab3R5bV9qU1I?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTGU5WnBJTk9sNVlzSmt1UTgzdnFaYV9zbkVBMEctS2hQa0F5SE1ZX21UVkVOYVgzNGhBMy1CdW5FM0dBUXFwanB4eUM4c2Fxa3pwejhOTmw3VTdMYTdxTEFJaWZ0MC04Q3F0TFZfYjlSRHBURmwyT29CUGUxYlhLWkt5djEydVpPcW5sM2ptdnlUQjlCcFowRWFhSFlrN3BLNmR3Z2JRUDh2RGxSNEtpY2E4Wmxtc3ktVkxPR0h5RXhPbXFpcGxQN3REaGZXYVh0VXVhMWd4VEo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLS1URy1maWZJX3FwSHVBWWdqdGwzbUIyU2dObTAtWVdLYmFXcXI5M1BRMmJHRkJfZUlJMHR1YjRxZThpckN1WTJ1MVh5Z0ozTzNPM2lyY25Md25yS1I5UVJYSlNRVGdoTjBDVHBHYk1xejhyMzRSU2dlQWhHMThyUzlpOHFBd0ZCaUl3cHdsaWVMMWdUV3BkUGtXVDEtYlpkSzU3eG82OG94eDdFOUp3T1RxYVJpbEd4ZE1VMWtMYjByaGN0MVh1aHlJQW5RVmJhM3hvdV9tQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZFE3VmYwLWh3cjZCNXFHRWY4cmZMRXUzX3E5YmJfM016TnVHVklKM0I5Zm55UF8xVjQzTF9mUW82bndkSmVCTzVKOEVMQ2xZQ3pUOHc1ZkMyeUtNVHhPM0VnZTRtdTlFd0Z1TU5sYmdPNThDOFV3ZWdTUS1ncUxzNmNqN2pWaC1wSjU2Szd4YXl0Qkk3UzhaZ2MtMlIzbWV3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYjdpMnhxTHRRNlN0Tm9fdWdobmZCTkI3TEZhb0dXeU14emg4YWRveVpUVzB3bEEtdkZ5OENWM2pRNWl2eG16TnNObW5PeTRHMTB1SEhqdkp3TjVWeDk2T0JHYTMzV1YzSHczZ3ZOZVg0REtnMkZ0VzhIWHd5SGZXOHhySHl0dHRQUWxNelVNOHB1M2d4bE1lcmY2MTFQWllQVk5Cck9lYUvSAa4BQVVfeXFMT0FRQWNKejhtemV2WlZkLTJiNlhHVmlrTWJtOUd0dWVHUWhUU1ZaM2hSTnppZmdiaDhzdXRKdVlCeW9nOUYzUEFLSUtxYThGSmhhT1hMSFdPajVNNEVSaDFiQk9ydTNLbjNnWlpCT2ZEUUN2YlNtTFA4LWFOR0lYVjJQemxfMXNEMnFESkMzUGI3Q21zdktISFNSQnJCeTlOQ1dBSEhYRWtOQXhJSlpn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaHh1WGg4VDJtY0ZDRnVVcE10dTgwRkFZcU1ueGlQLW5jQlBOdGtic0tXMkVtcWZHdzNVM1NVWWtvWkh4dXFoeG5RdjJiV1BJRTItY29DRDB1S2FrMXBFTUNuYzY4VUdBR3JINHJXUWdGMzlfd0dfcEFBZ2FBZ3U3M2cyV1dtYmIyMVFFRGJFNWVOV2JPSEdn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-deal-on-ukraine-talks-overshadows-ai-focused-summit-in-dublin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/chhattisgarh/two-year-old-dies-after-firecracker-explodes-inside-his-mouth/article71699299.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
