@@ -203656,5 +203656,215 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/boy-electrocuted-by-snapped-stay-wire-in-malappuram-minister-orders-probe/article71705615.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/klopp-says-fifa-worse-under-infantino-blatter-6553361": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aMEg3c1dEOWVoVHgxaWVmbHJKNXAwUGdFOW9TX0pCU2Y1UXRjWkRHRXJEblVYWFRvVUZQbXVZaHdIMUdQSnMwanBZRndFTTZGMDlsRzRGcFdOSFdQZHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTFBcWR1YzJhai1UdGgzMHpvdm40VExxeXFqM0NtbU9YVmNSNXpNeDlXTGllRXFtczhIUzVsaFFWdVV5TGxESWdneGlXbER1Qlg2b2VhQ2lqMmxVaEd4U01nZmNXcFY2bmNhSTdIN0VycE84MWJDRXdZOGxMRGo0U1k1UjhiamFNQ1JIQmp1MUdxNlZGRm1UanBvaENxR3V2N25NdFVOaWpXX1E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcmZvSy0xdnBvbFdJUEptR3k4SmM3bkREMUduakRQTVZtc0kxbzBqWWRzQ3RUTzg1ZXdjRlIwSzQ3QUtweFE4RDR1Q3R2d0pZVDJsNnJlNDVPZ0lOVUVtNTNOaFplQ0dfcHhyVjh4QzZ0TXg1bVRENloxQ2hKdXI2Q2dES0hHQjBzNThhQjJLSGE3endGSklZVTZ2MEtiMzktS0xudVdRTVdtRHowTldERnphaGZRRlY2Um5UU2JsYVhyRkozaGdyZW9zS3VEXzVBaHppUUpFLXNJVFgzblE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX29uUGdReVVLNktHdDlVMGdRRXJlSkdQTlZ2Mm9TZV9ZbjFORUJJcW1YaXdVNkptaTdicER4eklkSjI0UHVFaXVXeHJOaVlrVE1zUTRSVGt6WEpsb2V2Ql9aNDBvMlpGSHRneV95X0R5X25fLVVyVkdUNEtUNzhPYUxXWlJxbmpCVVYxWVBiNA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOXBwbWd2b0g0V3hIb3RLVTU4Tkd6M2xtSUNDUU5Pd1B5OW9rcGVMcXdiMnJKclpldzBIS0FsZlplY2tSelFyZldnQlhrd3FtOEZsWDRSYkJjdjNEWWFPVEdET0pPNHFjSEZUaFYyZTJCaUhGcC1PYkc3M1VIZDJGdG9WWHNsZFd1X0V1V1hFT1JKR2FmNnR0dXY2eWh5b0FEVTNVWFh2SjVSRmgtQVZPY2RaMXBfVTJhTzA2UG4zV05nd0dUZTFQVUtrNFhuMzlzbU5XOWF3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/el-jalapeno/el-jalapeno-acapulco-cliff-divers/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aY1Z6am5XY1Rpd1RPc1dQek5ncUVReEdZM1NNQ2hTVWtjeUhGal9ZSHIyaFpDRUJCa0dWbk1IdldPal9nRmRScHZDOEkxWHd0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOGRDSi00aEN3aTF5VkFSck9OckdPb0JmMnNramkyNDBNVTZWOG1SVFVYRnJBc1hfTnlycjItclV4RVhKbXJKemlKTGxZaUZzUEJpTGVPTVFBLTd0c2ZPSFpFd3dDUmNqa0gwN3VpZGExaU1MMkdiQWhQWnZ1bFlzXzBzVk96UUJtdy1uSA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSC1QalVTdWhBZVd2alB0Nk52T2hmWjdmTE00bXQ1THZWcTRtT0pPanVwQ2E3cXl0c3lUcXZyNUxGWE1HcDc1am1zYTJMY1ZRNTVlbjE2dWVoakhGd25GM2IyQ0FBMVE0VjNKZDNPUUlkNDhwNnpqSnFRUVEyLXJTOUVpdGQtQ1dJWnJzTW5wbFF1NkpGVUJGajRscHB3Q1VvNmYyNURRTUJmVXZ3T0FZR3FqOXVBclpYeVFucElIVEhPNU5oQWJwQ1ZYekUyeUFxLUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOGs3OHZDODVJUUN3ekRTWjBESlJzSVhRNmVzaUZWT3pnY0tsU1dZZ1dORjdTblRDNUJnRE8yX1N2dW5iLTM1cVF2ZTY1b2tqNHZpQzZjblhSRFA2VWJEQWJ3OUVLbThUX3ZOeE81T3NoZEo5cVhtUDZGRGFjeUlVeTR3QkpZRzdjbl9MalpibHFTN1V5NVRLb3JWSDdxRkRpVHJ2UjkwS2l5cjE0MmZaV1h0Q0pyX3NseVE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVU9GQmRELUxxMlhLc1E1VWZ3Z1NFUklFWmlmTTQyb05XYXZzMHA5RzBIdEZiQm9rSnRpWjB1TXdJRFhaRy00NEdWTjlJX1NmSExsR1JOa0RLSElYMmhhbmxJNmp4andPMkc1Yy14ajNOMWc5cHdGUzdWaUEzM0Fzcl9n?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0EySlV6RS15bU1oSFBQY3FVX3BWR1gzcnNlcHR5aW1oSUVEN3Z0c0twekFTRGsxLUZ2b2wzYkVrUUctLVhhaHAyMndQTUo3aUVfZ0ZnVVRUR3V2Q3NCWFFTc1Q5bkpTeVRxclBnLW91SnZqVDhJNkJTaFRPOFVnWWQ0d0FJWFhCbmVKcHhBTWdyVXhjbFdtV1pGSDZfYmE1THhFcnVRTWN5cEhkTWc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mNjhWeGFxaThQUGZ1TmxxN2RRZzhNVUZlMGpfc3JvQzFtQzFVWFlNTHBaUUs2aWt1d3JtTUNqQnJ1Ni1xeG54NUswZ3NmMTRXOWtZN1BaT1JrcTFnSU9wZGwtQjBwZUE3SEJ1WmVobnd0bWVlZnVxbk14T1ZrZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZxYzB6N3djaUJMOWI1QW1oaTFhLVc1bDZXNVlEMERPNlR5Z2FSMl9rdnJJSkNnVVhQclUteWJYWE1rM1F4amRadVRJQk1YZHNHU2UxcmtFYTRqNWk4eXhLTjhNWlBPbE1uNU1zMzFWMWJaZGpDUFgzSml5V29ZeVgwQUFuNzZMaXpWQVV2YUxaQ0wwckNfLWR4a3pYV3ROSjVHcVhCTnlEQlItWFBuctIBtgFBVV95cUxOV2YtTEY4U180dER0UjRwQUFDdUhDWVRLTnpMVzhJVkdJUTlhbXc0UEVvaHN1cnV3bWJud2FDZldDZ2h2WEtlVG9uWWlfZEI2OF82M05oMlRzUUxRaUg5cGgxM19acGEyeVpkMnNrcDZxaS1NTFQzdXNoZUJyVk9iUnFfTHQyeHZ6Nmc5cWtPcGM0LWpqVDcwUG9RNEExV0h5cEJwNXNVMzVZQ0hkM245SUdjM0F2QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQk9TbWFOSUhRWmc4RGNCdnlvaFM1NTl6aDA1dDdrdlNyZk05aFJjVzl2TWE3QWtuTExndFlzb0wzRGFMWkF3R2xQZ0Jkb1lnWTAxQmtKaHB1TU5QNTBHQWYyM0h5bEZ2TjVsbUZIZFN4V0NPYnlLUWJXRWIxV2hMeXNSemIxQ2hnaWNDcGF3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTWNvY1pLTnRNM2xQVElJZ3I2SU5NSEpVODNHR2FJQUZmcEFHaWJFTFg2TGNXcGF4N0g5MC1oSGljSE9mV1c5UlVqa3ZiMXJzeUZrbzNyZ29IV2MxbFY0YWtVT1VEVUpLSjJPdnBPXzRRRnBYYXZOR0VScnotUjA1U21INW5qYWtKMWk3eVZ5UVIxX2NOcXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNno2Vkt2Z2VUejR0Z1VLdjBodTNOeXFQSjN4Skl0Ym1MNE5IRVZ5dUxESkR3V3pHa0xKd2RWbUF5cFhfNmxGRnZrQllZMW52TFpYOU5HSGswczFYbnlqMTdhSWRzbVVDZG1rdGdR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTlTdUVjb0tNaU4xa0drZGJYN0paS2VTTjl6SlBaWmtvSm5YMXh5VUJKeDFnX3NJdW5jRnluV3BIS1l6SzhpYVFRT0VrV0tZbjZTQUt5LVRCX1NnZXJtUU0yZXBWRHdna2hPUFRaeWMtNDR1WnlBNl9HcjZCWE9rVHRpZUdqS19KUlV6R3hNT0gydXNIb0N3Slk5UHBZeHJ5U3lqWjFjaGk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYXVua1pSNE9KY1d2WGVYczM1bE1PVWVsZENGV0J2ZzBCUlpoY2c0RnFoOTRtclE1cjlaYk9VZVgyMVR2M2RPVXpJajg5c2JscHR1RXpNT3hJRkVKTEdZOVJlZ3BzbnRLSl9jRFV1R2N4Q2luNzljbG9EV0loMDdEQjd3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/swedish-opposition-leader-andersson-wins-crucial-backing-to-form-government": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-der-lange-weg-zum-frieden-in-der-ukraine-mit-claudia-major/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgJBVV95cUxQeWNxQVZ5dlZDODBWTHhSUGxBWms5ajQ1WV9YbUp2NzZ0VlVOZHFUc1ZYejMxRjJBejRuaDJnZXA0U1hjWEEzbXI1eDZXZm9qM3Fmd3p5MDdjd3RoUEtlOF9ZWnRwQkdXSFdUbWgxQS01blhrZGQ5UklBQjItQ2I4MlpBUDF0d1B1UkdUc2c5c21MOGFMeTRhcWU5MmREZGJ5UFRwYUVyUDBBN2VFM1k0NTZza0JCbnY2UG1rUWxFOU5zSFoyS3hLUjV4UUs1ODZST196ZWc0TUJIZWtRNWR4amNmY1BSd3dVU0Q4aWllanFaM0RuZ0R2cHZmSXdiblhvOUgtTm84Zl9hckxQS0dBZHV3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejNzdUJDSzlCaHYxRGxpVHdRa004aFJkWFluMkFncGdScEI4WjVNSnVpSDE2WmhOZnVQbzdkY2ViQUhIYUhMQXJmeFppREU4NkUwYV9WZ2tMZThGUmxlWnRWQmdLREtuam11RmRpQ2VTemlvdHZMRXQ1YlpnUGZoRUtEVGpkaFVwcXRTM2MtTnZiVVNUNmpzU1lnMElZNjg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XVUlZNlR3TEVyVmdiVldhZmVzY2xpQ3Yya1hEQkFlbE5VUU5lWGdLZTZMbEpCY0FEQ0l1VXF4dkE5eUM5Tzl2V3BPOVByWllIa3lXZGpudVVFbUQ2Ym80WlRkMFZUX0JfS1lpbGVn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWpuZm1DT3NGdTZDS1pkUkZBU3BOTk5PbG85LWROZUV3QUVFYWVGOTRUdkNGZE1rRkdjQVZ3U0ZqLUNlc2NXT0ZJczJmM2xkSnR3VG5nMFF2cWJTV3pGWGhLeXlKellBSHVnTks5TTlYTV81WGV2aEhMNlJNVzc2d0U5ZnQtVDBWUFdEQk45aFczemZfUmVKajJ2RmY0MDFEdEMxNFRNUFVocExrdnNj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0eFdxa1FrRGZNR1llMW9ORGhxV2NERUlteGVKZHdWcGdsZzBGZ2FKWGVQVEE2NFRmNUtzMHpTMFd6cWNMSGZuRmo4WGlOUXRaQ0dHWTR3R2pBUng3M3dscktDTXFzUkwzUHFPcHpR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-living-guide/mobility-issues-mexico-physical-challenges/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbWZzejNjVW82WExIRjlfdVhMOWZ6LU5DcTNvZHVjNjN6OGgzYTc2cGFlRFFDVFRuRUNtV05FcnBhU3R4ZW9FRU41VXJKSlVSZUhQSnF4QjB5VGNVdk85MUFPUmxTLUpRQnFibnE4RjRWZXlnVHBsbkluRmZUSE1kYkhvRHZnSnNwZmllajNHU2k2cGFOekFrS2lpQXBBXzNfbTRNUHFBUVRBWmtScGNMZHYwM25GdlNiN3RVd0kybklsY1NpYTVmNGs3QlRxWXA5SXhPNlk0Yk95eDUwZjdjeGh5VXRsRGh4dzYyTmlKVU01ZDM4REZFM1ZzS0JPSy14TmhnbGdrMzV2dDdMczBKQlJn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
