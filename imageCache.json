@@ -204004,5 +204004,131 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202611160182.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/16/australian-mp-helen-haines-leaves-hospital-after-losing-both-legs-in-alleged-car-attack": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-16/investing-in-the-new-age-of-defense-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/11/16/nuremberg-streets-in-germany-fill-with-sheep-heading-for-winter-quarters": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVdtV09TU29iUXZOOUpMWFJiNW1pdm1maXE1LWVuS1BTZ0tUUHlYczNCWlBLU1haajRjUGFET3hKcUtBN3JSMXNreVNrbUVxa0FHRzd0YTJFVjNrd3hnSFE3Q19yT3RQQ21vVDVkeFNVV2ptZktCaGVZT0RNUG82Nm9DOXhkbGxwdkFCeDJsTS1xOFR5aEh4SkxISWxuY29lcURIeU55dDnSAagBQVVfeXFMT0pTR0dCN1BmUTVXMHNoYXhwdHRONld4X3NKbnAxbHpoVVpWTUpBSWV1MTByRlExNXQ2VXRPREdEVEJHRTZ6ZUdYWTVGY01SQmxSZFRGb2h4TGtMQjNrTWcxVXNWYXdma1FvNXhtYmxoZmhVR2JBd2xRek5lN1oxTGNHZHBNaG5IQV9qcG00NTVQdWhPaGtqUEIyem1sQW9jQ2R0cGVqYW80?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPckdqLUsxUWZSUlQ2ZEMtc1ZsWFVENGx4aVAwcXF0bmlPaEowc2pjbjRFZjRGLUZCYUg5VVlHMi1Va0x1SHhrdmVkdmRQU1phb1VlclNjTm5TclRZYW1xb044S21kc0FTVndKSWNDV204YWF5Ml9reFlZb1NydklFY1A5RlpVSTMySmpOUlAxLUlNQk9yT0ExWmVtd3FuTE5XZ01WYUVVNlRYTDdsamRnLVJGVDM3MjBpN2JkY1RnQkRQSXZFNmo1ell0N3VqNUxnRG1zSHRoVnJGWUxjTWs5aE1CWGJfVmY3YWFDTmxOQmpvT08w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-16/global-investors-return-to-indian-stocks-after-ai-trade-woes": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGFQdFZpWVEyYnUxaEIwYl84ZjJXVklSVWc3SFFPS1U3NEsxaGdQSTRHQTdKX0pidVJROFB0Rm1EWDNWOEh6OWtyNE9QZHZzTzJCUjFSNWs4cEdXdmE4WDhZajZEUVdidHhNcmhwdEtwYkViWmIyTVBYeDBuVTJLdGk3a3R6RHNZZFlfVDFXSWhISlFWVDF0OEdQR0xlSkxJWVVzVG1nUWY0Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0FXcDNSQ2NCdnc3ZkJrdkZBendISDBkWlQzNHpMQjYtcXlaaXBsZGhpVk9sMVhzcGpuYndBWmdUS3M5dmxuQVBPdUVrV3dHQzM3eEFqTEhaN0FJbm5IZHRDVDZrNmNwV0dDR3VUUkZLOVRWd0sxLTZoVmlreWJNOU5iVjBJbWpqbC1mUVR0VQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEp5a1pKQTFrRm54SDZHSVpMNFg1NGdULXRYNkVsV256Q3d2Um9EMW8wWVd1ZUY5UjBidzI5NXFveFJWd0xiOFNMNEJnejgyM1dqVDBEZlBLWnF5bGp3a2U1Z0dhUUkzcWJ6VWtkU3dvQzd2aHBCZFc1WnVPZmhFN1dIcmg2clZzUTY3UVJET0xNd0pLWExTUU9sZy1QT1M3ZlNqNFNwbVJENVNXV1RFTlBabw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3355565/eleven-die-in-choking-smoke-from-phuket-fire": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFBvYW55ZXlENUltOVpkS2RJcklMMHFvMXpicHJ6YnZJV2xFcjJOazNGMVNQNjZZNVZxa3JTYmRLbkQyZzJMUTgwY0sxZnRHNVRwQVNBYlZnTVZiZHc5bHI2SnJzUy1FaHVjd2lSekFWWHlkVkQzTk51QlVEQzg1aW5zR1AyekhMejdWMXZyc1JzNkVHV1BUWUY2RmlTRUx0em5jUWNQTXFfWGtl?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-16/milei-lula-spain-election-pedro-sanchez-andre-janones-socialists": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQW1mMXc4MzV3dEpEQzFULVZxUTM1VEhuVFhnQ2tYYkV0OWhtcFVUUWY4di1MMVFnMzdDQ2s1SjZ4OGZqU2JVejVDWGJvZ29WMk9ybW1ESlVWVE5sVHNFS0IwVDg2emVzRlhPcEtwWXNTMzFQczFBT2J6TmY5YjliSWVXc01XTDljWGd6bXktUWY2VHJIeG1EaTlNYkh0YXBGMXJNb20zTVJLZE80ZUJyZW5pYXByZ0dWeGpsZk4wRQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/11/16/latest-news-bulletin-november-16th-2026-morning": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xdVU2WV9qamxZYVZQU3NwNFZMUTRyanlXclNQVEtBQTd4MFJDN29YXzYzTWlndUlnVFZNcktMN0NCWi1oOFFybnVsa3NZXzRfaFN2djl3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNzh6c3o5bEFNTllEY21FaVJJTkk3SzBhWWtBV1hjQkxETmNSTXdQemp5TXBqbTUxTHVlVzNKbzEzYjFidWtMNld5OFFFY1ZIYmkwd2ZuUEdBZ2Fabmc1YjR5ZUJUbzdfLVFRT1pPNlRBdGgxSHNxQWlBbmlWSXhWOS1HRHBjdUU3YkRhTmltSEhpa3FsNTFDUUF0Mm9PTmFDU2wtZXpReDkwWG81XzJqZFMycE53MVdFZlY4SE1pZ9IBxAFBVV95cUxOOG9VVnFZTngzajNEOWVjZk9SbV8td3JQOUk2MnpQYVBrd1Z0VEFGd29xTVdFRlhRR3daUi11LVQxNDlVaE91cUYtMVZxelVrejhnVlVmQU14RDZTZEtndTNjdGJfeU5DZ1Fwc0wxM2RzME5lQnJKNm1veEZLRVk4V2ptY1hqQk93Qmh3YmFqOGJ4dVJlVjI2ck8zNXNpem1BYnRKa2FTTWVnMEtyT29wa2h3QnFwMDJaNkNiWVNGYmJWUmFJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRjJwYTNmZFRRVmk3RXlNMHB0VFFEZ0ZzeFd3S3JkcjNEenEyeG5XbHlleXk1NFp5RW9XUm10N0E5OXRETzJKNkxKdkY4LWtVZm1LQXFUMDd1RWNxNUcxSy1mMzlpdVB3V0g5SHBzX0U2bHBjcmhaRUhsdjdJZHMxcGltU0VCeTVrTUczMVVUX1pCZkxZOE5sVGo2bHlEcG9YVF8wck5TLVBFQ0FwczhrWFRHRWZhQXNLX3BhTnhQc0pBaGl1bFl6UXpwbFdSdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNTV0MDFzd3J1Qk43TXA1N1NwVUt2R1dvWnZodzFIYmkwZnh6WXpOSVpIRGJsMnN2Tll0SC10RGg4RTBrRWpUODZTb2J4MzYweEI4MmItLTJWU3hKemlzYWtIcE9OUHZSX1ZuWG5rVkJyU2hFc2l6RlRQUlR4dWQ4QQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
