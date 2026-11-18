@@ -204928,5 +204928,215 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-17/willy-shih-on-risks-with-nvidia-s-supply-chain-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-17/china-is-finding-workarounds-on-restrictions-sara-hsu-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzNpMHl4YWlFZVFsYW1qNFZmcEVyV2p5QnNiRzczWlhBa1QxZ2lYV1p2c1gwRUp2VzNaNjl6WkU3Y2tENnJ3N0hRMlhkRHd0cGNGc21vU3hiRlVyZFNBV2JzYUU1UV9lUVJkWWhfVEZRVmJrQWRMY3h5NHhqZDJRYW1aa3otdEhXT25XOHg3M2cwRmt5SzdCNXRrcXVreGJHZF8tRVQ3Ul96dE5GY1k5Mw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/hundreds-rally-outside-oxford-event-with-academic-accused-of-racism": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWmhqemRDdEhVUGZpcjJIWnZ5WDZTREtCNnY4Y2oxcllKQU5yMWF6VUVZX256d1c2OTZrNTlRYm10WUFobHFYUEJfY0JITjFTeV9aUmtRdzRiM1VDck84N3VTV254OURjTmdfY2hveEJENkJrMk52dlhYR1l2bFJxZ3Fob1pkLVRoOTkwdFI0OWlINWVJb0czZ3I3UXNzUUlsWk9XQmZ0akRnd05jWkRYd1JNNTdaRXA3RklRelRjUlQ3XzRnWkRBNGNQQXpoTVI5Q2pyR0RWaEpnako2VmRSOW9pelBtT2lBd0JUWDZick9SNWVKSTZTYThTa0REbkV4REVtQmxJM2NCQlQ3MlE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQU1kOEthRTZHdmhxZVh1cjhJSEZsRzNyM3hWWUNsaUJUQUdCZnhGcnVDR2d1dmp6U3FmRlpaTVI5cVBHWlo0dHV3aG13TEJtOFkyWkdGTi1VRFVuZUVucklidktZU1NwLXBtTnd0aWZWSVVyanJ5b01hbTFUZ1h2Vm82RjhlYkRXd3U4Ng?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-aviation-authority-pauses-installation-of-gear-tied-to-messy-flight-halt": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/culture/new-museum-yucatan-controversial-figure-friar-diego-de-landa/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEkxd3ljSFlKaFhJVmFUSDlETE1tOWIzdDIyaExnOTdkakFWMlloZW95cG8zckFxTXJ6WGV5cWU2d0JsWC1iS2tFZmZaTGFBaE1GVGJ5MktkdWZiZXR1SDdxcUFRaVl4c1hqRkxTOUlJU0xnZUFHVTlJN3FvV1ZGNzJfZmNWTmR3YTJxclVhLWMtLU9INk5JRkw5eVpuUHBLdGZUNjRpMUtUU1lydF9oQ0J0X2QtbzJQU2c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdXRkRVpXX21leVdMbjNHLUxnSllvbVVSQUs3UksxQ0dYenlCXzNkN0Q0bzl5M283NjJoRVlHdzRySWM1Zld5QjQxZ1JpMWs0T0NHeE42YVpZUzlVc3BvS0dLcXdJV05KOC1TNENOcDFFblV0Ym0teW5HdFlqQWRZaVBKazdHVzBvekpnaUZjVWdEYk1fb3kzbDQxME1CcGdraldQU2hsSTVuTVJGOHdWZlY4Y2FjMkV0R0xQeF8zZTE4TXdSZVFzUUxVbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjhXWHZlSEZHV240UTIwelVFSmZybTdBbUZtQVF2X09oWGhaTmFMVzVxNlpGQlBsWmRNVUI5S09Ib0NQZW5OWkUyeHBGZXRLQ3pxODlNLXhtcHRhNm1IQXF0R3BrVmdmdk5reWVKTXVtcGVoemFteEQtcF9GMFdDY1pyQ1FCMVFFcnhTbDlJeDZrb2tZUlFJY3EzY3llV3FTSXY1SGdacXJ5MHhZWGp3X2o3bHBmbkMwYjBYYllUS1MyZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTXhhTFhpcWM0eDVNY1l2NmU1MFBhcldfVzJCSnJkUHVhTGNmVDJFNC1qU29UZUYyVUM2eEF4a2dhbkVYX3N1dG9CMFRnVFM4eHlqRVJRUlo1T3IzV0UxbWdhb1c1d18tTF9mbnlrWU81LUhHWWtpVkstSnJTVnByd3NyWFRIOUJMVms2U0pIMHVZNXc1QTNUdUc5MHpWOWZP?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQW5WZXUxUzBZRVpqODZrNENhSkhCWXpwSHUwX2N5VHZ4TVV6Qkw5Q0FIT1BWWXV4Tkd5Q1puT2hpaWM1UmN3akZHdTVzQ2VJWThFc1dwSkprNjFLVGFlZkRFNEZiMGFGeUtYNnQ3Y0x5bDJlcmNpZnFheTVGRkxGZEtSMFo0TlZjcGJYM09oMmdJOFI1ODJnWTF3STk3eTdJWFRKUnFWNUFWcFRLR0VNWWhCV1VMdkN5NkRTOHByVFdIV3FsWHhwNXNQWTFKbWRQNEo2YV9fTnlSMnRkWGc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPakdjZFZDTFB4SDNJa3BzQkRJcDN5UzZKZG1qYzdBLVhFdVhlclhaaVZqRnc0WWZmbU9NM1FIZi1mZXIxaGRCVE40VW1fY0t2Mi1xTDdxV1QxQ08xNGV5WnctR2I1dnkwOHA5aFpYOERyUDB4LXd4bHlGb0E5WFBpZU5rb3R6ZGV1Zy1N?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkEtQWRhZDU3RWFzcWMybUlzMUVvX1BOOHZwTFFscXhrdTZHb1Q0amVqMGlSYVAzRnBHSmlpNkhUbWdWS2pVb3hUUmRTc0tzMmdYV0dOUlJvZkpuOHZIR2taTERTTU1tQkRaX3VzbFFyZVhfYno2cEhGZUtveXFPZnI4Wkc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1QyNHVsbG5VeXpYeUpSUnlsYkRSQlVBekk4ZFRCdE10T1BucGdaQzhqS19YNmZyOVBsSUVudW1VTkJ5WlEzQ1pqTGVhRkpmYlYtRTVKaU5aa0FZajN6N3lOZHY1ZEpESnJQYU5QRF9fbmxjRXVaNDhBdUZxN25NLXJSX2tmZzY3ZXNwY2FpT3IwTlpLUWs1dWpxejhsYktvMVZmN0ZYeWp0aWVLajFweTJTQ1g5TC1kQUE5X2tRbmhXbkdSbWJXa3hYaFFDWlBfMV9qemRFbmlfUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/mexico-tech-exports-fourth-apec-nations/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTGswLW45X25uQXNodGZiZnNWeFk1dTdSWm5SRktfUXBTaTY3QlA2dFR3U3hFNnpDX2dwa3VHYllDS3Roa1VyWGFEMk16alc1dHRXR1p0eUVsRk1LMEliNDJyYlJIczVmam1OT25jMjRKbUZ2UE05bGtKLWUtdldySHpvOWMyRUdmenJUaFk0eTYtalRlZll0RkkzdGdzcnMwYkR1eWpKZTdqU3VRYXpLY1BSU2MwM04yMEJmbW9YOWZvZlRleUpqd3BseDhrTE5GVEFNN0FTM0hjUjdDTFBGUUQyOWVfUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUtHYnVlaWdlcExUdkJCSGNHMXgyd3cxQUNmNlQ2eXBMNnFfczVPZ0loYldxc2MycjFpU09OQl9YWkpQQV9SWjYxWHE1X0tRalJFX0c1TEZEZklDXzZSamxNUkJMQjJ1OTd0NjEtNFptT0xmSE9iMWxISV9NdklSOTdwNWY0MUtENUozQVFTSDJQNWZBQmRYMlF5UHTSAaIBQVVfeXFMT1kxeEZOcnFfSVFpd1ZRVzNQOThoUlBHcmxQd1VzUGVsaFZ2NHkxYkdIYmRqNmdVb1NtXzNXS2tObmg1aFNYWGEtS2VkWmt2UkJxQy1tRDBhVHNGMHR6aWFJWkJ2UUFFS09nWi1MNnZMOXFnVkV0aGpzNzdyMTJTcU1KWkl0aHBxOUdERnpzdHFOS1djVWMyYjU3bUNETUFwWjRB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/17/five-viral-moments-from-pope-leo-xivs-south-american-tour": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN3c5X1Z4NG1qaERPa3NnbGRuOFA4dHoyX3UwOUFOWXkwWF9oOV9RbVRNRi15bmU5aEUyYmJkOVAzRjV5YW1hek55Zm9fRjVFcjNxZXpBT1BPUXJNYmlwTmtJT3BDeDI4ZjZvZTJ5Nl8zYlpRRE1vTS1PaEhtQ1BuTk5qUW4yTkF1QXo3bzJMdGh4c2xkOWRiQk5qU3FuSmd6TzB0NjBxQkdhU2tYdWh4dVpJeDFzVHZWcF9rOWl3TzFPNmhIX3dOMXdvMVowTjhhUHRYTm0zc244X3Ftdno4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUh5YlVmNzRxZm9pNkZLZFQ4YWhKbExkLW51U3R1QWFFb3AzUXZieDdROGpiYVRoZEwycHV3eUVTZWptS1ZTTkdLSG9SNzFYdEVPUGwwOWJVTTV3NThPU2NjX3BsZnlmVUtLanZjZEgzdWZiWkp6NThLUENnMEpxOGZPVnQ2Vm1YWDhoX1UzRkx4SUh2cFhObkxsek1ub0UtNjNfaWNpaU8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGhOZUlWQ3JlZl8tUUY2QmVFMW5JY2U3Tk1RVjUtUS16Z3hRY2RCNEpVVlJiVXRUaWMxcG1jZUxiOURhRGItdXZMYVZJdnpOMmhnT0hGUGd4SnprTGJEVjE4WUtJTmI4QWd3dVRJNUp2ZGh6OEdEOUZicDNZUUs4anVrNlRkdHRsSGFVV1NIYWYtRWpJQ2ZxRmpNd0wyS09uSS1rQnlqSDc2ZnptVkpQaE02b054aUU3Wm5GQmZPUWFndHhy?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/17/us-criticises-ukraines-deep-strike-campaign-against-russia": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY3M5Y2hkQm43dVRZWGdyY0QzcFkwdXFRcUNEOHJJOFJIVEZKUXB4RWZxQzFHSS1yamI1SVY1Ykl1VHJrZFhXSUs0VjJ3OS1iZDJJZGE0QlJFeEdBV1ZNbWtpRG9oOFBYclA5ZmJDUUNoUWNVT1laeU9HbnRfYmx3YTVfbmF2czR1VjhqRUFtVUJhOFlWSFJjdjBIMmhEZXV5RUxHbDREazN5dnEtX2E5MVRLSW1vZEQ0dVNpb1YycjRkTTRWUk1oaUFVNFBFdDF0cDI5LUdaTVh3MGcyUTlVZVJwSjVTeFJDbzBIOE80cjM4bjl0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbkRCTGN2WVl6MU1IV1YwZ1JCUXR3X2RiZnBMVFY3ZmpDVU4wRXpYWWRfSm8yMjdXU1MxY3oycDNwcUN1RmE0MmlEQ1JOZkpDVVFsRzFid2Q5aDJCbFJkVEQ5dHh4WFd2Nnh1QVJTdmVpaC03Qm9yNUQxa19SM0JCcDlpWTJDU25FRFRKbTZVR2pocjJpcEJGX19WUEQ2cnROVVRkSzRkemxRUy1KaEhF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/product-recommendations/style/best-bulova-watches-to-gift-2026-1235659607/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQakFyd1NuQjdLX01vNnpEa2kzR200aW9naWxwb0pBZG5ka3dzVTBOZHNVbmVrcWFadW1XY2tGZWpvd1BhSUlSVmVGNWVrVm41Qm1STjNwN3NOZHFyWl9vUWtfZnZIRU1iVkNYTHlWZGRmcjlIdDRmOWstRUktSU5odnhZc2ZZTnMwZDRUelRBQk1MYkRKTDhiS3RjNmxmQjB4SmNJSjNucGZVd0hJOTRHZnhKVEg0ekZkV25saFhlX2g5WHfSAcgBQVVfeXFMUGVWUjh4V0M2RzRPd1EwTTF6cjhZWF9MMks3V1dJczIycW05WGNVNHRmMG1QcEVHc01PdHlla0tlZ3VrR2hPSkdabDZoZ2E5SUtaNXNNSzk5YTQ5VmJ2OTU1eFM4QUZJQVJIVE5WWHBtd1lrWU56dU9LQ0FoTUxCdGx3eXZsM0ZrMmJiYTV3WnJsY1lYODdXR1pYYXA3c3Z4Qjd0MndHcTBrVGpJNUk1T0dQMmJJemtBdlAzcUJ1M1ZxVm1xNGRmYVI?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/pakistani-jailed-for-27-years-for-trump-murder-plot": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNampGNVRJUnE5MVpNTlk0RHFVeHIwZTR3U09FMkNrUDlGNDRKM2psV0VzLXV1X0tERkVoMzNWczh1Z2VVbkd3SlB3UmtFODZMT09DZGpqUE9ORnVIdGRFV3lZUmZQVl9PRmZGX210aThBTzBRc0RnNGVHV29OcUtKQzJXSmVHZXRPMThzOS01MDNfRndpZGt1MlRCdnROSElmTXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2FEVFJxVGEyMU9iM3RJM2NUQ3VYci1tRS16elQwa1JQdndJaWFYZ3pZd3ViektHaDVYU1h5TzFjTWJyWE5DckpGazFvMjRmLWkyTjlvcE5GdHZzZFZabU5nUGloV0QzbWN2X2s1eVoyRDU1RUVOaFRGSXJPN0c2VHg0QVV5TE1zVzV0Z0FBWG1mN1RRcWpYOWJUMEYzejh3V3FZSGpUT1hKUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
