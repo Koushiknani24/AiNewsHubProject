@@ -205138,5 +205138,155 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/operation-vivaldi-ukraine-melds-man-and-machine-to-repel-russians": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/18/haiti-formalises-security-pact-with-el-salvador-as-thousands-march-in-support-of-bukele": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202611180083.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdEdzbEN1M01jZWNEWFJXRnJLbFY5VzdzOG5BX0hKYWFEdEY5d0NaWG1BRGVHTGZfeTA3QVBtSDV1VHRDQ1Q2aDhZU2pybEVVb0lHdktuZl80b1I2LXNGOVN2OS0tcUNYTk5GTVBseEJyWGswVWdiNjlUeWVobkNRR3ZNXzFmSF93OFlpVG5sUHFlQkVHUG4yYXUtdnFuV2h0RFZqdF9QaWpZdDk2QWp0bE1vMThuT3hsb1lZUmtUZW9aenY4aWhUd2hQYmM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdScFFjTlhtU25LQmJvdEp1Vk5qZ3FtTFE3RkdXUzVDZFgtSnY3MkhTeW82UW9QTWVibnVQb2Nyb1RVYWlFTlpyd3JCdjIzVnV1QmVxUEUyTDhzWXdrZUhPN0N6aUxrYWN3NXdWcVNQeUtFVnFPMHRvSURyTFpMY0tvWmxoZ014aS1iWjVsMnRCVHFDeVhjcllvYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3LTc1a05HdFAtMjBEUGZrdkk0V3MtbndaZXVWY2Ita1pBaHdReEh5NHNGV05uLVNoUWtsTDQzUDFySGlsOUpNZmtqOFRmVkw3dGJ3MXBrMGxsWUp2UVd2V3laLWpDUDFWMmpfZ3MzdHZrdWlKcXdTY1VJdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KYlBGOWhaOEhVWGZQbl9MNlplRlRMZzRsbUlkTWRObWd0MDdSYjdieEU2bFR0cFpnTV9fb08zS25ScHpERHNZV2xYYk9YNmNmZEpWYXdaVGNaeEZsUUtyYk8zTURwVUVIS0ZpUXpn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHM1UGUwY0dTVmlZZjR1STJLcFRBdFJvR0w4TmpDTFdzWHJIay1EcHlZZU8zTzgzeHJaUUhhQVlwRkJsS0Fqdjk5SldBRjd2RUR6eC1qV0hWdFNfWGotTUZRRWpuTkN3cjcyb1dtclNyRTFKa2liakRXTXgxVzJTcGwtSjdHX3BfNXM2UW52NGhyMjVGRGJ4VV8tT1R3R2hyMHVWLVZZcURidDIxMkdlcFBPS2I5d1ZOa0JYTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTFuRXBoUjg5ZFYyQ1ZBRi15a3gwMldDTjZsR2FSemdOR0d5VlVQazlXLVM3RElEMW5BRF9jallyMFVYQ2l5U2RaVFZYRWFJSmZQZU9wb3pVRXBRbEhfaXpqTTAxYTdKMGNmNWxPTDAxQnMtNklSdVNWSW1nYWd0el9qR0NCZ0p3Vnl6SUJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVWdIR3pwcmY5VmR3Ny16NGVHTHI5eTdWN0tnOGVLV0FnemItU0dIbTc5dFQxaHhLVlJnV29ENjNQMElaTXM5TU9FVWIxWW1pajhuU1UzSEdWX0ZhblpvdUdlU25kVUNIYU5aaTlhUGJEblpQS3l3SWJaNFVTOXZaTzZqUkJXQlhQdkNxS21ySmlVZ2YwYXpyWFIzeS10U25ZVGVWUUV5b1Q2NFBPMlQxS3FyX0kwS1FDOHdlYW5YMHBGX2ZzQzJnZng5UzdrMW1uYml0M0RETjA0cktXbmo2SUtuX0pxcU9lNF9ZYkln?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTUpJX2MyV3JUQ1FMUnhnTGRDNHhyWEl0amZ6bzJOQkdGejNpRUZjbnM5NkNscktTSlZOZFN3aEg2ZkcybHNmdl9XbDd1SjRpd1dNM3p3cDJtREU2WXNiQzNOWURORHpBM1UwV0F2enRCbmVBTmg4dzRYLVVZZmR3WGF5NWd6Snc4bHp2SnhjNk1IcXZhSTFmazBoZVBQMEpoeFhHaFlzWEp3c3k1amFKRXNjYVduenlzbHFVVmJZbmXSAcYBQVVfeXFMT3dHcGNvRkNfOE51TUxlcUN4dmRyNlJLdEhXaUk2WmNlUmFHWUl0NkI4NjFVY2xpTndtdFVQei1OaUhpN2NxNmVQVGhwVmpUN0hmSXlhc1Y2dEp5SDQ4Nng4ZzBJZVU3ejJtVDdnVGdFY2s5VWNqaFN1WTVUZ3dkTkh5Yk1FYnluYXo0T3NyOE5EV0lFSmF3UHlSUnp5NjJXNFhLdHFESDdxRlFsVEtZbmxCMkVjWm1aOWpqOXNLUXM4N01CTlJR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/18/democrat-mary-peltola-unseats-republican-and-flips-us-senate-seat-in-tight-race-in-alaska": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3357021/exstewardess-changes-flight-to-chiang-mai-after-australia-drops-heroin-charges": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOGlCUHJNQVF3R3BkMURkZ1E4TDNXWXhSYWZDc0lNUmlQUmpqSlBCTWNLaUp5V3BpVGJoSjMyalV5MlM5XzJ5YnZvai1iS0xVai1UNmlBUDkwX3NHVUgtZ3BJQ2FKOHNEZlpyUERMT3JrdHZJZXEtaHJfMmxybVJ3N0dOeExSZ0hTOFprZUxlVnFZdkxPa2hsNlNWMVluc1VrVEJhaUpDeWtncTRqVE5HWkYyUTRqQW1ZU2FwUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0FLYnFpRHlhX2Zab2lSTHFfM2pWcEVHUW8wSXIxaXNxZFpOQjdlNEg3OHViMTEyWFdoZW40NzRHWFcwTzJhSWVRMmlBeWtpZGJTU1pDY2R2QTlRWjBjaW9oUU9Bc3FUcGlzeTFiNHlEQ0NNd1Y5djdCTnJFWDJ3Y3hOQWE1U2J0SEJadzh3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHI4SGN5U3NRTWNrYWM2b2Y1OHdKNjJaY1FJejF0dnFlQWM2cmVZRVVILS1Kc180M1gtZ29INjJZckJlVjItMTJVd3Jya0xfSHBfbmJ1ZTFvdWczeDZFU1BpaTQ5QktUVEk0MVM1ZmxLLXh0ZWZnVHNkdEgzRldZWTBveXJwb25uZjJEXzhJZVRQNmM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202611180078.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkw0RmxsTkh3WlRwRko3NzRVSlR3NG1XZmRuREZjdkI0elF0MmdBQlcxMFVBWlNOUUUzMmFIUk9Gem0wbFRFcUs3WHJhUkZDV2xTUE8yOVRndXkza3ZTeTVaN2xlQ0U2WVVnbGJCYW95c3Z5QWFhbnhYY3pCZUY0VFliVVVfNkZsVVBLUmI3WU9jeWNVV0tSVlhnV241LWNKOEhkZ3dGX3FCNnNHRkg0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2lESUxmdF9UMGE1eWlZcmZkUFJtNWxyNm5kZWM0cTExSGtIZXRxNTZNTjR3OXlqeFlQMjlWYWdjenZnazlJRUo1NlRndVRZWWY0VFVBcUJybG1NRTRhVkdtZFd4SUZiVlFPRWNLcmFVQjlYM3lZUUFlbUhuT0JJckg5cjNYZ2xEMlNjNVhuMVliMkRnWlFXVw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
