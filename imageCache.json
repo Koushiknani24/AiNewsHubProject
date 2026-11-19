@@ -205858,5 +205858,209 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/with-foreign-aid-slashed-africa-must-own-its-own-future-billionaire-ibrahim-says": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGlFR2l2ZW5QcUwzRVhNMzg2dEw5dXVSekJVY2JQZVVLbWpYNEVTZDNycUM3QUFaOWxacU1OeElpWGQweExZWUFkTldDckdmaGJTb1FQb1RpODZYWUVONkMydjJjdllLZ0x1aXdZRXMxNFV5elBRV1FHZWt5SWw0RUxKWUNhaW1oRkhBSjFWTFp0MEI3aGRXcEItZGxmWjZ6VUt0V09Jdm5Vb05iR01F?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-19/us-was-warned-of-telecoms-risk-years-before-salt-typhoon-hack": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/19/pakistans-footballers-show-india-sportsmanship-after-saff-final-defeat?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbWxxM2NNbzB3TTdyLUo1ajJmRVZTVXBRZXBGTk9nbTFqVnlaY1Z3YUxoS2xoZkFUanhzU3FFOUVzaXd0ZFltTkhLbVRMUS1Xc3Y4QlRVSW9DRXhYZjQwa2ZvUWdNVE9LZGJscEVEVHcyUVBDV0UxcEx0bldHcEpMLWdiUWdVSzU5cGxxUExQWFZ6bWptb0QxazBhejM4eHZLVUNPT3NCZUtUQXdid3NJRDVMTEhidzBia193MENIdVRjR0RiVkFMUWppcEZaNmE3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYTQzZW0walFyOGdrUnNVYWsxWnJOcWtxeF9EYXdYNWRWWFpJanFxbVI4cG0zVEk5UmJIOWNJelViNURsb0RCU1E5cFpmVER5dHgyallGVWlPZzVYUXVmTFhCOXZPMWl4dDNxSzdHajNXZXV6VzRQeXRUb3lVY1JWWGE2QWsxLW56M0VCS2pGcmdPU3FJZzdoVGFMb9IBpAFBVV95cUxOZmJBQWhxdFpycFRJNmVZQmR0UG5DcnV2M1AxMGdKajNkTFl3VnRJMHJxOFhNSnpaVldJRXRQY1B5UXp4QW83LUVFbDk0Z2ZBMG5ab3NkbUNNV2lCTEVPQmZuZTQzRl9Gd0h6YU1jeElSbnhCU29aNUw5eVFJa2VDazNaZjJlUGU3WjJaeHJCLS1VZmI1TU5CMDVOY0RfNWMwcmtJRw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/somalia-orders-uae-ambassador-to-leave-citing-invasion": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRjdGd0UyaGtmNlpXaXozaXhzdW13Z3J4N0lqd1kzbDdUMkN4RTJFbjBwTWhWVkxYbHMwbGxpb1ZITkVDZmNtVGw0N1c1MlpNTE56NEJfNFU3OUJGUkUyMm1PZFd6WlhCRThZY3U2d2owSGhhNkNneTAzSVRWMzNkVmFobHRxNXl0TW1fY1huM040dWlJMDdQQ3JoS3NvRkVFWVo5d2ZxWFl0UlQ3SUVxU1RaWEpZU3Nwb1lj?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/el-nino-raises-the-stakes-as-cop31-wrestles-over-finance": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/video-eu-gesundheitskommissar-wird-aus-protest-gegen-pestizidregeln-mit-asche-beworfen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVk1fbHZVTHdpa0JuVTVEQm8tUlhhUVBlZUlQeW0zODRJcC0zblBJUE1tZnNMUzNCVDRCamV2LW5QWm5aTVIyTWpGd3M5S1FudXNpX3ZQc0VsZndwN0M2MDEzT2c1MWhPQlJ2bzE3Sy1BaTJZOWxueWxzc2dHUGFfTHJiU19IeHJNckNqVWY2S2ZqckY4aTItQ01RSkpmMDY1RjVZRmNLMXZOeWxaYVRsbUZjclhjTWQ3SEpkNzBmakprcFBJcXhVVA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTVRQUEJaUHp2TDYwXzVWTmJUeDRVOElSRmZNY2k2MmJvaU00eFJTbGJQOWZYOXZobUpiUkZ6MVBaT2dhMWZmNF9uMnRmUVhfMzVaLW1tSGxyS2Ewb0o4WlNPcTkxd3lDcm5uZHZ1UXZkblZUTEdfeFlQckozNmpVQThkaXV2RU1DNFF1Nzg4c09WY0xMUm4w?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTNvd3BjRjI2Q0pnNnIydDJublZsMTBlV2U2X25wLW5fc2NYUTg3bEJhcFcyM1Z3R2EzVWhnY2xVUFpTV19iOUNxTExLRVVnRzgzZENBd0F6OERNaUZLaW9UX2hIdnU5YWZBMlFrYk1wdzRPLTYtb3l3TWk1MVdpamhGdVhiVmF2Q1VUaEdael9xblNwdGNCNWdtMXFhdDExVjA2RW43UDdVNndjclg4OE9B?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVHBvX19RTEk5TjZrdDU0M00zWXhCSGttQWFPeGx6eWdyRzR1QjVYdUowcW8yRlpHRVVkZHBvQnpULVg2LUNPVzFiLXQ5aXBYeTlSQzFJeXlMZDlzVWRrWkVBbG1qMUdkdDJPNVFHY0NYZm85czhlVkhIWG53REt2LWZHQ2FwbUlibWpZdlRZUjRVeEZyRzZfQmZlUmR4Uld1dDhfYW9nYmo1a1B5OFRidmFZTlZwU3MzTU44ampTU0huUXgwamh4ZFg2VlFVLVZUWTNZY09YdUJ1eUd2dXlqVE9NN1Q4NkZBWUpfeHN3OVNvSEM3T05QY3RqN1l1b0M0ZWx2OA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmZTa0p4c01mOFVyTmVUYk9DRWlCQVF6bzVkWUJ1bm1hTlRGd2Z1WnVRcXZvdW9ZeTFYSlIwbWdQT0dhNURrQVdVZmtaX25YSWxpLWpSRzBTNmdyUFRRbG5KT1k3NmhlVG4xcXJBOGN6N0szS3UyMmN0NWJPUE9XRFhOS2gxTGpmWGV2dTRXUHVxUTZ3WGJ2R2hycGtKOVFGMHZmWXE2NDNta0VnQnNRMGIxSXFreXBlVDM1N2JzZ2lURG94?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdmYybUtPQ1liQ28tY0Q2QWJ6WVZpODJIYjJxMjEtNFB2MmY1QkctMGpMUEc2Z3dOWkNVLUZBdm1wSUZPbGZVSkhsSFFMYlgzMlBGUVdvOTVxRWhUeDRIc19xcmVGcHFGUG1vQU5jN3l1SXNGODAxVHp1M2oxWl92dW0wSTZEd28?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQUxBZFNienlTZE9xNy1qZjA5VTctRWlzRy01ZFVUczB2czdlbUE2TWdjaXRpSHBDdm1nQmUtZ3JhZ2pnR0d5SEZXY0ZGU0dkSUFvUVlGaHJHYmFZRHptcmZmQ2dDczF2dHJLVUtId2QydVpxQ3VWbjZVbW1LNm12V0s5aE50VS1YbGMxVTdtb19iYlFSZ3VHY1RhS1N0YXd4MWxQMUVtbWNyN3JzQldPM0p1c0xiMzZjc1R3VUl6Q2EtTDdCbGJucG84cWJGZXNWbUUzNFZ3Y2nSAd4BQVVfeXFMT0FSd25abHVCZm5GUjNIWnBZa3NUdTV0eHNDeFZvYUxOV1Y5bEVTNGJNaVdhRzdwZTVhdm5PLVc4WU1GbmpwbE1CTFlpT0xyWGcxaEVja1o1SjFfSjNZNFMzUUhhdHNRcXl3Y29ZWHFQNnpwdTJBTVVEOFd1a3VoS0Raa3dPM0hsakVUY0gxWmZjNGY2QW9pWjRQY2FYa1dQNkJIdTMtR3Z3MHV4MkFjbUJGaVZuMkhZWTNsQUhGaVpXZUt1dHJzT1l0ZDlBZjJVZ1l3Qk5Xc21rdkdsSkJ3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2dIclQtc0NCVUk0dVZ6NS1XcVNLVS1EZFh2aTY3b2pmbGFuM3ltaGYwRkJOLWpsQlZIT0lPbkdabDA2ajhMeW9qeXc5a1JZUWhCbEthYTliRFcwNFB5XzFkdUQxTlh5am91aWFhSGVWRmY0WGw3QWFhVW14TlJESExsVjdHTnRoRkdzaHJzajB1TXpaU3NfMUpnUHFGc1lPMGQzNllEMGFyM21EUVktOGdqMkRPX2NMNnMxOFZwbmJVLURWR01SeA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXR4THVKYk5meVlWMWNzQTFyMzhqWHFtOWdqNC1fUllEOEFURkxiV0ltMng1YktmclNuTHZMbnZLTzN6SGl4VV9NeUZGUF9aWmZpYWZNTjhqSFZqOVpkajQyUDkydWJRWHdLZG5WRnRrWGxub0V3RVl1M0FVRUp5MW5wMklBa2VoVnRTbHRnOXlreTNJUDkzMWM0WkpaanFGMExfOGdqM19jbU8yVVhROVZCNFo?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNalFjeHJvLVI4bHJHSVA0Q01OZGRPUHZ5RmpoZGQ4VzVPdU5GQUhrczg3TWxBYzBEUjhXUzduaGFjcWRQSjBoRjQ0WHI2RHZNRVRkOW5JTVBCUEN5Vml2bHhSM014bWozVE5VaFJHWHBrRjN4V2lmVHJKQ0p6YWwzblpKemgxT0dwNW96TFhrWWY1bkVILWVNUWlFWUdnTC1jOXlpeGRaTmdTelRmcEJmN3l4N3JRMTQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3357695/thailandcambodia-maritime-talks-to-resume-next-week-in-kl": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-investor-says-ipo-sets-new-benchmark-for-ai-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0pSb0VvY25yd01hM3ZGMUdoQ1hJdUVhejAzZlRia095MWtkelVYaGlOZkwxTS0tdGwxQjUxYk82S2gwVFg2Y1RxYXg0SkplUE1CZmZJUlJjbTNNLVRzWk5IT3V5M09lVnRqYTZ0SE5ldGlGSXpLV21JZVBOUFhNdC02RDFpcUx2dlIzOTBoU0UwRkIyU29JdnZ2MlVNc2MwR1lQOTlB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkJqT2oyYk82bDFiWGJYTVlhX2hxNWs5NzFWY01GTUZVLV8zbWgycFhsTjhuOEcxUTF4Y1BiTWNxUWp4THZhdjBYVnMxd1lCY0d0YlpIWlltUV9JckxaMG5zSURFaW5VV1hGVnBzcm04TENiQWpjWFVwU211MW9qYTdwbERzX19CQkY4UVNseVFMSERmemJPTGY5bmRScXRmaUNEOGhhbm4yOHVGRmtZLXgyN1VBRnJvVngw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbzZVMDNLQms4bzFqMFVwakFtVEFFUGYxREx0NnRMU3BuZjJ3eS1vYjhwNnk2UlFSVDMycFU1eVZWVzNGdlVWNVIwVzJOZFB3T2ZBZFlnN3JYU0dvVFpid1VEckRLOGFiaVZrSEdlWWVMZmZqa3dSbDBPTmU3cUFCUko4TnRtM3RJZlJOQlFmb29hLXFjTk1MQ3dPVU82M1FzcmJlczE4SkJUOHU0clMxbDNvRWFRNlpCclNlV0dkaWhIUWdvOTBlR1U5Z3d0eHprNW42bkhjWWVTd3M?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE05RFI1UXR5alZLUGZrOEVjR1RnR3FxOTVqU3hYRTFiRkU2UXF2bjFMRmFUN2dDeXlfUWt3REJvY242b2l4bFh5ZHoxT04tUjhFRzR2MF9mbC1WVTBNeG0zSU9LN3pNdHRnT0dYTW9WWQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOWNIbXNuWWxDb05iODB4cmRjQ05QYUVNX2NpcjgxMWhTbnhoeHRZQkJlNG52eHNnZ0VvRkFlN25CcWpjeTkzUmk3MXFjWXEyQjB3eVpVbFZhdGhyNmktNThFQVB0N0x0dHdUMmtLM0hKX3R5Snl4TERTR19XNHFnRlpmVU1IZ3FpYjhoS19lc25tTHhObHhibW5kZXlPX19OU0VfU2V6anVLT1ZIOWxVT0VibVRUdGtiX3VxVW1lVGxubE1zakp2TkN0X1hNU1NMQy1DMzhFLWE0OTFvQXJZNng2WkIxUml1UG82OVY4MHB2WXRqVlg2djVjZHNSZG9nQ0wtZ3dPRnlpc3llajdWWG16dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/19/can-anthropic-afford-to-put-ai-safety-first?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFRzYjNRZktDYVNQSW0zeEV6RW40ZF9ZNmpPb21fVkt1M0o5MFl6MS1iaUdFT1c0R3EwMzU4Q2NRNi1iYnF0cjVTZ3NBNnlKVWdMVDdKMHgwQnlCOEZzUERGdFRzWHRqUS1iWGc0TmJieDdHeXZhMTJ4R1NIN1FnWEF6U0pSZ0hZaF80Z0pyTWFUbUpFTjE2Rm5RRUs4Vm8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/nigel-farage-is-back-in-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWk4ekkzQXBCYVZRSVNhZ21Pd1FMcUtCWFM3YUk2Z3VYMk56dER5WU1MbVhWTWdhMWhTS1YxZmNzUU5oclAzYVJpMUJsV3JsaXlGdzFsbTVtUkdPWDZ5YUNPUFd0MmFKbHpBNVcta0pKV1RmYjYwaDA4ODFnWW83cF9sLXVUdUloa3JZX0hobkJpWTZhcm45Umxfb1dEMUdfc2plTWZibTdiY245VlhBWm0yTWQtQ0HSAbwBQVVfeXFMTmVOa092eDNObEx5NUVvdXZBeHhDWFJtUXQzWTZLRTlRYW9IQlFyeDJaZ055ejczX0dhVE1neDNUaUhCdWNUWG1YX3VLNTJwTWozOGpjSmNXRGlLZlRINENib1BzWTQzMjhFWUMzZXJTU29PQlRlUTVqajlUYms3X3dyc0F1V01iWFc5SndRVkpmMENlLTB4RU5IaUVlcDNZUlVFdGtDSnF5bFl5dlVkYm1UU3pfZmtFQ2otX0s?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
