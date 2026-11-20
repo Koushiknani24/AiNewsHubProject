@@ -206584,5 +206584,227 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/business/business-news/mrbeast-lawsuit-dev-director-swiped-files-1236760067/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-falls-after-blockbuster-debut-as-tech-sell-off-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/new-york-mayor-zohran-mamdani-injured-in-soccer-match-against-journalists": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/": {
+        "image": "https://www.google.com/s2/favicons?domain=techcrunch.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/the-winners-and-losers-of-the-eu-uk-summit-deals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/can-german-auto-manufacturing-recover-after-mercedes-and-vw-cuts/a-79946928?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZE1FLUpGTW9zeVJKbndTVUV6MTF3dmVQTE4zd2h4SVlCdzI4Qm1xNmtPWW0xTGR0TjRHRnVVZjg0RERoZXB2MEpMazY5akdSU0phSEc2WEU3NURBdWMwVEtBd2ZmamNRRXF5LVZnMms5QnlYNldTQ1NCVWNMVkpSZjRzc283dlY0eWkxVEVLWTQ1ekJrRGY5Zk5yM2NqcXhtSGoxdFlmcGx1X0tjYkRUaU5nZnRNNS1BZW5tRGlZRmM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-20/gta-vi-earns-near-perfect-reviews-in-record-launch-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202611200670.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLW5FRjVtVGNLUzRjelZqZlZ3NDFYYzJSSEp1cUhNNUZIcWFaQUJ0QnlYdEVqOC1YU24wbjhaYTczVjlSTktkNndNaFpkVkh5Y3VVX0doZ3dscG83clExZExZUmlpLTRYb0JNZTNYaG8tVmdQQ056b0dEc09SYnY0LXh3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXhQN3I5RS1Zb2NPOExuVFZXZFFiSU5UREkyaklqUVR1YmJRNjg4dnIyclY4NWYwaDVfS3ZiczF5VDQtekpib3pHZmw1U0VqbW9rZjZKZzBfWnlIQXlCOTVVMm9qMHBhSnlhbE1KWHlRalYteXhFRVhzS0h3MHd1d3Jqc1E5cFFfNzVNc0p0Qk9XX195UEltbzFObEpvVXlDRFIyV2M2aURPZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdktxekJad1BQRnQ2dUJQVUp5Um5MelVkRlJZbjJpcVFabXNicGdhQmdoMjNXLVEzU1kyTEVnNzY4Qk0yQlJ3andfT3g0dlByd08xZWQyZ29PRElGbElONWE3SEZRSFhETWpmTUdUMU43VWwyVnRzMDFoWUd4YXd5Rmh0UFFpTllTOS1rY3RuYTRqQzNINWE3UGZFWDl3ZkJjd2dDSzBqcXh1Yy1YcmR1MdIBtgFBVV95cUxNUXc5VlR1RmY0T3Z6RUNHVUJKdllGdW5ReWlFUlRXNFE0OGlHSVNSUTZZNmMzNmFrXzFBR3FxUGhVT1diMENWY3ZQNlNMdHdOallrUGk3ay01TDQ4QWdUSEtFcDdnQUFIOWtmbzBzSWdNS3ZZcU90R1YxYzhxUkpwa1drYUJXRXAyUk0ydl9TRVZZUjA3bmtSSFlHNzhQZnZ0aVJfdXJ0bkNaOGNxQmlUR2VoV2NMQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-investor-sees-huge-runway-beyond-coding-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdXV5MDNTQUNlQ2E0Y3ozc0RxalRiM2Vhelc3M2gyZnpmRWg3UWZYcHJqSVVpa1lsVjRYeldYNjVuZGxjMDZRcllvOHFmc24xcG1VY3RZdnFVT2Q4TGZ2Sk1zQTJBcm5BaTFqQjlDSGNLVUFfOERuLXo4M1VrTnFZcDFmSDdzejFmTy1PLXl6MHhsUkM0TjdrXzZScFl2TzJzdTJRc2FBNU9QdldNLXFMMkxrSUktVVFmRXFlbzhsaFd0Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdFd5aW9SdU82YUQyLXJHTzNPTmJISW82RlpUeWU4RFp0RTNNRmxmSlljamtMMmpITDdGQm4yTFo1dFl6eHY5dUFsdGRWaTM0NnBBbVFiam5iQzQyLVBwUDE4R0RmMFBHRUduMDhwS29nQUh1MG03ODEzRGdIUUNmWkFIYTEtb002N3NFdXozNTVNaWptZFNtOXhYbWoyNzlmTTJIaEllSQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/mexico-city-plus/mexico-city-street-organ-players-organilleros-tradition/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CMkwxcEtfbGNXNWJrZmFsWXdZRXN3RFlyeEZoWnRJeF8wanoxTzNGR0dOX2FMQ1UtektlS19xT0I1bVNFTUhlSTVTTEs5Nzd5UUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWZjQnI0UlktVzRJUlNfQlRZcU9RaHJWTHItTE5oY0NoNG1jNTNnR0tnTEJ2TG1pblZJNkJQdWY0MjRZZUQxZW5QSEc0eEcxbFhVWTRoeVU1UzRaVFlUd1RWcW5RT21aeGFjY2ZUNGZ1LVBQa2l4RzhQelFpa3prZXhBZk0xVmVvQkl5bFpycEFRaHdJRndqdFFqQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/sports/3358380/king-power-scraps-plan-to-sell-leicester-fc": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa3BFY201dWpqcHpvZE1vMVp0UmhuTjVabWhoalpCNXZfeElTX1pScmVMU0Q3Zk0zOC1KbVYwTWpJUGlsYWF3am02MkRFYWhBYWJKV0I1YlhyVi0yaWFkeUp3TzVuUEJQbWIwQVZqTTc0YkE4VjItMnF5dk83a3hKNndqUHBOSDN6VWxUeE1KU3BWT1YwNk5CYWxhS0dZcHJYNl9BUVJSOUVrb0xyb3hVUXBwSU8?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UQlhtLU5uWW9hTUZlZGlsNzJ3RFZLT2lqUlRuMUE1bW94bG9XY002RDV3ek1ydXY2NjQ1SDZQOThOWHNYamtFcXJROEFyV0dFNWFCSnFWem9TNWV6VjhyVDRzYjFvUjI3UDNLdU5wdXFXS1dfWC1lYW83X0NDX1U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbTBkd015S09sXzByZFlhYmhpZFk0UTBMZUpObnpmb1YwWmNDZmlKbU9OLVpxMmtaOHJDVUtNVjYtSWtMSXpnOEZmYUJQaU80UGRWMTRteVVrRTlrbmlDeWdXWXYxMFJwUnc2cXZVLU50Yy1JdG82dXdjU3pOcWppVEZyUzgtVUszaTFqSGU4ajBETGw1OUJCRXhGQjktMjI4eDJmSDlZLURCUEZDQ1ktNFdfUnY2U2w4R2ptX2p1bWVDWjJEWmtfRHMtZElJQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin": {
+        "image": "https://www.google.com/s2/favicons?domain=france24.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzd1U0pIel9fS2xZcVNQQmZObktwa1VycENKamVqc3JmdjVyaENZMEhEd2phNjhXZTJSbG01WURRbm9NVlA4TVdwNVhaM1BTX3hUTFJObVFvdmZGVHhWRDFwUm1WWjhNUzVnN3Q0ckN6Y2JvSE1wME5XcjQwd1VIR25QM1l5NzdJblR3Sw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkFONXZNb3E2ZUVuV1hsNW9XbHprZ0ZwN3RWakVTMjNfMEgtZUlhLTRWejBqN05zYTNDbi1UeEw5SUVyOGIwWjItbklPTG5rMkdiVkFmaDU1Wml1UHRsWl9FdkV4R0UwMjdFQnZGYkwtTTAzRUFBMUk4Q2Nud0M5dHJabG5WYlhMZzdpYWxNNUo3Z2FyUS1r?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-features/rocky-best-picture-flashback-1236757348/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/andy-burnham-eu-uk-summit-reset-deals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202611200660.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFZmVlBrRzFfVWF2UUtDVzRqa1dUVWFFMTBqbDduODhnSS1MOXFxaXhSR291R1RFbmJLeXFqR3A5Q2FadG5iN1VNZkc1S21PTmRhdHJ1dUhmcWFrd1hkaG90cG9pVVY0aE1PRGhNZXhTUVVwX2JzVzBBMU5ScDk5Sk1NR3VIRlVC?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWVKSmZ5dHZJaThpMUVaYWdQWGNJaW9KdFJVVnlldi1QLXNFZEEzMEx3QjFETE5ncmxsSWlyZ0RDbk5VSE9GTWxwV0lxQ2dELVI3RVgwdElhZkF6X2YzbUViWnJvaXhtX1dKREVGcXVydlZlNGNFMjNWSTVfLUV5WHlBWExVckZIVVZacWlKeHhHSWE0TGN5MEx0blppdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZY0VGNGFCdGNHVmYycjVUbzFUR0FXcEJrMndDTnJLVDR5Z0VmMHVwS2dTbE5WZTdudnJLNzZJbXdXdXpqUUxCSmR6cUVFeHN4SDV2Ykk1MHlhWGRpNnBoeEpsNnRTempqSzhmdGduNmRQRjFRRExuTdIBfkFVX3lxTE56cjI2TnhQdVVjLVdxdXFYN044dU1UNlZjTFN3eEFYaWsxOERGMmF2S0FsRERhQnBhdWJQekd1dl9tYzFSM1lhVFRPLTVPdlBQdmZfRGppT3lfVFRoZUd2Y29selZXVkRUcUt3bEhMZW53dUlSSlJiLTFWY3FQUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxORlBJNVg0VnMwOW9iNmFuZ3RCbVF3UlRrcWJqeThqT2tUbkVybHZOU1VZajdwVlV0WE1ybEgwcmtjTlpBTnl6UDJwdHF6YXJGMVducnRpbjN4U0FUS3NQX0V6X2RiMmRqTVpVS2tlbnVHQk40Z0RXTThZcnhZeU9KbThjWUM0MzQxUnVhSUwtUEJUdWVwcXctamdCMWFpVzVCNkpJYkZENzJ4Q0tZRm5FMjRPNjFnVUhGUmRwa05nYUFIQ0tm?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
