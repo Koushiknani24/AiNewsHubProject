@@ -206806,5 +206806,143 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemxCMzdZQVhrN293eFVPNTNrdHFZblZJNkJFQzluUFhMMG8xQUI1SG80YjdUWWgzdElKWmtiVVRmOFhKS2toWWZLZ2ttZ1ZOVDl3dFVEcGlpSG9DSy1ZbW1TVEY0VFpPbzhJck9sYjJHRDkzakFBTlJ4MFhOcEZfVTF3M2lIUGo2aWQ4VUdfaDJFaklfUzlVTWlCWlNHeEp3RnZ6NWI4UmpQVzlrd1I2My1tTDNsXzJDRHRIWHRXR0ZZbXZGanpz?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.channelnewsasia.com/sport/price-becomes-undisputed-welterweight-champion-in-first-wales-6570856": {
+        "image": "https://www.google.com/s2/favicons?domain=channelnewsasia.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMm0xUng1TlFfWC1CclB3NTBKU0taYnlrTEJsdkdiX3lQUVoya2FrZy1GX3ctQ1NTX0hnNnBTQ01rS2dTZVVYQW9kb3hsMmdrTFJNWEdIUE1IMFV0VE9oMk8xQVZSdXVYTWR2WWxqNTh1SnN2MTg0VUZYOVlGNHVzcHFPV3NHVGppeVo4TGFpdUd3a05lcVRfaUZFN3gzdjBoeHVvTm00V2U2SmVwRzFlcnF3VHpKMXFGaVFTTnJvWmt3QjVMZFJNVw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JZFZLYlRWZURfN2o4MDBtVlc3cGpod2EzOWZQUFFUT0x2MXJsODdCTXJSRXEzRWNNVXhJVWkwdUFRdk5mWFpOOA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVy03R1JaRk1TblZQNnNhcGRnZVNzVlR4T01oUlFnZXBURVFvUWJSak5YZFJocjVZSF8tNlppVW5WMVI2a1FQLWpNZ1J3SGwwTmtGRUVVRlFVVnRxVnV2WGE2N0RpOXVONkNHLU9ia2F1aXJwTVlVYkx5cDhfeDZxV3pKcW1kblNIS21NR0gzd3dMODJTNEFPNzlJX1JPa3ZHZTg0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxORW1oclhkS3N6LWRzNUdZMVE4SWhmU0RxWHhmMUZwY1dJcFdUTVlxNGNmVjk5RFNMcVBtRzFQZDZ5YUVwczZNUnd3X0NRNlFBRDZNUjlDUDJXdUgzLW9hdldERmZsYlBTVmt4YWxrZEotT0dnWG1saXc4Umo3VHYzV1NGVGJMVEpCSkprRVJ6V0I?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUmlqYnRIM184cXRFekZMM3o1Q2FyNDVNeGVqbW1fMHpFOWx2TktpdV85LXd0d2hOZU02VWV5LWlsYnAxM3p2VXMzQ3VwOXU3VmE5bV90Yl91XzZXRHdPUFozYmE1TE5kT3Y2TDhUdU5pUlk2V3VNVmE3OFBic3ZDWUdxcXc5M0VSMUFELU9TLXQ5OHpiQ0NSRkVEa0R1Nkg4ZEhJQllVbGZFZnIya3hTMWF4Nk1pdG1HZ3JNbzB1U2JPNUtMek5rd2Fn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/tv-movies/tv-movie-news/anthony-clark-yes-dear-cause-of-death-1235662015/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3358779/fraudsters-harness-ai-to-refine-scams": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/waymo-recalls-self-driving-cars-over-closed-freeway-lanes-manual-traffic-control": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYmF2dkVFWEswbHFzSmtxS2taNHhUbTdPVVJfQ0tsT3doMXE5eGdtNGdQR2VMT2lUVG84WG4wdmhqTTF4dmxHN0EzQmt0Z1ljZVNlbUVIdGt6VkVxSEdYc3ZtaWlZUHpqMDBmX3ZVZ19yWmpyWHdlX1VRSnVsWEU4aFRISExDb2NOWEUzZXlZVU5DcTAxUWRmOUp6X293dTNVY0pPWXRWMFUtQdIBrwFBVV95cUxNLVJKT29zWTlLdG9hRU1fYjZ2aE1uV0ZiV1MxbkxGNWozSzh0cUlHRnEzV0YyYWpVYnpVZU5pX0wwSkRoRlRIbU1LQzNWNzBZX29HNE4wZEpXa0JQTU1oSHRXT01acTdiOW5neHZRVU5iRTR0UDFDdGFpOU56UDJsVTNwT1F5MXBMN3pxam13LWlZaUJYOUluWDhZSUJ4VWtiVlNEemJWU0ZzUld1NEJF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlJrVklpRWZxSmZ0YlR1eXZnRjFZMWFMNFRCRks1RmtQcDM4TnpncGFjTHZ3ZVBwNklwbTBVUEs0UHhyV1dZOVFUODc1WXdmNlg5MzJkS2hBSFE3ZS1iaGV2R1kxTmZSRVc2S0pNRU4yQ0RjWFkxc3pTWDFFeEJXdHdRQ0JPa2JzR0h0QzJSSHB3clFwalY4MkxRN1NWLWxJY2U4bFhZbmpWREhuMWV6YUZLbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/20/video-shows-dramatic-helicopter-rescue-of-woman-trapped-in-flood-channel": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTV9mZjE5enZJd1B2Yk1tM2RyVC1VRHVOMDI5dVZPa2hMWjFIM18yZjc2RkhKVmFiRFg3S0NBNmEzZnJXcXJtYVAyWnVPWUlMODFjQW5YWXpURk0yN2VjaU5zVGc5TWhiQTZ2eE5iaWpWWW5ybGo1aXo5OF8yTjZlM1E2SllwcjVOeS1FZVBxTWdkS2JkaUdMalNtOVlWRVJHajJCTzhvbWRzbm1DN2QtcjlrNUJQaDNwa2MyZEdMRUJOZk0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaU9FenB0aW5wRHpmUC1BdXQ5aGI3Qkpyd3E2M2NuUjA0anBWN2JCcEttRUx0TThBVXFRaEY1c0IzcFQwZ0JFUkNKYWs1Qk5xQTZnSTBad0lmQzFTN1ItTWt3Q3p2Sk85QktZcGN1am1laXBPaVlXb0ZPMFBWX1hqSWtxT0NCNHJu?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxObGVPWkRZQW5pSTZDcThFTjVPdncxZ1N3THZSSGRMVVJJQjhVMDdLZ2prWjJJVVNnZzh6NHZRY19NUU1LRTlpajl6WVJtX0RYTU1NYUU2ZUVnYUxFMG5vWTNidklkbGZlTGdqeGVJQ2RXUF8tNzYyZUNqTU1jekViWWNtUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/how-vikings-and-49ers-training-mexico-citys-thin-air/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
