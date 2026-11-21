@@ -207082,5 +207082,191 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.thehindu.com/news/national/kerala/kunnamkulam-custodial-assault-sudheeran-seeks-stringent-action-against-police-personnel/article71728987.ece": {
+        "image": "https://www.google.com/s2/favicons?domain=thehindu.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.rollingstone.com/culture/culture-news/princess-of-wales-cancer-battle-heal-documentary-special-1235662071/": {
+        "image": "https://www.google.com/s2/favicons?domain=rollingstone.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/news/royals-kate-princess-of-wales-3-peaks-challenge-uk-cancer-mountains/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.sciencedaily.com/releases/2026/11/261120075701.htm": {
+        "image": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.sciencedaily.com/releases/2026/11/261120075558.htm": {
+        "image": "https://www.google.com/s2/favicons?domain=sciencedaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/lifestyle/mexico-city-lowriders-chicano-culture-gang-stereotypes/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNTl96WkwwQURyX3dEdHl4ejVBMVRoMG9QWTRwNHc4dk1pQ05jYUNzd1ZabE9ZdThjNkhNaFAtOFhwNEQzUnFlYS1mdERCbExHZ3lfdGpBOXZwdkpvTlVKdUNYbTZ6NzIyVFA1b3MwZ1RsenFVajRjTjZ5ZDVaM0ZZNmx0dzg4TTdoMWxqcWpOU3g4bThhd3YyZEY4X01PUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DU1BkMEdwOVpObzk5SlYzLVRoaXhuaXlEcTJVNkN5Ry1iV0RWMHpvSkg3RDVKUHlacXUwdUUtblY2OFIxcXEyY1RaQllKeFVhcXRsTzRqWFlHTk1WM1F0cFB0RzIwbUdmYVNINnJzbWlNWmdURFHSAXtBVV95cUxNTTRtVGNNUzU5UmZKM05KdTV2WWh2QXZZUVdzR05jYk5Ldm03SHlNZnZ0aVd0VEJNT1hSXzZLOTlyOV93dDlMSWd0NDVuaFhHYUFxY3QwTFNiQ1NjTElvTjVUb185cTQ3NzlVN3NkbVBlbTQ3NnFSXzJBX2s?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/middle-east/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-21/the-1982-war-still-haunts-the-middle-east-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/21/jair-bolsonaro-hospitalised-with-abdominal-pain-while-under-house-arrest": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/queues-in-russian-town-as-estonia-border-closure-looms": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PUy1feTFuMjRkMWxidmpSUklQT1NiOXJwM2trV2lEOE9VV054OXJ4M1NHdXdTSnVKMzBRQTVFc0xDbTJVZ1ctSmFtaWhnbC0yQm1LZ19OeVRGOW5iNkYyQ3ZrNXBkWldmb3N1dVpR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBmTEh2ZFRVUmZod25NaTdtQTlYYmpKYmd6T2pqMEhKTWJSdC1BT1hOMDMzV0k5bUw2RDYxS3EyZ1BjVmtOVWZ2UTRqSGVhVFMtSDc2bWkwQXZaSWo4SVoxNTRma25wVGJnSmVhNzhlYVF1dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-21/thanksgiving-dinner-is-moving-to-restaurants-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUjZCRmdjbU11Yk1QcTVRcGVKQnk5Z05LbTVpcUhJRkppOW10RHdtMDl0Y2VwQjZSeHc4VlBkWmFsUzN6bHdxSUo0OE00dEJQREVHb3QzajVncHJSUUV1QnI0VFVwTnlrUTFmdklqbFMwdXNQWGplNTE2WjBNeF9xSVhka1owYVM1Wl9FVmpvaFVMcGVIZllIYjlNVF9JaG9IdnQwQW8yT3JKZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3358889/qr-code-tickets-to-replace-mrt-tokens-from-jan-1": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR1c3b2RsQWRWdDhsNzkzbXhlWUViNHNDT1RsUWlfNWY5TGcwZ2c5UzRQOTlUZXM5VEt0MWk4Rl83UzZPdjRYaFpVZkFPeHlKRlRjMFprWDVjY3lpRXA4UjV2UTFYdEQ0b05oLTM1eEtxWDdWUFIxMUJYQllVOXRkZUQ3VnljM3hqcnc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cbsnews.com/video/trump-defends-putin-after-trilateral-with-xi/": {
+        "image": "https://www.google.com/s2/favicons?domain=cbsnews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Tc2JhUTlWV0tSb3h5bHN3eVFjXzdBRW5NYWxvM1RnRkVpY1pJZldva2lHbFhia2xwTkRhSHRXT1BodlpPbDdJT1djTjVkbmNFVUg4?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KU3N4WGxNV3Uxd0g0QXAyNXY4MEljc3RITFUyaDlrd3kyRUFuWGZ4Wm43cWdmd1J4TkxhQkZBZS1UdU9tMVgySWs3dVIwaVR0UmN1b3NBVWEwa2M5cVZhdDdlOXNmZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQjZGUzREbXRjRmtjM2dNZXc5eXVvVEJJOUdFdkpRNnZXVngwcDItZE9JYnJQc0diN3dRU1p3OGMzY0RQRkw4Q244ckR3UWVFWVc3ZkJHeThzU09aWnE4SHhxcVJqdld4bUtrdmdaVjA0QUdWT3dySkwzc0VVZXRDcWlHaTBZNERRWTUxbG1ZMzk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV0x4SzhsbEg1QndZOTlVNC1GR2VlSUltTEstSFN4YWU0cFhRZVRUWG9yTVJfOEd3Yzh2REdYdTRXekVDeW5xWjZqMk5ObjF1OTByRW1tSkg4bmNDblFIdWliQ2NTUnBDYUwtandBVUZGX0xjbkhGQlctLWZqc3F5YTJrMndmZ1AzS0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RMEI0ZHEyNW04NnhCVVNRbE1KRE9FWVFOZ01UWWgyYnFMRXBaSGhsNU4wMEpOQzdYZnhQUGZmRnVyN21fUExuZHhJMFQ0T2JaNUM0M0FR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTZ3d1JvYi1DS0xQUzRwMW1vU190SUxranBJV2FMdXREdURydDByQnhaNEh3N0hCbS1fM2ZRMjBSWFlpVmxpMDNnQ3RqeVF3c2pkVF9NQ2h1ME9mck84SkFIVWY4bUMtVE5Vbkswa29zT2hWZVBaZV9sc3lDbEcyS3RudGcwSUxCTGVNUmpDcG4wUDZ3RHlLVGg1dFlhd9IBowFBVV95cUxOMTY4LU9walo4V3p1aXI4VU5XaGlDZGszQ0pJdlk2b3BDZ1lFbnE0cl9FQkgtdTNKTW5ZeEpCQ2wzTHZySjE1dXd2NU9SYUprcTZCSXEtN2lIazRENExDWF9xbzJjeGI3RTNBN0tGR3Y4YmFaN0dMcXg0LUVjUHB5WWVhVmxPS1Q4QkxFTFhfRTdCSEtkYzBFdGV6WnZqZ1R0WlMw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdEV1TS05eE8tRXUtZXZocWNCWkFxOEhQOGdJN3RKOThDa2ctMlVlU1R6YjRodkhySFZqdklnakhKcDd2azJ5QkgyQ19aVE1OLW1OOWtVd1lwdGxoYnktdE9TcFBhSnZyNlVXck55aFFnWXg1UXFTV21pa0wzRnFON25IVEhvQzdyS1RkdEdxN3hJRHQ5WU10eUJvY1VVeUdqU2F4XzRELXVkazhoaFkxMV8yNl8wS25DSm1rOEJDYzY4ajk0QjdIUUk1UWtOUVozR1RjMWxrSTc5QdIB3wFBVV95cUxNQTl2UTFVb0tUTHdVTkZqWW85d0pLaG8xZlV0Q011Qjh1MnpQV2NNN3NKZDM0US00NFpZYmlWdnFLOTJSYnV1TmszbXprcnRXb2doOE9EWEZPdTdZakYxaGV3TjVaWTUxZ3ZZRGFXRjhjQ01UbGdEQVVnQW5xUDVuNVcyZ2Z6cVVvYVVWT1huZ0NVQS1MVU10VEJyRHR1VHJQcTQtY3c1eWZMd0FjUE5ZTnBUUmhiTE5MTk8zYXpXc05aN1BXUnYxYzhZeXMydjRPSlFWNTdDZmNJTGtMOFBr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/21/mexico-captures-fbis-most-wanted-cartel-boss-el-chapo-isidro-triggering-violence": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
