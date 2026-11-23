@@ -208276,5 +208276,251 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://www.hollywoodreporter.com/movies/movie-news/david-greaves-once-upon-a-time-in-harlem-scad-savannah-film-festival-1236760375/": {
+        "image": "https://www.google.com/s2/favicons?domain=hollywoodreporter.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-23/emily-kilcrease-on-jensen-huang-s-return-to-nvidia-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-23/stocks-take-off-after-nvidia-reinstates-jensen-huang-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/video/2026/11/23/tanzania-towering-flames-engulf-beachfront-hotels-in-zanzibar": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/united-states/us-blacklists-megaspeed-chip-firm-linked-to-nvidia-scandal": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVVJ3X1BVLTZkR1p4SV9qRi1ldXAwZGZ6Y09fZG51OS1DX1RscGNKNmViS1hMQVFpQTVCYWlRQmM1a3JxWl9HUjk0Z19nNldMWG9aaDd1T0lmQ0gyQ3p4SjNuMDk2WnBIZ0Y5Z1hEQkZvRjRDcDQzWTNMTTlTQ0o2Vzk3RGtBcFE5R0pxSFNZUXlNSUJFd2tEdjJiVG13SVJJODBvMUpMNUF3eHVfdHgyXzVCVDB0Zm12M1ppcDFnMVp3ajBGVlNyVTJvM19PaWlXQ1l5WU1Sdk1GbDRXXzNoOHdrNEFqUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzVyaXo0aXJLT2VuWXdDRlJIWEw1RDBlTWtxcG9RN2ZydEN0T2U5dnlCRnJXWFVKeVZ2X2JXUmpHUTQ5d0tCNHFGc0VKZHE4TFdVQXFId1k5YkRGU29pdF9VM3FES1ZDbEItTW9rQWRYQTVTakxtMG1uVnZwV1ZTRmc4XzV0MmtVX2NWYUhvWHM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUlsRWg2Szd1Z3JjWkRCcFVMdTh1cDhrT0lxUEZ0UXRHVjZ5QWJaSWRFVmxfT2Nlcnp5UjZPOG9MaFE0SmZ5UndIejdacWRYT3hGVHZiNVQ1a1lOa0tUZVdjRm1rVDZkMWRPTWd2R0JLamZfYm1lcEREbE12ajRCNTZSdERlMFpObDVFSkowV2h3THRkdlFoMUxR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOczF6V2RUNnNaSDQ0R0tBazRHZXV0ZmVtZjBrOXZFRm1wb3NBa21PM1BqOVE2UFJaRXdLbmlESm9NeFFkWEZBcGc5RkhUT3k0dFA0QU50RDlzNjJXNFYwV2xKaGZ3amZvRjMtQkZ3cFM1THVBM3FKbTJ6SlNzck9NV1dZX0RoX2tBUDRKLUZzb0ctUUtx?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRUVPamVpajRpN1Z6d1M4TXJwNnVGZTZRbUFMRlJ3Y2dkV1NydHNGRnRrYW9JTS14T0EwQkY5VUZDcWtOcmVvUFhqX05Odmh0V0VaQlVmbDJEUkhYU29BRTBYWmcyTElzbTRRNkpoWEtWb1o3ODh5T2dEYXJjUHY0dkpWWmFhV09FeWNPNzFLblQ4VV96Z2FWSlNRSlRFUWo0UVBFckkwRWVEQWxwU2thcU51YlkteDgtVW0xNlJiRklJZHVPc2NWeEdLSFVCNHBwZGpNanFSa0x3MkhMc2tOZDdManJNWHNZZzRSTzNIODZvVGVsbzhuOEF3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/chatbot-mission-protecting-children-at-risk-recruited-organized-crime/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YWEVoS0o4amdmdVo3aWFYMnEycnlzcUdzcktrcTdKTVAwNjZWRGE1VnNZeW52Mm9UQUtleEtYOXB5RU4zQVBud3VmaVZQYm5YaFZTT2VnbS1ZdU10UDBwRzNkY0Fxc0FiSG9XZEpxdmlOZHVHUmc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.npr.org&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdkVZNmZqYlpXME9UaTZ2QkVRMUpZSFRsdGZXWXoyRmoxamlZcGtRaGxGSnNlQldnV1NvQ1hkUEZtdFc1UUR4UEJRcUFOOFc3cWtrS3ZPdlJ4dzA0RWFhMS1zanlUV0pjM3ZabUVtalFZXy1GLVlUZU1NaG51Wnd0WlhZV0pZNWRDdE9GUjFiQ2dMOGdDcDhRU0IwaU96b2oybzJrWWNCc19KTTlrUzM2QlNYMXJqdHRvaUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSEFHaDAzU3ljZUJXWjZPVlZWVVRRUTRURWlZa19LYzFiMHZYZ0wwUFlJYzdEdkNlYkNacFRXbUdjUzY5NXVhQUJ6Vmh3b2FMMkI2anl5T2dHU3hNY0J6bF90UlpqUlotdF9wVzhDSmlEc205dG5Zcm5WUEtqdVBkQ0E0bUt0NExWeTQ4UXhlMVhXQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2N2TmFzb0gyLWxmcWlDd3dZektKOTNKWTVYbHozRmhKMkJOMjVFNExVZllpX1h0Q3k5c3ltdUh1Qnk5cUtPX0t5d2gxQnVZNTNHQ3JXZEJDRFRCYWF2MGVvRkNjdE9vYnpGeXNHM2lwTGdZOW5wWmMxNkZ2UkRzT1ZQLTZnQUJpSGk0b0g5dW84WndWR3dFTTk1S2ZGVlZmeHN5Y25XS0tTOGhkRkRLdXlwRi1FLXZNVHRlRTBURXdkcFl4elc0QkdSM01mbThhZkNQNGVR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNb2J1aWF2eDlJWDJfalp1dzd3THVBNDRDUlVFUlpxYUlCYklib1RnN3RuYk9paDQ4YUJQdHpFem5idFVMTHZIalRIWWdGUW1ZOWF0b2Jn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/videos/2026-11-23/peterson-expect-a-lot-of-damage-from-keeping-huang-video": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeGNFVG10TVJZc3NRYm5VVHc5X1E1WnJhQTNqVEZWdTd4dkhEOGItYVdNYm5HSkV0MHBhbFdQc1VTTzFOS2FzNGVYU3hVODdIRzdMd19lYVdyS0ZOUlpza0l4VlRkVXZhRnduNDJGZkpaYkptbmFmU2pRbWt0ZzA1cQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVFWaU1ZdEdVdnkxSWFLRnE2d0w0WnF4RXd5XzdOMmdJbzM5Y0dlZUZBRTIwbm9PUVRmSUVXWThCckRBOHFaS2I4QlZaU3RldlpYSXAzU19QRHFnWF9MX01lWkthem1SbVZXYW50U2xsZEVieUVtSlV5bkUyeGlxTGdSQVphZHZNeWZORnJBMzFGeU55OERjeXNhTmZKOWdWT1VZN3JsQW03cmI2NjItNWQtUUtYVy1Zc2FYQy11dm14dw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeHVWcmpMbnNpZDN2RFVvVGhJdUpEN2c2QW5qOGRZMThmdjlnYnFIWmxVbXlYanBJVXVZakFpdXRLTklyVVFwdTRLUWh2anl4bEx3RTExVDBpNDN3VDhSeDJlNlJOSkxPS0kwaXNwbW1od0RkX0JlZkRNaC1BZE5NMzR3MEVWU2s5YVd2RDVoaVhyZ2tOZU9xUEFXbF9aZnBsSmNwXzJ0VFN5b2d2RlRRYlRabmRORDhhZ2RUcDFqS2s5amRjWDYtaFBEMDFtam4ySGJIdWtlc0RqQ2dZRHFwTFNlV25oZ29EUWxEOVZKN2pxY2ZWV3dHbE04QkNmUFU?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmpTeUtjVHFuelF2N2poVmI2NElKMVJwRmFHR2JqWGhCRkl6UkZzRzluX0NlajRTOTdWX2VoN2hqWTdBc1psRy10MkQzbVZhcXdRdzRPLUM3YnhxZkMwTkVUYklaeXFPU1M3c3ZQZ2Y3ZV9HcU40RE91ellVREtSY1hNWEdHTHViSDQ5bF9tcHlIMXBrbmEyUmEtZ21SYWdLQWwxXzZoNk84WVBsUnpfM3FNcVM?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcVpIRExVRm1ZakFFZ0w1b1JxMnktdUpBckVTOEN4bGVuZFF2aWVjRTlWMWhfbG1Gdmx0YmUzdTlmbVJOVmYtZUp3QkZ2Rjg1NUw4SHdMS0FENmZwQXpFeklISlNkWEhHcTVwTHY3MGJRR2tpY1dJTzZySllzc1pXaXlxM0hWWGpEcVFhTW5XTDY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-24-2026": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnZxSk91Y3dNcF9FWmN2UldEWnVpSm40cExNekVHLVJGWjd0V0w0dVlJTHFKVWFZMVcxZmNfY05MdGM2MU9wb3lKOTlOV0tpanRVOXFUNm5hUDFsSGNQM2swMUJ4RGN0ajZScUFmUi1DZERJU2tOcW1ud3FFdVpiTUNlbmdkT3B2c2JqUnJmV01IMGlkZTFwQmRQREgxZ1I4VHdzS05LRjNQMFBVNFBpU3Q5WFFrOEk?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZXhDcG1ZSTdPa01iZTFoNmVLTG9Ca2Y1dHVxd1lydjNRdHFobVlDcjB4V2tVdUhGSmdfM2x1ZG1KMW42ZklQSzI5ZEFCZUpoU1BJZ3EtMHh1MVJqZXljSWVXcTZzMDlMM1VUX0k3SGFra2Q1VmlSRTd2b1h0c1JyV0g4QW5MdG4tNjFKMkR1cjc0OHhscXBFSUR5RFlrTEo4LS1CZXRUMmlZalA3eDZSbkJuNVp2Z3pHLXBjMnpR?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/center-experimental-sargassum-solutions-playa-del-carmen/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeWx0S2VkQ0dLSnh1QVZKcUlpZ0lZVlZHSDNTYzY4bEc5RFFuUmhIMC0yby1iWTBFM08wOWlkOTFaTkFQWVpER0xEQTZmQVBtZ2ZxOUs3MjhYeFdXT0k4TjRqSVljekJHRG1BWVAxbmRCTWR6d0NWcjFVX1NmYjFramJIdlBhUnRiSGozeXZDOVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbEdWWEdOQkFvdHhQX3pGQW4xcVZMYjVDTG9paDFQUHhXTXg4RFdzbllaLVBjcGs1Z3ZTT2VpRk9vRnNQbW1ldnRrMWpMV1BrY3dDNWVRcFZocU4zVXRsM3VvTkRhOFk1VzBaSW1JNXFRanF4R1B1dGN2TzI4VW5wOUVTaEdXdEdLZU9GbkxFb2hhLVNPMHc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0NJVUJQU3R6YVBaRmZiZTBRTGNTblQtYWN5SEd5V1AxOUJJMHVhUGlPUHMtMFJkazlYN09qcDFiLVoxaXR6cVRvY19fNXRYX3Q4eUZ5d0JueThYR1BhU1BDT2pWZl9yTzZNWUNLY1VXd1hpaEtZZ1ZvamZBVDhHV3UzVzduZVZLRVhNVWZmRVU1WXo0TWFJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFBCN25xWnFvZ1ZRNFpKS25ZV0NvQzVYbzhQSXRNZXdnbG13a29WZEpYR2Z5SUdfclNnemRZVkVVZDNvR0xvUDI1X3pEZ05TMWlFTm55MXZaZU0tckR1SFhlOFg2bWVMejhKVlRuVF9udDdUd0wyQ2d0T1d0WmF4WHBYbjAxUDlFV2Q5eVh1YU5WT3R5OHV5STcxaGEyVkVia0lOcXFveVNtc0JWSXZ30gG0AUFVX3lxTFBSclNEc2dCWllwM2hpcy10WjlyYTJ1MHg1U0t5a1VLTDlkTllZTm9Bd2d2RkVHQ1lYM1pJMGowZHppbFczZXBpbk1wbllxN1o3V3pvN05wSUxpQ2thT3pISy16M3hBY3ZKQ1p5NF9IU1dkckdZNTZvNnp1OW5kcDNjSF9SSUdMTHFSRXRVbVhJUHY5LUVPcjZVa25oZUJlemYtZ2RNRWtMWmU3WjRiWHg4OE9zNw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-world-4025-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFlqeGdtQzFhUFM1V3pFUjVqZlNwNlNrQWZSVUhSMDR5QU1MNUFfMS1Od3FPa0otZ2R1NlhWTzVraU40a2VGQXZhMThtY3Y0OUdsbUplNzRqb01nT1VXWnA3ZndYZ2dxUk5ra2hnMTRrSFNIUGl4VENTZkk3OXd3bFlFWC00ZlFrUUNyR3ZjX05tSHdYOGF1WV93?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsV19TWmZTcmJnTW5JZFJ2UFN5TTJHQVk5SUxzWGtkVV8tcHFPMzdsNjFJdXFKbmNSN1N5OElrSG9nVmhBRlQ0c25Za2J2a19tMUt6R1hWMlI4Zw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/finland-summons-russian-ambassador-over-suspected-helicopter-incursion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGtjVTBwWlFLanl0QzgteG5qTEpHQzJfbzY4WlBQVk5HYmRFLUNmZ0haSTBzQUVxTW5jbVBPdnRXckxweWtYMEdSRUFzOGdNNlFvQjhKMUtyV0I2ZzJtMEZXOHRqcTU2YktUZGtrOGlNb2VRRU5EaE8xUFhoSUhEX29mSTQwU0tyQ2EtOTNLYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBDVEduSXhKQXZhbGRraTRVMWxUVXJsWXV0eGVfdWdWTjh0ZFFJVFpzdlpkeFNsRVh2RXVKeTE4VERHUzRib21vQzJ5ZDZiZWZHaEhtcFVWNDFZQ1NzREZPX3FvS2dUc2tfOF9xei0zVEdwQQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
