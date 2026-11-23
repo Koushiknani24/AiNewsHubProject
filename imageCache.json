@@ -208102,5 +208102,179 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX1ljUzZfMUVVZkFESlVUSlB5R2RPMklyMHhxbEwxSWg2XzgyV1B3M2tCb3BjYWpYWVhOMXBiaDRQM3J5b3hZSUtPdHJCa2ZPOGY1cUk4SFJKdm1WUWt3eDFsbHEtdmdOMzRScVdkVl9TYWx0VWd3d2JFRjRhSVdjMDd2bTZWazZnMmt5WmlXaUMzVzNOVUE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday": {
+        "image": "https://www.google.com/s2/favicons?domain=theverge.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.euronews.com/2026/11/23/eu-targets-chinese-imports-in-fresh-trade-defence-investigation": {
+        "image": "https://www.google.com/s2/favicons?domain=euronews.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://allafrica.com/stories/202611230241.html": {
+        "image": "https://www.google.com/s2/favicons?domain=allafrica.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWHlGY3haY1lYczYtcmlQVmI0T1ZJUm8xQUVnNGlCOGdnZHBMYm5jLXZoRVFkeV9uR3RkbHc5TENEdU05OUNwMFhkaTZOZGNuWVRjOUttTXRwMl85NUJCajl0eGVwYUlDQW9STGx5X3lCa0daSzRObXR5YUM1WWlpME1jU3F0X0s3dGhETnRGWmZxM2FK0gGaAUFVX3lxTFBNUUdKS0NfSXg3akp0cDNSdV9BcjV0RTZzN2RfYjlpeEtWajg1MjVIWlIyMEQyd2lxVFhNUFNub3NXbXJZaGtNeHc3ZzU5QWpTWlVvSlh5RTZpUnlaS3RPYjRFcWc3R3hMelJnVFdiRU9OZndzb01KT1BrQkt6SGM1dEVUYU5NellaN294V2tieGdmVWxRVm1HeXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcjZzMC0wbzFyTDlNVlJOd3BVeU83azhrVENNSlc3WFBqT25TQ1NJSHAyRW1seGcwWnV6SHVveFZhUW9FU2ZRMnpmd0Y3UER2S28yWEQ1LXpTVHhBUllIRkNlNC1BTmp0RmR6UXQxdEtjMFZPUklkdEtJNDVMTmxOQTU2ZS1YaFY2djZBRHNrdU9RZVJ2NzJHMVlqcWc3by14RkdzVVNOQ3EtOGlHZFYzY1VEMzJFTFQtX3lscjg3bXFnTEhnQ21iSlhHSkJMendWQmxtcHFyclFvcVRDdFJsbG1LVzRIVXJ2d1BLZzlIeUtPR0d0NnNSek9aM3BQeWxOZmhHR241Wm1rWVh4bHF0bA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUV9iOEJ5OUhGYnpRbGlPRTFhRVlXMzJYeXJRSlIxR2RrREVzSTRzSTFkcHZSRVBieldrSEF4dHF3OHNIVmh3c0ZPV1BfSkJ4dkhlemc5cFBac3RLQUVrVmxCWDROOC1MVFRjR1drUzVlM2R4ZDlPZVRiOV9sZGxvODd2MFVGdU5VU0pwY3R0MjRiNHJnaktOMG51bTg?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxObjhnanQybWM3LVl3S0ZIeTNnM3hJX09YMXVEekR4ZlR5NlJlZ01FYzlzbVF2NHZCQzdGc0FselZ2RkJLT29DSnROWWM2bm1XcnZBM19WS2x5NVVjeEo1SzB5RjJCUnZoZFdpcy1lUjdrbUFlTnd5NWJBQWZGN01yTWlDTC1QNzJBbHRJX09yd0JDTFJmLXRUMFVyY0dvYXdMbHBsWFloX0gzRUtUamNYb1hXTzZNaE0?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXzBacVJ3Qzh2a21SQlRxaGE3VVdNb085VU55UGVjbXlwNW5qZzN0UE1nV3BMeEx3NUxxUWk4d2hZTno5T2lPRlFXV3Y3Mm1mWlJSNUpvR0VoZjZGODZkdXJmZWVZR29FQjdkT0ZGaTU0ajlSWTFNQ1l5Zm9UWDhNZk1JUUZIcHk0VmtLZjdKTmhYSWhadEVF?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbWR0bkU2OVhEblItVlJfdGlxNUZlQnBvWVVWNHJjSnJPMnRUME5MVXY5YzdhNExQUlZHUVBwd3BOV2hkVGpQcWtnMk5INXpQY1h2cExKbFp3ZkZzdDdzcUtjS2VscW9nT2xYTDZQVFFna0hGVS03TFl5TjhzeEM3OXprQVhSY3RkdGNtbU8yYXpfbEFwdDc0b3Y0cVZXSVQtZ01kUnByN0UtbzRDNEIyZzRQTlJ2WDRwa1NzR3FjZEd2QdIBxwFBVV95cUxQNHRSVHZFNHItUDVzcEpweTlRMUREajZzbk1tYVZCQ24zLW9ldk1ETEx1VFdaWXNRTHBqdTJTdzJySElXYzdIUnN1dUVUbUtyYVZ4azhNb3VoWFhjeTdvVnpZZHQ5SWNnb0todUtKUV9HSVBpOW9QMVRaNmZJTno5RUZuTHotRlZjZFNzRFo1NVJ5YUp1c3FOcXVjWERSZFRhZGtlQmgxb0ZCQW1xb3JBZnVycUVOZ2FSS3hDMzhFZDBmZi0tVXFJ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYjZETDVfV3daMFlCLW9adnNZOS1td0NBQWZBN2xkOE1jZU5pSHNrc28xaGk4dzRfQUJ0eEZ0aWNFWlpIWVVlTHA3cm5mNzVCbXhGazNleXM5X3lUdmtISlZDOFg1Si0wYU9Kd091QnZGRXZYcE9Ka3ltaDV5Z2lKNUZFdEcxVjB3cFhrNXpRX2NGdzR3dzB3VXR4TlVXeE9jWkRjM0l5RWtjWnZhNG1fNHJHMUY?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlZ1QTFwb1BNdU1iOUJ4Y0JDUlQ1VFpaX2VMc0s2QVBOUEFYOEEtT1RhbVlnd1dWNzBoVWtGYzVzUE40MEZ0TTJoRzQ2NF9mOTNkc0s1ekJncUwwSEhKN0U1ckNWQkk0Z0hsTUF4ZGk0aUpYM3lrQ1F2STIwemw2TGw3blo5U0pLajBERUhjd2lVbEFNRnVMSFFYMGtQa1FFQS13YmVsaHVLZVdoQXhyY2RKZGlVNVRPMnNqZ28xNFNCY0lO?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/thailand/general/3359850/thai-national-dress-to-feature-on-un-stamp-series": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZVo3NC1jUmVRNF80YUhmcjluWmNGVExhSVRpUzdFYk1iOVcxUW45S3ZJUkIwMVQ5dUlsdXp6Q3dIaWlIZmsxb3IzVE11X1UwVmloLU1ObDV0RUpWMU5sZ2xHSXhaWTBtVDBPM1Y4UXBmWW9rc2FwYjAxT3EyT3VjQ0c5REVzQlVwNWtVWnBTX05JSmNZak1ZNmhxcw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNFM3MmtldGFubzdUaHgyalNTc21uMC1PdXJvWm1Hc01jemo2bXN1Sl9YXzM4ZW03TWUxSTQ4WVVRQUkzejhFQ2NWM3FPZnFzMFdrUVRxbTJQeG9mczhUUUVlbm1kdXdtandFTGdYRndvOWk1b3V2dF9IMnR1RFlLLTRJNi1XaEpSY2xUTFEzRVl3MVUwdjJnNllsdFRCd0RFakFTX0k3UzRZenUxeWtv?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUhuT3BBQzlvUFBEQjNDam1wcHc0Mkc0dWFTMHFlUjhvVG13M1BVYzBQZkpSQWFPUU10eVJGT1RJTkhvZU5yeGUzTUxZVWJnRjZzeVpLRWJHOFFHUlRidkpzMzdCZUItT1hDVElXMFdkd1d3OEFDRzRtbWM5NTQtTG0wbUFuYTRNXzZ4UmlxTlI0cGVKb0NhdFViQmdTZDNUN0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDlXbXpiU2cwRGZTckR6TUc1RXMyUlBoS1hGd0NBdmEzYTZOQ3hLdElPbkVlU1lfX2g3RGJ4UnZVOFRCY3drMURtdGRBU1FCcDdRVm1RVkNZRS1GRlVUOHhqYmxPRXlvM1FIUzk2ejU4N0xrRW5VOWVZVUVmVFUwTEp3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.dw.com/en/germany-s-early-start-pension-can-child-investment-accounts-help/a-79852185?maca=en-rss-en-bus-2091-rdf": {
+        "image": "https://www.google.com/s2/favicons?domain=rss.dw.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCejZNSjVfdjF1c1VGbzEzbGRzcTNteGh3YU9KbEx5NzU2R2dQQnVoUlh1aUh2NC1XYnhxNmlIbWJkVkwyS1JraXFtZHp1QW43R1dlNUFiRGo5Q0FHdFBMX1B5VnJMMld2YzN2SHZESXBfYjZNcWU4cUt3dGZiX0U?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXloTVBpYnBBV1lPQ0l6dWZiYzZDS1JXTmJfa3Zzb3NLdDJOT25xY1Y4Qk5BWGptNnFvbkM1VlVkM3hHTC1Wd2lZdGw4V0o1ZzBtWk1XSGpXT3l1Rjh3M0pPN3VjX21MQ1hGZTd0RktxdHBEQ2NrOS1uRy1aQjNSRV9vSnUwT2pVZHZ1ajF3dEVZZmZXUUtDdzliaDQxOF9zWWROOXVJaw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbG4xZTAydWxlbWc4YXplRThOSkF1UXl3clBjbFNPLWdsUkdLZUR2b3dIckk4TklIRm5zb1ptQXVHcHJZX0tvR1M1QjJhWGZpWEE0aUZXaTVmYzctYTBTczJnNHk5THAwcC1mMFp6RkRDT2N2ZFhyMEtiUmw3d2lKdVNET0pEUjFTbWtNR0NaaDMyN0FTdlFXNWJzdXlKVkpabEJJakhnZGlEZDBQN2lKd1haWlNvZDliTHZBUFNIQmdDeDdsRFctYjVNYmMxdm9Lbk0xWHVvN1BUQ2hsYXc?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnI5aFg2c29lY202aXpxOW8tX3p2X1JINlVQSnNlY1dYWU1ubmVGekZZTGtvaXRFUldxYURGMDZzNEF4WW8tY0ppbzdrSTQ0LV9saHZCZFpUcThFRUhacGNlTTNOeHc4T2dEYjJvZ0dKVk50MHh6dVNNRVkzOW1Jd2VZWW1jYmNIYkZsYjdKdmdGYVdfbnN1VnI2eVBrbFFTaTdJYw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/europe/turkish-authorities-search-for-lioness-spotted-on-outskirts-of-istanbul": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWxsYjRUNUVtQlVrWm1YSFE3eHduckRPNW5CN0llMTJydFI3dGJIa2ZiTENBSU9HYVYtejVzM2JVUy1nbW9wQmdOZGJhdTlMT2R6cTBYNmFUME9aZ1BhTFI2THpRdlJRY21UeW9odHdFWGZxSjlTSVQ5VlBOV2pSckFraW1JWUtOd3dqVWFDZC0yM0t4RFRKWEktV29YTFdLTlJlZ1NsNlcyZ3phdzlVcTlCQ0pTM29GODhJUDVjUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/features/2026/11/23/military-zones-in-occupied-west-bank-become-israeli-settler-outpost-lands?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU25qTWZidFNXLXNpRGRNajlHQlAxS0pFYzdMb2FYUnBYdlpEU1k3dE9aZG0wa282a1hwTWt4eTI2azNjdlpKLTNuRm9pSVR0RTl4SmZTMXFLVEFfdVN1Y3lLRF9uR0ZUdHU0SXlEU3FQNG5BOV8zeUpmUHphcTZ2Tk5iRklKOHZjYzlDRHpJNHZMOTYtY0Ziakg1Z0xFaDNReWdueVVwcTZuNXNvSWkyeEx6QUhLby1CdUpUMQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
