@@ -208906,5 +208906,173 @@
         "video": null,
         "source": "source_logo",
         "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWW02TUlkV3JXT3ZhX25NWlZ6UlJVRm01UDliVHNjV0ZCUGk0MXMwcVlkYXByNGwxWTNCQ0RCT1IxeFpVRm9jY29sQjR1d2lXOG1SWUdYNVBwdFYzeXZQMTBPb05qRTdWWjY5WW9BVVlXY3R1SmR1WHpJQkgxOVpqTlB1b0tXc0doUUNhRnhJNzlCRWdybnM2QjBkQ2VfcDZ6U2xwanh2NkxfeEtXQm9pY3ZONXpsX1R3RW01bkZoOUtLWThLM3k5SW1VMkJzb1NLWm9pTl9wZ0VLMEE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html": {
+        "image": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.straitstimes.com/world/brazil-zoo-hails-birth-of-spixs-macaw-chick-as-boost-for-species-recovery": {
+        "image": "https://www.google.com/s2/favicons?domain=straitstimes.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/business/ebrard-pushes-more-mexican-exports-to-china/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWHBaa3dyVTVFbzRrTDJHNnlfcEhQNEtCRmd2MTBtUkhBbXZNajhKNUc2NW9MREZhNHFkNG56NnJpVmZDZHNlR1JFVjMtWmN6VmdRNzRPWDdYbURNVXlrTGRkMXE1YkhGMl9uY1dlSFF6ejFKTXI3TTFhajBaVlZKakR1dGhNWFBCSzQ4TmgxRmg2Z2pob1o4OEdsb2RBcU10TUFBUW9TY3l3aEg5QTFha0RadHRZRVUzTVkzMy1B0gG-AUFVX3lxTE1JWkNfcmxacGg2Q1JNY0VaUU5Tb1ZuNTJRTWliajVYbTdERnpKUlZIUDhVblRwRmtuS1U1NnBCNXVBSllLdjR3eVAyZ1IzMWhwTFJHWHZKN3B2c0tYMkpubXRGRFhtMUdleUFvcWVkU3A4ek9uandpc1FTY3drSEYwMnBFVTBad1ZPTDhYLTdhTFh6cUtWeHdsb3FUMjVEbWNTbHp2bDdpc1AxSHlUam1CRVBBSExMWEcxRjJSS0E?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUx2UkFoOEFfbDNuMGNhOExxQlY1LU9BcWFGVnZfYW9OTkxOUlhsV3ZvR2RLT3M2cHlKOXNlQ29sS1NaUEIyRmtVd0xJZDRmeEcxenN1NVd0aDNKNDVMd3BZakh0ZkdwNTRsZ0V4dWlUaTZTSEhjTDdFMzFjV05mNkgxcG9XMmt1QjRoczFB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTlR2M3l3X3hEZklOa1NTZlRmYmluaURQTWRITm9UOWQ0UkZMLUIxUk1tcHBqdTZDWEIyMjNFODc5aWR0YXdicTJEZWhIcC0teDdCV0xNQ29jSjZOWGtqQlNBRFB6UGFHOU96bTJDX0lDTlp3VEFIUVY1aTQ5ZU4zT2dpNThyX3BsRzJWcQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDNWVm13dUM5T3pwdGpRRE1TaXpzVnpBUnhLZkZrcVljNU5KR2RRdWo1LUZjS2VlcEZxR003amczOXMzZzhBWElHckMxVUxUR0ZVOUtDTDhkQnJWdWdtNkxpLWZBaHQ2Mi11WlFaeDBqX25Wcnk4UVNuWFdMOUxXVGlhX0VCalF0LUo1dllEYXdzSnk3WFRvSHEzdmhKUlVyZUFYRzlycHU0dEx4RWhNRnlCRlE1Z9IBvgFBVV95cUxOQTFFS2lENHUyNm5aQmtQTnljNEVKLUFabVFhdE5KRTBxR1dxWU5jLUJfcmptOGNqVW1CNW1FZlAyOE1FS2J5akRlamlHaFkxZnRQNkM3aFo0Nll0a3RJb05RUTd0WlNodWxzaXpPT3JFRzFkUkRiU2JWVnNRVGxOdG9leWg3LWlOeXJLamlVcjB5b1NvdVh3aEdLbVc0ODVWeGpHeWVYbWpMOFF6aldiZTUxVmN1WTNpMzNiWjNn?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bloomberg.com/news/articles/2026-11-25/us-criticizes-australia-social-media-law-as-harming-free-speech": {
+        "image": "https://www.google.com/s2/favicons?domain=feeds.bloomberg.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.politico.eu/article/eu-court-ruling-commission-cage-ban-farmed-animals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication": {
+        "image": "https://www.google.com/s2/favicons?domain=politico.eu&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdGZ2Z1dERTAtenF3MjRYNDlRMTk3R001aFBRcmxLdEcxRm1VbEptNDN5RDYweGpIeERDSERZR19zd1VMZktkMExUaWRDVmk3d0Q2M09vMER3cVkwZUVJN1FGUGZxbUhxY21oOWZmWUhFODBXYmdJU3AtTm4tUDNYckhpel9YcU1fTndmUDF6bkcwTmd6Wnp0QmNFcjZQcGdRS1lTQ1R3LVdMcUNpemY5MGZnWGdLeU9WRm82X0FiR0J2OWFFaXlTSExhX19vVXNlcEt4TVFqaWhZNzI0MWlaTmo3NDhza0h4MHFLNG51VU5QWnpsYmI0TzljMTRqbDB0M2xVbE1pWDJzU0pMWDVmN3E5LUpSTUxxREE3SnNJQzJIUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDJoWjJkZGp5b0VJbEJtNDJzY0VsN1NmbnlJSXctQ00zMUxWZGJOR3ZLbTdwaWNtZWtvQ1FkaG1ZTWJaQUZrMXRkNDhHeHlhNEd5SnZ1c3piVUVGVmFPNXFHblBhcGJybTRGQVNTbnBBaFRuQ0JOQlF2bzlwaXM1WEQ2aTlhNVpzWDZlLUdCNVFwUHVt?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcTdQVVhHalgzTE5NNWNxUE9hajBfQmpLM2hWaHBlMzhGLUtOR1dZaW9XeWNkaGgtdDlFNjdaU2g4TzRUcmxfNDEtc2xUTUZiVXY2WGYzQW9WZ2RqNTR4TlNpeGtJeC1XRWRMdERCYU9STS15UUpjR2hzcC1GaGFoeHp1MUtEUnNwNGpVZFRHbw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxONnYxSERfLXpLbnI2dDFmN2VlU0xOQ2tadjFVbkZVMDNfSU9UQi1xUkI3a09BQmNCM1dNUzNETVNzVWZncVZCam1XQWJkTWdfR2dTbjJPc1hERHk3WnJ3VDY3VGdXX21GM0JKanNmQllHNVdVNjFoTFk4a19nc0ZOREpxWXJZU0RYSDlDSHNyancxc0VGZ2wtSm1abUdwUWRJa1Rmc28tbFNISnBGNmVnV0VRS0FFcm5Qcy11ZkFqT1llbUhpRHdYcEpKR0ViUFE?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.bangkokpost.com/business/general/3360654/ai-cyberattacks-raise-security-concerns": {
+        "image": "https://www.google.com/s2/favicons?domain=bangkokpost.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnNZcmZpZjJDZlR4cXZkZGhIU2p4QXV4M3pUWF9EVjJsTndtdzd0YkxQRGY4VWNEQVFOOTAyNFBsakM3Ti1sNG9BcG1aMGFfOGIxZ2xLNGxPUFpOWWZJeWdNc1Nqczd1aGlQNlJlRjQ3VjRYdVRDOXFfdWdzMHBRTG1GNzFvMjZRT3k1empaSGw5dGpLbTVrZFNWOTZ4aWd0Rk9YWTJoa3JXVVZYREQyV9IBtgFBVV95cUxOeTBJUWdvTVV0cWhBSnk1Mjl3VUxIaU1nRU43bmt6U2VpTUJDUzM5S2xZOUNkYXE1bkVNYnRnaTNncnpISWJCTE5iV3JMeXRrYXBXcmU4eUJWYUpWNG9UVlZmdEFEOEpVbmhtakZxT0V3NW1XRG1yME02S3hKR3BITWQ5RjVyYlU2UWxWY1A5Q1RmdXlsd2E3VXM1WGJsUnRvY3lnWlpGbU5PYWxBZS1KLXY0QkFuUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdjZVLVU3RnVMWXdvYUpUUkdTcVVCTjVvdkR1NG12eUNYalM5bTJVbVFndmFEZ2d1UGhUeEROM2lMcTRuMHBQQmh6amtpaWJIc0k1aHdBMEZvRUNEUndCYWJZZnIxS0x0OFNuRmgxMl90VEZKVVVwZVB2d0swTmpyQjdaejluSXRVeGNrVEMzU21zMkhIT21uSWNvM0cza1RYdkFDeW9OdVNIdGhtcW1PRTJmUQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://mexiconewsdaily.com/news/nescafe-coffee-producers-protest/": {
+        "image": "https://www.google.com/s2/favicons?domain=mexiconewsdaily.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFlwTC1LbEZzQmdMcExTMU5Hc094STh4bkdNTEtHeFUyQ0pmNkNQRzhxUjRDbFAtV2tDTFd2Ni1nZzJ1ZzBYRlp0TE5HaVFybFJNUEhOWnlWNEpVWjRzdkxLNkVuSlhXMk1PYjZ1RmxhLWVJc09BNEYxM2tzaHlUc1dXRkNoRHVBZVRRQ1NrU2VGNWRjd3g2Z2xNVQ?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa1FIVjB5VkF0MjhmZHIwblQ2NXhZMVJsQWFVWXNsMExYVW9TTGdTRjFCeU1fblVJaXFqd1FVLW1Yc05OMDc4V0xiWnFnMTBDc3dDYjBMX21MOGJkU1h3MmJ1V0dwT1N2OUFBdmZ3UmN0bTdoWjZQQUduWkExN0x5Q25rUU9QRjg3aEE4QnZGRy1pN0VQTm50ZUprTldjMWtsLTU3X2poZWxhZjlvLUtiSDZpWjFuTHdQcGVoVGpldTlhQdIBxwFBVV95cUxOREw3U0drX3JyM1dhRHBpUlkyR0E4TUM0QVlYRld2a3RPQVNGT0R5WUhYYXJmdTdEeWVvYmVlWGlCcXQtZWx3WkRBWlZPeUtLSmtLOXRsTzdFZnViZnlrZWVrYnZBSlhNZFVsblR3Tnh5cHJwanJvWm8tdlFRcGdZQVBidGtvcFlOZnBlcTBJXzQ0blpWYjhIZkdyNDFEMHVuUjZ5U1Z0UkJyQjdmYVJwbW1tc0tBd3pYNTR5UFJ6TnBSS24yN0lr?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHFfX3VQVnNva1FOWXRXSmZBc2QtYjMwMnJvcTVwRmRaVDJoOTQxVU41MHJqaHdkQmMtR2VONTdpLTlzOHY4TnI5Rjc5cjdfQkp3bk9HNWVkVXAxMlItcDJ1dmJuZmdaQ0tuM3NkUmFrVmpESkdNc3hkT2J5ZVY1NVFvWVZSZ2FZVHd4THVSeUIya3JRd3RLOUxzblFLZTQtbkRNbk8zd3BxSDBBdHFYblR4OA?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzNNcm1vQTZCdkNxTC10cGFWWHY3RjEyWlhZUVh2dE82UHVFWXpzVXhMLUszMGJvRVgxcml2WHZyVG9XWjBTQ2NGZUcyc0ZDSDRqV2VkNWtEY2pOZnBjRzZVbmtWcHZGNzFHMFd0SWVzVWx2Tkhwd2p1S1A1MEdLUF9yS0ZzUG5vcXIyNFRuazh6M2dqTUlpTU1rcE5tNDZ6Y3ZtUkZIR29wcDRBSjRUbjI2Y2NyUWhBRDd3?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3RqVTcxc3paUjNTdE83YTJJdUd1ZzRya0Y5U3RjUkwwc1FILXFHYUV1Q2xlWldBNHo5RURMaEhOdXVfdWdQR01YNzhlRWx1bk9CWnVERE1vMmYxZktSUENUZ2hwM1EzUUY0cldja3ZhZGVubmxMaW9XQnAydnc5SHlrbzZRamx5?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV01aMWExQlJrUXNiek0ySzBEYmhmeWVvVEthYjhtOUZCU1RBX2pFbjY1c3c2eGRpSTV6cVFLdzVCX0dTSkRtUlc1MXNNbDQyM1AzS0tMNzNpME1qUzcwUEJsbzVOU2hzRkZtSFVYc2M0V0pLd2s1VlduRHpZLXR5Y3ltWlAxWTA4dUFJOVZucU9YMXdvd1lpQ0hrWDNvV2lHb01KUG1wRURId09JODA3ZGROU0dWVXlfZUNoajRSZFljQmFPaFNHR0Z0Y0Rodkk5SllsbHNrNjBETnBsQmRHN2FB?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb0NHejRuTnMySXVhR0RYNVJxaWVKQm9zWjVCY1p2QXRTUHJnRUJZZHBDeGJTdzAwSUdpcU1ZWEJ3Mk14Q0pOaURfUmJnbFNxRUZsODh6Tkw2aUYzM1N6TGRBc3kwclA0eWtvbThyMnExTGxOQzdDdmIwZ093RjZFem9ZUzNTUmFiYjB0VV9yTTRIM1I3S3c?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss": {
+        "image": "https://www.google.com/s2/favicons?domain=aljazeera.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
+    },
+    "https://news.google.com/rss/articles/CBMiigJBVV95cUxNOER3bG5BaVFNYUU2VUNWRHlHOWVCck1fY250bmM3UzhDeGIxQnlreEUySVdsR0p4aDBVSVpDOTAzcDBHaXllV2tKTERvSDJHUk95RkxhNEZVdGRLODlFckk2RkRCQW5FQUpIN0RidXpCUGhETTlwQ1NKVTFEZVNEc0NDR0hvWnlsSjh6NkxfdHVhNnVXRk1mdGVRS19LWXRGZlVEYjFHQ2c4cktNX29xNUxqbzU1djFJVHNkUHpEczNHN2ZQTURLOUVkREtKX2I2WnptZURYVllVTmFaTXotNTZhbWkwUUc2T0RTdzNjcnVPTmxfYnd2cFptMUxjS00zR0tHQ080T29KZw?oc=5": {
+        "image": "https://www.google.com/s2/favicons?domain=news.google.com&sz=256",
+        "video": null,
+        "source": "source_logo",
+        "is_logo_fallback": true
     }
 }
